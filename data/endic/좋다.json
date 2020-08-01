@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(상태·품질 등이) good, fine, nice, (다른 것보다) better (than), superior (to)",
+        "(성격·인품 등이) good, nice, good-natured",
+        "(건강·체격 등이) good, fine, (체격이) well-built"
+      ]
+    },
+    {
+      "phrase": "보기 좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be nice to look at",
+        "be attractive",
+        "be good-looking"
+      ]
+    },
+    {
+      "phrase": "운이 좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be lucky[fortunate]",
+        "have good luck"
+      ]
+    },
+    {
+      "phrase": "몸에 좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be good for (one's) health",
+        "be wholesome",
+        "be healthful"
+      ]
+    },
+    {
+      "phrase": "기분이 좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "feel good[well]",
+        "be in a good mood[humor]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "suit",
+      "frequency": 3
+    },
+    {
+      "meaning": "rather",
+      "frequency": 3
+    },
+    {
+      "meaning": "cool",
+      "frequency": 3
+    },
+    {
+      "meaning": "look good",
+      "frequency": 0
+    },
+    {
+      "meaning": "match up (to somebody/something)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이번엔... - 좋다! This time... - Nice! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "This time... - Nice!"
+    },
+    {
+      "korean": "오늘 하늘 되게 좋다 하늘~ The sky is really pretty today. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "The sky is really pretty today."
+    },
+    {
+      "korean": "좋다! - 왜 아무도 안 했지? Good! - Why didn't anybody say this earlier? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Good! - Why didn't anybody say this earlier?"
+    },
+    {
+      "korean": "'Jazz Bar' 너무 좋다 진짜~ - 볼까요? \"Jazz Bar\" is so nice. - Should we take a look? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "\"Jazz Bar\" is so nice. - Should we take a look?"
+    },
+    {
+      "korean": "슬라임 카페는 그 슬라임 만드는 건가? 오~ 좋다! Is it where you make slime? Oh, nice! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Is it where you make slime? Oh, nice!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Soft water is kinder to your hair. 듣기 Add to Wordbook 연수가 머리카락에 더 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Soft water is kinder to your hair. Add to Wordbook"
+    },
+    {
+      "korean": "He is overweight and out of condition. 듣기 Add to Wordbook 그는 과체중이고 건강 상태가 안 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is overweight and out of condition. Add to Wordbook"
+    },
+    {
+      "korean": "This detergent is good for getting stains out. 듣기 Add to Wordbook 이 세제는 얼룩 제거에[때를 빼는 데] 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This detergent is good for getting stains out. Add to Wordbook"
+    },
+    {
+      "korean": "Sponsoring the local team is good for public relations. 듣기 Add to Wordbook 지역 스포츠 팀을 후원하는 것은 대민 관계에 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sponsoring the local team is good for public relations. Add to Wordbook"
+    },
+    {
+      "korean": "to have good/perfect/poor/blurred/normal vision 듣기 Add to Wordbook 시력[눈]이 좋다/완벽하다/나쁘다/시야[눈]가 흐릿하다/시력[눈]이 정상이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to have good/perfect/poor/blurred/normal vision Add to Wordbook"
+    }
+  ]
+}

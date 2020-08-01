@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "없는 것이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack nothing, soup-to-nuts"
+      ]
+    },
+    {
+      "phrase": "변함없다",
+      "hanja": " (變―)",
+      "example": {},
+      "meanings": [
+        "unchanging, unchanged, constant"
+      ]
+    },
+    {
+      "phrase": "재미없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "flat, (흥미 없다) boring, dull, uninteresting, (formal) insipid",
+        "(신상에 해롭다)"
+      ]
+    },
+    {
+      "phrase": "상관없다",
+      "hanja": " (相關―)",
+      "example": {},
+      "meanings": [
+        "(관계없다) have nothing to do with",
+        "(괜찮다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "desert",
+      "frequency": 3
+    },
+    {
+      "meaning": "hardly",
+      "frequency": 3
+    },
+    {
+      "meaning": "make a, no, some, etc. difference (to/in somebody/something)",
+      "frequency": 0
+    },
+    {
+      "meaning": "have a good[a bad, no] sense of direction[bearing]",
+      "frequency": 0
+    },
+    {
+      "meaning": "be…in[out of] pocket",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[없어서 좋은 사람] 없다! 없다! [This one] I don't have it! 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[This one] I don't have it!"
+    },
+    {
+      "korean": "[그 누구도 믿을 수 없다!] [They can't trust anyone!] View video BLACKPINK : BLACKPINK - BLACKPINK'S 2020 WELCOMING COLLECTION PREVIEW",
+      "english": "[They can't trust anyone!]"
+    },
+    {
+      "korean": "[흔들] 14번 빼자, 14번 빼자, 14번밖에 없다! [Shaking] #14, #14, it's the only one! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Shaking] #14, #14, it's the only one!"
+    },
+    {
+      "korean": "그거는 동그라미 칩시다 - 동그라미를 칠게요 그냥 - 없다! Let's circle it. - Okay, let's circle it. - No 40! 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Let's circle it. - Okay, let's circle it. - No 40!"
+    },
+    {
+      "korean": "[사진은 포기 할 수 없다!!] [I can't give up!] View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.01",
+      "english": "[I can't give up!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There is no airport in the locality. 듣기 Add to Wordbook 이[그] 인근에는 공항이 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is no airport in the locality. Add to Wordbook"
+    },
+    {
+      "korean": "We have no quarrel with his methods. 듣기 Add to Wordbook 우리는 그의 방법에 대해 불만 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have no quarrel with his methods. Add to Wordbook"
+    },
+    {
+      "korean": "Alcohol negates the effects of the drug. 듣기 Add to Wordbook 술을 마시면 그 약이 효과가 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Alcohol negates the effects of the drug. Add to Wordbook"
+    },
+    {
+      "korean": "We have no way of verifying his story. 듣기 Add to Wordbook 우리는 그의 이야기를 확인할 길이 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have no way of verifying his story. Add to Wordbook"
+    },
+    {
+      "korean": "The economy shows no signs of faltering. 듣기 Add to Wordbook 경제가 흔들리고 있다는 조짐은 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The economy shows no signs of faltering. Add to Wordbook"
+    }
+  ]
+}

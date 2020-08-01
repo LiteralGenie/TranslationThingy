@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "자신감",
+      "hanja": " (自信感)",
+      "example": {},
+      "meanings": [
+        "confidence, self-confidence"
+      ]
+    },
+    {
+      "phrase": "자신감을 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gain confidence"
+      ]
+    },
+    {
+      "phrase": "자신감을 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose one's confidence (in)"
+      ]
+    },
+    {
+      "phrase": "자신감[흥미]을 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose confidence[interest]"
+      ]
+    },
+    {
+      "phrase": "자신감을 심어 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give sb confidence",
+        "boost[increase] sb's confidence",
+        "raise[build (up), boost] sb's self-esteem"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "confidence",
+      "frequency": 2
+    },
+    {
+      "meaning": "bottle",
+      "frequency": 2
+    },
+    {
+      "meaning": "assurance",
+      "frequency": 1
+    },
+    {
+      "meaning": "autovoxophilia",
+      "frequency": 0
+    },
+    {
+      "meaning": "motivational design of instruction",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[알 수 없는 자신감이 차올랐다] 금방 하지! [Groundless confidence] I'm sure we can! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[Groundless confidence] I'm sure we can!"
+    },
+    {
+      "korean": "아니, 다들 왜 이렇게 자신감이 넘치죠? Why are you all so confident? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Why are you all so confident?"
+    },
+    {
+      "korean": "이렇게 자신감 넘치는 멤버들에 비한다면 저는 사실 뭐... Comparing with those confident members... I just ... 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Comparing with those confident members... I just ..."
+    },
+    {
+      "korean": "무슨... 무슨 자신감이지? Why is he so confident? 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "Why is he so confident?"
+    },
+    {
+      "korean": "[자신감에 넘쳐서] 할 수 있죠! [Confident] Yes, I can! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.18 논리나잇 Ⅱ #1 (Debate Night Ⅱ #1)",
+      "english": "[Confident] Yes, I can!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She always has an aura of confidence. 발음듣기 그녀는 항상 자신감이 있어 보인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She always has an aura of confidence. 발음"
+    },
+    {
+      "korean": "He feels more confident on home turf. 발음듣기 그는 홈그라운드에 있을 때 더 자신감을 느낀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He feels more confident on home turf. 발음"
+    },
+    {
+      "korean": "She walked into the party oozing confidence. 발음듣기 그녀는 자신감을 내뿜으며 파티장으로 걸어 들어왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She walked into the party oozing confidence. 발음"
+    },
+    {
+      "korean": "It seemed that nothing could dent his confidence. 발음듣기 그 무엇도 그의 자신감을 꺾지는 못할 것 같았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It seemed that nothing could dent his confidence. 발음"
+    },
+    {
+      "korean": "Self-doubt began to gnaw away at her confidence. 발음듣기 자기 회의가 그녀의 자신감을 갉아먹기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Self-doubt began to gnaw away at her confidence. 발음"
+    }
+  ]
+}

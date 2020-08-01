@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "식당",
+      "hanja": " (食堂)",
+      "example": {},
+      "meanings": [
+        "(음식점) restaurant, caf; (작은) bistro; (값싼 음식을 파는) (Am) diner; (간단한 먹거리와 음료를 파는) tearoom, coffee bar, snack bar, (Am) coffee shop; (구내식당) cafeteria, (Am) lunchroom, (Brit) canteen; (군대의) mess hall"
+      ]
+    },
+    {
+      "phrase": "구내식당",
+      "hanja": " (構內食堂)",
+      "example": {},
+      "meanings": [
+        "cafeteria, (Brit) canteen, (Brit) refectory"
+      ]
+    },
+    {
+      "phrase": "간이식당",
+      "hanja": " (簡易食堂)",
+      "example": {},
+      "meanings": [
+        "snack bar"
+      ]
+    },
+    {
+      "phrase": "싸구려 식당",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an eating house",
+        "a cheap restaurant"
+      ]
+    },
+    {
+      "phrase": "식당 종업원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a restaurant employee"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "house",
+      "frequency": 2
+    },
+    {
+      "meaning": "common",
+      "frequency": 2
+    },
+    {
+      "meaning": "mess",
+      "frequency": 2
+    },
+    {
+      "meaning": "hotel",
+      "frequency": 2
+    },
+    {
+      "meaning": "restaurant",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"식당 밥 공기 작아?\" \"Was the rice bowl small\"? 듣기 View video Stray Kids : 이또아승🦊🐶Ep.1 다시...ㅠ",
+      "english": "\"Was the rice bowl small\"?"
+    },
+    {
+      "korean": "여기 식당인데, 되게 유명한 식당인데 요즘... It's a famous restaurant these days. 듣기 View video NCT : 여러분도 올래요?",
+      "english": "It's a famous restaurant these days."
+    },
+    {
+      "korean": "식당이라고 해야 하나요? there's a place like a restaurant. 듣기 View video NU'EST : [NU’EST REN] 러브들♥️",
+      "english": "there's a place like a restaurant."
+    },
+    {
+      "korean": "아니 식당에서 - 식당에서? - 저는... No, at the cafeteria. - The cafeteria? - I... 듣기 View video Stray Kids : SKZ-LIFE (슼즈라이프) Ep.02📸",
+      "english": "No, at the cafeteria. - The cafeteria? - I..."
+    },
+    {
+      "korean": "뉴이스트의 심야식당 오늘도 어떻게? So what are we going to do for today's V LIVE? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "So what are we going to do for today's V LIVE?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The children were banished from the dining room. 발음듣기 아이들은 벌로 식당에서 쫓겨났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The children were banished from the dining room. 발음"
+    },
+    {
+      "korean": "There are three dining halls on campus. 발음듣기 캠퍼스 내에 식당이 세 군데 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There are three dining halls on campus. 발음"
+    },
+    {
+      "korean": "He waxed lyrical on the food at the new restaurant. 발음듣기 그는 그 식당의 음식에 대해 (말을 하면서 차츰) 열정적이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He waxed lyrical on the food at the new restaurant. 발음"
+    },
+    {
+      "korean": "the segregation of smokers and non-smokers in restaurants 발음듣기 식당에서 흡연자와 비흡연자의 분리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the segregation of smokers and non-smokers in restaurants 발음"
+    },
+    {
+      "korean": "Hot and cold food is available in the cafeteria. 발음듣기 자율 식당에서는 따뜻한 음식과 찬 음식을 먹을 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hot and cold food is available in the cafeteria. 발음"
+    }
+  ]
+}

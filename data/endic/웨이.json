@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "웨이",
+      "hanja": " (威(위))",
+      "example": {},
+      "meanings": [
+        "지명 Wei"
+      ]
+    },
+    {
+      "phrase": "웨이",
+      "hanja": " (魏(위))",
+      "example": {},
+      "meanings": [
+        "지명 Wei"
+      ]
+    },
+    {
+      "phrase": "weigh",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 무게[체중]가 …이다",
+        "Verb 무게[체중]를 달다",
+        "Verb (결정을 내리기 전에) 따져 보다, 저울질하다"
+      ]
+    },
+    {
+      "phrase": "way",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 방법, 방식, 식, 투 (→third way)",
+        "Noun (특정한 행동) 방식, 태도",
+        "Adverb 아주 멀리; 큰 차이로, 훨씬"
+      ]
+    },
+    {
+      "phrase": "weight",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 무게, 체중 (→overweight, underweight)",
+        "Noun (무거운) 무게 (→deadweight)",
+        "Verb (봉추 등을 매달아) 무겁게 하다[무게를 주다]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Way",
+      "frequency": 0
+    },
+    {
+      "meaning": "Weigh",
+      "frequency": 0
+    },
+    {
+      "meaning": "caraway",
+      "frequency": 0
+    },
+    {
+      "meaning": "seed cake",
+      "frequency": 0
+    },
+    {
+      "meaning": "waypoint",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "멋있잖아요 런웨이! So cool! The runway! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "So cool! The runway!"
+    },
+    {
+      "korean": "넌 내면적으로도 마이웨이야? Personality-wise, you were on your own? 듣기 View video V PICK! : [TXT] 상큼 체리와 사과 등장에 우주 만물 다ㅠ뿌ㅠ셔ㅠ🍒🍎(TAEHYUN&BEOMGYU's Universe Smash Radio)",
+      "english": "Personality-wise, you were on your own?"
+    },
+    {
+      "korean": "런웨이 공약 어때요? - 좋아요 좋아요! What do you think about a runway promise? - I like it! 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "What do you think about a runway promise? - I like it!"
+    },
+    {
+      "korean": "그래도 엄마한테 좀 가까운 것 같아요 - 넌 내면적으로도 마이웨이냐? I guess I'm more like my mother. - Personality-wise, you were on your own? 듣기 View video TOMORROW X TOGETHER : 우주뿌셔라디오🍎🍏",
+      "english": "I guess I'm more like my mother. - Personality-wise, you were on your own?"
+    },
+    {
+      "korean": "댓글을 조금만 더 읽어보고 시행을 할까요? - 런웨이를 시작해볼까요? Should we read some comments before we start? - Should we start the runway? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Should we read some comments before we start? - Should we start the runway?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "In my last job, I ran the United Way campaign for three consecutive years. 발음듣기 전 직장에서 유나이티드 웨이 모금 캠페인을 3년 연속 진행했습니다. DARAKWON",
+      "english": "In my last job, I ran the United Way campaign for three consecutive years. 발음"
+    },
+    {
+      "korean": "laneway house in the Metro Vancouver area 발음듣기 메트로 밴쿠버 지역의 레인웨이 하우스 국제영어대학원대학교 신어사전",
+      "english": "laneway house in the Metro Vancouver area 발음"
+    },
+    {
+      "korean": "Could you carry this food to the kitchen through the breezyway? 발음듣기 음식을 브리지웨이를 통해 부엌으로 옮겨 줄래? 국제영어대학원대학교 신어사전",
+      "english": "Could you carry this food to the kitchen through the breezyway? 발음"
+    },
+    {
+      "korean": "a fully paid-up zero waster 발음듣기 아주 열렬한 제로 웨이스터 국제영어대학원대학교 신어사전",
+      "english": "a fully paid-up zero waster 발음"
+    },
+    {
+      "korean": "Drone operators should abide by the droneway. 발음듣기 드론 조종사들은 드론웨이를 준수해야 합니다. 국제영어대학원대학교 신어사전",
+      "english": "Drone operators should abide by the droneway. 발음"
+    }
+  ]
+}

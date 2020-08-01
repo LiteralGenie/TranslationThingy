@@ -1,0 +1,97 @@
+{
+  "phrases": [
+    {
+      "phrase": "실재",
+      "hanja": " (實在)",
+      "example": {},
+      "meanings": [
+        "existence, exist"
+      ]
+    },
+    {
+      "phrase": "실재의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "actual",
+        "real",
+        "existent"
+      ]
+    },
+    {
+      "phrase": "실재하지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be unreal",
+        "be non-existing"
+      ]
+    },
+    {
+      "phrase": "실재 인물",
+      "hanja": " (實在人物)",
+      "example": {},
+      "meanings": [
+        "an actual person, a real person"
+      ]
+    },
+    {
+      "phrase": "실재하다",
+      "hanja": " (實在하다)",
+      "example": {},
+      "meanings": [
+        "Verb exist in reality"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "being",
+      "frequency": 3
+    },
+    {
+      "meaning": "existence",
+      "frequency": 3
+    },
+    {
+      "meaning": "actuality",
+      "frequency": 3
+    },
+    {
+      "meaning": "esse",
+      "frequency": 0
+    },
+    {
+      "meaning": "sat 3",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[JEFF WEISS - LA WEEKLY] 이 예술은 특징상 특히 음악을 함께 틀면 실재하게 돼요. [JEFF WEISS - LA WEEKLY] Because of the art form, especially with music, it's being tangible. 듣기 View video WAV : [Versus]: Ep. 5.5 The Fourth Elimination",
+      "english": "[JEFF WEISS - LA WEEKLY] Because of the art form, especially with music, it's being tangible."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "actual being 듣기 Add to Wordbook 실재. Friendict Level English-Korean Dictionary",
+      "english": "actual being Add to Wordbook"
+    },
+    {
+      "korean": "There was no real barrier between reality and fantasy in his mind. 듣기 Add to Wordbook 그의 마음속에서는 현실과 공상 사이에 실재하는 벽이 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was no real barrier between reality and fantasy in his mind. Add to Wordbook"
+    },
+    {
+      "korean": "Harry Potter is an obusion; children write letters to him. 듣기 Add to Wordbook 해리 포터는 아이들에게 있어서 실재한다. 그들은 해리포터에게 편지를 쓰기도 한다. 국제영어대학원대학교 신어사전",
+      "english": "Harry Potter is an obusion; children write letters to him. Add to Wordbook"
+    },
+    {
+      "korean": "God is the ultimate ground of all reality. 듣기 Add to Wordbook 신은 모든 실재의 궁극적 근원이다. Friendict Level English-Korean Dictionary",
+      "english": "God is the ultimate ground of all reality. Add to Wordbook"
+    },
+    {
+      "korean": "tangible benefits/improvements/results, etc. 듣기 Add to Wordbook 분명히 실재하는 혜택/개선/결과 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "tangible benefits/improvements/results, etc. Add to Wordbook"
+    }
+  ]
+}

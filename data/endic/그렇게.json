@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "그렇게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그토록) so, that, (부정문에서) not (all) that, not very",
+        "(그런 식으로) so, like that, in that manner, (in) that way"
+      ]
+    },
+    {
+      "phrase": "그렇다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(대답) yes, (부정문에 대한 대답) no",
+        "(기타)"
+      ]
+    },
+    {
+      "phrase": "왜 그렇게 서둘러?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What's the hurry?"
+      ]
+    },
+    {
+      "phrase": "그렇게 바빠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Are you that busy?"
+      ]
+    },
+    {
+      "phrase": "그렇게 좋아?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Are you that glad?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "so",
+      "frequency": 3
+    },
+    {
+      "meaning": "so 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "that",
+      "frequency": 3
+    },
+    {
+      "meaning": "tanto",
+      "frequency": 0
+    },
+    {
+      "meaning": "It is[was] that (just) like that",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇게!",
+      "english": "Just like that!"
+    },
+    {
+      "korean": "내가 그렇게 말을 많이 했어요?",
+      "english": "Did I talk that much?"
+    },
+    {
+      "korean": "아 그렇게 들어오지 말고!",
+      "english": "Oh, don't come in like that!"
+    },
+    {
+      "korean": "왜 다들 그렇게 웃고 있어요?",
+      "english": "Why do you laugh like that?"
+    },
+    {
+      "korean": "그렇게 비싼 차를 제가 어우~",
+      "english": "That kind of expensive... Oh no!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그렇게 높이 올라가자 나는 어지러웠다.",
+      "english": "Climbing so high made me feel dizzy."
+    },
+    {
+      "korean": "어디에 가서 그렇게 선탠을 하셨어요?",
+      "english": "Where have you been to get that suntan?"
+    },
+    {
+      "korean": "그는 그렇게 맞고[그 타격에] 의식을 잃었다.",
+      "english": "He was knocked senseless by the blow."
+    },
+    {
+      "korean": "그가 그렇게 생각이 없다니 정말 놀랍다.",
+      "english": "It astonishes me (that) he could be so thoughtless."
+    },
+    {
+      "korean": "어떻게 모든 일이 그렇게 처참하게 잘못될 수가 있지?",
+      "english": "How could everything go so disastrously wrong?"
+    }
+  ]
+}

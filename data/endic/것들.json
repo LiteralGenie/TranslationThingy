@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사물) thing, (대명사적) one",
+        "(사람을 낮추는 말)",
+        "(소유물)"
+      ]
+    },
+    {
+      "phrase": "새것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "new one, new thing"
+      ]
+    },
+    {
+      "phrase": "남은 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remnants",
+        "leftovers",
+        "remainders"
+      ]
+    },
+    {
+      "phrase": "나의 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mine"
+      ]
+    },
+    {
+      "phrase": "어느 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "which one",
+        "which"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stuff",
+      "frequency": 3
+    },
+    {
+      "meaning": "those",
+      "frequency": 3
+    },
+    {
+      "meaning": "ones-are",
+      "frequency": 0
+    },
+    {
+      "meaning": "jonx",
+      "frequency": 0
+    },
+    {
+      "meaning": "will",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "숙소에서 보통 시켜 먹는 음식은 어떤 것들이 있어요? What do you usually order in? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "What do you usually order in?"
+    },
+    {
+      "korean": "예지몽에 대한 이런 것들에 대한 얘기를 하는 거겠죠? Is it talking about a postmonition? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Is it talking about a postmonition?"
+    },
+    {
+      "korean": "그럼 남은 것들은 어떻게 해요? How are you going to deal with the remaining books? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "How are you going to deal with the remaining books?"
+    },
+    {
+      "korean": "그런 것들? Things like that? 듣기 View video SEVENTEEN : 깜짝🦦",
+      "english": "Things like that?"
+    },
+    {
+      "korean": "근데 다 제가 못 하는 것들이어서... I'm not good at those... 듣기 View video TOMORROW X TOGETHER : 수빈입니다!",
+      "english": "I'm not good at those..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They sell stationery and stuff (like that). 듣기 Add to Wordbook 그들은 문구류와 뭐 그런 것들을 판다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They sell stationery and stuff (like that). Add to Wordbook"
+    },
+    {
+      "korean": "Most of my football stickers are swaps. 듣기 Add to Wordbook 내 축구 스티커는 대부분 교환한 것들이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of my football stickers are swaps. Add to Wordbook"
+    },
+    {
+      "korean": "Try not to clutter your head with trivia. 듣기 Add to Wordbook 하찮은 것들로 머리 복잡하게 만들지 마. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Try not to clutter your head with trivia. Add to Wordbook"
+    },
+    {
+      "korean": "There are so many unknowns in the proposal. 듣기 Add to Wordbook 그 제안서에는 알 수 없는 것들이 너무 많다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There are so many unknowns in the proposal. Add to Wordbook"
+    },
+    {
+      "korean": "We all have our fears and insecurities. 듣기 Add to Wordbook 우리는 모두 각자 두려워하고 불안해하는 것들이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We all have our fears and insecurities. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "징발",
+      "hanja": " (徵發)",
+      "example": {},
+      "meanings": [
+        "put (sth) in requisition, requisition, requisition (from), commandeer, lay (sth) under requisition"
+      ]
+    },
+    {
+      "phrase": "징발되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be placed under requisition"
+      ]
+    },
+    {
+      "phrase": "식량 징발",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "requisition for provisions"
+      ]
+    },
+    {
+      "phrase": "징발을 면하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be exempted from requisition"
+      ]
+    },
+    {
+      "phrase": "거마를 징발하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "press carriages and horses into service"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "press 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "expropriation",
+      "frequency": 0
+    },
+    {
+      "meaning": "impressment",
+      "frequency": 0
+    },
+    {
+      "meaning": "scrounging",
+      "frequency": 0
+    },
+    {
+      "meaning": "commandeering",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "the requisition of ships by the government 듣기 Add to Wordbook 정부의 선박 지원 요구[선박 징발] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the requisition of ships by the government Add to Wordbook"
+    },
+    {
+      "korean": "The school was requisitioned as a military hospital. 듣기 Add to Wordbook 그 학교는 군 병원으로 징발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The school was requisitioned as a military hospital. Add to Wordbook"
+    },
+    {
+      "korean": "forage corn from farmers 듣기 Add to Wordbook 농부에게 곡물을 마량으로 징발하다. Friendict Level English-Korean Dictionary",
+      "english": "forage corn from farmers Add to Wordbook"
+    },
+    {
+      "korean": "The army made a requisition on the villagers for provisions. 듣기 Add to Wordbook 군(軍)이 마을 사람들에게 식량 징발 명령을 내렸다. Friendict Level English-Korean Dictionary",
+      "english": "The army made a requisition on the villagers for provisions. Add to Wordbook"
+    },
+    {
+      "korean": "The army requisitioned the village for stores. 듣기 Add to Wordbook 군은 그 마을에서 비축 식량을 징발했다. Friendict Level English-Korean Dictionary",
+      "english": "The army requisitioned the village for stores. Add to Wordbook"
+    }
+  ]
+}

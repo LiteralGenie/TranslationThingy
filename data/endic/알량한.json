@@ -1,0 +1,55 @@
+{
+  "phrases": [
+    {
+      "phrase": "알량하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "petty"
+      ]
+    },
+    {
+      "phrase": "알량한 소리를 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make grand talk indeed",
+        "talk nonsense[rot]",
+        "say silly things"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "make grand talk indeed",
+      "frequency": 0
+    },
+    {
+      "meaning": "this son of yours",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "I lost a good chance because of my petty pride. 듣기 Add to Wordbook 알량한 자존심 때문에 좋은 기회를 놓쳤다 Neungyule",
+      "english": "I lost a good chance because of my petty pride. Add to Wordbook"
+    },
+    {
+      "korean": "Oh, a fine fellow! 듣기 Add to Wordbook 알량한 놈! Dong-a's Prime English-Korean Dictionary",
+      "english": "Oh, a fine fellow! Add to Wordbook"
+    },
+    {
+      "korean": "Stuff and nonsense! or None of your nonsense now! 듣기 Add to Wordbook 알량한 소리 작작해라! Dong-a's Prime English-Korean Dictionary",
+      "english": "Stuff and nonsense! or None of your nonsense now! Add to Wordbook"
+    },
+    {
+      "korean": "And please, don't bother firing yourself up to challenge me out of some fool notion of pride. 듣기 Add to Wordbook 그리고 그 알량한 자만심으로 스스로를 부추겨 내게 도전하는 일은 없도록 해주면 좋겠군. 소용 없는 일이니까. hansemEUG",
+      "english": "And please, don't bother firing yourself up to challenge me out of some fool notion of pride. Add to Wordbook"
+    },
+    {
+      "korean": "You think you can end a feud older than your petty Empire by destroying both sides? 듣기 Add to Wordbook 양쪽을 다 처치한다고 해서 너희의 그 알량한 제국보다 더 오래된 전쟁을 끝낼 수 있으리라 생각하나? hansemEUG",
+      "english": "You think you can end a feud older than your petty Empire by destroying both sides? Add to Wordbook"
+    }
+  ]
+}

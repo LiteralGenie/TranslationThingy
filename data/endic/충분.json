@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "충분",
+      "hanja": " (充分)",
+      "example": {},
+      "meanings": [
+        "enough, sufficient, ample, plenty (of)"
+      ]
+    },
+    {
+      "phrase": "충분조건",
+      "hanja": " (充分條件)",
+      "example": {},
+      "meanings": [
+        "sufficient condition"
+      ]
+    },
+    {
+      "phrase": "필요충분조건",
+      "hanja": " (必要充分條件)",
+      "example": {},
+      "meanings": [
+        "necessary and sufficient condition"
+      ]
+    },
+    {
+      "phrase": "충분한 잠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sufficient[an enough] sleep"
+      ]
+    },
+    {
+      "phrase": "충분한 휴식을 취하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get enough[plenty of] rest"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "goodliness",
+      "frequency": 0
+    },
+    {
+      "meaning": "stomachful",
+      "frequency": 0
+    },
+    {
+      "meaning": "satis",
+      "frequency": 0
+    },
+    {
+      "meaning": "suffice",
+      "frequency": 3
+    },
+    {
+      "meaning": "the",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이제 그만하자 충분! Let's stop now. Enough! 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "Let's stop now. Enough!"
+    },
+    {
+      "korean": "4기가 - 4기가로 충분해? 4 giga. - Is that enough? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "4 giga. - Is that enough?"
+    },
+    {
+      "korean": "충분하다 - 양념은 들고 와야 돼 이거 간이 안 돼 있는 거야 - 진짜? That'll be enough. - I hope he brings condiments. It's not seasoned. - Really? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "That'll be enough. - I hope he brings condiments. It's not seasoned. - Really?"
+    },
+    {
+      "korean": "이 정도 충분하죠? Is this good? 듣기 View video Stray Kids : 🐶🐱스쿨 유학 후 개학하다...!",
+      "english": "Is this good?"
+    },
+    {
+      "korean": "5분 충분해요? It's enough to bake for 5 minutes? 듣기 View video NU'EST : [NU'EST] 쿠키쩨알의 '홈메이드 파이'만들기🥧",
+      "english": "It's enough to bake for 5 minutes?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "This recipe will be enough for four servings. 듣기 Add to Wordbook 이 조리법은 4인분에 충분하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This recipe will be enough for four servings. Add to Wordbook"
+    },
+    {
+      "korean": "The adequacy of the security arrangements has been questioned. 듣기 Add to Wordbook 보안 대비가 충분했는지에 대해 의문이 제기되어 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The adequacy of the security arrangements has been questioned. Add to Wordbook"
+    },
+    {
+      "korean": "$100 should cover your expenses. 듣기 Add to Wordbook 100달러면 당신 경비로 충분할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "$100 should cover your expenses. Add to Wordbook"
+    },
+    {
+      "korean": "This room will do me nicely, thank you. 듣기 Add to Wordbook 이 방이면 제게 충분해요. 고마워요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This room will do me nicely, thank you. Add to Wordbook"
+    },
+    {
+      "korean": "There aren’t enough chairs to go around. 듣기 Add to Wordbook 의자가 돌아가기에 충분하지 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There aren’t enough chairs to go around. Add to Wordbook"
+    }
+  ]
+}

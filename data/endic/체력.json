@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "체력",
+      "hanja": " (體力)",
+      "example": {},
+      "meanings": [
+        "(physical) strength, stamina, (physical) fitness"
+      ]
+    },
+    {
+      "phrase": "체력을 기르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "develop[build up, increase] one's physical strength",
+        "strengthen one's body"
+      ]
+    },
+    {
+      "phrase": "체력의 소모",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "emaciation"
+      ]
+    },
+    {
+      "phrase": "체력이 약해지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "one´s strength dwindles[declines]"
+      ]
+    },
+    {
+      "phrase": "체력이 늘다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "one´s strength grows[increases]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "brawn",
+      "frequency": 0
+    },
+    {
+      "meaning": "stamina",
+      "frequency": 0
+    },
+    {
+      "meaning": "vigor",
+      "frequency": 1
+    },
+    {
+      "meaning": "physical strength",
+      "frequency": 0
+    },
+    {
+      "meaning": "physical force",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[파란색 체력이 모두 소진되면] 형이 Z만 누르고 있는 거 아니야? [When there's no energy left] Do you keep pressing Z? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[When there's no energy left] Do you keep pressing Z?"
+    },
+    {
+      "korean": "[Z키 (=대쉬, 돌진)를 사용할 때마다 파란색 체력이 닳으며] 달리다 왜 멈춰? [Energy levels drop every time the Z key (dash) is used] Why does it stop running? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Energy levels drop every time the Z key (dash) is used] Why does it stop running?"
+    },
+    {
+      "korean": "[체력 고갈] 32, 33, 34... [Exhausted] 32, 33, 34... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Exhausted] 32, 33, 34..."
+    },
+    {
+      "korean": "체력이 줄었어 그래서.... while our physical energy has decreased. 듣기 View video GOT7 : GOT7(갓세븐) DYEARY EP.01",
+      "english": "while our physical energy has decreased."
+    },
+    {
+      "korean": "체력적으로 소모가 큰 것들이 생각이 날까요? That we had hard time taking? 듣기 View video BTS : 슙디의 꿀 FM 06.13 #0613FM_0613",
+      "english": "That we had hard time taking?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The marathon is a severe test of stamina. 발음듣기 마라톤은 아주 힘든 체력 테스트이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The marathon is a severe test of stamina. 발음"
+    },
+    {
+      "korean": "The long climb tested our fitness and stamina. 발음듣기 그 오랜 산행은 우리의 건강과 체력을 시험했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The long climb tested our fitness and stamina. 발음"
+    },
+    {
+      "korean": "a superb health spa which includes sauna, Turkish bath and fitness rooms 발음듣기 사우나, 터키탕, 체력 관리실을 포함하는 최상의 건강 휴양 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a superb health spa which includes sauna, Turkish bath and fitness rooms 발음"
+    },
+    {
+      "korean": "In this job you need brains as well as brawn. 발음듣기 이 직업에서는 체력뿐 아니라 머리도 필요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In this job you need brains as well as brawn. 발음"
+    },
+    {
+      "korean": "It takes a lot of stamina to run a marathon. 발음듣기 마라톤을 하는 데는 많은 체력이 든다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It takes a lot of stamina to run a marathon. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "복귀",
+      "hanja": " (復歸)",
+      "example": {},
+      "meanings": [
+        "[동사] return (to), come back (to), make[stage] a comeback"
+      ]
+    },
+    {
+      "phrase": "복귀(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 return"
+      ]
+    },
+    {
+      "phrase": "상태로 복귀하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "return[get back] to normal[the normal condition]"
+      ]
+    },
+    {
+      "phrase": "정상으로 복귀하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "return to normal(cy)"
+      ]
+    },
+    {
+      "phrase": "직장에 복귀하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "return to work"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "return",
+      "frequency": 3
+    },
+    {
+      "meaning": "reversion",
+      "frequency": 0
+    },
+    {
+      "meaning": "comeback",
+      "frequency": 0
+    },
+    {
+      "meaning": "escheat",
+      "frequency": 0
+    },
+    {
+      "meaning": "carriage return",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[하지만 나봉도치의 힘으로 솜사탕 복귀!] 솜! [Back to somsatang thanks to Nabong Dochi] Som! 듣기 View video TWICE : TWICE TV “ONCE HALLOWEEN 2”",
+      "english": "[Back to somsatang thanks to Nabong Dochi] Som!"
+    },
+    {
+      "korean": "복귀! - 세팅! Back! - Setting! 듣기 View video V COOKIE : [Full] VICTON X LieV - 빅톤의 눕방라이브!",
+      "english": "Back! - Setting!"
+    },
+    {
+      "korean": "복귀 무대라서... It was my come-back stage. 듣기 View video ATEEZ : 에이티니 축하해요 🎊다 여러분 덕분이에요❤️",
+      "english": "It was my come-back stage."
+    },
+    {
+      "korean": "일단 자리로 다들 돌아가 볼까요? - 복귀! Let's go back. - Back! 듣기 View video V COOKIE : [Full] VICTON X LieV - 빅톤의 눕방라이브!",
+      "english": "Let's go back. - Back!"
+    },
+    {
+      "korean": "[복귀] 이제 나이가 어떻게 되죠? [Came back] So, how old are you now? 듣기 View video V PICK! : [AB6IX] 🎉해피동동데이 축하해주러 왔다가 행복 받고 가지요~🎂🐿 (HAPPY DONGHYUN DAY)",
+      "english": "[Came back] So, how old are you now?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She came out of retirement to win two gold medals at the championships. 듣기 Add to Wordbook 그녀는 은퇴에서 복귀하여 선수권 대회에서 두 개의 금메달을 땄다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She came out of retirement to win two gold medals at the championships. Add to Wordbook"
+    },
+    {
+      "korean": "Thomas’s recall to the Welsh team 듣기 Add to Wordbook 토머스의 웨일스 팀 복귀 요청 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Thomas’s recall to the Welsh team Add to Wordbook"
+    },
+    {
+      "korean": "They appealed for a return to work. 듣기 Add to Wordbook 그들은 직장 복귀를 호소했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They appealed for a return to work. Add to Wordbook"
+    },
+    {
+      "korean": "He was recalled to military duty. 듣기 Add to Wordbook 그는 군 복무 복귀 명령을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was recalled to military duty. Add to Wordbook"
+    },
+    {
+      "korean": "He was reinstated in his post. 듣기 Add to Wordbook 그는 자기 자리[직장]로 복귀 조치를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was reinstated in his post. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "기만",
+      "hanja": " (欺瞞)",
+      "example": {},
+      "meanings": [
+        "[명사] deception, deceit, [동사] deceive, delude, cheat"
+      ]
+    },
+    {
+      "phrase": "세상을 기만하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "deceive the world"
+      ]
+    },
+    {
+      "phrase": "자신을 기만하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "deceive oneself"
+      ]
+    },
+    {
+      "phrase": "세인을 기만하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "deceive the world"
+      ]
+    },
+    {
+      "phrase": "자기기만에 빠지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fall under self-deception"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "deception",
+      "frequency": 3
+    },
+    {
+      "meaning": "deceit",
+      "frequency": 3
+    },
+    {
+      "meaning": "fraudulence",
+      "frequency": 0
+    },
+    {
+      "meaning": "prevarication",
+      "frequency": 0
+    },
+    {
+      "meaning": "flam",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "장난치는 것 같아요. -이거는 팬들을 기만하는... Is he joking? - You are disappointing our fans. 듣기 View video MONSTA X : MONSTA X 홀리데이 - 엑스클랜의 습격",
+      "english": "Is he joking? - You are disappointing our fans."
+    },
+    {
+      "korean": "적을 제압하고 기만하고 살아남는 한편의 드라마를 만들게 되는 것이죠. to eliminate your enemies and be the last hero standing in an epic battle. 듣기 View video zzal TV GODAKU : 드디어 나온 '국산 갓겜' [배틀그라운드] 특집 [고다쿠 시즌3.6 / 5화].mp4",
+      "english": "to eliminate your enemies and be the last hero standing in an epic battle."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a melodramatic plot full of deceit and murder 듣기 Add to Wordbook 기만과 살인투성이의 멜로드라마 같은 줄거리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a melodramatic plot full of deceit and murder Add to Wordbook"
+    },
+    {
+      "korean": "Everyone was involved in this web of deceit. 듣기 Add to Wordbook 모든 사람들이 이 기만의 거미줄에 연루되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Everyone was involved in this web of deceit. Add to Wordbook"
+    },
+    {
+      "korean": "a drama full of lies and deception 듣기 Add to Wordbook 거짓과 기만으로 가득 찬 드라마 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a drama full of lies and deception Add to Wordbook"
+    },
+    {
+      "korean": "I was cruelly deceived. 듣기 Add to Wordbook 나는 처참하게 기만을 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was cruelly deceived. Add to Wordbook"
+    },
+    {
+      "korean": "Appearances can often be deceptive. 듣기 Add to Wordbook 겉모습은 흔히 기만적일 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Appearances can often be deceptive. Add to Wordbook"
+    }
+  ]
+}

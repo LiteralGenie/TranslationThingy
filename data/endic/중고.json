@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "중고",
+      "hanja": " (中古)",
+      "example": {},
+      "meanings": [
+        "used article, secondhand article"
+      ]
+    },
+    {
+      "phrase": "중고의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "medieval"
+      ]
+    },
+    {
+      "phrase": "중고차",
+      "hanja": " (中古車)",
+      "example": {},
+      "meanings": [
+        "used car, secondhand car"
+      ]
+    },
+    {
+      "phrase": "중고 가구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "secondhand[used] furniture"
+      ]
+    },
+    {
+      "phrase": "중고 서점",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a second-hand bookstore[bookshop]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "used-one",
+      "frequency": 0
+    },
+    {
+      "meaning": "middle ancient",
+      "frequency": 0
+    },
+    {
+      "meaning": "used 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "second-hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "garage sale",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[중고 거래로 팔릴 뻔한 아크릴 스탠드] [의심] 형, 이번에도 그런 거 준비했어요? [He almost sold it online] [Doubting him] Did you bring something like that today too? 듣기 View video BTS : Run BTS! 2019 - EP.85",
+      "english": "[He almost sold it online] [Doubting him] Did you bring something like that today too?"
+    },
+    {
+      "korean": "중고상? - 응 중고상. Joonggosang? - Yes, Joonggosang. 듣기 View video JBJ95 : [#지금하95] 우리 DDP 갔다와쵸~^^",
+      "english": "Joonggosang? - Yes, Joonggosang."
+    },
+    {
+      "korean": "응? - 중고상. Huh? - Joonggosang. 듣기 View video JBJ95 : [#지금하95] 우리 DDP 갔다와쵸~^^",
+      "english": "Huh? - Joonggosang."
+    },
+    {
+      "korean": "[지긋이] 중고 신인 모델이고요. I'm a rookie model. 듣기 View video 뷰티로그(beautylog) : [뷰티로그 1회]관리 만렙! 나르샤의 다이어트 식단!😜",
+      "english": "I'm a rookie model."
+    },
+    {
+      "korean": "뭐 있을 수도 있지 중고상 - 오케이. They could have that. - Okay. 듣기 View video JBJ95 : [#지금하95] 우리 DDP 갔다와쵸~^^",
+      "english": "They could have that. - Okay."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I bought my car second-hand. 듣기 Add to Wordbook 나는 차를 중고로 샀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I bought my car second-hand. Add to Wordbook"
+    },
+    {
+      "korean": "This china came from a junk shop. 듣기 Add to Wordbook 이 자기는 중고품 가게에서 온 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This china came from a junk shop. Add to Wordbook"
+    },
+    {
+      "korean": "a used car with 20000 miles on the clock 듣기 Add to Wordbook 주행거리 기록계에 2만 마일이 기록된 중고차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a used car with 20000 miles on the clock Add to Wordbook"
+    },
+    {
+      "korean": "a growing/declining market for second-hand cars 듣기 Add to Wordbook 커지고/위축되고 있는 중고차 시장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a growing/declining market for second-hand cars Add to Wordbook"
+    },
+    {
+      "korean": "a used car with one owner and a low mileage 듣기 Add to Wordbook 전 주인이 한 명이었고 주행 거리도 얼마 안 되는 중고차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a used car with one owner and a low mileage Add to Wordbook"
+    }
+  ]
+}

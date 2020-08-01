@@ -1,0 +1,92 @@
+{
+  "phrases": [
+    {
+      "phrase": "수기",
+      "hanja": " (手記)",
+      "example": {},
+      "meanings": [
+        "(회상록) memoirs, (자서전) autobiography"
+      ]
+    },
+    {
+      "phrase": "수기",
+      "hanja": " (手旗)",
+      "example": {},
+      "meanings": [
+        "(신호용 깃발) semaphore flag, signal(ing) flag"
+      ]
+    },
+    {
+      "phrase": "수기를 적다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "note down",
+        "take note of",
+        "dictate a memo"
+      ]
+    },
+    {
+      "phrase": "수기 신호",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a flag signal(ing)",
+        "semaphore"
+      ]
+    },
+    {
+      "phrase": "수기를 쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "write one's memoirs"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "manipulation",
+      "frequency": 3
+    },
+    {
+      "meaning": "handflag",
+      "frequency": 0
+    },
+    {
+      "meaning": "manuever",
+      "frequency": 0
+    },
+    {
+      "meaning": "high-warp",
+      "frequency": 0
+    },
+    {
+      "meaning": "hand technique",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Sailors signal with flags by day and lights by night. 듣기 Add to Wordbook 선원들은 낮에는 수기로, 밤에는 불빛으로 신호한다 Neungyule",
+      "english": "Sailors signal with flags by day and lights by night. Add to Wordbook"
+    },
+    {
+      "korean": "Sugiantoro says the earthquake won't change anything. 듣기 Add to Wordbook 수기안토로 소장은, 지진으로 인해 달라지는 일은 없을 것이라고 말했습니다. YBM All in All English-Korean Dictionary",
+      "english": "Sugiantoro says the earthquake won't change anything. Add to Wordbook"
+    },
+    {
+      "korean": "Because we still have many victims, especially in Bantul, that's why I hope there will be a lot more of the aid coming in. 듣기 Add to Wordbook 수기안토로 소장은, 특히 반툴 지역을 비롯해, 아직도 희생자가 많이 있다며, 더 많은 원조가 제공되길 바랍니다. YBM All in All English-Korean Dictionary",
+      "english": "Because we still have many victims, especially in Bantul, that's why I hope there will be a lot more of the aid coming in. Add to Wordbook"
+    },
+    {
+      "korean": "The essay contest winner was a former Canadian policeman named James Symington, who wanted to clone his German Shepherd, Trakr. 듣기 Add to Wordbook 이 수기 공모전의 수상자는 캐나다인 전직 경찰관인 제임스 시밍턴으로, 그는 자신이 키우던 트래커라는 독일 셰퍼드를 복제하기를 원했다. Neungyule",
+      "english": "The essay contest winner was a former Canadian policeman named James Symington, who wanted to clone his German Shepherd, Trakr. Add to Wordbook"
+    },
+    {
+      "korean": "Some scientists are predicting that computers will bring about the end of handwritten correspondence. 듣기 Add to Wordbook 컴퓨터가 수기 서신의 종말을 가져올 것이라고 예언하는 과학자들이 있다. YBM All in All English-Korean Dictionary",
+      "english": "Some scientists are predicting that computers will bring about the end of handwritten correspondence. Add to Wordbook"
+    }
+  ]
+}

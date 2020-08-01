@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "까다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(껍질을 벗기다) (귤·감자·마늘 등을) peel, (콩 등을) hull, (견과류·콩 등을) shell, (옥수수 껍질 등을) husk",
+        "(알을 부화하다) hatch (out)",
+        "(금액을 제하다) deduct (sth from sth)"
+      ]
+    },
+    {
+      "phrase": "까다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb deduct beforehand"
+      ]
+    },
+    {
+      "phrase": "까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(시간) [전치사, 접속사] until, till (계속)",
+        "(시간) [전치사] to (기간의 종료)",
+        "(시간) [전치사] by"
+      ]
+    },
+    {
+      "phrase": "여태(까지)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "till [until, up to] now [the present], up [down] to date, hitherto, so [thus] far, to this time, yet."
+      ]
+    },
+    {
+      "phrase": "집[버스 정류장]까지 걸어가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk home[to the bus stop]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "so much as …",
+      "frequency": 0
+    },
+    {
+      "meaning": "nay even",
+      "frequency": 0
+    },
+    {
+      "meaning": "to the number of",
+      "frequency": 0
+    },
+    {
+      "meaning": "even 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "unto",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "후라이 까지 마라!",
+      "english": "\"Don't peel the fry!\""
+    },
+    {
+      "korean": "치읓에 ㅔ까지 같단 말이야?",
+      "english": "So both CH and E?"
+    },
+    {
+      "korean": "64...65키로 까지 쪘었거든요.",
+      "english": "I was 64... 65kg."
+    },
+    {
+      "korean": "계속... - '파이어~' 까지!",
+      "english": "Continue ... - Fire! Uh!"
+    },
+    {
+      "korean": "네? 새우를 까지도 않고 주냐고요?",
+      "english": "What? Why just give the whole shrimp without taking off the skin?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "나는 농부들과 재배자들 뿐만 아니라 소비자들 까지도 포함된 주민들을 대표하여 지적한다.",
+      "english": "I comment on behalf of my constituents, who consist not only of farmers and growers, but of consumers."
+    },
+    {
+      "korean": "(많은 시간이 흐른 뒤인)지금 까지도 정치적 중립상태로 남아있다.",
+      "english": "Kosovo remains in political limbo to this day."
+    },
+    {
+      "korean": "그러나 여기에서 까지도, 나는 하늘로 치솟는 연기른 볼수가 있다.",
+      "english": "But even from here, I can see smoke billowing into the sky."
+    },
+    {
+      "korean": "사람들을 지키는 지도자의 의무는 아직 까지도 중요시 되고 있다.",
+      "english": "A leader’s obligation to protect its people is also valued today."
+    },
+    {
+      "korean": "나는 죽어가는 사람들에 익숙해져야만 했다, 아마 심지어 내가 알던 사람들 까지도.",
+      "english": "I had to get used to people dying, maybe even people I knew."
+    }
+  ]
+}

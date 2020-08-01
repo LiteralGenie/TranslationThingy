@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "탓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(이유) reason",
+        "(잘못) fault, blame"
+      ]
+    },
+    {
+      "phrase": "tot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비격식 어린아이",
+        "Noun 특히 英 (술잔에 들어 있는 독한 술) 한 모금(의 분량)"
+      ]
+    },
+    {
+      "phrase": "tot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 덧셈, (덧셈의) 답, 합계",
+        "Transitive verb, Intransitive verb 더하다, 합계하다 ((up)), <수·비용이> 합계 …이 되다 ((up, to))"
+      ]
+    },
+    {
+      "phrase": "TOT",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "time on target"
+      ]
+    },
+    {
+      "phrase": "tot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 쓰레기에서 회수한 인골(人骨)[귀중품]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "blame",
+      "frequency": 3
+    },
+    {
+      "meaning": "pin something on somebody",
+      "frequency": 0
+    },
+    {
+      "meaning": "impute",
+      "frequency": 3
+    },
+    {
+      "meaning": "mea culpa",
+      "frequency": 0
+    },
+    {
+      "meaning": "attribute",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "문예찬이 까매 보이는 건 내 기분 탓이냐? Is it just me, or does Yechan look dark? 듣기 View video 콬TV (WHYNOT) : 남사친이 진심으로 날 좋아한다고 고백했다 [리얼:타임:러브2] EP4",
+      "english": "Is it just me, or does Yechan look dark?"
+    },
+    {
+      "korean": "기분 탓인가? Is it just me? 듣기 View video TWICE : 모 생일🍑",
+      "english": "Is it just me?"
+    },
+    {
+      "korean": "기분 탓 인가? Is it just a feeling? 듣기 View video ASTRO : [ASTRO PLAY] 행복스트로💜",
+      "english": "Is it just a feeling?"
+    },
+    {
+      "korean": "[데자뷰 같은 건 기분 탓...?] [Is this a dejavu?] View video GOT7 : GOT7(갓세븐) TOURLOG EP.22",
+      "english": "[Is this a dejavu?]"
+    },
+    {
+      "korean": "제 기분 탓이겠죠? That must be just how I feel, right? 듣기 View video 플레이리스트 (Playlist) : 남친에게 '라면먹고 갈래?'를 시전했다 [인서울] - 9,10 화 하이라이트",
+      "english": "That must be just how I feel, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to lay/put the blame for sth on sb 듣기 Add to Wordbook 무엇에 대한 책임[탓]을 누구에게 돌리다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to lay/put the blame for sth on sb Add to Wordbook"
+    },
+    {
+      "korean": "He ascribed his failure to bad luck. 듣기 Add to Wordbook 그는 실패를 불운 탓으로 돌렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He ascribed his failure to bad luck. Add to Wordbook"
+    },
+    {
+      "korean": "Why do I always get the blame for everything that goes wrong? 듣기 Add to Wordbook 왜 뭐든 잘못되기만 하면 항상 내 탓을 하는 거야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Why do I always get the blame for everything that goes wrong? Add to Wordbook"
+    },
+    {
+      "korean": "If you lose your job, you’ll only have yourself to blame. 듣기 Add to Wordbook 당신이 직장을 잃는다면 그건 순전히 당신 탓이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If you lose your job, you’ll only have yourself to blame. Add to Wordbook"
+    },
+    {
+      "korean": "You can’t pin this one on me—I wasn’t even there! 듣기 Add to Wordbook 이걸 내 탓으로 돌릴 수는 없어요. 난 거기 있지도 않았단 말예요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can’t pin this one on me—I wasn’t even there! Add to Wordbook"
+    }
+  ]
+}

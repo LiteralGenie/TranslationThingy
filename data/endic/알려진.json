@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "알려진",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "famous",
+        "noted",
+        "well-known"
+      ]
+    },
+    {
+      "phrase": "알려지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보·지식 등이) become known (to)",
+        "(유명해지다) be[become] (well) known"
+      ]
+    },
+    {
+      "phrase": "널리 알려진",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "widely known"
+      ]
+    },
+    {
+      "phrase": "그는 알려진 범죄자이다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "He is a known criminal."
+      ]
+    },
+    {
+      "phrase": "이름이 다소 알려진 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a man of some reputation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "known",
+      "frequency": 2
+    },
+    {
+      "meaning": "recognized",
+      "frequency": 0
+    },
+    {
+      "meaning": "supermainstream",
+      "frequency": 0
+    },
+    {
+      "meaning": "well known",
+      "frequency": 2
+    },
+    {
+      "meaning": "he",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아직 안 알려진 거야? - 어. They don't know about it yet? - No. 듣기 View video MAMAMOO : 아무말하는 angel 💦",
+      "english": "They don't know about it yet? - No."
+    },
+    {
+      "korean": "한국에도 많이 알려진 영화배우 황추생 씨입니다. This is Chau-Sang. 듣기 View video V Special : 서울드라마어워즈 2016 레드카펫(Seoul International Drama Awards Red Carpet)",
+      "english": "This is Chau-Sang."
+    },
+    {
+      "korean": "세간에 알려진 것과는 조금 다른 부분이 있다. Some rumors are not true. 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 with 다이아 A night's entertainment news with DIA",
+      "english": "Some rumors are not true."
+    },
+    {
+      "korean": "콜라보 작업으로 잘 알려진 심사위원을 모셨습니다. and great collaborations. 듣기 View video WAV : [Versus]: Ep. 6.2 Team Sonny vs. Team Scoop",
+      "english": "and great collaborations."
+    },
+    {
+      "korean": "우리나라에서 최초로 커피를 마셨다고 알려진 인물은? Who is the first Korean known to drink coffee? 듣기 View video BTS : Run BTS! 2018 - EP.45",
+      "english": "Who is the first Korean known to drink coffee?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He emphasized how little was known about the disease. 발음듣기 그는 그 질병에 관해 알려진 것이 얼마나 적은지를 강조했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He emphasized how little was known about the disease. 발음"
+    },
+    {
+      "korean": "Nothing is known about her parentage and background. 발음듣기 그녀의 혈통과 출신 배경에 대해서는 아무것도 알려진 게 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nothing is known about her parentage and background. 발음"
+    },
+    {
+      "korean": "her best-known poem 발음듣기 그녀의 (시 중에서) 가장 잘 알려진 시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "her best-known poem 발음"
+    },
+    {
+      "korean": "the scene of the purported crime 발음듣기 그 범행 현장이라고 알려진 곳 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the scene of the purported crime 발음"
+    },
+    {
+      "korean": "Little is known of the youngest son; it is presumed that he died young. 발음듣기 (그들의) 막내아들에 대해서는 알려진 것이 거의 없다. 어려서 죽은 것으로 추정된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Little is known of the youngest son; it is presumed that he died young. 발음"
+    }
+  ]
+}

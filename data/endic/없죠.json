@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "우리 만나는 거 변동 없죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "약속 Are we still on?",
+        "약속 Is our appointment still on?",
+        "약속 Any changes in the plan?"
+      ]
+    },
+    {
+      "phrase": "네, 그야 말할 것도 없죠.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 도중 Yes, that goes without saying."
+      ]
+    },
+    {
+      "phrase": "서비스가 나쁘면 낼 필요가 없죠.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "계산하기 If the service is bad, you don't have to tip."
+      ]
+    },
+    {
+      "phrase": "없는 것이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack nothing, soup-to-nuts"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "innocent",
+      "frequency": 3
+    },
+    {
+      "meaning": "dull",
+      "frequency": 3
+    },
+    {
+      "meaning": "constant",
+      "frequency": 3
+    },
+    {
+      "meaning": "hardly",
+      "frequency": 3
+    },
+    {
+      "meaning": "shapeless",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "없죠? There isn't, right? 듣기 View video INFINITE : 메피스토 먹방 ~",
+      "english": "There isn't, right?"
+    },
+    {
+      "korean": "생각보다 별거 없죠? It's nothing special, right? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "It's nothing special, right?"
+    },
+    {
+      "korean": "[바비큐에 라면이 빠질 수 없죠 (+엄마의 홍합탕)] 비주얼! [You always need ramen at a BBQ (+Mom's mussel stew)] Look! 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "[You always need ramen at a BBQ (+Mom's mussel stew)] Look!"
+    },
+    {
+      "korean": "그런 거 없죠? 못 먹고 막 그런 거 없죠? - 저희 아무것도 안 하고 그냥 먹어요? We're not playing any game for food, are we? - Can we eat for nothing? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "We're not playing any game for food, are we? - Can we eat for nothing?"
+    },
+    {
+      "korean": "여러분, 재미없죠? It's not so funny, right? 듣기 View video MONSTA X : LIVE : 그냥🐺",
+      "english": "It's not so funny, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Every few years, this industry is churning out new technologies and new exciting products. There's no way I could lose interest! 듣기 Add to Wordbook 몇 년마다 이 산업은 새로운 기술과 호기심을 불러 일으키는 신제품들을 잇달아 만들어내고 있습니다. 관심을 갖지 않을 수가 없죠! DARAKWON",
+      "english": "Every few years, this industry is churning out new technologies and new exciting products. There's no way I could lose interest! Add to Wordbook"
+    },
+    {
+      "korean": "They have no right to pry into your life. 듣기 Add to Wordbook 그 사람들에게는 선생님의 사생활을 꼬치꼬치 캘 권리가 없죠. YBM All in All English-Korean Dictionary",
+      "english": "They have no right to pry into your life. Add to Wordbook"
+    },
+    {
+      "korean": "I don't see why not. 듣기 Add to Wordbook 안 될 이유도 없죠. YBM All in All English-Korean Dictionary",
+      "english": "I don't see why not. Add to Wordbook"
+    },
+    {
+      "korean": "Then I'm afraid that's what we'll have to do. Hanover is our priority now. 듣기 Add to Wordbook 할 수 없죠. 지금은 하노버가 우선 순위니까. YBM All in All English-Korean Dictionary",
+      "english": "Then I'm afraid that's what we'll have to do. Hanover is our priority now. Add to Wordbook"
+    },
+    {
+      "korean": "That goes without saying. 듣기 Add to Wordbook 그야 말할 것도 없죠. YBM All in All English-Korean Dictionary",
+      "english": "That goes without saying. Add to Wordbook"
+    }
+  ]
+}

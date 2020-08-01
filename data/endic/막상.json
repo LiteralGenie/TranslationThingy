@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "막상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(급기야) ultimately, (실제로) really, actually, in reality"
+      ]
+    },
+    {
+      "phrase": "맥락막상의",
+      "hanja": " (脈絡膜上-)",
+      "example": {},
+      "meanings": [
+        "의학 suprachoroid"
+      ]
+    },
+    {
+      "phrase": "막상페서리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 diaphragm pessary"
+      ]
+    },
+    {
+      "phrase": "맥락막상피종",
+      "hanja": " (脈絡膜上皮腫)",
+      "example": {},
+      "meanings": [
+        "의학 chorioepithelioma"
+      ]
+    },
+    {
+      "phrase": "맥락막상공간",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 suprachoroidal space"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "membrane phase",
+      "frequency": 0
+    },
+    {
+      "meaning": "in the event",
+      "frequency": 0
+    },
+    {
+      "meaning": "when the chips are down",
+      "frequency": 0
+    },
+    {
+      "meaning": "브래들리 효과",
+      "frequency": 0
+    },
+    {
+      "meaning": "when[if] it comes to the point",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이렇게 막상 하려면 생각이 안 난다니까? Why can't I remember? 듣기 View video TWICE : 힝",
+      "english": "Why can't I remember?"
+    },
+    {
+      "korean": "막상 칠하니까 귀엽네 - 그렇지? but it's actually cute after coloring. - See? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.13",
+      "english": "but it's actually cute after coloring. - See?"
+    },
+    {
+      "korean": "오 막상 하려니 떨리네요 왜 떨리지? Thinking of it now, I am so nervous!! Why am I? 듣기 View video NCT : Jisung day💚💚",
+      "english": "Thinking of it now, I am so nervous!! Why am I?"
+    },
+    {
+      "korean": "막상 오니까 너무 재밌네요 여러분, 어떡하지? It's so much fun now. What should I do? 듣기 View video BTS : 저 왔어요~!",
+      "english": "It's so much fun now. What should I do?"
+    },
+    {
+      "korean": "[막상 시작하니 의욕 넘치는 슈가] 형 형 형 오케이! [Enthusiastic SUGA] Hey, hey, hey! Okay! 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[Enthusiastic SUGA] Hey, hey, hey! Okay!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’m not sure what I’ll do when the chips are down. 발음듣기 막상 일이 닥치면 내가 어떻게 할지는 확실히 모르겠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m not sure what I’ll do when the chips are down. 발음"
+    },
+    {
+      "korean": "You’ll feel differently about it when the time comes. 발음듣기 막상 그 시간[때]이 되면 당신은 그것에 대해 다르게 생각할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’ll feel differently about it when the time comes. 발음"
+    },
+    {
+      "korean": "I got very nervous about the exam, but in the event, I needn’t have worried; it was really easy. 발음듣기 나는 시험 때문에 몹시 초조했지만 막상 닥쳐 보니 걱정할 필요가 없었다. 정말 쉬웠으니까. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I got very nervous about the exam, but in the event, I needn’t have worried; it was really easy. 발음"
+    },
+    {
+      "korean": "The wind failed us. 발음듣기 (막상 필요할 때에) 바람이 안 불었다. Friendict Level English-Korean Dictionary",
+      "english": "The wind failed us. 발음"
+    },
+    {
+      "korean": "Now that he's leaving, I'm sorry to see him go. 발음듣기 그가 막상 떠난다고 하니 서운하다 Neungyule",
+      "english": "Now that he's leaving, I'm sorry to see him go. 발음"
+    }
+  ]
+}

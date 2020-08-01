@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "초",
+      "hanja": " (初)",
+      "example": {},
+      "meanings": [
+        "(처음, 초기) beginning (of)",
+        "(야구의 이닝) top"
+      ]
+    },
+    {
+      "phrase": "초",
+      "hanja": " (秒)",
+      "example": {},
+      "meanings": [
+        "(시간의 단위) second",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "초",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(양초) candle, (가는) taper"
+      ]
+    },
+    {
+      "phrase": "초",
+      "hanja": " (醋)",
+      "example": {},
+      "meanings": [
+        "(식초) vinegar",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "초-",
+      "hanja": " (超)",
+      "example": {},
+      "meanings": [
+        "super-, ultra-, sur-, hyper-"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "second 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "beginning",
+      "frequency": 3
+    },
+    {
+      "meaning": "top 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "reef 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "wax 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "데뷔 초 때 하지 않았나? 그건 금발이 아닌가? I had blond hair when I just debuted. Wasn't that blond? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "I had blond hair when I just debuted. Wasn't that blond?"
+    },
+    {
+      "korean": "한번 초를... So, let's light these candles. 듣기 View video NCT : 🎂🎂🎂",
+      "english": "So, let's light these candles."
+    },
+    {
+      "korean": "분? 초? 초? 초가 뭐더라? Minutes? Seconds? What is seconds in Chinese? 듣기 View video iKON : live",
+      "english": "Minutes? Seconds? What is seconds in Chinese?"
+    },
+    {
+      "korean": "초를 켜놓고 얘기할까? What if I talk with these lights on? 듣기 View video NCT : 🎂🎂🎂",
+      "english": "What if I talk with these lights on?"
+    },
+    {
+      "korean": "형이 데뷔 초 때부터 그렇게 얘기했던... The one that you kept telling us since the debut... 듣기 View video OSEN : Stray KIds 스트레이키즈가 폭로한 현진의 잠버릇은? #스타로드 9",
+      "english": "The one that you kept telling us since the debut..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the early nineteen hundreds 듣기 Add to Wordbook 1900년대 초(early 1900s로 표기) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the early nineteen hundreds Add to Wordbook"
+    },
+    {
+      "korean": "I lost my job earlier this year. 듣기 Add to Wordbook 난 올해 초에 실직을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I lost my job earlier this year. Add to Wordbook"
+    },
+    {
+      "korean": "Shooting began early this year. 듣기 Add to Wordbook 촬영은 올해 초에 시작되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Shooting began early this year. Add to Wordbook"
+    },
+    {
+      "korean": "At the beginning of the 20th century almost a third of the population lived off the land. 듣기 Add to Wordbook 20세기 초에는 인구의 거의 3분의 1이 농사를 짓고 살았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At the beginning of the 20th century almost a third of the population lived off the land. Add to Wordbook"
+    },
+    {
+      "korean": "They had finished in/within seconds. 듣기 Add to Wordbook 그것들은 잠깐[몇 초] 만에 끝이 났었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had finished in/within seconds. Add to Wordbook"
+    }
+  ]
+}

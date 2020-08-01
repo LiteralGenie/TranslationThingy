@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "안정화",
+      "hanja": " (安定化)",
+      "example": {},
+      "meanings": [
+        "Noun stabilization"
+      ]
+    },
+    {
+      "phrase": "안정화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 stabilizing"
+      ]
+    },
+    {
+      "phrase": "안정화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 level off"
+      ]
+    },
+    {
+      "phrase": "안정화도태",
+      "hanja": " (安定化淘汰)",
+      "example": {},
+      "meanings": [
+        "의학 stabilizing selection"
+      ]
+    },
+    {
+      "phrase": "전력계통 안정화장치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 power system stabilizer"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stabilization",
+      "frequency": 1
+    },
+    {
+      "meaning": "stabilizing",
+      "frequency": 0
+    },
+    {
+      "meaning": "economic stabilization",
+      "frequency": 0
+    },
+    {
+      "meaning": "spin stabilization",
+      "frequency": 0
+    },
+    {
+      "meaning": "FSF",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "파이팅! - 지금 조금 이제 안정화되어가는 중이에요. Fighting! - It's kind of getting stabilized right now. 듣기 View video B1A4 : B1A4의 To My Star EP.021-2",
+      "english": "Fighting! - It's kind of getting stabilized right now."
+    },
+    {
+      "korean": "그렇죠. 이게 어떻게 보면 아직... 정확하게 보면 아직 삶의 패턴이 안정화되지 않은 분들이 보통 느끼거든요. Yes. I think it's because your life is not stable yet. 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "Yes. I think it's because your life is not stable yet."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the necessity of the establishment of de-escalation areas 발음듣기 시리아 안정화 지역 설치의 필요성 국제영어대학원대학교 신어사전",
+      "english": "the necessity of the establishment of de-escalation areas 발음"
+    },
+    {
+      "korean": "Cars with Active Stability Control will be optimally controlled. 발음듣기 활동적 주행 안정화 제어장치를 장착한 차들은 최적으로 제어된다. 국제영어대학원대학교 신어사전",
+      "english": "Cars with Active Stability Control will be optimally controlled. 발음"
+    },
+    {
+      "korean": "The move is aimed at cooling down the real estate market by imposing higher taxes on and further restricting mortgages for anyone who already owns a home, the Ministry of Economy and Finance said. 발음듣기 기획재정부는 이번 발표가 주택 소유자에게 더 높은 세금을 부과하고 대출을 규제함으로써 부동산 시장을 안정화하려는 목적이라고 말했다. The Korea Times",
+      "english": "The move is aimed at cooling down the real estate market by imposing higher taxes on and further restricting mortgages for anyone who already owns a home, the Ministry of Economy and Finance said. 발음"
+    },
+    {
+      "korean": "In the experiment, salt acted as a kosmotrope. 발음듣기 실험에서 소금은 수소 결합을 안정화하는 용질 역할을 했다. 국제영어대학원대학교 신어사전",
+      "english": "In the experiment, salt acted as a kosmotrope. 발음"
+    },
+    {
+      "korean": "The researcher added kosmotropic ions to the aqueous solution. 발음듣기 연구원이 물 용액에 수소 결합을 안정화하는 이온을 첨가했다. 국제영어대학원대학교 신어사전",
+      "english": "The researcher added kosmotropic ions to the aqueous solution. 발음"
+    }
+  ]
+}

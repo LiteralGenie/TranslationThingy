@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "이번",
+      "hanja": " (―番)",
+      "example": {},
+      "meanings": [
+        "this time"
+      ]
+    },
+    {
+      "phrase": "이번만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "just this time",
+        "for this once",
+        "once for all"
+      ]
+    },
+    {
+      "phrase": "이번 주",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "this week"
+      ]
+    },
+    {
+      "phrase": "이번 달",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "this month"
+      ]
+    },
+    {
+      "phrase": "이번에 한해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for this once",
+        "for this time only"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "(just) for once",
+      "frequency": 0
+    },
+    {
+      "meaning": "now what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "once for all",
+      "frequency": 0
+    },
+    {
+      "meaning": "at the end of the week",
+      "frequency": 0
+    },
+    {
+      "meaning": "the current crop of trainees",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이번에 조금 어... This time... Uh... 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "This time... Uh..."
+    },
+    {
+      "korean": "이번엔... - 좋다! This time... - Nice! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "This time... - Nice!"
+    },
+    {
+      "korean": "또 이번에 앨범도 진짜... For this album... 듣기 View video NCT : 해벌",
+      "english": "For this album..."
+    },
+    {
+      "korean": "이번에... 아 나부터? Wait, starting with me? 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Wait, starting with me?"
+    },
+    {
+      "korean": "이번에 이 씨 김 씨 어때요? How about Lee and Kim? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "How about Lee and Kim?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You're gonna be great at this. 듣기 Add to Wordbook 이번에 넌 멋질 거야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 단비해나(leje****)",
+      "english": "You're gonna be great at this. Add to Wordbook"
+    },
+    {
+      "korean": "This time you can count on me. 듣기 Add to Wordbook 이번에 나를 믿어 주세요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 인생을 재미있게(ihha****)",
+      "english": "This time you can count on me. Add to Wordbook"
+    },
+    {
+      "korean": "I thought this was it this time. 듣기 Add to Wordbook 이번에 이건 줄 알았다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 sanggum1515(sang****)",
+      "english": "I thought this was it this time. Add to Wordbook"
+    },
+    {
+      "korean": "I want you both on this one. 듣기 Add to Wordbook 이번에 너희 둘다 필요하다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 sanggum1515(sang****)",
+      "english": "I want you both on this one. Add to Wordbook"
+    },
+    {
+      "korean": "This time you have gone too far. 듣기 Add to Wordbook 이번에 네가 너무 했어. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 클라우스(mobi****) Hansard",
+      "english": "This time you have gone too far. Add to Wordbook"
+    }
+  ]
+}

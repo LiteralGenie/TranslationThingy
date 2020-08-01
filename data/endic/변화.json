@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "변화",
+      "hanja": " (變化)",
+      "example": {},
+      "meanings": [
+        "[명사] change; (부분적인) alteration; (변천) transition (from sth to sth), [동사] change (to/into), turn (into)"
+      ]
+    },
+    {
+      "phrase": "변화가 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stationary",
+        "changeless",
+        "monotonous(단조로운)"
+      ]
+    },
+    {
+      "phrase": "변화를 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give[add, bring] variety (to)"
+      ]
+    },
+    {
+      "phrase": "심경의 변화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a change of mind",
+        "a change in one´s mental attitude"
+      ]
+    },
+    {
+      "phrase": "급격한 변화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sudden[radical] change"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shift",
+      "frequency": 2
+    },
+    {
+      "meaning": "change",
+      "frequency": 2
+    },
+    {
+      "meaning": "variation",
+      "frequency": 2
+    },
+    {
+      "meaning": "rhythm",
+      "frequency": 2
+    },
+    {
+      "meaning": "move",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[확실한 변화가 보이시나요?] [Can you tell the difference?] View video Hyomstore : ep.10 횸스토어 MD들의 바이럴 영상 대공개!",
+      "english": "[Can you tell the difference?]"
+    },
+    {
+      "korean": "어떤 변화가 있었죠? What kind of changes did we go through? 듣기 View video OSEN : \"'아련+청량'으로 돌아온 지구돌\" ONEUS 원어스 컴백 인터뷰",
+      "english": "What kind of changes did we go through?"
+    },
+    {
+      "korean": "비주얼적으로도 굉장히 변화가 많았잖아요 - 그래요? on our looks in this album. - Really? 듣기 View video TWICE : [Replay] TWICE \"MORE & MORE\" SPECIAL LIVE",
+      "english": "on our looks in this album. - Really?"
+    },
+    {
+      "korean": "바꿔도 바꿔도 피부 변화가 없다? No matter what you do, Still no changes in your skin? 듣기 View video MisoJeong : 한 번 망가지면 돌이킬 수 없는 모공☄️모공 딥 클렌징폼 추천 리뷰 (블랙헤드 관리)⎟ 미소정 MisoJeong|미소정 MisoJeong",
+      "english": "No matter what you do, Still no changes in your skin?"
+    },
+    {
+      "korean": "[Q. 'US' 3부작 마무리하고 새로운 시작을 알렸는데 어떤 변화가 있나?] [Q. What kind of changes took place?] View video OSEN : \"'아련+청량'으로 돌아온 지구돌\" ONEUS 원어스 컴백 인터뷰",
+      "english": "[Q. What kind of changes took place?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the ebb and flow of the seasons 발음듣기 오고 가는 계절의 변화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ebb and flow of the seasons 발음"
+    },
+    {
+      "korean": "the changing fortunes of the film industry 발음듣기 변화가 심한 영화업계의 부침 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the changing fortunes of the film industry 발음"
+    },
+    {
+      "korean": "His articles provided the main impetus for change. 발음듣기 그의 글은 변화에 주된 추동력을 제공했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His articles provided the main impetus for change. 발음"
+    },
+    {
+      "korean": "Elderly people are not always resistant to change. 발음듣기 노인들이라고 항상 변화에 반대하는 것은 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Elderly people are not always resistant to change. 발음"
+    },
+    {
+      "korean": "recent changes in the methodology of language teaching 발음듣기 언어 교수 방법론상의 최근 변화들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "recent changes in the methodology of language teaching 발음"
+    }
+  ]
+}

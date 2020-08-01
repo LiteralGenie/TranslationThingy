@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "폐하",
+      "hanja": " (陛下)",
+      "example": {},
+      "meanings": [
+        "Your[Her, His] Majesty[Highness]"
+      ]
+    },
+    {
+      "phrase": "황제 폐하",
+      "hanja": " (皇帝陛下)",
+      "example": {},
+      "meanings": [
+        "His Majesty the Emperor"
+      ]
+    },
+    {
+      "phrase": "황후 폐하",
+      "hanja": " (皇后陛下)",
+      "example": {},
+      "meanings": [
+        "Her (Imperial) Majesty[H.(I.) M.] the Empress"
+      ]
+    },
+    {
+      "phrase": "양폐하",
+      "hanja": " (兩陛下)",
+      "example": {},
+      "meanings": [
+        "Their Majesties (the Emperor and Empress)."
+      ]
+    },
+    {
+      "phrase": "황태후폐하",
+      "hanja": " (皇太后陛下)",
+      "example": {},
+      "meanings": [
+        "Her Imperial Majesty[H.I.M.] the Empress Dowager."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "majesty",
+      "frequency": 1
+    },
+    {
+      "meaning": "sire",
+      "frequency": 1
+    },
+    {
+      "meaning": "Your Majesty",
+      "frequency": 0
+    },
+    {
+      "meaning": "His[Her, Your] Most Sacred Majesty",
+      "frequency": 0
+    },
+    {
+      "meaning": "pH",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[형... 힘을 내요..!] 폐하.. [Stay strong!] Your majesty... 듣기 View video UP10TION : [업텐션 리얼리티]Ep.7 상남자라면 업텐션처럼",
+      "english": "[Stay strong!] Your majesty..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Your Majesty 발음듣기 폐하 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Your Majesty 발음"
+    },
+    {
+      "korean": "her gracious Majesty the Queen 발음듣기 여왕 폐하 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "her gracious Majesty the Queen 발음"
+    },
+    {
+      "korean": "We address the king as your Majesty. 발음듣기 국왕께는 폐하(陛下)라는 호칭을 쓴다. Friendict Level English-Korean Dictionary",
+      "english": "We address the king as your Majesty. 발음"
+    },
+    {
+      "korean": "Most Gracious King [Queen] 발음듣기 지극히 자애로우신 폐하[여왕 폐하]. Friendict Level English-Korean Dictionary",
+      "english": "Most Gracious King [Queen] 발음"
+    },
+    {
+      "korean": "The Emperor granted a monetary gift. 발음듣기 황제 폐하께서 금일봉을 하사하셨다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The Emperor granted a monetary gift. 발음"
+    }
+  ]
+}

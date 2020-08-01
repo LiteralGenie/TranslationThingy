@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "운전",
+      "hanja": " (運轉)",
+      "example": {},
+      "meanings": [
+        "[명사] driving, [동사] drive, take the wheel, be[sit] behind the wheel"
+      ]
+    },
+    {
+      "phrase": "음주 운전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(Am) drunk driving, (Am) DUI (Driving Under the Influence), (Am) DWI (Driving While Intoxicated), (Brit) drink-driving"
+      ]
+    },
+    {
+      "phrase": "대리 운전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "chauffeur service"
+      ]
+    },
+    {
+      "phrase": "운전 휴지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a halt in the operation",
+        "a tie-up of operation"
+      ]
+    },
+    {
+      "phrase": "초보 운전",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "driving",
+      "frequency": 3
+    },
+    {
+      "meaning": "handling",
+      "frequency": 0
+    },
+    {
+      "meaning": "nuts and bolts",
+      "frequency": 0
+    },
+    {
+      "meaning": "drive",
+      "frequency": 3
+    },
+    {
+      "meaning": "new",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'운전 잘하는 방법이 있나요?' \"Any tips on driving well?\" 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #69 정한이의 따뜻한 우유 한 잔",
+      "english": "\"Any tips on driving well?\""
+    },
+    {
+      "korean": "운전면허 딸 생각 있냐고요? Do I want to get a driver's license? 듣기 View video Stray Kids : 막내의 사생활 22 🦊🐿(다시)",
+      "english": "Do I want to get a driver's license?"
+    },
+    {
+      "korean": "운전면허... 나중에 어떻게 따야 되지 않을까요? I think maybe later? 듣기 View video Stray Kids : 막내의 사생활 22 🦊🐿(다시)",
+      "english": "I think maybe later?"
+    },
+    {
+      "korean": "'민기가 운전 할 수 있어서 어땠어요?' \"How is it to be able to drive?\" 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "\"How is it to be able to drive?\""
+    },
+    {
+      "korean": "[운전면허는 어떻게 됐어?] 운전면허요? [How did it go with your driver's license?] My driver's license? 듣기 View video V PICK! : [Apink] 상큼발랄 인간비타민 하빵이의 큐티를 픽♡업♡ 👏👏 (HAYOUNG talking about animation&snack of memory)",
+      "english": "[How did it go with your driver's license?] My driver's license?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The driver was slumped exhausted over the wheel. 듣기 Add to Wordbook 그 운전자는 탈진해서 운전대 위에 꼬꾸라져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The driver was slumped exhausted over the wheel. Add to Wordbook"
+    },
+    {
+      "korean": "You’re not insured to drive our car. 듣기 Add to Wordbook 네가 우리 차를 운전하는 것은 보험에 포함이 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re not insured to drive our car. Add to Wordbook"
+    },
+    {
+      "korean": "The truck driver was waiting to unload. 듣기 Add to Wordbook 그 트럭 운전사는 짐을 내리기 위해 기다리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The truck driver was waiting to unload. Add to Wordbook"
+    },
+    {
+      "korean": "He pleaded guilty to driving with excess alcohol. 듣기 Add to Wordbook 그는 음주 운전에 대해 유죄를 인정했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He pleaded guilty to driving with excess alcohol. Add to Wordbook"
+    },
+    {
+      "korean": "Driver fatigue was to blame for the accident. 듣기 Add to Wordbook 운전자의 피로가 그 사고를 초래했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Driver fatigue was to blame for the accident. Add to Wordbook"
+    }
+  ]
+}

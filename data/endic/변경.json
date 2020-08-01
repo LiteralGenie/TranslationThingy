@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "변경",
+      "hanja": " (變更)",
+      "example": {},
+      "meanings": [
+        "[명사] change, (부분적인) alteration, [동사] change, alter, switch (from sth to sth)"
+      ]
+    },
+    {
+      "phrase": "변경",
+      "hanja": " (邊境)",
+      "example": {},
+      "meanings": [
+        "Noun frontier, border"
+      ]
+    },
+    {
+      "phrase": "변경할 수 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unalterable",
+        "unchangeable"
+      ]
+    },
+    {
+      "phrase": "계획의 변경",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a change of plan"
+      ]
+    },
+    {
+      "phrase": "명칭을 변경하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "change the name[title] (of)",
+        "rename",
+        "retitle"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "change",
+      "frequency": 3
+    },
+    {
+      "meaning": "revision",
+      "frequency": 3
+    },
+    {
+      "meaning": "frontier",
+      "frequency": 3
+    },
+    {
+      "meaning": "modification",
+      "frequency": 3
+    },
+    {
+      "meaning": "alteration",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[동물 변경] 뭐야? [Changed an animal] What's that? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Changed an animal] What's that?"
+    },
+    {
+      "korean": "[소통왕][촬영 내용이 변경되었습니다] 뭐예요? [Communication King] [New script] What is it? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Communication King] [New script] What is it?"
+    },
+    {
+      "korean": "변경됐구나? It got changed, right? 듣기 View video AB6IX : 휘웅휘웅🤩",
+      "english": "It got changed, right?"
+    },
+    {
+      "korean": "이름 변경 안 했어요? You didn't change the name? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #37",
+      "english": "You didn't change the name?"
+    },
+    {
+      "korean": "[ㄴㄴ 그거 말고][모드 변경 중] 귀엽게! [No, not that!][Changing the mode] Cuter! 듣기 View video Dispatch : [ⓓxV] “빅토니들 심쿵 온도차 모먼트” (빅톤 : VICTON)",
+      "english": "[No, not that!][Changing the mode] Cuter!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The meeting has been rescheduled for next week. 듣기 Add to Wordbook 그 회의는 다음주로 일정이 변경되었다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The meeting has been rescheduled for next week. Add to Wordbook"
+    },
+    {
+      "korean": "The changes are explained in detail overleaf. 듣기 Add to Wordbook 변경 사항은 뒷면에 상세히 설명되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The changes are explained in detail overleaf. Add to Wordbook"
+    },
+    {
+      "korean": "It would be sacrilege to alter the composer’s original markings. 듣기 Add to Wordbook 작곡가가 원래 표시한 부분들을 변경하는 것은 신성 모독이 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It would be sacrilege to alter the composer’s original markings. Add to Wordbook"
+    },
+    {
+      "korean": "The union balloted its members on the proposed changes. 듣기 Add to Wordbook 제기된 변경 사항들에 대해 노조가 노조원들을 대상으로 무기명 투표를 실시했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The union balloted its members on the proposed changes. Add to Wordbook"
+    },
+    {
+      "korean": "Recent financial scandals have necessitated changes in parliamentary procedures. 듣기 Add to Wordbook 최근의 금융 스캔들 때문에 의회 의사 절차상의 변경이 필요해졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Recent financial scandals have necessitated changes in parliamentary procedures. Add to Wordbook"
+    }
+  ]
+}

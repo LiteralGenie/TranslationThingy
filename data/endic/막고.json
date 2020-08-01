@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "막다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(길·구멍 등을) block (up), obstruct, close, head off; (구멍 등을) stop (up), fill (in)",
+        "(일·행동 등을) stop, prevent, keep, head off; (금지하다) forbid",
+        "(공격·침입 등을) stop, prevent, ward off"
+      ]
+    },
+    {
+      "phrase": "다른 차가 막고 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "운전 중의 지시 We're blocked in by another car.",
+        "운전 중의 지시 Another car is in the way.",
+        "운전 중의 지시 A car is blocking our car in."
+      ]
+    },
+    {
+      "phrase": "당신 차가 길을 막고 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "운전 중의 지시 Your car is in the way."
+      ]
+    },
+    {
+      "phrase": "길을 막고 있어서 죄송합니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-기본대화 I'm sorry. I was in your way."
+      ]
+    },
+    {
+      "phrase": "앞을 막고 있어서 미안합니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-엘리베이터 이용 Sorry, I was blocking the front."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Valsalva maneuver",
+      "frequency": 0
+    },
+    {
+      "meaning": "nasal",
+      "frequency": 1
+    },
+    {
+      "meaning": "in a person's[the] road",
+      "frequency": 0
+    },
+    {
+      "meaning": "cant strip",
+      "frequency": 0
+    },
+    {
+      "meaning": "junk ring",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마이크 막고 있는 것 같다고요? Am I covering the mic? 듣기 View video Stray Kids : 막내의 사생활 11 🦊",
+      "english": "Am I covering the mic?"
+    },
+    {
+      "korean": "내가 마이크를 막고 있었구나. I was covering the mic. 듣기 View video 우주소녀(WJSN) : [연정] 뎡탄절 브이앱이 왔어요💕",
+      "english": "I was covering the mic."
+    },
+    {
+      "korean": "나 이제 마이크 안 막고 있어. I'm not covering the mic anymore. 듣기 View video 우주소녀(WJSN) : [연정] 뎡탄절 브이앱이 왔어요💕",
+      "english": "I'm not covering the mic anymore."
+    },
+    {
+      "korean": "내가 뭘로 막고 있는 거지? 카메라를? Am I blocking this? Camera? 듣기 View video SEVENTEEN : ♡",
+      "english": "Am I blocking this? Camera?"
+    },
+    {
+      "korean": "듣고있는 거예요 - 막고있는 거 아니죠? I'm listening! - You're not covering them? 듣기 View video OSEN : '스타로드' 우주소녀, 마지막까지 훈훈한 팀워크 #EP 12",
+      "english": "I'm listening! - You're not covering them?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The police were halting traffic on the parade route. 발음듣기 경찰이 퍼레이드 행렬이 지나갈 길에 차량 진입을 막고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police were halting traffic on the parade route. 발음"
+    },
+    {
+      "korean": "Riot police with shields were blocking the demonstrators’ way. 발음듣기 방패를 든 폭동 진압 경찰이 시위대들의 진로를 막고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Riot police with shields were blocking the demonstrators’ way. 발음"
+    },
+    {
+      "korean": "A parked car was obstructing the highway. 발음듣기 주차된 자동차 한 대가 그 공공 도로를 막고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A parked car was obstructing the highway. 발음"
+    },
+    {
+      "korean": "Mind out—you’re in the way there! 발음듣기 좀 비켜 서. 네가 길을 막고 있잖아! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mind out—you’re in the way there! 발음"
+    },
+    {
+      "korean": "The abandoned car was causing an obstruction. 발음듣기 그 버려진 승용차가 도로를 막고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The abandoned car was causing an obstruction. 발음"
+    }
+  ]
+}

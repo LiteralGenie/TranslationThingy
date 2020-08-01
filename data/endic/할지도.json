@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(행동·행위 등을) do, have; (연극·운동경기 등을) play",
+        "(만들다, 장만하다)",
+        "(동작·표정 등을)"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb hada",
+        "Assistant adverb hada",
+        "Assistant adverb hada"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adjective hada",
+        "Assistant adjective hada"
+      ]
+    },
+    {
+      "phrase": "-하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix -hada",
+        "Affix -hada",
+        "Affix -hada"
+      ]
+    },
+    {
+      "phrase": "웃어야 할지 울어야 할지 모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do not know whether to laugh or cry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "not know whether to laugh or cry",
+      "frequency": 0
+    },
+    {
+      "meaning": "at a loose end",
+      "frequency": 0
+    },
+    {
+      "meaning": "on the off chance (that)",
+      "frequency": 0
+    },
+    {
+      "meaning": "lose the plot",
+      "frequency": 0
+    },
+    {
+      "meaning": "might 1",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "주제는 뭔가 있는 거 같은데 뭘 해야 할지 모르겠다, 그치? We have a theme but we don't know what to do. 듣기 View video Stray Kids : [Two Kids Song(투키즈송)] Ep.03",
+      "english": "We have a theme but we don't know what to do."
+    },
+    {
+      "korean": "[다음 T.T.T.도 기대되죠, 여러분?] 앞으로 또 T.T.T.가 뭐 할지 되게 기대되지 않아요? Aren't you looking forward to seeing what T.T.T. will do next? 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.03",
+      "english": "Aren't you looking forward to seeing what T.T.T. will do next?"
+    },
+    {
+      "korean": "어떻게 얘기를 해야 할지... how to say this... 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 55 (또 끊겼네용ㅋㅋ)",
+      "english": "how to say this..."
+    },
+    {
+      "korean": "무슨 얘기 해야 할지 약간... I don't know what to say. 듣기 View video GOT7 : 맠맠맠맠맠맠맠맠맠",
+      "english": "I don't know what to say."
+    },
+    {
+      "korean": "또 언제할지 모르는... I don't know when I'll do it again... 듣기 View video TOMORROW X TOGETHER : 먹방의 정석",
+      "english": "I don't know when I'll do it again..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Maybe we will do so in future. 발음듣기 어쩌면 우리가 미래에 그렇게 할지도 몰라요. User translation Inaccurate information may be included due to the users' self-traslation. 하루(smil****) Web Collection",
+      "english": "Maybe we will do so in future. 발음"
+    },
+    {
+      "korean": "You don't even know what to say now, do you? 발음듣기 너 지금 무슨 말 할지도 모르는 거지, 그렇지? User translation Inaccurate information may be included due to the users' self-traslation. 레나 Lena(jjyr****) Web Collection",
+      "english": "You don't even know what to say now, do you? 발음"
+    },
+    {
+      "korean": "Gentleman may say that I would say that. 발음듣기 신사는 내가 그렇다고 말할지 모른다고 할지도 모른다. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Hansard",
+      "english": "Gentleman may say that I would say that. 발음"
+    },
+    {
+      "korean": "He may need to make peace with you. 발음듣기 그는 너와 화해해야 할지도 모른다. User translation Inaccurate information may be included due to the users' self-traslation. gray(orch****) Web Collection",
+      "english": "He may need to make peace with you. 발음"
+    },
+    {
+      "korean": "You might even say I'm a connoisseur. 발음듣기 내가 전문가라고 할지도 몰라요. User translation Inaccurate information may be included due to the users' self-traslation. gray(orch****) Web Collection",
+      "english": "You might even say I'm a connoisseur. 발음"
+    }
+  ]
+}

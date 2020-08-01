@@ -1,0 +1,104 @@
+{
+  "phrases": [
+    {
+      "phrase": "탐욕",
+      "hanja": " (貪慾)",
+      "example": {},
+      "meanings": [
+        "greed, (formal) avarice"
+      ]
+    },
+    {
+      "phrase": "탐욕스럽다",
+      "hanja": " (貪慾스럽다)",
+      "example": {},
+      "meanings": [
+        "greedy, (formal) avaricious, (formal) covetous"
+      ]
+    },
+    {
+      "phrase": "탐욕의 권화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a perfect picture of avarice",
+        "avarice personified",
+        "the devil of greed"
+      ]
+    },
+    {
+      "phrase": "탐욕을 부리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "남의 물건에 be covetous"
+      ]
+    },
+    {
+      "phrase": "탐욕스런 생각을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "think greedy[covetous] thoughts"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "greed",
+      "frequency": 1
+    },
+    {
+      "meaning": "avarice",
+      "frequency": 1
+    },
+    {
+      "meaning": "cupidity",
+      "frequency": 0
+    },
+    {
+      "meaning": "rapacity",
+      "frequency": 0
+    },
+    {
+      "meaning": "greediness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[되살아난 탐욕] 나! [Too enthusiastic] Me! 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[Too enthusiastic] Me!"
+    },
+    {
+      "korean": "[탐욕 끝에 100진 팀 드디어 득점!] [100 Jin scored finally!] View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[100 Jin scored finally!]"
+    },
+    {
+      "korean": "[어마어마한 공 탐욕] - 나! - 내가... [Too enthusiastic] - Me! - I'll... 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[Too enthusiastic] - Me! - I'll..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Greed is one of the seven deadly sins. 발음듣기 탐욕은 일곱 가지 대죄들 중 하나이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Greed is one of the seven deadly sins. 발음"
+    },
+    {
+      "korean": "the rapacity of landowners seeking greater profit 발음듣기 더 많은 수익을 얻으려는 지주들의 탐욕 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the rapacity of landowners seeking greater profit 발음"
+    },
+    {
+      "korean": "Greed is a disease of modern society. 발음듣기 탐욕은 현대 사회의 병폐이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Greed is a disease of modern society. 발음"
+    },
+    {
+      "korean": "Greed was her downfall. 발음듣기 탐욕이 그녀가 몰락한 원인이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Greed was her downfall. 발음"
+    },
+    {
+      "korean": "His eyes glittered with greed. 발음듣기 그의 두 눈이 탐욕으로 번들거렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His eyes glittered with greed. 발음"
+    }
+  ]
+}

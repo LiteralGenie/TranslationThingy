@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "1-2-3",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "컴퓨터/통신 Lotus 1-2-3의 약칭. 미국 로터스 사의 표 계산 프로그램."
+      ]
+    },
+    {
+      "phrase": "＜123",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "<123 1 love 2 hearts 3 words."
+      ]
+    },
+    {
+      "phrase": "Lotus 1-2-3",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "컴퓨터 로터스 1-2-3 ((스프레드 시트를 기본으로 데이터베이스, 그래프 기능 등이 통합되어 있는 IBM PC용의 통합 소프트웨어))"
+      ]
+    },
+    {
+      "phrase": "123호실이오.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "호텔에서 It's 123."
+      ]
+    },
+    {
+      "phrase": "123편은 정각에 출발합니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "비행기 Is flight 123 on time?",
+        "비행기 Will flight 123 take off on time?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "123편은 정각에 출발합니까?",
+      "frequency": 0
+    },
+    {
+      "meaning": "123편의 탑승 수속은 언제부터입니까?",
+      "frequency": 0
+    },
+    {
+      "meaning": "123호실이오.",
+      "frequency": 0
+    },
+    {
+      "meaning": "이름은 '박'이고 방 번호는 123호입니다.",
+      "frequency": 0
+    },
+    {
+      "meaning": "팬암 123편으로 변경할 수 있습니까?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "1 갑자기 많아졌어 \"123\" 뭐야? I see lots of \"1\". What is \"123\"? 듣기 View video Stray Kids : 현진이랑 토크할래요?🥰❣️",
+      "english": "I see lots of \"1\". What is \"123\"?"
+    },
+    {
+      "korean": "어우.. 123이야 - 123까지 올라갔어. Oh, 123... - It went up to 123. 듣기 View video MONSTA X : [몬채널][B] EP.106 '몬스타엑스레이3' 5화",
+      "english": "Oh, 123... - It went up to 123."
+    },
+    {
+      "korean": "123이야 - 123까지 올라갔어? - 뭐야? Mine is 123. - It went up to 123? - What? 듣기 View video MONSTA X : [Replay] MONSTA X-RAY 3 (몬스타엑스레이 3)_5화",
+      "english": "Mine is 123. - It went up to 123? - What?"
+    },
+    {
+      "korean": "아이디가 캔디맨123님. The ID is Candyman123. 듣기 View video Brown Eyed Girls : 제아] 제구리의 따뜻한 심야식당",
+      "english": "The ID is Candyman123."
+    },
+    {
+      "korean": "123... 잠시만요, 손님이요. 123... Wait, more customers. 듣기 View video 2PM : 블랙데이! 택연이랑 함께 먹어요",
+      "english": "123... Wait, more customers."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Just call or text me their name at 010-123-4567. 듣기 Add to Wordbook 010-123-4567로 전화나 문자로 이름 알려줘. DARAKWON",
+      "english": "Just call or text me their name at 010-123-4567. Add to Wordbook"
+    },
+    {
+      "korean": "Until then, please contact Susan (123-4567) for anything you need for the project. 듣기 Add to Wordbook 그때까지, 이번 프로젝트 건으로 필요하신 건 Susan(123-4567)에게 연락하시길 바랍니다. DARAKWON",
+      "english": "Until then, please contact Susan (123-4567) for anything you need for the project. Add to Wordbook"
+    },
+    {
+      "korean": "What gate is Pan Am 123 boarding at? 듣기 Add to Wordbook 팬암 123편의 탑승 게이트는 몇 번 입니까? YBM All in All English-Korean Dictionary",
+      "english": "What gate is Pan Am 123 boarding at? Add to Wordbook"
+    },
+    {
+      "korean": "Which gate is Pan Am flight 123 boarding at? 듣기 Add to Wordbook 팬암 123편의 탑승 게이트는 몇 번 입니까? YBM All in All English-Korean Dictionary",
+      "english": "Which gate is Pan Am flight 123 boarding at? Add to Wordbook"
+    },
+    {
+      "korean": "IPO Box (No.) 123 듣기 Add to Wordbook 국제 우체국 사서함 제123호 Dong-a's Prime English-Korean Dictionary",
+      "english": "IPO Box (No.) 123 Add to Wordbook"
+    }
+  ]
+}

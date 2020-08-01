@@ -1,0 +1,19 @@
+#: import ScrollEffect kivy.effects.scroll.ScrollEffect
+#: set self.effect_cls.friction 0.2
+
+<Viewer>:
+    size_hint: (None,1)         # Full height, width is w/e
+    size: (0,0)                 # Content has to be bigger than self to scroll
+
+    scroll_type: ['bars', 'content']
+    effect_y: ScrollEffect(friction=0.5)
+
+    do_scroll_x: 0
+    smooth_scroll_end: 1000
+    scroll_distance: 1          # Low drag distance before scroll begins
+    scroll_wheel_distance: 10
+
+    bar_width: 8
+    bar_color: [.5,.5,.5,.5]
+    bar_inactive_color: [.5,.5,.5,.1]
+

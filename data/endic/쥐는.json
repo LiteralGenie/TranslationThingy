@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "쥐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동물) rat, (생쥐) mouse (mice), (들쥐) field[meadow] mouse, (집쥐) house mouse",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "쥐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(근육 경련) cramp, (muscle) spasm, (Am, inf) charley horse"
+      ]
+    },
+    {
+      "phrase": "쥐 죽은 듯",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as if a mouse is dead"
+      ]
+    },
+    {
+      "phrase": "쥐 새끼 한 마리 얼씬하지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Even a mouse does not come near"
+      ]
+    },
+    {
+      "phrase": "쥐띠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Year of the Rat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "수염",
+      "frequency": 0
+    },
+    {
+      "meaning": "cramp",
+      "frequency": 1
+    },
+    {
+      "meaning": "mouse",
+      "frequency": 2
+    },
+    {
+      "meaning": "grip",
+      "frequency": 1
+    },
+    {
+      "meaning": "rattish",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "쥐다! 야 쥐야! It's a mouse! It's a mouse! 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "It's a mouse! It's a mouse!"
+    },
+    {
+      "korean": "집에 쥐가 있냐는데요? Do we have mice at home? 듣기 View video TOMORROW X TOGETHER : 웃지마요 찍찍🐭",
+      "english": "Do we have mice at home?"
+    },
+    {
+      "korean": "\"쥐 모자 어디서 샀나요?\" \"Where did you get the mouse hat?\" 듣기 View video TOMORROW X TOGETHER : 웃지마요 찍찍🐭",
+      "english": "\"Where did you get the mouse hat?\""
+    },
+    {
+      "korean": "쥑쥑? 쥑쥑은 쥐 아니에요? Zwik Zwik? Is it a rat or something? 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "Zwik Zwik? Is it a rat or something?"
+    },
+    {
+      "korean": "그 쥐 그거 쓰고 먹었던 거죠? You ate it with that mouse thing on, right? 듣기 View video TOMORROW X TOGETHER : 🐥🐸🍨",
+      "english": "You ate it with that mouse thing on, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "But most rats can see off a cat. 발음듣기 그러나 대부분의 쥐는 고양이를 물리칠 수도 있다. User translation Inaccurate information may be included due to the users' self-traslation. 행복이깃든(enge****) Web Collection",
+      "english": "But most rats can see off a cat. 발음"
+    },
+    {
+      "korean": "The two mice went for a walk. 발음듣기 두 쥐는 산책을 나섰다. User translation Inaccurate information may be included due to the users' self-traslation. 푸르(prun****) Web Collection",
+      "english": "The two mice went for a walk. 발음"
+    },
+    {
+      "korean": "A mouse makes a tiny poop. 발음듣기 쥐는 아주작은 똥을 싼다. User translation Inaccurate information may be included due to the users' self-traslation. 조(qjax****) Web Collection",
+      "english": "A mouse makes a tiny poop. 발음"
+    },
+    {
+      "korean": "Might want to lay off the nuts. 발음듣기 쥐는 그 견과류를 놓아두길 원해요. User translation Inaccurate information may be included due to the users' self-traslation. ahspzk812(ahsp****) Web Collection",
+      "english": "Might want to lay off the nuts. 발음"
+    },
+    {
+      "korean": "The mouse nibbled a piece of bread. 발음듣기 그 쥐는 빵 한조각을 갉아 먹었다. User translation Inaccurate information may be included due to the users' self-traslation. 크리넥(mond****) Web Collection",
+      "english": "The mouse nibbled a piece of bread. 발음"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "phrases": [
+    {
+      "phrase": "수라장",
+      "hanja": " (修羅場)",
+      "example": {},
+      "meanings": [
+        "a scene of utter confusion, a pandemonium, a scene of violence"
+      ]
+    },
+    {
+      "phrase": "수라장이 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become a scene of carnage",
+        "be in a terrible mess"
+      ]
+    },
+    {
+      "phrase": "수라장으로 만들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a dreadful mess",
+        "ransack"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "snake pit",
+      "frequency": 0
+    },
+    {
+      "meaning": "Aceldama",
+      "frequency": 0
+    },
+    {
+      "meaning": "shamble 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "a scene of carnage (bloodshed)",
+      "frequency": 0
+    },
+    {
+      "meaning": "make a dreadful mess",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Toys cluttered up the floor. 듣기 Add to Wordbook 장난감들로 마루는 수라장이 되었다 Dong-a's Prime English-Korean Dictionary",
+      "english": "Toys cluttered up the floor. Add to Wordbook"
+    },
+    {
+      "korean": "a field of death 듣기 Add to Wordbook 전쟁터, 수라장. Friendict Level English-Korean Dictionary",
+      "english": "a field of death Add to Wordbook"
+    },
+    {
+      "korean": "The meeting-hall was thrown into great confusion. 듣기 Add to Wordbook 회의장은 수라장이 되었다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The meeting-hall was thrown into great confusion. Add to Wordbook"
+    },
+    {
+      "korean": "The afterdeck of the PC 565 was a shambles : thirteen and dead men lay under light navy blankets. 듣기 Add to Wordbook 고속 초계정 565호의 뒷갑판은 수라장이었다. 열세명의 죽은 사람이 가벼운 해군 담요로 덮여 있었다. 영어영작문대사전",
+      "english": "The afterdeck of the PC 565 was a shambles : thirteen and dead men lay under light navy blankets. Add to Wordbook"
+    },
+    {
+      "korean": "The room was in a state of chaos after the burglar had left. 듣기 Add to Wordbook 밤도둑이 사라진 후 실내는 수라장(修羅場)이 되었다. 영어영작문대사전",
+      "english": "The room was in a state of chaos after the burglar had left. Add to Wordbook"
+    }
+  ]
+}

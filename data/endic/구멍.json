@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "구멍",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(뚫거나 파낸 자리) hole, pit, opening",
+        "(허점, 금전적 손실) (법의 허점) loophole; (금전적 손실) loss",
+        "(어려움을 헤쳐 나갈 길) way out"
+      ]
+    },
+    {
+      "phrase": "구멍가게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "small store[shop], (Am) mom-and-pop store, (Brit) corner shop"
+      ]
+    },
+    {
+      "phrase": "구멍을 막다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stop[fill] up a hole"
+      ]
+    },
+    {
+      "phrase": "구멍을 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put in[make] an opening"
+      ]
+    },
+    {
+      "phrase": "구멍을 뚫다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "날카로운 물건으로 pierce a hole (in/through)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hole",
+      "frequency": 2
+    },
+    {
+      "meaning": "cavity",
+      "frequency": 1
+    },
+    {
+      "meaning": "eye",
+      "frequency": 2
+    },
+    {
+      "meaning": "opening",
+      "frequency": 2
+    },
+    {
+      "meaning": "pocket",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "구멍 났다 구멍 났다! There's a hole! 듣기 View video TWICE : TWICE UNIV. 패션동아리 동아리방",
+      "english": "There's a hole!"
+    },
+    {
+      "korean": "저한테 구멍이 있다고요? I have a hole? 듣기 View video NU'EST : [NU’EST] 밀라노황🦊",
+      "english": "I have a hole?"
+    },
+    {
+      "korean": "구멍 났어요 - 구멍 났어? There's a hole. - Is there a hole? 듣기 View video TWICE : TWICE UNIV. 패션동아리 동아리방",
+      "english": "There's a hole. - Is there a hole?"
+    },
+    {
+      "korean": "작은 구멍 없어? Don't we have a small one? 듣기 View video NCT : 여러분도 올래요?",
+      "english": "Don't we have a small one?"
+    },
+    {
+      "korean": "[옷소매 구멍이 어디야?] [Where is the hole?] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Where is the hole?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He drilled through the wall by mistake. 발음듣기 그가 실수로 벽에 구멍을 뚫었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He drilled through the wall by mistake. 발음"
+    },
+    {
+      "korean": "First, scoop a hole in the soil. 발음듣기 먼저 흙을 파내어서 구멍을 하나 만들어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "First, scoop a hole in the soil. 발음"
+    },
+    {
+      "korean": "A thread of light emerged from the keyhole. 발음듣기 열쇠 구멍에서 한 줄기 불빛이 새어나오고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A thread of light emerged from the keyhole. 발음"
+    },
+    {
+      "korean": "He was wearing a carnation in his buttonhole. 발음듣기 그는 양복 단추 구멍에 카네이션 한 송이를 꽂고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was wearing a carnation in his buttonhole. 발음"
+    },
+    {
+      "korean": "The kids poked holes in the ice with sticks. 발음듣기 그 아이들이 막대기로 얼음에 구멍을 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The kids poked holes in the ice with sticks. 발음"
+    }
+  ]
+}

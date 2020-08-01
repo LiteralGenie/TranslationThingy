@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "격납고",
+      "hanja": " (格納庫)",
+      "example": {},
+      "meanings": [
+        "hangar"
+      ]
+    },
+    {
+      "phrase": "비행기 격납고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an aviation shed",
+        "a hangar"
+      ]
+    },
+    {
+      "phrase": "격납고 담당자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a hangar-man"
+      ]
+    },
+    {
+      "phrase": "격납고 갑판",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a hangar deck(항공 모함의)"
+      ]
+    },
+    {
+      "phrase": "이동 격납고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a portable hangar"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hangar",
+      "frequency": 0
+    },
+    {
+      "meaning": "shed 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "hangarage",
+      "frequency": 0
+    },
+    {
+      "meaning": "an airplane hangar",
+      "frequency": 0
+    },
+    {
+      "meaning": "aeroplane shed",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The planes in the hangar are being repaired. 듣기 Add to Wordbook 격납고의 비행기들은 수리중에 있다. Neungyule",
+      "english": "The planes in the hangar are being repaired. Add to Wordbook"
+    },
+    {
+      "korean": "The airplane is entering the hangar. 듣기 Add to Wordbook 비행기가 격납고로 들어가고 있다. YBM All in All English-Korean Dictionary",
+      "english": "The airplane is entering the hangar. Add to Wordbook"
+    },
+    {
+      "korean": "A shed is being put up around the airplane. 듣기 Add to Wordbook 비행기 근처에 격납고를 만들고 있다. YBM All in All English-Korean Dictionary",
+      "english": "A shed is being put up around the airplane. Add to Wordbook"
+    },
+    {
+      "korean": "The airplane is being taken out of the shed. 듣기 Add to Wordbook 비행기를 격납고에서 내보내고 있다. YBM All in All English-Korean Dictionary",
+      "english": "The airplane is being taken out of the shed. Add to Wordbook"
+    },
+    {
+      "korean": "The airplane is flying over a shed. 듣기 Add to Wordbook 비행기가 격납고 위를 날고 있다. YBM All in All English-Korean Dictionary",
+      "english": "The airplane is flying over a shed. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "회복",
+      "hanja": " (恢復)",
+      "example": {},
+      "meanings": [
+        "(원래 상태로) [명사] recovery, restoration, [동사] recover, restore, regain, get back",
+        "(건강 등의) [명사] recovery, recuperation, [동사] recover, recuperate"
+      ]
+    },
+    {
+      "phrase": "회복(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 recapture"
+      ]
+    },
+    {
+      "phrase": "회복(특허권의)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_특허 restoration , recovery , restoration of the patent right , recovery of the"
+      ]
+    },
+    {
+      "phrase": "회복세",
+      "hanja": " (回復勢)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "빠른 회복",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a quick[rapid, speedy] recovery"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "recovery",
+      "frequency": 3
+    },
+    {
+      "meaning": "rally",
+      "frequency": 3
+    },
+    {
+      "meaning": "restoration",
+      "frequency": 3
+    },
+    {
+      "meaning": "revival",
+      "frequency": 3
+    },
+    {
+      "meaning": "renewal",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[급 궁금] 베트남에도 원기 회복을 위한 음식이 있나요? is there any food that's supposed to help you recover from the heat? 듣기 View video 컨버전스티비 (CONS TV) : [W메이트 13화]포세이돈 원픽 맛집이 서울에 있다!?",
+      "english": "is there any food that's supposed to help you recover from the heat?"
+    },
+    {
+      "korean": "[결국 컨디션 회복을 위해 잠시 휴식] 잠깐 쉬실까요? 뭐 먹었어? [Taking a break for recovering] Shall we take a break? Did you eat? 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP31 #대망의마지막연습 #컨디션난조 #위기의첸",
+      "english": "[Taking a break for recovering] Shall we take a break? Did you eat?"
+    },
+    {
+      "korean": "지금 눈썹도 잘 회복되었어요 전혀 이상하게 느껴지지 않죠? As you can see, my eyebrow is fine. It doesn't look awkward at all, does it? 듣기 View video NCT : 드디어퇴근길vapp한다!!",
+      "english": "As you can see, my eyebrow is fine. It doesn't look awkward at all, does it?"
+    },
+    {
+      "korean": "[울 씅씅이 이미 내 인생의 피로회복제고 만병통치약이고 행복의 비결인데] 뭘 찾어~? [She's my vitamins and my secret to happiness] Why do you look for such a thing? 듣기 View video V PICK! : [2년 전 오늘의 OH MY GIRL] 울 씅씅에게 빠지면 치료법? 그런게 어딨어요 이미 게임오버💕 (HAPPY SEUNGHEE DAY 2years ago!)",
+      "english": "[She's my vitamins and my secret to happiness] Why do you look for such a thing?"
+    },
+    {
+      "korean": "'회복회' 케이크? \"WE SEE WINTER\" cake? 듣기 View video fromis_9 : 규리의 한강라면🍲 💥매진임박💥",
+      "english": "\"WE SEE WINTER\" cake?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to cause irreparable damage/harm to your health 듣기 Add to Wordbook 건강에 회복할 수 없는 손상/해를 입히다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cause irreparable damage/harm to your health Add to Wordbook"
+    },
+    {
+      "korean": "She nursed her daughter back to health. 듣기 Add to Wordbook 그녀는 딸이 건강을 회복하도록 병구완을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She nursed her daughter back to health. Add to Wordbook"
+    },
+    {
+      "korean": "He was nursed back to health by his wife. 듣기 Add to Wordbook 그는 아내의 간호로 다시 건강을 회복했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was nursed back to health by his wife. Add to Wordbook"
+    },
+    {
+      "korean": "You need four to six weeks’ convalescence. 듣기 Add to Wordbook 4주에서 6주까지의 회복 기간이 필요합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You need four to six weeks’ convalescence. Add to Wordbook"
+    },
+    {
+      "korean": "policies aimed at bringing about a rapprochement with China 듣기 Add to Wordbook 중국과의 관계 회복을 가져오기 위한 정책들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "policies aimed at bringing about a rapprochement with China Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "살육",
+      "hanja": " (殺戮)",
+      "example": {},
+      "meanings": [
+        "[명사] slaughter, carnage, [동사] slaughter"
+      ]
+    },
+    {
+      "phrase": "대량 살육",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mass murder",
+        "genocide"
+      ]
+    },
+    {
+      "phrase": "살육을 자행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "kill recklessly",
+        "massacre[butcher] brutally[cruelly]"
+      ]
+    },
+    {
+      "phrase": "살육의 현장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a scene of carnage"
+      ]
+    },
+    {
+      "phrase": "수천 명의 사람들이 살육 당하였지요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Thousands of people were slaughtered."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "slaughter",
+      "frequency": 3
+    },
+    {
+      "meaning": "mow somebody down",
+      "frequency": 0
+    },
+    {
+      "meaning": "make a massacre (of)",
+      "frequency": 0
+    },
+    {
+      "meaning": "kill mercilessly",
+      "frequency": 0
+    },
+    {
+      "meaning": "an orgy of killing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The rebels went on an orgy of killing. 듣기 Add to Wordbook 반란자들이 광란의 살육을 벌였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The rebels went on an orgy of killing. Add to Wordbook"
+    },
+    {
+      "korean": "the wholesale slaughter of innocent people 듣기 Add to Wordbook 무고한 사람들에 대한 대대적인 살육 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the wholesale slaughter of innocent people Add to Wordbook"
+    },
+    {
+      "korean": "Motherless meat is an alternative to traditional slaughtered meat. 듣기 Add to Wordbook 동물 줄기세포로 만든 고기는 동물을 살육한 고기의 대안이다. 국제영어대학원대학교 신어사전",
+      "english": "Motherless meat is an alternative to traditional slaughtered meat. Add to Wordbook"
+    },
+    {
+      "korean": "The massacre of the American buffalo almost made them extinct. 듣기 Add to Wordbook 대량 살육으로 인해 미국 들소는 거의 멸종 상태에 이르렀다. Neungyule",
+      "english": "The massacre of the American buffalo almost made them extinct. Add to Wordbook"
+    },
+    {
+      "korean": "A bloody massacre took place. 듣기 Add to Wordbook 피비린내 나는 살육이 벌어졌다 Neungyule",
+      "english": "A bloody massacre took place. Add to Wordbook"
+    }
+  ]
+}

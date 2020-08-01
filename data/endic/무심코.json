@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "무심코",
+      "hanja": " (無心―)",
+      "example": {},
+      "meanings": [
+        "(부주의하게) carelessly, thoughtlessly; (자기도 모르게) unconsciously"
+      ]
+    },
+    {
+      "phrase": "무심코 입 밖에 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blurt out",
+        "let (slip) out",
+        "inadvertently talk about"
+      ]
+    },
+    {
+      "phrase": "비밀을 무심코 입밖에 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blurt out a secret"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "inadvertently",
+      "frequency": 0
+    },
+    {
+      "meaning": "absently",
+      "frequency": 0
+    },
+    {
+      "meaning": "casually",
+      "frequency": 1
+    },
+    {
+      "meaning": "carelessly",
+      "frequency": 1
+    },
+    {
+      "meaning": "unintentionally",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저도 무심코 여기 보고... I also looked up without even knowing. 듣기 View video BTS : Run BTS! 2020 - EP.95",
+      "english": "I also looked up without even knowing."
+    },
+    {
+      "korean": "어? 지난번에 엄마랑 무심코 얘기해서 미안하다고요? Oh? \"I'm sorry for saying with mom\". 듣기 View video SF9 : 빈어스🍀",
+      "english": "Oh? \"I'm sorry for saying with mom\"."
+    },
+    {
+      "korean": "무심코 나온 말인데... I just said it... 듣기 View video Glorious Entertainment : [이호원(hoya)]자?",
+      "english": "I just said it..."
+    },
+    {
+      "korean": "[무심코 지나친 이 방...] [Passing by this room...] View video NCT : NCT LIFE 예능 수련회 EP 01",
+      "english": "[Passing by this room...]"
+    },
+    {
+      "korean": "[무심코 미션 봉투를 내려놓는 두부] 난 성공했어. [Dahyun put the envelope down] I made it. 듣기 View video TWICE : TWICE TV6 -TWICE in SINGAPORE- EP.02",
+      "english": "[Dahyun put the envelope down] I made it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He nodded absently, his attention absorbed by the screen. 발음듣기 그는 화면에 정신을 빼앗긴 채 무심코 고개를 끄덕였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He nodded absently, his attention absorbed by the screen. 발음"
+    },
+    {
+      "korean": "‘Let the cat out of the bag’ is an idiom meaning to tell a secret by mistake. 발음듣기 let the cat out of the bag은 ‘무심코 비밀을 말해 버리다’는 뜻의 관용구이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Let the cat out of the bag’ is an idiom meaning to tell a secret by mistake. 발음"
+    },
+    {
+      "korean": "She let fall a further heavy hint. 발음듣기 그녀가 더 큰 암시를 무심코 흘렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She let fall a further heavy hint. 발음"
+    },
+    {
+      "korean": "I’m sorry, I wasn’t thinking. 발음듣기 미안, 내가 생각을 못 했어[아무 생각 없이 그랬어]. (무심코 남의 기분을 상하게 했을 때 하는 말) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m sorry, I wasn’t thinking. 발음"
+    },
+    {
+      "korean": "We had inadvertently left without paying the bill. 발음듣기 우리가 무심코 계산을 하지 않고 떠났었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We had inadvertently left without paying the bill. 발음"
+    }
+  ]
+}

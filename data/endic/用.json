@@ -1,0 +1,73 @@
+{
+  "phrases": [
+    {
+      "phrase": "-용",
+      "hanja": " (用)",
+      "example": {},
+      "meanings": [
+        "for (the use of)"
+      ]
+    },
+    {
+      "phrase": "레터링용 펜",
+      "hanja": " (─用─)",
+      "example": {},
+      "meanings": [
+        "a lettering pen."
+      ]
+    },
+    {
+      "phrase": "땜질용 인두",
+      "hanja": " (─用─)",
+      "example": {},
+      "meanings": [
+        "a soldering iron."
+      ]
+    },
+    {
+      "phrase": "레이더용 비컨",
+      "hanja": " (─用─)",
+      "example": {},
+      "meanings": [
+        "a radar beacon, a racon."
+      ]
+    },
+    {
+      "phrase": "지붕용 슬레이트",
+      "hanja": " (─用─)",
+      "example": {},
+      "meanings": [
+        "a roofing slate."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cross-dress",
+      "frequency": 0
+    },
+    {
+      "meaning": "camp shirt",
+      "frequency": 0
+    },
+    {
+      "meaning": "diestock",
+      "frequency": 0
+    },
+    {
+      "meaning": "Allen wrench",
+      "frequency": 0
+    },
+    {
+      "meaning": "caricaturable",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Concept design for an anti-theft sandwich bag. 발음듣기 도난방지 샌드위치 가방用 컨셉 디자인 User translation Inaccurate information may be included due to the users' self-traslation. Derek(1254****) Web Collection",
+      "english": "Concept design for an anti-theft sandwich bag. 발음"
+    }
+  ]
+}

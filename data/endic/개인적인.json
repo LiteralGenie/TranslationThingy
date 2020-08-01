@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "개인적",
+      "hanja": " (個人的)",
+      "example": {},
+      "meanings": [
+        "personal, individual"
+      ]
+    },
+    {
+      "phrase": "개인적",
+      "hanja": " (個人的)",
+      "example": {},
+      "meanings": [
+        "Noun being individual"
+      ]
+    },
+    {
+      "phrase": "개인적으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "individually",
+        "privately",
+        "personally"
+      ]
+    },
+    {
+      "phrase": "개인적인 견해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a personal opinion"
+      ]
+    },
+    {
+      "phrase": "(개인적으로) 대화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a word with",
+        "have a heart-to-heart with"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "personal",
+      "frequency": 2
+    },
+    {
+      "meaning": "private",
+      "frequency": 2
+    },
+    {
+      "meaning": "corporal 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "intimate 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "lndividual",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "개인적인... In my opinion... 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "In my opinion..."
+    },
+    {
+      "korean": "제 개인적인 거예요 제가 사실 그... It's my personal thing, though. 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "It's my personal thing, though."
+    },
+    {
+      "korean": "뭐야 - 정연이 개인적인 의견이죠? What the... - Is it JEONGYEON's personal opinion? 듣기 View video TWICE : [Replay] TWICE \"MORE & MORE\" SPECIAL LIVE",
+      "english": "What the... - Is it JEONGYEON's personal opinion?"
+    },
+    {
+      "korean": "개인적인 그런... 뭐라고 해야 되지? 의견? Personal... How should I call it? Opinions? 듣기 View video NCT : 후기이🖤🤍",
+      "english": "Personal... How should I call it? Opinions?"
+    },
+    {
+      "korean": "예쁘네요 - 그러니까 이게 내 개인적인, 개인적으로, 스포... It's pretty. - Well, I personally... Oh, this is a spoiler. 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "It's pretty. - Well, I personally... Oh, this is a spoiler."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was extremely reticent about his personal life. 발음듣기 그는 자기 개인적인 생활에 대해 심할 정도로 말을 잘 안 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was extremely reticent about his personal life. 발음"
+    },
+    {
+      "korean": "personal animosities between members of the two groups 발음듣기 그 두 집단 구성원들 사이의 개인적인 적대감들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "personal animosities between members of the two groups 발음"
+    },
+    {
+      "korean": "Their problems were circumstantial rather than personal. 발음듣기 그들의 문제는 개인적인 것이라기보다 상황에 의한 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their problems were circumstantial rather than personal. 발음"
+    },
+    {
+      "korean": "Her personal ambitions had been subjugated to the needs of her family. 발음듣기 그녀의 개인적인 야망은 가족의 필요에 예속되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her personal ambitions had been subjugated to the needs of her family. 발음"
+    },
+    {
+      "korean": "You should always pay attention to personal grooming. 발음듣기 당신 자신의 개인적인 차림새에 항상 신경을 써야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You should always pay attention to personal grooming. 발음"
+    }
+  ]
+}

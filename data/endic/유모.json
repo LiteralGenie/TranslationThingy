@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "유모",
+      "hanja": " (乳母)",
+      "example": {},
+      "meanings": [
+        "nanny"
+      ]
+    },
+    {
+      "phrase": "아기를 유모에게 맡기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "leave a baby with a nanny"
+      ]
+    },
+    {
+      "phrase": "아기를 유모한테 맡기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put to a nurse",
+        "put[place] under the care of a nurse"
+      ]
+    },
+    {
+      "phrase": "유모모반",
+      "hanja": " (有毛母斑)",
+      "example": {},
+      "meanings": [
+        "의학 pilose nevus, nevus pilosus"
+      ]
+    },
+    {
+      "phrase": "유모세포",
+      "hanja": " (有毛細胞)",
+      "example": {},
+      "meanings": [
+        "의학 hair cell"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "nanny",
+      "frequency": 0
+    },
+    {
+      "meaning": "mammy",
+      "frequency": 0
+    },
+    {
+      "meaning": "wet nurse",
+      "frequency": 0
+    },
+    {
+      "meaning": "foster mother",
+      "frequency": 0
+    },
+    {
+      "meaning": "fosterer",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "유모. 나는 어려서부터 이곳이 적응이 안 됐어. Nanny, I haven't liked this place, since I was young. 듣기 View video GFRIEND : 여자친구가 사랑한 유럽 EP.02 Part.1",
+      "english": "Nanny, I haven't liked this place, since I was young."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Many kiss the child for the nurse's sake. 발음듣기 유모를 유혹하려고 아기에게 숱하게 키스하다. (서양속담, 성공속담) 명언/속담",
+      "english": "Many kiss the child for the nurse's sake. 발음"
+    },
+    {
+      "korean": "She thought her nanny was fluff-brained. 발음듣기 그녀는 자기 유모가 골이 비었다고 생각했다. 국제영어대학원대학교 신어사전",
+      "english": "She thought her nanny was fluff-brained. 발음"
+    },
+    {
+      "korean": "The nursemaid read the child a bedtime story. 발음듣기 유모는 잠들기 전에 아이에게 책을 읽어 주었다. Neungyule",
+      "english": "The nursemaid read the child a bedtime story. 발음"
+    },
+    {
+      "korean": "The baby is at nurse. 발음듣기 그 아이는 유모가 기르고 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The baby is at nurse. 발음"
+    },
+    {
+      "korean": "I was grown at foster. 발음듣기 나는 유모에게 맡겨 키워졌다. YBM All in All English-Korean Dictionary",
+      "english": "I was grown at foster. 발음"
+    }
+  ]
+}

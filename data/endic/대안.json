@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "대안",
+      "hanja": " (代案)",
+      "example": {},
+      "meanings": [
+        "alternative"
+      ]
+    },
+    {
+      "phrase": "대안에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on the other[opposite] side",
+        "on the opposite bank[shore]"
+      ]
+    },
+    {
+      "phrase": "대안학교",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "alternative school"
+      ]
+    },
+    {
+      "phrase": "대안을 제시하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suggest[propose] an alternative"
+      ]
+    },
+    {
+      "phrase": "대안렌즈",
+      "hanja": " (對眼―)",
+      "example": {},
+      "meanings": [
+        "an ocular"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "alternative",
+      "frequency": 3
+    },
+    {
+      "meaning": "counterplan",
+      "frequency": 0
+    },
+    {
+      "meaning": "counteroffer",
+      "frequency": 0
+    },
+    {
+      "meaning": "counterproposal",
+      "frequency": 0
+    },
+    {
+      "meaning": "an alternative plan",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[대안 없이는 죽어도 못 보내] 대안도 없이 이걸 무작정 졸업한다고 그러면... You can't just graduate from it without any alternative. 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 1회 - 박지훈, 저장&윙크로부터 졸업!",
+      "english": "You can't just graduate from it without any alternative."
+    },
+    {
+      "korean": "규리는 이번 주 라면을 먹었다 대 안 먹었다 뭐야~ Did Gyuri eat ramen this week or didn't she? What? 듣기 View video fromis_9 : 🎊fromis_9 1st BIRTHDAY PARTY🎊",
+      "english": "Did Gyuri eat ramen this week or didn't she? What?"
+    },
+    {
+      "korean": "대안이 있군요? They have alternatives? 듣기 View video 10PM : 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "They have alternatives?"
+    },
+    {
+      "korean": "뭔가 대안이 필요해. I need to think of a solution. 듣기 View video iKON : 날씨 너무 좋다~",
+      "english": "I need to think of a solution."
+    },
+    {
+      "korean": "그래? - 안 한 대, 안 한 대. Really? - They don't do it. They don't do it. 듣기 View video BTOB : MC 성재의 <집사부일체> 대기실 V 라이브!",
+      "english": "Really? - They don't do it. They don't do it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The only practicable alternative is to postpone the meeting. 듣기 Add to Wordbook 실행 가능한 유일한 대안은 회의를 연기하는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The only practicable alternative is to postpone the meeting. Add to Wordbook"
+    },
+    {
+      "korean": "Community service is seen as the only credible alternative to imprisonment. 듣기 Add to Wordbook 사회봉사가 수감을 대체할, 유일하게 받아들일 만한 대안으로 보인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Community service is seen as the only credible alternative to imprisonment. Add to Wordbook"
+    },
+    {
+      "korean": "There is no viable alternative. 듣기 Add to Wordbook 실행 가능한 다른 대안이 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is no viable alternative. Add to Wordbook"
+    },
+    {
+      "korean": "Do you have an alternative solution? 듣기 Add to Wordbook 대안이 될 다른 해결책이 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you have an alternative solution? Add to Wordbook"
+    },
+    {
+      "korean": "We had no alternative but to fire Gibson. 듣기 Add to Wordbook 우리는 깁슨을 해고할 밖에 다른 대안이 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We had no alternative but to fire Gibson. Add to Wordbook"
+    }
+  ]
+}

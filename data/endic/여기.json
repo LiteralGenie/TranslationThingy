@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "여기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(이곳) here",
+        "(이 대목) here"
+      ]
+    },
+    {
+      "phrase": "여기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regard, consider, think, count"
+      ]
+    },
+    {
+      "phrase": "여기까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(up) to this place",
+        "so far",
+        "thus far"
+      ]
+    },
+    {
+      "phrase": "여기쯤에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hereabout(s)",
+        "in this neighborhood",
+        "about here"
+      ]
+    },
+    {
+      "phrase": "여기부터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "from here",
+        "from this place[point]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "here",
+      "frequency": 3
+    },
+    {
+      "meaning": "herewith",
+      "frequency": 3
+    },
+    {
+      "meaning": "here you go",
+      "frequency": 0
+    },
+    {
+      "meaning": "here you are",
+      "frequency": 0
+    },
+    {
+      "meaning": "by here",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[여기?]",
+      "english": "[Is it here?]"
+    },
+    {
+      "korean": "여기 있다!",
+      "english": "Oh, here it is!"
+    },
+    {
+      "korean": "자자자 여긴 어디죠?",
+      "english": "Where are we?"
+    },
+    {
+      "korean": "여기서 다시...",
+      "english": "So again, here I go..."
+    },
+    {
+      "korean": "[나... 여... 여기...]",
+      "english": "[I'm right here...]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 무엇을 준다 해도 난 여기 살고 싶지 않겠다.",
+      "english": "Nothing would tempt me to live here."
+    },
+    {
+      "korean": "최근에 여기에서 이상한 일들이 있었다.",
+      "english": "There have been strange happenings here lately."
+    },
+    {
+      "korean": "도로가 여기서 휘어지다가 그 다음엔 쭉 발라진다.",
+      "english": "The road bends here then straightens out."
+    },
+    {
+      "korean": "“여기 오래 계셨나요?” 그가 대화를 트려는 듯 물었다.",
+      "english": "‘Have you been here long?’ he asked conversationally."
+    },
+    {
+      "korean": "여기 주목 좀 해 봐!",
+      "english": "Cop a load of this!"
+    }
+  ]
+}

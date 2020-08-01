@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "주의자",
+      "hanja": " (主義者)",
+      "example": {},
+      "meanings": [
+        "an ideologist"
+      ]
+    },
+    {
+      "phrase": "채식주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a vegetarian",
+        "a vegan"
+      ]
+    },
+    {
+      "phrase": "평화주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a pacifist",
+        "an advocate of peace"
+      ]
+    },
+    {
+      "phrase": "이상주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an idealist"
+      ]
+    },
+    {
+      "phrase": "민주주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "democrat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "equalitarian",
+      "frequency": 0
+    },
+    {
+      "meaning": "immoralist",
+      "frequency": 0
+    },
+    {
+      "meaning": "Protagorean",
+      "frequency": 0
+    },
+    {
+      "meaning": "nationalist",
+      "frequency": 3
+    },
+    {
+      "meaning": "pacifist",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그러면 - 저는 평화주의자입니다!",
+      "english": "Then... - I'm a pacifist!"
+    },
+    {
+      "korean": "비혼 주의자?",
+      "english": "He wants to stay single?"
+    },
+    {
+      "korean": "저는 그냥 평화주의자에요.",
+      "english": "I'm just a pacifist."
+    },
+    {
+      "korean": "왜 비혼 주의자로 돌아선 거야?",
+      "english": "What made you come to that choice?"
+    },
+    {
+      "korean": "[원칙주의자 라키] 형 이렇게 하면 안 돼요!",
+      "english": "[Rule follower Rocky] \"You can't do that!\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 인종 차별주의자의 공격에서 칼에 찔려 죽었다.",
+      "english": "He was stabbed to death in a racist attack."
+    },
+    {
+      "korean": "그 수상은 극단주의자들에 의해 암살당했다.",
+      "english": "The prime minister was assassinated by extremists."
+    },
+    {
+      "korean": "채식주의자들은 더 이상 괴짜로 취급당하지 않는다.",
+      "english": "Vegetarians are no longer dismissed as cranks."
+    },
+    {
+      "korean": "환경보호주의자들은 그 결정에 격분을 표했다.",
+      "english": "Environmentalists have expressed outrage at the ruling."
+    },
+    {
+      "korean": "채식주의자들은 고기를 먹는 것은 나쁜 업보를 쌓는 일이라고 믿는다.",
+      "english": "Vegetarians believe that eating meat is bad karma."
+    }
+  ]
+}

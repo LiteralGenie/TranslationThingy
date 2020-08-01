@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "중화",
+      "hanja": " (中和)",
+      "example": {},
+      "meanings": [
+        "neutralization, neutralize"
+      ]
+    },
+    {
+      "phrase": "중화사상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Sinocentrism"
+      ]
+    },
+    {
+      "phrase": "중화요리점",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a Chinese restaurant",
+        "a chop suey house"
+      ]
+    },
+    {
+      "phrase": "중화요리",
+      "hanja": " (中華料理)",
+      "example": {},
+      "meanings": [
+        "Chinese food, Chinese dishes"
+      ]
+    },
+    {
+      "phrase": "중화민국",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Republic of China"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neutralization",
+      "frequency": 0
+    },
+    {
+      "meaning": "Middle Kingdom",
+      "frequency": 0
+    },
+    {
+      "meaning": "Flowery Kingdom",
+      "frequency": 0
+    },
+    {
+      "meaning": "Chinese nation",
+      "frequency": 0
+    },
+    {
+      "meaning": "Zhonghua",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그러니까 좀 중화가 되긴 했는데... It looks better. 듣기 View video SSONGYANG : 8가지 가을 섀도우팔레트 추천🍂 에뛰드 베이크하우스 / 클리오 섀도우 / 피치씨 팔레트",
+      "english": "It looks better."
+    },
+    {
+      "korean": "저 하고 싶어요 - 중화요리 CF 본 적이 없다고요? I want to do it. - You've never seen a Chinese food ad? 듣기 View video V COOKIE : [Full] 1THE9 X Eating Show - 원더나인 X 같이 먹어요",
+      "english": "I want to do it. - You've never seen a Chinese food ad?"
+    },
+    {
+      "korean": "중화요리. - 중화요리. Chinese food. - Chinese food. 듣기 View video 모해 MOHAE : [WekiMeki 위키미키 모해?] EP35 고요 속의 외침? NOPE! 아무 말 대잔치!",
+      "english": "Chinese food. - Chinese food."
+    },
+    {
+      "korean": "왜? 중화요리야? Why? How is it so? 듣기 View video ASTRO : 고기 같이 먹을래??🍖",
+      "english": "Why? How is it so?"
+    },
+    {
+      "korean": "여기 식당은 중화요리에요 중화요리. This place is a Chinese restaurant. 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.11 WHO, YOU 컴백 준비 비하인드",
+      "english": "This place is a Chinese restaurant."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "snakebite serum 듣기 Add to Wordbook 독사의 독을 중화하는 면역 혈청 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "snakebite serum Add to Wordbook"
+    },
+    {
+      "korean": "Mainland China is called \"The People's Republic of China.\" 듣기 Add to Wordbook 중국 본토는 \"중화인민공화국\"이라고 불립니다. Neungyule",
+      "english": "Mainland China is called \"The People's Republic of China.\" Add to Wordbook"
+    },
+    {
+      "korean": "Acidity in soil can be neutralized by spreading lime on it. 듣기 Add to Wordbook 토양의 산도는 흙 위에 석회를 뿌림으로써 중화될 수 있다. YBM All in All English-Korean Dictionary",
+      "english": "Acidity in soil can be neutralized by spreading lime on it. Add to Wordbook"
+    },
+    {
+      "korean": "correction of acidity in the stomach 듣기 Add to Wordbook 위 속의 산의 중화. Friendict Level English-Korean Dictionary",
+      "english": "correction of acidity in the stomach Add to Wordbook"
+    },
+    {
+      "korean": "The neutralizing process is very important when giving a permanent. 듣기 Add to Wordbook 파마할 때 중화는 매우 중요한 과정이다 Neungyule",
+      "english": "The neutralizing process is very important when giving a permanent. Add to Wordbook"
+    }
+  ]
+}

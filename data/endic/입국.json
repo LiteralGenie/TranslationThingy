@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "입국",
+      "hanja": " (入國)",
+      "example": {},
+      "meanings": [
+        "[명사] entry, entrance, [동사] enter a country, be admitted into a country"
+      ]
+    },
+    {
+      "phrase": "입국 신고서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a landing card"
+      ]
+    },
+    {
+      "phrase": "입국[출국] 비자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an entry[exit] visa"
+      ]
+    },
+    {
+      "phrase": "산업 입국",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the establishment of a state on the basis of industries"
+      ]
+    },
+    {
+      "phrase": "입국 날짜",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the date of entry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "an entrance to a country",
+      "frequency": 0
+    },
+    {
+      "meaning": "ipguk",
+      "frequency": 0
+    },
+    {
+      "meaning": "entry",
+      "frequency": 3
+    },
+    {
+      "meaning": "incoming flights",
+      "frequency": 0
+    },
+    {
+      "meaning": "a multiple entry visa",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "정답! 입국심사! I know! Go through immigration! 듣기 View video DAY6 : DAY6 1ST WORLD TOUR 'Youth' <옥탑방의 데식이들> 확장판 1부",
+      "english": "I know! Go through immigration!"
+    },
+    {
+      "korean": "입국을 축하드립니다! Congratulations on your entry! 듣기 View video KIM JAEHWAN(김재환) : 윈드와 함께 하는 솔로 데뷔 100일 잔치 🎉",
+      "english": "Congratulations on your entry!"
+    },
+    {
+      "korean": "\"찬아, 입국할 때도 찬타몽 티 입을거야?\" \"CHAN, are you wearing the \"CHAN TA MONG\" t-shirt on your way here, too\"? 듣기 View video Stray Kids : Stray Kids in Jeddah! 🖤",
+      "english": "\"CHAN, are you wearing the \"CHAN TA MONG\" t-shirt on your way here, too\"?"
+    },
+    {
+      "korean": "입국할 때? When entering the country? 듣기 View video DAY6 : 심심한 사람~",
+      "english": "When entering the country?"
+    },
+    {
+      "korean": "나 입국 일자 잘못 썼어요. I wrote the wrong date of entry. 듣기 View video ASTRO : [ASTRO DDOCA] 아스트로 또까 ASTROAD II in Japan",
+      "english": "I wrote the wrong date of entry."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to be granted/refused entry into the country 듣기 Add to Wordbook 그 나라 입국을 허락받다/거부당하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be granted/refused entry into the country Add to Wordbook"
+    },
+    {
+      "korean": "The hotel bus meets all incoming flights. 듣기 Add to Wordbook 호텔 버스가 모든 입국 항공편에 맞춰 마중을 나간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel bus meets all incoming flights. Add to Wordbook"
+    },
+    {
+      "korean": "I couldn’t enter the country because I didn’t have all the necessary documentation. 듣기 Add to Wordbook 나는 필요한 모든 서류를 가지고 있지 않아서 그 나라에 입국할 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I couldn’t enter the country because I didn’t have all the necessary documentation. Add to Wordbook"
+    },
+    {
+      "korean": "a multiple entry visa 듣기 Add to Wordbook 복수 입국 여권 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a multiple entry visa Add to Wordbook"
+    },
+    {
+      "korean": "Where do I clear customs and immigration? 듣기 Add to Wordbook 통관과 입국심사는 어디에서 합니까? Neungyule",
+      "english": "Where do I clear customs and immigration? Add to Wordbook"
+    }
+  ]
+}

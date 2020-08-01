@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "얼마나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(얼마 가량이나) how",
+        "(느낌·감탄 등의 정도) how"
+      ]
+    },
+    {
+      "phrase": "얼마나 되는데?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How much do you have?"
+      ]
+    },
+    {
+      "phrase": "얼마나 오래 된 차죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How old is the car?"
+      ]
+    },
+    {
+      "phrase": "그것 가격이 얼마나 될까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What would it be worth?"
+      ]
+    },
+    {
+      "phrase": "밖이 얼마나 더운가요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How hot is it outside?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "how",
+      "frequency": 3
+    },
+    {
+      "meaning": "what",
+      "frequency": 3
+    },
+    {
+      "meaning": "what 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "How long (…)?",
+      "frequency": 0
+    },
+    {
+      "meaning": "How Late It Was, How Late",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "얼마나 썼지? How long did I use them? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "How long did I use them?"
+    },
+    {
+      "korean": "거의 지금... 얼마나 썼지? It's been like... 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "It's been like..."
+    },
+    {
+      "korean": "얼마나 할 건데? How much will you get paid? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "How much will you get paid?"
+    },
+    {
+      "korean": "[걱정] 이거 얼마나 마셔야 되냐? [Worried] How much do I need to drink? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Worried] How much do I need to drink?"
+    },
+    {
+      "korean": "'화보 찍는데 얼마나 걸려요?' \"How long does it take to do a pictorial shoot?\" 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "\"How long does it take to do a pictorial shoot?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "How long did you spend on your homework? 듣기 Add to Wordbook 너 숙제 하는 데 시간이 얼마나 들었니[얼마나 오래 걸렸니]? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How long did you spend on your homework? Add to Wordbook"
+    },
+    {
+      "korean": "How quickly can you prepare the paperwork? 듣기 Add to Wordbook 서류를 얼마나 빨리 준비할 수 있으세요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How quickly can you prepare the paperwork? Add to Wordbook"
+    },
+    {
+      "korean": "How mortifying to have to apologize to him! 듣기 Add to Wordbook 그에게 사과를 해야 하다니 얼마나 굴욕스러운지! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How mortifying to have to apologize to him! Add to Wordbook"
+    },
+    {
+      "korean": "You sly old devil! How long have you known? 듣기 Add to Wordbook 이 음흉한 늙은 악마 같으니라구! 당신은 안 지 얼마나 된 거야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You sly old devil! How long have you known? Add to Wordbook"
+    },
+    {
+      "korean": "He had miscalculated how long the trip would take. 듣기 Add to Wordbook 그는 그 여행이 얼마나 오래 걸릴 것인지를 잘못 계산했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had miscalculated how long the trip would take. Add to Wordbook"
+    }
+  ]
+}

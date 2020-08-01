@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "체제",
+      "hanja": " (體制)",
+      "example": {},
+      "meanings": [
+        "system"
+      ]
+    },
+    {
+      "phrase": "운영체제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(컴퓨터의) operating system ((abb.)OS)"
+      ]
+    },
+    {
+      "phrase": "유신 체제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Revitalizing Reforms system"
+      ]
+    },
+    {
+      "phrase": "정치 체제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a political system[dispensation]"
+      ]
+    },
+    {
+      "phrase": "경제 체제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an economic structure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "order",
+      "frequency": 3
+    },
+    {
+      "meaning": "system",
+      "frequency": 3
+    },
+    {
+      "meaning": "framework",
+      "frequency": 3
+    },
+    {
+      "meaning": "regime",
+      "frequency": 3
+    },
+    {
+      "meaning": "dispensation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[스태프 1팀 체제] 같은 스탭을 쓰거든요 저희가. We use the same staff members. 듣기 View video 졸잼티비 (joLjamTV) : [theHybrid] 은지원과 토니안이 만나서 ... ?!! _ ep1",
+      "english": "We use the same staff members."
+    },
+    {
+      "korean": "솔리드 체제! 이대로 괜찮은가! Solid system! Is it okay to continue like this? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 35회 짜냥이CAM - 데뷔 4주년 기념 리더선거 Part 1.",
+      "english": "Solid system! Is it okay to continue like this?"
+    },
+    {
+      "korean": "네, 5인체제가 된 아이콘. You're watching 5-member iKon. 듣기 View video iKON : MERRY KONY'S MAS",
+      "english": "You're watching 5-member iKon."
+    },
+    {
+      "korean": "저희가 이제는 2인 체제로 활동을 하겠습니다. We'll now act as a duet. 듣기 View video IDOL x IDOL : Man's Avenue - 맨스에비뉴 '귀가 호강하는 시간'",
+      "english": "We'll now act as a duet."
+    },
+    {
+      "korean": "별궁을 하나 두는 이궁체제를 가지고 있었거든요. They kept a detached palace, which means dual system. 듣기 View video V BOOKS : <나의 문화유산답사기> 저자 유홍준 생중계, '서울을 말하다'",
+      "english": "They kept a detached palace, which means dual system."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He admired her willingness to buck the system. 듣기 Add to Wordbook 그는 기꺼이 체제에 맞서려는 그녀의 태도에 감탄했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He admired her willingness to buck the system. Add to Wordbook"
+    },
+    {
+      "korean": "the complexities of the system 듣기 Add to Wordbook 그 체제의 복잡한 특징들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the complexities of the system Add to Wordbook"
+    },
+    {
+      "korean": "an integrated transport system 듣기 Add to Wordbook 통합적인 대중 운송 체제 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an integrated transport system Add to Wordbook"
+    },
+    {
+      "korean": "Any political system refusing to allow dissent becomes a tyranny. 듣기 Add to Wordbook 어떤 것이든 반대[이의]를 허용하지 않으려는 정치 체제는 독재가 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Any political system refusing to allow dissent becomes a tyranny. Add to Wordbook"
+    },
+    {
+      "korean": "I’ve only been here a couple of weeks and I don’t really know the set-up. 듣기 Add to Wordbook 저는 여기 온 지 두어 주 정도밖에 안 되어서 체제를 잘 몰라요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ve only been here a couple of weeks and I don’t really know the set-up. Add to Wordbook"
+    }
+  ]
+}

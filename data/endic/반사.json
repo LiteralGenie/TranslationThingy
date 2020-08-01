@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "반사",
+      "hanja": " (反射)",
+      "example": {},
+      "meanings": [
+        "(물리) [명사] reflection, [동사] reflect",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "반사신경",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reflexes"
+      ]
+    },
+    {
+      "phrase": "조건반사",
+      "hanja": " (條件反射)",
+      "example": {},
+      "meanings": [
+        "conditioned reflex[response]"
+      ]
+    },
+    {
+      "phrase": "전자파 반사법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "echolocation"
+      ]
+    },
+    {
+      "phrase": "반사 행동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a reflex action"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "reflection",
+      "frequency": 3
+    },
+    {
+      "meaning": "observed reflexion",
+      "frequency": 0
+    },
+    {
+      "meaning": "reflector",
+      "frequency": 3
+    },
+    {
+      "meaning": "reflex",
+      "frequency": 3
+    },
+    {
+      "meaning": "heliograph",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "반사? Right back at you? 듣기 View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 1화",
+      "english": "Right back at you?"
+    },
+    {
+      "korean": "[흰색은 빛을 반사하기 때문에 같은 크기로 제작하면 흰 돌이 조금 더 커 보이는] 오케이! [while white reflects light. So, if the two are made the same size, white stones end up] Okay! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[while white reflects light. So, if the two are made the same size, white stones end up] Okay!"
+    },
+    {
+      "korean": "이거 뭐야! 이거 뭐야! - 반사 반사! What is this? What is this? - Reflection! Reflection! 듣기 View video V COOKIE : [Full] Brown Eyed Girls X Eating Show - 브라운 아이드 걸스 X 같이 먹어요",
+      "english": "What is this? What is this? - Reflection! Reflection!"
+    },
+    {
+      "korean": "옷에 반사가 되는 건가? Is the light reflecting off of my outfit? 듣기 View video NU'EST : [NU’EST] 하이💕",
+      "english": "Is the light reflecting off of my outfit?"
+    },
+    {
+      "korean": "[불똥 반사] 아니 뭐 살짝 늦은 거 가지고 그렇게 또... [Don't yell at me] I was a few minutes late... That's not... 듣기 View video SF9 : [FOR FANTASY] 셒구상사 (SF9 SANGSA) EP.01",
+      "english": "[Don't yell at me] I was a few minutes late... That's not..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the difference between inborn and conditioned reflexes 듣기 Add to Wordbook 선천적 반응과 조건 반사 사이의 차이 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the difference between inborn and conditioned reflexes Add to Wordbook"
+    },
+    {
+      "korean": "On dark nights children should wear reflective clothing. 듣기 Add to Wordbook 어두운 밤에는 아동들이 빛을 반사하는 옷을 입어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "On dark nights children should wear reflective clothing. Add to Wordbook"
+    },
+    {
+      "korean": "The animals were conditioned to respond to auditory stimuli. 듣기 Add to Wordbook 그 동물들은 청각적 자극에 조건 반사를 일으키도록 되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The animals were conditioned to respond to auditory stimuli. Add to Wordbook"
+    },
+    {
+      "korean": "reflective car number plates 듣기 Add to Wordbook 빛을 반사하는 자동차 번호판 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "reflective car number plates Add to Wordbook"
+    },
+    {
+      "korean": "Only the goalkeeper’s reflexes stopped the ball from going in. 듣기 Add to Wordbook 골키퍼의 반사적인 동작만이 그 공이 골인되는 것을 막을 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Only the goalkeeper’s reflexes stopped the ball from going in. Add to Wordbook"
+    }
+  ]
+}

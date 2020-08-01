@@ -1,0 +1,82 @@
+{
+  "phrases": [
+    {
+      "phrase": "영파열고",
+      "hanja": " (零破裂高)",
+      "example": {},
+      "meanings": [
+        "군사 zero height of burst"
+      ]
+    },
+    {
+      "phrase": "영파여자중학교",
+      "hanja": " (英坡女子中學校)",
+      "example": {},
+      "meanings": [
+        "기관·단체 Youngpa Girls' Middle School"
+      ]
+    },
+    {
+      "phrase": "영파여자고등학교",
+      "hanja": " (英坡女子高等學校)",
+      "example": {},
+      "meanings": [
+        "기관·단체 Youngpa Girls' High School"
+      ]
+    },
+    {
+      "phrase": "닝보",
+      "hanja": " (寧波(영파))",
+      "example": {},
+      "meanings": [
+        "지명 Ningbo"
+      ]
+    },
+    {
+      "phrase": "닝보 리스 국제공항",
+      "hanja": " (寧波櫟社國際空港(영파력사국제공항))",
+      "example": {},
+      "meanings": [
+        "교통 Ningbo Lishe International Airport"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "meiwa kumquat",
+      "frequency": 0
+    },
+    {
+      "meaning": "zero height of burst",
+      "frequency": 0
+    },
+    {
+      "meaning": "Bank Of Ningbo Co., Ltd",
+      "frequency": 0
+    },
+    {
+      "meaning": "Yeongpa Girls' Middle School",
+      "frequency": 0
+    },
+    {
+      "meaning": "Yeongpa Girls' High School",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "영파여자중학교 학생들이잖아요. 영파여자중학교 학생들. They're students from Youngpa Girls' Middle School. 듣기 View video AKMU : AKMU의 사춘기노트 마지막 페이지 \"사춘기노트 출간회\" (AKMU's spring note last page)",
+      "english": "They're students from Youngpa Girls' Middle School."
+    },
+    {
+      "korean": "영파카짱 님이 '새벽 일찍 일어날 때'. wrote, \"when you get up early in the morning\". 듣기 View video V COOKIE : [Full] MXM X LieV - MXM 임영민 X 김동현의 눕방라이브!",
+      "english": "wrote, \"when you get up early in the morning\"."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "So what is the solution? The 'Young-parazzi' system, where Internet users are given 100,000 won to report illegal sharing of movie files, is one possible response to the problem. 발음듣기 그러면 해결책은 무엇인가? 영화 파일의 불법 공유를 보고하는 인터넷 사용자들에게 10,000원을 주는 '영파리치' 시스템이 이 문제에 대한 하나의 가능한 해결책이다. Neungyule",
+      "english": "So what is the solution? The 'Young-parazzi' system, where Internet users are given 100,000 won to report illegal sharing of movie files, is one possible response to the problem. 발음"
+    }
+  ]
+}

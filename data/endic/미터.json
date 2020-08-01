@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "미터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "meter ((abb.)m)"
+      ]
+    },
+    {
+      "phrase": "metre ( meter )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (Abbr.) m. 미터(길이의 단위. 100센티미터)",
+        "Noun (Abbr.) m. (경주 명에 쓰여) … 미터 (경주)",
+        "Noun (시의) 음보(音步)"
+      ]
+    },
+    {
+      "phrase": "meet",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (우연히) 만나다",
+        "Verb (공식적인 논의를 위해) 만나다[모이다]",
+        "Noun 특히 美 (운동) 경기[대회]"
+      ]
+    },
+    {
+      "phrase": "meter",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (전기가스수도 등의) 계량기 (→light meter)",
+        "Noun (=parking meter)",
+        "Verb 계량기로 재다"
+      ]
+    },
+    {
+      "phrase": "metric",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 미터법의",
+        "Adjective 미터법에 따라 만들어진[측정된] (→imperial)",
+        "Adjective (=metrical)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "metre",
+      "frequency": 2
+    },
+    {
+      "meaning": "meter 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "m",
+      "frequency": 0
+    },
+    {
+      "meaning": "meter 3",
+      "frequency": 1
+    },
+    {
+      "meaning": "Meter",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "숙소 지금 몇 미터인 줄 알아요? Do you know how meters the house is located? 듣기 View video KARD : KARD OUT HERE SENDING LOVE FROM BOLIVIA<3",
+      "english": "Do you know how meters the house is located?"
+    },
+    {
+      "korean": "미터네, 미터! - 미터잖아. Meter! Meter! - It says meter. 듣기 View video TWICE : TWICE TV6 -TWICE in SINGAPORE- EP.01",
+      "english": "Meter! Meter! - It says meter."
+    },
+    {
+      "korean": "[심박계 전달] - 아, 승관이야? - 승관이야? [Passing the meter] - It's SeungKwan's turn? - SeungKwan? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.8 불면제로 #1 (Insomnia-Zero #1)",
+      "english": "[Passing the meter] - It's SeungKwan's turn? - SeungKwan?"
+    },
+    {
+      "korean": "'이야~ 정인이 왼쪽 어깨에서 오른쪽 어깨까지 2미터다!' \"Man! I.N's shoulder from right to left is 2 meters long!\" 듣기 View video Stray Kids : 막내의 사생활 26 🦊",
+      "english": "\"Man! I.N's shoulder from right to left is 2 meters long!\""
+    },
+    {
+      "korean": "수심 - 만 미터? Depth. - 10,000 meters? 듣기 View video SF9 : 빈,us🍀",
+      "english": "Depth. - 10,000 meters?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "These screws are metric. 발음듣기 이 나사못들은 미터법에 따라 만들어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These screws are metric. 발음"
+    },
+    {
+      "korean": "We only sell it by the metre. 발음듣기 그것은 미터 단위로만 팝니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We only sell it by the metre. 발음"
+    },
+    {
+      "korean": "The screws are sized in millimetres. 발음듣기 그 나사못들은 밀리미터로 크기가 매겨져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The screws are sized in millimetres. 발음"
+    },
+    {
+      "korean": "British currency went metric in 1971. 발음듣기 영국 통화는 1971년에 미터법으로 바뀌었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "British currency went metric in 1971. 발음"
+    },
+    {
+      "korean": "precision instruments that can gauge the diameter to a fraction of a millimetre 발음듣기 직경을 밀리미터의 몇 분의 1까지 측정할 수 있는 정밀 기기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "precision instruments that can gauge the diameter to a fraction of a millimetre 발음"
+    }
+  ]
+}

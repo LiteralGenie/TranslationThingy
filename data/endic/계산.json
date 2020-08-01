@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "계산",
+      "hanja": " (計算)",
+      "example": {},
+      "meanings": [
+        "(수를 헤아림) reckoning, [명사] calculation, figures; (간단한) sum, [동사] calculate, reckon, (formal) compute",
+        "(값을 치름) [동사] pay",
+        "(이해를 따짐, 상황을 판단함) [명사] calculation, consideration, [동사] calculate, consider"
+      ]
+    },
+    {
+      "phrase": "계산에 넣다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "고려하다 take (sth) into account[consideration]"
+      ]
+    },
+    {
+      "phrase": "차감을 계산하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "balance",
+        "offset",
+        "strike a balance"
+      ]
+    },
+    {
+      "phrase": "계산할 수 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "computable",
+        "calculable"
+      ]
+    },
+    {
+      "phrase": "어디서 계산하죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Where can I check out?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mathematics",
+      "frequency": 2
+    },
+    {
+      "meaning": "calculation",
+      "frequency": 2
+    },
+    {
+      "meaning": "sum",
+      "frequency": 2
+    },
+    {
+      "meaning": "figure",
+      "frequency": 2
+    },
+    {
+      "meaning": "settlement",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "계산? I have to pay? 듣기 View video MAP6 : MAP6의 추석특집릴레이방송-제이준",
+      "english": "I have to pay?"
+    },
+    {
+      "korean": "다 같이 계산하면 되죠? We need to calculate all together, right? 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK in USA EP10",
+      "english": "We need to calculate all together, right?"
+    },
+    {
+      "korean": "여러분 이제 계산대로 모여주시겠습니까? Everyone, can you gather around the cashier? 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK in USA EP10",
+      "english": "Everyone, can you gather around the cashier?"
+    },
+    {
+      "korean": "내 계산이었어요 - 뭔지 알죠? It was my calculation. - You know, right? 듣기 View video BLACKPINK : [Replay] BLACKPINK ‘How You Like That’ COUNTDOWN LIVE",
+      "english": "It was my calculation. - You know, right?"
+    },
+    {
+      "korean": "꼴등이 있어요? 꼴등도 계산을 했어요? We have the last place? Did you calculate who came last? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "We have the last place? Did you calculate who came last?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The diet is based on counting calories. 발음듣기 그 다이어트는 칼로리 계산에 기준을 두고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The diet is based on counting calories. 발음"
+    },
+    {
+      "korean": "By my reckoning you still owe me ￡5. 발음듣기 내 계산으로는 네가 아직 내게 5파운드를 줄 게 있는 것 같은데. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "By my reckoning you still owe me ￡5. 발음"
+    },
+    {
+      "korean": "He had miscalculated how long the trip would take. 발음듣기 그는 그 여행이 얼마나 오래 걸릴 것인지를 잘못 계산했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had miscalculated how long the trip would take. 발음"
+    },
+    {
+      "korean": "to send/issue/settle an invoice for the goods 발음듣기 물품 대금 청구서[송장]를 보내다/발송하다/처리하다[청구서대로 계산해 주다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to send/issue/settle an invoice for the goods 발음"
+    },
+    {
+      "korean": "Is your math correct? 발음듣기 네가 계산한 게 맞니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is your math correct? 발음"
+    }
+  ]
+}

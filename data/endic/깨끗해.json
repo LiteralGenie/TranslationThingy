@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "깨끗하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(청결하다, 말끔하다) (neat and) clean, (informal) spick and span; (먼지 한 점 없을 정도로) spotless",
+        "(순수하다, 결백하다) clean, pure, innocent",
+        "(공정하다) fair"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fine away[down]",
+      "frequency": 0
+    },
+    {
+      "meaning": "clean",
+      "frequency": 2
+    },
+    {
+      "meaning": "immaculate",
+      "frequency": 1
+    },
+    {
+      "meaning": "impure",
+      "frequency": 1
+    },
+    {
+      "meaning": "squeaky clean",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "엄청 깨끗해 보이지 않아요? Doesn't it look so clean? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.22 네발라이더 #2 (Four Wheeled Rider #2)",
+      "english": "Doesn't it look so clean?"
+    },
+    {
+      "korean": "[수영 전문가 포스 물씬 풍기던] 물 진짜 깨끗해요! [Like a professional] The water is so clear! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Like a professional] The water is so clear!"
+    },
+    {
+      "korean": "[#물이 좋지만...] [물을 좋아하고] 물 진짜 깨끗해요! [#Even though she loves water] [I love water] The water is so clean! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "[#Even though she loves water] [I love water] The water is so clean!"
+    },
+    {
+      "korean": "저 안 깨끗해요 조금... My face is not clean. Kind of... 듣기 View video AB6IX : 실수 한번쯤은 괜찮아💦",
+      "english": "My face is not clean. Kind of..."
+    },
+    {
+      "korean": "너무 깨끗해 - 너무 좁은데요? It's so clean. - It's small. 듣기 View video World Klass (월드 클래스) : 🌏 와클와클 8인실 왔다! 하트 광클 🌏",
+      "english": "It's so clean. - It's small."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "An image with a high CRI is clean and clear. 발음듣기 높은 연색지수의 이미지가 명확하고 깨끗해 보인다. 국제영어대학원대학교 신어사전",
+      "english": "An image with a high CRI is clean and clear. 발음"
+    },
+    {
+      "korean": "This is spotless compared to my flat. 발음듣기 내 아파트에 비하면 여긴 너무 깨끗해. Neungyule",
+      "english": "This is spotless compared to my flat. 발음"
+    },
+    {
+      "korean": "Susan's room is always clean. 발음듣기 Susan의 방은 언제나 깨끗해요. YBM All in All English-Korean Dictionary",
+      "english": "Susan's room is always clean. 발음"
+    },
+    {
+      "korean": "The company wants people to be cleaner. 발음듣기 이 회사는 사람들이 더 깨끗해 지길 원한다. Neungyule",
+      "english": "The company wants people to be cleaner. 발음"
+    },
+    {
+      "korean": "I think it keeps the office bright and clean. 발음듣기 사무실을 밝고 깨끗해 보이게 하는 것 같아요. YBM All in All English-Korean Dictionary",
+      "english": "I think it keeps the office bright and clean. 발음"
+    }
+  ]
+}

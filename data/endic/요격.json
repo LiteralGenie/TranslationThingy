@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "요격",
+      "hanja": " (邀擊)",
+      "example": {},
+      "meanings": [
+        "[명사] interception, [동사] intercept"
+      ]
+    },
+    {
+      "phrase": "요격미사일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "intercept(or) missile, (미사일 요격용의) antimissile missile"
+      ]
+    },
+    {
+      "phrase": "미사일을 요격하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "intercept a missile"
+      ]
+    },
+    {
+      "phrase": "탄도탄 요격 미사일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an antiballistic missile"
+      ]
+    },
+    {
+      "phrase": "미사일을 공중 요격하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "intercept a missile in midair"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "interception",
+      "frequency": 0
+    },
+    {
+      "meaning": "Strategic Defense Initiative",
+      "frequency": 0
+    },
+    {
+      "meaning": "antiballistic missile",
+      "frequency": 0
+    },
+    {
+      "meaning": "AIM",
+      "frequency": 0
+    },
+    {
+      "meaning": "ground-controlled interception",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "For example, India is still worried about China's testing of an anti-satellite missile early last year. 듣기 Add to Wordbook 예를 들어, 인도는 아직도 지난 해 초 중국의 위성 요격 미사일 시험에 대해 우려하고 있다. Neungyule",
+      "english": "For example, India is still worried about China's testing of an anti-satellite missile early last year. Add to Wordbook"
+    },
+    {
+      "korean": "Now, bad weather in the Basra region and the failure to knock out the Scuds had prolonged the aerial campaign. 듣기 Add to Wordbook 현재 바스라 지역의 나쁜 일기와 스커드 미사일 요격 실패로 공중 작전이 연장되었다. YBM All in All English-Korean Dictionary",
+      "english": "Now, bad weather in the Basra region and the failure to knock out the Scuds had prolonged the aerial campaign. Add to Wordbook"
+    },
+    {
+      "korean": "Tokyo did not try to intercept the flying object, as no debris fell on its land ― as expected. 듣기 Add to Wordbook 일본은 어떤 파편도 일본 땅에 떨어지지 않았기 때문에 예상했던 대로 이 날아가는 물체를 요격하려고 애쓰지 않았다. Neungyule",
+      "english": "Tokyo did not try to intercept the flying object, as no debris fell on its land ― as expected. Add to Wordbook"
+    },
+    {
+      "korean": "It can not possibly be the case that the same treaty is the cornerstone of strategic stability for 2001. 듣기 Add to Wordbook 이같이 변화된 상황 하에서 과거의 요격미사일 협정이 2001년 안보 정책의 초석이 된다는 것은 있을 수 없는 일입니다. YBM All in All English-Korean Dictionary",
+      "english": "It can not possibly be the case that the same treaty is the cornerstone of strategic stability for 2001. Add to Wordbook"
+    },
+    {
+      "korean": "Israel has moved American-made Patriot missiles to Haifa to catch Hezbollah rockets. 듣기 Add to Wordbook 이스라엘은 헤즈볼라의 로케트를 요격하기 위해 미국제 패트리엇 미사일을 하이파로 이동했습니다. YBM All in All English-Korean Dictionary",
+      "english": "Israel has moved American-made Patriot missiles to Haifa to catch Hezbollah rockets. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "막다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(길·구멍 등을) block (up), obstruct, close, head off; (구멍 등을) stop (up), fill (in)",
+        "(일·행동 등을) stop, prevent, keep, head off; (금지하다) forbid",
+        "(공격·침입 등을) stop, prevent, ward off"
+      ]
+    },
+    {
+      "phrase": "경기과열을 막기 위한 방안을 찾다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seek ways to prevent the economy from overheating"
+      ]
+    },
+    {
+      "phrase": "하천의 범람을 막기 위해 제방을 쌓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "build embankment to prevent flooding[overflow] of rivers"
+      ]
+    },
+    {
+      "phrase": "옆막기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "스포츠 side block"
+      ]
+    },
+    {
+      "phrase": "얼굴막기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "스포츠 face block"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "attempts to prevent cancer cell proliferation",
+      "frequency": 0
+    },
+    {
+      "meaning": "splashback",
+      "frequency": 0
+    },
+    {
+      "meaning": "fire line",
+      "frequency": 0
+    },
+    {
+      "meaning": "stent",
+      "frequency": 0
+    },
+    {
+      "meaning": "double jeopardy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[야망즈의 독주를 막기 위한 두 팀의 반격] 마이클! [Two team's counterattack to stop them winning] Michael! 듣기 View video TWICE : TWICE REALITY \"TIME TO TWICE\" - Noraebang Battle EP.03",
+      "english": "[Two team's counterattack to stop them winning] Michael!"
+    },
+    {
+      "korean": "[패션 돌려 막기?!] - 재탕 아닌가요 저번 시간에? - 제 주력... Aren't those the same ones? - My main force... 듣기 View video 뷰티로그(beautylog) : [뷰티로그 16회]그루밍 男 원대의 모닝 케어 공개!",
+      "english": "Aren't those the same ones? - My main force..."
+    },
+    {
+      "korean": "여러분 이걸 막기에 성공하면 막은 사람이 이기는 거 아닌가요? Everyone, if the person defends well, the person who blocked wins right? 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 6화",
+      "english": "Everyone, if the person defends well, the person who blocked wins right?"
+    },
+    {
+      "korean": "[EP61_우리끼리 비밀] [오지고 지리는 돌려막기 센스!?] 왜 뮤닝이에요? [EP61_Secret Between Us] [Digging a hole to fill the other] Why did you name it Mmuning? 듣기 View video Big Picture (빅픽처) : 빅픽처 스페셜시즌 EP61_오지고 지리는 돌려 막기 센스!?",
+      "english": "[EP61_Secret Between Us] [Digging a hole to fill the other] Why did you name it Mmuning?"
+    },
+    {
+      "korean": "너무 돌려막기다. That's getting old. 듣기 View video PeekaVoo! : [REPLAY] VICTON's - 빅톤의 팬미팅라이브!",
+      "english": "That's getting old."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Dressings are changed four hourly to help prevent infection. 발음듣기 감염을 막기 위해 붕대는 4시간마다 간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Dressings are changed four hourly to help prevent infection. 발음"
+    },
+    {
+      "korean": "They discussed ways of stemming the flow of smuggled drugs. 발음듣기 그들은 밀수되는 마약의 유통을 막기 위한 방법들을 논의했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They discussed ways of stemming the flow of smuggled drugs. 발음"
+    },
+    {
+      "korean": "Rescuers used props to stop the roof of the tunnel collapsing. 발음듣기 구조대원들이 터널 지붕의 붕괴를 막기 위해 지주를 이용했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rescuers used props to stop the roof of the tunnel collapsing. 발음"
+    },
+    {
+      "korean": "Firefighters took action immediately to stop the blaze spreading. 발음듣기 소방관들이 불길이 번지는 것을 막기 위해 즉각 행동을 취했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Firefighters took action immediately to stop the blaze spreading. 발음"
+    },
+    {
+      "korean": "talks to prevent a slide into civil war 발음듣기 내란으로 빠져드는 것을 막기 위한 회담 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "talks to prevent a slide into civil war 발음"
+    }
+  ]
+}

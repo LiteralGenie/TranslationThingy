@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "실격",
+      "hanja": " (失格)",
+      "example": {},
+      "meanings": [
+        "disqualification, be disqualified (from)"
+      ]
+    },
+    {
+      "phrase": "그는 실격되었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "He was disqualified."
+      ]
+    },
+    {
+      "phrase": "실격 경기자",
+      "hanja": " (失格競技者)",
+      "example": {},
+      "meanings": [
+        "a suspended player"
+      ]
+    },
+    {
+      "phrase": "실격되다",
+      "hanja": " (失格되다)",
+      "example": {},
+      "meanings": [
+        "Verb be disqualified"
+      ]
+    },
+    {
+      "phrase": "실격하다",
+      "hanja": " (失格하다)",
+      "example": {},
+      "meanings": [
+        "Verb be disqualified"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "disqualification",
+      "frequency": 0
+    },
+    {
+      "meaning": "incapacitation",
+      "frequency": 0
+    },
+    {
+      "meaning": "불합격",
+      "frequency": 0
+    },
+    {
+      "meaning": "disqualify",
+      "frequency": 0
+    },
+    {
+      "meaning": "disqualified",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우지도 실격 아니야? Isn't WOOZI disqualified? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "Isn't WOOZI disqualified?"
+    },
+    {
+      "korean": "나왔나요? - 실격 있나요? Have we? - Has anyone got disqualified? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "Have we? - Has anyone got disqualified?"
+    },
+    {
+      "korean": "창피해 - 그냥 실격 아니야? I'm embarrassed. - Isn't he disqualified? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "I'm embarrassed. - Isn't he disqualified?"
+    },
+    {
+      "korean": "이렇게 해드릴게요, 한번 - 실격입니까? Let me do this for you. - Or a fail? 듣기 View video NCT : 💚사부작즈SHOP💈💈",
+      "english": "Let me do this for you. - Or a fail?"
+    },
+    {
+      "korean": "[포도알 스티커 총 10개 성공][연준 실격] 어때요? [Succeeded in getting 10 stickers] [YEONJUN is disqualified] How does it feel? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.9",
+      "english": "[Succeeded in getting 10 stickers] [YEONJUN is disqualified] How does it feel?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Any form of cheating means automatic disqualification. 발음듣기 어떤 형태든 부정행위는 자동 실격을 의미한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Any form of cheating means automatic disqualification. 발음"
+    },
+    {
+      "korean": "He was disqualified from the competition for using drugs. 발음듣기 그는 약물 사용으로 그 시합에서 실격당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was disqualified from the competition for using drugs. 발음"
+    },
+    {
+      "korean": "He was disqualified in the 100-meter race. 발음듣기 그는 100미터 대회에서 실격 당했다. Neungyule",
+      "english": "He was disqualified in the 100-meter race. 발음"
+    },
+    {
+      "korean": "He was disqualified for taking a prohibited drug. 발음듣기 그는 금지 약물 복용으로 실격되었다. Neungyule",
+      "english": "He was disqualified for taking a prohibited drug. 발음"
+    },
+    {
+      "korean": "Athletes who jump the gun will be disqualified. 발음듣기 출발신호 전에 출발하는 선수는 실격 처리된다 Neungyule",
+      "english": "Athletes who jump the gun will be disqualified. 발음"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "매복",
+      "hanja": " (埋伏)",
+      "example": {},
+      "meanings": [
+        "[동사] lie in ambush (for), wait in ambush (for)"
+      ]
+    },
+    {
+      "phrase": "매복했다가 습격하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "attack from ambush"
+      ]
+    },
+    {
+      "phrase": "매복해 있는 적을 피하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "elude ambushes"
+      ]
+    },
+    {
+      "phrase": "매복하다",
+      "hanja": " (埋伏하다)",
+      "example": {},
+      "meanings": [
+        "Verb lie in ambush"
+      ]
+    },
+    {
+      "phrase": "매복작전",
+      "hanja": " (埋伏作戰)",
+      "example": {},
+      "meanings": [
+        "군사 ambush operations"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ambush",
+      "frequency": 1
+    },
+    {
+      "meaning": "miniplate",
+      "frequency": 0
+    },
+    {
+      "meaning": "ambusher",
+      "frequency": 0
+    },
+    {
+      "meaning": "attack (enemy) from ambush",
+      "frequency": 0
+    },
+    {
+      "meaning": "elude ambushes",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "왜 자꾸 무섭게 그런 얘기 해~ - 하나 매복이어서 지금 - 사탕 어디 있어요? Why are you keep on saying scary things? - One of them is impacted. - Where is the candy? 듣기 View video AB6IX : AB6IX 화이트데이",
+      "english": "Why are you keep on saying scary things? - One of them is impacted. - Where is the candy?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Two soldiers were killed in a terrorist ambush. 발음듣기 테러범들의 매복 공격으로 군인 두 명이 사망했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two soldiers were killed in a terrorist ambush. 발음"
+    },
+    {
+      "korean": "They were lying in ambush, waiting for the aid convoy. 발음듣기 그들은 매복을 하여 구호물자 호송 차량을 기다렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were lying in ambush, waiting for the aid convoy. 발음"
+    },
+    {
+      "korean": "The guerrillas ambushed them near the bridge. 발음듣기 게릴라들이 다리 근방에 매복해 있다가 그들을 공격했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The guerrillas ambushed them near the bridge. 발음"
+    },
+    {
+      "korean": "They lay in ambush[wait] for us. 발음듣기 그들은 매복하여 우리를 기다리고 있었다. Friendict Level English-Korean Dictionary",
+      "english": "They lay in ambush[wait] for us. 발음"
+    },
+    {
+      "korean": "A sniper was waiting in ambush behind a tree. 발음듣기 저격수가 나무 뒤에 매복하고 있었다 Neungyule",
+      "english": "A sniper was waiting in ambush behind a tree. 발음"
+    }
+  ]
+}

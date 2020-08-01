@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "구하다",
+      "hanja": " (求―)",
+      "example": {},
+      "meanings": [
+        "(필요한 것을) look[search] for, obtain, (formal) seek, (찾아내다) find (out), (얻다) get",
+        "(조언·양해·용서 등을) ask (for), request, (formal) seek, turn to (=청하다)",
+        "(답·수치 등을) find, (계산하다) calculate"
+      ]
+    },
+    {
+      "phrase": "구하다",
+      "hanja": " (救―)",
+      "example": {},
+      "meanings": [
+        "(위험에서) rescue[save] (sb from sth), (곤경에서) (formal) extricate (sb from sth)"
+      ]
+    },
+    {
+      "phrase": "팀이 날 구해줬어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Tim bailed me out."
+      ]
+    },
+    {
+      "phrase": "나에게 일자리를 구해 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "find me a job"
+      ]
+    },
+    {
+      "phrase": "몸값을 치르고 죄수를 구해주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "redeem a prisoner"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lifesaver",
+      "frequency": 0
+    },
+    {
+      "meaning": "freegan",
+      "frequency": 0
+    },
+    {
+      "meaning": "take[raise] a child out of the gutter",
+      "frequency": 0
+    },
+    {
+      "meaning": "cry for help",
+      "frequency": 0
+    },
+    {
+      "meaning": "extricate a person from[out of]dangers",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저희를 위해 직접 구해오신 거예요? Did you get this for us? 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK EP07",
+      "english": "Did you get this for us?"
+    },
+    {
+      "korean": "우리 형은! 우리 형을 구해줘! 어서! Save him! Save him! 듣기 View video ASTRO : [ASTRO PLAY] 아스트로 극장",
+      "english": "Save him! Save him!"
+    },
+    {
+      "korean": "이거... - 저걸 어떻게 구해오셨지? This... - Where did they find it? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.26 SSS #2 (SVT SECRET SANTA #2)",
+      "english": "This... - Where did they find it?"
+    },
+    {
+      "korean": "솔직히 둘 다 구해줘야 됩니다 그렇지 않습니까? them pass. Shouldn't we? 듣기 View video BTS : Run BTS! 2019 - EP.90",
+      "english": "them pass. Shouldn't we?"
+    },
+    {
+      "korean": "이게 뭐야 - 둘 다 구해줘야 되지 않아요? What? - Shouldn't both of them be saved? 듣기 View video BTS : Run BTS! 2019 - EP.90",
+      "english": "What? - Shouldn't both of them be saved?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Police plucked a drowning girl from the river yesterday. 듣기 Add to Wordbook 경찰이 어제 강에서 익사할 뻔한 소녀를 구해 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police plucked a drowning girl from the river yesterday. Add to Wordbook"
+    },
+    {
+      "korean": "Could nothing be rescued from the wreckage of her dreams? 듣기 Add to Wordbook 그녀의 부서진 꿈으로부터 아무것도 구해 낼 수가 없단 말인가? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Could nothing be rescued from the wreckage of her dreams? Add to Wordbook"
+    },
+    {
+      "korean": "Teenager Matt Brown is being hailed a hero for saving a young child from drowning. 듣기 Add to Wordbook 십대 소년인 매트 브라운은 물에 빠진 어린 아이를 구해 내어 영웅으로 일컬어지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Teenager Matt Brown is being hailed a hero for saving a young child from drowning. Add to Wordbook"
+    },
+    {
+      "korean": "He’s pulled the company back from the brink. 듣기 Add to Wordbook 그가 회사를 도산 직전에 구해 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s pulled the company back from the brink. Add to Wordbook"
+    },
+    {
+      "korean": "You rescued me from an embarrassing situation. 듣기 Add to Wordbook 당신이 나를 곤란한 상황에서 구해 주었어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You rescued me from an embarrassing situation. Add to Wordbook"
+    }
+  ]
+}

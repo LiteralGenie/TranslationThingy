@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "은거",
+      "hanja": " (隱居)",
+      "example": {},
+      "meanings": [
+        "retirement (from active life), 은거하다 live[dwell] in retirement, go into retirement"
+      ]
+    },
+    {
+      "phrase": "산중에 은거하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "retire to hermitage in the mountain"
+      ]
+    },
+    {
+      "phrase": "은거하다",
+      "hanja": " (隱居하다)",
+      "example": {},
+      "meanings": [
+        "Verb live a secluded life",
+        "Verb retire"
+      ]
+    },
+    {
+      "phrase": "은거하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Retreat"
+      ]
+    },
+    {
+      "phrase": "은거 제도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "retirement system"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a retiring place",
+      "frequency": 0
+    },
+    {
+      "meaning": "은거",
+      "frequency": 0
+    },
+    {
+      "meaning": "go into retirement",
+      "frequency": 0
+    },
+    {
+      "meaning": "sequester oneself",
+      "frequency": 0
+    },
+    {
+      "meaning": "troglodytism",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "He secluded himself in a mountain hermitage. 듣기 Add to Wordbook 그는 산중의 암자에 은거했다 Neungyule",
+      "english": "He secluded himself in a mountain hermitage. Add to Wordbook"
+    },
+    {
+      "korean": "So he retreated to a cave in the surrounding mountains for meditation and reflection. 듣기 Add to Wordbook 그래서 그는 명상과 반성을 하기 위해 주변의 산에 있는 동굴에 은거했다. Neungyule",
+      "english": "So he retreated to a cave in the surrounding mountains for meditation and reflection. Add to Wordbook"
+    },
+    {
+      "korean": "Part of people in the academy went to grass while a dictator ruled. 듣기 Add to Wordbook 독재자가 군림하는 동안 학계의 일부는 은거하였다. YBM All in All English-Korean Dictionary",
+      "english": "Part of people in the academy went to grass while a dictator ruled. Add to Wordbook"
+    },
+    {
+      "korean": "He broke upon my seclusion. 듣기 Add to Wordbook 그는 나의 은거를 불시에 방문했다. 영어영작문대사전",
+      "english": "He broke upon my seclusion. Add to Wordbook"
+    },
+    {
+      "korean": "retire from the world into a monastery 듣기 Add to Wordbook 세상을 버리고 수도원에 은거하다. 영어영작문대사전",
+      "english": "retire from the world into a monastery Add to Wordbook"
+    }
+  ]
+}

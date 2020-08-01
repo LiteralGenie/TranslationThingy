@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "지부",
+      "hanja": " (支部)",
+      "example": {},
+      "meanings": [
+        "branch (office), chapter"
+      ]
+    },
+    {
+      "phrase": "zebu",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 제부(뿔이 길고 등에 혹이 있는 소)"
+      ]
+    },
+    {
+      "phrase": "Zebu",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Lies, deception, bullshit. Derives from the practice of some UK pubs and restaurants to pass off tough Brazilian zebu meat as bargain-priced “British” steaks."
+      ]
+    },
+    {
+      "phrase": "도[지방]지부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a provincial[district] subdivision"
+      ]
+    },
+    {
+      "phrase": "지부를 설치하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "establish a branch (office)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "local",
+      "frequency": 2
+    },
+    {
+      "meaning": "chapter",
+      "frequency": 2
+    },
+    {
+      "meaning": "camp 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "arm 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "post 2",
+      "frequency": 1
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "the local chapter of the Rotary club 발음듣기 로터리 클럽 지역 지부 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the local chapter of the Rotary club 발음"
+    },
+    {
+      "korean": "She is president of her chapter of that committee. 발음듣기 그녀는 그 위원회의 지부장이다. Neungyule",
+      "english": "She is president of her chapter of that committee. 발음"
+    },
+    {
+      "korean": "Her was transferred to the South Korean branch. 발음듣기 그는 한국지부로 발령을 받았다. Neungyule",
+      "english": "Her was transferred to the South Korean branch. 발음"
+    },
+    {
+      "korean": "Several branches withdrew from the organization. 발음듣기 여러 지부가 그 단체를 탈퇴했다 Dong-a's Prime English-Korean Dictionary",
+      "english": "Several branches withdrew from the organization. 발음"
+    },
+    {
+      "korean": "I fell in with Foreign Counter Intelligence, New York City Bureau, Supervisory, Special Agent. 발음듣기 우연히 뉴욕지부 해외 총무과에 근무하고 있어. 과장대우 특수요원과 마주쳤다. YBM All in All English-Korean Dictionary",
+      "english": "I fell in with Foreign Counter Intelligence, New York City Bureau, Supervisory, Special Agent. 발음"
+    }
+  ]
+}

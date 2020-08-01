@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "우선",
+      "hanja": " (于先)",
+      "example": {},
+      "meanings": [
+        "(먼저) first (of all), (무엇보다도 먼저) above all",
+        "(일단) for the time being, for now, for the present"
+      ]
+    },
+    {
+      "phrase": "우선",
+      "hanja": " (優先)",
+      "example": {},
+      "meanings": [
+        "[명사] priority, [동사] take[have] priority[precedence] (over)"
+      ]
+    },
+    {
+      "phrase": "우선(권)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 precedence"
+      ]
+    },
+    {
+      "phrase": "우선순위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "order of priority"
+      ]
+    },
+    {
+      "phrase": "우선 배당",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a preferred dividend"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "first",
+      "frequency": 3
+    },
+    {
+      "meaning": "priority",
+      "frequency": 3
+    },
+    {
+      "meaning": "first of all",
+      "frequency": 0
+    },
+    {
+      "meaning": "to begin with",
+      "frequency": 0
+    },
+    {
+      "meaning": "first off",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우선... First of all... 듣기 View video TOMORROW X TOGETHER : 휴닝이랑 숫자퍼즐 할 사람🥰",
+      "english": "First of all..."
+    },
+    {
+      "korean": "그렇습니다 우선은... That's right. First of all... 듣기 View video TOMORROW X TOGETHER : 스윗한 태현이의 스윗한거 만들기",
+      "english": "That's right. First of all..."
+    },
+    {
+      "korean": "우선 또 이제... - 촬영한 것들? First of all... - Things we filmed? 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "First of all... - Things we filmed?"
+    },
+    {
+      "korean": "일단 우선은 많은 분들이 또... First, I saw all the ads what you've put. 듣기 View video NCT : 🎂🎂🎂",
+      "english": "First, I saw all the ads what you've put."
+    },
+    {
+      "korean": "이거 너무 잘 했어 - 우선 이 아이를... These are so nice. - This one should... 듣기 View video Dispatch : [ⓓxV] “여친이들의 달콤쌉싸름한 초콜릿 만들기” (여자친구 : GFRIEND)",
+      "english": "These are so nice. - This one should..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "To start with it’s much too expensive… 듣기 Add to Wordbook 우선 그것은 값이 너무 비싸요 … Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "To start with it’s much too expensive… Add to Wordbook"
+    },
+    {
+      "korean": "I had right of way at the junction. 듣기 Add to Wordbook 그 교차로에서는 내게 우선 통행권이 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I had right of way at the junction. Add to Wordbook"
+    },
+    {
+      "korean": "For drug addicts, the need to feed the addiction takes priority over everything else. 듣기 Add to Wordbook 약물 중독자에게는 중독 상태를 유지시키는 것이 다른 무엇보다 우선이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "For drug addicts, the need to feed the addiction takes priority over everything else. Add to Wordbook"
+    },
+    {
+      "korean": "Discuss it among yourselves first. 듣기 Add to Wordbook 여러분들끼리 우선 그것을 논의해 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Discuss it among yourselves first. Add to Wordbook"
+    },
+    {
+      "korean": "Buses have priority at this junction. 듣기 Add to Wordbook 이 교차로에서는 버스에 우선 주행권이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Buses have priority at this junction. Add to Wordbook"
+    }
+  ]
+}

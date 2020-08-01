@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(행동·행위 등을) do, have, (연극·운동경기 등을) play",
+        "(만들다, 장만하다)",
+        "(동작·표정 등을)"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb hada",
+        "Assistant adverb hada",
+        "Assistant adverb hada"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adjective hada",
+        "Assistant adjective hada"
+      ]
+    },
+    {
+      "phrase": "-하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix -hada",
+        "Affix -hada",
+        "Affix -hada"
+      ]
+    },
+    {
+      "phrase": "1등을 했어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I placed first."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "way to go!",
+      "frequency": 0
+    },
+    {
+      "meaning": "I didn't say owt.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Good on you, sport!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Who's sitting for you?",
+      "frequency": 0
+    },
+    {
+      "meaning": "Who was the cook?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "했어?",
+      "english": "Have you changed it?"
+    },
+    {
+      "korean": "했어!!",
+      "english": "He did that!"
+    },
+    {
+      "korean": "이해 못 했어?",
+      "english": "You didn't get it?"
+    },
+    {
+      "korean": "채영이 언제 초록 했어?",
+      "english": "When did she try green?"
+    },
+    {
+      "korean": "50분 정도 했어요? 52분?",
+      "english": "50 minutes? 52 minutes?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "넌 학교 이름에 먹칠을 했어.",
+      "english": "You have dishonoured the name of the school."
+    },
+    {
+      "korean": "휴! 아슬아슬했네. 저 차가 우릴 받을 뻔 했어.",
+      "english": "Phew! That was close—that car nearly hit us."
+    },
+    {
+      "korean": "잘 했어, 자네들! 아주 잘 했어!",
+      "english": "Good work, guys! Way to go!"
+    },
+    {
+      "korean": "나는 아무 말도 안 했어.",
+      "english": "I didn’t say owt."
+    },
+    {
+      "korean": "그가 여기서 만나자고 했어.",
+      "english": "He said to meet him here."
+    }
+  ]
+}

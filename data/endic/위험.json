@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "위험",
+      "hanja": " (危險)",
+      "example": {},
+      "meanings": [
+        "[명사] danger, risk, hazard, (formal) peril, [형용사] dangerous, risky, critical, (formal) perilous, (특히 사람의 건강·안전 등에) hazardous (to)"
+      ]
+    },
+    {
+      "phrase": "위험(넘어지면 위험)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(안내지시문) Danger (Watch Your Step)"
+      ]
+    },
+    {
+      "phrase": "위험 수위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the dangerous water level"
+      ]
+    },
+    {
+      "phrase": "큰 위험",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "great danger",
+        "a great risk"
+      ]
+    },
+    {
+      "phrase": "위험에 빠지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be in danger[peril]",
+        "fall into the danger[risk] (of)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "danger",
+      "frequency": 3
+    },
+    {
+      "meaning": "risk",
+      "frequency": 3
+    },
+    {
+      "meaning": "element",
+      "frequency": 3
+    },
+    {
+      "meaning": "chance",
+      "frequency": 3
+    },
+    {
+      "meaning": "threat",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아니야 아니야 그거 진짜 위험해 뱉아 뱉아! No, no. That's really dangerous. Spit it out. Spit it out. 듣기 View video Stray Kids : 산을 넘어 산호세로 ~~❤",
+      "english": "No, no. That's really dangerous. Spit it out. Spit it out."
+    },
+    {
+      "korean": "위험한 거 아닙니까, 하지만 - 어떤 식으로, 어떤 식으로 했어요? it's dangerous if you fall. - How did you do it? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "it's dangerous if you fall. - How did you do it?"
+    },
+    {
+      "korean": "저는 봤거든요 - 되게 위험해 보였는데 괜찮으셨나요? So I saw it. - It looked dangerous. Was it okay? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "So I saw it. - It looked dangerous. Was it okay?"
+    },
+    {
+      "korean": "되게 위험한 발언이야 - 뜬금없이... - 무슨 개똥 같은... Why did you say that? - Out of the blue... - It's nonsense. 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Why did you say that? - Out of the blue... - It's nonsense."
+    },
+    {
+      "korean": "'소정 언니 벨트 매요 위험해요' 저 벨트 매고 있는 걸요 왜 그러세요? \"Sowon, wear a seatbelt! It's dangerous!\" I am wearing one! 듣기 View video GFRIEND : 🦊🐥🐰",
+      "english": "\"Sowon, wear a seatbelt! It's dangerous!\" I am wearing one!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The Dangers 듣기 Add to Wordbook 위험 TIMES CORE",
+      "english": "The Dangers Add to Wordbook"
+    },
+    {
+      "korean": "the risk of rupturing North-South relations 듣기 Add to Wordbook 남북 관계가 결렬될 위험 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the risk of rupturing North-South relations Add to Wordbook"
+    },
+    {
+      "korean": "We were keenly aware of the danger. 듣기 Add to Wordbook 우리는 위험을 뚜렷이 의식하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were keenly aware of the danger. Add to Wordbook"
+    },
+    {
+      "korean": "Cigarette smoking multiplies the risk of cancer. 듣기 Add to Wordbook 흡연은 암의 위험을 크게 증대시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Cigarette smoking multiplies the risk of cancer. Add to Wordbook"
+    },
+    {
+      "korean": "They were not insensible of the risks. 듣기 Add to Wordbook 그들이 위험을 의식하지 못한 것은 아니었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were not insensible of the risks. Add to Wordbook"
+    }
+  ]
+}

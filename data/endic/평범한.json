@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "평범하다",
+      "hanja": " (平凡―)",
+      "example": {},
+      "meanings": [
+        "ordinary, common, normal, average, plain, run-of-the-mill"
+      ]
+    },
+    {
+      "phrase": "평범한 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a(n) ordinary[common, normal] person",
+        "an everyday sort of man",
+        "an average Joe[Jane]"
+      ]
+    },
+    {
+      "phrase": "평범한 말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a trite saying",
+        "a platitude"
+      ]
+    },
+    {
+      "phrase": "평범한 생활",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mediocre life"
+      ]
+    },
+    {
+      "phrase": "평범한 얼굴",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a featureless[plain] face"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "average",
+      "frequency": 3
+    },
+    {
+      "meaning": "simple",
+      "frequency": 3
+    },
+    {
+      "meaning": "ordinary",
+      "frequency": 3
+    },
+    {
+      "meaning": "common",
+      "frequency": 3
+    },
+    {
+      "meaning": "plain",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이건 엽사도 아니고 평범한 사진도 아니여] 이거는... 왜 이렇게 찍은 거지?",
+      "english": "This... Why did I take it like this?"
+    },
+    {
+      "korean": "아니요 평범한 - 아니에요?",
+      "english": "No, just a normal one. - No?"
+    },
+    {
+      "korean": "들어간 게 많은데 오히려 평범한 맛이다?",
+      "english": "So many ingredients are in it but it tastes plain?"
+    },
+    {
+      "korean": "평범한 일상.",
+      "english": "with my daily life."
+    },
+    {
+      "korean": "그냥 평범한...",
+      "english": "I'm an ordinary guy."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 지극히 평범한 소재를 절묘한 것으로 바꿔 놓는다.",
+      "english": "He transforms the most ordinary subject into the sublime."
+    },
+    {
+      "korean": "그의 연기 인생이 시작은 훌륭했지만 곧 평범한 것으로 내려앉았다.",
+      "english": "His acting career started brilliantly, then sank into mediocrity."
+    },
+    {
+      "korean": "지극히 평범한 그들의 생활",
+      "english": "their oh-so ordinary lives"
+    },
+    {
+      "korean": "그 날은 그저 평범한 날이었다.",
+      "english": "It was just an ordinary day."
+    },
+    {
+      "korean": "나는 그저 평범한 시골 처녀일 뿐이다.",
+      "english": "I’m a simple country girl."
+    }
+  ]
+}

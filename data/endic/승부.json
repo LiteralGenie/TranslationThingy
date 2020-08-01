@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "승부",
+      "hanja": " (勝負)",
+      "example": {},
+      "meanings": [
+        "(승패) victory or defeat, the outcome, the issue(결과), (시합) a contest, a game, a match, a bout"
+      ]
+    },
+    {
+      "phrase": "승부차기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(축구) penalty shoot-out"
+      ]
+    },
+    {
+      "phrase": "단판 승부",
+      "hanja": " (單―勝負)",
+      "example": {},
+      "meanings": [
+        "single-round match"
+      ]
+    },
+    {
+      "phrase": "승부를 짓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "try conclusion",
+        "fight to the finish",
+        "fight it out"
+      ]
+    },
+    {
+      "phrase": "건곤일척의 승부를 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stake everything one has",
+        "gamble everything[(one´s) all]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fight",
+      "frequency": 3
+    },
+    {
+      "meaning": "Seungbu",
+      "frequency": 0
+    },
+    {
+      "meaning": "rubber 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "penalty shoot-out",
+      "frequency": 0
+    },
+    {
+      "meaning": "match-fixing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "승부다! let's have a match! 듣기 View video Dingo Story / 딩고스토리 : 남사친과 연하남이 남자로 보이는 순간_EP09 [라이크(LIKE)]",
+      "english": "let's have a match!"
+    },
+    {
+      "korean": "[다모임 투 바운드 승부...!] [DAMOIM two bounce...!] View video Dingo Freestyle / 딩고프리스타일 : ★선공개★ EP.8 시간여행 떠난 다모임! 응답하라 1984ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[DAMOIM two bounce...!]"
+    },
+    {
+      "korean": "[뚝심 있는 남자] 일단은 승부는 승부잖아요, 그렇죠? [He is a man] I mean that's competition. Right? 듣기 View video M2 : [FULL] TOMORROW X TOGETHER Welcome Back Show",
+      "english": "[He is a man] I mean that's competition. Right?"
+    },
+    {
+      "korean": "[이번엔 승부를 내보자!] 가위바위보! [Let's decide the winner now!] Rock paper scissors! 듣기 View video World Klass (월드 클래스) : [4회] '싸나이의 승부' 가위바위보, 소원권을 획득할 팀은?",
+      "english": "[Let's decide the winner now!] Rock paper scissors!"
+    },
+    {
+      "korean": "자 회장님의 짝이 되기 위한 건곤일척의 승부! A match to become the partner of the leader! 듣기 View video Dingo Story / 딩고스토리 : 남사친과 연하남이 남자로 보이는 순간_EP09 [라이크(LIKE)]",
+      "english": "A match to become the partner of the leader!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The election was a close-run thing. 듣기 Add to Wordbook 그 선거는 박빙의 승부였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The election was a close-run thing. Add to Wordbook"
+    },
+    {
+      "korean": "The two sides will battle it out in the final next week. 듣기 Add to Wordbook 그 두 팀이 다음주 결승전에서 승부를 가리게 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The two sides will battle it out in the final next week. Add to Wordbook"
+    },
+    {
+      "korean": "Uruguay defeats Ghana after penalty shootout. 듣기 Add to Wordbook 우루과이가 가나를 승부차기 끝에 무찔렀다. DARAKWON",
+      "english": "Uruguay defeats Ghana after penalty shootout. Add to Wordbook"
+    },
+    {
+      "korean": "They competed in white-ball cricket. 듣기 Add to Wordbook 그들은 흰 공을 쓰는 하루짜리 크리켓 경기에서 승부를 겨루었다. 국제영어대학원대학교 신어사전",
+      "english": "They competed in white-ball cricket. Add to Wordbook"
+    },
+    {
+      "korean": "fight to a finish 듣기 Add to Wordbook 승부가 날 때[최후]까지 싸우다. Friendict Level English-Korean Dictionary",
+      "english": "fight to a finish Add to Wordbook"
+    }
+  ]
+}

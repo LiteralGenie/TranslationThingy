@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "필요한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 necessary"
+      ]
+    },
+    {
+      "phrase": "필요하다",
+      "hanja": " (必要하다)",
+      "example": {},
+      "meanings": [
+        "Adjective necessary, needed"
+      ]
+    },
+    {
+      "phrase": "필요",
+      "hanja": " (必要)",
+      "example": {},
+      "meanings": [
+        "[명사] need, necessity, [형용사] necessary, (동사로 쓰여) need"
+      ]
+    },
+    {
+      "phrase": "필요조건",
+      "hanja": " (必要條件)",
+      "example": {},
+      "meanings": [
+        "necessary condition, required condition, (formal) requisite"
+      ]
+    },
+    {
+      "phrase": "필요 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unnecessary",
+        "needless",
+        "uncalled-for"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "necessary",
+      "frequency": 3
+    },
+    {
+      "meaning": "requisite",
+      "frequency": 3
+    },
+    {
+      "meaning": "needful",
+      "frequency": 0
+    },
+    {
+      "meaning": "de rigueur",
+      "frequency": 0
+    },
+    {
+      "meaning": "incumbent",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "필요한 거 있으세요? Do you need anything? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 15. 겉바속촉 회기파전 아님! 경희대vs한국외대의 회기파戰에 낀 성균관! 그 결과는?",
+      "english": "Do you need anything?"
+    },
+    {
+      "korean": "혹시 더 필요한 재료가 있나요? Is there any ingredient you need? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "Is there any ingredient you need?"
+    },
+    {
+      "korean": "근데 우리 소고기가 원래 떡국에 필요한 거 아니냐? We need beef for Tteokguk, right? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "We need beef for Tteokguk, right?"
+    },
+    {
+      "korean": "아니! 갑자기 너랑 나 사이에 왜 거리가 필요한 건데? Why do we need to keep a distance between you and me? 듣기 View video 콬TV (WHYNOT) : 요즘 너만 보면 자꾸 커진단 말이야 [리얼:타임:러브2] EP3",
+      "english": "Why do we need to keep a distance between you and me?"
+    },
+    {
+      "korean": "피부를 김장김치처럼 촉촉하게 절이는데 또 필요한 게 무엇이 있을까요? What else do you need in order to immerse your skin in moisture? 듣기 View video HANABONO : 김장배추만 절이니? 난 피부를 수분에 절인다! k-products that actually works",
+      "english": "What else do you need in order to immerse your skin in moisture?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Make as many photocopies as you need. 듣기 Add to Wordbook 필요한 수만큼 복사를 하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Make as many photocopies as you need. Add to Wordbook"
+    },
+    {
+      "korean": "everything you need for your summer wardrobe 듣기 Add to Wordbook 당신의 여름옷을 위해 필요한 모든 것 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "everything you need for your summer wardrobe Add to Wordbook"
+    },
+    {
+      "korean": "He has all the credentials for the job. 듣기 Add to Wordbook 그는 그 일에 필요한 모든 자격을 갖추고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has all the credentials for the job. Add to Wordbook"
+    },
+    {
+      "korean": "They were unable to mobilize the resources they needed. 듣기 Add to Wordbook 그들은 필요한 자원을 동원할 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were unable to mobilize the resources they needed. Add to Wordbook"
+    },
+    {
+      "korean": "He began to finance his habit through burglary. 듣기 Add to Wordbook 그는 도둑질을 하여 자신의 습관성 중독에 필요한 돈을 조달하기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He began to finance his habit through burglary. Add to Wordbook"
+    }
+  ]
+}

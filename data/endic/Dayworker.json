@@ -1,0 +1,68 @@
+{
+  "phrases": [
+    {
+      "phrase": "dayworker",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 날품팔이 일을 하는 사람, 일용직 종사자."
+      ]
+    },
+    {
+      "phrase": "day-worker",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Noun] Alternative spelling of dayworker"
+      ]
+    },
+    {
+      "phrase": "daywork",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 주간 근무, 하루의 일"
+      ]
+    },
+    {
+      "phrase": "day-work",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Noun] Alternative spelling of daywork"
+      ]
+    },
+    {
+      "phrase": "day work",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Noun] Alternative spelling of daywork"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "주간 근무",
+      "frequency": 0
+    },
+    {
+      "meaning": "날일",
+      "frequency": 0
+    },
+    {
+      "meaning": "day-work",
+      "frequency": 0
+    },
+    {
+      "meaning": "day work",
+      "frequency": 0
+    },
+    {
+      "meaning": "day-worker",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

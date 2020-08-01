@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "손상되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get damaged",
+        "be injured",
+        "sustain an injury"
+      ]
+    },
+    {
+      "phrase": "손상되다",
+      "hanja": " (損傷되다)",
+      "example": {},
+      "meanings": [
+        "Verb be damaged, be harmed",
+        "Verb be injured, be harmed, be impaired",
+        "Verb be damaged"
+      ]
+    },
+    {
+      "phrase": "손상",
+      "hanja": " (損傷)",
+      "example": {},
+      "meanings": [
+        "damage, be[get] damaged"
+      ]
+    },
+    {
+      "phrase": "체면을 손상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose face",
+        "disgrace oneself",
+        "hurt[impair] one´s honor"
+      ]
+    },
+    {
+      "phrase": "존엄을 손상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "impair the dignity"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "impaired",
+      "frequency": 0
+    },
+    {
+      "meaning": "vitiated",
+      "frequency": 0
+    },
+    {
+      "meaning": "damage",
+      "frequency": 2
+    },
+    {
+      "meaning": "impair",
+      "frequency": 1
+    },
+    {
+      "meaning": "mar",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"그런 손상된 머리일까나..\" \"Does it mean that my hair is damaged?\" 듣기 View video SEOUL EONNI : 부시시한 곱슬 건조한 손상 머리 관리법은? 순한샴푸? (๑˃̵ᴗ˂̵๑) 머리에 꿀발랐어~honey",
+      "english": "\"Does it mean that my hair is damaged?\""
+    },
+    {
+      "korean": "제모 후 피부를 부드럽게 유지하려면, 제모과정 에서 발생한 손상된 피부를 회복시켜 주세요. If you'd like to keep your skin smooth after shaving, make sure you have treated and repaired cuts. 듣기 View video Wishtrend TV : Hair Removal 101 | Make Your Own DIY Shaving Cream & Shaving Foam",
+      "english": "If you'd like to keep your skin smooth after shaving, make sure you have treated and repaired cuts."
+    },
+    {
+      "korean": "손상된 머리 상태에서는 웨이브가 절대로 안 나와요. It's hard to make curls if your hair is damaged. 듣기 View video V Beauty : [콩슈니 Kongsueni SHOW] 부산원아시아페스티벌 한류 뷰티전시 같이봐요! Let's go to BUSAN ONE ASIA FESTIVAL K-Beauty EXPO",
+      "english": "It's hard to make curls if your hair is damaged."
+    },
+    {
+      "korean": "Yoo Hyunjun씨는 왠지 많이 손상된 모발도 다 보듬어 주실 것 같아요. Yoo Hyunjun, you seem like you would take good care of severely damaged hair. 듣기 View video V Beauty : 차홍에게 물어봐 CHAHONG 뷰티생활실전편 Hair+Makeup",
+      "english": "Yoo Hyunjun, you seem like you would take good care of severely damaged hair."
+    },
+    {
+      "korean": "손상되고 건조한 모발에 광채 엔젤링을 만들어줘요! It makes your damaged and dry hair shines. 듣기 View video SEOUL EONNI : 부시시한 곱슬 건조한 손상 머리 관리법은? 순한샴푸? (๑˃̵ᴗ˂̵๑) 머리에 꿀발랐어~honey",
+      "english": "It makes your damaged and dry hair shines."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Chip away the damaged area. 발음듣기 손상된 부분은 깎아 내. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Chip away the damaged area. 발음"
+    },
+    {
+      "korean": "He’ll go mad when he sees the damage. 발음듣기 그렇게 손상된 것을 보면 그가 미친 듯이 화를 낼 거야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’ll go mad when he sees the damage. 발음"
+    },
+    {
+      "korean": "There was a slight collision but my car was undamaged. 발음듣기 가벼운 충돌이 있었지만 내 차는 손상된 데가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was a slight collision but my car was undamaged. 발음"
+    },
+    {
+      "korean": "It would be helpful for me to see the damage for myself. 발음듣기 손상된 부분을 제가 직접 보면 도움이 될 것 같아요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It would be helpful for me to see the damage for myself. 발음"
+    },
+    {
+      "korean": "He hopes to improve the newspaper’s somewhat tarnished public image. 발음듣기 그는 그 신문의 어느 정도 손상된 대중적 이미지를 개선하기를 희망한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hopes to improve the newspaper’s somewhat tarnished public image. 발음"
+    }
+  ]
+}

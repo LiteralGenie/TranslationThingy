@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "너",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(주격, 목적격) you, (소유격) your, (소유대명사) yours, (재귀대명사) yourself"
+      ]
+    },
+    {
+      "phrase": "너",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner four"
+      ]
+    },
+    {
+      "phrase": "nor",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Conjunction, Adverb …도 (또한) 아니다[없다]",
+        "Conjunction, Adverb (…이 아닌 것은) …도 그렇다[마찬가지이다]"
+      ]
+    },
+    {
+      "phrase": "nor",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Conjunction [neither 또는 not와 상관적으로] …도 또한 …않다",
+        "Conjunction [앞의 not, no, never을 포함한 절(節) 뒤에서 부정문의 연속을 나타냄] …도 (또한) …하지 않다",
+        "Conjunction [긍정문 뒤에 또는 문두에서] 그리고 …않다(= and … not)"
+      ]
+    },
+    {
+      "phrase": "NOR",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 컴퓨터 부정 논리합"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "yourself",
+      "frequency": 3
+    },
+    {
+      "meaning": "you",
+      "frequency": 3
+    },
+    {
+      "meaning": "자기 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "lucky you, me, etc.",
+      "frequency": 0
+    },
+    {
+      "meaning": "you, he, she, etc. started it",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너야 너 너!",
+      "english": "It's you, you. You!"
+    },
+    {
+      "korean": "나야? 너야?",
+      "english": "Me or you?"
+    },
+    {
+      "korean": "너 뭐야!",
+      "english": "What are you?"
+    },
+    {
+      "korean": "너야 너 댕댕아!",
+      "english": "It's you! A puppy!"
+    },
+    {
+      "korean": "서태현 너?",
+      "english": "Seo Taehyun, you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "너는 자부심을 키울 필요가 있다.",
+      "english": "You need to build your self-esteem."
+    },
+    {
+      "korean": "너 오늘 아주 밝고 경쾌하구나!",
+      "english": "You’re very bright and breezy today!"
+    },
+    {
+      "korean": "너 때문에 내가 일에 집중이 안 돼.",
+      "english": "You’re distracting me from my work."
+    },
+    {
+      "korean": "너 이번 학기에 가입 서약을 할 것 같니?",
+      "english": "Do you think you’ll pledge this semester?"
+    },
+    {
+      "korean": "너 숙제 아직 안 끝냈니?",
+      "english": "Haven’t you finished your homework yet?"
+    }
+  ]
+}

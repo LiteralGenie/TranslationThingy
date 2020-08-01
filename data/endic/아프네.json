@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "아프다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(몸이) (상처 등이) painful, sore, (병으로) sick, ill, (동사로 쓰여) hurt, ache",
+        "(마음이) painful",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "아픈 곳을[데를] 건드리다[찌르다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "touch[poke] someone's sore spot"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hurt",
+      "frequency": 3
+    },
+    {
+      "meaning": "painful",
+      "frequency": 3
+    },
+    {
+      "meaning": "sick",
+      "frequency": 3
+    },
+    {
+      "meaning": "ache",
+      "frequency": 3
+    },
+    {
+      "meaning": "sore",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 상자 이거 아프네. This box is hurting me. 듣기 View video GFRIEND : 잘자요 굿나잇",
+      "english": "This box is hurting me."
+    },
+    {
+      "korean": "너무 아프네 쉽지 않은데? This hurts. Not easy. 듣기 View video IMFACT : [THE100_IMFACT] 달달 임팩트! Ep 10.",
+      "english": "This hurts. Not easy."
+    },
+    {
+      "korean": "뭐만 하면 아프네? Everywhere hurts for me, huh? 듣기 View video INFINITE : 우현이 내게오나봐 요코하마 스페셜",
+      "english": "Everywhere hurts for me, huh?"
+    },
+    {
+      "korean": "이게 좀 아프네 - 파인애플... It hurts a little. - FineApple fans... 듣기 View video V COOKIE : [FULL] APRIL X SUITS KNIGHTS - 에이프릴의 정장방!",
+      "english": "It hurts a little. - FineApple fans..."
+    },
+    {
+      "korean": "혼자 이렇게 하려니까 팔이 아프네. My arm hurts doing this by myself. 듣기 View video B1A4 : 바나들아",
+      "english": "My arm hurts doing this by myself."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "\"My adorable puppy died.\" \"I am so sorry to hear that. My thoughts are with you.\" 듣기 Add to Wordbook \"내 사랑스러운 강아지가 죽었어.\" \"그 말을 들으니 너무 마음이 아프네. 내 마음도 너와 같아.\" 국제영어대학원대학교 신어사전",
+      "english": "\"My adorable puppy died.\" \"I am so sorry to hear that. My thoughts are with you.\" Add to Wordbook"
+    },
+    {
+      "korean": "Thanks. This really hurts. 듣기 Add to Wordbook 고마워요. 이거 정말 아프네요. YBM All in All English-Korean Dictionary",
+      "english": "Thanks. This really hurts. Add to Wordbook"
+    },
+    {
+      "korean": "I have a headache. I think I'll take some aspirin. 듣기 Add to Wordbook 머리가 아프네요. 아스피린을 좀 먹어야 겠어요. Neungyule",
+      "english": "I have a headache. I think I'll take some aspirin. Add to Wordbook"
+    },
+    {
+      "korean": "My heart can’t take no more. 듣기 Add to Wordbook 내 마음은 견딜 수 없을 만큼 아프네요. YBM All in All English-Korean Dictionary",
+      "english": "My heart can’t take no more. Add to Wordbook"
+    },
+    {
+      "korean": "But, It’s really sad to hear that you are feeling bad. 듣기 Add to Wordbook 그런데 네 기분이 좋지 않다니 마음이 아프네. TIMES CORE",
+      "english": "But, It’s really sad to hear that you are feeling bad. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "고장난 차를 방치하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "neglect a broken-down vehicle",
+        "leave a broken car unrepaired"
+      ]
+    },
+    {
+      "phrase": "고장",
+      "hanja": " (故障)",
+      "example": {},
+      "meanings": [
+        "(기계의) trouble (with), (기계·차 등의) breakdown (in), (결함) failure (in)"
+      ]
+    },
+    {
+      "phrase": "고장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(지역) region, area; (마을) town; (산지) home"
+      ]
+    },
+    {
+      "phrase": "나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(털·풀 등이) (자라다) grow, (돋아나다) sprout",
+        "(일·사고·재해 등이) happen, (전쟁 등이) break out",
+        "(감정·생각 등이) (생각이) occur (to), cross one's mind"
+      ]
+    },
+    {
+      "phrase": "나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb nada",
+        "Assistant adverb nada"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "broken",
+      "frequency": 2
+    },
+    {
+      "meaning": "bust",
+      "frequency": 1
+    },
+    {
+      "meaning": "out of order",
+      "frequency": 0
+    },
+    {
+      "meaning": "down 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "bung",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "고장 난 거야? Is it out of order? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "Is it out of order?"
+    },
+    {
+      "korean": "고장난 시계를 고쳤다? I fixed a broken clock? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "I fixed a broken clock?"
+    },
+    {
+      "korean": "핸드폰 고장 난 거 아니야? Isn't your phone out of order? 듣기 View video TWICE : 모사 8주년🍑🐹",
+      "english": "Isn't your phone out of order?"
+    },
+    {
+      "korean": "[드론.. 고장 난 거 아닐까?] [Drone... Is it broken?] View video GOT7 : GOT7(갓세븐) TOURLOG EP.15",
+      "english": "[Drone... Is it broken?]"
+    },
+    {
+      "korean": "고장난 거 아니고 원래 제품 옷... It's not torn, it's suppose to be... 듣기 View video TOMORROW X TOGETHER : 뫄 ❤ 🐻🐰",
+      "english": "It's not torn, it's suppose to be..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The telephone system has broken down. 발음듣기 전화 시스템이 고장난 상태이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The telephone system has broken down. 발음"
+    },
+    {
+      "korean": "A disabled car can't be sold to anyone. 발음듣기 고장난 차는 아무에게도 팔리지 않는다. 절대어휘 5100",
+      "english": "A disabled car can't be sold to anyone. 발음"
+    },
+    {
+      "korean": "My laundry machine has been out of commission for the last 2 weeks. 발음듣기 내 세탁기가 2주 동안 고장 난 상태야. DARAKWON",
+      "english": "My laundry machine has been out of commission for the last 2 weeks. 발음"
+    },
+    {
+      "korean": "Just remember “If it’s not broke, don’t fix it.” 발음듣기 ‘고장 난게 아니면 고칠 필요 없다’는 말을 기억해. DARAKWON",
+      "english": "Just remember “If it’s not broke, don’t fix it.” 발음"
+    },
+    {
+      "korean": "Good design can't fix broken business models. (Jeffrey Veen) 발음듣기 좋은 디자인이 고장난 비즈니스 모델을 고칠 수는 없다. (제프리 빈, 일명언) 명언/속담",
+      "english": "Good design can't fix broken business models. (Jeffrey Veen) 발음"
+    }
+  ]
+}

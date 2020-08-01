@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "때문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ground, reason, because (of)"
+      ]
+    },
+    {
+      "phrase": "때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on account of",
+        "because of",
+        "owing to"
+      ]
+    },
+    {
+      "phrase": "이 때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on this account"
+      ]
+    },
+    {
+      "phrase": "그 때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for that reason"
+      ]
+    },
+    {
+      "phrase": "…때문이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be due[owing, attributable] to",
+        "attribute to"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "because",
+      "frequency": 3
+    },
+    {
+      "meaning": "snowbound",
+      "frequency": 0
+    },
+    {
+      "meaning": "blame",
+      "frequency": 3
+    },
+    {
+      "meaning": "due",
+      "frequency": 3
+    },
+    {
+      "meaning": "thereby",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 모자 때문인가? Is it because of the hat? 듣기 View video SM CCC LAB : [펫셔니스타 탱구 LIVE] 태연+제로 in LA",
+      "english": "Is it because of the hat?"
+    },
+    {
+      "korean": "[복근 때문인가?] [Is it because of your abs?] View video MAMAMOO : [MMMTV5] EP8.1 LET'S GO DAEGU part.2",
+      "english": "[Is it because of your abs?]"
+    },
+    {
+      "korean": "화면 때문인가? 조명 때문인가? Is it the screen? Is it the light? 듣기 View video GOT7 : 마크도 왔어요 진영 재범도",
+      "english": "Is it the screen? Is it the light?"
+    },
+    {
+      "korean": "[류식가 도전] 소스 때문인가? [Ryujin's attempt] Is it because of the sauce? 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP39. 베트남에 있지! 2",
+      "english": "[Ryujin's attempt] Is it because of the sauce?"
+    },
+    {
+      "korean": "이거 때문인가? 조명 때문에 그런가? Is it because of this? Is it because of the lights? 듣기 View video NU'EST : [NU’EST] 🌙",
+      "english": "Is it because of this? Is it because of the lights?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "No, why? Is it being remodeled? 듣기 Add to Wordbook 아니오, 무슨 일인가요? 개조 때문인가요? YBM All in All English-Korean Dictionary",
+      "english": "No, why? Is it being remodeled? Add to Wordbook"
+    },
+    {
+      "korean": "Did Huh Gak win because of his talent or because people felt sorry for him? 듣기 Add to Wordbook 허각이 우승한 것은 그의 재능 때문인가, 아니면 사람들이 그를 안쓰럽게 (가엾게) 여겼기 때문인가? Neungyule",
+      "english": "Did Huh Gak win because of his talent or because people felt sorry for him? Add to Wordbook"
+    },
+    {
+      "korean": "I guess this is because we have different blood types. 듣기 Add to Wordbook 우리의 혈액형이 다르기 때문인가 봐. TIMES CORE",
+      "english": "I guess this is because we have different blood types. Add to Wordbook"
+    },
+    {
+      "korean": "Is it because watching them in the midst of summer is a great way to escape the heat? 듣기 Add to Wordbook 한 여름에 공포영화를 보는 것이 더위를 피하는 좋은 방법이기 때문인가? TIMES CORE",
+      "english": "Is it because watching them in the midst of summer is a great way to escape the heat? Add to Wordbook"
+    },
+    {
+      "korean": "Is it to prepare for a concert tour? 듣기 Add to Wordbook 콘서트 튜어 준비 때문인가요? TIMES CORE",
+      "english": "Is it to prepare for a concert tour? Add to Wordbook"
+    }
+  ]
+}

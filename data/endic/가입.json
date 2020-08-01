@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "가입",
+      "hanja": " (加入)",
+      "example": {},
+      "meanings": [
+        "[동사] join, become a member (of)"
+      ]
+    },
+    {
+      "phrase": "가입시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "enlist in",
+        "initiate",
+        "affiliate"
+      ]
+    },
+    {
+      "phrase": "가입 신청자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an applicant for membership",
+        "an applicant for admission"
+      ]
+    },
+    {
+      "phrase": "가입을 권유하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "invite to join"
+      ]
+    },
+    {
+      "phrase": "회원으로 가입하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "join[sign up] to be a member"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "entry",
+      "frequency": 3
+    },
+    {
+      "meaning": "accession",
+      "frequency": 3
+    },
+    {
+      "meaning": "initiation",
+      "frequency": 3
+    },
+    {
+      "meaning": "admission",
+      "frequency": 3
+    },
+    {
+      "meaning": "subscription",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "천 명만 가입할 것 같냐고요? Do I think that only 1,000 people will sign up? 듣기 View video NCT : 안녕하세요 시즈니!! 제노에요진짜 잠깐 하려고 하는데.. 제노가 보고싶으면 들어오세요!! 이제 시작합니다",
+      "english": "Do I think that only 1,000 people will sign up?"
+    },
+    {
+      "korean": "지금 가입이 안 되는데 내 생각에 그거인 것 같아 - 뭐? I can't sign up because... - Why? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "I can't sign up because... - Why?"
+    },
+    {
+      "korean": "연기 연습 방송 - 스테이 연기 가입자? How about practicing how to act? - STAY subscribers? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "How about practicing how to act? - STAY subscribers?"
+    },
+    {
+      "korean": "가입해주세요! you join that too! 듣기 View video V PICK! : [1년 전 오늘의 SF9] 가족을 늘립시다‼️ 우리 섹귀의 초특급선물 밤주먹🌰을 위해서라도‼️ (Dawon’s on the way home a year ago)",
+      "english": "you join that too!"
+    },
+    {
+      "korean": "가입일 있어요? 상시 가입 아닌가 그거? There is a day?? It's not any day? 듣기 View video GFRIEND : 안녕하쇠영",
+      "english": "There is a day?? It's not any day?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He is being rushed by Sigma Nu. 듣기 Add to Wordbook 그는 시그마 누의 가입 권유를 받고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is being rushed by Sigma Nu. Add to Wordbook"
+    },
+    {
+      "korean": "Do you think you’ll pledge this semester? 듣기 Add to Wordbook 너 이번 학기에 가입 서약을 할 것 같니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you think you’ll pledge this semester? Add to Wordbook"
+    },
+    {
+      "korean": "He was arrested because of his political affiliation. 듣기 Add to Wordbook 그는 정치 단체 가입 문제로 체포되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was arrested because of his political affiliation. Add to Wordbook"
+    },
+    {
+      "korean": "Many employees contracted out of the pension plan. 듣기 Add to Wordbook 많은 직원들이 연금 계획에 가입하지 않기로 동의했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many employees contracted out of the pension plan. Add to Wordbook"
+    },
+    {
+      "korean": "Entrance to the golf club is by sponsorship only. 듣기 Add to Wordbook 그 골프 클럽 가입은 보증인이 있어야만 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Entrance to the golf club is by sponsorship only. Add to Wordbook"
+    }
+  ]
+}

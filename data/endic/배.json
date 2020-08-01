@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(탈것) boat, ship, (formal) vessel"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(신체) stomach, (informal) belly, (formal) abdomen, (유아어) (informal) tummy",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(과일) (Asian) pear"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": " (培)",
+      "example": {},
+      "meanings": [
+        "(갑절)",
+        "(수량을 나타내는 말 뒤에 쓰여)"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": " (杯)",
+      "example": {},
+      "meanings": [
+        "Bound noun glass",
+        "Bound noun trophy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "boat",
+      "frequency": 3
+    },
+    {
+      "meaning": "ship",
+      "frequency": 3
+    },
+    {
+      "meaning": "craft",
+      "frequency": 3
+    },
+    {
+      "meaning": "vessel",
+      "frequency": 3
+    },
+    {
+      "meaning": "stomach",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 아가 배 아니... This is...Baby belly... 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "This is...Baby belly..."
+    },
+    {
+      "korean": "오늘 왜 이렇게 배가 고프죠? Why am I so hungry today? 듣기 View video Hwang Chi Yeul : 모두 굿나잇!!",
+      "english": "Why am I so hungry today?"
+    },
+    {
+      "korean": "아가 배의 기준이 뭐예요? What is the standard for baby bellies? 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "What is the standard for baby bellies?"
+    },
+    {
+      "korean": "[간식 획득 배 빙고 게임은 계속된다!] [Bingo for snacks continues!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Bingo for snacks continues!]"
+    },
+    {
+      "korean": "이런 배 이거 해줘야 되는 거 알죠? For bellies like this, you have to do this! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "For bellies like this, you have to do this!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Mummy, I’ve got a tummy ache. 듣기 Add to Wordbook 엄마, 나 배 아파요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mummy, I’ve got a tummy ache. Add to Wordbook"
+    },
+    {
+      "korean": "an atmosphere redolent of the sea and ships 듣기 Add to Wordbook 바다와 배를 생각나게 하는 분위기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an atmosphere redolent of the sea and ships Add to Wordbook"
+    },
+    {
+      "korean": "The water churned beneath the huge ship. 듣기 Add to Wordbook 거대한 배 아래서 물이 거세게 휘돌았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The water churned beneath the huge ship. Add to Wordbook"
+    },
+    {
+      "korean": "She bit into a ripe juicy pear. 듣기 Add to Wordbook 그녀는 즙이 많은 잘 익은 배를 베어 물었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She bit into a ripe juicy pear. Add to Wordbook"
+    },
+    {
+      "korean": "The attacker kicked him in the stomach. 듣기 Add to Wordbook 그를 공격한 범인이 그의 배를 찼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The attacker kicked him in the stomach. Add to Wordbook"
+    }
+  ]
+}

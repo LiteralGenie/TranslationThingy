@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "좋은 의견이 아닌 것 같군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-기본대화 I don't think it's a good idea."
+      ]
+    },
+    {
+      "phrase": "아닌 것을 알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "know what is not"
+      ]
+    },
+    {
+      "phrase": "것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사물) thing, (대명사적) one",
+        "(사람을 낮추는 말)",
+        "(소유물)"
+      ]
+    },
+    {
+      "phrase": "아니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not, no"
+      ]
+    },
+    {
+      "phrase": "아닌 말로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is nonsensical to say so, but"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "nothing",
+      "frequency": 2
+    },
+    {
+      "meaning": "no",
+      "frequency": 2
+    },
+    {
+      "meaning": "any",
+      "frequency": 2
+    },
+    {
+      "meaning": "hardly",
+      "frequency": 2
+    },
+    {
+      "meaning": "garbage",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "19개는 좀 아닌 것 같아 - 누가 벌써 19개 담았어? 19 is too much. - Who did this? 듣기 View video IZ*ONE : 🐱🐹🐿🦋🍞🐰",
+      "english": "19 is too much. - Who did this?"
+    },
+    {
+      "korean": "그냥 뭐 - 아닌 것 같은데 - 세상 유해졌어요? Just... - I believe that's a lie. - You've become softer, huh? 듣기 View video V COOKIE : [Full] AB6IX x Rooftop Live - AB6IX의 루프탑라이브!",
+      "english": "Just... - I believe that's a lie. - You've become softer, huh?"
+    },
+    {
+      "korean": "[겨미를 못 알아볼 리 없잖아] 저 아닌 것 같죠? [There's no way we don't recognize YUGYEOM] It doesn't seem like me, does it? 듣기 View video V PICK! : [GOT7] 왜요..? 제가 재채기도 말랑깜찍하게 하는 김유겸 팬처럼 생겼나요..? (YUGYEOM answering fans’ questions)",
+      "english": "[There's no way we don't recognize YUGYEOM] It doesn't seem like me, does it?"
+    },
+    {
+      "korean": "아닌 것 같습니다~ I don't think so. 듣기 View video (G)I-DLE : 수진!!!!!!",
+      "english": "I don't think so."
+    },
+    {
+      "korean": "이게 아닌 것 같은데... I don't think it's... 듣기 View video GOT7 : 요~💚",
+      "english": "I don't think it's..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He’s losing his marbles. 발음듣기 그가 제정신[정상]이 아닌 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s losing his marbles. 발음"
+    },
+    {
+      "korean": "I don’t think that hairstyle is you. 발음듣기 그 헤어스타일은 네게 맞는 스타일이 아닌 것 같애. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I don’t think that hairstyle is you. 발음"
+    },
+    {
+      "korean": "It’s hardly the time to discuss it now. 발음듣기 지금은 그 문제를 논의할 때가 결코 아닌 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s hardly the time to discuss it now. 발음"
+    },
+    {
+      "korean": "He’s always playing a part. 발음듣기 그는 항상 (사실이 아닌 것을 사실인 것처럼) 연극을 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s always playing a part. 발음"
+    },
+    {
+      "korean": "I guess I’m not the marrying kind. 발음듣기 난 결혼을 할 그런 사람이 아닌 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I guess I’m not the marrying kind. 발음"
+    }
+  ]
+}

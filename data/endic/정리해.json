@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "정리하다",
+      "hanja": " (整理하다)",
+      "example": {},
+      "meanings": [
+        "Verb organize",
+        "Verb put together",
+        "Verb remove"
+      ]
+    },
+    {
+      "phrase": "정리",
+      "hanja": " (整理)",
+      "example": {},
+      "meanings": [
+        "(정돈하다) arrangement, (서류 등의) organization, arrange, put[set] sth in order, (방 등을) clean[tidy, clear, straighten] (up), (서류...",
+        "(문제·불필요한 것 등을) (사업 등의) liquidation, (채무의) settlement, (불필요한 것의) clearance, (사업 등을) liquidate, ...",
+        "(관계를) breakup, break up, break off"
+      ]
+    },
+    {
+      "phrase": "정리",
+      "hanja": " (定理)",
+      "example": {},
+      "meanings": [
+        "(수학, 논리학) theorem, proposition"
+      ]
+    },
+    {
+      "phrase": "정리 해고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "layoff, (Brit) redundancy"
+      ]
+    },
+    {
+      "phrase": "이항정리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "binomial theorem[formula]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "clearance",
+      "frequency": 3
+    },
+    {
+      "meaning": "theorem",
+      "frequency": 0
+    },
+    {
+      "meaning": "redundancy",
+      "frequency": 0
+    },
+    {
+      "meaning": "sort-out",
+      "frequency": 0
+    },
+    {
+      "meaning": "ordering",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "일단 비좁으니까 이것 좀 정리해놔야겠다 - 어, 얇게 - 얇게? We need to clean this table up. It's too crowded. - Yes, thinly. - Thin? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "We need to clean this table up. It's too crowded. - Yes, thinly. - Thin?"
+    },
+    {
+      "korean": "강율 씨가 다시 한번 정리해주실까요? Kang Yul, can you give it a try? 듣기 View video V COOKIE : [Full]WEB INSIDE - 일진에게 찍혔을 때 & 리얼하이로맨스 시즌2 (WEB INSIDE - Best Mistake & Real Highschool Romance S2)",
+      "english": "Kang Yul, can you give it a try?"
+    },
+    {
+      "korean": "머리 좀 정리해주실래요 옆에서? Can you please fix my hair on the side? 듣기 View video SF9 : 판타지사랑해",
+      "english": "Can you please fix my hair on the side?"
+    },
+    {
+      "korean": "지금까지 나온 얘기들 하고 싶은 멤버별로 한번 정리해볼까요? Shall we organize what we have so far? 듣기 View video X1 : [X1 RADIO] '원잇을 꿈꾸는 날에' EP.1 - 프롤로그",
+      "english": "Shall we organize what we have so far?"
+    },
+    {
+      "korean": "뭘 정리해? Tidy what up? 듣기 View video ASTRO : 연 날리기😆",
+      "english": "Tidy what up?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They sorted slowly and methodically through the papers. 듣기 Add to Wordbook 그들은 천천히 체계적으로 그 서류들을 정리해 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They sorted slowly and methodically through the papers. Add to Wordbook"
+    },
+    {
+      "korean": "They arranged the tables end to end. 듣기 Add to Wordbook 그들은 탁자들을 한 줄로 정리해 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They arranged the tables end to end. Add to Wordbook"
+    },
+    {
+      "korean": "She wanted to put her affairs in order before she died. 듣기 Add to Wordbook 그녀는 죽기 전에 일을 정리해 두고 싶었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She wanted to put her affairs in order before she died. Add to Wordbook"
+    },
+    {
+      "korean": "He’s always meticulous in keeping the records up to date. 듣기 Add to Wordbook 그는 항상 꼼꼼하게 기록을 최근 내용으로 수정 정리해 둔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s always meticulous in keeping the records up to date. Add to Wordbook"
+    },
+    {
+      "korean": "He liked polishing the furniture and making everything just so. 듣기 Add to Wordbook 그는 가구에 윤을 내고 모든 것을 세심히 정리해 두기를 좋아했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He liked polishing the furniture and making everything just so. Add to Wordbook"
+    }
+  ]
+}

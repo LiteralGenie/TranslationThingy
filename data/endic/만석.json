@@ -1,0 +1,104 @@
+{
+  "phrases": [
+    {
+      "phrase": "만석",
+      "hanja": " (萬石)",
+      "example": {},
+      "meanings": [
+        "Noun lots of grain"
+      ]
+    },
+    {
+      "phrase": "죄송하지만, 현재 만석입니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "자리 정하기 Sorry, we're full.",
+        "자리 정하기 I'm sorry our tables are full."
+      ]
+    },
+    {
+      "phrase": "지금 만석이지만 기다리시겠어요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "자리 정하기 The tables are full at the moment. Would you like to wait?"
+      ]
+    },
+    {
+      "phrase": "죄송하지만, 만석입니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "비행기 I'm sorry, it's full.",
+        "비행기 Sorry, we're full."
+      ]
+    },
+    {
+      "phrase": "만석초등학교",
+      "hanja": " (萬石初等學校)",
+      "example": {},
+      "meanings": [
+        "기관·단체 Manseok Elementary School"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "full-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "automatic grain screen",
+      "frequency": 0
+    },
+    {
+      "meaning": "Go Show Passenger",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[만석 지효까지 탑승 완료!] [JIHYO sat down] [Everyone is ready!] View video TWICE : [AutoCut_chaeyoung] TWICE 2Q 하이라이트",
+      "english": "[JIHYO sat down] [Everyone is ready!]"
+    },
+    {
+      "korean": "[만석인 쩨알이의 웍] - 좀 불안해요 - 왜? [JR's wok is full] - I'm nervous. - Why? 듣기 View video Dispatch : [ⓓxV] “JRTYLOG ③” (종현 : 태용)",
+      "english": "[JR's wok is full] - I'm nervous. - Why?"
+    },
+    {
+      "korean": "네 오늘 만석이라고 합니다. Yes, it's a full house today. 듣기 View video EXID : EXID LE 한화 VS KIA 시구한닷!!",
+      "english": "Yes, it's a full house today."
+    },
+    {
+      "korean": "[북적 북적, 어느새 등원 버스 만석] 보고 있는데 계속 힘내라고... [Crowded. The bus is already full] They are cheering. 듣기 View video 동방신기의 72시간 - my SMTelevision : [동방신기의 72시간] EP.13 한층 업그레이드된 열정의 2일차 시작",
+      "english": "[Crowded. The bus is already full] They are cheering."
+    },
+    {
+      "korean": "만석이 형? - 여기죠. Manseok? - You. 듣기 View video V MOVIE : <올레> 스팟라이브 ' Spot Live'",
+      "english": "Manseok? - You."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "According to the ticketing file, first class was full. 듣기 Add to Wordbook 이 티켓팅 파일에 따르면, 퍼스트 클래스는 죄다 만석이네요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 헵번공주(yuli****)",
+      "english": "According to the ticketing file, first class was full. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry, but the flight is full. 듣기 Add to Wordbook 미안하지만 , 그 항공편은 만석(滿席)이야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 kwonil61(kwon****)",
+      "english": "Sorry, but the flight is full. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry but the flight is full. 듣기 Add to Wordbook 죄송하지만 , 그 항공편은 만석(滿席)입니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 kwonil61(kwon****)",
+      "english": "Sorry but the flight is full. Add to Wordbook"
+    },
+    {
+      "korean": "Looks like it's gonna be a full house tonight. 듣기 Add to Wordbook 오늘 밤엔 만석이 될 거 같아 보여. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 KOREANKID(rlqj****)",
+      "english": "Looks like it's gonna be a full house tonight. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry gentlemen but the hotel is full. 듣기 Add to Wordbook 손님 죄송하지만 , 그 호텔은 만석(滿席)입니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 kwonil61(kwon****)",
+      "english": "Sorry gentlemen but the hotel is full. Add to Wordbook"
+    }
+  ]
+}

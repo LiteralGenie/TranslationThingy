@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "피하다",
+      "hanja": " (避―)",
+      "example": {},
+      "meanings": [
+        "(부딪치거나 맞지 않도록) avoid, dodge, sidestep; (고개를 숙여) duck (down)",
+        "(곤란한 일·상황 등을) avoid, escape, duck, (informal) sidestep, get around; (교묘하게) dodge; (책임을) evade, shirk",
+        "(시선·사람·추적 등을) avoid, escape (from); (추적을) evade, elude"
+      ]
+    },
+    {
+      "phrase": "'그러나' 피하기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "avoiding 'but'"
+      ]
+    },
+    {
+      "phrase": "‘왜’ 피하기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "avoiding ‘why’"
+      ]
+    },
+    {
+      "phrase": "움직이는 장애물 피하기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "moving obstacle avoidance"
+      ]
+    },
+    {
+      "phrase": "피치 못할",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unavoidable"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "eschewal",
+      "frequency": 0
+    },
+    {
+      "meaning": "corpulent",
+      "frequency": 0
+    },
+    {
+      "meaning": "untruth",
+      "frequency": 0
+    },
+    {
+      "meaning": "departed",
+      "frequency": 0
+    },
+    {
+      "meaning": "working girl",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "왜 나 피하기만 하는데? Why do you just keep avoiding me? 듣기 View video 플레이리스트 (Playlist) : 여자 둘이 손잡고 X레기 족치는 법[엑스엑스(XX)] - EP.08",
+      "english": "Why do you just keep avoiding me?"
+    },
+    {
+      "korean": "[잽싸게 피하기] 아까 순발력 봤죠? You saw the speed before, right? 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "You saw the speed before, right?"
+    },
+    {
+      "korean": "[나나에게 사과하러 간 루미] 왜 나 피하기만 하는데? [Rumi went to apologize to Nana] Why are you avoiding me? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "[Rumi went to apologize to Nana] Why are you avoiding me?"
+    },
+    {
+      "korean": "야구할 때 계속 안 치고 피하기만 하면 어떻게 돼요? what happens if you keep avoiding the ball instead of batting it? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "what happens if you keep avoiding the ball instead of batting it?"
+    },
+    {
+      "korean": "투수가 제대로 던졌는데 안 치고 피하기만 하면 아웃 되겠죠? Well, if the pitcher pitches it right and you keep avoiding the ball, then you are out. 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "Well, if the pitcher pitches it right and you keep avoiding the ball, then you are out."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He did his best to avert suspicion. 발음듣기 그는 의심을 피하기 위해 최선을 다했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He did his best to avert suspicion. 발음"
+    },
+    {
+      "korean": "He hurdled two barriers to avoid reporters. 발음듣기 그는 기자들을 피하기 위해 두 개의 장애물을 뛰어넘었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hurdled two barriers to avoid reporters. 발음"
+    },
+    {
+      "korean": "The two sides called a truce to avoid further bloodshed. 발음듣기 양 진영은 더 이상의 유혈 사태를 피하기 위해 정전을 선포했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The two sides called a truce to avoid further bloodshed. 발음"
+    },
+    {
+      "korean": "He went underground to avoid arrest. 발음듣기 그는 체포를 피하기 위해 지하로[잠행에] 들어갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He went underground to avoid arrest. 발음"
+    },
+    {
+      "korean": "I had to swerve to avoid a cat. 발음듣기 고양이 한 마리를 피하기 위해 내가 방향을 휙 틀어야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I had to swerve to avoid a cat. 발음"
+    }
+  ]
+}

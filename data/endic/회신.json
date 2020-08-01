@@ -1,0 +1,100 @@
+{
+  "phrases": [
+    {
+      "phrase": "회신",
+      "hanja": " (回信)",
+      "example": {},
+      "meanings": [
+        "reply, answer"
+      ]
+    },
+    {
+      "phrase": "회신으로 화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be reduced to ashes",
+        "be burnt to the ground",
+        "be razed to the ground"
+      ]
+    },
+    {
+      "phrase": "회신하다",
+      "hanja": " (回信하다)",
+      "example": {},
+      "meanings": [
+        "Verb reply, answer"
+      ]
+    },
+    {
+      "phrase": "회신바람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 RSVP (réondez s’il vous plaît)"
+      ]
+    },
+    {
+      "phrase": "빠른 회신 부탁드립니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I am looking forward to your quick response"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "answer",
+      "frequency": 3
+    },
+    {
+      "meaning": "response",
+      "frequency": 3
+    },
+    {
+      "meaning": "callback",
+      "frequency": 0
+    },
+    {
+      "meaning": "come in",
+      "frequency": 0
+    },
+    {
+      "meaning": "a speedy reply",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "회신용이죠, 이거? Is it for style? 듣기 View video Show! Music core : 쇼! 음악중심 '5분 딜레이~' Show! Music core",
+      "english": "Is it for style?"
+    },
+    {
+      "korean": "[음성 지원] 회신을 부탁드립니다. [Voice support] Please reply me. 듣기 View video Big Picture : 빅픽처 ep36_낚시인가! 진짜인가! 워너원 섭외?!",
+      "english": "[Voice support] Please reply me."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "In response to your inquiry… 듣기 Add to Wordbook 귀하의 문의에 대한 회신으로 … Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In response to your inquiry… Add to Wordbook"
+    },
+    {
+      "korean": "Have you had an answer to your letter? 듣기 Add to Wordbook 네 편지에 회신이 있었니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you had an answer to your letter? Add to Wordbook"
+    },
+    {
+      "korean": "Please reply by return of post. 듣기 Add to Wordbook 최대한 빨리 회신 주시기 바랍니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please reply by return of post. Add to Wordbook"
+    },
+    {
+      "korean": "To date, we have received over 200 replies. 듣기 Add to Wordbook 지금까지 200통의 회신을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "To date, we have received over 200 replies. Add to Wordbook"
+    },
+    {
+      "korean": "Write your return address on the back of the envelope. 듣기 Add to Wordbook 봉투 뒷면에 반송[회신] 주소를 적으세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Write your return address on the back of the envelope. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "파기",
+      "hanja": " (破棄)",
+      "example": {},
+      "meanings": [
+        "(종이·문서 등을) [명사] destruction, [동사] destroy, shred",
+        "(계약·약속 등을) [명사] (취소) cancellation, (무효화) annulment, termination, (formal) abrogation, [동사] cancel, break, (공식...",
+        "(판결을) [동사] annul, (formal) quash, set aside"
+      ]
+    },
+    {
+      "phrase": "foggy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 안개가 낀"
+      ]
+    },
+    {
+      "phrase": "pogy ( pogie )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (=MENHADEN)"
+      ]
+    },
+    {
+      "phrase": "pogy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "⇨ POGEY"
+      ]
+    },
+    {
+      "phrase": "fogged ( foggy )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ADJ Leisure:Photography affected or obscured by fog"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "picking",
+      "frequency": 3
+    },
+    {
+      "meaning": "digging",
+      "frequency": 0
+    },
+    {
+      "meaning": "nullification",
+      "frequency": 0
+    },
+    {
+      "meaning": "cassation",
+      "frequency": 0
+    },
+    {
+      "meaning": "defeasance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "밑에 파기 없다며 - 그게 판 거야? You said you can't dig. - Is that digging? 듣기 View video TWICE : [FULL] TWICE \"Dance The Night Away\" SPECIAL V LIVE",
+      "english": "You said you can't dig. - Is that digging?"
+    },
+    {
+      "korean": "정말 감사하겠습니다. - 하트 파기. we'd be really thankful. - Digging for the hearts. 듣기 View video B.I.G : [♥ Mission] 건민X희도",
+      "english": "we'd be really thankful. - Digging for the hearts."
+    },
+    {
+      "korean": "코 파기. Picking your nose. 듣기 View video CRAYONPOP : 크레용팝의 첫 라이브방송 \"아는 용팝\" 나를 맞혀봐",
+      "english": "Picking your nose."
+    },
+    {
+      "korean": "코 파기. - 아니에요. Picking your nose. - No. 듣기 View video CRAYONPOP : 크레용팝의 첫 라이브방송 \"아는 용팝\" 나를 맞혀봐",
+      "english": "Picking your nose. - No."
+    },
+    {
+      "korean": "도운 씨 지금 흙파기 스킬 했거든요. Dowoon, he showed us a digging skill right now. 듣기 View video V COOKIE : [Full] DAY6 X Rooftop Live - DAY6​의 루프탑라이브!",
+      "english": "Dowoon, he showed us a digging skill right now."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The customer had threatened to pull the account, so I stepped in and debugged the system, even though it required me to work through a holiday weekend. 듣기 Add to Wordbook 그 고객이 계약을 파기하겠다며 위협해서 저는 주말도 포기한 채 그 일에 뛰어들어 시스템 오류를 없앴습니다. DARAKWON",
+      "english": "The customer had threatened to pull the account, so I stepped in and debugged the system, even though it required me to work through a holiday weekend. Add to Wordbook"
+    },
+    {
+      "korean": "The commercial treaty was abrogated one-sidedly. 듣기 Add to Wordbook 그 통상 조약은 일방적으로 파기되었다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The commercial treaty was abrogated one-sidedly. Add to Wordbook"
+    },
+    {
+      "korean": "The state death penalty law was nullified in 1977. 듣기 Add to Wordbook 그 주의 사형법은 1977년에 파기되었다. YBM All in All English-Korean Dictionary",
+      "english": "The state death penalty law was nullified in 1977. Add to Wordbook"
+    },
+    {
+      "korean": "The president is willing to abrogate the treaty with China. 듣기 Add to Wordbook 대통령은 중국과의 협정을 파기할 의향이 있다 YBM All in All English-Korean Dictionary",
+      "english": "The president is willing to abrogate the treaty with China. Add to Wordbook"
+    },
+    {
+      "korean": "He gave me orders that annul contract with customer. 듣기 Add to Wordbook 그는 나에게 거래처와의 계약을 파기하라고 명령했다. YBM All in All English-Korean Dictionary",
+      "english": "He gave me orders that annul contract with customer. Add to Wordbook"
+    }
+  ]
+}

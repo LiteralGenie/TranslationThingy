@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "풍경",
+      "hanja": " (風景)",
+      "example": {},
+      "meanings": [
+        "(경관, 경치) landscape, scenery, scene, view",
+        "(정경, 상황) sight"
+      ]
+    },
+    {
+      "phrase": "풍경",
+      "hanja": " (風磬)",
+      "example": {},
+      "meanings": [
+        "(종) wind chime, wind-bell"
+      ]
+    },
+    {
+      "phrase": "거리 풍경",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a street scene",
+        "a scene on the street"
+      ]
+    },
+    {
+      "phrase": "시적 풍경",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "poetic scenery"
+      ]
+    },
+    {
+      "phrase": "전원 풍경",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rural landscape",
+        "a scene of the countryside"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "scene",
+      "frequency": 3
+    },
+    {
+      "meaning": "vista",
+      "frequency": 3
+    },
+    {
+      "meaning": "scenery",
+      "frequency": 3
+    },
+    {
+      "meaning": "wind chimes",
+      "frequency": 0
+    },
+    {
+      "meaning": "wind-bell",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[풍경 보는 중] 대박! [Enjoying the scenery] Amazing! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.01",
+      "english": "[Enjoying the scenery] Amazing!"
+    },
+    {
+      "korean": "'풍경' 아니면... 가성? 가성? \"Scenery\"? or... Falsetto? 듣기 View video BTS : 태태 FM 6.13 🐯",
+      "english": "\"Scenery\"? or... Falsetto?"
+    },
+    {
+      "korean": "[(임감독 요청) 하나우마 베이 풍경 보여 드립니다!] [(Asked by Director Lim) Let me show you Hanauma Bay!] View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.01",
+      "english": "[(Asked by Director Lim) Let me show you Hanauma Bay!]"
+    },
+    {
+      "korean": "[그림 같은 풍경] 이때 트는 노래가 그건가? [Painting like scenery] Will they insert that song again? 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Painting like scenery] Will they insert that song again?"
+    },
+    {
+      "korean": "풍경을 뭐라 그러지? How do I say scenery? 듣기 View video GOT7 : :)",
+      "english": "How do I say scenery?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a barren landscape without a scrap of vegetation 듣기 Add to Wordbook 초목의 흔적이라곤 조금도 없는 불모지 풍경 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a barren landscape without a scrap of vegetation Add to Wordbook"
+    },
+    {
+      "korean": "The beauty of the landscape overwhelmed me. 듣기 Add to Wordbook 그 풍경의 아름다움이 나를 압도했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The beauty of the landscape overwhelmed me. Add to Wordbook"
+    },
+    {
+      "korean": "the factory chimneys of an industrial landscape 듣기 Add to Wordbook 공업 지대 풍경의 공장 굴뚝들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the factory chimneys of an industrial landscape Add to Wordbook"
+    },
+    {
+      "korean": "the bleak/rugged/dramatic, etc. landscape of the area 듣기 Add to Wordbook 그 지역의 황량한/험한/극적인 풍경 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the bleak/rugged/dramatic, etc. landscape of the area Add to Wordbook"
+    },
+    {
+      "korean": "The landscape had a stark, unworldly beauty. 듣기 Add to Wordbook 그 풍경은 완벽한 천상의 아름다움을 지니고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The landscape had a stark, unworldly beauty. Add to Wordbook"
+    }
+  ]
+}

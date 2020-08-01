@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "열",
+      "hanja": " (熱)",
+      "example": {},
+      "meanings": [
+        "(물체의) heat",
+        "(몸의) fever",
+        "(열성, 열의)"
+      ]
+    },
+    {
+      "phrase": "열",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(줄) row, line, file, (Brit) queue, (움직이고 있는 사람·차 등의) column"
+      ]
+    },
+    {
+      "phrase": "열",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(숫자) ten, half a score"
+      ]
+    },
+    {
+      "phrase": "열",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner ten (→십2)"
+      ]
+    },
+    {
+      "phrase": "빛[열]의 강도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the intensity of the light[heat]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "heat",
+      "frequency": 3
+    },
+    {
+      "meaning": "fever",
+      "frequency": 3
+    },
+    {
+      "meaning": "rank",
+      "frequency": 3
+    },
+    {
+      "meaning": "column",
+      "frequency": 3
+    },
+    {
+      "meaning": "ten",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너무 열받네~ I'm getting mad. 듣기 View video SF9 : 어머님들",
+      "english": "I'm getting mad."
+    },
+    {
+      "korean": "몇 마리! - 열 마리! How many? - 10. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "How many? - 10."
+    },
+    {
+      "korean": "열아홉 때 했을걸? 열여덟인가? I think it was 19. Or was it 18? 듣기 View video WINNER : 💥김송이💥",
+      "english": "I think it was 19. Or was it 18?"
+    },
+    {
+      "korean": "마지막 열 번째 구호는 없습니다! There's no last slogan! 듣기 View video WINNER : 💥김송이💥",
+      "english": "There's no last slogan!"
+    },
+    {
+      "korean": "그때 우리 최고 많았을 때였어 - 열... It was the highest number. - 10... 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "It was the highest number. - 10..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The new store is slated to open in spring. 듣기 Add to Wordbook 그 새 상점은 봄에 문을 열 계획이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new store is slated to open in spring. Add to Wordbook"
+    },
+    {
+      "korean": "Heat until all the water has evaporated. 듣기 Add to Wordbook 수분이 모두 증발할 때까지 열을 가하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Heat until all the water has evaporated. Add to Wordbook"
+    },
+    {
+      "korean": "The paper started to shrivel and curl up in the heat. 듣기 Add to Wordbook 종이가 열을 받아 오그라지며 동그랗게 말렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The paper started to shrivel and curl up in the heat. Add to Wordbook"
+    },
+    {
+      "korean": "‘You had no right!’ she said heatedly. 듣기 Add to Wordbook “당신에겐 권리가 없었어!” 그녀가 열을 내며 말했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘You had no right!’ she said heatedly. Add to Wordbook"
+    },
+    {
+      "korean": "an initial payment of £60 and ten instalments of £25 듣기 Add to Wordbook 첫 지불금 60파운드에 25파운드씩 열 번의 할부금 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an initial payment of £60 and ten instalments of £25 Add to Wordbook"
+    }
+  ]
+}

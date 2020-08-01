@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "신속",
+      "hanja": " (迅速)",
+      "example": {},
+      "meanings": [
+        "quickness, rapidity, swiftness, promptitude, speediness, celerity, 신속하다 (be) quick, rapid, swift, speedy, prompt"
+      ]
+    },
+    {
+      "phrase": "신속하다",
+      "hanja": " (迅速하다)",
+      "example": {},
+      "meanings": [
+        "quick, speedy, swift, prompt"
+      ]
+    },
+    {
+      "phrase": "신속하게 처리하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "handle sth quickly[rapidly, swiftly]"
+      ]
+    },
+    {
+      "phrase": "신속한 결단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a quick[swift, prompt] decision"
+      ]
+    },
+    {
+      "phrase": "보도의 신속",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "promptness of information"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rapidity",
+      "frequency": 1
+    },
+    {
+      "meaning": "swiftness",
+      "frequency": 0
+    },
+    {
+      "meaning": "promptitude",
+      "frequency": 0
+    },
+    {
+      "meaning": "rapidness",
+      "frequency": 0
+    },
+    {
+      "meaning": "speediness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[누구보다 빠르게 신속 배달 중] 달걀 깨! [Fast moving] Break those eggs! 듣기 View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 4화",
+      "english": "[Fast moving] Break those eggs!"
+    },
+    {
+      "korean": "[신속 정확하게 동의 구하는 센스] 안녕하세요 사진 한 장만 찍어도 될까요? Hi, can we take a picture here? 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP60] 차에 00없애면 여친 생긴다",
+      "english": "Hi, can we take a picture here?"
+    },
+    {
+      "korean": "[컨실러 기능을 포함한 똑똑한 쿠션 팩트] 간편하고 신속하게 메이크업을 할 수 있습니다. [A smart cushion pact with a concealer function] It simplifies and paces up your makeup routine. 듣기 View video GFRIEND : SBS MTV <요고바라> 동시생중계",
+      "english": "[A smart cushion pact with a concealer function] It simplifies and paces up your makeup routine."
+    },
+    {
+      "korean": "매우 빠르고 신속하게. Quick and speedy. 듣기 View video Stray Kids : 댄스라인의 댄스타임♡",
+      "english": "Quick and speedy."
+    },
+    {
+      "korean": "A팀 우리 신속하게 이동할까? Team A. Should we move quickly? 듣기 View video V COOKIE : [Full] TEEN TOP X SUITS KNIGHTS - 틴탑의 정장방!",
+      "english": "Team A. Should we move quickly?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Our aim is immediacy of response to emergency calls. 발음듣기 우리의 목표는 긴급 호출에 신속하게 반응하는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our aim is immediacy of response to emergency calls. 발음"
+    },
+    {
+      "korean": "She moved swiftly to the rescue. 발음듣기 그녀는 신속하게 구조에 나섰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She moved swiftly to the rescue. 발음"
+    },
+    {
+      "korean": "the rapid assimilation of new ideas 발음듣기 새로운 사상들의 신속한 흡수 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the rapid assimilation of new ideas 발음"
+    },
+    {
+      "korean": "Are you sure this is the quickest way? 발음듣기 이게 가장 신속한 방법임이 확실한가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Are you sure this is the quickest way? 발음"
+    },
+    {
+      "korean": "The company wants quick results. 발음듣기 회사에서는 신속한 결과를 원한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company wants quick results. 발음"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "함대",
+      "hanja": " (艦隊)",
+      "example": {},
+      "meanings": [
+        "fleet"
+      ]
+    },
+    {
+      "phrase": "무적함대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(역사) the Spanish Armada"
+      ]
+    },
+    {
+      "phrase": "유격 함대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a flying squadron",
+        "a task force"
+      ]
+    },
+    {
+      "phrase": "무적함대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Spanish Armada"
+      ]
+    },
+    {
+      "phrase": "구축함대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a destroyer flotilla"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fleet",
+      "frequency": 0
+    },
+    {
+      "meaning": "armada",
+      "frequency": 0
+    },
+    {
+      "meaning": "fleet 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "a fleet of ships",
+      "frequency": 0
+    },
+    {
+      "meaning": "naval reserves",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The Spanish Armada was sent to attack England in 1588. 듣기 Add to Wordbook 1588년에 스페인 함대가 잉글랜드를 공격하기 위해 파견되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Spanish Armada was sent to attack England in 1588. Add to Wordbook"
+    },
+    {
+      "korean": "the annual celebration of Fleet Week for the U.S Navy 듣기 Add to Wordbook 미국 해군을 위한 연례 함대주간 기념행사 국제영어대학원대학교 신어사전",
+      "english": "the annual celebration of Fleet Week for the U.S Navy Add to Wordbook"
+    },
+    {
+      "korean": "The officer is attached to the training squadron. 듣기 Add to Wordbook 그 장교는 연습함대에 배속되었다. Friendict Level English-Korean Dictionary",
+      "english": "The officer is attached to the training squadron. Add to Wordbook"
+    },
+    {
+      "korean": "Spain's power decayed after her Armada was destroyed. 듣기 Add to Wordbook 스페인은 무적함대가 괴멸된 후 세력이 쇠퇴했다. Friendict Level English-Korean Dictionary",
+      "english": "Spain's power decayed after her Armada was destroyed. Add to Wordbook"
+    },
+    {
+      "korean": "They sent naval forces to protect merchant shipping. 듣기 Add to Wordbook 그들은 상선 적하를 보호하기 위하여 해군 함대를 보냈다. YBM All in All English-Korean Dictionary",
+      "english": "They sent naval forces to protect merchant shipping. Add to Wordbook"
+    }
+  ]
+}

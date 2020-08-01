@@ -1,0 +1,73 @@
+{
+  "phrases": [
+    {
+      "phrase": "낙태시술자",
+      "hanja": " (落胎施術者)",
+      "example": {},
+      "meanings": [
+        "의학 abortionist"
+      ]
+    },
+    {
+      "phrase": "이식 시술자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "transplantation operator"
+      ]
+    },
+    {
+      "phrase": "시술",
+      "hanja": " (施術)",
+      "example": {},
+      "meanings": [
+        "(medical) procedure, surgical procedure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "abortionist",
+      "frequency": 0
+    },
+    {
+      "meaning": "tenotomist",
+      "frequency": 0
+    },
+    {
+      "meaning": "occulter",
+      "frequency": 0
+    },
+    {
+      "meaning": "etherizer",
+      "frequency": 0
+    },
+    {
+      "meaning": "galvanizer",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "However, not all of the customers or tattoo artists could read Chinese characters. 듣기 Add to Wordbook 그러나 모든 손님들이나 문신 시술자들이 한자를 읽을 줄 알았던 것은 아니었다. Neungyule",
+      "english": "However, not all of the customers or tattoo artists could read Chinese characters. Add to Wordbook"
+    },
+    {
+      "korean": "Sometimes the customers chose the wrong character, and sometimes the artists drew the character incorrectly. 듣기 Add to Wordbook 때로는 손님들이 잘못된 글자를 선택했고, 때로는 시술자들이 글자를 잘 못 그렸다. Neungyule",
+      "english": "Sometimes the customers chose the wrong character, and sometimes the artists drew the character incorrectly. Add to Wordbook"
+    },
+    {
+      "korean": "Abortionists who were once revered and depended upon were now scorned and threatened. 듣기 Add to Wordbook 사람들에게 한 때 존경받고 의지가 되었던 낙태시술자들은 오늘날 멸시와 위협을 받았다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Brian Yoon(onj1****)",
+      "english": "Abortionists who were once revered and depended upon were now scorned and threatened. Add to Wordbook"
+    },
+    {
+      "korean": "The hand transplant recipient later had it amputated. 듣기 Add to Wordbook 손이식시술자는 후에 그것을 절단하게 했습니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 The Milky Way(2byp****)",
+      "english": "The hand transplant recipient later had it amputated. Add to Wordbook"
+    },
+    {
+      "korean": "Acupuncture is generally considered safe when performed by a certified practitioner using sterile needles. 듣기 Add to Wordbook 침술은 공인된 시술자가 살균된 침을 사용하여 시술을 시행하는 경우 대개 안전한 것으로 간주된다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 kini(kini****)",
+      "english": "Acupuncture is generally considered safe when performed by a certified practitioner using sterile needles. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "꽃",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(식물) flower, bloom, (나무에 열린) blossom",
+        "(비유적) (literary) the flower (of)"
+      ]
+    },
+    {
+      "phrase": "꽃말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "flower[floral] language, the language of flowers"
+      ]
+    },
+    {
+      "phrase": "벚꽃",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cherry blossoms"
+      ]
+    },
+    {
+      "phrase": "꽃의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "floral"
+      ]
+    },
+    {
+      "phrase": "안개꽃",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "baby's breath, gypsophila"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "flower",
+      "frequency": 3
+    },
+    {
+      "meaning": "bloom",
+      "frequency": 3
+    },
+    {
+      "meaning": "blossom",
+      "frequency": 3
+    },
+    {
+      "meaning": "blow 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "inflorescence",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "플로리스트? 꽃 그건가? Florist? Is it the flower thing? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Florist? Is it the flower thing?"
+    },
+    {
+      "korean": "그 꽃 내려놓고 저 큰 거 들어 큰 거! Put down that flower. Hold the big one! 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "Put down that flower. Hold the big one!"
+    },
+    {
+      "korean": "색깔 잘 어울린다! - 누가 꽃이야? The color looks good! - Who is the flower? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "The color looks good! - Who is the flower?"
+    },
+    {
+      "korean": "꽃과 관련된 내용들 뭐... Something about flowers too. 듣기 View video WOODZ (조승연) : (진짜)조곤조곤",
+      "english": "Something about flowers too."
+    },
+    {
+      "korean": "안 될... - 꽃 본연의... No. - It ruins the flower scent. 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "No. - It ruins the flower scent."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The butterfly fluttered from flower to flower. 듣기 Add to Wordbook 나비는 이 꽃 저 꽃으로 훨훨 날아다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The butterfly fluttered from flower to flower. Add to Wordbook"
+    },
+    {
+      "korean": "flowers that bloom in spring/in the spring 듣기 Add to Wordbook 봄에 꽃이 피는 화초 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "flowers that bloom in spring/in the spring Add to Wordbook"
+    },
+    {
+      "korean": "Cut the flower stems on the slant. 듣기 Add to Wordbook 꽃의 줄기를 비스듬하게 잘라라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Cut the flower stems on the slant. Add to Wordbook"
+    },
+    {
+      "korean": "The roses are in flower early this year. 듣기 Add to Wordbook 올해는 장미가 꽃이 일찍 피었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The roses are in flower early this year. Add to Wordbook"
+    },
+    {
+      "korean": "fields of poppies bending in the wind 듣기 Add to Wordbook 바람에 고개를 숙이는 양귀비꽃들이 피어 있는 들판 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "fields of poppies bending in the wind Add to Wordbook"
+    }
+  ]
+}

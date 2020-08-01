@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "Z ( z )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 제트(영어 알파벳의 스물여섯째, 즉 마지막 글자)",
+        "Noun 美, 비격식, 유머 잠"
+      ]
+    },
+    {
+      "phrase": "Z",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 한숨 자기[쉬기]",
+        "Interjection 쿨쿨, 드렁드렁 ((코 고는 소리; cf. ZZZ))"
+      ]
+    },
+    {
+      "phrase": "Z",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[화학] atomic number, [천문] zenith distance"
+      ]
+    },
+    {
+      "phrase": "Z",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "물리 Z-zero particle"
+      ]
+    },
+    {
+      "phrase": "Z",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Symbol (차례·연속된 것 중의) 스물 여섯 번째(의 것)(단 I를 제외할 경우는 스물 다섯 번째, I·V·W를 제외할 경우는 스...",
+        "Symbol (중세 로마 숫자의) 2000.",
+        "Symbol 물·화 원자 번호(atomic number)."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Z axis",
+      "frequency": 0
+    },
+    {
+      "meaning": "Zipper",
+      "frequency": 0
+    },
+    {
+      "meaning": "Zzzzzz (falling asleep at the keyboard)",
+      "frequency": 0
+    },
+    {
+      "meaning": "Z-axis direction",
+      "frequency": 0
+    },
+    {
+      "meaning": "Flash Precedence",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[친절] 컨트롤 눌렀다가 땅바닥에 도착했을 때 Z, Z! [Kind] Control and then Z when you land. 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Kind] Control and then Z when you land."
+    },
+    {
+      "korean": "지민아 밑에 떨어질 때 착지 어떻게 해? - Z 누르면 돼요 Z! Jimin, how do you land? - Press Z! 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "Jimin, how do you land? - Press Z!"
+    },
+    {
+      "korean": "[파란색 체력이 모두 소진되면] 형이 Z만 누르고 있는 거 아니야? [When there's no energy left] Do you keep pressing Z? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[When there's no energy left] Do you keep pressing Z?"
+    },
+    {
+      "korean": "[그 사이 게임 시작!] - Z를 누르면 안 되는 거냐? - 이거 어떻게 하는 건데? [The second round has begun] - Shouldn't I press Z? - How do you play this? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[The second round has begun] - Shouldn't I press Z? - How do you play this?"
+    },
+    {
+      "korean": "[Z키 (=대쉬, 돌진)를 사용할 때마다 파란색 체력이 닳으며] 달리다 왜 멈춰? [Energy levels drop every time the Z key (dash) is used] Why does it stop running? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Energy levels drop every time the Z key (dash) is used] Why does it stop running?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Zebra’ begins with (a) Z / ‘Z’. 발음듣기 zebra 는 z 로 시작된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Zebra’ begins with (a) Z / ‘Z’. 발음"
+    },
+    {
+      "korean": "The possible permutations of x, y and z are xyz, xzy, yxz, yzx, zxy and zyx. 발음듣기 x, y, z로 가능한 순열은 xyz, xzy, yxz, yzx, zxy, zyx이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The possible permutations of x, y and z are xyz, xzy, yxz, yzx, zxy and zyx. 발음"
+    },
+    {
+      "korean": "He knew his subject from A to Z. 발음듣기 그는 자신이 다루는 주제에 대해 하나에서 열까지 다 알고 있었다[모르는 것이 없었다.] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He knew his subject from A to Z. 발음"
+    },
+    {
+      "korean": "an A to Z of needlework 발음듣기 뜨개질 편람[뜨개질의 모든 것] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an A to Z of needlework 발음"
+    },
+    {
+      "korean": "Who’s the GOAT? Jay-Z or Nas? 발음듣기 누가 시대를 초월한 최고지? Jay-Z야 Nas야? DARAKWON",
+      "english": "Who’s the GOAT? Jay-Z or Nas? 발음"
+    }
+  ]
+}

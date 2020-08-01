@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "beetle",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 딱정벌레",
+        "Noun (소형) 폭스바겐 (자동차)",
+        "Verb 英, 비격식 휑하니 가다 (=scurry)"
+      ]
+    },
+    {
+      "phrase": "victual",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [pl.] 음식물, 양식",
+        "Noun (사람의) 먹을 것, 식품",
+        "Transitive verb <군대 등에> 식료품을 공급하다, <배에> 식료품을 싣다"
+      ]
+    },
+    {
+      "phrase": "betel",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 구장 나무 (잎)"
+      ]
+    },
+    {
+      "phrase": "vittle",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun, Verb 구어 (=VICTUAL)"
+      ]
+    },
+    {
+      "phrase": "beetle",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective <눈썹·벼랑 등이> 돌출한, 숱이 많은, 상을 찌푸린, 뚱한",
+        "Intransitive verb <눈썹·벼랑 등이> 돌출하다"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "torsibility",
+      "frequency": 0
+    },
+    {
+      "meaning": "an intercession for rain",
+      "frequency": 0
+    },
+    {
+      "meaning": "wrench",
+      "frequency": 3
+    },
+    {
+      "meaning": "writhe",
+      "frequency": 3
+    },
+    {
+      "meaning": "distort",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[비틀] 깐풍기! [Staggering] Kkan Pung Gi! 듣기 View video LOVELYZ : '러블리즈 다이어리 시즌6' 6화 ('Lovelyz Diary Season 6' EP.6 )",
+      "english": "[Staggering] Kkan Pung Gi!"
+    },
+    {
+      "korean": "[비틀] 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열! [Stumbling] 4, 5, 6, 7, 8, 9, 10! 듣기 View video BTS : Run BTS! 2019 - EP.71",
+      "english": "[Stumbling] 4, 5, 6, 7, 8, 9, 10!"
+    },
+    {
+      "korean": "[비틀] - 재밌습니까? - 네? [Unstable] - Are you having fun? - What? 듣기 View video TWICE : 나연 TV EP.01",
+      "english": "[Unstable] - Are you having fun? - What?"
+    },
+    {
+      "korean": "뭘 비틀건데? Just what are we going to wring? 듣기 View video BTOB : 비투비 깜짝 2017!!!",
+      "english": "Just what are we going to wring?"
+    },
+    {
+      "korean": "세상의 모든 포맷을 슈퍼주니어만의 방식으로 확!! 비틀어버리는 그런 쇼입니다! It's a show where all the show formats in the world are bent in the Super Junior way! 듣기 View video SMTOWN : [슈퍼TV] 30초 안에 슈퍼TV의 모든 것을 알려라!",
+      "english": "It's a show where all the show formats in the world are bent in the Super Junior way!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It is about 10 feet long and 5 feet wide, with a small engine in the back, just like the original Volkswagon Beetle. 듣기 Add to Wordbook 이 차는 길이 10피트 폭 5피트 정도의 차로, 원형(오리지널) 폭스바겐 비틀처럼 차 뒤 부분에 작은 엔진을 가지고 있다. Neungyule",
+      "english": "It is about 10 feet long and 5 feet wide, with a small engine in the back, just like the original Volkswagon Beetle. Add to Wordbook"
+    },
+    {
+      "korean": "They played on the 'Ed Sullivan Show' in the United States in 1964, which spread 'Beatlemania' throughout the U.S. and Europe. 듣기 Add to Wordbook 이들은 1964년에 미국의 '애드 설리반 쇼'에서 공연을 하였고 미국과 유럽에 '비틀매니아'가 퍼지기 시작했다. Neungyule",
+      "english": "They played on the 'Ed Sullivan Show' in the United States in 1964, which spread 'Beatlemania' throughout the U.S. and Europe. Add to Wordbook"
+    },
+    {
+      "korean": "Attention shoppers: if you are driving a yellow Volkswagen Beetle with license plate number 836-EU9, you have left your headlights on. 듣기 Add to Wordbook 고객 여러분께 안내 말씀 드립니다. 차량번호 836-EU9의 노란색 폭스바겐 비틀 차주께서 헤드라이트를 켜 놓으셨습니다. YBM All in All English-Korean Dictionary",
+      "english": "Attention shoppers: if you are driving a yellow Volkswagen Beetle with license plate number 836-EU9, you have left your headlights on. Add to Wordbook"
+    },
+    {
+      "korean": "That’s how the famous Volkswagen Beetle was created. 듣기 Add to Wordbook 그것이 유명한 폭스바겐 비틀이 탄생된 배경이다. EDU TIMES",
+      "english": "That’s how the famous Volkswagen Beetle was created. Add to Wordbook"
+    },
+    {
+      "korean": "Winfrey owns a New Beetle herself and she wanted to give the cars away to her fans on her show. 듣기 Add to Wordbook 윈프리는 뉴비틀 자동차를 갖고 있고 토크쇼의 팬들에게 그 차를 선물하고 싶었습니다. TIMES CORE",
+      "english": "Winfrey owns a New Beetle herself and she wanted to give the cars away to her fans on her show. Add to Wordbook"
+    }
+  ]
+}

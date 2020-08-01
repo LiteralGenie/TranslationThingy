@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "관문",
+      "hanja": " (關門)",
+      "example": {},
+      "meanings": [
+        "(길목) gateway (to)",
+        "(힘든 과정) hurdle"
+      ]
+    },
+    {
+      "phrase": "승진의 관문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bar to promotion"
+      ]
+    },
+    {
+      "phrase": "대입 시험의 1차 관문을 통과하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "clear[get through] the first hurdle of the university entrance examination"
+      ]
+    },
+    {
+      "phrase": "마지막 관문을 통과하셨습니다!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You made the final cut!"
+      ]
+    },
+    {
+      "phrase": "입학 시험의 관문을 통과하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get through the barriers of the entrance examination"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gateway",
+      "frequency": 3
+    },
+    {
+      "meaning": "bar 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "pass 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "choke point",
+      "frequency": 0
+    },
+    {
+      "meaning": "control post",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[그전에 거쳐야 할 기상미션의 관문!] [Before that, the hurdle of morning mission!] View video ATEEZ : ATEEZ(에이티즈) WANTED 5화",
+      "english": "[Before that, the hurdle of morning mission!]"
+    },
+    {
+      "korean": "뭐냐 관문 있죠? \"1등 누구야?\" You know the sort of a gate you have to pass through. \"Who's the best?\" 듣기 View video TOMORROW X TOGETHER : 🎉100일도 함께해요🎉",
+      "english": "You know the sort of a gate you have to pass through. \"Who's the best?\""
+    },
+    {
+      "korean": "[첫 번째 관문 부침가루 계량] [한 봉지 탈탈] 1000g 다 해? [1st issue is the amount] [Uses the entire bag] Use up the entire bag? 듣기 View video 1THE9(원더나인) : 원더나인(1THE9) - 원더랜드(WONDERLAND) EP.3",
+      "english": "[1st issue is the amount] [Uses the entire bag] Use up the entire bag?"
+    },
+    {
+      "korean": "[브루클린으로 가는 첫 번째 관문!] [The first task at the subway!] View video Stray Kids : [Stray Kids: 제 9구역 시즌2 (The 9th Season 2)] EP.04",
+      "english": "[The first task at the subway!]"
+    },
+    {
+      "korean": "'아이돌라디오'의 관문이에요. It's the rite of passage to \"IDOL RADIO.\" 듣기 View video IDOL RADIO : [Full] 'IDOL RADIO' ep#2. 우리는 최강 아이돌 (with B.A.P영재, 권현빈)",
+      "english": "It's the rite of passage to \"IDOL RADIO.\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Perth, the gateway to Western Australia 듣기 Add to Wordbook 퍼스, 서부 오스트레일리아의 관문 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Perth, the gateway to Western Australia Add to Wordbook"
+    },
+    {
+      "korean": "the gates of the city 듣기 Add to Wordbook 도시의 관문 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the gates of the city Add to Wordbook"
+    },
+    {
+      "korean": "to pass a barrier / sentry / checkpoint 듣기 Add to Wordbook 관문/보초/검문소를 통과하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to pass a barrier / sentry / checkpoint Add to Wordbook"
+    },
+    {
+      "korean": "Visualizing your dream is the first step to bring you success. 듣기 Add to Wordbook 당신의 꿈을 시각화하는 것이 성공을 가져다 주는 첫 번째 관문이다. 절대어휘 5100",
+      "english": "Visualizing your dream is the first step to bring you success. Add to Wordbook"
+    },
+    {
+      "korean": "This gate was the main southern entrance to the capital city during the Joseon Dynasty. 듣기 Add to Wordbook 이 문은 조선 시대 도성으로 들어가는 관문이었다. Neungyule",
+      "english": "This gate was the main southern entrance to the capital city during the Joseon Dynasty. Add to Wordbook"
+    }
+  ]
+}

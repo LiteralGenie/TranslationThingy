@@ -1,0 +1,61 @@
+{
+  "phrases": [
+    {
+      "phrase": "서류상환불",
+      "hanja": " (書類相換拂)",
+      "example": {},
+      "meanings": [
+        "경제·경영 cash against documents"
+      ]
+    },
+    {
+      "phrase": "서류",
+      "hanja": " (書類)",
+      "example": {},
+      "meanings": [
+        "document, papers"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tax haven",
+      "frequency": 0
+    },
+    {
+      "meaning": "on paper",
+      "frequency": 0
+    },
+    {
+      "meaning": "IMW goods imported from manufacturing warehouse",
+      "frequency": 0
+    },
+    {
+      "meaning": "virtural export",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The idea looks good on paper. 발음듣기 이 아이디어가 서류상으로는 좋아 보인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The idea looks good on paper. 발음"
+    },
+    {
+      "korean": "On paper, several of the applicants fit the bill. 발음듣기 서류상으로는 지원자들 중 몇 명이 꼭 알맞은 사람들 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "On paper, several of the applicants fit the bill. 발음"
+    },
+    {
+      "korean": "I didn’t marry him in the classic, you know, paper. 발음듣기 전통적인 방식으로 결혼한 것은 아니고, 그러니까 서류상으로는 아니라는 거죠. YBM All in All English-Korean Dictionary",
+      "english": "I didn’t marry him in the classic, you know, paper. 발음"
+    },
+    {
+      "korean": "But the decline is mostly on paper. 발음듣기 하지만 감소는 대부분 서류상에만 존재한다. User translation Inaccurate information may be included due to the users' self-traslation. The Milky Way(2byp****) Web Collection",
+      "english": "But the decline is mostly on paper. 발음"
+    },
+    {
+      "korean": "The rationale is well laid out in the document. 발음듣기 이유는 서류상에 잘 설명되어 있다. User translation Inaccurate information may be included due to the users' self-traslation. lovepassion(fldl****) Hansard",
+      "english": "The rationale is well laid out in the document. 발음"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "phrases": [
+    {
+      "phrase": "삼중",
+      "hanja": " (三重)",
+      "example": {},
+      "meanings": [
+        "triple"
+      ]
+    },
+    {
+      "phrase": "삼중매듭",
+      "hanja": " (三重─)",
+      "example": {},
+      "meanings": [
+        "[해양] a magnus hitch."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "triple burden",
+      "frequency": 0
+    },
+    {
+      "meaning": "it serves the triple purpose of...",
+      "frequency": 0
+    },
+    {
+      "meaning": "trigeminy",
+      "frequency": 0
+    },
+    {
+      "meaning": "triple-stranded DNA",
+      "frequency": 0
+    },
+    {
+      "meaning": "triple superheterodyne system",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "나는 어제 三重(삼중) 혈관 우회 수술을 했다.",
+      "english": "I did a triple bypass yesterday."
+    }
+  ]
+}

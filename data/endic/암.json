@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "암",
+      "hanja": " (癌)",
+      "example": {},
+      "meanings": [
+        "(질병) cancer, (의학) carcinoma",
+        "(비유적) cancer, curse"
+      ]
+    },
+    {
+      "phrase": "암",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun female, she (→암-1), (↔수1)"
+      ]
+    },
+    {
+      "phrase": "수[암]나사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a male[female] screw",
+        "an exterior[interior] screw",
+        "a bolt[nut]"
+      ]
+    },
+    {
+      "phrase": "수[암]치질",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "external[internal] hemorrhoids"
+      ]
+    },
+    {
+      "phrase": "수[암]코끼리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bull[cow] elephant"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cancer",
+      "frequency": 2
+    },
+    {
+      "meaning": "she",
+      "frequency": 2
+    },
+    {
+      "meaning": "arm",
+      "frequency": 2
+    },
+    {
+      "meaning": "female",
+      "frequency": 2
+    },
+    {
+      "meaning": "limestone",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "암쏘 쏘리? Amso (I'm so) sorry? 듣기 View video TWICE : 급식단 Reloaded \"급식단의 특별수업\" EP.02",
+      "english": "Amso (I'm so) sorry?"
+    },
+    {
+      "korean": "[아... 암?] 뭘 할 수 있다고요? [What...?] Do what? 듣기 View video Hyomstore : ep.10 횸스토어 MD들의 바이럴 영상 대공개!",
+      "english": "[What...?] Do what?"
+    },
+    {
+      "korean": "[암 낫 큐트!] [I'm not cute!] View video GOT7 : [GOT2DAY 2019] 09. JB & Youngjae",
+      "english": "[I'm not cute!]"
+    },
+    {
+      "korean": "[암 뤠디 갑니다] 갑니다! [I'm ready!] Let's go! 듣기 View video 잼플리 Jamfully : 후배한테 디스(?)당하고 역대급 폭주하고 간 우주소녀 [이세퀴] 시즌2 EP.07",
+      "english": "[I'm ready!] Let's go!"
+    },
+    {
+      "korean": "[암요 암요... 몰라도 알아요] 약간 그런 느낌? [Of course... Even if I might, I do] It feels like that? 듣기 View video ASTRO : [ASTRO PLAY] 'Blue Flame' 우리 컴백했어요 ep02",
+      "english": "[Of course... Even if I might, I do] It feels like that?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Cigarette smoking multiplies the risk of cancer. 발음듣기 흡연은 암의 위험을 크게 증대시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Cigarette smoking multiplies the risk of cancer. 발음"
+    },
+    {
+      "korean": "Uncle Harry is terminally ill with cancer. 발음듣기 해리 삼촌은 말기 암을 앓고 계신다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Uncle Harry is terminally ill with cancer. 발음"
+    },
+    {
+      "korean": "to reduce the fatality of certain types of cancer 발음듣기 특정한 유형의 암의 치사율을 낮추다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to reduce the fatality of certain types of cancer 발음"
+    },
+    {
+      "korean": "Early detection of cancers is vitally important. 발음듣기 암의 조기 발견은 생사가 달린 중요 문제이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Early detection of cancers is vitally important. 발음"
+    },
+    {
+      "korean": "Different forms of cancer have different fatality rates. 발음듣기 암은 종류에 따라 치사율이 다르다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Different forms of cancer have different fatality rates. 발음"
+    }
+  ]
+}

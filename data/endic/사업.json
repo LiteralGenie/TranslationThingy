@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "사업",
+      "hanja": " (事業)",
+      "example": {},
+      "meanings": [
+        "(영리를 목적으로 하는 경제활동) business, enterprise",
+        "(비영리적인 사회 활동) work, service"
+      ]
+    },
+    {
+      "phrase": "사회사업",
+      "hanja": " (社會事業)",
+      "example": {},
+      "meanings": [
+        "social work, social service"
+      ]
+    },
+    {
+      "phrase": "사업 소득세",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the business tax"
+      ]
+    },
+    {
+      "phrase": "사업연도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the business year"
+      ]
+    },
+    {
+      "phrase": "문화 사업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a cultural enterprise",
+        "cultural work"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "business",
+      "frequency": 3
+    },
+    {
+      "meaning": "trade",
+      "frequency": 3
+    },
+    {
+      "meaning": "operation",
+      "frequency": 3
+    },
+    {
+      "meaning": "game",
+      "frequency": 3
+    },
+    {
+      "meaning": "show",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[최종 목표를 이룬 사업] 그거를 만들었을까? [I guess that's the goal of its business] launch the ice cream? 듣기 View video V PICK! : [JBJ95] 이쯤되니 두리안을 반려식물 삼아 친해지고 말아야겠다고 결심...٩(๑•̀o•́๑)و‼️(JBJ95 talking about durian ice cream)",
+      "english": "[I guess that's the goal of its business] launch the ice cream?"
+    },
+    {
+      "korean": "아시는 분이 하시는 사업은 아니죠? Do you run this business? 듣기 View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸 동맹] EP.42 사장님..이거 PPL아니고 몰카죠? 현존하는 가장 미친 PPL방송...ㅎ",
+      "english": "Do you run this business?"
+    },
+    {
+      "korean": "[대단하다, 와중에 사업 걱정!] 그 와중에 또... He got so serious. 듣기 View video Big Picture (빅픽처) : 빅픽처3 EP28_ 가슴을 열어라2 - XX오빠~ 돈 내 놓으세요!!",
+      "english": "He got so serious."
+    },
+    {
+      "korean": "사업자 등록증은 어떻게 됐나요? What happened with the business license? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#216. 또 Bloom (w. 더보이즈)",
+      "english": "What happened with the business license?"
+    },
+    {
+      "korean": "그게 무슨... - 너무 사업가 같이 말했어? What... - Did that sound like a business? 듣기 View video 콬TV (WHYNOT) : 20살 첫 여름방학, 썸 타러 바다로 여행을 떠났다💙ㅣ[리얼하이로맨스S2] EP1",
+      "english": "What... - Did that sound like a business?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The music business marries art and commerce. 듣기 Add to Wordbook 음악 사업은 예술과 상업을 결합시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The music business marries art and commerce. Add to Wordbook"
+    },
+    {
+      "korean": "Health and fitness have become big business. 듣기 Add to Wordbook 건강과 몸매 관리가 큰 사업이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Health and fitness have become big business. Add to Wordbook"
+    },
+    {
+      "korean": "The music industry is an incestuous business. 듣기 Add to Wordbook 음악 산업은 끼리끼리 문화가 심한 사업이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The music industry is an incestuous business. Add to Wordbook"
+    },
+    {
+      "korean": "Two businessmen have been kidnapped by terrorists. 듣기 Add to Wordbook 두 명의 사업가가 테러범들에게 납치되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two businessmen have been kidnapped by terrorists. Add to Wordbook"
+    },
+    {
+      "korean": "a business beset by price wars and market saturation 듣기 Add to Wordbook 가격 전쟁과 시장 포화 상태에 시달리는 사업(체) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a business beset by price wars and market saturation Add to Wordbook"
+    }
+  ]
+}

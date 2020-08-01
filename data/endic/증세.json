@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "증세",
+      "hanja": " (症勢)",
+      "example": {},
+      "meanings": [
+        "symptom"
+      ]
+    },
+    {
+      "phrase": "증세",
+      "hanja": " (增稅)",
+      "example": {},
+      "meanings": [
+        "Noun tax increase (↔감세)"
+      ]
+    },
+    {
+      "phrase": "자각 증세",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "subjective symptoms"
+      ]
+    },
+    {
+      "phrase": "탈수 증세를 보이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be dehydrated"
+      ]
+    },
+    {
+      "phrase": "10%의 증세",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a ten percent increase in taxation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "기운 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "a tax boost",
+      "frequency": 0
+    },
+    {
+      "meaning": "tex-and-spend",
+      "frequency": 0
+    },
+    {
+      "meaning": "tax-and-spend",
+      "frequency": 0
+    },
+    {
+      "meaning": "sleepwalk",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "하루도 일하지 않으면? 불안증세가 있어요? He looks uncomfortable when he takes a break? 듣기 View video World Klass (월드 클래스) : [Full] <월드 클래스> 첫방송 카운트다운 라이브 / Countdown Live",
+      "english": "He looks uncomfortable when he takes a break?"
+    },
+    {
+      "korean": "[지난 회차부터 보인 이상 증세...] [Displaying strange symptoms since the last episode...] View video MAMAMOO : [MMMTV4] EP13 너나 해(Egotistic)MV BEHIND PART3",
+      "english": "[Displaying strange symptoms since the last episode...]"
+    },
+    {
+      "korean": "불면증 증세가 있어요. I'm showing symptoms of insomnia. 듣기 View video INFINITE : 오사카의 밤",
+      "english": "I'm showing symptoms of insomnia."
+    },
+    {
+      "korean": "지금 알러지 증세 올라오고 그래요? -아니요. Any allergic reaction? - Nope. 듣기 View video VIXX : [Replay] VIXX HYUK & LEO & HONGBIN’s 빅스 혁&레오&홍빈 X 같이먹어요",
+      "english": "Any allergic reaction? - Nope."
+    },
+    {
+      "korean": "아니, 운전은... - 머리 탈모 증세... No, driving is... - I will lose all my hair. 듣기 View video Cookat X Idol : [매떠여 시즌3] Baek a yeon , Park ji min / Ep.04 말 안듣는 동생과 힘든 언니의 서산 여행 :)",
+      "english": "No, driving is... - I will lose all my hair."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Runners can dehydrate very quickly in this heat. 듣기 Add to Wordbook 이런 더위에는 달리기를 하는 사람들이 아주 빨리 탈수 증세를 일으킬 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Runners can dehydrate very quickly in this heat. Add to Wordbook"
+    },
+    {
+      "korean": "to suffer from dehydration 듣기 Add to Wordbook 탈수를 일으키다[탈수 증세를 겪다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to suffer from dehydration Add to Wordbook"
+    },
+    {
+      "korean": "the dehydrating effects of alcohol 듣기 Add to Wordbook 탈수 증세를 부르는 알코올의 영향 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the dehydrating effects of alcohol Add to Wordbook"
+    },
+    {
+      "korean": "She displayed the classic symptoms of depression. 듣기 Add to Wordbook 그녀는 전형적인 우울증 증세를 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She displayed the classic symptoms of depression. Add to Wordbook"
+    },
+    {
+      "korean": "The symptoms may be exacerbated by certain drugs. 듣기 Add to Wordbook 특정 약물들로 인해 그 증세가 악화될 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The symptoms may be exacerbated by certain drugs. Add to Wordbook"
+    }
+  ]
+}

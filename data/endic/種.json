@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "종",
+      "hanja": " (種)",
+      "example": {},
+      "meanings": [
+        "(생물의 분류 단위) species",
+        "(종류) sort, kind, type"
+      ]
+    },
+    {
+      "phrase": "모종삽",
+      "hanja": " (모種삽)",
+      "example": {},
+      "meanings": [
+        "(garden) trowel"
+      ]
+    },
+    {
+      "phrase": "-종",
+      "hanja": " (種)",
+      "example": {},
+      "meanings": [
+        "(종파) a religious sect[denomination]"
+      ]
+    },
+    {
+      "phrase": "떡갈나무 모종",
+      "hanja": " (─種)",
+      "example": {},
+      "meanings": [
+        "an oak sapling."
+      ]
+    },
+    {
+      "phrase": "요크셔종 돼지",
+      "hanja": " (─種─)",
+      "example": {},
+      "meanings": [
+        "a Yorkshire (pig)."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "species",
+      "frequency": 3
+    },
+    {
+      "meaning": "insect species",
+      "frequency": 0
+    },
+    {
+      "meaning": "species barrier",
+      "frequency": 0
+    },
+    {
+      "meaning": "extinct species",
+      "frequency": 0
+    },
+    {
+      "meaning": "threatened species",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "This genus of plants differentiates into many species. 듣기 Add to Wordbook 이 속(屬)의 식물은 많은 종(種)으로 분화한다. Friendict Level English-Korean Dictionary",
+      "english": "This genus of plants differentiates into many species. Add to Wordbook"
+    },
+    {
+      "korean": "Emperor penguins are the largest of the penguin species. 듣기 Add to Wordbook 황제 펭귄은 펭귄 종(種) 중에서 가장 크다. Neungyule",
+      "english": "Emperor penguins are the largest of the penguin species. Add to Wordbook"
+    },
+    {
+      "korean": "The Panda bear has been on the endangered species list since 1984. 듣기 Add to Wordbook 팬더곰은 1984년 이후로 멸종 위기 종(種) 목록에 올라 있다. Neungyule",
+      "english": "The Panda bear has been on the endangered species list since 1984. Add to Wordbook"
+    },
+    {
+      "korean": "On the origin of Species 듣기 Add to Wordbook 「종(種)의 기원에 관하여」(C.R. Darwin이 1859년 출판한 저서 이름). Friendict Level English-Korean Dictionary",
+      "english": "On the origin of Species Add to Wordbook"
+    },
+    {
+      "korean": "The sun bear, the smallest type of bear in the world, was recently named a threatened species. 듣기 Add to Wordbook 세계에서 가장 작은 곰 종류 중의 하나인 태양곰은 최근 멸종 위기종(種)으로 지정되었다. Neungyule",
+      "english": "The sun bear, the smallest type of bear in the world, was recently named a threatened species. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "편리하다",
+      "hanja": " (便利하다)",
+      "example": {},
+      "meanings": [
+        "convenient, (유용하다) handy, (쉽다) easy"
+      ]
+    },
+    {
+      "phrase": "편리한 곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a convenient place"
+      ]
+    },
+    {
+      "phrase": "교통이 편리하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be convenient for transportation"
+      ]
+    },
+    {
+      "phrase": "편리하게 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "facilitate"
+      ]
+    },
+    {
+      "phrase": "편리를 도모하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "accommodate",
+        "serve[suit] convenience"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "convenient",
+      "frequency": 2
+    },
+    {
+      "meaning": "expedient",
+      "frequency": 1
+    },
+    {
+      "meaning": "handy",
+      "frequency": 1
+    },
+    {
+      "meaning": "cosy",
+      "frequency": 0
+    },
+    {
+      "meaning": "favorable",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이렇게 편리한 게 나올 줄은 몰랐어~ I didn't know such a convenient thing could be possible. 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대#79 따뜻한 우유한잔",
+      "english": "I didn't know such a convenient thing could be possible."
+    },
+    {
+      "korean": "[시트 잘려진게 펼치기 편리한 모양] 홈쇼핑에서 엄청 잘 팔리더라고요. and has been selling really well on home shopping. 듣기 View video HANABONO : 블랙헤드 자극없이 제거하는 코팩 ! 요즘 쓰는 역대급 코팩 2가지 리뷰",
+      "english": "and has been selling really well on home shopping."
+    },
+    {
+      "korean": "대중교통이 더 편리한 곳? or public transportation is easier to access? 듣기 View video Boys Republic : 수웅이의 고민상담소!!!!!",
+      "english": "or public transportation is easier to access?"
+    },
+    {
+      "korean": "복세편살: 복 받은 세 개의 편리한 살사댄스. \"Boksaepyeonsal\": The smooth salsa dance of the 3 lucky puppies. 듣기 View video VIXX : Ravi의 나홀로 생파🎉",
+      "english": "\"Boksaepyeonsal\": The smooth salsa dance of the 3 lucky puppies."
+    },
+    {
+      "korean": "진짜 다이어리 정도의 사이즈라서 휴대가 편리한 앨범이에요. It's as small as a journal. It's easy to carry. 듣기 View video DIA : [DIA] 다이아 2번째 쇼케이스 미리보기",
+      "english": "It's as small as a journal. It's easy to carry."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We’re handily placed for the train station. 발음듣기 우리는 그 기차역을 이용하기에 편리한 위치에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re handily placed for the train station. 발음"
+    },
+    {
+      "korean": "Our house is very handy for the station. 발음듣기 우리 집은 그 역에서 아주 가까운[편리한] 위치에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our house is very handy for the station. 발음"
+    },
+    {
+      "korean": "There is a handy storage compartment beneath the oven. 발음듣기 오븐 밑에 편리한 수납 칸이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is a handy storage compartment beneath the oven. 발음"
+    },
+    {
+      "korean": "It was a great convenience to have the school so near. 발음듣기 학교가 그렇게 가까이 있다는 것은 대단히 편리한 일이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was a great convenience to have the school so near. 발음"
+    },
+    {
+      "korean": "Can we find a mutually convenient time to meet? 발음듣기 우리가 만나기에 서로 편리한 시간을 찾을 수 있을까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can we find a mutually convenient time to meet? 발음"
+    }
+  ]
+}

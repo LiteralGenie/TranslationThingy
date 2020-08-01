@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "이격",
+      "hanja": " (離隔)",
+      "example": {},
+      "meanings": [
+        "(=격리(隔離))"
+      ]
+    },
+    {
+      "phrase": "이격거리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 distance"
+      ]
+    },
+    {
+      "phrase": "이격거리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 separation distance"
+      ]
+    },
+    {
+      "phrase": "안전이격거리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 safe separation distance"
+      ]
+    },
+    {
+      "phrase": "이격대비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_법률 isolated comparison"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "diptote",
+      "frequency": 0
+    },
+    {
+      "meaning": "separation distance",
+      "frequency": 0
+    },
+    {
+      "meaning": "minimum separation distance",
+      "frequency": 0
+    },
+    {
+      "meaning": "air spacing",
+      "frequency": 0
+    },
+    {
+      "meaning": "clearance between poles",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "A Study on the Characteristics of Cross contamination according to the Size and Separation distance of Exterior Air-vents 듣기 Add to Wordbook 실외 급배기구 크기와 이격거리에 따른 교차오염 특성연구 Naver Academic",
+      "english": "A Study on the Characteristics of Cross contamination according to the Size and Separation distance of Exterior Air-vents Add to Wordbook"
+    },
+    {
+      "korean": "Safety Distance of Automotive Gas Station by Relative Purgation Boundary 듣기 Add to Wordbook 상대정화구역에 의한 가스 충전소 안전이격거리에 관한 고찰 Naver Academic",
+      "english": "Safety Distance of Automotive Gas Station by Relative Purgation Boundary Add to Wordbook"
+    },
+    {
+      "korean": "A Proposal for Improvement of the Space between Buildings of Commercial District 듣기 Add to Wordbook 상업지역 건축물의 이격공간 개선방안에 관한 연구 Naver Academic",
+      "english": "A Proposal for Improvement of the Space between Buildings of Commercial District Add to Wordbook"
+    },
+    {
+      "korean": "A Study on the Separated Distance Between Apartments for Optimum Daylight Environment 듣기 Add to Wordbook 공동주택의 일조환경 개선을 위한 이격거리 기준에 관한 연구 Naver Academic",
+      "english": "A Study on the Separated Distance Between Apartments for Optimum Daylight Environment Add to Wordbook"
+    },
+    {
+      "korean": "Note 1: for 80 MHz and 800 MHz, the spatial distance for the higher frequency range should be used. 듣기 Add to Wordbook 참고 1: 80MHz 및 800MHz에서는 더 높은 주파수 범위에 해당하는 이격 거리를 사용해야 합니다. hansemEUG",
+      "english": "Note 1: for 80 MHz and 800 MHz, the spatial distance for the higher frequency range should be used. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "마커",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 makers"
+      ]
+    },
+    {
+      "phrase": "marker",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (무엇의 위치를 나타내는) 표시[표지](물)",
+        "Noun (무엇의 존재·성격을 나타내는) 표시[표지]",
+        "Noun 매직펜"
+      ]
+    },
+    {
+      "phrase": "mocha",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 모카커피",
+        "Noun 모카커피 한 잔"
+      ]
+    },
+    {
+      "phrase": "mocker",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 조롱하는[놀리는] 사람, 흉내내는 사람",
+        "Noun (=MOCKINGBIRD.)"
+      ]
+    },
+    {
+      "phrase": "marker (beacon)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 항공 마커, 마커 비컨(계기착륙 시스템(ILS) 구성요소의 하나로, 비행기의 위치를 알려주는 지상 비컨국, 비컨 전류의 수신장치는 marker beacon receiver(MBR)라 한다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "marker (beacon)",
+      "frequency": 0
+    },
+    {
+      "meaning": "makers",
+      "frequency": 0
+    },
+    {
+      "meaning": "Marker",
+      "frequency": 0
+    },
+    {
+      "meaning": "Michael Ma",
+      "frequency": 0
+    },
+    {
+      "meaning": "marker pen",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아주 그냥 마커가 닳도록 사인해보겠습니다. We will sign autographs until our pens dry out. 듣기 View video fromis_9 : [FM_1.24] 프로미스나인 (fromis_9) - 'LOVE BOMB' 활동기 Behind Part.1",
+      "english": "We will sign autographs until our pens dry out."
+    },
+    {
+      "korean": "이게 마커라는 거예요. - 마커라고 해보세요. This is called a marker. - Say a marker. 듣기 View video IDOL x IDOL : WANNA.B - 워너비 '눈 가리고 아웅아웅'",
+      "english": "This is called a marker. - Say a marker."
+    },
+    {
+      "korean": "보드 마커? - 보드 마커라고 합시다. Board marker? - Let's say it's a board marker. 듣기 View video NCT의 night night! : NCT 마크와 함께하는 '동심 DREAM' 녹음 현장! (with Mark Tue. 21st Mar. at 8pm)",
+      "english": "Board marker? - Let's say it's a board marker."
+    },
+    {
+      "korean": "맞아요. 에스쁘아 틴트 마커 립 듀오 좋아요. 맞아. Right, Espoir Tint Marker Lip Duo is nice. 듣기 View video V Beauty : [콩슈니 Kongsueni SHOW] 샤넬 신제품 런칭행사 즐기기! Let's go to Chanel's launching PARTY Let's play in Hongdae",
+      "english": "Right, Espoir Tint Marker Lip Duo is nice."
+    },
+    {
+      "korean": "눈썹은 T 브랜드의 타투 마커 썼구요. I used a tattoo marker from T brand to draw my eyebrows. 듣기 View video V Beauty : 데이지 Lonely Yubin Makeup 원더걸스 유빈 메이크업",
+      "english": "I used a tattoo marker from T brand to draw my eyebrows."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "In the third floor supply cabinet where they keep the markers and all that. 듣기 Add to Wordbook 3층 비품 캐비닛에서 구했는데, 마커펜 등 없는 게 없어요. YBM All in All English-Korean Dictionary",
+      "english": "In the third floor supply cabinet where they keep the markers and all that. Add to Wordbook"
+    },
+    {
+      "korean": "The biomarkers helped them see what stage the cancer cells were at. 듣기 Add to Wordbook 바이오 마커는 암세포가 어느 단계에 있는지 확인할 수 있게 한다. Neungyule",
+      "english": "The biomarkers helped them see what stage the cancer cells were at. Add to Wordbook"
+    },
+    {
+      "korean": "A biomarker is a molecule found in body fluids such as blood, or other tissue. 듣기 Add to Wordbook 바이오 마커란 피와 같은 체액이나 그 외 조직에서 발견되는 분자이다. Neungyule",
+      "english": "A biomarker is a molecule found in body fluids such as blood, or other tissue. Add to Wordbook"
+    },
+    {
+      "korean": "A group of researchers found a biomarker that could change how doctors treat cancer. 듣기 Add to Wordbook 한 연구팀이 암 치료의 판도를 바꿀 바이오 마커를 발견해냈다. Neungyule",
+      "english": "A group of researchers found a biomarker that could change how doctors treat cancer. Add to Wordbook"
+    },
+    {
+      "korean": "They found that both of these biomarkers showed different growth stages of cancer cells. 듣기 Add to Wordbook 여기서 연구진은 이 두 바이오 마커 모두, 각기 다른 암세포 발달(증식) 단계(과정)를 보인다는 것을 알아낼 수 있었다. Neungyule",
+      "english": "They found that both of these biomarkers showed different growth stages of cancer cells. Add to Wordbook"
+    }
+  ]
+}

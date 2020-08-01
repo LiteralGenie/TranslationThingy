@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "그곳에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in that place",
+        "there"
+      ]
+    },
+    {
+      "phrase": "그곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "there"
+      ]
+    },
+    {
+      "phrase": "그곳에 얼마 동안이나 있었죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How long were you there?"
+      ]
+    },
+    {
+      "phrase": "그곳의 명산물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a special product of the locality"
+      ]
+    },
+    {
+      "phrase": "그곳의 지리에 밝다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be familiar with that place",
+        "know the geography of the place"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "there",
+      "frequency": 2
+    },
+    {
+      "meaning": "thereat",
+      "frequency": 0
+    },
+    {
+      "meaning": "or wherever",
+      "frequency": 0
+    },
+    {
+      "meaning": "way down the road",
+      "frequency": 0
+    },
+    {
+      "meaning": "You can't get there from here.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어딘가요? - 그곳이 바로 'Salty' 아닌가요? Where is it? - Is that place \"Salty\"? 듣기 View video V COOKIE : [Full] THE BOYZ X Rooftop Live - 더보이즈의 루프탑라이브!",
+      "english": "Where is it? - Is that place \"Salty\"?"
+    },
+    {
+      "korean": "[그렇다면 그곳은 명품 한우 코너였을 것이다...] [Then that was probably the expensive Korean beef section...] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.16",
+      "english": "[Then that was probably the expensive Korean beef section...]"
+    },
+    {
+      "korean": "[아이돌이 된 청포도 혹시... 그곳에서도 우리와 함께...?] [The green grape that became an idol... Perhaps with us at that place too?] View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[The green grape that became an idol... Perhaps with us at that place too?]"
+    },
+    {
+      "korean": "[똑똑][여기가 젠가 고수들만 있다는 그곳인가요?] 한 바퀴 더 남았어? [Smart [Is this where all the Jenga masters are?] There's one more round? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Smart [Is this where all the Jenga masters are?] There's one more round?"
+    },
+    {
+      "korean": "[패기 넘침] 여기가 그곳인가! [Passionate] Is this here! 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.27 세봉이의 상상은 현실이 된다 #1",
+      "english": "[Passionate] Is this here!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There's lot of history out there. 발음듣기 그 곳에 많은 역사가 있다. User translation Inaccurate information may be included due to the users' self-traslation. 이대희(welc****) Web Collection",
+      "english": "There's lot of history out there. 발음"
+    },
+    {
+      "korean": "You know who's going to be there? 발음듣기 누가 그곳에 올지 너는 알아? User translation Inaccurate information may be included due to the users' self-traslation. glvh925(glvh****) Web Collection",
+      "english": "You know who's going to be there? 발음"
+    },
+    {
+      "korean": "We used to go there every year. 발음듣기 우린 매년 그곳에 가곤 했었다. User translation Inaccurate information may be included due to the users' self-traslation. 헵번공주(yuli****) Web Collection",
+      "english": "We used to go there every year. 발음"
+    },
+    {
+      "korean": "I could not arrive there on time. 발음듣기 나는 정각에 그곳에 도착할 수 없었다. User translation Inaccurate information may be included due to the users' self-traslation. kwonil61(kwon****) Web Collection",
+      "english": "I could not arrive there on time. 발음"
+    },
+    {
+      "korean": "I want to get there in one piece! 발음듣기 나는 그 곳에 무사히 가고 싶다고! User translation Inaccurate information may be included due to the users' self-traslation. jin990606(jin9****) Web Collection",
+      "english": "I want to get there in one piece! 발음"
+    }
+  ]
+}

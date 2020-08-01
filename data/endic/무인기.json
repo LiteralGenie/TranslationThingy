@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "무인기",
+      "hanja": " (無人機)",
+      "example": {},
+      "meanings": [
+        "(약어: UAV) Unmanned Air Vehicle"
+      ]
+    },
+    {
+      "phrase": "제트 무인기",
+      "hanja": " (一無人機)",
+      "example": {},
+      "meanings": [
+        "a pilotless jet plane."
+      ]
+    },
+    {
+      "phrase": "저성능무인기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 low-performance drone (LPD)"
+      ]
+    },
+    {
+      "phrase": "소형 무인기",
+      "hanja": " (小型無人機)",
+      "example": {},
+      "meanings": [
+        "Moth Unmanned Air Vehicle"
+      ]
+    },
+    {
+      "phrase": "초소형 무인기",
+      "hanja": " (超小型無人機)",
+      "example": {},
+      "meanings": [
+        "(약어: MUAV) Micro UAV"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a radio-controlled, pilotless plane",
+      "frequency": 0
+    },
+    {
+      "meaning": "Tiamat",
+      "frequency": 0
+    },
+    {
+      "meaning": "a rocket missile",
+      "frequency": 0
+    },
+    {
+      "meaning": "inactive securities",
+      "frequency": 0
+    },
+    {
+      "meaning": "low-performance drone",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "So, an unmanned drone delivery service could be quite effective there. 듣기 Add to Wordbook 따라서, 무인기 배달 서비스는 그곳에서 꽤 효과적일 수 있다. TIMES CORE",
+      "english": "So, an unmanned drone delivery service could be quite effective there. Add to Wordbook"
+    },
+    {
+      "korean": "Switzerland's postal service began tests of mail and parcel deliveries by drones on July 7. 듣기 Add to Wordbook 스위스의 우체국이 7월 7일에 무인기에 의한 편지와 소포 배달 테스트를 시작했다. TIMES CORE",
+      "english": "Switzerland's postal service began tests of mail and parcel deliveries by drones on July 7. Add to Wordbook"
+    },
+    {
+      "korean": "The drone has four propellers, and it can carry up to 1kg and fly about 10km when fully charged. 듣기 Add to Wordbook 무인기는 4개의 프로펠러를 가지고 있고, 1킬로그램까지 나를 수 있으며 완전 충전시 10킬로미터를 날 수 있다. TIMES CORE",
+      "english": "The drone has four propellers, and it can carry up to 1kg and fly about 10km when fully charged. Add to Wordbook"
+    },
+    {
+      "korean": "In addition, the Swiss postal service said that it will likely be about five years before it uses drones widely. 듣기 Add to Wordbook 그리고, 스위스 우체국은 무인기를 상용화하기까지는 약 5년이 걸릴 것이라고 말했다. TIMES CORE",
+      "english": "In addition, the Swiss postal service said that it will likely be about five years before it uses drones widely. Add to Wordbook"
+    },
+    {
+      "korean": "Careful analysis of the images from their cameras shows that they took photos of Cheong Wa Dae and military installations. 듣기 Add to Wordbook 무인기에서 수거한 영상을 상세히 조사한 결과 무인기는 청와대와 군사 시설을 촬영한 것으로 나타났다. TIMES CORE",
+      "english": "Careful analysis of the images from their cameras shows that they took photos of Cheong Wa Dae and military installations. Add to Wordbook"
+    }
+  ]
+}

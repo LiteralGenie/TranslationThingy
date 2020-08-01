@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "코드",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(컴퓨터의 기호 체계) code",
+        "(규약, 관례) code",
+        "(성격, 성향)"
+      ]
+    },
+    {
+      "phrase": "코드",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(전선) (electric) cord, electrical wire"
+      ]
+    },
+    {
+      "phrase": "code",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 암호, 부호 (→area code, bar code, Morse code, postcode, ZIP code, sort code)",
+        "Noun (=dialling code)",
+        "Verb 부호로 처리하다"
+      ]
+    },
+    {
+      "phrase": "chord",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 음악 화음",
+        "Noun 수학 현 (→vocal cords)"
+      ]
+    },
+    {
+      "phrase": "cord",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 끈, 노끈, 줄",
+        "Noun 특히 美 (→cordless), (=flex)",
+        "Noun (=corduroy)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "code",
+      "frequency": 3
+    },
+    {
+      "meaning": "hickey",
+      "frequency": 0
+    },
+    {
+      "meaning": "Cod",
+      "frequency": 0
+    },
+    {
+      "meaning": "KORD",
+      "frequency": 0
+    },
+    {
+      "meaning": "operation code",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "코드... Just the chords... 듣기 View video VIXX : Beats by Ravi",
+      "english": "Just the chords..."
+    },
+    {
+      "korean": "[코드 준비 중...] [Preparing the chords...] View video KIM JAEHWAN(김재환) : [🎬] 째니타임즈⏰ EP.23 가요대제전 현장 비하인드",
+      "english": "[Preparing the chords...]"
+    },
+    {
+      "korean": "언니 태국 노래 중에 '로즈 코드'라는게 있어요? Is there a Thai song called \"Rose Code\"? 듣기 View video (G)I-DLE : 🐭🦒",
+      "english": "Is there a Thai song called \"Rose Code\"?"
+    },
+    {
+      "korean": "그냥 와 - 갈아입고 가? 드레스코드... Just come. - Should I change and go? The dress code... 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Just come. - Should I change and go? The dress code..."
+    },
+    {
+      "korean": "드레스 코드! The dress code! 듣기 View video NCT : 제노와 같이퇴근할사람~💚",
+      "english": "The dress code!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "To start the equipment, first plug the cord into an outlet. 듣기 Add to Wordbook 기계를 작동시키려면, 먼저 코드를 콘센트에 꽂으십시오. DARAKWON",
+      "english": "To start the equipment, first plug the cord into an outlet. Add to Wordbook"
+    },
+    {
+      "korean": "You just pick up a chord, go twang, and you've got music. (Sid Vicious) 듣기 Add to Wordbook 기타 코드를 하나 잡고, 줄을 튕기면 그게 음악이야. (시드 비셔스 , 예술명언) 명언/속담",
+      "english": "You just pick up a chord, go twang, and you've got music. (Sid Vicious) Add to Wordbook"
+    },
+    {
+      "korean": "You will need to check to see if the power is off before pulling out the power cord from the outlet. 듣기 Add to Wordbook 파워코드를 콘센트에서 뽑기 전에 전원이 꺼져 있는지 확인하셔야 합니다. DARAKWON",
+      "english": "You will need to check to see if the power is off before pulling out the power cord from the outlet. Add to Wordbook"
+    },
+    {
+      "korean": "He found the unrelated Frankencode on his computer system. 듣기 Add to Wordbook 그는 그의 컴퓨터 시스템에서 관련 없는 프랑켄코드를 발견했다. 국제영어대학원대학교 신어사전",
+      "english": "He found the unrelated Frankencode on his computer system. Add to Wordbook"
+    },
+    {
+      "korean": "Is there a dress code at Club Eden? What kind of clothes should I wear? 듣기 Add to Wordbook 클럽 Eden에 드레스 코드가 있나? 어떤 종류의 옷을 입어야 할까? DARAKWON",
+      "english": "Is there a dress code at Club Eden? What kind of clothes should I wear? Add to Wordbook"
+    }
+  ]
+}

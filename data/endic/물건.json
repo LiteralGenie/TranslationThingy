@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "물건",
+      "hanja": " (物件)",
+      "example": {},
+      "meanings": [
+        "(물체) thing, stuff, object",
+        "(상품) product, item, article, commodity, (집합적) goods, stock",
+        "(특이하고 대단한 사람)"
+      ]
+    },
+    {
+      "phrase": "귀한 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rarity",
+        "a rare thing"
+      ]
+    },
+    {
+      "phrase": "값진 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a costly[high-priced] article",
+        "a precious object"
+      ]
+    },
+    {
+      "phrase": "팔 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an article for sale"
+      ]
+    },
+    {
+      "phrase": "소중한 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a valuable[treasured] article",
+        "a treasure",
+        "valuables"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thing",
+      "frequency": 3
+    },
+    {
+      "meaning": "object",
+      "frequency": 3
+    },
+    {
+      "meaning": "affair",
+      "frequency": 3
+    },
+    {
+      "meaning": "buy",
+      "frequency": 3
+    },
+    {
+      "meaning": "article",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "만 원짜리의 물건 뭐... If there is a product that is 10,000won... 듣기 View video ATEEZ : 산이의 소소한 일상🥰",
+      "english": "If there is a product that is 10,000won..."
+    },
+    {
+      "korean": "[Q. 하루토가 본인 공간에서 가장 아끼는 물건은?] [Q. What does HARUTO cherish most in his personal area?] View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[Q. What does HARUTO cherish most in his personal area?]"
+    },
+    {
+      "korean": "물건이야 물건 - 우산? 맞아? It's an item. - Umbrella? Is that right? 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK EP07",
+      "english": "It's an item. - Umbrella? Is that right?"
+    },
+    {
+      "korean": "[이들에게 배달된 물건은 과연?] 뭘 이런 걸 다... [What is it?] You didn't have to... 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[What is it?] You didn't have to..."
+    },
+    {
+      "korean": "야 너 무슨 물건 고르냐? Hey, are you shopping around? 듣기 View video Dingo Story / 딩고스토리 : 어장남 퇴치법_EP07 [라이크]",
+      "english": "Hey, are you shopping around?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "everyday objects such as cups and saucers 듣기 Add to Wordbook 컵과 컵받침같이 일상생활에서 쓰는 물건들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "everyday objects such as cups and saucers Add to Wordbook"
+    },
+    {
+      "korean": "This ring is my most treasured possession. 듣기 Add to Wordbook 이 반지는 내게 가장 소중한 물건이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This ring is my most treasured possession. Add to Wordbook"
+    },
+    {
+      "korean": "medals, coins and things of that description 듣기 Add to Wordbook 메달, 동전, 또 그런 종류의 물건들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "medals, coins and things of that description Add to Wordbook"
+    },
+    {
+      "korean": "He travelled from town to town selling his wares. 듣기 Add to Wordbook 그는 물건들을 팔며 이 도시 저 도시로 돌아다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He travelled from town to town selling his wares. Add to Wordbook"
+    },
+    {
+      "korean": "Shoppers are trading down and looking for bargains. 듣기 Add to Wordbook 쇼핑객들이 소비를 줄이고 싼 물건들을 찾고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Shoppers are trading down and looking for bargains. Add to Wordbook"
+    }
+  ]
+}

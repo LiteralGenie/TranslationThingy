@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "의미",
+      "hanja": " (意味)",
+      "example": {},
+      "meanings": [
+        "(뜻) [명사] meaning, (낱말·어구 등의) sense, signification, [동사] mean, signify, (상징하다) stand for (=뜻하다)",
+        "(가치, 의의) [명사] meaning, significance, importance"
+      ]
+    },
+    {
+      "phrase": "의미 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "significant",
+        "meaningful"
+      ]
+    },
+    {
+      "phrase": "의미 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "meaningless"
+      ]
+    },
+    {
+      "phrase": "의미 심장한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pregnant",
+        "weighty",
+        "of deep import"
+      ]
+    },
+    {
+      "phrase": "어떤 의미에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in a (certain) sense",
+        "in one[some] sense",
+        "in a way[manner]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "meaning",
+      "frequency": 3
+    },
+    {
+      "meaning": "point",
+      "frequency": 3
+    },
+    {
+      "meaning": "import",
+      "frequency": 3
+    },
+    {
+      "meaning": "sense",
+      "frequency": 3
+    },
+    {
+      "meaning": "definition",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저는... - 무슨 의미가 있나요? I... - What does that mean? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "I... - What does that mean?"
+    },
+    {
+      "korean": "이거... - 근데 그럼 우리 중간을 뜯은 게 의미가 없어... - 혹시... It's... - Then, we didn't have to do the middle part. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "It's... - Then, we didn't have to do the middle part."
+    },
+    {
+      "korean": "이거 무슨 의미야? What does it mean? 듣기 View video 플레이리스트 (Playlist) : 존잘 연하가 선배 꼬시는 법 [엑스엑스(XX)] - EP.05",
+      "english": "What does it mean?"
+    },
+    {
+      "korean": "[의미 없어 (MEANINGLESS)] 이거 아니에요? [MEANINGLESS] Not this? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "[MEANINGLESS] Not this?"
+    },
+    {
+      "korean": "[미소를 띤다??] [이 미소의 의미는?] [He's smiling??] [What does it mean?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 15. 겉바속촉 회기파전 아님! 경희대vs한국외대의 회기파戰에 낀 성균관! 그 결과는?",
+      "english": "[He's smiling??] [What does it mean?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the ascription of meaning to objects and events 듣기 Add to Wordbook 사물과 사건들에 대한 의미 부여 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ascription of meaning to objects and events Add to Wordbook"
+    },
+    {
+      "korean": "Automation meant the loss of many factory jobs. 듣기 Add to Wordbook 자동화는 공장에서 일자리가 많이 없어짐을 의미했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Automation meant the loss of many factory jobs. Add to Wordbook"
+    },
+    {
+      "korean": "Any form of cheating means automatic disqualification. 듣기 Add to Wordbook 어떤 형태든 부정행위는 자동 실격을 의미한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Any form of cheating means automatic disqualification. Add to Wordbook"
+    },
+    {
+      "korean": "She emphasized that their plan would mean sacrifices and hard work. 듣기 Add to Wordbook 그녀는 그들의 계획이 희생과 노고를 의미할 것임을 강조했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She emphasized that their plan would mean sacrifices and hard work. Add to Wordbook"
+    },
+    {
+      "korean": "words that were empty of meaning 듣기 Add to Wordbook 아무 의미 없는 말들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "words that were empty of meaning Add to Wordbook"
+    }
+  ]
+}

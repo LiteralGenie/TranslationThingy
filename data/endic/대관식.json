@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "대관식",
+      "hanja": " (戴冠式)",
+      "example": {},
+      "meanings": [
+        "coronation (ceremony)"
+      ]
+    },
+    {
+      "phrase": "엘리자베스 2세 대관식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the coronation of Elizabeth II"
+      ]
+    },
+    {
+      "phrase": "대관식의 선서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a coronation oath"
+      ]
+    },
+    {
+      "phrase": "대관식을 거행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "perform a coronation (ceremony)"
+      ]
+    },
+    {
+      "phrase": "대관식봉축가",
+      "hanja": " (戴冠式奉祝歌)",
+      "example": {},
+      "meanings": [
+        "a song celebrating a coronation."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "coronation",
+      "frequency": 1
+    },
+    {
+      "meaning": "Piano Concerto no. 26, “Coronation”",
+      "frequency": 0
+    },
+    {
+      "meaning": "coronation",
+      "frequency": 0
+    },
+    {
+      "meaning": "coronation robes",
+      "frequency": 0
+    },
+    {
+      "meaning": "uncrowned",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The king wore opulent robes for his coronation. 발음듣기 왕은 대관식을 위해 화려한 예복을 입었다. 절대어휘 5100",
+      "english": "The king wore opulent robes for his coronation. 발음"
+    },
+    {
+      "korean": "The coronation of the new queen was a splendid pageant. 발음듣기 새 여왕의 대관식은 일대 장관이었다. Friendict Level English-Korean Dictionary",
+      "english": "The coronation of the new queen was a splendid pageant. 발음"
+    },
+    {
+      "korean": "The king was crowned with all due ceremonies. 발음듣기 온갖 의례를 갖춰서[아주 엄숙하게] 왕의 대관식이 거행되었다. Friendict Level English-Korean Dictionary",
+      "english": "The king was crowned with all due ceremonies. 발음"
+    },
+    {
+      "korean": "The Tower of London is the depository for the crown and jewels which are used in British coronations. 발음듣기 런던탑은 영국왕의 대관식에서 쓰이는 왕관과 보석을 보관하는 곳이다. YBM All in All English-Korean Dictionary",
+      "english": "The Tower of London is the depository for the crown and jewels which are used in British coronations. 발음"
+    },
+    {
+      "korean": "Although it is no longer used as a prison, the tower still houses the crown jewels and a great deal of English history. 발음듣기 비록 그것은 더 이상 감옥으로 사용되지 않지만, 그 탑은 여전히 대관식용 보석들과 많은 영국의 역사를 간직하고 있다. Neungyule",
+      "english": "Although it is no longer used as a prison, the tower still houses the crown jewels and a great deal of English history. 발음"
+    }
+  ]
+}

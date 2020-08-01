@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "전력",
+      "hanja": " (電力)",
+      "example": {},
+      "meanings": [
+        "(전기) electricity, (electric) power"
+      ]
+    },
+    {
+      "phrase": "전력",
+      "hanja": " (前歷)",
+      "example": {},
+      "meanings": [
+        "(과거의 경력) one's record(s), one's history, (어떤 사람의 과거) one's past"
+      ]
+    },
+    {
+      "phrase": "전력",
+      "hanja": " (戰力)",
+      "example": {},
+      "meanings": [
+        "(전투력) military strength, fighting power",
+        "(경기력)"
+      ]
+    },
+    {
+      "phrase": "전력",
+      "hanja": " (全力)",
+      "example": {},
+      "meanings": [
+        "(온 힘)"
+      ]
+    },
+    {
+      "phrase": "전력을 다하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do one´s best",
+        "do all one can",
+        "do everything in one´s power"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "electricity",
+      "frequency": 3
+    },
+    {
+      "meaning": "record",
+      "frequency": 3
+    },
+    {
+      "meaning": "electric power",
+      "frequency": 0
+    },
+    {
+      "meaning": "full speed",
+      "frequency": 0
+    },
+    {
+      "meaning": "white coal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[뒤늦게 전력 질주] 연준! [Start running belatedly] YEONJUN! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[Start running belatedly] YEONJUN!"
+    },
+    {
+      "korean": "[바꿀 수있는 기회] 전력으로 뛰시겠습니까? [Giving a chance to change his mind] Will you really need to win the match? 듣기 View video M2 : [FULL] TOMORROW X TOGETHER Welcome Back Show",
+      "english": "[Giving a chance to change his mind] Will you really need to win the match?"
+    },
+    {
+      "korean": "전력으로 웃음! Full power smile! 듣기 View video TWICE : 🍓🍓🍓",
+      "english": "Full power smile!"
+    },
+    {
+      "korean": "전력으로 헨가오? Full power \"hengao\"? 듣기 View video TWICE : 🍓🍓🍓",
+      "english": "Full power \"hengao\"?"
+    },
+    {
+      "korean": "전력으로 멋있게! Full power coolness! 듣기 View video TWICE : 🍓🍓🍓",
+      "english": "Full power coolness!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "electric power 듣기 Add to Wordbook 전력. Friendict Level English-Korean Dictionary",
+      "english": "electric power Add to Wordbook"
+    },
+    {
+      "korean": "His past record weighs heavily against him. 듣기 Add to Wordbook 그의 과거 전력[전과]이 그에게 몹시 불리하게 작용하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His past record weighs heavily against him. Add to Wordbook"
+    },
+    {
+      "korean": "a sprint for the line 듣기 Add to Wordbook 줄을 향한 전력 질주 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sprint for the line Add to Wordbook"
+    },
+    {
+      "korean": "a sprint for the bus 듣기 Add to Wordbook 버스를 향한 전력 질주 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sprint for the bus Add to Wordbook"
+    },
+    {
+      "korean": "the UK’s major electricity generator 듣기 Add to Wordbook 영국의 주요 전력 회사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the UK’s major electricity generator Add to Wordbook"
+    }
+  ]
+}

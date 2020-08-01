@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "몰살",
+      "hanja": " (沒殺)",
+      "example": {},
+      "meanings": [
+        "massacre, annihilation, extermination, a wholesale murder[slaughter], 몰살하다 massacre, annihilate, exterminate, kill to a man, wipe out"
+      ]
+    },
+    {
+      "phrase": "몰살하다",
+      "hanja": " (沒殺하다)",
+      "example": {},
+      "meanings": [
+        "exterminate, wipe out"
+      ]
+    },
+    {
+      "phrase": "적을 몰살하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "annihilate the enemy"
+      ]
+    },
+    {
+      "phrase": "일가를 몰살하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "murder the whole family"
+      ]
+    },
+    {
+      "phrase": "반역자 일족을 몰살하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "exterminate the whole[entire] family of a traitor"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "extermination",
+      "frequency": 0
+    },
+    {
+      "meaning": "extermination",
+      "frequency": 0
+    },
+    {
+      "meaning": "exterminate",
+      "frequency": 1
+    },
+    {
+      "meaning": "몰살",
+      "frequency": 0
+    },
+    {
+      "meaning": "annihilate the enemy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The disease threatens to wipe out the entire population. 발음듣기 그 질병은 인구 전체를 몰살시킬 정도로 위협적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The disease threatens to wipe out the entire population. 발음"
+    },
+    {
+      "korean": "AIDS will decimate Africa if nothing is done. 발음듣기 어떤 조치도 취해지지 않는다면 AIDS는 아프리카를 몰살시킬 것이다. YBM All in All English-Korean Dictionary",
+      "english": "AIDS will decimate Africa if nothing is done. 발음"
+    },
+    {
+      "korean": "The Czar and all his generation were murdered in the revolution. 발음듣기 러시아 황제와 그의 모든 일가가 혁명 때 몰살되었다. Friendict Level English-Korean Dictionary",
+      "english": "The Czar and all his generation were murdered in the revolution. 발음"
+    },
+    {
+      "korean": "In time, it will weaken or destroy complete ant colonies. 발음듣기 시간이 지남에 따라 질병은 개미 떼를 약하게 만들고 완전히 몰살시킵니다. YBM All in All English-Korean Dictionary",
+      "english": "In time, it will weaken or destroy complete ant colonies. 발음"
+    },
+    {
+      "korean": "In time, it will debilitated or destroy complete ant colonies. 발음듣기 시간이 지남에 따라 질병은 개미 떼를 약하게 만들고 완전히 몰살시킵니다. YBM All in All English-Korean Dictionary",
+      "english": "In time, it will debilitated or destroy complete ant colonies. 발음"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(태양) the sun, (햇빛) sunlight",
+        "(낮) day(time)"
+      ]
+    },
+    {
+      "phrase": "해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(년) year"
+      ]
+    },
+    {
+      "phrase": "해",
+      "hanja": " (害)",
+      "example": {},
+      "meanings": [
+        "(손해, 피해) harm, damage, injury"
+      ]
+    },
+    {
+      "phrase": "해",
+      "hanja": " (解)",
+      "example": {},
+      "meanings": [
+        "(수학) value"
+      ]
+    },
+    {
+      "phrase": "-해",
+      "hanja": " (海)",
+      "example": {},
+      "meanings": []
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "year",
+      "frequency": 3
+    },
+    {
+      "meaning": "sun",
+      "frequency": 3
+    },
+    {
+      "meaning": "ill",
+      "frequency": 3
+    },
+    {
+      "meaning": "harm",
+      "frequency": 3
+    },
+    {
+      "meaning": "sea",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너락해요!",
+      "english": "Call me you."
+    },
+    {
+      "korean": "난 뭐 해?",
+      "english": "What do I do?"
+    },
+    {
+      "korean": "해볼래?",
+      "english": "Do you want to try it?"
+    },
+    {
+      "korean": "조용히 해! - 네!",
+      "english": "Be quiet. - Yes."
+    },
+    {
+      "korean": "여보세요? - 해봐!",
+      "english": "Hello? - Try it!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "여왕 즉위 25주년 기념 해",
+      "english": "the silver jubilee of the Queen’s accession"
+    },
+    {
+      "korean": "두발을 청결하고 건강하게 해 주는 샴푸",
+      "english": "a shampoo that cleans and conditions hair"
+    },
+    {
+      "korean": "그만 노닥거리고 다시 일 해.",
+      "english": "Stop buggering about and get back to work."
+    },
+    {
+      "korean": "피터는 자신이 부끄러운 줄 알아야 해.",
+      "english": "Peter ought to be ashamed of himself."
+    },
+    {
+      "korean": "그가 우리에게 따라오라는 몸짓을 해 보였다.",
+      "english": "He motioned for us to follow him."
+    }
+  ]
+}

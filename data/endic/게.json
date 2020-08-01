@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(갑각류) crab",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition ge",
+        "Postposition ge (→게로)",
+        "Postposition ge"
+      ]
+    },
+    {
+      "phrase": "게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun there (→예3)",
+        "Pronoun there",
+        "Pronoun (disparaging) You."
+      ]
+    },
+    {
+      "phrase": "-게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(…하게)",
+        "(하게 하다[되다])",
+        "(반어적 가정)"
+      ]
+    },
+    {
+      "phrase": "-게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -ge (→-게끔)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "crab",
+      "frequency": 3
+    },
+    {
+      "meaning": "soft-shell",
+      "frequency": 0
+    },
+    {
+      "meaning": "partan",
+      "frequency": 0
+    },
+    {
+      "meaning": "maidenlike",
+      "frequency": 0
+    },
+    {
+      "meaning": "Ghee",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "날 싫어하는 게 분명해!",
+      "english": "I'm sure that he hates me!"
+    },
+    {
+      "korean": "[잠 깨고 랩 하러 가실게요~]",
+      "english": "[Be awake for the stage~]"
+    },
+    {
+      "korean": "혼자서 하는 게 그렇죠?",
+      "english": "I mean doing it alone, right?"
+    },
+    {
+      "korean": "제가 대답해버린 게 너무...",
+      "english": "The fact that I answered..."
+    },
+    {
+      "korean": "인터뷰만 하고 가실게요~",
+      "english": "We'll go after the interview!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "(누군가가) 내 소매를 잡아당기는 게 느껴졌다.",
+      "english": "I felt a tug at my sleeve."
+    },
+    {
+      "korean": "그는 말하는 게 정말 고루한 영감태기 같아!",
+      "english": "He sounds like such an old fogey!"
+    },
+    {
+      "korean": "그 목걸이가 없어졌다는 것을 처음 안 게 언제였나요?",
+      "english": "When did you first miss the necklace?"
+    },
+    {
+      "korean": "우리가 잠이 든 사이에 도둑이 든 게 틀림없어.",
+      "english": "We must have been burgled while we were asleep."
+    },
+    {
+      "korean": "반점이 있는 게 어느 거지, 표범인가 호랑이인가?",
+      "english": "Which has spots, the leopard or the tiger?"
+    }
+  ]
+}

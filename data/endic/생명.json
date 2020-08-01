@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "생명",
+      "hanja": " (生命)",
+      "example": {},
+      "meanings": [
+        "(목숨) life",
+        "(아주 소중한 것)",
+        "(사물이 유지되는 일정한 기간) life(time)"
+      ]
+    },
+    {
+      "phrase": "생명공학",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "biotechnology, (informal) biotech"
+      ]
+    },
+    {
+      "phrase": "생명의 존엄성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the sanctity of life"
+      ]
+    },
+    {
+      "phrase": "생명을 위협하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "threaten sb's life",
+        "threaten to kill"
+      ]
+    },
+    {
+      "phrase": "생명보험",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "life insurance[assurance]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "life",
+      "frequency": 3
+    },
+    {
+      "meaning": "anima",
+      "frequency": 0
+    },
+    {
+      "meaning": "heart's-blood",
+      "frequency": 0
+    },
+    {
+      "meaning": "daylights",
+      "frequency": 0
+    },
+    {
+      "meaning": "security for life and property",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[크림의 생명은 발림성, 흡수력!] 이렇게, 보이시나요? [Texture and absorption] Like this. Can you see it? 듣기 View video EMMA BEAUTY : [웰니스뷰티] 공효진 관리법! 먹고 바르는 프로바이로틱스의 모든 것!",
+      "english": "[Texture and absorption] Like this. Can you see it?"
+    },
+    {
+      "korean": "생명의 숨결을 뜻하는 라틴어 ANIMA에서 나온 말로... The term is originated from the Latin word ANIMA, which means the breath of life. 듣기 View video Dingo Story / 딩고스토리 : 짝녀의 소개팅남이 학교 핵인싸라면?_EP15_[라이크LIKE]",
+      "english": "The term is originated from the Latin word ANIMA, which means the breath of life."
+    },
+    {
+      "korean": "야 생명 줄! 앞으로 넘어와! Hey life line! Get over here! 듣기 View video 심포유 - my SMTelevision : [심포유 #시우민] EP12 #스포츠게임3탄 #흑기사민석 #부들부들 #공포의벌칙타임",
+      "english": "Hey life line! Get over here!"
+    },
+    {
+      "korean": "[무슨 생명체를 표현하는 거야 주쨔?] [What's that creature, JOO CHAN?] View video Golden Child : 골든차일드(Golden Child) “CH.JOOCHAN!” Ep.3",
+      "english": "[What's that creature, JOO CHAN?]"
+    },
+    {
+      "korean": "그 가루가 어떻게 생명이 되는 거지? How can the powder become the living creature? 듣기 View video V COOKIE : [Full] NU'EST X CouchTalk - 뉴이스트 X 카우치토크",
+      "english": "How can the powder become the living creature?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Tourism is the lifeblood of the city. 듣기 Add to Wordbook 관광은 그 도시의 생명선이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tourism is the lifeblood of the city. Add to Wordbook"
+    },
+    {
+      "korean": "the multifarious life forms in the coral reef 듣기 Add to Wordbook 산호초 내의 다양한 생명체들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the multifarious life forms in the coral reef Add to Wordbook"
+    },
+    {
+      "korean": "the inviolable right to life 듣기 Add to Wordbook 침범할 수 없는 생명권 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the inviolable right to life Add to Wordbook"
+    },
+    {
+      "korean": "the history of life on earth 듣기 Add to Wordbook 지구 위 생명체의 역사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the history of life on earth Add to Wordbook"
+    },
+    {
+      "korean": "the biology of marine animals 듣기 Add to Wordbook 해양 동물의 생명 활동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the biology of marine animals Add to Wordbook"
+    }
+  ]
+}

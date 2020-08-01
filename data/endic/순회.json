@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "순회",
+      "hanja": " (巡廻)",
+      "example": {},
+      "meanings": [
+        "rounds, tour, tour, be on tour, be on the road, do[make] one's rounds"
+      ]
+    },
+    {
+      "phrase": "순회 설교",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a preaching tour"
+      ]
+    },
+    {
+      "phrase": "지방 순회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provincial tour"
+      ]
+    },
+    {
+      "phrase": "순회 전람회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a circulating exhibition"
+      ]
+    },
+    {
+      "phrase": "순회 재판소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a circuit court"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "circuit",
+      "frequency": 1
+    },
+    {
+      "meaning": "tour",
+      "frequency": 2
+    },
+    {
+      "meaning": "yatra",
+      "frequency": 0
+    },
+    {
+      "meaning": "itinerancy",
+      "frequency": 0
+    },
+    {
+      "meaning": "eyre",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "동남아 순회공연? Southeast Asia provincial concert? 듣기 View video V COOKIE : DAVICHI X Rooftop Live - 다비치의 루프탑라이브!",
+      "english": "Southeast Asia provincial concert?"
+    },
+    {
+      "korean": "\"경로당 순회 공연\" - 그게 뭐야? \"Senior community concert.\" - What's that? 듣기 View video BTOB : 멜로디 굿모닝😊",
+      "english": "\"Senior community concert.\" - What's that?"
+    },
+    {
+      "korean": "[봐도 봐도 신기한 특산품 매장 순회] 아 그 어머님 선물. [They circle around the store] The gift for his mother. 듣기 View video TRENDY TV(트렌디 티비) : [사다드림 시즌2] 도연 건강의 적신호?_8회",
+      "english": "[They circle around the store] The gift for his mother."
+    },
+    {
+      "korean": "[후라이드 참 잘하는 집 100호점 순회까지 추가!] 계약기간 동안 한 번씩 다 돌기로. I'll go around once during my contract period. 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep68_후참대전 발발 절실한 자들의 어필 전쟁",
+      "english": "I'll go around once during my contract period."
+    },
+    {
+      "korean": "작가진들이 직접 팬사이트를 순회하면서 미리 질문을 받아봤습니다. the writers went on the fan site and prepared a few questions beforehand. 듣기 View video 셀럽티비(Celuv.TV) : 보컬의 조화를 통하여 수많은 장르를 섭렵하는 러블리즈",
+      "english": "the writers went on the fan site and prepared a few questions beforehand."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She toured the country promoting her book. 발음듣기 그녀는 자기 책을 홍보하면서 전국을 순회했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She toured the country promoting her book. 발음"
+    },
+    {
+      "korean": "a sightseeing tour of the city 발음듣기 그 도시 순회 관광 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sightseeing tour of the city 발음"
+    },
+    {
+      "korean": "the band’s forthcoming UK tour 발음듣기 그 밴드의 곧 있을 영국 순회공연 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the band’s forthcoming UK tour 발음"
+    },
+    {
+      "korean": "The tour was adjudged a success. 발음듣기 그 순회공연은 성공작으로 판단되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The tour was adjudged a success. 발음"
+    },
+    {
+      "korean": "The band is on tour in France. 발음듣기 그 밴드는 프랑스에서 순회공연 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The band is on tour in France. 발음"
+    }
+  ]
+}

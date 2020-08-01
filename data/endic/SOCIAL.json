@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "social",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 사회의, 사회적인(사회의 구조와 관련된)",
+        "Adjective 사회적인(사회 속에서 개인의 위치와 관련된)",
+        "Noun 구식 사교 파티, 친목회"
+      ]
+    },
+    {
+      "phrase": "sociable ( social )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 사람들과 어울리기 좋아하는, 사교적인, 붙임성 있는 (↔unsociable) (→antisocial), (=gregarious)"
+      ]
+    },
+    {
+      "phrase": "society",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (공동체를 이루는 일반적인) 사회",
+        "Noun (특정한) 집단[국가/사회]",
+        "Noun (Abbr.) Soc.. -회(會), 협회, 단체 (→building society, friendly society)"
+      ]
+    },
+    {
+      "phrase": "Social",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Community (Abbr.) SOC."
+      ]
+    },
+    {
+      "phrase": "social media",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 소셜 미디어(사회관계망에 사용되는 웹사이트와 소프트웨어)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Support of Colorado Indigenous Ale Lager",
+      "frequency": 0
+    },
+    {
+      "meaning": "Sincere Open Collaborative Interested Authentic Likeable",
+      "frequency": 0
+    },
+    {
+      "meaning": "사회적",
+      "frequency": 0
+    },
+    {
+      "meaning": "사교적인",
+      "frequency": 0
+    },
+    {
+      "meaning": "사회의",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "전 사교 모임도... 좋아하나? Do I like social gathering? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Do I like social gathering?"
+    },
+    {
+      "korean": "'그리운'... 소셜? \"Nostalgic\"... Social 50? 듣기 View video VICTON : 레몬2🐥🐶🍋",
+      "english": "\"Nostalgic\"... Social 50?"
+    },
+    {
+      "korean": "이거 유명한 얼굴책 아닌가? the famous social media? 듣기 View video iKON : 12월31일!!!!!!!!",
+      "english": "the famous social media?"
+    },
+    {
+      "korean": "스트레스 많이 받아서 드신 거예요? the social media well? 듣기 View video V PICK! : [UP10TION] 👤: 아니 제 사수가..! 🐻: 사수를 치우는 건 어때요? (GYUJIN reading fans’ stories)",
+      "english": "the social media well?"
+    },
+    {
+      "korean": "저는 그거를 봤어요 SNS... I saw it from the social media. 듣기 View video iKON : 12월31일!!!!!!!!",
+      "english": "I saw it from the social media."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was not particularly well versed in the social graces. 듣기 Add to Wordbook 그는 사교적인 예의를 특별히 잘 갖추고 있지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was not particularly well versed in the social graces. Add to Wordbook"
+    },
+    {
+      "korean": "The Social Democrats are now in alliance with the Greens. 듣기 Add to Wordbook 현재 사회민주당이 녹색당과 동맹을 맺고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Social Democrats are now in alliance with the Greens. Add to Wordbook"
+    },
+    {
+      "korean": "Social tensions were manifested in the recent political crisis. 듣기 Add to Wordbook 최근의 정치 위기에는 사회적 긴장감이 드러나 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Social tensions were manifested in the recent political crisis. Add to Wordbook"
+    },
+    {
+      "korean": "We regard health as inversely related to social class. 듣기 Add to Wordbook 우리는 건강이 사회적인 계층과 반비례 관계에 있다고 본다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We regard health as inversely related to social class. Add to Wordbook"
+    },
+    {
+      "korean": "These changes are bound to have widespread social ramifications. 듣기 Add to Wordbook 이들 변화는 분명 광범위한 사회적 파문을 몰고 올 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These changes are bound to have widespread social ramifications. Add to Wordbook"
+    }
+  ]
+}

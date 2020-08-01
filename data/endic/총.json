@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "총",
+      "hanja": " (總)",
+      "example": {},
+      "meanings": [
+        "(모두, 통틀어) total, overall, gross"
+      ]
+    },
+    {
+      "phrase": "총",
+      "hanja": " (銃)",
+      "example": {},
+      "meanings": [
+        "(무기) gun, (formal) firearm, (informal) shooter"
+      ]
+    },
+    {
+      "phrase": "총-",
+      "hanja": " (總)",
+      "example": {},
+      "meanings": [
+        "all, whole, entire, total, general, gross, overall"
+      ]
+    },
+    {
+      "phrase": "총자본",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the total amount[sum] of capital",
+        "the fund total"
+      ]
+    },
+    {
+      "phrase": "마취 총",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tranquilizer gun"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "piece",
+      "frequency": 3
+    },
+    {
+      "meaning": "gun",
+      "frequency": 3
+    },
+    {
+      "meaning": "total",
+      "frequency": 3
+    },
+    {
+      "meaning": "general",
+      "frequency": 3
+    },
+    {
+      "meaning": "altogether",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "총... It's total of... 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "It's total of..."
+    },
+    {
+      "korean": "\"화보집 총 몇 페이지예요?\"라고 물어보시는데, 몇 페이지죠? \"How many pages does it have\"? How many pages is it? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "\"How many pages does it have\"? How many pages is it?"
+    },
+    {
+      "korean": "[총 게임하는 중인데...] [I'm playing a gun game...] View video Stray Kids : [SKZ VLOG] 아이엔 : 아기빵, 우리집으로 가자",
+      "english": "[I'm playing a gun game...]"
+    },
+    {
+      "korean": "총 두 버전이죠? 이게 뭡니까? We have 2 versions. What's this? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "We have 2 versions. What's this?"
+    },
+    {
+      "korean": "많이 하네 - 땡! 끝입니다 총 36개입니다 - 땡! Well done. - Time's over. It's 36! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "Well done. - Time's over. It's 36!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They surrendered their guns to the police. 듣기 Add to Wordbook 그들은 경찰에 총을 넘겨주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They surrendered their guns to the police. Add to Wordbook"
+    },
+    {
+      "korean": "Half the workforce are now (out) on strike. 듣기 Add to Wordbook 총노동력의 절반이 지금 파업 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Half the workforce are now (out) on strike. Add to Wordbook"
+    },
+    {
+      "korean": "She managed to snatch the gun from his hand. 듣기 Add to Wordbook 그녀가 간신히 그의 손에서 총을 잡아챘다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She managed to snatch the gun from his hand. Add to Wordbook"
+    },
+    {
+      "korean": "She tried to seize the gun from him. 듣기 Add to Wordbook 그녀가 그에게서 그 총을 와락 빼앗으려고 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tried to seize the gun from him. Add to Wordbook"
+    },
+    {
+      "korean": "They were taken captive by masked gunmen. 듣기 Add to Wordbook 그들은 총을 들고 복면을 한 자들에게 감금당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were taken captive by masked gunmen. Add to Wordbook"
+    }
+  ]
+}

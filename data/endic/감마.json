@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "감마",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gamma (γ)"
+      ]
+    },
+    {
+      "phrase": "감마",
+      "hanja": " (減磨)",
+      "example": {},
+      "meanings": [
+        "lubrication"
+      ]
+    },
+    {
+      "phrase": "gamma",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 감마(Γ, γ: 그리스어 알파벳의 셋째 글자)"
+      ]
+    },
+    {
+      "phrase": "GAMma",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "NASA (Abbr.) GAM."
+      ]
+    },
+    {
+      "phrase": "감마 글로불린",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(생물) gamma globulin"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gamma",
+      "frequency": 0
+    },
+    {
+      "meaning": "gamma globulin",
+      "frequency": 0
+    },
+    {
+      "meaning": "GABA",
+      "frequency": 0
+    },
+    {
+      "meaning": "GHB",
+      "frequency": 0
+    },
+    {
+      "meaning": "gamma distribution",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "빨래 감마다 세 번이니까 그럼 한 사람당 여섯 번이겠죠? It's three tries per piece of laundry so it will be six tries for each person? 듣기 View video V COOKIE : [Full]SPECIAL WEEK - EP.3 OH MY GIRL (오마이걸)",
+      "english": "It's three tries per piece of laundry so it will be six tries for each person?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The GABAergic neuron is the basic cell. 듣기 Add to Wordbook 감마아미노 낙산을 생산하는 신경세포 뉴런은 기초적인 세포다. 국제영어대학원대학교 신어사전",
+      "english": "The GABAergic neuron is the basic cell. Add to Wordbook"
+    },
+    {
+      "korean": "Vitamin E and its Friends: Vitamin E is made up of a group of compounds called alpha, delta, beta and gamma. 듣기 Add to Wordbook 비타민 E와 그의 친구들: 비타민 E는 알파, 델타, 베타 그리고 감마라고 불리는 혼합물의 집합으로 이루어집니다. TIMES CORE",
+      "english": "Vitamin E and its Friends: Vitamin E is made up of a group of compounds called alpha, delta, beta and gamma. Add to Wordbook"
+    },
+    {
+      "korean": "The paper then, in a pun on the Greek alphabet, became the Alpher, Bethe, Gamow paper. 듣기 Add to Wordbook 논문은 그 다음에 그리스 알파벳으로, 알파, 베타, 감마 논문이 되었습니다. TIMES CORE",
+      "english": "The paper then, in a pun on the Greek alphabet, became the Alpher, Bethe, Gamow paper. Add to Wordbook"
+    },
+    {
+      "korean": "I mentioned avian TB and the gamma interferon tests. 듣기 Add to Wordbook 나는 조류 결핵과 감마 인터페론 검사를 언급했다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 gray(orch****) Hansard",
+      "english": "I mentioned avian TB and the gamma interferon tests. Add to Wordbook"
+    },
+    {
+      "korean": "The gamma interferon test is a valuable addition to our armoury in attempting to deal with this disease. 듣기 Add to Wordbook 감마 인터페론 검사는 훈련소에서 질병을 대처하는 시도에 중요한 추가 자원이다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 냠냠이(qwe_****) Hansard",
+      "english": "The gamma interferon test is a valuable addition to our armoury in attempting to deal with this disease. Add to Wordbook"
+    }
+  ]
+}

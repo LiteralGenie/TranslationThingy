@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "시작",
+      "hanja": " (始作)",
+      "example": {},
+      "meanings": [
+        "beginning (of), start (of), begin, start, embark (up)on, (취미·습관 등을) take up"
+      ]
+    },
+    {
+      "phrase": "시작",
+      "hanja": " (詩作)",
+      "example": {},
+      "meanings": [
+        "Noun writing a poem"
+      ]
+    },
+    {
+      "phrase": "시작되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "begin"
+      ]
+    },
+    {
+      "phrase": "시작부터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "from the beginning[outset]",
+        "from the start"
+      ]
+    },
+    {
+      "phrase": "강의 시작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the head[source] of the river"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "beginning",
+      "frequency": 3
+    },
+    {
+      "meaning": "start",
+      "frequency": 3
+    },
+    {
+      "meaning": "birth",
+      "frequency": 3
+    },
+    {
+      "meaning": "coming",
+      "frequency": 3
+    },
+    {
+      "meaning": "kick-off",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "언제 시작했냐고요? When did I start? 듣기 View video NU'EST : [NU'EST] 럽하👋",
+      "english": "When did I start?"
+    },
+    {
+      "korean": "[그럼 투두 시작해볼까요?] [Shall we start?] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Shall we start?]"
+    },
+    {
+      "korean": "시작 - 있지 믿지 날자! Go. - ITZY, MIDZY, fly! 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP49. 서가대에 있지!",
+      "english": "Go. - ITZY, MIDZY, fly!"
+    },
+    {
+      "korean": "시작했어? - 시작했습니다 - 시작했어? Did it start? - It started. - Did it start?? 듣기 View video NU'EST : [NU’EST] 🍫🍫🍫🍫🍫",
+      "english": "Did it start? - It started. - Did it start??"
+    },
+    {
+      "korean": "네 이렇게 시작해서 치세요... Yeah. So I start, I go hit... 듣기 View video GOT7 : GOT7(갓세븐) OFFLINE #2",
+      "english": "Yeah. So I start, I go hit..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Take it away! 듣기 Add to Wordbook 시작! YBM All in All English-Korean Dictionary",
+      "english": "Take it away! Add to Wordbook"
+    },
+    {
+      "korean": "The Beginning 듣기 Add to Wordbook 시작 TIMES CORE",
+      "english": "The Beginning Add to Wordbook"
+    },
+    {
+      "korean": "She began writing poetry in her teens. 듣기 Add to Wordbook 그녀는 십대 때 시를 쓰기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She began writing poetry in her teens. Add to Wordbook"
+    },
+    {
+      "korean": "Ash began to erupt from the crater. 듣기 Add to Wordbook 분화구에서 화산재가 분출되기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ash began to erupt from the crater. Add to Wordbook"
+    },
+    {
+      "korean": "The sky began to lighten in the east. 듣기 Add to Wordbook 동녘 하늘이 밝아 오기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sky began to lighten in the east. Add to Wordbook"
+    }
+  ]
+}

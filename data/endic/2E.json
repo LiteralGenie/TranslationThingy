@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "2.e",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "too easy. internet gamer slang used at the end of a match to gloat a win."
+      ]
+    },
+    {
+      "phrase": "(2E)-dec-2-ene",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C10H20. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The (2E)-dec-2-ene molecule contains of 20 Hydrogen atom(s) and 10 Carbon atom(s) – a total of 30 atom(s)."
+      ]
+    },
+    {
+      "phrase": "2E,6Z-farnesal",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C15H24O. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The 2E,6Z-farnesal molecule contains of 24 Hydrogen atom(s), 15 Carbon atom(s) and 1 Oxygen atom(s) – a total of 40 atom(s)."
+      ]
+    },
+    {
+      "phrase": "(2E)-but-2-en-1-yl (2E)-but-2-enoate",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C8H12O2. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The (2E)-but-2-en-1-yl (2E)-but-2-enoate molecule contains of 12 Hydrogen atom(s), 8 Carbon atom(s) and 2 Oxygen atom(s) – a total of 22 atom(s)."
+      ]
+    },
+    {
+      "phrase": "(2E)-undec-2-ene",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C11H22. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The (2E)-undec-2-ene molecule contains of 22 Hydrogen atom(s) and 11 Carbon atom(s) – a total of 33 atom(s)."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "트랜스,트랜스-2,4-데카다이엔알",
+      "frequency": 0
+    },
+    {
+      "meaning": "Role 2 Enhanced",
+      "frequency": 0
+    },
+    {
+      "meaning": "Stirling's formula",
+      "frequency": 0
+    },
+    {
+      "meaning": "2E,6Z-farnesal",
+      "frequency": 0
+    },
+    {
+      "meaning": "2E,4Z-Decadienal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The star is called \"L1448-IRS2E.\" 듣기 Add to Wordbook 별의 이름은 \"L1448-IRS2E\"입니다. TIMES CORE",
+      "english": "The star is called \"L1448-IRS2E.\" Add to Wordbook"
+    },
+    {
+      "korean": "A monitor inside the Aptera 2e electric vehicle displays battery information. 듣기 Add to Wordbook 압테라 2E(Aptera 2e) 전기차의 내부 모니터는 배터리 정보를 표시한다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 야라바(yara****)",
+      "english": "A monitor inside the Aptera 2e electric vehicle displays battery information. Add to Wordbook"
+    },
+    {
+      "korean": "",
+      "english": "Subsection (2)(e) is on the levels of rent. Add to Wordbook"
+    },
+    {
+      "korean": "",
+      "english": "That is the whole purpose of subsection (2)(e). Add to Wordbook"
+    },
+    {
+      "korean": "",
+      "english": "Teaching and Learning in the Early Years (2e). Add to Wordbook"
+    }
+  ]
+}

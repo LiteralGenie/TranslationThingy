@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "반정부",
+      "hanja": " (反政府)",
+      "example": {},
+      "meanings": [
+        "(being) antigovernment"
+      ]
+    },
+    {
+      "phrase": "반정부 시위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "antigovernment demonstration"
+      ]
+    },
+    {
+      "phrase": "반정부 데모",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an antigovernment demonstration"
+      ]
+    },
+    {
+      "phrase": "반정부 궐기 대회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an antigovernment rally"
+      ]
+    },
+    {
+      "phrase": "반정부 시위를 벌이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "demonstrate[protest] against the government",
+        "hold an antigovernment demonstration"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a vigorous opponent of the government",
+      "frequency": 0
+    },
+    {
+      "meaning": "an armed uprising against the government",
+      "frequency": 0
+    },
+    {
+      "meaning": "freedom fighter",
+      "frequency": 0
+    },
+    {
+      "meaning": "contra 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "antigovernment",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The crowd began chanting anti-government slogans. 발음듣기 군중이 반정부 구호를 외치기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The crowd began chanting anti-government slogans. 발음"
+    },
+    {
+      "korean": "Ministers are worried by this current of anti-government feeling. 발음듣기 각료들은 이러한 반정부 정서를 우려하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ministers are worried by this current of anti-government feeling. 발음"
+    },
+    {
+      "korean": "an armed uprising against the government 발음듣기 반정부 무장 봉기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an armed uprising against the government 발음"
+    },
+    {
+      "korean": "a vigorous opponent of the government 발음듣기 격렬한 반정부 인사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a vigorous opponent of the government 발음"
+    },
+    {
+      "korean": "The protests were an anti-government rebellion. 발음듣기 그 시위는 반정부 폭동이었다. Neungyule",
+      "english": "The protests were an anti-government rebellion. 발음"
+    }
+  ]
+}

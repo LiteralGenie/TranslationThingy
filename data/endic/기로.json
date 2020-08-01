@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "기로",
+      "hanja": " (岐路)",
+      "example": {},
+      "meanings": [
+        "crossroads, turning point"
+      ]
+    },
+    {
+      "phrase": "-기로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(…로써) with, as for",
+        "(까닭) because, as, since, so, owing to, due to, on account of, seeing, considering",
+        "(아무리 …하다 하더라도) although (=-기로서니)"
+      ]
+    },
+    {
+      "phrase": "기로에 서다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stand at the crossroads"
+      ]
+    },
+    {
+      "phrase": "인생의 기로에 서다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stand at a crossroads (of life)",
+        "stand at a fork in the life's road"
+      ]
+    },
+    {
+      "phrase": "생사의 기로에서 죽음에 맞서 싸우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "challenge fate in a life-or-death situation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "crossroad",
+      "frequency": 3
+    },
+    {
+      "meaning": "monadically",
+      "frequency": 0
+    },
+    {
+      "meaning": "at a/the crossroads",
+      "frequency": 0
+    },
+    {
+      "meaning": "hover between life and death",
+      "frequency": 0
+    },
+    {
+      "meaning": "beflag",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "음... 하여간 누구나 선택의 기로에 선다. Ahem... Anyway, everyone walks on the road of choices. 듣기 View video 플레이리스트 (Playlist) : [연애포차 시즌1] - EP.02 같이 일하는 알바생이 눈에 들어온다",
+      "english": "Ahem... Anyway, everyone walks on the road of choices."
+    },
+    {
+      "korean": "[우린 왜 늘 선택의 기로에 서나] 이 프로그램은 왜 이렇게 선택이 많은 거예요? [Why are we always at a crossroad?] Why does this program have so many choices to make? 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 16부_ep.4 걸그룹 모델 3인방과 완벽한 광고 촬영♡",
+      "english": "[Why are we always at a crossroad?] Why does this program have so many choices to make?"
+    },
+    {
+      "korean": "저희 팀 다 같이 면회가기로 했습니다. All our drama cast will go. 듣기 View video SMTOWN : 왕은사랑한다 쇼케이스",
+      "english": "All our drama cast will go."
+    },
+    {
+      "korean": "기차는 이제... - 기로 가는 거야? \"Gi-cha\" goes... - Goes in a \"gi?\" 듣기 View video V COOKIE : [Full] PENTAGON X Happiness Train - 펜타곤​​의 행복행!",
+      "english": "\"Gi-cha\" goes... - Goes in a \"gi?\""
+    },
+    {
+      "korean": "인생의 기로가 바뀔 수 있는 거기 때문에. But it can change your future. 듣기 View video IDOL x IDOL : KIXS - 키스 '매력발산 하고 있어~'",
+      "english": "But it can change your future."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He has reached a career crossroads. 듣기 Add to Wordbook 그는 사회[직장]생활에서 하나의 기로에 이르렀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has reached a career crossroads. Add to Wordbook"
+    },
+    {
+      "korean": "He now stands at the crossroads of life. 듣기 Add to Wordbook 그는 인생의 기로에 서 있다 Neungyule",
+      "english": "He now stands at the crossroads of life. Add to Wordbook"
+    },
+    {
+      "korean": "He stood at the crossroads, hanging about. 듣기 Add to Wordbook 그는 갈팡질팡하며 기로에 섰다. YBM All in All English-Korean Dictionary",
+      "english": "He stood at the crossroads, hanging about. Add to Wordbook"
+    },
+    {
+      "korean": "My mother is hovering between life and death. 듣기 Add to Wordbook 어머니는 생사의 기로를 헤매고 계신다 Neungyule",
+      "english": "My mother is hovering between life and death. Add to Wordbook"
+    },
+    {
+      "korean": "I'm at the crossroads. 듣기 Add to Wordbook 저는 (선택의) 기로에 서 있어요. Neungyule",
+      "english": "I'm at the crossroads. Add to Wordbook"
+    }
+  ]
+}

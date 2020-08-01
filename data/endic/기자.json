@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기자",
+      "hanja": " (記者)",
+      "example": {},
+      "meanings": [
+        "(news) reporter, journalist, news(paper)man, (통신원) correspondent"
+      ]
+    },
+    {
+      "phrase": "기자회견",
+      "hanja": " (記者會見)",
+      "example": {},
+      "meanings": [
+        "interview, press[news] conference"
+      ]
+    },
+    {
+      "phrase": "취재기자",
+      "hanja": " (取材記者)",
+      "example": {},
+      "meanings": [
+        "journalist, (news) reporter"
+      ]
+    },
+    {
+      "phrase": "편집기자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "contributing editor"
+      ]
+    },
+    {
+      "phrase": "외신 기자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "foreign[international] (news/press) reporter"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "journalist",
+      "frequency": 3
+    },
+    {
+      "meaning": "correspondent",
+      "frequency": 3
+    },
+    {
+      "meaning": "reporter",
+      "frequency": 3
+    },
+    {
+      "meaning": "scribbler",
+      "frequency": 0
+    },
+    {
+      "meaning": "pressman",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "갑자기 급 기자회견? Suddenly, at a press conference? 듣기 View video iKON : 12월31일!!!!!!!!",
+      "english": "Suddenly, at a press conference?"
+    },
+    {
+      "korean": "[우주 생방송 기자회견 준비해 주세요] 실화야? [Please prepare a press conference for the entire universe] Is this for real? 듣기 View video V PICK! : [NCT] 말랑강쥐 보다가 꺠물어먹은 모니터가 벌써 몇갠지..😩💦 (Jeno calling with Chenle&Jisung)",
+      "english": "[Please prepare a press conference for the entire universe] Is this for real?"
+    },
+    {
+      "korean": "[To. 오센 관계자 여러분][갑자기 영상편지] 오센 기자님, 지금 보고 계신가요? [To. OSEN team] [Sudden video letter] OSEN reporters, are you watching me now? 듣기 View video OSEN : THE BOYZ 더보이즈, LA 콘서트 예고? 다시 만나요 #스타로드 14",
+      "english": "[To. OSEN team] [Sudden video letter] OSEN reporters, are you watching me now?"
+    },
+    {
+      "korean": "아님 기자? Or a journalist? 듣기 View video 플레이리스트 (Playlist) : 대학생이 자퇴를 결심하게 되는 과정 [연플리4] - EP.12",
+      "english": "Or a journalist?"
+    },
+    {
+      "korean": "그러면 기자과인 건가? Then mass communication? 듣기 View video SEVENTEEN : [SPECIAL VIDEO] SEVENTEEN 4TH ANNIVERSARY COCKTAIL PARTY Ver.",
+      "english": "Then mass communication?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "one of our reporters on assignment in China 듣기 Add to Wordbook 중국에서 임무 수행 중인 우리 기자들 중 한 명 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of our reporters on assignment in China Add to Wordbook"
+    },
+    {
+      "korean": "She earns her living as a freelance journalist. 듣기 Add to Wordbook 그녀는 프리랜스 기자로 생활비를 번다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She earns her living as a freelance journalist. Add to Wordbook"
+    },
+    {
+      "korean": "Journalists came from as far afield as China. 듣기 Add to Wordbook 중국과 같이 먼 곳에서도 기자들이 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Journalists came from as far afield as China. Add to Wordbook"
+    },
+    {
+      "korean": "a news story manufactured by an unscrupulous journalist 듣기 Add to Wordbook 어느 파렴치한 기자가 지어낸 뉴스 기사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a news story manufactured by an unscrupulous journalist Add to Wordbook"
+    },
+    {
+      "korean": "He was engulfed by a crowd of reporters. 듣기 Add to Wordbook 그는 한 무리의 기자들에게 완전히 둘러싸여 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was engulfed by a crowd of reporters. Add to Wordbook"
+    }
+  ]
+}

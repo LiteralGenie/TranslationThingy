@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "해킹",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[명사] hacking, [동사] hack (into)"
+      ]
+    },
+    {
+      "phrase": "hacking",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 해킹 (→phone hacking)"
+      ]
+    },
+    {
+      "phrase": "hack",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (마구거칠게) 자르다[베다], 난도질하다",
+        "Verb (거칠게마구) 차다",
+        "Noun 못마땅함 글쟁이(특히 적은 돈을 받고 저질 신문 기사를 많이 써 내는 사람)"
+      ]
+    },
+    {
+      "phrase": "네트워크를 해킹하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hack into a network"
+      ]
+    },
+    {
+      "phrase": "은행 전산망을 해킹하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hack into a bank's computer network"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hacking",
+      "frequency": 0
+    },
+    {
+      "meaning": "hackery 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "hackrilege",
+      "frequency": 0
+    },
+    {
+      "meaning": "das Hacking",
+      "frequency": 0
+    },
+    {
+      "meaning": "keylogger",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[벌써 성공(?) 이미 못 알아들은 1인] - 못 알아듣게요? 해킹? - 그러니까 제가 예를 들면... [He doesn't get it at all] - So others won't understand? Hacking? - For example... 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[He doesn't get it at all] - So others won't understand? Hacking? - For example..."
+    },
+    {
+      "korean": "해킹 당했다고! - 해킹 당했다고? I got hacked! - You got hacked? 듣기 View video 콬TV (WHYNOT) : 첫키스는 너랑 하고 싶어 [연애미수] EP06",
+      "english": "I got hacked! - You got hacked?"
+    },
+    {
+      "korean": "해킹 당했다고 뭐가? You got hacked about what? 듣기 View video 콬TV (WHYNOT) : 첫키스는 너랑 하고 싶어 [연애미수] EP06",
+      "english": "You got hacked about what?"
+    },
+    {
+      "korean": "메이플 아이디가 해킹 당했다고? Your game ID got hacked? 듣기 View video 콬TV (WHYNOT) : 첫키스는 너랑 하고 싶어 [연애미수] EP06",
+      "english": "Your game ID got hacked?"
+    },
+    {
+      "korean": "너 지금 게임 아이디 해킹 당했다고 그렇게 쳐 운다고? You're crying because your game ID got hacked? 듣기 View video 콬TV (WHYNOT) : 첫키스는 너랑 하고 싶어 [연애미수] EP06",
+      "english": "You're crying because your game ID got hacked?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They had hacked secret data. 발음듣기 그들이 비밀 데이터를 해킹했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had hacked secret data. 발음"
+    },
+    {
+      "korean": "He hacked into the bank’s computer. 발음듣기 그가 그 은행 컴퓨터를 해킹했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hacked into the bank’s computer. 발음"
+    },
+    {
+      "korean": "Web hacking & defencing 발음듣기 웹에 대한 해킹과 방어 국제영어대학원대학교 신어사전",
+      "english": "Web hacking & defencing 발음"
+    },
+    {
+      "korean": "Our system is hack-proof. 발음듣기 우리 시스템은 해킹하기 어렵습니다. 국제영어대학원대학교 신어사전",
+      "english": "Our system is hack-proof. 발음"
+    },
+    {
+      "korean": "Growth hacking is very practical marketing. 발음듣기 그로스 해킹은 아주 실용적인 마케팅이다. 국제영어대학원대학교 신어사전",
+      "english": "Growth hacking is very practical marketing. 발음"
+    }
+  ]
+}

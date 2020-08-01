@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "법인",
+      "hanja": " (法人)",
+      "example": {},
+      "meanings": [
+        "corporate body"
+      ]
+    },
+    {
+      "phrase": "법인세",
+      "hanja": " (法人稅)",
+      "example": {},
+      "meanings": [
+        "corporate tax"
+      ]
+    },
+    {
+      "phrase": "사단법인",
+      "hanja": " (社團法人)",
+      "example": {},
+      "meanings": [
+        "corporation, body corporate"
+      ]
+    },
+    {
+      "phrase": "법무법인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "law firm"
+      ]
+    },
+    {
+      "phrase": "단독 법인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a corporation sole"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "corporation",
+      "frequency": 3
+    },
+    {
+      "meaning": "commonalty",
+      "frequency": 0
+    },
+    {
+      "meaning": "juristic person",
+      "frequency": 0
+    },
+    {
+      "meaning": "collegium",
+      "frequency": 0
+    },
+    {
+      "meaning": "body corporate",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오늘 법인카드 싹들이 할까요? Shall we buy everything with that card? 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.10",
+      "english": "Shall we buy everything with that card?"
+    },
+    {
+      "korean": "법인카드예요? With a company credit card? 듣기 View video ATEEZ : 저기 저 복불복이 부를 때~ 한번 더 크게 쎄마넴★",
+      "english": "With a company credit card?"
+    },
+    {
+      "korean": "법인카드 가져가고. Take the company card. 듣기 View video 달핑스튜디오 : [도시의 밤,별] EP.03 실수가 만들어준 인연",
+      "english": "Take the company card."
+    },
+    {
+      "korean": "됐고, 법인카드. - 아. Not that. The company card. - Ah. 듣기 View video 달핑스튜디오 : [도시의 밤,별] EP.03 실수가 만들어준 인연",
+      "english": "Not that. The company card. - Ah."
+    },
+    {
+      "korean": "어차피 우리에게는 법인카드~ - 우리에게는 법인카드~ Either way, we have the company card~ 듣기 View video ASTRO : 갑자기 엠진♡",
+      "english": "Either way, we have the company card~"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the artificial[legal, juridical, conventional] person 듣기 Add to Wordbook 법인. Friendict Level English-Korean Dictionary",
+      "english": "the artificial[legal, juridical, conventional] person Add to Wordbook"
+    },
+    {
+      "korean": "The law applies to both individuals and corporate bodies. 듣기 Add to Wordbook 그 법률은 개인과 법인 둘 다에 적용된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The law applies to both individuals and corporate bodies. Add to Wordbook"
+    },
+    {
+      "korean": "The main culprit in the current crisis seems to be modern farming techniques. 듣기 Add to Wordbook 현 위기를 초래한 주된 장본인은 현대 농경법인 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The main culprit in the current crisis seems to be modern farming techniques. Add to Wordbook"
+    },
+    {
+      "korean": "The BBC is a corporate body. 듣기 Add to Wordbook BBC는 법인체이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The BBC is a corporate body. Add to Wordbook"
+    },
+    {
+      "korean": "This land was once corporate property. 듣기 Add to Wordbook 이 땅은 한때 법인재산이었다. 절대어휘 5100",
+      "english": "This land was once corporate property. Add to Wordbook"
+    }
+  ]
+}

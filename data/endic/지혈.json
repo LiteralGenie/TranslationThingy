@@ -1,0 +1,102 @@
+{
+  "phrases": [
+    {
+      "phrase": "지혈",
+      "hanja": " (止血)",
+      "example": {},
+      "meanings": [
+        "hemostasis, check[stop, arrest] the bleeding, control hemorrhage, (Am) stanch, (Brit) staunch"
+      ]
+    },
+    {
+      "phrase": "지혈법",
+      "hanja": " (止血法)",
+      "example": {},
+      "meanings": [
+        "styptic treatment, hemostatic method"
+      ]
+    },
+    {
+      "phrase": "상처 부위를 붕대로 묶어 지혈하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wrap the bandage around the wound to stop the bleeding"
+      ]
+    },
+    {
+      "phrase": "지혈면",
+      "hanja": " (止血綿)",
+      "example": {},
+      "meanings": [
+        "styptic cotton"
+      ]
+    },
+    {
+      "phrase": "겸자 지혈",
+      "hanja": " (鉗子止血)",
+      "example": {},
+      "meanings": [
+        "forcipressure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hemostasis",
+      "frequency": 0
+    },
+    {
+      "meaning": "antihemorrhagic",
+      "frequency": 0
+    },
+    {
+      "meaning": "angiostasis",
+      "frequency": 0
+    },
+    {
+      "meaning": "hematischesis",
+      "frequency": 0
+    },
+    {
+      "meaning": "arrest of bleeding",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "맞아 어떡해 - 어떻게 지혈해줄 건데? Right. Oh man. - How will you stop it? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Right. Oh man. - How will you stop it?"
+    },
+    {
+      "korean": "\"지훈이는 응급처치 배우는 중이구나\"라는 댓글이 - 지혈 배우고 있어? \"Jihoon is learning how to stop bleeding\". - Are you learning how to stop bleeding? 듣기 View video V COOKIE : [Full] KNK X CouchTalk - 크나큰 X 카우치토크",
+      "english": "\"Jihoon is learning how to stop bleeding\". - Are you learning how to stop bleeding?"
+    },
+    {
+      "korean": "지혈해야 돼요. Apply pressure to the wound. 듣기 View video Dispatch : \"먹방이 별거냐!\"....범주&백호(NU'EST W)의 베트남 음식 먹방",
+      "english": "Apply pressure to the wound."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The nurse used a wad of cotton wool to stop the bleeding. 듣기 Add to Wordbook 그 간호사는 솜뭉치를 써서 지혈을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The nurse used a wad of cotton wool to stop the bleeding. Add to Wordbook"
+    },
+    {
+      "korean": "I use a styptic pencil on shaving cuts. 듣기 Add to Wordbook 나는 면도하다가 베인 데에 연필 모양의 지혈제를 쓴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I use a styptic pencil on shaving cuts. Add to Wordbook"
+    },
+    {
+      "korean": "She tried to stop the flow of blood from the wound. 듣기 Add to Wordbook 그녀는 상처에서 흐르는 피를 지혈하려 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tried to stop the flow of blood from the wound. Add to Wordbook"
+    },
+    {
+      "korean": "The nurse applied pressure to his arm to stop the bleeding. 듣기 Add to Wordbook 간호사가 지혈을 하기 위해 그의 팔에 압박을 가했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The nurse applied pressure to his arm to stop the bleeding. Add to Wordbook"
+    },
+    {
+      "korean": "uncontrollable bleeding 듣기 Add to Wordbook 걷잡을 수 없는[지혈이 안 되는] 출혈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "uncontrollable bleeding Add to Wordbook"
+    }
+  ]
+}

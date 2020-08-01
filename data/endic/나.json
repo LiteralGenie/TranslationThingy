@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(주격) I, (소유격) my, (목적격) me, (소유대명사) mine, (재귀대명사) myself"
+      ]
+    },
+    {
+      "phrase": "나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition na (→이나)",
+        "Postposition na (→이나)",
+        "Postposition na (→이나)"
+      ]
+    },
+    {
+      "phrase": "-나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(앞뒷말의 대립적 연결) but, though",
+        "(선택) whether... or",
+        "(의문 어미)"
+      ]
+    },
+    {
+      "phrase": "-나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -na",
+        "Ending -na"
+      ]
+    },
+    {
+      "phrase": "sodium",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun Na 나트륨"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "like",
+      "frequency": 3
+    },
+    {
+      "meaning": "one",
+      "frequency": 3
+    },
+    {
+      "meaning": "me",
+      "frequency": 3
+    },
+    {
+      "meaning": "this",
+      "frequency": 3
+    },
+    {
+      "meaning": "I 2",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나야? 너야?",
+      "english": "Me or you?"
+    },
+    {
+      "korean": "나랑 후이 형?",
+      "english": "HUI and I?"
+    },
+    {
+      "korean": "나는 누구일까요?",
+      "english": "Who am I?"
+    },
+    {
+      "korean": "나만 안 떠?",
+      "english": "Is it just me?"
+    },
+    {
+      "korean": "나 갈래!",
+      "english": "I am going to go!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "엄마, 나 배 아파요.",
+      "english": "Mummy, I’ve got a tummy ache."
+    },
+    {
+      "korean": "나는 네 자매 중 막내이다.",
+      "english": "I am the youngest of four sisters."
+    },
+    {
+      "korean": "나는 냄비들을 박박 닦아야 했다.",
+      "english": "I had to scour out the pans."
+    },
+    {
+      "korean": "이 다툼에서 나는 빼 줘, 제발.",
+      "english": "Leave me out of this quarrel, please."
+    },
+    {
+      "korean": "그가 나에게 물총을 쏘았다.",
+      "english": "He squirted a water pistol at me."
+    }
+  ]
+}

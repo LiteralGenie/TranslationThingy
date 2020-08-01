@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소에) be, (건물 등이) stand, be located (in/at), be situated, (도시 등이) lie",
+        "(시설·장치 등이) have, (시설이) be equipped with, be provided with",
+        "(존재하다) be, exist, (발견되다) be found"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective existent, existing (↔없다)",
+        "Adjective (↔없다)",
+        "Adjective (↔없다)"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb itda",
+        "Assistant adverb itda",
+        "Assistant adverb itda"
+      ]
+    },
+    {
+      "phrase": "내일 무슨 일이 있죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What's going on tomorrow?"
+      ]
+    },
+    {
+      "phrase": "그렇다고 할 수 있죠.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You can say so."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "What gear are you in?",
+      "frequency": 0
+    },
+    {
+      "meaning": "DBN",
+      "frequency": 0
+    },
+    {
+      "meaning": "be",
+      "frequency": 3
+    },
+    {
+      "meaning": "have",
+      "frequency": 3
+    },
+    {
+      "meaning": "possible",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "있죠? Did it ever happen to you? 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "Did it ever happen to you?"
+    },
+    {
+      "korean": "있죠! a guest today. 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 52 - SPECIAL GUEST",
+      "english": "a guest today."
+    },
+    {
+      "korean": "어디 있죠? Where is he? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "Where is he?"
+    },
+    {
+      "korean": "잘 되고 있죠? Is it good? 듣기 View video TWICE : 아레나 투어 마지막 공연🎶👀",
+      "english": "Is it good?"
+    },
+    {
+      "korean": "진짜 분위기 있죠? Isn't it great? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Isn't it great?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "How could anyone break into the palace undetected? 듣기 Add to Wordbook 어떻게 누군가가 아무에게도 들키지 않고 그 궁전에 침입할 수가 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How could anyone break into the palace undetected? Add to Wordbook"
+    },
+    {
+      "korean": "What else can go wrong? 듣기 Add to Wordbook 다른 어떤 문제가 있을 수 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What else can go wrong? Add to Wordbook"
+    },
+    {
+      "korean": "What gear are you in? 듣기 Add to Wordbook 지금 기어가 어디에 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What gear are you in? Add to Wordbook"
+    },
+    {
+      "korean": "How do we know that the signature is contemporaneous with the document? 듣기 Add to Wordbook 그 서명이 그 서류 작성 당시에 한 것임을 우리가 어떻게 알 수 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How do we know that the signature is contemporaneous with the document? Add to Wordbook"
+    },
+    {
+      "korean": "How can you bear to eat that stuff? 듣기 Add to Wordbook 어떻게 그런 것을 참고 먹을 수가 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How can you bear to eat that stuff? Add to Wordbook"
+    }
+  ]
+}

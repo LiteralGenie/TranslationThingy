@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "의도",
+      "hanja": " (意圖)",
+      "example": {},
+      "meanings": [
+        "[명사] intention, aim, purpose, (formal) intent; (계획) plan, design, [동사] intend (to do / doing), aim (to do / for), design, mean (to do)"
+      ]
+    },
+    {
+      "phrase": "의도는 좋지만 ...",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You mean well, but ..."
+      ]
+    },
+    {
+      "phrase": "적의 의도를 꺾다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "frustrate the enemy´s design"
+      ]
+    },
+    {
+      "phrase": "당초의 계획[의도]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "one´s[the] original plan[intention]"
+      ]
+    },
+    {
+      "phrase": "살해할 의도를 가지고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "with intent to murder"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wish",
+      "frequency": 2
+    },
+    {
+      "meaning": "design",
+      "frequency": 2
+    },
+    {
+      "meaning": "intention",
+      "frequency": 2
+    },
+    {
+      "meaning": "purpose",
+      "frequency": 2
+    },
+    {
+      "meaning": "요량",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 단발머리를 고등학교 때 의도치 않게... I had to cut my hair short. 듣기 View video IZ*ONE : 🍯💧즈 왔어용~☔️",
+      "english": "I had to cut my hair short."
+    },
+    {
+      "korean": "[의도치 않게 가장 열심히 한 일 : 매 순간 귀엽기] 그걸 언제 캐치했지? [Being adorable at every moment] When did you catch that? 듣기 View video GOT7 : GOT7(갓세븐) OFFLINE #11",
+      "english": "[Being adorable at every moment] When did you catch that?"
+    },
+    {
+      "korean": "[의도치 않은 후진 퍼포먼스] 나 후진으로 가는데? [Going backwards] I'm going backwards! 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[Going backwards] I'm going backwards!"
+    },
+    {
+      "korean": "[진짜 포인트는 뒷면에] - 유리 씨 뒤에 이거 의도하신 건가요? - 뒤에도 포인트인가요? [The real accent is on the other side] - Did you do this on purpose? - Is that an accent at the back? 듣기 View video Dispatch : [DICON] 앙즈뽀짝 폴라로이드 꾸미기② (IZ*ONE)",
+      "english": "[The real accent is on the other side] - Did you do this on purpose? - Is that an accent at the back?"
+    },
+    {
+      "korean": "의도하지 않았다고 - 의도하지 않았다고? Not planned? - Really? 듣기 View video Stray Kids : ♥SKZ2020 PARTY♥",
+      "english": "Not planned? - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "His intent is clearly not to placate his critics. 발음듣기 그의 의도가 분명히 그의 비판자들을 달래려는 것은 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His intent is clearly not to placate his critics. 발음"
+    },
+    {
+      "korean": "He systematically abused his body with heroin and cocaine. 발음듣기 그는 헤로인과 코카인으로 자기 몸을 의도적으로 혹사했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He systematically abused his body with heroin and cocaine. 발음"
+    },
+    {
+      "korean": "The letter was deliberately couched in very vague terms. 발음듣기 그 편지는 의도적으로 대단히 애매한 말로 쓰여 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The letter was deliberately couched in very vague terms. 발음"
+    },
+    {
+      "korean": "She denies possessing the drug with intent to supply. 발음듣기 그녀는 공급할 의도로 그 약을 소지하고 있었다는 것을 부인한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She denies possessing the drug with intent to supply. 발음"
+    },
+    {
+      "korean": "He purposely tried to cultivate good relations with the press. 발음듣기 그는 언론과 좋은 관계를 구축하려고 의도적으로 노력했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He purposely tried to cultivate good relations with the press. 발음"
+    }
+  ]
+}

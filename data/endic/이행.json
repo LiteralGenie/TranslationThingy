@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "이행",
+      "hanja": " (履行)",
+      "example": {},
+      "meanings": [
+        "[명사] (실행) (약속의) fulfillment, (의무의) performance, (계약의) (formal) execution, (조약의) implementation [동사] (약속을) fulfill, carry out, (의무를) perform, (계약을) (formal) execute, (결정·조약 등을) implement"
+      ]
+    },
+    {
+      "phrase": "이행",
+      "hanja": " (移行)",
+      "example": {},
+      "meanings": [
+        "[명사] (전환) transition, changeover, shift, (Am) switchover, [동사] transform, shift"
+      ]
+    },
+    {
+      "phrase": "채무를 이행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pay off one's debts",
+        "meet[discharge] one's liabilities"
+      ]
+    },
+    {
+      "phrase": "약속을 이행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fulfill[keep, carry out, deliver] a promise"
+      ]
+    },
+    {
+      "phrase": "계약을 이행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fulfill[carry out] a contract"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "discharge",
+      "frequency": 3
+    },
+    {
+      "meaning": "execution",
+      "frequency": 3
+    },
+    {
+      "meaning": "migration",
+      "frequency": 3
+    },
+    {
+      "meaning": "transition",
+      "frequency": 3
+    },
+    {
+      "meaning": "fulfillment",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이렇게 이행시가 됐네요.. I did an acrostic poem like this... 듣기 View video PARK JI HOON : [Wink Arcade] 박지훈 [360] 음악방송 1주차 비하인드 Lv.22",
+      "english": "I did an acrostic poem like this..."
+    },
+    {
+      "korean": "[오늘의 이행시 만족하나요?] [Are you satisfied with today's acrostic poem?] View video PARK JI HOON : [Wink Arcade] 박지훈 [360] 음악방송 1주차 비하인드 Lv.22",
+      "english": "[Are you satisfied with today's acrostic poem?]"
+    },
+    {
+      "korean": "[공약이행 딥볶이 편 中] 중국말로 다모임이 뭐예요? [Carrying out their pledge] How do you say DAMOIM in Chinese? 듣기 View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM] EP.10 눈물 없인 볼 수 없는 다모임 은퇴식… FOREVER 84!ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[Carrying out their pledge] How do you say DAMOIM in Chinese?"
+    },
+    {
+      "korean": "이행시 - 어떤 진지요? 2-line poem. - Which Jinji? 듣기 View video PENTAGON : 릴레이 V LIVE : Ballad Unit",
+      "english": "2-line poem. - Which Jinji?"
+    },
+    {
+      "korean": "우리 젠가로 이행시 한번 가볼까요? Shall we do acrostic poems with Jenga? 듣기 View video PENTAGON : 릴레이 V LIVE : Ballad Unit",
+      "english": "Shall we do acrostic poems with Jenga?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to carry out a promise / a threat / a plan / an order 듣기 Add to Wordbook 약속을 이행하다/협박을 이행하다/계획을 이행하다/명령을 수행하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to carry out a promise / a threat / a plan / an order Add to Wordbook"
+    },
+    {
+      "korean": "the transition from school to full-time work 듣기 Add to Wordbook 학교에서 정규직 근무로의 이행 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the transition from school to full-time work Add to Wordbook"
+    },
+    {
+      "korean": "She has to do her military service. 듣기 Add to Wordbook 그녀는 병역 의무를 이행해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She has to do her military service. Add to Wordbook"
+    },
+    {
+      "korean": "The company is in default on the loan. 듣기 Add to Wordbook 그 회사가 그 대출금에 대한 채무를 이행하지 않고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company is in default on the loan. Add to Wordbook"
+    },
+    {
+      "korean": "He has proved he can carry through on his promises. 듣기 Add to Wordbook 그는 자신이 한 약속을 이행할 수 있음을 입증해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has proved he can carry through on his promises. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "조금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(적은 양·정도) some, (양, 정도) a little, (수) a few, (정도) a bit",
+        "(짧은 시간) a little (bit), a bit, a (short/little) while, (for) a moment[minute, second]",
+        "(전혀) not at all, not a bit not in the least,"
+      ]
+    },
+    {
+      "phrase": "조금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun a little, little",
+        "Noun a while"
+      ]
+    },
+    {
+      "phrase": "조금 더",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a few more"
+      ]
+    },
+    {
+      "phrase": "조금 전에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a little while ago",
+        "not long ago"
+      ]
+    },
+    {
+      "phrase": "아주 조금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "just a little[bit]",
+        "in small quantities",
+        "only a very little"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bit",
+      "frequency": 3
+    },
+    {
+      "meaning": "some",
+      "frequency": 3
+    },
+    {
+      "meaning": "little",
+      "frequency": 3
+    },
+    {
+      "meaning": "spot",
+      "frequency": 3
+    },
+    {
+      "meaning": "breath",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "조금?",
+      "english": "A little bit?"
+    },
+    {
+      "korean": "조금~",
+      "english": "I'm a little bit~"
+    },
+    {
+      "korean": "조금....",
+      "english": "Tan has to take..."
+    },
+    {
+      "korean": "이게 조금...",
+      "english": "It's a bit..."
+    },
+    {
+      "korean": "저는 조금...",
+      "english": "I am kind of..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 조금도 후회하지 않는 듯했다.",
+      "english": "He seemed to feel no remorse at all."
+    },
+    {
+      "korean": "초목의 흔적이라곤 조금도 없는 불모지 풍경",
+      "english": "a barren landscape without a scrap of vegetation"
+    },
+    {
+      "korean": "샐러드 위에 올리브 오일을 조금 부어라.",
+      "english": "Dribble a little olive oil over the salad."
+    },
+    {
+      "korean": "그녀가 커튼을 조금 벌리고 내다보았다.",
+      "english": "She parted the curtains a little and looked out."
+    },
+    {
+      "korean": "그는 조금도 흔들림 없이 당에 헌신했다.",
+      "english": "He never faltered in his commitment to the party."
+    }
+  ]
+}

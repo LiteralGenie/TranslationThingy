@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "임신",
+      "hanja": " (姙娠)",
+      "example": {},
+      "meanings": [
+        "[명사] pregnancy, [동사] be[get] pregnant, conceive"
+      ]
+    },
+    {
+      "phrase": "임신 중절",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(an) artificial abortion",
+        "interruption of pregnancy"
+      ]
+    },
+    {
+      "phrase": "상상임신",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "false[phantom, imaginary] pregnancy; (의학) pseudocyesis"
+      ]
+    },
+    {
+      "phrase": "임신 중에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "during pregnancy",
+        "during the period of pregnancy"
+      ]
+    },
+    {
+      "phrase": "임신시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get a woman with child"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pregnancy",
+      "frequency": 0
+    },
+    {
+      "meaning": "gestation",
+      "frequency": 0
+    },
+    {
+      "meaning": "(be/get) in the family way",
+      "frequency": 0
+    },
+    {
+      "meaning": "gestatio",
+      "frequency": 0
+    },
+    {
+      "meaning": "gravidity",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "젤라님 임신한 거 보셨어요? You saw that Jella is pregnant? 듣기 View video SSONGYANG : 봄 셀프웨딩메이크업 GRWM 2세계획과 고민들 tmi | 데이트 메이크업 / 지베르니 파운데이션",
+      "english": "You saw that Jella is pregnant?"
+    },
+    {
+      "korean": "새끼 고양이가, 임신을 한 상태였던 거예요. She was pregnant. 듣기 View video V Animal Family : 고양이 보금자리 새단장! New interior for Cats! (ft. 박정윤수의사)",
+      "english": "She was pregnant."
+    },
+    {
+      "korean": "[자신감] 나 게임신이야, 게임신. [Confident] I'm a goddess of games. 듣기 View video Amigo TV : [I.O.I편] 양순이들의 미리메리크리스마스 Ep.02",
+      "english": "[Confident] I'm a goddess of games."
+    },
+    {
+      "korean": "양동근 선배님 셋째 임신하셨대요. Mr. Yang is expecting his third child. 듣기 View video Apink : apink's Broadcast (골든티켓 이벤트)",
+      "english": "Mr. Yang is expecting his third child."
+    },
+    {
+      "korean": "[말조심 임신 중이어서] 임신 중이라서 들으면 안 되겠죠? I'm pregnant, so I can't talk about this, can I? 듣기 View video Big Picture : 빅픽처 ep10_첫 메이드 되기 100m 전",
+      "english": "I'm pregnant, so I can't talk about this, can I?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The pregnancy ended in miscarriage at 11 weeks. 발음듣기 그 임신은 11주째 때 유산으로 끝났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pregnancy ended in miscarriage at 11 weeks. 발음"
+    },
+    {
+      "korean": "My wife is pregnant. 발음듣기 제 아내가 임신을 했어요[임신 중입니다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My wife is pregnant. 발음"
+    },
+    {
+      "korean": "to terminate a pregnancy 발음듣기 임신 중절 수술을 하다[받다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to terminate a pregnancy 발음"
+    },
+    {
+      "korean": "How far gone are you? 발음듣기 임신한 지 얼마 되셨어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How far gone are you? 발음"
+    },
+    {
+      "korean": "Some foetal malformations cannot be diagnosed until late in pregnancy. 발음듣기 태아 기형 중 일부는 임신 후반이 되어야 진단할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some foetal malformations cannot be diagnosed until late in pregnancy. 발음"
+    }
+  ]
+}

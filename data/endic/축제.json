@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "축제",
+      "hanja": " (祝祭)",
+      "example": {},
+      "meanings": [
+        "festival, festivities, carnival"
+      ]
+    },
+    {
+      "phrase": "축제 때에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on the occasion of a festival"
+      ]
+    },
+    {
+      "phrase": "축제를 지내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "celebrate[keep, observe] a festival"
+      ]
+    },
+    {
+      "phrase": "축제를 벌이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "throw[hold] a festival"
+      ]
+    },
+    {
+      "phrase": "거리 축제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a street festival[carnival]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "festival",
+      "frequency": 3
+    },
+    {
+      "meaning": "feast",
+      "frequency": 3
+    },
+    {
+      "meaning": "carnival",
+      "frequency": 3
+    },
+    {
+      "meaning": "fiesta",
+      "frequency": 0
+    },
+    {
+      "meaning": "-fest",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "축제~ It's a festival~ 듣기 View video Ben : 안녕?나랑 놀래?",
+      "english": "It's a festival~"
+    },
+    {
+      "korean": "[있지? 가요대축제에 있지!] [ITZY? ITZY is at the Song Festival!] View video ITZY : [ITZY? ITZY!(있지?있지!)] EP44. 가요대축제에 있지!",
+      "english": "[ITZY? ITZY is at the Song Festival!]"
+    },
+    {
+      "korean": "행사라든가 축제라든가 그렇죠? Events, festivals, and such, right? 듣기 View video SEVENTEEN : 디노의 디너쇼🤩",
+      "english": "Events, festivals, and such, right?"
+    },
+    {
+      "korean": "[가요대축제 콜라보 무대도 끝이 나고...] [After the collaboration stage...] View video GOT7 : GOT7(갓세븐) HOTLINE #21 (Awards Ver.)",
+      "english": "[After the collaboration stage...]"
+    },
+    {
+      "korean": "'IT'z SUMMER'를 춰요 내일 축제인데? Dance to \"IT'z SUMMER\"? Tomorrow's the festival! 듣기 View video ITZY : 챌💕",
+      "english": "Dance to \"IT'z SUMMER\"? Tomorrow's the festival!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The whole town is in festive mood. 듣기 Add to Wordbook 그 소도시 전체가 축제 분위기이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The whole town is in festive mood. Add to Wordbook"
+    },
+    {
+      "korean": "The wedding was an occasion of great festivity. 듣기 Add to Wordbook 그 결혼식은 크게 축제 기분을 낼 수 있는 행사였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The wedding was an occasion of great festivity. Add to Wordbook"
+    },
+    {
+      "korean": "The town springs into life during the carnival. 듣기 Add to Wordbook 축제 기간이 되면 그 소도시는 갑자기 활기를 띠기 시작한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The town springs into life during the carnival. Add to Wordbook"
+    },
+    {
+      "korean": "I declare this festival open. 듣기 Add to Wordbook 이 축제의 개막을 선언합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I declare this festival open. Add to Wordbook"
+    },
+    {
+      "korean": "There is a local carnival every year. 듣기 Add to Wordbook 매년 지역 축제가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is a local carnival every year. Add to Wordbook"
+    }
+  ]
+}

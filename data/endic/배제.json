@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "배제",
+      "hanja": " (排除)",
+      "example": {},
+      "meanings": [
+        "exclusion, elimination, removal, 배제하다 exclude, eliminate, remove"
+      ]
+    },
+    {
+      "phrase": "배제",
+      "hanja": " (配劑)",
+      "example": {},
+      "meanings": [
+        "a prescription"
+      ]
+    },
+    {
+      "phrase": "배제하다",
+      "hanja": " (排除하다)",
+      "example": {},
+      "meanings": [
+        "exclude, discount, rule out"
+      ]
+    },
+    {
+      "phrase": "…을 배제하고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to the exclusion of..."
+      ]
+    },
+    {
+      "phrase": "정실을 배제하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "set[put] aside all personal considerations"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "exclusion",
+      "frequency": 3
+    },
+    {
+      "meaning": "elimination",
+      "frequency": 3
+    },
+    {
+      "meaning": "rejection",
+      "frequency": 3
+    },
+    {
+      "meaning": "abatement",
+      "frequency": 0
+    },
+    {
+      "meaning": "preclusion",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "고기도 조금.. 그냥 배제 조금 해주세요 고기를... Meat... Please exclude meat a bit. 듣기 View video LEE JIN HYUK : 그냥 와봤어 브이단><",
+      "english": "Meat... Please exclude meat a bit."
+    },
+    {
+      "korean": "[우대표의 골목식당] 아, 그러니까 수익은 배제한 거죠? So, you've taken profits out of the picture. 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.27 세봉이의 상상은 현실이 된다 #1",
+      "english": "So, you've taken profits out of the picture."
+    },
+    {
+      "korean": "그걸 배제한 상태에서요 - 그럼 물만 먹겠다 - 그럼 탄산이 날아간... When we exclude that. - Then just drink water. - Then carbonated water without... 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "When we exclude that. - Then just drink water. - Then carbonated water without..."
+    },
+    {
+      "korean": "나를 아예 가능성에서 배제해 둔 거야? You ruled me out completely? 듣기 View video 콬TV (WHYNOT) : 내가 좋아하는 사람과, 나를 좋아하는 사람ㅣ[리얼하이로맨스(Real Highschool Romance)] EP 15",
+      "english": "You ruled me out completely?"
+    },
+    {
+      "korean": "[미네랄 오일, 향료, 인공색소 등] 11가지나 배제되어 있습니다. [mineral oils, fragrance, artificial coloring, etc] that irritate the skin. 듣기 View video HANABONO : 피부타입별로 있으니 다 드루와! 여름에 사용하기 좋은 토너 7종 추천",
+      "english": "[mineral oils, fragrance, artificial coloring, etc] that irritate the skin."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Police investigating the train derailment have not ruled out sabotage. 듣기 Add to Wordbook 그 기차 탈선 사고를 조사하는 경찰은 사보타주(의 가능성)도 배제하지 않고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police investigating the train derailment have not ruled out sabotage. Add to Wordbook"
+    },
+    {
+      "korean": "the exclusion of robbery as a motive 듣기 Add to Wordbook 강도가 동기가 되었을 가능성을 배제함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the exclusion of robbery as a motive Add to Wordbook"
+    },
+    {
+      "korean": "Try excluding fat from your diet. 듣기 Add to Wordbook 늘 먹는 음식에서 지방을 배제하도록 하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Try excluding fat from your diet. Add to Wordbook"
+    },
+    {
+      "korean": "Don’t cut your parents out of your lives. 듣기 Add to Wordbook 당신들의 생활에서 부모님을 배제하지 마세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Don’t cut your parents out of your lives. Add to Wordbook"
+    },
+    {
+      "korean": "We should not exclude the possibility of negotiation. 듣기 Add to Wordbook 우리는 협상의 가능성을 배제해서는 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We should not exclude the possibility of negotiation. Add to Wordbook"
+    }
+  ]
+}

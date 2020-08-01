@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "예측",
+      "hanja": " (豫測)",
+      "example": {},
+      "meanings": [
+        "[명사] prediction, forecast, [동사] predict, foresee, forecast, (literary) foretell"
+      ]
+    },
+    {
+      "phrase": "미래를 예측하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "predict the future",
+        "anticipate what is to come"
+      ]
+    },
+    {
+      "phrase": "정확하게 예측하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make an accurate estimate[forecast]"
+      ]
+    },
+    {
+      "phrase": "정확한[옳은] 예측",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an accurate[a correct] prediction"
+      ]
+    },
+    {
+      "phrase": "잘못된[근거 없는] 예측",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mistaken[an unfounded] prediction"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "forecast",
+      "frequency": 3
+    },
+    {
+      "meaning": "prediction",
+      "frequency": 3
+    },
+    {
+      "meaning": "anticipation",
+      "frequency": 3
+    },
+    {
+      "meaning": "prognosis",
+      "frequency": 0
+    },
+    {
+      "meaning": "prognostic",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[한층 더 예측 불가능한 미션의 연속!] 있구나! [and the missions become more unpredictable!] There it is! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[and the missions become more unpredictable!] There it is!"
+    },
+    {
+      "korean": "[승자를 예측할 수 없는 팔씨름까지!] 시작! [Arm wrestling] Go! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Arm wrestling] Go!"
+    },
+    {
+      "korean": "[예측불허의 만남은 둘의 마음을 변하게 했을까?] [Will the unexpected date change how they feel?] View video 콬TV (WHYNOT) : 남녀 모두를 당황하게 한 한밤의 충격 고백!ㅣ[리얼하이로맨스S2] EP12",
+      "english": "[Will the unexpected date change how they feel?]"
+    },
+    {
+      "korean": "[그의 예측이 맞을지 지금 함께 보러 가볼까요?] - 달려라! - 방탄! [Shall we go check out how it unfolds?] - RUN! - BTS! 듣기 View video BTS : Run BTS! 2019 - EP.87",
+      "english": "[Shall we go check out how it unfolds?] - RUN! - BTS!"
+    },
+    {
+      "korean": "민기는 예측하기에는? How about yours, REN? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.3",
+      "english": "How about yours, REN?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The government is forecasting an economic recovery. 듣기 Add to Wordbook 정부는 경제 회복을 예측하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government is forecasting an economic recovery. Add to Wordbook"
+    },
+    {
+      "korean": "Try and anticipate what the interviewers will ask. 듣기 Add to Wordbook 면접관들이 무엇을 물어볼지 예측해 보도록 하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Try and anticipate what the interviewers will ask. Add to Wordbook"
+    },
+    {
+      "korean": "Cholesterol level is not a strong predictor of heart disease in women. 듣기 Add to Wordbook 콜레스테롤 수치는 여자들의 심장병에 대한 강한 예측 변수가 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Cholesterol level is not a strong predictor of heart disease in women. Add to Wordbook"
+    },
+    {
+      "korean": "Prices were predictably high. 듣기 Add to Wordbook 물가는 예측하던 대로 높았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prices were predictably high. Add to Wordbook"
+    },
+    {
+      "korean": "Snow is forecast for tomorrow. 듣기 Add to Wordbook 내일은 눈이 내릴 것으로 예측됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Snow is forecast for tomorrow. Add to Wordbook"
+    }
+  ]
+}

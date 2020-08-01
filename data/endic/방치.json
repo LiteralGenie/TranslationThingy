@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "방치",
+      "hanja": " (放置)",
+      "example": {},
+      "meanings": [
+        "leaving alone, negligence, 방치하다 leave[let] ((a thing, a person)) alone, leave ((a matter)) as it is, leave ((a person)) to himself, leave ((a matter)) to chance, neglect"
+      ]
+    },
+    {
+      "phrase": "방치하다",
+      "hanja": " (放置하다)",
+      "example": {},
+      "meanings": [
+        "neglect, leave[let] sb[sth] alone[unattended], leave sth as it is[stands]"
+      ]
+    },
+    {
+      "phrase": "방치된 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a thing left alone"
+      ]
+    },
+    {
+      "phrase": "사태를 방치하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "leave the situation as it is"
+      ]
+    },
+    {
+      "phrase": "부상자를 방치하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "leave an injured person behind"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neglect",
+      "frequency": 1
+    },
+    {
+      "meaning": "neglectedness",
+      "frequency": 0
+    },
+    {
+      "meaning": "방치",
+      "frequency": 0
+    },
+    {
+      "meaning": "neglected",
+      "frequency": 0
+    },
+    {
+      "meaning": "desert 3",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'펀치타임'이 우리 방치 시켜놓고 있는 거 알아? You know \"Punch Time\" is making us stay here? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "You know \"Punch Time\" is making us stay here?"
+    },
+    {
+      "korean": "[살짝 오래 방치된 김치전] 뒤집어요? 뒤집어요? [Left over heat for too long] May I turn it upside down? 듣기 View video BTS : Run BTS! 2020 - EP.103",
+      "english": "[Left over heat for too long] May I turn it upside down?"
+    },
+    {
+      "korean": "방치가 되면 냄새가... When that happens, the smell of it is... 듣기 View video BTS : BTS Live : EAT Jin",
+      "english": "When that happens, the smell of it is..."
+    },
+    {
+      "korean": "[STEP 16, 얼음물에 방치중이던] 바보! [Step 16. Take out noodles from iced water] Idiot! 듣기 View video V PICK! : [V PICK! HOW TO in V] 선율의 마라탕🥘 (HOW TO COOK Sunyoul’s Malatang)",
+      "english": "[Step 16. Take out noodles from iced water] Idiot!"
+    },
+    {
+      "korean": "[방치 is 킹 of 내조] 5시간 동안만 방치해달라고... [Leaving him alone] \"Please leave him for 5 hours\". 듣기 View video 모비딕(Mobidic) : 손흥민 닮은 청담동 셰프가 평가한 최현석 요리의 맛은? <초이가이버> 22회",
+      "english": "[Leaving him alone] \"Please leave him for 5 hours\"."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The place smelled of decay and neglect. 발음듣기 그 장소에서는 부패와 방치의 냄새가 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The place smelled of decay and neglect. 발음"
+    },
+    {
+      "korean": "prisoners thrown in jail and left to rot 발음듣기 감방에 처넣어진 채 썩어 가도록 방치되는 죄수들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "prisoners thrown in jail and left to rot 발음"
+    },
+    {
+      "korean": "The law imposes penalties for the neglect of children. 발음듣기 법률에서는 아동 방치 행위에 대해 벌금을 부과한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The law imposes penalties for the neglect of children. 발음"
+    },
+    {
+      "korean": "The buildings had been neglected for years. 발음듣기 그 건물들은 오랫동안 방치된 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The buildings had been neglected for years. 발음"
+    },
+    {
+      "korean": "All too often the animals die through neglect. 발음듣기 그 동물들이 방치되어 죽는 일이 너무나 흔하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All too often the animals die through neglect. 발음"
+    }
+  ]
+}

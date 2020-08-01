@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "시대",
+      "hanja": " (時代)",
+      "example": {},
+      "meanings": [
+        "time(s), period, epoch, era, age"
+      ]
+    },
+    {
+      "phrase": "동시대",
+      "hanja": " (同時代)",
+      "example": {},
+      "meanings": [
+        "same age[period]"
+      ]
+    },
+    {
+      "phrase": "동시대의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "of the same age[period]",
+        "contemporary"
+      ]
+    },
+    {
+      "phrase": "조선 시대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Joseon Dynasty period[era]"
+      ]
+    },
+    {
+      "phrase": "석기시대",
+      "hanja": " (石器時代)",
+      "example": {},
+      "meanings": [
+        "Stone Age"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "age",
+      "frequency": 3
+    },
+    {
+      "meaning": "period",
+      "frequency": 3
+    },
+    {
+      "meaning": "time",
+      "frequency": 3
+    },
+    {
+      "meaning": "page",
+      "frequency": 3
+    },
+    {
+      "meaning": "era",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그 시대는 어떤 시대에요? What century is it? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "What century is it?"
+    },
+    {
+      "korean": "[뽀로로 시대는 갔어 오빠가 더 좋아] 진짜... [I like you more than Pororo] Really... 듣기 View video V PICK! : [NU'EST] 어 그래 너.. 잘 살았다..! 이날 이때까지 울 망고했으니..! (REN playing with fans)",
+      "english": "[I like you more than Pororo] Really..."
+    },
+    {
+      "korean": "어? '야인시대'? Huh? \"Rustic Period\"? 듣기 View video LEE JIN HYUK : 그냥 와봤어 브이단><",
+      "english": "Huh? \"Rustic Period\"?"
+    },
+    {
+      "korean": "[글로벌 시대를 이끌어갈 스쿨!] [A global leader!] View video 컨버전스티비 (CONS TV) : [커먼스쿨]해성국제컨벤션고등학교 ep.1",
+      "english": "[A global leader!]"
+    },
+    {
+      "korean": "바로~ 소녀시대 'Gee'입니다! Gee - Girls' Generation! 듣기 View video V CREW : [V CREW] 덕후의 보이는 라디오 EP. 05 덕후 시조새 베로 픽! K팝 레전드 해인 '2009년' 최고의 히트곡은? (흥얼거리는 순간 최소 우리 동년배..*개취주위*)",
+      "english": "Gee - Girls' Generation!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an exhibition of costumes down the ages 듣기 Add to Wordbook 모든 시대의 복식 전시회 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an exhibition of costumes down the ages Add to Wordbook"
+    },
+    {
+      "korean": "prehistoric hunters and gatherers 듣기 Add to Wordbook 선사 시대의 수렵인 및 채집인들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "prehistoric hunters and gatherers Add to Wordbook"
+    },
+    {
+      "korean": "an era when honesty was prized above all other virtues 듣기 Add to Wordbook 정직이 다른 모든 미덕보다 소중히 여겨지던 시대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an era when honesty was prized above all other virtues Add to Wordbook"
+    },
+    {
+      "korean": "The exhibition captures the spirit of the age/times. 듣기 Add to Wordbook 그 전시회는 시대정신을 포착해 놓고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The exhibition captures the spirit of the age/times. Add to Wordbook"
+    },
+    {
+      "korean": "The closure of the factory is a retrograde step. 듣기 Add to Wordbook 그 공장 폐쇄는 시대에 역행하는 조치이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The closure of the factory is a retrograde step. Add to Wordbook"
+    }
+  ]
+}

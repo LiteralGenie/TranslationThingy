@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "본성",
+      "hanja": " (本性)",
+      "example": {},
+      "meanings": [
+        "human nature"
+      ]
+    },
+    {
+      "phrase": "본성을 드러내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "show[reveal] one's true colors",
+        "reveal one's true character"
+      ]
+    },
+    {
+      "phrase": "만물의 본성에 대하여",
+      "hanja": " (萬物─本性─)",
+      "example": {},
+      "meanings": [
+        "문학·역사 De Rerum Natura"
+      ]
+    },
+    {
+      "phrase": "과학의 본성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "nature of science"
+      ]
+    },
+    {
+      "phrase": "본성 규정",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "nature provision"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "nature",
+      "frequency": 3
+    },
+    {
+      "meaning": "kind 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "essentiality",
+      "frequency": 0
+    },
+    {
+      "meaning": "esséntial cháracter",
+      "frequency": 0
+    },
+    {
+      "meaning": "somebody’s true character",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이성이 본성을 이겼습니다] - 나도 그럼 그거 - 그렇지 그거 마실까? - 응. [Logic beats the heart] - Then I'll get that too. - Should we drink that? - Yeah. 듣기 View video TWICE : 나연 TV EP.01",
+      "english": "[Logic beats the heart] - Then I'll get that too. - Should we drink that? - Yeah."
+    },
+    {
+      "korean": "인간의 본성이다. That's human nature. 듣기 View video V BOOKS : 김홍신 작가 북토크 생중계, '36.5도로 오래 가는 사랑을 이야기하다'",
+      "english": "That's human nature."
+    },
+    {
+      "korean": "[내 안의 본성] 요즘 꿈틀거려. [My instinct] It's coming up these days. 듣기 View video Big Picture : 빅픽처 ep71_빅픽처의 시작 꾹이&하하의 은밀한 만남1",
+      "english": "[My instinct] It's coming up these days."
+    },
+    {
+      "korean": "원래 본성이었대요! - 본성이 나왔어요. That was Jacob's doing! - Now we see the true side of him. 듣기 View video THE BOYZ : [FULL]더 보이즈 '꽃미남 분식집' 8회 The BOYZ \"Flower Snack\" ep.8",
+      "english": "That was Jacob's doing! - Now we see the true side of him."
+    },
+    {
+      "korean": "'예민보스' -본심 나왔다, 본성 나왔고요. \"Sensitive boss\". - She's herself again. 듣기 View video AKMU : 잘준비방송",
+      "english": "\"Sensitive boss\". - She's herself again."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Such kindness restores your faith in human nature. 듣기 Add to Wordbook 그러한 친절은 인간의 본성에 대한 믿음을 회복하게 해 준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Such kindness restores your faith in human nature. Add to Wordbook"
+    },
+    {
+      "korean": "a keen student of human nature 듣기 Add to Wordbook 인간 본성에 아주 관심이 많은 사람 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a keen student of human nature Add to Wordbook"
+    },
+    {
+      "korean": "universal facts about human nature 듣기 Add to Wordbook 인간 본성에 대한 보편적인 사실들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "universal facts about human nature Add to Wordbook"
+    },
+    {
+      "korean": "the essential goodness of human nature 듣기 Add to Wordbook 인간 본성의 근본적인 선량함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the essential goodness of human nature Add to Wordbook"
+    },
+    {
+      "korean": "an oversimplified view of human nature 듣기 Add to Wordbook 인간 본성에 대한 지나치게 단순화된 견해 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an oversimplified view of human nature Add to Wordbook"
+    }
+  ]
+}

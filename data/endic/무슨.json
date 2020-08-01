@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "무슨",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(의문문에서) what, what kind of, what sort of",
+        "(어떤)",
+        "(반의, 강조)"
+      ]
+    },
+    {
+      "phrase": "무슨 놈의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "what the hell"
+      ]
+    },
+    {
+      "phrase": "무슨 뾰족한 수 있나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is there any good idea?"
+      ]
+    },
+    {
+      "phrase": "무슨 까닭으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "why",
+        "for what reason",
+        "on what ground"
+      ]
+    },
+    {
+      "phrase": "무슨 수를 쓰더라도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by all means",
+        "by fair means or foul",
+        "by hook or by crook"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "some",
+      "frequency": 3
+    },
+    {
+      "meaning": "certain",
+      "frequency": 3
+    },
+    {
+      "meaning": "what",
+      "frequency": 3
+    },
+    {
+      "meaning": "NE",
+      "frequency": 0
+    },
+    {
+      "meaning": "what 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무슨 일이야? What's going on? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "What's going on?"
+    },
+    {
+      "korean": "무슨 춘... Something like that... 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Something like that..."
+    },
+    {
+      "korean": "이게 무슨 소리야? What's all this? 듣기 View video BLACKPINK : BLACKPINK - BLACKPINK'S 2020 WELCOMING COLLECTION PREVIEW",
+      "english": "What's all this?"
+    },
+    {
+      "korean": "무슨 느낌이지? What feeling is it? 듣기 View video AB6IX : 로센키🌹",
+      "english": "What feeling is it?"
+    },
+    {
+      "korean": "무슨 최초 공개? First time about what? 듣기 View video TWICE : TWICE TV “34th Golden Disc Awards DAY 2”",
+      "english": "First time about what?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Let me know if you run into any snags. 듣기 Add to Wordbook 무슨 문제가 있으시면 제게 알려 주세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let me know if you run into any snags. Add to Wordbook"
+    },
+    {
+      "korean": "the sudden realization of what she had done 듣기 Add to Wordbook (그녀가) 갑자기 자신이 무슨 짓을 했는지를 깨달음 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the sudden realization of what she had done Add to Wordbook"
+    },
+    {
+      "korean": "He had no inkling of what was going on. 듣기 Add to Wordbook 그는 무슨 일이 벌어지고 있는지 전혀 눈치채지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had no inkling of what was going on. Add to Wordbook"
+    },
+    {
+      "korean": "She was dithering over what to wear. 듣기 Add to Wordbook 그녀는 무슨 옷을 입을 건지를 두고 머뭇거리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was dithering over what to wear. Add to Wordbook"
+    },
+    {
+      "korean": "He was checked for any signs of haemorrhage. 듣기 Add to Wordbook 그는 무슨 출혈의 흔적이 있는지 검사를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was checked for any signs of haemorrhage. Add to Wordbook"
+    }
+  ]
+}

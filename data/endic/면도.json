@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "면도",
+      "hanja": " (面刀)",
+      "example": {},
+      "meanings": [
+        "[명사] shave, shaving, [동사] shave"
+      ]
+    },
+    {
+      "phrase": "면도날",
+      "hanja": " (面刀날)",
+      "example": {},
+      "meanings": [
+        "razor blade"
+      ]
+    },
+    {
+      "phrase": "무딘 면도날",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a dull razor blade"
+      ]
+    },
+    {
+      "phrase": "면도 크림",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shaving cream[foam]"
+      ]
+    },
+    {
+      "phrase": "면도칼",
+      "hanja": " (面刀칼)",
+      "example": {},
+      "meanings": [
+        "razor"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shave",
+      "frequency": 2
+    },
+    {
+      "meaning": "shaving",
+      "frequency": 1
+    },
+    {
+      "meaning": "a pair of swords",
+      "frequency": 0
+    },
+    {
+      "meaning": "razor",
+      "frequency": 1
+    },
+    {
+      "meaning": "razor blade",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "디노 면도 가능한가요? DINO, can you shave? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "DINO, can you shave?"
+    },
+    {
+      "korean": "\"조유리 면도해야겠다\" 근데 뭔 소리지? \"YU RI should shave\". What does this mean? 듣기 View video IZ*ONE : 🍯💧즈 왔어용~☔️",
+      "english": "\"YU RI should shave\". What does this mean?"
+    },
+    {
+      "korean": "\"면도 쫄면 좋아하지?\" \"You like Jjolmyun, right?\" 듣기 View video NCT : 삼대삼💚",
+      "english": "\"You like Jjolmyun, right?\""
+    },
+    {
+      "korean": "비서님 혹시 회사에서 면도해요? Do you shave here? 듣기 View video Hyomstore : ep8. New사무실 출근! MD들의 제품 섬네일 촬영",
+      "english": "Do you shave here?"
+    },
+    {
+      "korean": "면도 벨벳인가? 레드 벨벳? Is the material velvet? Red velvet? 듣기 View video Stray Kids : 9.15 릭스FM",
+      "english": "Is the material velvet? Red velvet?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He plugged his razor in to recharge it. 발음듣기 그는 면도기를 충전하기 위해 플러그를 꽂았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He plugged his razor in to recharge it. 발음"
+    },
+    {
+      "korean": "I lathered my face and started to shave. 발음듣기 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I lathered my face and started to shave. 발음"
+    },
+    {
+      "korean": "I need a shave. 발음듣기 난 면도를 해야 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I need a shave. 발음"
+    },
+    {
+      "korean": "The shaver will run off batteries or mains. 발음듣기 그 (전기) 면도기는 배터리로도 쓸 수 있고 전원에 꽂아서도 쓰 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shaver will run off batteries or mains. 발음"
+    },
+    {
+      "korean": "He nicked himself while shaving. 발음듣기 그는 면도를 하다가 얼굴을 베였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He nicked himself while shaving. 발음"
+    }
+  ]
+}

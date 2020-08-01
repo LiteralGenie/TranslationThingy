@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "타격",
+      "hanja": " (打擊)",
+      "example": {},
+      "meanings": [
+        "(물리적) blow, hit, knock",
+        "(손해, 피해) blow, damage",
+        "(야구) batting"
+      ]
+    },
+    {
+      "phrase": "타격(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 strike"
+      ]
+    },
+    {
+      "phrase": "타격을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get a blow",
+        "be hit",
+        "suffer a blow"
+      ]
+    },
+    {
+      "phrase": "타격을 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "strike[deal] a blow",
+        "give a blow"
+      ]
+    },
+    {
+      "phrase": "큰 타격을 입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suffer greatly"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "strike",
+      "frequency": 3
+    },
+    {
+      "meaning": "stroke",
+      "frequency": 3
+    },
+    {
+      "meaning": "crack",
+      "frequency": 3
+    },
+    {
+      "meaning": "hit",
+      "frequency": 3
+    },
+    {
+      "meaning": "knock",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[타격이 큼] - 그럼 뭐... - 가져다줄게 - 그냥 이거 내려놓으면... [Devastated] - Then... - I'll bring it for you. - If I just put it down here... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Devastated] - Then... - I'll bring it for you. - If I just put it down here..."
+    },
+    {
+      "korean": "[타격감 제로] \"민초 좋아하는 사람 별로 없던데\" 진짜로? [Not good at guessing] \"Not many like mint chocolate\". Really? 듣기 View video V PICK! : [Stray Kids] 누군가 민초를 묻거든 고갤 들어 황현진을 보게 하라🌿🍫 (HYUNJIN making Mint choco milk)",
+      "english": "[Not good at guessing] \"Not many like mint chocolate\". Really?"
+    },
+    {
+      "korean": "놉! 타격을 받지 않지. Nope! I don't get hit. 듣기 View video fromis_9 : 지선이와 채영이의 이야기보따리🐿🐑",
+      "english": "Nope! I don't get hit."
+    },
+    {
+      "korean": "[비주얼로 이미 심장 타격!] [Already perfect visual!] View video BTS : Run BTS! 2019 - EP.58",
+      "english": "[Already perfect visual!]"
+    },
+    {
+      "korean": "[타격감 0] 이거 돼요? [Sense of hitting 0] Does this work? 듣기 View video V PICK! : [TWICE] 🍓딸기곤듀님🍓의 딸기농장에 놀러온 쯔뭉(feat.강철얼음) (Strawberry princess Chaeyoung’s strawberry farm)",
+      "english": "[Sense of hitting 0] Does this work?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was knocked senseless by the blow. 듣기 Add to Wordbook 그는 그렇게 맞고[그 타격에] 의식을 잃었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was knocked senseless by the blow. Add to Wordbook"
+    },
+    {
+      "korean": "His glasses had been knocked askew by the blow. 듣기 Add to Wordbook 그 타격에 그의 안경이 삐뚜름해져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His glasses had been knocked askew by the blow. Add to Wordbook"
+    },
+    {
+      "korean": "She tensed her muscles in anticipation of the blow. 듣기 Add to Wordbook 그녀는 그 타격을 예상하고 근육을 긴장시켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tensed her muscles in anticipation of the blow. Add to Wordbook"
+    },
+    {
+      "korean": "The police officer fended off the blows with his riot shield. 듣기 Add to Wordbook 그 경찰관은 시위 진압용 방패로 그 타격들을 막았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police officer fended off the blows with his riot shield. Add to Wordbook"
+    },
+    {
+      "korean": "The blow knocked her out. 듣기 Add to Wordbook 그 타격에[그것을 맞고] 그녀는 의식을 잃었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The blow knocked her out. Add to Wordbook"
+    }
+  ]
+}

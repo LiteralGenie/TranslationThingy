@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "해프닝",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "happening",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (흔히 이상한) 일[사건]",
+        "Noun (계획에 없던 예술적) 행위[공연]",
+        "Adjective 비격식 (장소가) 신나는[멋진]"
+      ]
+    },
+    {
+      "phrase": "happen",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (특히 계획하지 않은 일이) 있다[발생하다/벌어지다]",
+        "Verb (무엇의 결과로) 일어나다[되다]",
+        "Verb 우연히[마침] …하다[이다]"
+      ]
+    },
+    {
+      "phrase": "Happening",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chat (Abbr.) HPNIN."
+      ]
+    },
+    {
+      "phrase": "해프닝을 벌이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a scene"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "이봐, 무슨 일이야?",
+      "frequency": 0
+    },
+    {
+      "meaning": "내가 왜 이러지?",
+      "frequency": 0
+    },
+    {
+      "meaning": "사고를 미연에 방지하다",
+      "frequency": 0
+    },
+    {
+      "meaning": "일상사",
+      "frequency": 0
+    },
+    {
+      "meaning": "뜻밖의 일",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[계단 착오로 생긴 해프닝] 깜빡이 잘못 켰죠? [A happening caused by miscalculation] You miscalculated, right? 듣기 View video BTS : Run BTS! 2019 - EP.68",
+      "english": "[A happening caused by miscalculation] You miscalculated, right?"
+    },
+    {
+      "korean": "뭐가 해프닝 생길 거죠? 6시에? What's happening at 6pm? 듣기 View video NCT DREAM : 깜짝 #조이 #JOY 🎄🎄",
+      "english": "What's happening at 6pm?"
+    },
+    {
+      "korean": "아무튼 그런 해프닝이 이었죠. Anyway, there was that incident. 듣기 View video NCT : Stop,💚Stop. Baby Don't Stop💚",
+      "english": "Anyway, there was that incident."
+    },
+    {
+      "korean": "어떤 해프닝이 있었죠. - 그렇죠. And, something happened. - Right. 듣기 View video V COOKIE : [REPLAY] MONSTA X MINHYUK & KIHYUN's LieV - 몬스타엑스 민혁&기현의 눕방라이브!",
+      "english": "And, something happened. - Right."
+    },
+    {
+      "korean": "아니요, 그라탕은 단순히 해프닝이었던 걸로. No. It was a simple happening. 듣기 View video OH MY GIRL : 저녁은 시즌그라탕~♡",
+      "english": "No. It was a simple happening."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What happened was just a simple incident. 발음듣기 그 사건은 단순한 해프닝에 불과했다 Neungyule",
+      "english": "What happened was just a simple incident. 발음"
+    },
+    {
+      "korean": "Funny bloopers often occur during live broadcasts. 발음듣기 생방송 중에는 재미있는 해프닝이 종종 일어난다 Neungyule",
+      "english": "Funny bloopers often occur during live broadcasts. 발음"
+    },
+    {
+      "korean": "The musicians had a happening at a friend's house by playing music together for fun. 발음듣기 음악가들이 친구 집에서 재미로 함게 음악을 연주하는 해프닝을 연출했다. YBM All in All English-Korean Dictionary",
+      "english": "The musicians had a happening at a friend's house by playing music together for fun. 발음"
+    },
+    {
+      "korean": "What is happening is, of course, appalling on a human level. 발음듣기 무엇이 인간적인 면에서 물론 끔찍한 해프닝이냐? User translation Inaccurate information may be included due to the users' self-traslation. The Milky Way(2byp****) Web Collection",
+      "english": "What is happening is, of course, appalling on a human level. 발음"
+    },
+    {
+      "korean": "What do you mean, this is happening? 발음듣기 무슨 뜻이니, 이게 해프닝이라고? User translation Inaccurate information may be included due to the users' self-traslation. 낮달(wksz****) Web Collection",
+      "english": "What do you mean, this is happening? 발음"
+    }
+  ]
+}

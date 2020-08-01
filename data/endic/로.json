@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(수단, 방법) with",
+        "(수단, 방법) by",
+        "(수단, 방법) on"
+      ]
+    },
+    {
+      "phrase": "-로",
+      "hanja": " (路)",
+      "example": {},
+      "meanings": [
+        "a route, a street, a road, an avenue"
+      ]
+    },
+    {
+      "phrase": "-로",
+      "hanja": " (爐)",
+      "example": {},
+      "meanings": [
+        "Affix -ro"
+      ]
+    },
+    {
+      "phrase": "roar",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (큰 짐승 등이) 으르렁거리다[포효하다], (크고 깊은 소리로) 울리다[웅웅거리다]",
+        "Verb 고함치다, 함성[아우성]을 지르다",
+        "Noun (특히 사자의) 으르렁거림[포효], 함성, 폭소"
+      ]
+    },
+    {
+      "phrase": "low",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective (높이위치 등이) 낮은 (↔high)",
+        "Adjective 바닥 가까이의, 아랫부분의 (↔high)",
+        "Adverb 낮게, 아래로"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "from",
+      "frequency": 3
+    },
+    {
+      "meaning": "at",
+      "frequency": 3
+    },
+    {
+      "meaning": "to",
+      "frequency": 3
+    },
+    {
+      "meaning": "round",
+      "frequency": 3
+    },
+    {
+      "meaning": "with",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "주드 로 아니야, 주드 로?",
+      "english": "Isn't Jude Law French? Jude Law?"
+    },
+    {
+      "korean": "주드 로. 한때 좋아했었는데...",
+      "english": "I used to like Jude Law."
+    },
+    {
+      "korean": "주드 로 한때 멋있었는데. - 주드 로가...",
+      "english": "He used to look great. - Jude Law."
+    },
+    {
+      "korean": "그렇죠. 시에나 밀러. 시에나 밀러가 있었죠. - 한때 주드 로의 연인.",
+      "english": "Right. Sienna Miller. - She was Jude Law's girl."
+    },
+    {
+      "korean": "사람은 다 가진 거를 잊어. - 저 그다음부터 주드 로 나오는 영화 따위는 안 봐요.",
+      "english": "People forget what they value. - So I don't watch his movies."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "클리어 카드 시스템 개발자인 스티븐 브릴 씨는 코트 TV 및 <아메리칸 로여>지(誌)의 창립자이기도 합니다.",
+      "english": "Clear is the brainchild of this man, Steven Brill, founder of Court TV and American Lawyer magazine."
+    },
+    {
+      "korean": "다행히 없어요. 나무는 새벽 5시쯤에 쓰러졌는데 선 로를 정리하는데 2시간 이상 걸렸지 뭐예요.",
+      "english": "Luckily no. The tree fell over at around five in the morning, but it took them more than two hours to get the track cleared."
+    },
+    {
+      "korean": "전 세계의 국가들은 미국인들이 허리케인 카트리나로부터 복구하는 것을 돕기위 해 돈과 다른 원조들을 약속했다.",
+      "english": "Countries from around the world have pledged money or other assistance to help Americans recover from Hurricane Katrina."
+    },
+    {
+      "korean": "배우인 조니 뎁과 콜린 패럴 그리고 쥬드 로가 레저의 마지막 영화를 완성하도록 돕기 위해 (히스 레저 역을) 이어받는데 (대신하는데) 동의했다.",
+      "english": "Actors Johnny Depp, Colin Farrell, and Jude Law have agreed to step in to help complete Ledger's final film."
+    },
+    {
+      "korean": "세계 최고 강대국이 최근 수년내 최악의 자연 재해들중 하나인 허리케인 카트리나로부터 복구하는데 애쓰고 있다.",
+      "english": "The most powerful nation in the world is struggling to recover from Hurricane Katrina, one of the worst natural disasters in recent years."
+    }
+  ]
+}

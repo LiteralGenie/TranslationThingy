@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "재주",
+      "hanja": " (才―)",
+      "example": {},
+      "meanings": [
+        "talent, skill, gift, (informal) knack"
+      ]
+    },
+    {
+      "phrase": "재주를 넘다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to do a handspring"
+      ]
+    },
+    {
+      "phrase": "재주는 곰이 넘고 돈은 주인이 받는다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "A bear does a handspring and its owner takes the money, One beats the bush and another catches the birds"
+      ]
+    },
+    {
+      "phrase": "손재주",
+      "hanja": " (―才―)",
+      "example": {},
+      "meanings": [
+        "dexterity"
+      ]
+    },
+    {
+      "phrase": "손재주가 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be dexterous",
+        "be skillful with one's hands",
+        "be deft at (doing)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gift",
+      "frequency": 2
+    },
+    {
+      "meaning": "dexterity",
+      "frequency": 1
+    },
+    {
+      "meaning": "talent",
+      "frequency": 1
+    },
+    {
+      "meaning": "accomplishment",
+      "frequency": 1
+    },
+    {
+      "meaning": "knack",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[재주의 이유는 아무도 모름...] 야 왜 재주를 부려? Why are you performing? 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "Why are you performing?"
+    },
+    {
+      "korean": "[약 올리는 재주가 있는 쩨알이] 아 짜증나! Oh, how annoying! 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "Oh, how annoying!"
+    },
+    {
+      "korean": "[이번엔 망고 재주 타임] 이게 위압감이... This sense of pressure... 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "This sense of pressure..."
+    },
+    {
+      "korean": "좀 재주실래요? Can you measure it? 듣기 View video HA SUNG WOON : 구르미의 TMI",
+      "english": "Can you measure it?"
+    },
+    {
+      "korean": "한번 재주실래요? Can you measure it? 듣기 View video HA SUNG WOON : 구르미의 TMI",
+      "english": "Can you measure it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Drawing and singing were among her many accomplishments. 발음듣기 그림과 노래도 그녀가 지닌 많은 재주에 속했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Drawing and singing were among her many accomplishments. 발음"
+    },
+    {
+      "korean": "a poet of rare accomplishment 발음듣기 드문 재주를 지닌 시인 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a poet of rare accomplishment 발음"
+    },
+    {
+      "korean": "He is a great talent. 발음듣기 그는 재주[재능]가 뛰어난 사람이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is a great talent. 발음"
+    },
+    {
+      "korean": "He’s got a real knack for making money. 발음듣기 그는 정말 돈 버는 데 재주가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s got a real knack for making money. 발음"
+    },
+    {
+      "korean": "That was no mean feat. 발음듣기 그것은 하찮은 재주가 아니었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That was no mean feat. 발음"
+    }
+  ]
+}

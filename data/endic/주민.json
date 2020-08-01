@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "주민",
+      "hanja": " (住民)",
+      "example": {},
+      "meanings": [
+        "(local) resident, (거주자) inhabitant"
+      ]
+    },
+    {
+      "phrase": "주민등록증",
+      "hanja": " (住民登錄證)",
+      "example": {},
+      "meanings": [
+        "ID (card), identification card, identity card"
+      ]
+    },
+    {
+      "phrase": "주민등록번호",
+      "hanja": " (住民登錄番號)",
+      "example": {},
+      "meanings": [
+        "resident registration number, (Am) Social Security number, (Brit) ID card number"
+      ]
+    },
+    {
+      "phrase": "주민소환제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "recall"
+      ]
+    },
+    {
+      "phrase": "주민등록증 사본",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a copy of the identification card"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "local",
+      "frequency": 3
+    },
+    {
+      "meaning": "community",
+      "frequency": 3
+    },
+    {
+      "meaning": "citizen",
+      "frequency": 3
+    },
+    {
+      "meaning": "resident",
+      "frequency": 3
+    },
+    {
+      "meaning": "population",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[가끔 있는 일] 주민들이 소음 항의 오셨나 보다... [It happens sometimes] it must be my neighbor. We were too loud. 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[It happens sometimes] it must be my neighbor. We were too loud."
+    },
+    {
+      "korean": "주민등록번호... 아니, 주민등록증 좀 확인해봐도 될까요? By any chance check your ID? 듣기 View video NCT : 안녕하세요 시즈니!! 제노에요진짜 잠깐 하려고 하는데.. 제노가 보고싶으면 들어오세요!! 이제 시작합니다",
+      "english": "By any chance check your ID?"
+    },
+    {
+      "korean": "인천 주민이죠! Yes, she's from Incheon. 듣기 View video V PICK! : [1년 전 오늘의 (G)I-DLE] 보이니이?!! 탄생부터 퀸이었던 이 아름다운 투샷..👍 (Soyeon&Miyeon’s V a year ago)",
+      "english": "Yes, she's from Incheon."
+    },
+    {
+      "korean": "나는... - 이웃 주민이야! I... - I am your neighbor! 듣기 View video ASTRO : [ASTRO PLAY] I 💜 Bangkok",
+      "english": "I... - I am your neighbor!"
+    },
+    {
+      "korean": "근데 우리 주민 신고 들어오는 거 아니야? What if our neighbors report us for making noises? 듣기 View video GFRIEND : 🥺",
+      "english": "What if our neighbors report us for making noises?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to draw the ire of local residents 듣기 Add to Wordbook 지역 주민들의 분노를 자아내다[불러일으키다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to draw the ire of local residents Add to Wordbook"
+    },
+    {
+      "korean": "scenes from history enacted by local residents 듣기 Add to Wordbook 지역 주민들이 재연해 보인 역사 속 장면들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "scenes from history enacted by local residents Add to Wordbook"
+    },
+    {
+      "korean": "We were helped ashore by local people. 듣기 Add to Wordbook 우리는 지역 주민들의 안내를 받아 상륙했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were helped ashore by local people. Add to Wordbook"
+    },
+    {
+      "korean": "to arouse/raise/provoke the ire of local residents 듣기 Add to Wordbook 지역 주민들의 분노를 불러일으키다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to arouse/raise/provoke the ire of local residents Add to Wordbook"
+    },
+    {
+      "korean": "The whole community was aroused by the crime. 듣기 Add to Wordbook 그 범죄 행위에 전 지역 주민이 각성을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The whole community was aroused by the crime. Add to Wordbook"
+    }
+  ]
+}

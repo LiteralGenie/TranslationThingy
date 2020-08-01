@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "지도",
+      "hanja": " (地圖)",
+      "example": {},
+      "meanings": [
+        "map, (해도, 성도) chart, (도시 등의) plan"
+      ]
+    },
+    {
+      "phrase": "지도",
+      "hanja": " (指導)",
+      "example": {},
+      "meanings": [
+        "guidance (on), (formal) instruction, (스포츠) coaching, guide (sb through sth), (가르치다) teach, (formal) tutor, (formal) instruct, (스포츠) coach"
+      ]
+    },
+    {
+      "phrase": "지도/도표제작 및 측지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 mapping, charting, and geodesy (MC&G)"
+      ]
+    },
+    {
+      "phrase": "지도 교수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an adviser",
+        "a tutor"
+      ]
+    },
+    {
+      "phrase": "항공 지도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an air map",
+        "an aerial chart"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "plan",
+      "frequency": 3
+    },
+    {
+      "meaning": "map",
+      "frequency": 3
+    },
+    {
+      "meaning": "instruction",
+      "frequency": 3
+    },
+    {
+      "meaning": "guidance",
+      "frequency": 3
+    },
+    {
+      "meaning": "tutelage",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네 MBTI 어떻게 하는 건 지도 몰라요 죄송해요 뭐 질문지가 있는 건가? I don't know how to do it though...Sorry... Is there a questionnaire? 듣기 View video NCT : Jisung day💚💚",
+      "english": "I don't know how to do it though...Sorry... Is there a questionnaire?"
+    },
+    {
+      "korean": "갑자기 근데 난 안 먹을 거야 - 아니 그 지도에... - 진짜 짜증 났어~ but then she said she wasn't going to eat it. - On the map... - So it was annoying! 듣기 View video GFRIEND : 🦊🐥🐰",
+      "english": "but then she said she wasn't going to eat it. - On the map... - So it was annoying!"
+    },
+    {
+      "korean": "[뭐라고?] 지도 이상해? [What?] The map is weird? 듣기 View video Stray Kids : 3팀3색 스트레이 키즈가 런던 거리에 뜬 이유는?｜Stray Kids: 제9구역 시즌5 EP.01",
+      "english": "[What?] The map is weird?"
+    },
+    {
+      "korean": "[자신감은 있으나 지도를 조금 어려워하는 편] 그런 거야? [He's confident but he can't read the map] Really? 듣기 View video Stray Kids : 3팀3색 스트레이 키즈가 런던 거리에 뜬 이유는?｜Stray Kids: 제9구역 시즌5 EP.01",
+      "english": "[He's confident but he can't read the map] Really?"
+    },
+    {
+      "korean": "고마워 벌써 만난지도 1년이 됐어~ 고마워! Thank you! It's already been a year since we've met... Thank you! 듣기 View video THE BOYZ : white (feat. 막내즈) #2",
+      "english": "Thank you! It's already been a year since we've met... Thank you!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He aspired to be their next leader. 듣기 Add to Wordbook 그는 그들의 차기 지도자가 되기를 열망했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He aspired to be their next leader. Add to Wordbook"
+    },
+    {
+      "korean": "mass demonstrations in support of the exiled leader 듣기 Add to Wordbook 추방된 지도자를 지지하는 대규모 시위 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "mass demonstrations in support of the exiled leader Add to Wordbook"
+    },
+    {
+      "korean": "She has coached hundreds of young singers. 듣기 Add to Wordbook 그녀는 수백 명의 젊은 가수들을 지도해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She has coached hundreds of young singers. Add to Wordbook"
+    },
+    {
+      "korean": "an unexplored region that has not yet been mapped 듣기 Add to Wordbook 아직 지도가 만들어지지 않은 미탐험 지역 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an unexplored region that has not yet been mapped Add to Wordbook"
+    },
+    {
+      "korean": "The new leader hopes to unify the country. 듣기 Add to Wordbook 새 지도자는 국가를 통합시키기를 희망한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new leader hopes to unify the country. Add to Wordbook"
+    }
+  ]
+}

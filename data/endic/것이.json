@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사물) thing, (대명사적) one",
+        "(사람을 낮추는 말)",
+        "(소유물)"
+      ]
+    },
+    {
+      "phrase": "새것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "new one, new thing"
+      ]
+    },
+    {
+      "phrase": "남은 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remnants",
+        "leftovers",
+        "remainders"
+      ]
+    },
+    {
+      "phrase": "나의 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mine"
+      ]
+    },
+    {
+      "phrase": "어느 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "which one",
+        "which"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "will",
+      "frequency": 3
+    },
+    {
+      "meaning": "seem",
+      "frequency": 3
+    },
+    {
+      "meaning": "everything",
+      "frequency": 3
+    },
+    {
+      "meaning": "would",
+      "frequency": 3
+    },
+    {
+      "meaning": "stuff",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "먹는 것, 자는 것, 운동하는 것, 이 3가지가 균형있게 이뤄져야 돼요. Food, sleep, exercise, these three should be balanced. 듣기 View video V Beauty : 데이지랑 집에서 하는 PT로 살빼자! Home PT for diet",
+      "english": "Food, sleep, exercise, these three should be balanced."
+    },
+    {
+      "korean": "팥빙수에도 인절미가 가득 들어있는 것이 바로 이 가게의 콘셉트입니다. So even its bingsu is filled with injeolmi. 듣기 View video KIM SO JUNG : <김소정> 더위가 가기 전에 빙수를 먹어봅시다",
+      "english": "So even its bingsu is filled with injeolmi."
+    },
+    {
+      "korean": "저렴한 제품 중에 촉촉한 것이 좋으시면 이 제품이 좋습니다. If you like moist one among cheap products, this one is good. 듣기 View video V Beauty : 밤비걸, 여름에 쓰기 좋은 파운데이션 추천! Summer Foundations",
+      "english": "If you like moist one among cheap products, this one is good."
+    },
+    {
+      "korean": "여기 있는 음식이 맛없다는 것이 아니라 이 맛을 우리가 오랜만에 느껴서 맛있는 거예요. We're not saying that the food here is bad. It's good because it's been a long time. 듣기 View video Apink : 나은&하영의 오이시이로드🍱2",
+      "english": "We're not saying that the food here is bad. It's good because it's been a long time."
+    },
+    {
+      "korean": "오늘 바른 것이 바로 이 제품입니다. 어제도 이것을 발랐어요. 여기 코 부분이 지워졌네. This is the product I used today. I used it yesterday, too. The nose part is a bit worn out. 듣기 View video V Beauty : 밤비걸, 여름에 쓰기 좋은 파운데이션 추천! Summer Foundations",
+      "english": "This is the product I used today. I used it yesterday, too. The nose part is a bit worn out."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Starting early and working long hours is par for the course in this job. 듣기 Add to Wordbook 일찍 출근해서 장시간 근무하는 것이 이 일[직장]에서는 보통이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Starting early and working long hours is par for the course in this job. Add to Wordbook"
+    },
+    {
+      "korean": "In my opinion, the way to solve this problem is to completely redo the calculation. 듣기 Add to Wordbook 제 생각에는, 계산을 완전히 다시 하는 것이 이 문제의 해결 방안입니다. DARAKWON",
+      "english": "In my opinion, the way to solve this problem is to completely redo the calculation. Add to Wordbook"
+    },
+    {
+      "korean": "I guess my playing golf complements my work interests on the basis that it helps me to network with people in the same field. 듣기 Add to Wordbook 제 생각에 제가 골프를 치는 것이 이 분야의 인맥을 넓히는 데 도움이 되는 것 같습니다. DARAKWON",
+      "english": "I guess my playing golf complements my work interests on the basis that it helps me to network with people in the same field. Add to Wordbook"
+    },
+    {
+      "korean": "Serving the food with a vile taste degraded the restaurant's reputation. 듣기 Add to Wordbook 몹시 불쾌한 맛의 음식을 제공한 것이 이 식당의 명성을 떨어뜨렸다. 절대어휘 5100",
+      "english": "Serving the food with a vile taste degraded the restaurant's reputation. Add to Wordbook"
+    },
+    {
+      "korean": "To die for an idea; it is unquestionably noble. But how much nobler it would be if men died for ideas that were true! (H. L. Mencken) 듣기 Add to Wordbook 하나의 사상을 위해 목숨을 바치는 것, 이는 물론 숭고한 일이다. 그러나 진실된 사상을 위해 목숨을 바친다면 얼마나 더 숭고할까. (헨리 루이스 멩켄, 생각명언) 명언/속담",
+      "english": "To die for an idea; it is unquestionably noble. But how much nobler it would be if men died for ideas that were true! (H. L. Mencken) Add to Wordbook"
+    }
+  ]
+}

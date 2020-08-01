@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "공중",
+      "hanja": " (空中)",
+      "example": {},
+      "meanings": [
+        "(허공) the air, midair",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "공중",
+      "hanja": " (公衆)",
+      "example": {},
+      "meanings": [
+        "the public"
+      ]
+    },
+    {
+      "phrase": "공중에 뜨다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "float on air"
+      ]
+    },
+    {
+      "phrase": "공중에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the air[sky]",
+        "in midair",
+        "in space"
+      ]
+    },
+    {
+      "phrase": "공중전화",
+      "hanja": " (公衆電話)",
+      "example": {},
+      "meanings": [
+        "public (tele)phone, pay phone"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "air",
+      "frequency": 3
+    },
+    {
+      "meaning": "mid-air",
+      "frequency": 0
+    },
+    {
+      "meaning": "midair",
+      "frequency": 0
+    },
+    {
+      "meaning": "수송형태",
+      "frequency": 0
+    },
+    {
+      "meaning": "juggle",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "공중. In the air. 듣기 View video KNK : 지금 크나큰(KNK)은?",
+      "english": "In the air."
+    },
+    {
+      "korean": "공중에 떠 있는 거 보이시죠? Can you see that it is floating? 듣기 View video TOMORROW X TOGETHER : 연준&범규 : 뉴공작시간",
+      "english": "Can you see that it is floating?"
+    },
+    {
+      "korean": "우산이 공중부양을 하고 있어요 지금 그렇죠? The umbrella is floating in the air. Can you see? 듣기 View video PARK JI HOON : 박지훈의 [360] UNBOXING (Feat. 응원봉 커스텀)",
+      "english": "The umbrella is floating in the air. Can you see?"
+    },
+    {
+      "korean": "원래 발차기 하는 안무가 공중에서 차는 거였잖아요 - 그래! The kicking dance move was supposed to be done in the air. - Yeah! 듣기 View video V COOKIE : [Full]ONEUS X LieV - 원어스의 눕방라이브!",
+      "english": "The kicking dance move was supposed to be done in the air. - Yeah!"
+    },
+    {
+      "korean": "공중부양! Floating in air!! 듣기 View video PENTAGON : 성수동 M.I.C",
+      "english": "Floating in air!!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "aerial regions 듣기 Add to Wordbook 공중. Friendict Level English-Korean Dictionary",
+      "english": "aerial regions Add to Wordbook"
+    },
+    {
+      "korean": "The ball looped high up in the air. 듣기 Add to Wordbook 그 공이 고리 모양을 그리며 공중으로 높이 올라갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The ball looped high up in the air. Add to Wordbook"
+    },
+    {
+      "korean": "The volcano spurted clouds of steam and ash high into the air. 듣기 Add to Wordbook 그 화산은 구름 같은 증기와 재를 공중으로 높이 분출했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The volcano spurted clouds of steam and ash high into the air. Add to Wordbook"
+    },
+    {
+      "korean": "Loud screams rent the air. 듣기 Add to Wordbook 큰 소리가 공중을 갈랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Loud screams rent the air. Add to Wordbook"
+    },
+    {
+      "korean": "to take a flying leap into the air 듣기 Add to Wordbook 도움닫기를 하여 공중으로 높이 뛰어 오르다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to take a flying leap into the air Add to Wordbook"
+    }
+  ]
+}

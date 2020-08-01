@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "최소",
+      "hanja": " (最小)",
+      "example": {},
+      "meanings": [
+        "(가장 작거나 낮음) (크기) the smallest, (수, 정도) minimum"
+      ]
+    },
+    {
+      "phrase": "최소",
+      "hanja": " (最少)",
+      "example": {},
+      "meanings": [
+        "(양이 가장 적음) the smallest, the lowest, minimum"
+      ]
+    },
+    {
+      "phrase": "최소공배수",
+      "hanja": " (最小公倍數)",
+      "example": {},
+      "meanings": [
+        "the least[lowest] common multiple ((abb.)LCM)"
+      ]
+    },
+    {
+      "phrase": "최소 한도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the minimum[bottommost]"
+      ]
+    },
+    {
+      "phrase": "최소한도로 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep[hold] to a minimum",
+        "minimize",
+        "reduce to a[the] minimum"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "least",
+      "frequency": 3
+    },
+    {
+      "meaning": "min.",
+      "frequency": 0
+    },
+    {
+      "meaning": "leastest",
+      "frequency": 0
+    },
+    {
+      "meaning": "maximal minor",
+      "frequency": 0
+    },
+    {
+      "meaning": "minor-minimal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "적어도 진짜 최소 2년? I think it will take at least two years? 듣기 View video IU : [Replay] [IU] Comeback VLIVE",
+      "english": "I think it will take at least two years?"
+    },
+    {
+      "korean": "[최소 관심법] 그래서 가을을 고를 거지? [Reading her mind] So, will you choose autumn? 듣기 View video OSEN : MAMAMOO 마마무의 선택은? 노래 vs 춤 #스타로드 06",
+      "english": "[Reading her mind] So, will you choose autumn?"
+    },
+    {
+      "korean": "그랬으니까 뭐 제가 봤을 때 최소 그래도 한... - 2병? So, I think I drank at least... - 2 bottles? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.17 늉이들의 Good Bye 2019 #1",
+      "english": "So, I think I drank at least... - 2 bottles?"
+    },
+    {
+      "korean": "[최소 웹드라마계 강형욱] 알겠어요? [He knows how to calm down the girls like a professional] Okay? 듣기 View video 콬TV (WHYNOT) : 웹드 배우들이 우리 학교에 왔다!!! [일진에게 찍혔을 때] 일찍 빵배송 이벤트",
+      "english": "[He knows how to calm down the girls like a professional] Okay?"
+    },
+    {
+      "korean": "[표정 최소 오조오억개][시시각각 변하는 유나의 표정] - 차가워? - 죽은 지 좀 됐다고? [Expressive] [Her face is changing] - Cold? - It was dead a long time ago? 듣기 View video OSEN : ITZY 유나, 사랑스러운 막내 '신나유' #스타로드 하이라이트",
+      "english": "[Expressive] [Her face is changing] - Cold? - It was dead a long time ago?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to cut staff to an irreducible minimum 듣기 Add to Wordbook 직원을 더 이상 줄일 수 없게 최소 인원으로 축소하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cut staff to an irreducible minimum Add to Wordbook"
+    },
+    {
+      "korean": "The episode was reported minimally in the press. 듣기 Add to Wordbook 그 에피소드는 언론에 최소로 보도되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The episode was reported minimally in the press. Add to Wordbook"
+    },
+    {
+      "korean": "At least 5000 missiles were deployed along the border. 듣기 Add to Wordbook 국경을 따라 최소 5 000기의 미사일이 배치되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At least 5000 missiles were deployed along the border. Add to Wordbook"
+    },
+    {
+      "korean": "Good hygiene helps to minimize the risk of infection. 듣기 Add to Wordbook 청결한 위생 상태는 감염의 위험을 최소화하는 데 도움이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Good hygiene helps to minimize the risk of infection. Add to Wordbook"
+    },
+    {
+      "korean": "It was a new production technique aimed at minimizing wastage. 듣기 Add to Wordbook 그것은 낭비를 최소화하기 위한 새로운 생산 기법이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was a new production technique aimed at minimizing wastage. Add to Wordbook"
+    }
+  ]
+}

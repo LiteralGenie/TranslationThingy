@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "도와",
+      "hanja": " (陶瓦)",
+      "example": {},
+      "meanings": [
+        "an unglazed tile"
+      ]
+    },
+    {
+      "phrase": "돕다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(거들다, 힘을 보태다) help, assist, aid, give[lend] (sb) a hand",
+        "(경제적으로) help, support, aid, provide for, give financial aid[help]",
+        "(촉진시키다) help, promote, (formal) aid"
+      ]
+    },
+    {
+      "phrase": "도와주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "help, aid, assist, give[lend] sb a hand"
+      ]
+    },
+    {
+      "phrase": "도와 달라다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "appeal for aid",
+        "call for help",
+        "call to to help"
+      ]
+    },
+    {
+      "phrase": "일을 도와주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "help in[with] his work"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "helper",
+      "frequency": 3
+    },
+    {
+      "meaning": "help",
+      "frequency": 3
+    },
+    {
+      "meaning": "help out",
+      "frequency": 0
+    },
+    {
+      "meaning": "give/lend a helping hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "go to bat for somebody",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "석훈 쌤 도와주세요! Seokhoon teacher, help me!! 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Seokhoon teacher, help me!!"
+    },
+    {
+      "korean": "도와줄까? Do you want me to help? 듣기 View video TOMORROW X TOGETHER : 스윗한 태현이의 스윗한거 만들기",
+      "english": "Do you want me to help?"
+    },
+    {
+      "korean": "도와주세요 알았죠? Help me, okay? Yes? 듣기 View video iKON : live",
+      "english": "Help me, okay? Yes?"
+    },
+    {
+      "korean": "[애교] 어머님도 한 번만 도와주시면 안 될까요? [Acting cute] Can't you also help me out? 듣기 View video 콬TV (WHYNOT) : 16살 걸그룹 멤버가 홍대에서 \"저 아세요?\"라고 물었다 #아이돌 #리얼리티ㅣ로켓펀치 [펀치",
+      "english": "[Acting cute] Can't you also help me out?"
+    },
+    {
+      "korean": "[화분에 대한 집착] 우지야 나 좀 도와줄래? [Obsession with the vase] WOOZI, can you help me? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "[Obsession with the vase] WOOZI, can you help me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "his ham-fisted efforts to assist her 듣기 Add to Wordbook 그녀를 도와주려는 그의 서투른 노력 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "his ham-fisted efforts to assist her Add to Wordbook"
+    },
+    {
+      "korean": "She made an impassioned plea for help. 듣기 Add to Wordbook 그녀는 도와 달라고 간절히 애원했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She made an impassioned plea for help. Add to Wordbook"
+    },
+    {
+      "korean": "an intricate network of loyalties and relationships 듣기 Add to Wordbook 복잡하게 뒤얽힌 충성도와 관계들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an intricate network of loyalties and relationships Add to Wordbook"
+    },
+    {
+      "korean": "Can you help me load the dishwasher? 듣기 Add to Wordbook 식기 세척기에 그릇들 넣는 것 좀 도와주겠니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you help me load the dishwasher? Add to Wordbook"
+    },
+    {
+      "korean": "These exercises will help to keep you supple. 듣기 Add to Wordbook 이들 운동은 유연성을 유지하도록 도와줄 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These exercises will help to keep you supple. Add to Wordbook"
+    }
+  ]
+}

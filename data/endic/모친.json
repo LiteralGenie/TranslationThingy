@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "모친",
+      "hanja": " (母親)",
+      "example": {},
+      "meanings": [
+        "mother"
+      ]
+    },
+    {
+      "phrase": "부친[모친] 살해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "patricide[matricide]"
+      ]
+    },
+    {
+      "phrase": "모친고착",
+      "hanja": " (母親固着)",
+      "example": {},
+      "meanings": [
+        "의학 mother fixation"
+      ]
+    },
+    {
+      "phrase": "모친살인",
+      "hanja": " (母親殺人)",
+      "example": {},
+      "meanings": [
+        "의학 matricide"
+      ]
+    },
+    {
+      "phrase": "모친살인자",
+      "hanja": " (母親殺人者)",
+      "example": {},
+      "meanings": [
+        "의학 matricide"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "old woman",
+      "frequency": 0
+    },
+    {
+      "meaning": "old lady",
+      "frequency": 0
+    },
+    {
+      "meaning": "materfamilias",
+      "frequency": 0
+    },
+    {
+      "meaning": "존속 살해",
+      "frequency": 0
+    },
+    {
+      "meaning": "matricide",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "How is the old girl these days? 발음듣기 요즘 부인[모친]은 어떠신가? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How is the old girl these days? 발음"
+    },
+    {
+      "korean": "I respectfully request a leave of absence to attend to my mother's funeral. 발음듣기 모친의 장례를 치르기 위해 정중히 휴가를 요청합니다. DARAKWON",
+      "english": "I respectfully request a leave of absence to attend to my mother's funeral. 발음"
+    },
+    {
+      "korean": "I learned only yesterday of your mother's death. 발음듣기 모친께서 별세하셨다는 소식을 어제서야 알게 됐습니다. DARAKWON",
+      "english": "I learned only yesterday of your mother's death. 발음"
+    },
+    {
+      "korean": "He naturally lamented his mother's death. 발음듣기 그는 당연히 모친의 죽음을 애통해했다. Friendict Level English-Korean Dictionary",
+      "english": "He naturally lamented his mother's death. 발음"
+    },
+    {
+      "korean": "He wore a black armband when his mother died. 발음듣기 모친이 돌아가셨을 때, 그는 검은 상장을 달았다. Neungyule",
+      "english": "He wore a black armband when his mother died. 발음"
+    }
+  ]
+}

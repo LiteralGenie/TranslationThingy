@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "힘들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(육체적으로) hard, backbreaking, strenuous",
+        "(정신적으로) hard, difficult, tough",
+        "(어렵다, 곤란하다) hard, difficult"
+      ]
+    },
+    {
+      "phrase": "힘든 일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an arduous job",
+        "a strenuous job"
+      ]
+    },
+    {
+      "phrase": "힘든 결정을 내리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a hard[tough] decision"
+      ]
+    },
+    {
+      "phrase": "힘든 문제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a difficult problem"
+      ]
+    },
+    {
+      "phrase": "소화하기 쉬운[힘든]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "digestible[indigestible]",
+        "easy[hard] of digestion[to digest]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hard",
+      "frequency": 2
+    },
+    {
+      "meaning": "heavy",
+      "frequency": 2
+    },
+    {
+      "meaning": "tough",
+      "frequency": 2
+    },
+    {
+      "meaning": "hot",
+      "frequency": 2
+    },
+    {
+      "meaning": "rough",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "힘든 거 아니죠? It's not hard for you, is it? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "It's not hard for you, is it?"
+    },
+    {
+      "korean": "진짜 힘든 거 아닌가요? Are you sure it's not too hard for you? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "Are you sure it's not too hard for you?"
+    },
+    {
+      "korean": "찾아보니까 진짜 구하기 힘든 거더라? It's really difficult to get. 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "It's really difficult to get."
+    },
+    {
+      "korean": "힘든 거라고 하시지 않으셨나요? You said it's something hard to do? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.23 드립 : 세븐틴 갓 탤런트 #1 (Ad-lib : Seventeen's got Talent #1)",
+      "english": "You said it's something hard to do?"
+    },
+    {
+      "korean": "[우린 못할 것 같아...] - 다시 뿌려줘! - 너무 힘든 거 아니야, 이거? [I don't think we can do it...] - Shoot me again! - Isn't this too hard? 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.03",
+      "english": "[I don't think we can do it...] - Shoot me again! - Isn't this too hard?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was an exacting man to work for. 발음듣기 그는 밑에서 일하기가 힘든 남자였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was an exacting man to work for. 발음"
+    },
+    {
+      "korean": "The marathon is a severe test of stamina. 발음듣기 마라톤은 아주 힘든 체력 테스트이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The marathon is a severe test of stamina. 발음"
+    },
+    {
+      "korean": "Months of hard work culminated in success. 발음듣기 여러 달 동안 했던 힘든 일이 성공적으로 막을 내렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Months of hard work culminated in success. 발음"
+    },
+    {
+      "korean": "You have to persevere with difficult students. 발음듣기 힘든 학생들에 대해서는 인내심을 가져야 합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You have to persevere with difficult students. 발음"
+    },
+    {
+      "korean": "After much hard bargaining we reached an agreement. 발음듣기 많은 힘든 협상 끝에 우리는 합의에 이르렀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "After much hard bargaining we reached an agreement. 발음"
+    }
+  ]
+}

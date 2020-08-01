@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "사과",
+      "hanja": " (沙果)",
+      "example": {},
+      "meanings": [
+        "(과일) apple"
+      ]
+    },
+    {
+      "phrase": "사과",
+      "hanja": " (謝過)",
+      "example": {},
+      "meanings": [
+        "[명사] apology, [동사] apologize (to/for), make[offer] an apology (for)"
+      ]
+    },
+    {
+      "phrase": "신 사과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sour apple"
+      ]
+    },
+    {
+      "phrase": "사과나무",
+      "hanja": " (沙果나무)",
+      "example": {},
+      "meanings": [
+        "apple tree"
+      ]
+    },
+    {
+      "phrase": "사과 철",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the apple season"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "apple",
+      "frequency": 3
+    },
+    {
+      "meaning": "apology",
+      "frequency": 3
+    },
+    {
+      "meaning": "pome",
+      "frequency": 0
+    },
+    {
+      "meaning": "spitzenburg",
+      "frequency": 0
+    },
+    {
+      "meaning": "apples, peaches and watermelons",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사과 머리가... Apple hair is... 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "Apple hair is..."
+    },
+    {
+      "korean": "사과 머리 어떻게 하지? How do you do apple hair? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "How do you do apple hair?"
+    },
+    {
+      "korean": "[나나에게 사과하러 간 루미] 왜 나 피하기만 하는데? [Rumi went to apologize to Nana] Why are you avoiding me? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "[Rumi went to apologize to Nana] Why are you avoiding me?"
+    },
+    {
+      "korean": "사과머리 어떻게 하지? What's that hair style? 듣기 View video V PICK! : [NU'EST] 어 그래 너.. 잘 살았다..! 이날 이때까지 울 망고했으니..! (REN playing with fans)",
+      "english": "What's that hair style?"
+    },
+    {
+      "korean": "[꼬물 꼬물] 사과머리... [Touching] Apple hair... 듣기 View video V PICK! : [NU'EST] 어 그래 너.. 잘 살았다..! 이날 이때까지 울 망고했으니..! (REN playing with fans)",
+      "english": "[Touching] Apple hair..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He ate the apple, stalk and all. 듣기 Add to Wordbook 그는 그 사과를 속심까지 다 먹었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He ate the apple, stalk and all. Add to Wordbook"
+    },
+    {
+      "korean": "They apologized for the lateness of the train. 듣기 Add to Wordbook 그들은 기차 연착을 사과했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They apologized for the lateness of the train. Add to Wordbook"
+    },
+    {
+      "korean": "It galls me to have to apologize to her. 듣기 Add to Wordbook 내가 그녀에게 사과를 해야 하다니 억울해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It galls me to have to apologize to her. Add to Wordbook"
+    },
+    {
+      "korean": "She marched over to me and demanded an apology. 듣기 Add to Wordbook 그녀가 내게로 걸어오더니 사과를 요구했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She marched over to me and demanded an apology. Add to Wordbook"
+    },
+    {
+      "korean": "How mortifying to have to apologize to him! 듣기 Add to Wordbook 그에게 사과를 해야 하다니 얼마나 굴욕스러운지! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How mortifying to have to apologize to him! Add to Wordbook"
+    }
+  ]
+}

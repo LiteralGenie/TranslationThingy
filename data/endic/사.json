@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "사",
+      "hanja": " (死)",
+      "example": {},
+      "meanings": [
+        "(죽음) death",
+        "(야구)"
+      ]
+    },
+    {
+      "phrase": "사",
+      "hanja": " (私)",
+      "example": {},
+      "meanings": [
+        "(숫자) four"
+      ]
+    },
+    {
+      "phrase": "사",
+      "hanja": " (四)",
+      "example": {},
+      "meanings": [
+        "Determiner four",
+        "Determiner fourth"
+      ]
+    },
+    {
+      "phrase": "사",
+      "hanja": " (四)",
+      "example": {},
+      "meanings": [
+        "Number four (→넷)"
+      ]
+    },
+    {
+      "phrase": "-사",
+      "hanja": " (事)",
+      "example": {},
+      "meanings": [
+        "fact"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "producer",
+      "frequency": 3
+    },
+    {
+      "meaning": "manufacturer",
+      "frequency": 3
+    },
+    {
+      "meaning": "promoter",
+      "frequency": 3
+    },
+    {
+      "meaning": "gauze",
+      "frequency": 3
+    },
+    {
+      "meaning": "grower",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"한이가 모자 사줬어?\" \"Did HAN buy you a hat?\" 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "\"Did HAN buy you a hat?\""
+    },
+    {
+      "korean": "정한이 형도 사준대요 - 진짜? So would Jeonghan. - Really? 듣기 View video SEVENTEEN : 😁 Happy DK & Vernon Day 🤟",
+      "english": "So would Jeonghan. - Really?"
+    },
+    {
+      "korean": "오늘도 그 여학생 줄 거 사는 거야? Are you buying it for that girl again? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "Are you buying it for that girl again?"
+    },
+    {
+      "korean": "내가 사줄게요 난 여권 지갑 좋아요 - 근데 그거 아직도 있나? I'll buy. I like the passport case. - But is that still there? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "I'll buy. I like the passport case. - But is that still there?"
+    },
+    {
+      "korean": "내가 사 올게! I'll get it. 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "I'll get it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He bought me a new coat. 듣기 Add to Wordbook 그가 내게 새 외투를 사 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He bought me a new coat. Add to Wordbook"
+    },
+    {
+      "korean": "Buy a lettuce and some tomatoes. 듣기 Add to Wordbook 상추와 토마토를 좀 사. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Buy a lettuce and some tomatoes. Add to Wordbook"
+    },
+    {
+      "korean": "He bought a new coat for me. 듣기 Add to Wordbook 그가 내게 새 외투를 사 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He bought a new coat for me. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll get it at the chemist’s. 듣기 Add to Wordbook 약국에 가서 그걸 사 올게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll get it at the chemist’s. Add to Wordbook"
+    },
+    {
+      "korean": "Who’s going to shout me a drink? 듣기 Add to Wordbook 누가 내게 술 한 잔 사 줄 텐가? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Who’s going to shout me a drink? Add to Wordbook"
+    }
+  ]
+}

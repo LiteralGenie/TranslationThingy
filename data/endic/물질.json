@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "물질",
+      "hanja": " (物質)",
+      "example": {},
+      "meanings": [
+        "(질량을 갖는 자연의 요소) matter, substance, material",
+        "(재물)"
+      ]
+    },
+    {
+      "phrase": "화학물질",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "chemicals, chemical substances"
+      ]
+    },
+    {
+      "phrase": "발암물질",
+      "hanja": " (發癌物質)",
+      "example": {},
+      "meanings": [
+        "(의학) carcinogen, cancer-causing agent"
+      ]
+    },
+    {
+      "phrase": "물질주의",
+      "hanja": " (物質主義)",
+      "example": {},
+      "meanings": [
+        "materialism"
+      ]
+    },
+    {
+      "phrase": "유해 물질",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "toxic substance, harmful substance"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "matter",
+      "frequency": 3
+    },
+    {
+      "meaning": "agent",
+      "frequency": 3
+    },
+    {
+      "meaning": "substance",
+      "frequency": 3
+    },
+    {
+      "meaning": "acidophile",
+      "frequency": 0
+    },
+    {
+      "meaning": "hylo-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "물질로 있잖아요? It's like an object, right? 듣기 View video 우주소녀(WJSN) : [설아] 전지적 설아 시점👀💕 EP.02",
+      "english": "It's like an object, right?"
+    },
+    {
+      "korean": "여러분은 사랑은 정성이다! 아니다 물질이다! Love is about dedication! No, it's material! 듣기 View video V COOKIE : [FULL] HAYOUNG X LieV - 하영의 눕방라이브!",
+      "english": "Love is about dedication! No, it's material!"
+    },
+    {
+      "korean": "물질적인 보답도 할 수 있는 날을 기대하면서요. I look forward to the day that you can repay him with something materialistically. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#149. 오. 꼭. 말. (오졌다고 꼭 말해줘야지) (w. 하성운)",
+      "english": "I look forward to the day that you can repay him with something materialistically."
+    },
+    {
+      "korean": "항산화 물질이 부족해서! is because I lack antioxidants! 듣기 View video HANABONO : 먹기만 해도 비타민 생기 충천 항산화주스 만들기",
+      "english": "is because I lack antioxidants!"
+    },
+    {
+      "korean": "단언컨대 치킨은 가장 완벽한 물질입니다. Of course, chicken is the most perfect substance. 듣기 View video MYSTIC ENTERTAINMENT : 빅픽처2 [메이드 특별 영상] - BBQ 최고의 1분",
+      "english": "Of course, chicken is the most perfect substance."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the elimination of toxins from the body 듣기 Add to Wordbook 체내 유독 물질 제거 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the elimination of toxins from the body Add to Wordbook"
+    },
+    {
+      "korean": "a new strain of mosquitoes resistant to the poison 듣기 Add to Wordbook 그 독성 물질에 견디는 새로운 종류의 모기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a new strain of mosquitoes resistant to the poison Add to Wordbook"
+    },
+    {
+      "korean": "Filters do not remove all contaminants from water. 듣기 Add to Wordbook 필터가 물 속의 모든 오염 물질을 걸러 내는 것은 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Filters do not remove all contaminants from water. Add to Wordbook"
+    },
+    {
+      "korean": "Perfume interacts with the skin’s natural chemicals. 듣기 Add to Wordbook 향수는 피부에 있는 천연 화학 물질과 상호 작용을 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Perfume interacts with the skin’s natural chemicals. Add to Wordbook"
+    },
+    {
+      "korean": "This diet claims to eliminate toxins from the body. 듣기 Add to Wordbook 이 다이어트법은 체내의 유독 물질을 제거해 준다고 주장한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This diet claims to eliminate toxins from the body. Add to Wordbook"
+    }
+  ]
+}

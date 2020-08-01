@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "영수증",
+      "hanja": " (領收證)",
+      "example": {},
+      "meanings": [
+        "receipt (for)"
+      ]
+    },
+    {
+      "phrase": "영수증을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get a receipt (made out)"
+      ]
+    },
+    {
+      "phrase": "영수증 보관함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a box for receipts"
+      ]
+    },
+    {
+      "phrase": "영수증을 쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "write[make] out a receipt"
+      ]
+    },
+    {
+      "phrase": "영수증을 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give[issue, make out] a receipt"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "receipt",
+      "frequency": 3
+    },
+    {
+      "meaning": "acquittance",
+      "frequency": 3
+    },
+    {
+      "meaning": "acknowledgment",
+      "frequency": 3
+    },
+    {
+      "meaning": "quittance",
+      "frequency": 0
+    },
+    {
+      "meaning": "snapout",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[영수증 꼭 제출해주세요...] [Please make sure you give us the receipt...] View video GOT7 : GOT7(갓세븐) TOURLOG EP.10",
+      "english": "[Please make sure you give us the receipt...]"
+    },
+    {
+      "korean": "[영수증은 버려줘] '오빠 바코드 앞머리인데요?' [Throw out the receipt] \"Jisung, your bangs are a bar code.\" 듣기 View video V PICK! : [YOON JISUNG] 현대미술의 거장 룽카소 자화상 루브르로 모셔🐧🖍 (JISUNG drawing self-portrait)",
+      "english": "[Throw out the receipt] \"Jisung, your bangs are a bar code.\""
+    },
+    {
+      "korean": "[치즈가 어쩌다가 서류로...] - 면허증 아니야? 면허증 - 영수증? [Cheese turned into paper] - Driver's license? - Receipt? 듣기 View video re:memVer party 2019 : 프로미스나인 x 캐치마인드 [re:memVer party 2019]",
+      "english": "[Cheese turned into paper] - Driver's license? - Receipt?"
+    },
+    {
+      "korean": "영수증 드릴까요? Would you like a receipt? 듣기 View video JBJ 상균&동한의 혼밥스타그램(JBJ Sang Kyoun & Dong Han's Honbab) : JBJ 상균&동한의 혼밥스타그램 #13회 (#상균 #패스트푸드 #수제버거)",
+      "english": "Would you like a receipt?"
+    },
+    {
+      "korean": "수증이 수증이 영수증이 갖고 왔습니다. It's this receipt. 듣기 View video 한뼘TV : 서로 쪼개는 웃음이 가득한 BPS의 물건팔기 오디션현장",
+      "english": "It's this receipt."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Staple the invoice and the receipt together. 듣기 Add to Wordbook 송장과 영수증을 스테이플러로 함께 고정하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Staple the invoice and the receipt together. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll write you a receipt. 듣기 Add to Wordbook 제가 (당신에게) 영수증을 써 드리겠어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll write you a receipt. Add to Wordbook"
+    },
+    {
+      "korean": "Staple the invoice to the receipt. 듣기 Add to Wordbook 송장을 영수증에 스테이플러로 고정하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Staple the invoice to the receipt. Add to Wordbook"
+    },
+    {
+      "korean": "Keep the receipt as proof of purchase. 듣기 Add to Wordbook 그 영수증을 구매 증거물로 갖고 있어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Keep the receipt as proof of purchase. Add to Wordbook"
+    },
+    {
+      "korean": "Check your receipts against the statement. 듣기 Add to Wordbook 영수증을 명세서와 대조하여 확인해 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Check your receipts against the statement. Add to Wordbook"
+    }
+  ]
+}

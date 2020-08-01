@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "사랑",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[명사] love, [동사] love, cherish"
+      ]
+    },
+    {
+      "phrase": "사랑",
+      "hanja": " (舍廊)",
+      "example": {},
+      "meanings": [
+        "Noun guest room, reception room"
+      ]
+    },
+    {
+      "phrase": "사랑은 내리사랑",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Love is the elders' love for the young"
+      ]
+    },
+    {
+      "phrase": "사랑을 속삭이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "whisper love",
+        "whisper love"
+      ]
+    },
+    {
+      "phrase": "사랑하는 자식일수록 매로 다스리라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "An adorable child should be disciplined with a rod"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "love",
+      "frequency": 2
+    },
+    {
+      "meaning": "구애 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "darling",
+      "frequency": 1
+    },
+    {
+      "meaning": "dearest",
+      "frequency": 0
+    },
+    {
+      "meaning": "dear",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "물아 사랑해~ I love you, water~ 듣기 View video V PICK! : [VPICK! HOW TO in V] 칸토의 칸토리오🍝 (HOW TO COOK KANTO’s Aglio e Olio)",
+      "english": "I love you, water~"
+    },
+    {
+      "korean": "사랑해요 뽀뽀~ I love you! Kiss! 듣기 View video AB6IX : 막방😭😭",
+      "english": "I love you! Kiss!"
+    },
+    {
+      "korean": "러비티 사랑해! LUVITY, we love you! 듣기 View video V PICK! : [CRAVITY] 🎉훈훈말랑 우리비티 100일 기념 관찰일기 발표회🗒🔍 (CRAVITY’s member observation diary)",
+      "english": "LUVITY, we love you!"
+    },
+    {
+      "korean": "신도림! - 사랑해! Sindorim! - Love you! 듣기 View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "Sindorim! - Love you!"
+    },
+    {
+      "korean": "\"이 노래 사랑해요!\" \"사랑해요!\" \"I love this song!\" \"I love it!\" 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "\"I love this song!\" \"I love it!\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Love and best wishes from the three of us. 발음듣기 우리 셋이 사랑과 인사를 보냅니다 User translation Inaccurate information may be included due to the users' self-traslation. jangroj(jang****) Web Collection",
+      "english": "Love and best wishes from the three of us. 발음"
+    },
+    {
+      "korean": "Love and support are all very well. 발음듣기 사랑과 지원 모두 잘 있다. User translation Inaccurate information may be included due to the users' self-traslation. 김정현(tyu0****) Web Collection",
+      "english": "Love and support are all very well. 발음"
+    },
+    {
+      "korean": "He needs people to show affection, love. 발음듣기 그는 사랑과 애정을 보여 줄 사람이 필요하다 User translation Inaccurate information may be included due to the users' self-traslation. 정연욱(roya****) Web Collection",
+      "english": "He needs people to show affection, love. 발음"
+    },
+    {
+      "korean": "He's torn between love and duty. 발음듣기 그는 사랑과 의무 사이에서 갈등하고 있다. User translation Inaccurate information may be included due to the users' self-traslation. skybird(blue****) Web Collection",
+      "english": "He's torn between love and duty. 발음"
+    },
+    {
+      "korean": "They're objects of love and trust. 발음듣기 그것들은 사랑과 신뢰의 대상이에요. User translation Inaccurate information may be included due to the users' self-traslation. 하루(smil****) Web Collection",
+      "english": "They're objects of love and trust. 발음"
+    }
+  ]
+}

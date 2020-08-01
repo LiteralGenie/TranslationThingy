@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "개량",
+      "hanja": " (改良)",
+      "example": {},
+      "meanings": [
+        "[명사] improvement, [동사] improve, make sth better"
+      ]
+    },
+    {
+      "phrase": "개량 한복",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "modernized hanbok"
+      ]
+    },
+    {
+      "phrase": "사회 개량",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a social reform"
+      ]
+    },
+    {
+      "phrase": "마필 개량",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "horse improvement"
+      ]
+    },
+    {
+      "phrase": "토마토의 품종 개량",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "improvement of a species of tomato"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "refinement",
+      "frequency": 1
+    },
+    {
+      "meaning": "amelioration",
+      "frequency": 0
+    },
+    {
+      "meaning": "fix-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "melioration",
+      "frequency": 0
+    },
+    {
+      "meaning": "revampment",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한복을 개량을 했다고 할까? - 한복? They look like modernized Hanbok or... Hanbok? 듣기 View video SMTOWN : [FULL] YURI SHOWCASE [The First Scene]",
+      "english": "They look like modernized Hanbok or... Hanbok?"
+    },
+    {
+      "korean": "솔직히 개량한복도 입고 다닐 수 있을... Frankly, I think I can go around in modernized hanbok. 듣기 View video KANG DANIEL : Danielkkkkkkk",
+      "english": "Frankly, I think I can go around in modernized hanbok."
+    },
+    {
+      "korean": "얘도 개량한복이야. His is a modern hanbok. 듣기 View video 2PM : 2PM 미니팬미팅 <양반의 놀이> 비하인드",
+      "english": "His is a modern hanbok."
+    },
+    {
+      "korean": "개량한복이란 아날로그다. Modernized hanboks are analog. 듣기 View video V MOVIE : <그물> 김기덕 라이브 인터뷰 ' Kim Ki-Duk Live Interview'",
+      "english": "Modernized hanboks are analog."
+    },
+    {
+      "korean": "코코넛을 개량해서 만든 그릇이죠. It's a cup made out of a coconut shell. 듣기 View video EXO : DRAMA TALK - <미씽나인> 드라마 토크",
+      "english": "It's a cup made out of a coconut shell."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "This particular model has a further refinement. 발음듣기 이 특정 모델은 추가로 더 개량한 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This particular model has a further refinement. 발음"
+    },
+    {
+      "korean": "This can hardly be improved on [upon]. 발음듣기 이것은 개량의 여지가 거의 없다. Friendict Level English-Korean Dictionary",
+      "english": "This can hardly be improved on [upon]. 발음"
+    },
+    {
+      "korean": "This car can be used if you tease up. 발음듣기 이 차를 조금 손질하여 개량하면 사용할 수 있다. YBM All in All English-Korean Dictionary",
+      "english": "This car can be used if you tease up. 발음"
+    },
+    {
+      "korean": "You cannot improve this machine. 발음듣기 이 기계는 개량할 수 없다. Friendict Level English-Korean Dictionary",
+      "english": "You cannot improve this machine. 발음"
+    },
+    {
+      "korean": "This was made possible by crop breeding in concert with other farming innovations. 발음듣기 이것은 곡물 품종 개량이 다른 농업 혁신과 맞물려 가능해졌던 것이다. YBM All in All English-Korean Dictionary",
+      "english": "This was made possible by crop breeding in concert with other farming innovations. 발음"
+    }
+  ]
+}

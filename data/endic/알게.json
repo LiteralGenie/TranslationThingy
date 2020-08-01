@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "알게 모르게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the manner of one being unaware of something, unwittingly"
+      ]
+    },
+    {
+      "phrase": "사건의 속사정을 알게 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get the inside story of the incident"
+      ]
+    },
+    {
+      "phrase": "알게 될 꺼야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You shall see."
+      ]
+    },
+    {
+      "phrase": "그의 성격의 일단을 알게 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get a glimpse of his character"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "know",
+      "frequency": 3
+    },
+    {
+      "meaning": "keep up with something",
+      "frequency": 0
+    },
+    {
+      "meaning": "revelatory",
+      "frequency": 0
+    },
+    {
+      "meaning": "tune in to somebody/something",
+      "frequency": 0
+    },
+    {
+      "meaning": "wise up (to something)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "많은 이름들을 알게 됐죠? You learned many names, right? 듣기 View video ONG SEONG WU : 스프링옹",
+      "english": "You learned many names, right?"
+    },
+    {
+      "korean": "좋아요! 우리 스테이의 취향을 알게 된... Great! I got to learn STAY's tastes. 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 53 - SEASON 2",
+      "english": "Great! I got to learn STAY's tastes."
+    },
+    {
+      "korean": "어떻게 하다가 알게 된 사이예요? - 희준이? How did you get to know each other? - Heejun? 듣기 View video 잼플리 Jamfully : 남사친이 남친 되면 A+ 받는다는 수업 [썸타는 일주일] - EP.00",
+      "english": "How did you get to know each other? - Heejun?"
+    },
+    {
+      "korean": "나왔는데 이제 민호가 최근에 알게 된 그런... - 그런 거야? MINO came to know it recently. - Oh, really? 듣기 View video WINNER : 강승윤 생일 브이라이브 🎉YOONSBIRTHDAY🙏🏼❤️",
+      "english": "MINO came to know it recently. - Oh, really?"
+    },
+    {
+      "korean": "그래서 알게 된 이후부터는 거의 2일 1배달? After we knew that, we have it delivered like once in two days? 듣기 View video TOMORROW X TOGETHER : 최범규의 별밤✨",
+      "english": "After we knew that, we have it delivered like once in two days?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She learned to accept criticism without rancour. 듣기 Add to Wordbook 그녀는 앙심을 품지 않고 비판을 받아들일 줄 알게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She learned to accept criticism without rancour. Add to Wordbook"
+    },
+    {
+      "korean": "They learned to accept their stepmother in time. 듣기 Add to Wordbook 그들은 이윽고 그들의 새엄마를 받아들일 줄 알게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They learned to accept their stepmother in time. Add to Wordbook"
+    },
+    {
+      "korean": "We’ll know before long. 듣기 Add to Wordbook 머지않아 우리가 알게 될 것이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’ll know before long. Add to Wordbook"
+    },
+    {
+      "korean": "We got acquainted at the conference. 듣기 Add to Wordbook 우리는 학회에서 알게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We got acquainted at the conference. Add to Wordbook"
+    },
+    {
+      "korean": "She could be dead for all I know. 듣기 Add to Wordbook 그녀가 죽었든 말든 내가 알게 뭐야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She could be dead for all I know. Add to Wordbook"
+    }
+  ]
+}

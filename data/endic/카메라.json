@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "카메라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사진기) camera",
+        "(촬영기) (video/movie) camera"
+      ]
+    },
+    {
+      "phrase": "camera",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 카메라"
+      ]
+    },
+    {
+      "phrase": "감시 카메라",
+      "hanja": " (監視camera)",
+      "example": {},
+      "meanings": [
+        "surveillance camera, security camera"
+      ]
+    },
+    {
+      "phrase": "감시용 카메라",
+      "hanja": " (監視用camera)",
+      "example": {},
+      "meanings": [
+        "surveillance camera, security camera"
+      ]
+    },
+    {
+      "phrase": "cameræ",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Noun] (rare)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "camera",
+      "frequency": 3
+    },
+    {
+      "meaning": "technofury",
+      "frequency": 0
+    },
+    {
+      "meaning": "Nancy Drew Dossier : Lights, Camera, Curses (PC)",
+      "frequency": 0
+    },
+    {
+      "meaning": "cameraman",
+      "frequency": 3
+    },
+    {
+      "meaning": "unload",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "카메라 욕심 있어! They are greedy for the camera! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "They are greedy for the camera!"
+    },
+    {
+      "korean": "[카메라 빠염] 어머 너무 귀여워! [Bye camera!] This is so cute! 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[Bye camera!] This is so cute!"
+    },
+    {
+      "korean": "1, 2, 3 찰칵~ - 카메라 어디죠? One, two, three. Click! - Where is the camera? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "One, two, three. Click! - Where is the camera?"
+    },
+    {
+      "korean": "여기 카메라 봐요 - 어디 봐야 돼? There. Here, the camera. - Where should I look? 듣기 View video TWICE : TWICE TV “34th Golden Disc Awards DAY 2”",
+      "english": "There. Here, the camera. - Where should I look?"
+    },
+    {
+      "korean": "근데 좀 카메라 앞에서는 낯설긴 해요 그렇죠? Still, I feel shy in front of cameras. Right? 듣기 View video MAMAMOO : 🌙달이 태양을 가릴 때🌙",
+      "english": "Still, I feel shy in front of cameras. Right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "models pouting their lips for the camera 듣기 Add to Wordbook 카메라를 향해 입술을 불룩 내밀고 있는 모델들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "models pouting their lips for the camera Add to Wordbook"
+    },
+    {
+      "korean": "The camera panned back to the audience. 듣기 Add to Wordbook 카메라가 다시 이동하여 방청객 쪽을 보여주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The camera panned back to the audience. Add to Wordbook"
+    },
+    {
+      "korean": "He panned the camera along the row of faces. 듣기 Add to Wordbook 그가 카메라로 죽 늘어선 얼굴들을 보여주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He panned the camera along the row of faces. Add to Wordbook"
+    },
+    {
+      "korean": "We watched the events unroll before the cameras. 듣기 Add to Wordbook 우리는 그 사건들이 카메라 앞에서 펼쳐지는 것을 지켜보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We watched the events unroll before the cameras. Add to Wordbook"
+    },
+    {
+      "korean": "The players strutted and posed for the cameras. 듣기 Add to Wordbook 선수들은 뽐내며 걸어 나와 카메라를 향해 포즈를 취했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The players strutted and posed for the cameras. Add to Wordbook"
+    }
+  ]
+}

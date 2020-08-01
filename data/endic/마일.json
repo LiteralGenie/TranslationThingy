@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "마일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mile (=1.609 km)"
+      ]
+    },
+    {
+      "phrase": "mile",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 마일(거리 단위. 1 609미터 또는 1 760야드에 해당) (→Air Miles, mph, nautical mile)",
+        "Noun 수마일(넓은 지역·긴 거리)",
+        "Noun 비격식 대단히 많이, 훨씬"
+      ]
+    },
+    {
+      "phrase": "mile(s)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Miscellaneous (Abbr.) Mi."
+      ]
+    },
+    {
+      "phrase": "몇 세기[마일]에 걸치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "extend over several centuries[miles]"
+      ]
+    },
+    {
+      "phrase": "좌석 마일",
+      "hanja": " (座席一)",
+      "example": {},
+      "meanings": [
+        "[교통] a seat mile, a passenger-mile."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mile",
+      "frequency": 2
+    },
+    {
+      "meaning": "mileage",
+      "frequency": 1
+    },
+    {
+      "meaning": "half-mile",
+      "frequency": 0
+    },
+    {
+      "meaning": "mph",
+      "frequency": 0
+    },
+    {
+      "meaning": "mpg",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "인사해 마일로! Say hello, Milo! 듣기 View video V PICK! : [GOT7] 마크랑 마일로 이 조합 실화야? 아니 명화야.. 혹은 영화..🐰🐶💕",
+      "english": "Say hello, Milo!"
+    },
+    {
+      "korean": "복근 하나 남았다고 - 가지마 일로 와~ I have an ab exercise left. - Don't go! Come here. 듣기 View video VICTON : 오랜만입니다..🖤-@",
+      "english": "I have an ab exercise left. - Don't go! Come here."
+    },
+    {
+      "korean": "마일로 건강은 좀 어때? How is Milo? 듣기 View video GOT7 : [GOT2DAY 2019] 12. JB & Mark",
+      "english": "How is Milo?"
+    },
+    {
+      "korean": "근데 마일로 한 이만하나? But Milo's this big? 듣기 View video GOT7 : [GOT2DAY 2019] 14. Mark & Youngjae",
+      "english": "But Milo's this big?"
+    },
+    {
+      "korean": "\"코코는 아직 마일로 만났습니까?\" \"Has Coco met Milo yet?\" 듣기 View video GOT7 : 흐허헣 영재",
+      "english": "\"Has Coco met Milo yet?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an area of four square miles 발음듣기 4평방 마일 되는 면적 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an area of four square miles 발음"
+    },
+    {
+      "korean": "The car rental included unlimited mileage, but not fuel. 발음듣기 그 렌트카에는 마일 수는 제한이 없었지만 연료는 포함되지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The car rental included unlimited mileage, but not fuel. 발음"
+    },
+    {
+      "korean": "In the US, distance is measured in miles. 발음듣기 미국에서는 거리를 마일로 측정한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In the US, distance is measured in miles. 발음"
+    },
+    {
+      "korean": "I get a mileage allowance if I use my car for work. 발음듣기 나는 자가용을 이용해서 출근하면 마일 당 수당을 받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I get a mileage allowance if I use my car for work. 발음"
+    },
+    {
+      "korean": "Our beach house is just a couple of miles from the ocean. 발음듣기 우리의 해변 별장은 바다에서 두어 마일 밖에 안 떨어져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our beach house is just a couple of miles from the ocean. 발음"
+    }
+  ]
+}

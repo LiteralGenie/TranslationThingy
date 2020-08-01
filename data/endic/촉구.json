@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "촉구",
+      "hanja": " (促求)",
+      "example": {},
+      "meanings": [
+        "(요구) insisting, pressing, urging, (격려) spurring, (조르다) 촉구하다 urge, press, (요구하다) demand, call upon (a person to do)"
+      ]
+    },
+    {
+      "phrase": "촉구하다",
+      "hanja": " (促求하다)",
+      "example": {},
+      "meanings": [
+        "(재촉하다) press (sb to do), urge (sb to do), (요구하다) demand, (공식적으로) call (up)on (sb to do)"
+      ]
+    },
+    {
+      "phrase": "A가 B하도록 촉구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "call on A to B"
+      ]
+    },
+    {
+      "phrase": "규명을 촉구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "call for an urgent investigation"
+      ]
+    },
+    {
+      "phrase": "대답을 촉구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "press sb for an answer"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prod",
+      "frequency": 0
+    },
+    {
+      "meaning": "prodding",
+      "frequency": 0
+    },
+    {
+      "meaning": "exhort",
+      "frequency": 3
+    },
+    {
+      "meaning": "urge",
+      "frequency": 3
+    },
+    {
+      "meaning": "촉구",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "They had been exhorted to action. 듣기 Add to Wordbook 그들은 행동을 (취하도록) 촉구받았었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had been exhorted to action. Add to Wordbook"
+    },
+    {
+      "korean": "Both sides were urged to lay down their arms. 듣기 Add to Wordbook 양측 모두에게 무기를 내려놓으라[버리라]는 촉구가 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Both sides were urged to lay down their arms. Add to Wordbook"
+    },
+    {
+      "korean": "These riots should be a wake-up call for the government. 듣기 Add to Wordbook 이들 폭동은 정부의 주의를 촉구하는 사건이 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These riots should be a wake-up call for the government. Add to Wordbook"
+    },
+    {
+      "korean": "I urge the house to vote against the motion. 듣기 Add to Wordbook 저는 이 토의에 모인 여러분들께 그 발의에 반대표를 던지시기를 촉구하는 바입니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I urge the house to vote against the motion. Add to Wordbook"
+    },
+    {
+      "korean": "We urged them to sort out the problem sooner rather than later. 듣기 Add to Wordbook 우리는 그들에게 차라리 일찌감치 그 문제를 해결하라고 촉구했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We urged them to sort out the problem sooner rather than later. Add to Wordbook"
+    }
+  ]
+}

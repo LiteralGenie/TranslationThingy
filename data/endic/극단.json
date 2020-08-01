@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "극단",
+      "hanja": " (極端)",
+      "example": {},
+      "meanings": [
+        "(한쪽으로 크게 치우침) extreme"
+      ]
+    },
+    {
+      "phrase": "극단",
+      "hanja": " (劇團)",
+      "example": {},
+      "meanings": [
+        "(연극 단체) theater[drama] company, troupe"
+      ]
+    },
+    {
+      "phrase": "유랑 극단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "traveling theater (troupe), vagabond theater, wandering theater troupe"
+      ]
+    },
+    {
+      "phrase": "극단주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an extremist"
+      ]
+    },
+    {
+      "phrase": "국립극단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the National Drama Company of Korea"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "extreme",
+      "frequency": 3
+    },
+    {
+      "meaning": "theater",
+      "frequency": 3
+    },
+    {
+      "meaning": "pole 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "troupe",
+      "frequency": 0
+    },
+    {
+      "meaning": "immoderation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇게 극단적이면 위험한 거 아니야?",
+      "english": "If it's that extreme, isn't it dangerous?"
+    },
+    {
+      "korean": "[가수는 제목 따라간다는 속설의 극단적인 예] - '대박 났다' - '대박 났다' 약간 트로트 느낌으로?",
+      "english": "[Extreme case] - \"Huge wins\". - Like a trot song?"
+    },
+    {
+      "korean": "[여기 몇 층이지?][가망 없는 그림 실력에 극단적 탈출 시도] 여기 몇 층이냐? 그냥 뛰어내릴 수...",
+      "english": "[What floor we are now?] [lose all the faith in other members' drawing] What floor was it? I can just ..."
+    },
+    {
+      "korean": "연습 계속 열심히 하고 있어 - 극단적으로 가는 거예요?",
+      "english": "I'm practicing hard... - Are you going to retire?"
+    },
+    {
+      "korean": "핵심 코어가 좋다 - 이거 극단적으로 생각해야 되는 거죠?",
+      "english": "If I like the core. - It needs to be extreme, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "극단.",
+      "english": "a theatrical company"
+    },
+    {
+      "korean": "그 수상은 극단주의자들에 의해 암살당했다.",
+      "english": "The prime minister was assassinated by extremists."
+    },
+    {
+      "korean": "동일 극단[기획사] 소속 배우들",
+      "english": "actors from the same stable"
+    },
+    {
+      "korean": "극단적으로 스케이트보드 타기를 즐기는 사람들은 점프, 회전, 공중제비 등을 한다.",
+      "english": "Extreme skaters perform jumps, spins, flips, etc."
+    },
+    {
+      "korean": "사랑과 증오라는 양 극단",
+      "english": "extremes of love and hate"
+    }
+  ]
+}

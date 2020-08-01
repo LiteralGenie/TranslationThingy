@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "풍압",
+      "hanja": " (風壓)",
+      "example": {},
+      "meanings": [
+        "wind pressure"
+      ]
+    },
+    {
+      "phrase": "풍압하중",
+      "hanja": " (風壓荷重)",
+      "example": {},
+      "meanings": [
+        "Wind Load"
+      ]
+    },
+    {
+      "phrase": "발파 풍압",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blasting pressure"
+      ]
+    },
+    {
+      "phrase": "풍압 하중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wind pressure load"
+      ]
+    },
+    {
+      "phrase": "풍압을 고려하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "consider wind pressure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wind-force",
+      "frequency": 0
+    },
+    {
+      "meaning": "wind pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "wind-pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "wind pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "stress of wind",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "He also considered all possible wind pressures. 발음듣기 그는 또한 모든 가능한 풍압을 고려했습니다. TIMES CORE",
+      "english": "He also considered all possible wind pressures. 발음"
+    },
+    {
+      "korean": "The formula is used to determine wind loads, or the amount of wind the building is able to withstand for a certain amount of time. 발음듣기 그 공식은 풍하중 (풍압에 의해 구조물에 가해지는 하중)이나 특정 시간 동안 빌딩이 견딜 수 있는 바람의 양을 결정하는 데에 사용된다. TIMES CORE",
+      "english": "The formula is used to determine wind loads, or the amount of wind the building is able to withstand for a certain amount of time. 발음"
+    },
+    {
+      "korean": "Spectra of wind pressure Fluctuations on structures 발음듣기 건축물에 작용하는 풍압변동의 SPECTRUM에 관하여 Naver Academic",
+      "english": "Spectra of wind pressure Fluctuations on structures 발음"
+    },
+    {
+      "korean": "The application of computational wind engineering for a hemispherical dome 발음듣기 전산 풍공학을 이용한 돔구조물의 풍압계수 산정 Naver Academic",
+      "english": "The application of computational wind engineering for a hemispherical dome 발음"
+    },
+    {
+      "korean": "Simulation of Across-Wind Fluctuating Pressures Using Spectral Correction Method 발음듣기 스펙트럴 조정방법을 이용한 횡방향 변동풍압 시뮬레이션 Naver Academic",
+      "english": "Simulation of Across-Wind Fluctuating Pressures Using Spectral Correction Method 발음"
+    }
+  ]
+}

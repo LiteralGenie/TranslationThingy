@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "대체",
+      "hanja": " (代替)",
+      "example": {},
+      "meanings": [
+        "[명사] substitution, replacement, [동사] substitute (sth for sth), replace (sth with sth), (formal) supplant"
+      ]
+    },
+    {
+      "phrase": "대체",
+      "hanja": " (大體)",
+      "example": {},
+      "meanings": [
+        "(부정문에서) at all, (의문문에서) ever, (S) (how/what/why) on earth[in the world], (S, impolite) what the hell"
+      ]
+    },
+    {
+      "phrase": "대체(술)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 substitution"
+      ]
+    },
+    {
+      "phrase": "대체되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be substituted"
+      ]
+    },
+    {
+      "phrase": "대체 인력",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "substitute, replacement"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "replacement",
+      "frequency": 3
+    },
+    {
+      "meaning": "deuce",
+      "frequency": 0
+    },
+    {
+      "meaning": "backup",
+      "frequency": 0
+    },
+    {
+      "meaning": "supersession",
+      "frequency": 0
+    },
+    {
+      "meaning": "virement",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'대휘 안 잘 생긴 날이 대체 언제야?' \"When is it a day that you are not handsome?\" 듣기 View video AB6IX : 로센키🌹",
+      "english": "\"When is it a day that you are not handsome?\""
+    },
+    {
+      "korean": "[그냥 생긴 대로 나온 건데...] 뭐였는지 대체... [It's because I'm so handsome] I don't know... 듣기 View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[It's because I'm so handsome] I don't know..."
+    },
+    {
+      "korean": "[대체 뭐지?!] [What is that?!] View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[What is that?!]"
+    },
+    {
+      "korean": "나는? 나는 대체 뭔데? What about me? 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "What about me?"
+    },
+    {
+      "korean": "대체 뭔 소리니? What is this all about? 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "What is this all about?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Motorists are advised to find an alternative route. 듣기 Add to Wordbook 운전자들께서는 대체 루트를 찾아보실 것을 권합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Motorists are advised to find an alternative route. Add to Wordbook"
+    },
+    {
+      "korean": "Alternative medicine has been gaining credence recently. 듣기 Add to Wordbook 최근 들어 대체 의학이 (사람들의) 신뢰를 얻어 가고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Alternative medicine has been gaining credence recently. Add to Wordbook"
+    },
+    {
+      "korean": "He was deposed and replaced by a more pliant successor. 듣기 Add to Wordbook 그는 해임되고 더 순종적인 후임자로 대체되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was deposed and replaced by a more pliant successor. Add to Wordbook"
+    },
+    {
+      "korean": "What the deuce is he doing? 듣기 Add to Wordbook 그는 대체 뭘 하는 거야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What the deuce is he doing? Add to Wordbook"
+    },
+    {
+      "korean": "the opinion of the public at large 듣기 Add to Wordbook 일반 대중의 대체적인 여론 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the opinion of the public at large Add to Wordbook"
+    }
+  ]
+}

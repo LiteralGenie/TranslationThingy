@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "정말",
+      "hanja": " (正―)",
+      "example": {},
+      "meanings": [
+        "(명사)",
+        "(부사) really, truly, (formal) indeed"
+      ]
+    },
+    {
+      "phrase": "정말",
+      "hanja": " (正말)",
+      "example": {},
+      "meanings": [
+        "Adverb really (→정말로2)"
+      ]
+    },
+    {
+      "phrase": "정말",
+      "hanja": " (正말)",
+      "example": {},
+      "meanings": [
+        "Interjection oh no, darn it",
+        "Interjection definitely, for sure",
+        "Interjection darn it, damn"
+      ]
+    },
+    {
+      "phrase": "정말?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "감정 Really?"
+      ]
+    },
+    {
+      "phrase": "정말 같은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "likely",
+        "plausible",
+        "specious"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "really",
+      "frequency": 3
+    },
+    {
+      "meaning": "real",
+      "frequency": 3
+    },
+    {
+      "meaning": "so",
+      "frequency": 3
+    },
+    {
+      "meaning": "indeed",
+      "frequency": 3
+    },
+    {
+      "meaning": "sure",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[나도 껴줘] - 정말 항상... - 오!",
+      "english": "[Count me in] - Always... - Oh!"
+    },
+    {
+      "korean": "피부가 정말 화사하게 정돈이 되었죠?",
+      "english": "It creates natural and fresh glow."
+    },
+    {
+      "korean": "그렇죠? 뮤비들이 정말 찍을 때 진짜...",
+      "english": "Right? The music videos were so..."
+    },
+    {
+      "korean": "그것도 아직 준비하고 있으니까 여러분 정말...",
+      "english": "We're working on something so..."
+    },
+    {
+      "korean": "그렇죠? - 정말 소름 돋는 게 뭔지 아세요?",
+      "english": "Right? - Do you know what's uncanny?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "정말?!",
+      "english": "You don't say?!"
+    },
+    {
+      "korean": "사우나 안은 정말 뜨거웠어.",
+      "english": "It was really hot in the sauna."
+    },
+    {
+      "korean": "시내 클럽들이 정말 활발하다.",
+      "english": "The clubs in town are really hopping."
+    },
+    {
+      "korean": "그는 말하는 게 정말 고루한 영감태기 같아!",
+      "english": "He sounds like such an old fogey!"
+    },
+    {
+      "korean": "갓 구운 빵에서 나는 정말 고소한 냄새",
+      "english": "the delectable smell of freshly baked bread"
+    }
+  ]
+}

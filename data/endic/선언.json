@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "선언",
+      "hanja": " (宣言)",
+      "example": {},
+      "meanings": [
+        "announcement, declaration, proclamation, pronouncement, announce, declare, proclaim, pronounce"
+      ]
+    },
+    {
+      "phrase": "인권 선언",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Declaration of Human Rights"
+      ]
+    },
+    {
+      "phrase": "독립선언",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Declaration of Independence"
+      ]
+    },
+    {
+      "phrase": "양심선언",
+      "hanja": " (良心宣言)",
+      "example": {},
+      "meanings": [
+        "whistle-blowing"
+      ]
+    },
+    {
+      "phrase": "폭탄선언",
+      "hanja": " (爆彈宣言)",
+      "example": {},
+      "meanings": [
+        "bombshell"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "declaration",
+      "frequency": 1
+    },
+    {
+      "meaning": "proclamation",
+      "frequency": 1
+    },
+    {
+      "meaning": "pronouncement",
+      "frequency": 1
+    },
+    {
+      "meaning": "enunciation",
+      "frequency": 0
+    },
+    {
+      "meaning": "pronouncing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[정식으로 선언한다] 왜요? [Now, it's official] Why? 듣기 View video V PICK! : [WOODZ] 뜽요는 (외)이로케 (교)옴둥인지 (형)용 할 수가 없다 (WOODZ’s MBTI check)",
+      "english": "[Now, it's official] Why?"
+    },
+    {
+      "korean": "혹시 포기 선언도 괜찮나요? Is it okay to say that we gave up? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "Is it okay to say that we gave up?"
+    },
+    {
+      "korean": "[비명과 함께 망고 포기 선언] 난 안 할란다! I don't want to do it! 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "I don't want to do it!"
+    },
+    {
+      "korean": "[정식으로 선언한다] 시즈니밖에 없는 거 같아요! [Let me announce officially] NCTzen is the best! 듣기 View video V PICK! : [NCT] 런쥔이는 삐약삐약🐥 나는 런쥔이 귀여워서 삐용삐용🚨 (RENJUN talking about hotel episode with Jisung)",
+      "english": "[Let me announce officially] NCTzen is the best!"
+    },
+    {
+      "korean": "저기 포기 안 되고요! - 포기 선언도 괜찮은 건가요? You can't give up. - Is it okay to say that we gave up? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "You can't give up. - Is it okay to say that we gave up?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the principles embodied in the Declaration of Human Rights 발음듣기 인권 선언에 구현된 원칙들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the principles embodied in the Declaration of Human Rights 발음"
+    },
+    {
+      "korean": "to announce/declare/withdraw your candidacy for the post 발음듣기 그 직책에 출마를 발표하다/선언하다/철회하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to announce/declare/withdraw your candidacy for the post 발음"
+    },
+    {
+      "korean": "The new theatre was inaugurated by the mayor. 발음듣기 그 새 극장은 시장이 개관을 선언했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new theatre was inaugurated by the mayor. 발음"
+    },
+    {
+      "korean": "The declaration proclaimed the full sovereignty of the republic. 발음듣기 그 선언서는 그 공화국의 완전한 자주를 선언했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The declaration proclaimed the full sovereignty of the republic. 발음"
+    },
+    {
+      "korean": "The treaty was declared invalid because it had not been ratified. 발음듣기 그 조약은 비준을 받지 않았으므로 무효라고 선언되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The treaty was declared invalid because it had not been ratified. 발음"
+    }
+  ]
+}

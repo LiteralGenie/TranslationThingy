@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "소문",
+      "hanja": " (所聞)",
+      "example": {},
+      "meanings": [
+        "rumor (about/of/that), hearsay, (가십) gossip, (거짓된) (Am, inf) scuttlebutt"
+      ]
+    },
+    {
+      "phrase": "소문이 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be talked[gossiped] about",
+        "become the talk (of)",
+        "be on the grapevine"
+      ]
+    },
+    {
+      "phrase": "소문이 돌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rumors spread[circulate]",
+        "a rumor is abroad"
+      ]
+    },
+    {
+      "phrase": "소문이 퍼지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rumor spreads (abroad)"
+      ]
+    },
+    {
+      "phrase": "소문을 퍼뜨리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "spread[start] a rumor",
+        "set a rumor afloat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "whisper",
+      "frequency": 3
+    },
+    {
+      "meaning": "talk",
+      "frequency": 3
+    },
+    {
+      "meaning": "rumour",
+      "frequency": 3
+    },
+    {
+      "meaning": "word",
+      "frequency": 3
+    },
+    {
+      "meaning": "gossip",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소문, 미담 더 퍼트려요 우리 팬들! Fans, spread more of the rumors! 듣기 View video AB6IX : 로센키🌹",
+      "english": "Fans, spread more of the rumors!"
+    },
+    {
+      "korean": "요새 윤기 3대 450 친다는 소문이 있어요 - 요즘... I heard SUGA lifts 450. - These days... 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "I heard SUGA lifts 450. - These days..."
+    },
+    {
+      "korean": "학교에 소문 퍼지면 어떻게 될 거 같아? What do you think will happen if people in school know about that? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "What do you think will happen if people in school know about that?"
+    },
+    {
+      "korean": "\"뭘 먹어야 잘 먹었다고 소문이 날까요?\" \"What food will satisfy me?\" 듣기 View video GOT7 : 주말 유겸이",
+      "english": "\"What food will satisfy me?\""
+    },
+    {
+      "korean": "수빈이 복근 있다는 소문이 있다고요? There's a rumor SOOBIN has six packs? 듣기 View video TOMORROW X TOGETHER : 수빈입니다!",
+      "english": "There's a rumor SOOBIN has six packs?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The White House was swift to deny the rumours. 듣기 Add to Wordbook 백악관은 재빨리 그 소문을 부인했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The White House was swift to deny the rumours. Add to Wordbook"
+    },
+    {
+      "korean": "Rumours are rife that he is going to resign. 듣기 Add to Wordbook 그가 사임할 것이라는 소문이 널리 퍼져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rumours are rife that he is going to resign. Add to Wordbook"
+    },
+    {
+      "korean": "She kept them plentifully supplied with gossip. 듣기 Add to Wordbook 그녀는 그들에게 소문을 계속 풍부하게 제공했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She kept them plentifully supplied with gossip. Add to Wordbook"
+    },
+    {
+      "korean": "The police moved quickly to dispel the rumours. 듣기 Add to Wordbook 경찰이 그 소문을 불식시키기 위해 재빨리 조치를 취했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police moved quickly to dispel the rumours. Add to Wordbook"
+    },
+    {
+      "korean": "Rumours of his resignation swept through the company. 듣기 Add to Wordbook 그가 사임한다는 소문이 회사 전체에 급속히 퍼졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rumours of his resignation swept through the company. Add to Wordbook"
+    }
+  ]
+}

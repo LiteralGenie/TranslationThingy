@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "밥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(쌀 등을 재료로 한 음식) (쌀밥) steamed rice, boiled[cooked] rice, (잡곡밥) boiled rice and cereals",
+        "(끼니) meal, (음식) food",
+        "(동물의 먹이) food, feed"
+      ]
+    },
+    {
+      "phrase": "밥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "음식 (한식) Cooked Grains (로마자표기: Bap)"
+      ]
+    },
+    {
+      "phrase": "bob",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (특히 물 위에서) 깐닥거리다, 까닥거리다",
+        "Verb 단발머리로 자르다",
+        "Noun (머리몸을) 까닥거림"
+      ]
+    },
+    {
+      "phrase": "bop",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 英, 비격식 밥[디스코](팝 음악에 맞춰 추는 춤), 밥[디스코] 파티",
+        "Noun (=bebop)",
+        "Verb 英, 비격식 밥[디스코] 춤을 추다"
+      ]
+    },
+    {
+      "phrase": "bob",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (위아래로) 재빠르게 움직이기, 가벼운 인사",
+        "Noun 댄스",
+        "Transitive verb (급하게) 위아래로 움직이다[흔들다], 왈칵 잡아당기다, 살짝 밀다"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "meal",
+      "frequency": 3
+    },
+    {
+      "meaning": "dinner",
+      "frequency": 3
+    },
+    {
+      "meaning": "rice",
+      "frequency": 3
+    },
+    {
+      "meaning": "bop",
+      "frequency": 0
+    },
+    {
+      "meaning": "nosh",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'밥 먹었어?' 밥?",
+      "english": "\"Did you eat?\" Food?"
+    },
+    {
+      "korean": "밥은 먹었어요?",
+      "english": "Did you eat?"
+    },
+    {
+      "korean": "'밥 먹었어요?'",
+      "english": "\"Did you eat?\""
+    },
+    {
+      "korean": "밥 먹었죠 여러분들 다 밥 먹었나요?",
+      "english": "I did eat... Did you eat as well?"
+    },
+    {
+      "korean": "여러분 밥은 먹었나요?",
+      "english": "Have you all eaten, everyone?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 밥을 먹고 나자 몸이 몹시 무겁고 나른했다.",
+      "english": "He felt very heavy and sluggish after the meal."
+    },
+    {
+      "korean": "고양이 밥 벌써 줬니?",
+      "english": "Have you fed the cat yet?"
+    },
+    {
+      "korean": "밥 먹으러 가는 거 어때?",
+      "english": "How about going for a meal?"
+    },
+    {
+      "korean": "그는 밥을 직접 해 먹어야 한다.",
+      "english": "He has to cook his own meals."
+    },
+    {
+      "korean": "우리는 주방 식탁에서 밥을 먹었다.",
+      "english": "We ate at the kitchen table."
+    }
+  ]
+}

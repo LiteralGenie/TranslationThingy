@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "컵",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(잔) (paper/plastic) cup, tumbler, (유리로 된) glass, (머그잔) mug, (손잡이가 달린 큰 금속잔) tankard",
+        "(단위) cup, glass",
+        "(브래지어의 사이즈) cup"
+      ]
+    },
+    {
+      "phrase": "cup",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 컵, 잔",
+        "Noun 한 잔 (분량)",
+        "Verb 두 손을 (컵 모양으로) 동그랗게 모아 쥐다"
+      ]
+    },
+    {
+      "phrase": "curb",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (특히 좋지 못한 것을) 억제[제한]하다 (=check)",
+        "Noun 제한[억제]하는 것"
+      ]
+    },
+    {
+      "phrase": "cub",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (곰·사자·여우 등의) 새끼",
+        "Noun 英 컵스[컵 스카우트](8-11세 소년들이 참가하는, 보이 스카우트의 한 분파)",
+        "Noun 컵(Cubs의 회원) (→Brownie)"
+      ]
+    },
+    {
+      "phrase": "kerb ( curb )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 도로 경계석, (차도 가의) 연석[갓돌](이 길게 놓인 부분)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cup",
+      "frequency": 3
+    },
+    {
+      "meaning": "cub",
+      "frequency": 3
+    },
+    {
+      "meaning": "c",
+      "frequency": 0
+    },
+    {
+      "meaning": "brimmer",
+      "frequency": 0
+    },
+    {
+      "meaning": "cannikin",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소울컵 최애 메뉴? Favorite menu in Soul Cup? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Favorite menu in Soul Cup?"
+    },
+    {
+      "korean": "물컵 긴 게 너무 좋지 않아요? 그리고 이건 그 맥주컵... Aren't tall glasses so great? And this is a beer glass... 듣기 View video Park Bo Young : 연락👋🏼",
+      "english": "Aren't tall glasses so great? And this is a beer glass..."
+    },
+    {
+      "korean": "아이고 여러분 이 컵 예쁘죠? 아무 말이나 한다 이거 봐요 컵 예쁘죠? Everyone! This cup is pretty, right? A day of rambling. Look at this! This cup is pretty, right? 듣기 View video Park Bo Young : 연락👋🏼",
+      "english": "Everyone! This cup is pretty, right? A day of rambling. Look at this! This cup is pretty, right?"
+    },
+    {
+      "korean": "컵 없나? Is there no cup? 듣기 View video AB6IX : 심야동방🌜 #3",
+      "english": "Is there no cup?"
+    },
+    {
+      "korean": "컵 받침이요? - 컵 받침! A coaster? - Coaster! 듣기 View video Dispatch : [ⓓxV] “슈퍼엠도 해봤다! 굿즈 언박싱” (Super M)",
+      "english": "A coaster? - Coaster!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a smudge of lipstick on a cup 듣기 Add to Wordbook 컵에 묻은 립스틱 자국 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a smudge of lipstick on a cup Add to Wordbook"
+    },
+    {
+      "korean": "everyday objects such as cups and saucers 듣기 Add to Wordbook 컵과 컵받침같이 일상생활에서 쓰는 물건들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "everyday objects such as cups and saucers Add to Wordbook"
+    },
+    {
+      "korean": "a badly chipped saucer 듣기 Add to Wordbook 이가 많이 빠진 컵 받침접시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a badly chipped saucer Add to Wordbook"
+    },
+    {
+      "korean": "two cups of flour and half a cup of butter 듣기 Add to Wordbook 밀가루 두 컵과 버터 반 컵 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "two cups of flour and half a cup of butter Add to Wordbook"
+    },
+    {
+      "korean": "cups patterned with yellow flowers 듣기 Add to Wordbook 노란 색 꽃무늬가 있는 컵 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "cups patterned with yellow flowers Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(새로운 신분·지위 등을 갖다) be, become",
+        "(다른 것으로 변하다) turn[change] (in)to, (발전하다) develop into",
+        "(때·시기 등에 이르다) be, come, become, (나이가) reach, (formal) attain, (경과하다) pass"
+      ]
+    },
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물기가 적어 뻑뻑하다) thick, stiff"
+      ]
+    },
+    {
+      "phrase": "-되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동사적 명사에 붙어) become, get to be, be",
+        "(형용사·부사적 어근에 붙어) be"
+      ]
+    },
+    {
+      "phrase": "오래된",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "old",
+        "ancient",
+        "antique"
+      ]
+    },
+    {
+      "phrase": "격자로 된",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "latticed",
+        "coffered"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tachytelic",
+      "frequency": 0
+    },
+    {
+      "meaning": "designatory",
+      "frequency": 0
+    },
+    {
+      "meaning": "proper",
+      "frequency": 3
+    },
+    {
+      "meaning": "written",
+      "frequency": 3
+    },
+    {
+      "meaning": "ready",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "된 거예요?",
+      "english": "Is it on now?"
+    },
+    {
+      "korean": "된 건가? 왜 난 안 떠?",
+      "english": "Is it on? Why can't I see it?"
+    },
+    {
+      "korean": "5분이나 늦고 있어 어떻게 된 일이지?",
+      "english": "They're 5 minutes late. What happened?"
+    },
+    {
+      "korean": "뭐... 지금... - 뭐... - 된 게 있나요?",
+      "english": "Um... is there... - What... - Is there one?"
+    },
+    {
+      "korean": "이왕 이렇게 된 거 먹방 콘텐츠로 그냥 바꿔버릴까?",
+      "english": "Should we just turn it into an eating show?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "고기와 감자로 된 주식",
+      "english": "a staple diet of meat and potatoes"
+    },
+    {
+      "korean": "오래된 사진의 누르스름한 색조",
+      "english": "the brownish tint of an old photo"
+    },
+    {
+      "korean": "하얀 레이스로 된 칼라와 소맷동",
+      "english": "a collar and cuffs of white lace"
+    },
+    {
+      "korean": "샴푸와 컨디셔너가 하나로 된 것",
+      "english": "an all-in-one shampoo and conditioner"
+    },
+    {
+      "korean": "시골 특유의 매력이 가득한 오래된 시골 집",
+      "english": "an old cottage full of rustic charm"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "구하다",
+      "hanja": " (求―)",
+      "example": {},
+      "meanings": [
+        "(필요한 것을) look[search] for, obtain, (formal) seek, (찾아내다) find (out), (얻다) get",
+        "(조언·양해·용서 등을) ask (for), request, (formal) seek, turn to (=청하다)",
+        "(답·수치 등을) find, (계산하다) calculate"
+      ]
+    },
+    {
+      "phrase": "구하다",
+      "hanja": " (救―)",
+      "example": {},
+      "meanings": [
+        "(위험에서) rescue[save] (sb from sth), (곤경에서) (formal) extricate (sb from sth)"
+      ]
+    },
+    {
+      "phrase": "구할 길이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be helpless",
+        "be beyond remedy",
+        "be past[beyond] redemption[salvation]"
+      ]
+    },
+    {
+      "phrase": "구할 도리가 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hopeless",
+        "desperate",
+        "helpless"
+      ]
+    },
+    {
+      "phrase": "그런데 티켓은 구할 수 있을까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "극장에서의 표현 By the way, can we get tickets?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "available",
+      "frequency": 3
+    },
+    {
+      "meaning": "obtainable",
+      "frequency": 3
+    },
+    {
+      "meaning": "life-saving",
+      "frequency": 0
+    },
+    {
+      "meaning": "on hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "scrape (the bottom of) the barrel",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아니요 구할 수 있어요 - 구할 수 있어요? No way. You can get it. - Yeah? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "No way. You can get it. - Yeah?"
+    },
+    {
+      "korean": "내가 구할 수 있을까? Can I figure it out? 듣기 View video 콬TV (WHYNOT) : 첫키스는 너랑 하고 싶어 [연애미수] EP06",
+      "english": "Can I figure it out?"
+    },
+    {
+      "korean": "그래서 누구 구할 거야? Who will you rescue? 듣기 View video 콬TV (WHYNOT) : 속마음을 전달할 수 있는 마지막 기회 #썸파티ㅣ[리얼하이로맨스S2] EP18",
+      "english": "Who will you rescue?"
+    },
+    {
+      "korean": "물에 빠졌을 때 제일 먼저 구할 한 명은? Who will you rescue first from the water? 듣기 View video 콬TV (WHYNOT) : 속마음을 전달할 수 있는 마지막 기회 #썸파티ㅣ[리얼하이로맨스S2] EP18",
+      "english": "Who will you rescue first from the water?"
+    },
+    {
+      "korean": "[취중썸카 질문] \"전부 물에 빠졌을 때 제일 먼저 구할 한 명은?\" [Question] \"If everybody is about to drown, who will you rescue?\" 듣기 View video 콬TV (WHYNOT) : 속마음을 전달할 수 있는 마지막 기회 #썸파티ㅣ[리얼하이로맨스S2] EP18",
+      "english": "[Question] \"If everybody is about to drown, who will you rescue?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We only managed to salvage two paintings from the fire. 듣기 Add to Wordbook 우리는 그 화재에서 겨우 그림 두 점을 구할 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We only managed to salvage two paintings from the fire. Add to Wordbook"
+    },
+    {
+      "korean": "We improvised some shelves out of planks of wood and bricks. 듣기 Add to Wordbook 우리는 구할 수 있는 대로 널판자와 벽돌을 가지고 선반을 좀 만들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We improvised some shelves out of planks of wood and bricks. Add to Wordbook"
+    },
+    {
+      "korean": "This was the only room available. 듣기 Add to Wordbook 이 방이 구할 수 있는 유일한 방이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This was the only room available. Add to Wordbook"
+    },
+    {
+      "korean": "Nothing but a miracle can save her now. 듣기 Add to Wordbook 이제 오직 기적만이 그녀를 구할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nothing but a miracle can save her now. Add to Wordbook"
+    },
+    {
+      "korean": "Is it available in sufficient quantity? 듣기 Add to Wordbook 그것을 충분한 수량을 구할 수 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is it available in sufficient quantity? Add to Wordbook"
+    }
+  ]
+}

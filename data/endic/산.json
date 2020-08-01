@@ -1,0 +1,108 @@
+{
+  "phrases": [
+    {
+      "phrase": "산",
+      "hanja": " (山)",
+      "example": {},
+      "meanings": [
+        "mountain, (산 이름 앞에 쓰여) Mount ((abb.)Mt.)"
+      ]
+    },
+    {
+      "phrase": "산",
+      "hanja": " (酸)",
+      "example": {},
+      "meanings": [
+        "(화학) acid"
+      ]
+    },
+    {
+      "phrase": "-산",
+      "hanja": " (産)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "산-",
+      "hanja": " (山-)",
+      "example": {},
+      "meanings": [
+        "wild, wild growing."
+      ]
+    },
+    {
+      "phrase": "san",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 속어 (=SANATORIUM)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "acid",
+      "frequency": 3
+    },
+    {
+      "meaning": "mountain",
+      "frequency": 3
+    },
+    {
+      "meaning": "mount",
+      "frequency": 3
+    },
+    {
+      "meaning": "hill",
+      "frequency": 3
+    },
+    {
+      "meaning": "peak",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[나는 산!] 산!",
+      "english": "[I pick mountain!] Mountain!"
+    },
+    {
+      "korean": "미국에서 산 거?",
+      "english": "Things I shopped in the US?"
+    },
+    {
+      "korean": "[점점 산으로 가는 대답] 재혁이 형의 사랑?",
+      "english": "[Wrong answer] JAE HYUK's love?"
+    },
+    {
+      "korean": "\"미국에서 산 향수 어떤 계열이야?\"",
+      "english": "\"The perfume you got in the US, what is it like?\""
+    },
+    {
+      "korean": "산호세~ - 산호세~ - 산호세 산을 넘어 산을 넘어~",
+      "english": "San Jose. - San Jose. - Across the mountain, across the mountains."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그들은 산 정상에 깃발을 꽂았다.",
+      "english": "They planted a flag on the summit."
+    },
+    {
+      "korean": "멀리 검게 불쑥 솟아 있는 그 산",
+      "english": "the dark hump of the mountain in the distance"
+    },
+    {
+      "korean": "두 명의 남자가 산에서 동사했다.",
+      "english": "Two men froze to death on the mountain."
+    },
+    {
+      "korean": "고운 가랑비에 산들이 가려지기 시작했다.",
+      "english": "A fine drizzle began to veil the hills."
+    },
+    {
+      "korean": "옅은 안개가 산꼭대기들을 휘감고 있었다.",
+      "english": "Mist coiled around the tops of the hills."
+    }
+  ]
+}

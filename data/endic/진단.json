@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "진단",
+      "hanja": " (診斷)",
+      "example": {},
+      "meanings": [
+        "(의사의) diagnosis (diagnoses), diagnose, make a diagnosis (of)",
+        "(상태·현상 등의) diagnosis, (formal) prognosis, diagnose, (formal) make a prognosis"
+      ]
+    },
+    {
+      "phrase": "진단(법)",
+      "hanja": " (診斷(法))",
+      "example": {},
+      "meanings": [
+        "의학 diagnostics"
+      ]
+    },
+    {
+      "phrase": "진단(질병의)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_특허 diagnosis (of human diseases)"
+      ]
+    },
+    {
+      "phrase": "자가 진단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "self-diagnosis"
+      ]
+    },
+    {
+      "phrase": "경영 진단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a check of management efficiency"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "diagnosis",
+      "frequency": 3
+    },
+    {
+      "meaning": "diagnostication",
+      "frequency": 0
+    },
+    {
+      "meaning": "Smart Bioanalysis, Diagnosis",
+      "frequency": 0
+    },
+    {
+      "meaning": "eICU",
+      "frequency": 0
+    },
+    {
+      "meaning": "Medical diagnosis",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[홍채로 치아를 진단하는 돌팔이 채령 쌤] 이 언니 돌팔이! She's a quack doctor! 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP44. 가요대축제에 있지!",
+      "english": "She's a quack doctor!"
+    },
+    {
+      "korean": "진단 좀 해보자. Let's make a diagnosis. 듣기 View video 뷰티로그(beautylog) : [뷰티로그 6회]프로탈색러 원대의 두피관리의 모든 것!",
+      "english": "Let's make a diagnosis."
+    },
+    {
+      "korean": "피부 진단 받아볼까요? Should I check my skin? 듣기 View video KONGSUENI : [Kongsueni 콩슈니] Get it beauty Con 겟잇뷰티콘 같이구경해요☆❤",
+      "english": "Should I check my skin?"
+    },
+    {
+      "korean": "제 헤어 진단을 부탁드릴게요. Please tell me the state of my hair right now. 듣기 View video V Beauty : [박서울x살롱드부띠끄] 레드벨벳 아이린 토끼피부/여신머리 배워보자!! [Redvelvet Irene]",
+      "english": "Please tell me the state of my hair right now."
+    },
+    {
+      "korean": "[뜨끔] 정확한 진단을 또 해주셨네요. [Prickly] That's a very accurate analysis. 듣기 View video V PICK! : [V DRAMA] 이미 얼굴로 핵인싸인 대영이와 지우❤️ (Dujun&Jinhee talking about sociability)",
+      "english": "[Prickly] That's a very accurate analysis."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "specific conditions which are diagnostic of AIDS 듣기 Add to Wordbook 에이즈로 진단되는 특수한 상태 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "specific conditions which are diagnostic of AIDS Add to Wordbook"
+    },
+    {
+      "korean": "He has recently been diagnosed with angina. 듣기 Add to Wordbook 그는 최근에 협심증이라는 진단을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has recently been diagnosed with angina. Add to Wordbook"
+    },
+    {
+      "korean": "He was diagnosed (as) a diabetic when he was 64. 듣기 Add to Wordbook 그는 64세 때 당뇨병[당뇨병 환자]이라는 진단을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was diagnosed (as) a diabetic when he was 64. Add to Wordbook"
+    },
+    {
+      "korean": "Some foetal malformations cannot be diagnosed until late in pregnancy. 듣기 Add to Wordbook 태아 기형 중 일부는 임신 후반이 되어야 진단할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some foetal malformations cannot be diagnosed until late in pregnancy. Add to Wordbook"
+    },
+    {
+      "korean": "The roof was declared unsafe. 듣기 Add to Wordbook 그 지붕은 안전하지 못하다는 진단을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The roof was declared unsafe. Add to Wordbook"
+    }
+  ]
+}

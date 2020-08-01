@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "물류",
+      "hanja": " (物流)",
+      "example": {},
+      "meanings": [
+        "distribution"
+      ]
+    },
+    {
+      "phrase": "물류 창고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "warehouse"
+      ]
+    },
+    {
+      "phrase": "물류 센터에서 일하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "work at a distribution center"
+      ]
+    },
+    {
+      "phrase": "물류 회사를 설립하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "establish[found] a logistics company"
+      ]
+    },
+    {
+      "phrase": "물류 산업",
+      "hanja": " (物流産業)",
+      "example": {},
+      "meanings": [
+        "the distribution industry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "physical distribution(PD)",
+      "frequency": 0
+    },
+    {
+      "meaning": "distribution center",
+      "frequency": 0
+    },
+    {
+      "meaning": "materials management",
+      "frequency": 0
+    },
+    {
+      "meaning": "PDVAN",
+      "frequency": 0
+    },
+    {
+      "meaning": "한국관세협회",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[차OO 씨 (29세 물류업자)] 근데 건강한 나이인데 벌써 필요한가? [Cha (29, Logistics)] Such healthy age... do they need those already? 듣기 View video Dingo Story / 딩고스토리 : 이상형과 만나지 못하는 이유_EP17_[라이크LIKE]",
+      "english": "[Cha (29, Logistics)] Such healthy age... do they need those already?"
+    },
+    {
+      "korean": "물류창고 안에... Inside a warehouse... 듣기 View video BTOB : 비투비 - THE BEAT SEASON 4 -05- '비투비 사생대회'",
+      "english": "Inside a warehouse..."
+    },
+    {
+      "korean": "거짓말 하지마. - 물류 창고. Don't lie. - This is a warehouse. 듣기 View video BTOB : 비투비 - THE BEAT SEASON 4 -05- '비투비 사생대회'",
+      "english": "Don't lie. - This is a warehouse."
+    },
+    {
+      "korean": "곡물에 물류에 시시때때의 사정이... 어디로 흘러들어가겠습니까? Grains and other goods... Where do you think it would go? 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "Grains and other goods... Where do you think it would go?"
+    },
+    {
+      "korean": "곡물에 물류에 시시 때때의 사정이 어디로 흘러들어 가겠습니까. It shows everything about logistics and the flow of crops. 듣기 View video V MOVIE : <고산자, 대동여지도> 무비토크 라이브 ' Movie Talk Live'",
+      "english": "It shows everything about logistics and the flow of crops."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Global interconnectivity affects international logistics. 듣기 Add to Wordbook 전 세계의 상호 연결성은 국가 간 물류에 영향을 준다. 국제영어대학원대학교 신어사전",
+      "english": "Global interconnectivity affects international logistics. Add to Wordbook"
+    },
+    {
+      "korean": "Countries with advanced shipping ranked high in the Logistics Performance Index. 듣기 Add to Wordbook 해상 무역이 발달한 나라의 물류 성과 지수가 높았다. 국제영어대학원대학교 신어사전",
+      "english": "Countries with advanced shipping ranked high in the Logistics Performance Index. Add to Wordbook"
+    },
+    {
+      "korean": "Which Mr. Baker is in charge of logistics? 듣기 Add to Wordbook 어느 베이커 씨가 물류 업무를 담당하고 있나요? Neungyule",
+      "english": "Which Mr. Baker is in charge of logistics? Add to Wordbook"
+    },
+    {
+      "korean": "The adjustment is expected to cut logistics costs. 듣기 Add to Wordbook 이 조정은 물류비용을 줄일 것으로 예상됩니다. Neungyule",
+      "english": "The adjustment is expected to cut logistics costs. Add to Wordbook"
+    },
+    {
+      "korean": "The products were loaded on the truck and transported to the logistics center. 듣기 Add to Wordbook 상품들이 트럭에 실려 물류 센터로 운송되었다 Neungyule",
+      "english": "The products were loaded on the truck and transported to the logistics center. Add to Wordbook"
+    }
+  ]
+}

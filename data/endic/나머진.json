@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "나머지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(남은 부분) the rest, the remainder",
+        "(나눗셈에서) remainder",
+        "('~한 나머지'의 형태로 쓰여)"
+      ]
+    },
+    {
+      "phrase": "나머지 빚",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the balance of one´s debt",
+        "the balance owed"
+      ]
+    },
+    {
+      "phrase": "나머지 돈",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the money left"
+      ]
+    },
+    {
+      "phrase": "나머지 반",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the other half"
+      ]
+    },
+    {
+      "phrase": "나머지 일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the remaining work",
+        "the rest of the work"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rest",
+      "frequency": 2
+    },
+    {
+      "meaning": "remainder",
+      "frequency": 1
+    },
+    {
+      "meaning": "remains",
+      "frequency": 2
+    },
+    {
+      "meaning": "딴것",
+      "frequency": 0
+    },
+    {
+      "meaning": "remnant",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나머진 모르겠어. I don't know about the rest. 듣기 View video PENTAGON : [펜타곤 교과서 시즌5] EP. 1 - 발표 시간",
+      "english": "I don't know about the rest."
+    },
+    {
+      "korean": "나머진 네가 다 먹으면 돼. The rest you can eat. 듣기 View video V PICK! : [Stray Kids] 핑크뽀이들 의문의 방송에 스테이들 (꿈뻑)(귀여워)(꿈뻑) (Changbin&Hyunjin’s mysterious V)",
+      "english": "The rest you can eat."
+    },
+    {
+      "korean": "1등이 2개 먹고 나머진 다 먹고 꼴등은 먹지 말래요. They're saying the first place should get two, the rest get one, and the last place gets none. 듣기 View video V PICK! : [fromis_9] 이모 여기 국이 너무..짜! 릿한 럽-럽-럽밤❤️💣(fromis_9 introducing their new album)",
+      "english": "They're saying the first place should get two, the rest get one, and the last place gets none."
+    },
+    {
+      "korean": "나머진 또 다른 게임을 하겠지요. Then the rest will do another game. 듣기 View video IDOL x IDOL : BLOOMY - 블루미 '블루미 상담실'",
+      "english": "Then the rest will do another game."
+    },
+    {
+      "korean": "나머진 하시고 싶은대로 하면 됩니다. And do the rest part as you want. 듣기 View video IDOL x IDOL : BEAT WIN - 비트윈 'Broken'",
+      "english": "And do the rest part as you want."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Just buy the plane ticket, and I will take care of the rest. 발음듣기 그냥 비행기 티켓이나 구입해둬. 나머진 내가 알아서 할 테니. YBM All in All English-Korean Dictionary",
+      "english": "Just buy the plane ticket, and I will take care of the rest. 발음"
+    },
+    {
+      "korean": "Still listen to Darude every now and again, but the rest is gone and forgotten. 발음듣기 여전히 지금도 반복해서 Darude의 노래를 듣고있지만, 나머진 사라지고 잊어버렸다. User translation Inaccurate information may be included due to the users' self-traslation. wi(dawn****) Web Collection",
+      "english": "Still listen to Darude every now and again, but the rest is gone and forgotten. 발음"
+    },
+    {
+      "korean": "One is true, the other is not. 발음듣기 하나는 사실이에요,나머진 아니에요. User translation Inaccurate information may be included due to the users' self-traslation. Sunny Jeong(hane****) Web Collection",
+      "english": "One is true, the other is not. 발음"
+    },
+    {
+      "korean": "You may imagine what followed. 발음듣기 나머진 상상에 맡긴다. User translation Inaccurate information may be included due to the users' self-traslation. m0m1m2(drak****) Web Collection",
+      "english": "You may imagine what followed. 발음"
+    },
+    {
+      "korean": "Find a member of the Black family and kill the rest. 발음듣기 존과 스튜어트는 생포하고 나머진 죽여. hansemEUG",
+      "english": "Find a member of the Black family and kill the rest. 발음"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "could",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Modal verb can의 과거형",
+        "Modal verb <무엇을 해도 되는지 물어 볼 때 씀>",
+        "Modal verb <무엇을 해 달라고 정중히 부탁할 때 씀>"
+      ]
+    },
+    {
+      "phrase": "can",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Modal verb <가능> …할 수 있다",
+        "Modal verb <능력> …할 줄 알다",
+        "Modal verb <동사 feel, hear, see, smell, taste와 함께 쓰여 그런 감각이 느껴짐을 나타냄>"
+      ]
+    },
+    {
+      "phrase": "couldn't",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "could not의 단축형"
+      ]
+    },
+    {
+      "phrase": "couldn't care less",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "신경 쓸 필요도 없다고 생각하다"
+      ]
+    },
+    {
+      "phrase": "I could eat a horse",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(너무 배가 고파서) 소를 한 마리 줘도 다 먹을 것 같다"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cd",
+      "frequency": 0
+    },
+    {
+      "meaning": "내 기분이 누그러질 수도 있어.",
+      "frequency": 0
+    },
+    {
+      "meaning": "좀 더 자세히 설명해 주시겠습니까?",
+      "frequency": 0
+    },
+    {
+      "meaning": "언제든 그냥 들어가면 되잖아?",
+      "frequency": 0
+    },
+    {
+      "meaning": "저도 어쩔 수 없었어요.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그러게 - 들킬 수도 있다! Yeah. - They could get caught. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Yeah. - They could get caught."
+    },
+    {
+      "korean": "누가 봐도 사랑이 느껴졌잖아~ Anyone could feel the love! 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "Anyone could feel the love!"
+    },
+    {
+      "korean": "죄송한데 볼륨 살짝만... Could you lower your voice a little bit? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "Could you lower your voice a little bit?"
+    },
+    {
+      "korean": "아 겨드랑이 치면 잘 빠진다고요? Ah, one could lose weight if you hit the armpit? 듣기 View video MONSTA X : LIVE : 다시 🐢",
+      "english": "Ah, one could lose weight if you hit the armpit?"
+    },
+    {
+      "korean": "[이 정도면] 성공하겠는데? [If options are like these] I guess we could succeed ... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[If options are like these] I guess we could succeed ..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Waiter, could you bring me some water? 듣기 Add to Wordbook 웨이터, 물 좀 가져다 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Waiter, could you bring me some water? Add to Wordbook"
+    },
+    {
+      "korean": "She could taste the saltiness of her tears. 듣기 Add to Wordbook 그녀는 눈물의 짭짤한 맛이 느껴졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She could taste the saltiness of her tears. Add to Wordbook"
+    },
+    {
+      "korean": "He could scarcely keep in his indignation. 듣기 Add to Wordbook 그는 분노를 감추기 어려웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He could scarcely keep in his indignation. Add to Wordbook"
+    },
+    {
+      "korean": "Could you fax me the latest version? 듣기 Add to Wordbook 가장 최근의 안을 팩스로 제게 보내 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Could you fax me the latest version? Add to Wordbook"
+    },
+    {
+      "korean": "The volcano could erupt at any time. 듣기 Add to Wordbook 그 화산은 언제든지 분출할 수 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The volcano could erupt at any time. Add to Wordbook"
+    }
+  ]
+}

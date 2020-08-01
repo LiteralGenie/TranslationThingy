@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "폭발",
+      "hanja": " (暴發)",
+      "example": {},
+      "meanings": [
+        "(감정 등의)[명사] explosion, outburst, [동사] explode, blow up, burst out"
+      ]
+    },
+    {
+      "phrase": "폭발",
+      "hanja": " (爆發)",
+      "example": {},
+      "meanings": [
+        "(폭탄·화산 등의)[명사] explosion, detonation, blast, (화산의) eruption, [동사] explode, blow up, detonate, go off, (화산이) erupt"
+      ]
+    },
+    {
+      "phrase": "핵폭발",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "nuclear explosion"
+      ]
+    },
+    {
+      "phrase": "화산 폭발",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the eruption of a volcano",
+        "a volcanic eruption"
+      ]
+    },
+    {
+      "phrase": "폭발시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "detonate",
+        "explode",
+        "let[set] off"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "explosion",
+      "frequency": 3
+    },
+    {
+      "meaning": "eruption",
+      "frequency": 3
+    },
+    {
+      "meaning": "blast",
+      "frequency": 3
+    },
+    {
+      "meaning": "outburst",
+      "frequency": 3
+    },
+    {
+      "meaning": "gush",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[연기 폭발] 너무 떨렸어, 나~ [Exaggerating] I was so nervous! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Exaggerating] I was so nervous!"
+    },
+    {
+      "korean": "[혼자 자신감 폭발] - 나 이거 너무 재밌는데 - 진짜 못해... [Only one who's confident] - I really like this. - I suck at it... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Only one who's confident] - I really like this. - I suck at it..."
+    },
+    {
+      "korean": "[휴닝카이 폭발] 오렌지 에! 에! [HUENINGKAI exploded] Orange! A! A! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[HUENINGKAI exploded] Orange! A! A!"
+    },
+    {
+      "korean": "[랩 폭발 지금 이 상황은 무엇?] [Explosive rap] [What's happening now?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 13. 강력한 두 우승후보 학교가 벌써 붙는다고!? 경희대 래빈 VS 서울대 트리플에이치",
+      "english": "[Explosive rap] [What's happening now?]"
+    },
+    {
+      "korean": "[설움 폭발] 아아아아앙! [So sad] Argh!!! 듣기 View video NCT LIFE / 심포유 - my SMTelevision : [NCT LIFE] Ep.03 Last mission’s result revealed!",
+      "english": "[So sad] Argh!!!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She was alarmed by his violent outburst. 듣기 Add to Wordbook 그녀는 그의 폭력적인 감정 폭발에 겁이 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was alarmed by his violent outburst. Add to Wordbook"
+    },
+    {
+      "korean": "People fled from the explosion in terror. 듣기 Add to Wordbook 사람들이 겁에 질려 그 폭발 현장에서 달아났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "People fled from the explosion in terror. Add to Wordbook"
+    },
+    {
+      "korean": "Flashes of light were followed by an explosion. 듣기 Add to Wordbook 번쩍이는 불빛들에 뒤이어 폭발이 일어났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Flashes of light were followed by an explosion. Add to Wordbook"
+    },
+    {
+      "korean": "They blasted a huge crater in the runway. 듣기 Add to Wordbook 그것들이 폭발하여 활주로에 거대한 분화구 같은 게 생겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They blasted a huge crater in the runway. Add to Wordbook"
+    },
+    {
+      "korean": "The blast levelled several buildings in the area. 듣기 Add to Wordbook 그 폭발로 그 지역의 건물 몇 채가 폭삭 주저앉았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The blast levelled several buildings in the area. Add to Wordbook"
+    }
+  ]
+}

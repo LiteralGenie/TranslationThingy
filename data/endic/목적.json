@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "목적",
+      "hanja": " (目的)",
+      "example": {},
+      "meanings": [
+        "purpose, object, goal, objective, aim, end"
+      ]
+    },
+    {
+      "phrase": "목적에 맞다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "answer[be fit for] the purpose",
+        "serve one´s purpose",
+        "suit one´s end"
+      ]
+    },
+    {
+      "phrase": "주된 목적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the main purpose"
+      ]
+    },
+    {
+      "phrase": "…을 목적으로 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "aim at",
+        "have for one´s object",
+        "intend to"
+      ]
+    },
+    {
+      "phrase": "목적에 적합하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suit one´s purpose",
+        "be suited to one´s purpose"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "purpose",
+      "frequency": 2
+    },
+    {
+      "meaning": "idea",
+      "frequency": 2
+    },
+    {
+      "meaning": "aim",
+      "frequency": 2
+    },
+    {
+      "meaning": "object",
+      "frequency": 2
+    },
+    {
+      "meaning": "objective",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "목적. It was his goal of the day. 듣기 View video V COOKIE : [Replay] SWEET SORROW's Orgel Live - 스윗소로우의 오르골 라이브!",
+      "english": "It was his goal of the day."
+    },
+    {
+      "korean": "[싸움이 목적인 소개팅] 팍팍 좀 먹어! [She goes on a blind date to fight] Have a big bite. 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "[She goes on a blind date to fight] Have a big bite."
+    },
+    {
+      "korean": "[리아 투어의 목적지 햄버거 가게 도착!] [Lia tour's destination, they arrived at the hamburger store!] View video ITZY : ITZY(있지) IT'z TOURBOOK in USA EP10",
+      "english": "[Lia tour's destination, they arrived at the hamburger store!]"
+    },
+    {
+      "korean": "다 목적지가 같은가요? Is everyone going to the same place? 듣기 View video THE BOYZ : 더비 뭐먹어",
+      "english": "Is everyone going to the same place?"
+    },
+    {
+      "korean": "[급식단의 다음 목적지는?] 지하 1층 가볼까? [Where's the next destination?] What about the 1st basement? 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.02",
+      "english": "[Where's the next destination?] What about the 1st basement?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Their objectives and methods require further elucidation. 발음듣기 그들의 목적과 방법은 더 많은 설명이 필요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their objectives and methods require further elucidation. 발음"
+    },
+    {
+      "korean": "Our objectives need to be precisely delineated. 발음듣기 우리의 목적을 정확히 기술할 필요가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our objectives need to be precisely delineated. 발음"
+    },
+    {
+      "korean": "The aims of the treaty are stated in its preamble. 발음듣기 그 조약의 목적은 전문에 명시되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The aims of the treaty are stated in its preamble. 발음"
+    },
+    {
+      "korean": "The rule was introduced expressly for this purpose. 발음듣기 그 법률은 특별히 이런 목적을 위해 도입되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The rule was introduced expressly for this purpose. 발음"
+    },
+    {
+      "korean": "Their aim was to block guerrilla supply lines. 발음듣기 그들의 목적은 게릴라들의 보급선을 차단하는 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their aim was to block guerrilla supply lines. 발음"
+    }
+  ]
+}

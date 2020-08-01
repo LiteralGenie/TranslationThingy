@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "마을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "village, town"
+      ]
+    },
+    {
+      "phrase": "마을버스",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(town) shuttle bus"
+      ]
+    },
+    {
+      "phrase": "마을 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "villagers",
+        "village people[folk]"
+      ]
+    },
+    {
+      "phrase": "이웃 마을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a neighboring village"
+      ]
+    },
+    {
+      "phrase": "건너 마을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a village on the other side",
+        "a village at the opposite side"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "village",
+      "frequency": 3
+    },
+    {
+      "meaning": "pueblo",
+      "frequency": 0
+    },
+    {
+      "meaning": "kraal",
+      "frequency": 0
+    },
+    {
+      "meaning": "wick 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "ham 3",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'나 해남이야' 땅끝마을? \"I am in Haenam.\" The end of the earth? 듣기 View video SF9 : 어머님들",
+      "english": "\"I am in Haenam.\" The end of the earth?"
+    },
+    {
+      "korean": "마룡 마을 출입 금지! Not allowed in Maryong Village! 듣기 View video IU : [IU TV] Blueming 꽃이 피었습니다.",
+      "english": "Not allowed in Maryong Village!"
+    },
+    {
+      "korean": "[아름다운 마을 히트호른] 진짜? [Such a beautiful place] Really? 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.20",
+      "english": "[Such a beautiful place] Really?"
+    },
+    {
+      "korean": "[벽화 마을로 뿅!] 하나, 둘, 셋! [Let's go to the Mural village] 1, 2, 3! 듣기 View video fromis_9 : [FM_1.24 Special] 프로미스나인 (fromis_9) - 프롬이의 걸어서 전주속으로 上편",
+      "english": "[Let's go to the Mural village] 1, 2, 3!"
+    },
+    {
+      "korean": "이런 한옥마을도 가본 적 있죠? You've been to one of these villages before? 듣기 View video 컨버전스 TV (CONS TV) : [W메이트 5화]다시는 한국을 무시하지 마라",
+      "english": "You've been to one of these villages before?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The village was razed to the ground. 듣기 Add to Wordbook 그 마을은 완전히 쑥대밭이 되어 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The village was razed to the ground. Add to Wordbook"
+    },
+    {
+      "korean": "Whole villages were stricken with the disease. 듣기 Add to Wordbook 모든 마을들이 그 질병에 걸려 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Whole villages were stricken with the disease. Add to Wordbook"
+    },
+    {
+      "korean": "Villages along the border are regularly raided. 듣기 Add to Wordbook 국경을 따라 나 있는 마을들은 정기적으로 급습을 당한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Villages along the border are regularly raided. Add to Wordbook"
+    },
+    {
+      "korean": "The village lies five miles due north of York. 듣기 Add to Wordbook 그 마을은 요크에서 정확히 북쪽으로 5 마일 거리에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The village lies five miles due north of York. Add to Wordbook"
+    },
+    {
+      "korean": "The countryside was dotted with small villages. 듣기 Add to Wordbook 그 시골 지역에는 작은 마을들이 여기저기 흩어져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The countryside was dotted with small villages. Add to Wordbook"
+    }
+  ]
+}

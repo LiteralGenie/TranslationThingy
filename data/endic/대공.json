@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "대공",
+      "hanja": " (對空)",
+      "example": {},
+      "meanings": [
+        "(항공기에 대한) antiaircraft"
+      ]
+    },
+    {
+      "phrase": "대공",
+      "hanja": " (對共)",
+      "example": {},
+      "meanings": [
+        "(공산주의에 대한)"
+      ]
+    },
+    {
+      "phrase": "대(후두)공",
+      "hanja": " (大(後頭)孔)",
+      "example": {},
+      "meanings": [
+        "의학 foramen magnum"
+      ]
+    },
+    {
+      "phrase": "대공의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "anti-communist"
+      ]
+    },
+    {
+      "phrase": "대공을 세우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "achieve great things",
+        "render meritorious services",
+        "distinguish oneself"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prince",
+      "frequency": 2
+    },
+    {
+      "meaning": "archduke",
+      "frequency": 0
+    },
+    {
+      "meaning": "grand duke",
+      "frequency": 0
+    },
+    {
+      "meaning": "anti-aircraft",
+      "frequency": 0
+    },
+    {
+      "meaning": "the vault of heaven",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어린이대공원하면 동물원을 빼놓을 수가 없어요. The zoo is famour at Children's Grand Park. 듣기 View video IMFACT : [TAEHO] 태호의 랜선 소풍",
+      "english": "The zoo is famour at Children's Grand Park."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Prince Rainier of Monaco 발음듣기 모나코의 레니에 대공 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prince Rainier of Monaco 발음"
+    },
+    {
+      "korean": "The Grand Duke of Tuscany 발음듣기 투스카니의 대공 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Grand Duke of Tuscany 발음"
+    },
+    {
+      "korean": "The fighter (plane) is carrying antiaircraft missiles. 발음듣기 그 전투기는 대공미사일을 탑재하고 있다 Neungyule",
+      "english": "The fighter (plane) is carrying antiaircraft missiles. 발음"
+    },
+    {
+      "korean": "It has anti-tank missiles, a 40mm anti-aircraft gun and a 7.62mm machine gun. 발음듣기 그것에는 대공미사일과 40mm 대공 포와 7.62mm 기관총이 장착돼 있다. Neungyule",
+      "english": "It has anti-tank missiles, a 40mm anti-aircraft gun and a 7.62mm machine gun. 발음"
+    },
+    {
+      "korean": "The reason was that people wanted the position of Grand Prince. 발음듣기 그 이유는 사람들이 대공의 자리를 원했기 때문이다. YBM All in All English-Korean Dictionary",
+      "english": "The reason was that people wanted the position of Grand Prince. 발음"
+    }
+  ]
+}

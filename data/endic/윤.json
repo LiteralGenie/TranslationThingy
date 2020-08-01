@@ -1,0 +1,106 @@
+{
+  "phrases": [
+    {
+      "phrase": "윤",
+      "hanja": " (潤)",
+      "example": {},
+      "meanings": [
+        "shine, gloss, luster, sheen"
+      ]
+    },
+    {
+      "phrase": "윤이 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shine",
+        "be glossy[lustrous]",
+        "have a sheen"
+      ]
+    },
+    {
+      "phrase": "윤을 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "polish",
+        "shine",
+        "give sth a polish"
+      ]
+    },
+    {
+      "phrase": "윤어리나나니",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Yun-eo-li-na-na-ni"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "polish",
+      "frequency": 2
+    },
+    {
+      "meaning": "shine",
+      "frequency": 2
+    },
+    {
+      "meaning": "gloss",
+      "frequency": 1
+    },
+    {
+      "meaning": "lustre",
+      "frequency": 1
+    },
+    {
+      "meaning": "luster 2",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[외쳐! 갓지윤!] [Say her name! God Jiyoon!] View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "[Say her name! God Jiyoon!]"
+    },
+    {
+      "korean": "맞죠? 얼렁뚱땅 윤 셰프? Right? Silly Chef Yoon? 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "Right? Silly Chef Yoon?"
+    },
+    {
+      "korean": "중학교 때까지는 도덕인가? 윤사인가? Was it Ethics? 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "Was it Ethics?"
+    },
+    {
+      "korean": "윤 셰프? - 아 츄러스 만들기! Chef Yoon? - Churros Making! 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "Chef Yoon? - Churros Making!"
+    },
+    {
+      "korean": "저도 '자니 윤 쇼'라든지 - '자니 윤 쇼'는 조금... Or \"Johnny Yoon Show\". - That's a bit... 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Or \"Johnny Yoon Show\". - That's a bit..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the sleek dark head of a seal 발음듣기 바다표범의 윤이 나는 까만 머리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the sleek dark head of a seal 발음"
+    },
+    {
+      "korean": "The gel gives your hair a gloss. 발음듣기 이 젤을 쓰시면 머리에 윤이 납니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The gel gives your hair a gloss. 발음"
+    },
+    {
+      "korean": "The dark polished wood shone like glass. 발음듣기 윤을 낸 짙은 색 나무는 거울처럼 반짝였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dark polished wood shone like glass. 발음"
+    },
+    {
+      "korean": "The dentist scaled and polished my teeth. 발음듣기 치과의사가 내 치아의 치석을 벗기고 윤이 나게 해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dentist scaled and polished my teeth. 발음"
+    },
+    {
+      "korean": "I give it a polish now and again. 발음듣기 나는 가끔 그것을 닦아 윤을 내 준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I give it a polish now and again. 발음"
+    }
+  ]
+}

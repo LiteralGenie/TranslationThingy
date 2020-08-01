@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "독재자",
+      "hanja": " (獨裁者)",
+      "example": {},
+      "meanings": [
+        "dictator, autocrat"
+      ]
+    },
+    {
+      "phrase": "독재자를 축출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "oust a dictator"
+      ]
+    },
+    {
+      "phrase": "독재자의 학정에 시달리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "groan[suffer] under the tyranny of a dictator"
+      ]
+    },
+    {
+      "phrase": "독재자를 권좌에서 내몰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remove[oust] a dictator from power"
+      ]
+    },
+    {
+      "phrase": "군대가 독재자를 축출했다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The army deposed the dictator."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dictator",
+      "frequency": 1
+    },
+    {
+      "meaning": "autocrat",
+      "frequency": 1
+    },
+    {
+      "meaning": "tyrant",
+      "frequency": 1
+    },
+    {
+      "meaning": "strongman",
+      "frequency": 0
+    },
+    {
+      "meaning": "Big Brother",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "생각없이 살아보고 싶고, 독재자가 되고 싶고. Withought thoughts like a dictator... 듣기 View video JJHOLICMEDIA : 마스크(MASC) 데뷔 쇼케이스 후일담",
+      "english": "Withought thoughts like a dictator..."
+    },
+    {
+      "korean": "그런게 있는데 절대 독재자는 아니고 생각없는 친구도 아닙니다. But I'm not a dictator and he is not thoughtless at all. 듣기 View video JJHOLICMEDIA : 마스크(MASC) 데뷔 쇼케이스 후일담",
+      "english": "But I'm not a dictator and he is not thoughtless at all."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The dictator refuses to relax his grip on power. 발음듣기 독재자는 권력을 쥔 손을 놓으려고 하지 않는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dictator refuses to relax his grip on power. 발음"
+    },
+    {
+      "korean": "a dictator with the blood of thousands on his hands 발음듣기 수천 명의 목숨을 앗아간 독재자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a dictator with the blood of thousands on his hands 발음"
+    },
+    {
+      "korean": "The dictator was assassinated by the rebels yesterday. 발음듣기 그 독재자는 어제 반군에 의해 암살당했다. 절대어휘 5100",
+      "english": "The dictator was assassinated by the rebels yesterday. 발음"
+    },
+    {
+      "korean": "Like other tyrants, he suppressed the people under him. 발음듣기 다른 독재자들처럼 그는 사람들을 억압했다. 절대어휘 5100",
+      "english": "Like other tyrants, he suppressed the people under him. 발음"
+    },
+    {
+      "korean": "The cruel dictator refused to relinquish political power. 발음듣기 그 잔인한 독재자는 정치적 힘을 포기하기를 거부했다. 절대어휘 5100",
+      "english": "The cruel dictator refused to relinquish political power. 발음"
+    }
+  ]
+}

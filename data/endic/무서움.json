@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "무서움",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fear; (갑작스러운) scare, fright; (공포) terror, horror"
+      ]
+    },
+    {
+      "phrase": "무서움을 타다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be easily frightened"
+      ]
+    },
+    {
+      "phrase": "무서움이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have[know, feel] no fear",
+        "be fearless",
+        "fear nothing"
+      ]
+    },
+    {
+      "phrase": "무서움을 알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "know fear"
+      ]
+    },
+    {
+      "phrase": "무서움을 참다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "repress fear"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fear",
+      "frequency": 2
+    },
+    {
+      "meaning": "terror",
+      "frequency": 1
+    },
+    {
+      "meaning": "funk 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "fearfulness",
+      "frequency": 0
+    },
+    {
+      "meaning": "grimness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[쵸큼 무서움] 어떻게 깨울지 고민이 되는데요... [A little scared] I'm worried about how to wake him up. 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "[A little scared] I'm worried about how to wake him up."
+    },
+    {
+      "korean": "[화나면 무서움] 시작되는 건가요? second half of the year is starting? 듣기 View video Hyomstore : ep.14 후반기 제품 검증 START! (feat. 유신월, 안리안나,메이찬)",
+      "english": "second half of the year is starting?"
+    },
+    {
+      "korean": "마마 마마 - 이게 바로 습관의 무서움? MAMA MAMA - It's hard to break a habit, right? 듣기 View video MAMAMOO : 백만년만입니다. 용콩별콩LIVE",
+      "english": "MAMA MAMA - It's hard to break a habit, right?"
+    },
+    {
+      "korean": "[다들 무서움 없이(?) 대담하게 만지는...!] 어딨어? [Everyone touches without fear] Where is it? 듣기 View video OSEN : OHMYGIRL 오마이걸, 우당탕탕 촉감게임(ft.고음주의) #스타로드 03",
+      "english": "[Everyone touches without fear] Where is it?"
+    },
+    {
+      "korean": "[걷는 모습이 꽤나 무서움] 무섭다 그러니까... It's scary since you're doing that... 듣기 View video IU : [IU TV] '그 사람' 부끄러워 않아요",
+      "english": "It's scary since you're doing that..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She was trembling[shivering; shaking] with fear. 발음듣기 그녀는 무서움에 떨고 있었다. Neungyule",
+      "english": "She was trembling[shivering; shaking] with fear. 발음"
+    },
+    {
+      "korean": "She gets scared easily. 발음듣기 그녀는 무서움을 잘 탄다 Neungyule",
+      "english": "She gets scared easily. 발음"
+    },
+    {
+      "korean": "She is easily frightened. 발음듣기 그녀는 무서움을 잘 탄다 Neungyule",
+      "english": "She is easily frightened. 발음"
+    },
+    {
+      "korean": "I realized for the first time how dreadful cancer is. 발음듣기 암의 무서움을 비로소 알았다 Dong-a's Prime English-Korean Dictionary",
+      "english": "I realized for the first time how dreadful cancer is. 발음"
+    },
+    {
+      "korean": "He suddenly got scared when it became dark. 발음듣기 날이 어두워지자 그는 갑자기 무서움을 느꼈다 Neungyule",
+      "english": "He suddenly got scared when it became dark. 발음"
+    }
+  ]
+}

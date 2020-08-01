@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "인식",
+      "hanja": " (認識)",
+      "example": {},
+      "meanings": [
+        "[명사] awareness, realization, cognition, (formal) cognizance; (이해) understanding; (인정) recognition; (통찰) perception; (지식) knowledge [동사] (이해하다) understand, perceive, see; (깨닫다) realize; (사실로서) recognize; (알다) know"
+      ]
+    },
+    {
+      "phrase": "음성인식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "voice recognition"
+      ]
+    },
+    {
+      "phrase": "옳게 인식하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a correct understanding",
+        "look at in the right light",
+        "show a true perception"
+      ]
+    },
+    {
+      "phrase": "인식표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(군인들의) identification tag, (Am) dog tag"
+      ]
+    },
+    {
+      "phrase": "문제의 중요성을 인식하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "realize the importance of the problem"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "recognition",
+      "frequency": 2
+    },
+    {
+      "meaning": "perception",
+      "frequency": 1
+    },
+    {
+      "meaning": "realization",
+      "frequency": 1
+    },
+    {
+      "meaning": "cognition",
+      "frequency": 0
+    },
+    {
+      "meaning": "awakening",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[황당] 저거를 인식해줘? [Feeling absurd] They recognize that? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[Feeling absurd] They recognize that?"
+    },
+    {
+      "korean": "[태현, 이제 실력을 보여줘~!] 이게 인식... [TAEHYUN, show us what you got!] It recognizes... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[TAEHYUN, show us what you got!] It recognizes..."
+    },
+    {
+      "korean": "맞네 - 근데 그거 음성 인식이어서... Yes. - And that has this voice recognition. 듣기 View video Stray Kids : Ready, GO LIVE!🎬 #비행기",
+      "english": "Yes. - And that has this voice recognition."
+    },
+    {
+      "korean": "[안면 인식] - 호시 형 전화번호 공개해버려 - 호시... [Face identification] - Show his number. - Hoshi. 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.9 불면제로 #2 (Insomnia-Zero #2)",
+      "english": "[Face identification] - Show his number. - Hoshi."
+    },
+    {
+      "korean": "내 거는 인식을 못 하나 봐 왜 나는 오케이만 뜨지? I think the machine can't recognize my move. Why am I only getting \"ok\"? 듣기 View video BTS : 진기민😄",
+      "english": "I think the machine can't recognize my move. Why am I only getting \"ok\"?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The self is the only knowable existent. 발음듣기 자아만이 우리가 인식할 수 있는 존재이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The self is the only knowable existent. 발음"
+    },
+    {
+      "korean": "We are starkly aware of the risks. 발음듣기 우리는 그 위험성을 냉혹하리만치 잘 인식하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We are starkly aware of the risks. 발음"
+    },
+    {
+      "korean": "the development of a child’s spatial awareness 발음듣기 아동의 공간 인식 발달 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the development of a child’s spatial awareness 발음"
+    },
+    {
+      "korean": "We are fully aware of the dangers. 발음듣기 우리는 그 위험들을 충분히 인식하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We are fully aware of the dangers. 발음"
+    },
+    {
+      "korean": "computer software that is year 2000 compliant 발음듣기 Y2K 문제를 인식해 내는 컴퓨터 소프트웨어 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "computer software that is year 2000 compliant 발음"
+    }
+  ]
+}

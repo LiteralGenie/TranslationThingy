@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "간",
+      "hanja": " (肝)",
+      "example": {},
+      "meanings": [
+        "(신체 기관) liver",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "간",
+      "hanja": " (間)",
+      "example": {},
+      "meanings": [
+        "(관계)",
+        "(기간)",
+        "(장소·거리 등의 사이)"
+      ]
+    },
+    {
+      "phrase": "간",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음식물의 짠 정도)"
+      ]
+    },
+    {
+      "phrase": "간",
+      "hanja": " (刊)",
+      "example": {},
+      "meanings": [
+        "Noun publication, issuing"
+      ]
+    },
+    {
+      "phrase": "-간",
+      "hanja": " (-間)",
+      "example": {},
+      "meanings": [
+        "관계 relation, relationship.",
+        "사이 between(두 사람 사이), among(셋 이상의 사이), from...to....",
+        "간격 an interval, [기간] a period, for, during, in."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ground",
+      "frequency": 3
+    },
+    {
+      "meaning": "liver",
+      "frequency": 0
+    },
+    {
+      "meaning": "ground 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "one[every, last, tomorrow] night",
+      "frequency": 0
+    },
+    {
+      "meaning": "for a[the] period of six years",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "최근 간 곳 중에 제일 맛있었던 맛집은? What's the most delicious place you've been to recently? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "What's the most delicious place you've been to recently?"
+    },
+    {
+      "korean": "[나나에게 사과하러 간 루미] 왜 나 피하기만 하는데? [Rumi went to apologize to Nana] Why are you avoiding me? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "[Rumi went to apologize to Nana] Why are you avoiding me?"
+    },
+    {
+      "korean": "[마카오에 간 백호] - 마카오 갔다 왔고 - 어땠어요 팬미팅? [BAEKHO went to Macau] - Right, Macau. - How was the fan meetup? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[BAEKHO went to Macau] - Right, Macau. - How was the fan meetup?"
+    },
+    {
+      "korean": "[하와이 간 '나연'!] [\"NAYEON\" in Hawaii!] View video TWICE : 나연 TV “나연이 하와이 갔나연?” TEASER",
+      "english": "[\"NAYEON\" in Hawaii!]"
+    },
+    {
+      "korean": "첫 번째로 간 거 아니야? Wasn't she the first one to go? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Wasn't she the first one to go?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They endured years of suffering and privation. 듣기 Add to Wordbook 그들은 수년간의 고통과 궁핍을 견뎠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They endured years of suffering and privation. Add to Wordbook"
+    },
+    {
+      "korean": "stories of bitter feuding between rival drug dealers 듣기 Add to Wordbook 경쟁 마약상들 간의 극심한 불화에 얽힌 이야기들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "stories of bitter feuding between rival drug dealers Add to Wordbook"
+    },
+    {
+      "korean": "He confessed after four days under interrogation. 듣기 Add to Wordbook 그는 나흘간의 심문 끝에 자백을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He confessed after four days under interrogation. Add to Wordbook"
+    },
+    {
+      "korean": "Racial strife is tearing our country apart. 듣기 Add to Wordbook 인종 간의 다툼이 우리나라를 분열시키고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Racial strife is tearing our country apart. Add to Wordbook"
+    },
+    {
+      "korean": "It’s a complete role reversal/reversal of roles. 듣기 Add to Wordbook 그것은 완전히 (남녀간의) 역할 전환이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s a complete role reversal/reversal of roles. Add to Wordbook"
+    }
+  ]
+}

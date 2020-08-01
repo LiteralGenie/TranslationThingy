@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "청구",
+      "hanja": " (請求)",
+      "example": {},
+      "meanings": [
+        "(돈·비용 등의) claim, (돈·비용 등을) claim, charge, make[file, put in] a claim, (요구하다) ask, demand, (법적으로) file (for)"
+      ]
+    },
+    {
+      "phrase": "청구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "교통 (기차(역)) Cheonggu"
+      ]
+    },
+    {
+      "phrase": "청구(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 requisition"
+      ]
+    },
+    {
+      "phrase": "지불 청구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a demand for payment"
+      ]
+    },
+    {
+      "phrase": "돈을 청구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "charge for"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "claim",
+      "frequency": 3
+    },
+    {
+      "meaning": "asking",
+      "frequency": 0
+    },
+    {
+      "meaning": "Rqn",
+      "frequency": 0
+    },
+    {
+      "meaning": "Cheonggu",
+      "frequency": 0
+    },
+    {
+      "meaning": "Chengqu",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[머뭇머뭇] 영수증 청구해도 돼요? [Hesitant] Can I charge it to you? 듣기 View video OSEN : iKON 아이콘 'Star Road' EP.19",
+      "english": "[Hesitant] Can I charge it to you?"
+    },
+    {
+      "korean": "그러면 가입비는 이따가 청구하도록 하고요. We'll take the registration fee later. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#64. 아이돌 뮤직쇼! 동전가왕 (w. 펜타곤 진호, 골든차일드 주찬, SF9 인성)",
+      "english": "We'll take the registration fee later."
+    },
+    {
+      "korean": "본인이 부순 걸 왜 손님한테 청구하죠? Why do you charge customers if you break their cars down? 듣기 View video BTS : Run BTS! 2018 - EP.47",
+      "english": "Why do you charge customers if you break their cars down?"
+    },
+    {
+      "korean": "영장 청구요? File arrest warrants? 듣기 View video 날아올라 (AIM HIGH) : [날아올라]1화_선처는 없다",
+      "english": "File arrest warrants?"
+    },
+    {
+      "korean": "손해배상을 청구하셨습니다. So here's your \"Compensation Award\". 듣기 View video FANGUIN TV : [Son Ho Young] 손호영 솔로데뷔 10주년 기념 LIVE",
+      "english": "So here's your \"Compensation Award\"."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Prompt payment of the invoice would be appreciated. 듣기 Add to Wordbook 청구 대금을 즉각 지불해 주시면 고맙겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prompt payment of the invoice would be appreciated. Add to Wordbook"
+    },
+    {
+      "korean": "Any expenses you may incur will be chargeable to the company. 듣기 Add to Wordbook 당신으로 인해 발생되는 모든 경비는 회사 앞으로 청구된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Any expenses you may incur will be chargeable to the company. Add to Wordbook"
+    },
+    {
+      "korean": "a three per cent pay claim 듣기 Add to Wordbook 3%의 임금 인상 청구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a three per cent pay claim Add to Wordbook"
+    },
+    {
+      "korean": "The bill came to $30. 듣기 Add to Wordbook 청구 액수가 30달러가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bill came to $30. Add to Wordbook"
+    },
+    {
+      "korean": "He charges top whack. 듣기 Add to Wordbook 그는 최고의 액수를 청구한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He charges top whack. Add to Wordbook"
+    }
+  ]
+}

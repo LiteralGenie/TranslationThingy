@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "중지",
+      "hanja": " (中指)",
+      "example": {},
+      "meanings": [
+        "(손가락) middle finger"
+      ]
+    },
+    {
+      "phrase": "중지",
+      "hanja": " (中止)",
+      "example": {},
+      "meanings": [
+        "stop, cease, (Brit, inf) leave off, put a(n) stop[end] (to); (정기적으로 하던 일을) discontinue; (일시적으로) suspend; (계속하기 어려워) abandon, abort"
+      ]
+    },
+    {
+      "phrase": "중지",
+      "hanja": " (衆智)",
+      "example": {},
+      "meanings": [
+        "(여러 사람의 지혜)"
+      ]
+    },
+    {
+      "phrase": "중지되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be suspended",
+        "be stopped",
+        "come[be brought] to a standstill"
+      ]
+    },
+    {
+      "phrase": "중지를 모으다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask advice from many people",
+        "seek counsel of many people",
+        "gather the wisdom of many people"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "intermission",
+      "frequency": 1
+    },
+    {
+      "meaning": "stay 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "hold 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "cessation",
+      "frequency": 0
+    },
+    {
+      "meaning": "scrub 1",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우리 일단 소통은 중지하고 먹기나 해볼까요? Shall we stop communicating and start eating? 듣기 View video Stray Kids : STAY의 소원을 들어주길 “바람”💨",
+      "english": "Shall we stop communicating and start eating?"
+    },
+    {
+      "korean": "넌 분명 검지손가락을 움직였는데 중지손가락이 움직여? You definitely moved your index finger, but you move with your middle finger? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #37",
+      "english": "You definitely moved your index finger, but you move with your middle finger?"
+    },
+    {
+      "korean": "방송이 중지됐습니다. Broadcasting is paused because you turned on... 듣기 View video NCT의 night night! : 미리 만나는 도요일♥ 도다제 녹음현장! with 도영",
+      "english": "Broadcasting is paused because you turned on..."
+    },
+    {
+      "korean": "중지할 수 없어요 언젠가 끝납니다 여러분. This can't be stopped. It'll stop at some point. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "This can't be stopped. It'll stop at some point."
+    },
+    {
+      "korean": "검지와 중지를 눈썹 사이에 얹으세요. Place pointer finger and middle finger on the area between your eyebrows. 듣기 View video Wishtrend TV : 3 Skin Care Hacks Everyone In Your 20s Should Know! | 4 Secret Beauty Items Recommended for 20's",
+      "english": "Place pointer finger and middle finger on the area between your eyebrows."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He ordered his men to cease fire. 발음듣기 그는 부하들에게 사격 중지를 명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He ordered his men to cease fire. 발음"
+    },
+    {
+      "korean": "He ordered his men to hold their fire. 발음듣기 그가 부하들에게 사격 중지를 명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He ordered his men to hold their fire. 발음"
+    },
+    {
+      "korean": "an eight-week lay-off with a broken leg 발음듣기 다리 부상으로 인한 8주간의 휴직[중지] 기간 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an eight-week lay-off with a broken leg 발음"
+    },
+    {
+      "korean": "The case was finally noll prossed. 발음듣기 그 소송은 결국 중지되었다. 국제영어대학원대학교 신어사전",
+      "english": "The case was finally noll prossed. 발음"
+    },
+    {
+      "korean": "Let us make a special effort to stop communicating with each other, so we can have some conversation. (Judith Martin) 발음듣기 서로 의견 교환을 중지하도록 특별 노력을 기울입시다. 그래서 우리는 약간 대화를 할 수 있습니다. (주디스 마틴, 언어명언) 명언/속담",
+      "english": "Let us make a special effort to stop communicating with each other, so we can have some conversation. (Judith Martin) 발음"
+    }
+  ]
+}

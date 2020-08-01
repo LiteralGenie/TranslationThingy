@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "괜찮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(좋다) nice, good, fine, all right, okay, (S) OK, (안전하다) safe, secure",
+        "(무방하다, 지장 없다) all right, okay, (S) OK"
+      ]
+    },
+    {
+      "phrase": "평상복 입고 가도 괜찮죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "콘서트 Is casual wear all right?",
+        "콘서트 Is casual attire OK?"
+      ]
+    },
+    {
+      "phrase": "팁은 요금의 몇% 정도면 괜찮죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "계산하기 What percent of the bill should we tip?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "all right",
+      "frequency": 3
+    },
+    {
+      "meaning": "good",
+      "frequency": 3
+    },
+    {
+      "meaning": "approve",
+      "frequency": 3
+    },
+    {
+      "meaning": "decent",
+      "frequency": 3
+    },
+    {
+      "meaning": "passable",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "괜찮죠? It's okay, right? 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "It's okay, right?"
+    },
+    {
+      "korean": "2탄 괜찮죠? Version 2 is okay, right? 듣기 View video ASTRO : 아로하 따나잇🌙",
+      "english": "Version 2 is okay, right?"
+    },
+    {
+      "korean": "어때요 괜찮죠? What do you think? All good? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "What do you think? All good?"
+    },
+    {
+      "korean": "보시면, 괜찮죠? If you look here... Isn't it nice? 듣기 View video SEVENTEEN : 깜짝🦦",
+      "english": "If you look here... Isn't it nice?"
+    },
+    {
+      "korean": "맞죠? 이게 제일 괜찮죠? Right? This is the best one, right? 듣기 View video ITZY : 오랜만에 유나V😎",
+      "english": "Right? This is the best one, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Let's watch movies tonight, okay? -- Nokay! 듣기 Add to Wordbook 밤에 영화 볼까요, 괜찮죠? 아니요! 국제영어대학원대학교 신어사전",
+      "english": "Let's watch movies tonight, okay? -- Nokay! Add to Wordbook"
+    },
+    {
+      "korean": "I'll be right over, okay? 듣기 Add to Wordbook 당장 그리로 갈께요, 괜찮죠? Neungyule",
+      "english": "I'll be right over, okay? Add to Wordbook"
+    },
+    {
+      "korean": "It’s all good when you’re little, you have pure fun. 듣기 Add to Wordbook 어릴 때는 모든 것이 다 괜찮죠, 맘껏 놀아도 되죠. YBM All in All English-Korean Dictionary",
+      "english": "It’s all good when you’re little, you have pure fun. Add to Wordbook"
+    },
+    {
+      "korean": "My sister wants to come and visit us this weekend. You don't mind, do you? 듣기 Add to Wordbook 내 여동생이 이번 주말에 우리집에 온대요. 괜찮죠? YBM All in All English-Korean Dictionary",
+      "english": "My sister wants to come and visit us this weekend. You don't mind, do you? Add to Wordbook"
+    },
+    {
+      "korean": "Money is fine. 듣기 Add to Wordbook 돈도 괜찮죠. YBM All in All English-Korean Dictionary",
+      "english": "Money is fine. Add to Wordbook"
+    }
+  ]
+}

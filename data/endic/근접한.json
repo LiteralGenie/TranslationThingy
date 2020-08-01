@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "근접한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "neighboring",
+        "adjacent",
+        "contiguous"
+      ]
+    },
+    {
+      "phrase": "근접하다",
+      "hanja": " (近接하다)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "…에 근접해 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be[stand] close[adjacent]",
+        "be near",
+        "be contiguous"
+      ]
+    },
+    {
+      "phrase": "대비[근접, 유사] 연상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "association by contrast[contiguity, similarity]"
+      ]
+    },
+    {
+      "phrase": "격발[근접] 신관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a percussion[proximity] fuse"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "warm",
+      "frequency": 2
+    },
+    {
+      "meaning": "contiguous",
+      "frequency": 0
+    },
+    {
+      "meaning": "vicinal",
+      "frequency": 0
+    },
+    {
+      "meaning": "coadjacent",
+      "frequency": 0
+    },
+    {
+      "meaning": "approximal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[실패했지만 근접한 거리까지 도달한 채영] 어떻게 해? [Failed but close to the goalpost] How can you do that? 듣기 View video TWICE : TWICE REALITY \"TIME TO TWICE\" EP.04",
+      "english": "[Failed but close to the goalpost] How can you do that?"
+    },
+    {
+      "korean": "[계산 후 3만 원에 가장 근접한 팀이 우승!] [The total price should be nearer to 30 thousand won to win the game!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.14",
+      "english": "[The total price should be nearer to 30 thousand won to win the game!]"
+    },
+    {
+      "korean": "[바나나 팀 29,260원, 딸기 팀 34,100원] [3만 원에 근접한 바나나 팀 승리!] [Banana 29,260 won, Strawberry 34,100 won] [Team Banana won, being closer to 30,000 won!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.14",
+      "english": "[Banana 29,260 won, Strawberry 34,100 won] [Team Banana won, being closer to 30,000 won!]"
+    },
+    {
+      "korean": "가장 근접한 - 저희 중에 있어요? The closest. - Among us? 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "The closest. - Among us?"
+    },
+    {
+      "korean": "제일 근접한 사람이죠? One who says the closest number will be the winner, right? 듣기 View video BTS : Run BTS! 2019 - EP.60",
+      "english": "One who says the closest number will be the winner, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The German ‘Gymnasium’ is the closest equivalent to the grammar school in England. 발음듣기 독일의 Gymnasium이 잉글랜드에서의 grammar school에 가장 근접한 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The German ‘Gymnasium’ is the closest equivalent to the grammar school in England. 발음"
+    },
+    {
+      "korean": "Running cross country is the closest man will ever get to flying. (Joseph VanderStel) 발음듣기 크로스컨트리는 인간이 할 수 있는 비행에 가장 근접한 운동이다. (조지프 밴더스텔, 노력명언) 명언/속담",
+      "english": "Running cross country is the closest man will ever get to flying. (Joseph VanderStel) 발음"
+    },
+    {
+      "korean": "I think the first virtue is to restrain the tongue; he approaches nearest to gods who knows how to be silent, even though he is in the right. (Cato the Elder) 발음듣기 첫번째 미덕은 혀를 구속하는 것이라 생각한다. 자신이 옳다 하더라도 침묵할 줄 아는 사람이 신에 가장 근접한 사람이다. (카토, 침묵명언) 명언/속담",
+      "english": "I think the first virtue is to restrain the tongue; he approaches nearest to gods who knows how to be silent, even though he is in the right. (Cato the Elder) 발음"
+    },
+    {
+      "korean": "But while the closest Korean island to it is situated 145 kilometers away, its Chinese counterpart is located 245 kilometers away. 발음듣기 하지만 그것에 가장 근접한 한국의 섬이 145킬로미터 떨어져 있는 반면에 중국의 가장 근접한 섬은 245킬로미터 떨어져 있다. Neungyule",
+      "english": "But while the closest Korean island to it is situated 145 kilometers away, its Chinese counterpart is located 245 kilometers away. 발음"
+    },
+    {
+      "korean": "In the United States, many close universities share classes. 발음듣기 미국에서는 근접한 여러 대학들이 수업을 공유한다. Neungyule",
+      "english": "In the United States, many close universities share classes. 발음"
+    }
+  ]
+}

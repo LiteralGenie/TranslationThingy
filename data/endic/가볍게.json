@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "가볍게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[살짝] lightly, softly, [경미하게] slightly, [수월하게] easily, with ease, [경솔하게] rashly, indiscreetly."
+      ]
+    },
+    {
+      "phrase": "가볍다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(무게가) light",
+        "(부담 없다) light",
+        "(마음이)"
+      ]
+    },
+    {
+      "phrase": "가볍게 여기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take lightly",
+        "make light of",
+        "despise"
+      ]
+    },
+    {
+      "phrase": "가볍게 굴다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "act imprudently"
+      ]
+    },
+    {
+      "phrase": "가볍게 꾸짖다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "scold mildly",
+        "give a mild scolding"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lightly",
+      "frequency": 2
+    },
+    {
+      "meaning": "mildly",
+      "frequency": 1
+    },
+    {
+      "meaning": "light 2",
+      "frequency": 1
+    },
+    {
+      "meaning": "kissingly",
+      "frequency": 0
+    },
+    {
+      "meaning": "ethereally",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[가볍게 공격] 잠깐만! [Attack] Hang on! 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Attack] Hang on!"
+    },
+    {
+      "korean": "일단은 가볍게... First, something light. 듣기 View video WOODZ (조승연) : 위에화 노래방 오픈행사",
+      "english": "First, something light."
+    },
+    {
+      "korean": "가볍게 그냥 비요뜨? Viyotte? Since it's light? 듣기 View video TWICE : DAHYUN Happy Birthday V LIVE",
+      "english": "Viyotte? Since it's light?"
+    },
+    {
+      "korean": "[연준도 가볍게 성공!] [YEONJUN also gets a success easily!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.18",
+      "english": "[YEONJUN also gets a success easily!]"
+    },
+    {
+      "korean": "훨씬 좀 가볍게 보인다고 해야하나? It makes you look lighter? 듣기 View video 기은세 (Ki EunSe) : 기은세) 브랜드 아크네 3days 데일리룩 공개",
+      "english": "It makes you look lighter?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He kissed her lightly on the cheek. 발음듣기 그가 그녀의 볼에 가볍게 입을 맞추었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He kissed her lightly on the cheek. 발음"
+    },
+    {
+      "korean": "He pecked her on the cheek as he went out. 발음듣기 그가 나가면서 그녀의 볼에 가볍게 입을 맞추었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He pecked her on the cheek as he went out. 발음"
+    },
+    {
+      "korean": "Nicky roused her with a gentle nudge. 발음듣기 니키가 그녀를 가볍게 흔들어 깨웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nicky roused her with a gentle nudge. 발음"
+    },
+    {
+      "korean": "a light fall of powdery snow 발음듣기 가볍게 내리는 가루 같은 눈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a light fall of powdery snow 발음"
+    },
+    {
+      "korean": "The boat bobbed like a cork on the waves: light and buoyant. 발음듣기 그 보트는 코르크 부표처럼 가볍게 뜬 채로 파도를 타고 깐닥거렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The boat bobbed like a cork on the waves: light and buoyant. 발음"
+    }
+  ]
+}

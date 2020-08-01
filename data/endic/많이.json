@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "많이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(수량) much, lots, plenty, in abundance, in profusion",
+        "(대개) often, lots, frequently"
+      ]
+    },
+    {
+      "phrase": "많이는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "largely",
+        "mostly",
+        "for the most part"
+      ]
+    },
+    {
+      "phrase": "이다지 많이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "so many",
+        "so much"
+      ]
+    },
+    {
+      "phrase": "돈을 많이 벌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make[amass] a fortune",
+        "make a killing"
+      ]
+    },
+    {
+      "phrase": "돈이 많이 들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cost a lot of money",
+        "be very expensive[costly]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "plenty",
+      "frequency": 3
+    },
+    {
+      "meaning": "high",
+      "frequency": 3
+    },
+    {
+      "meaning": "deal",
+      "frequency": 3
+    },
+    {
+      "meaning": "considerably",
+      "frequency": 3
+    },
+    {
+      "meaning": "highly",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "많이? A lot of sauce? 듣기 View video World Klass (월드 클래스) : 🐷꿀🐷꿀🐷즈🐷",
+      "english": "A lot of sauce?"
+    },
+    {
+      "korean": "많이 먹었죠? I ate a lot. 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "I ate a lot."
+    },
+    {
+      "korean": "너무 많이 했나? Is this too much? 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "Is this too much?"
+    },
+    {
+      "korean": "많이 - 나는? A lot! - What about me? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "A lot! - What about me?"
+    },
+    {
+      "korean": "많이 왔나? Did a lot of people come in? 듣기 View video NCT : みんな本当にありがとう！！",
+      "english": "Did a lot of people come in?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a kitchen redolent with the smell of baking 듣기 Add to Wordbook 빵 냄새가 많이 나는 부엌 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a kitchen redolent with the smell of baking Add to Wordbook"
+    },
+    {
+      "korean": "He earns an obscene amount of money. 듣기 Add to Wordbook 그는 돈을 터무니없이 많이 번다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He earns an obscene amount of money. Add to Wordbook"
+    },
+    {
+      "korean": "Today it will be dull and overcast. 듣기 Add to Wordbook 오늘은 흐리고 구름이 많이 끼겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Today it will be dull and overcast. Add to Wordbook"
+    },
+    {
+      "korean": "foods that are high in polyunsaturated fats 듣기 Add to Wordbook 다가 불포화 지방이 많이 든 식품 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "foods that are high in polyunsaturated fats Add to Wordbook"
+    },
+    {
+      "korean": "The pond was well stocked with fish. 듣기 Add to Wordbook 그 연못에는 물고기가 많이 들어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pond was well stocked with fish. Add to Wordbook"
+    }
+  ]
+}

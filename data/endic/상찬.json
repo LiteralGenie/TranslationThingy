@@ -1,0 +1,37 @@
+{
+  "phrases": [
+    {
+      "phrase": "상찬",
+      "hanja": " (賞讚)",
+      "example": {},
+      "meanings": [
+        "praise, admiration"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "popular approval",
+      "frequency": 0
+    },
+    {
+      "meaning": "win public approval",
+      "frequency": 0
+    },
+    {
+      "meaning": "excite(=awaken) universal admiration",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The work of Edgar Allan Poe has been long and deeply admired in France and England as well as in his own land. 발음듣기 에드가 아랜 포우의 작품은 자기의 나라뿐만 아니라 영 불 양국에서 오랜동안 크게 상찬되었다. 영어영작문대사전",
+      "english": "The work of Edgar Allan Poe has been long and deeply admired in France and England as well as in his own land. 발음"
+    },
+    {
+      "korean": "Praise is a mental tonic. 발음듣기 상찬(賞讚)은 정신적 강장제(强壯劑)다. 영어영작문대사전",
+      "english": "Praise is a mental tonic. 발음"
+    }
+  ]
+}

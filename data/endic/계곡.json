@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "계곡",
+      "hanja": " (溪谷)",
+      "example": {},
+      "meanings": [
+        "valley"
+      ]
+    },
+    {
+      "phrase": "계곡으로 물놀이를 하러 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go play in a mountain stream"
+      ]
+    },
+    {
+      "phrase": "만장의 계곡",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a ravine of unfathomable depth"
+      ]
+    },
+    {
+      "phrase": "수목이 우거진 계곡",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a wooded valley"
+      ]
+    },
+    {
+      "phrase": "계곡 사이에 놓인 철제 가교",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an iron bridge spanning the valley"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "valley",
+      "frequency": 2
+    },
+    {
+      "meaning": "vale",
+      "frequency": 1
+    },
+    {
+      "meaning": "dale",
+      "frequency": 1
+    },
+    {
+      "meaning": "gill 4",
+      "frequency": 0
+    },
+    {
+      "meaning": "linn",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "계곡이 뭐야? What's a valley? 듣기 View video NCT : 시티고 1학년 27반",
+      "english": "What's a valley?"
+    },
+    {
+      "korean": "뭐야, 산이었어? - 계곡? What? A mountain? - The valley? 듣기 View video NCT : 시티고 1학년 27반",
+      "english": "What? A mountain? - The valley?"
+    },
+    {
+      "korean": "여름 여행... 계곡 아닐까요? Summer vacation... Probably somewhere by a stream in the mountains? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "Summer vacation... Probably somewhere by a stream in the mountains?"
+    },
+    {
+      "korean": "계곡 - 계곡! A valley. - A valley! 듣기 View video IZ*ONE : 히짱데이🥳💕",
+      "english": "A valley. - A valley!"
+    },
+    {
+      "korean": "다 좋은데 계곡? I like them all but valley? 듣기 View video MONSTA X : LIVE : 안녕 몬베베🐢",
+      "english": "I like them all but valley?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The track plunged down into the valley. 발음듣기 그 산길은 계곡 아래로 가파르게 나 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The track plunged down into the valley. 발음"
+    },
+    {
+      "korean": "The fog soon encompassed the whole valley. 발음듣기 안개가 곧 계곡 전체를 에워쌌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The fog soon encompassed the whole valley. 발음"
+    },
+    {
+      "korean": "The valley is watered by a stream. 발음듣기 그 계곡에는 개울물이 흘러들어와서 물을 채운다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The valley is watered by a stream. 발음"
+    },
+    {
+      "korean": "The valley was clothed in trees and shrubs. 발음듣기 그 계곡에는 나무와 관목들이 우거져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The valley was clothed in trees and shrubs. 발음"
+    },
+    {
+      "korean": "At the other side of the valley was a steep ascent to the top of the hill. 발음듣기 계곡 건너편에는 가파른 오르막이 산꼭대기까지 나 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At the other side of the valley was a steep ascent to the top of the hill. 발음"
+    }
+  ]
+}

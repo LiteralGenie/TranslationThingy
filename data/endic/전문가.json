@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "전문가",
+      "hanja": " (專門家)",
+      "example": {},
+      "meanings": [
+        "expert, specialist (in), professional; (대가) master"
+      ]
+    },
+    {
+      "phrase": "컴퓨터 전문가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a computer expert",
+        "a computer maven",
+        "a computer whiz"
+      ]
+    },
+    {
+      "phrase": "전문가의 안식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an expert´s eye"
+      ]
+    },
+    {
+      "phrase": "전문가의 조언",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "professional advice"
+      ]
+    },
+    {
+      "phrase": "전문가의 눈",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an expert´s eye",
+        "a professional eye"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "expert",
+      "frequency": 2
+    },
+    {
+      "meaning": "professional",
+      "frequency": 2
+    },
+    {
+      "meaning": "specialist",
+      "frequency": 2
+    },
+    {
+      "meaning": "veteran",
+      "frequency": 1
+    },
+    {
+      "meaning": "maven",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "강아지 전문가분들, 장난치는 거 맞겠죠? Puppy experts out there, they are just playing around, right? 듣기 View video V COOKIE : [Full] Jeong Eun Ji X CouchTalk - 정은지 X 카우치토크",
+      "english": "Puppy experts out there, they are just playing around, right?"
+    },
+    {
+      "korean": "전문가의 확신! Assurance from a expert! 듣기 View video 콬TV (WHYNOT) : 가두리횟집에 어서오세요! [가두리횟집] EP01",
+      "english": "Assurance from a expert!"
+    },
+    {
+      "korean": "시사회 전문가 - 뷔! Premiere expert. - V! 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Premiere expert. - V!"
+    },
+    {
+      "korean": "살짝 전문가 포스... You look like an expert. 듣기 View video BTS : RJRJ 알제알제",
+      "english": "You look like an expert."
+    },
+    {
+      "korean": "[진짜 전문가 맞나연?] [Is she a professional?] View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Is she a professional?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a book written for professionals and laymen alike 발음듣기 전문가와 비전문가 모두를 위해 쓴 책 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a book written for professionals and laymen alike 발음"
+    },
+    {
+      "korean": "The burglar alarm should be professionally installed. 발음듣기 도난 경보 장치는 전문가가 설치해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The burglar alarm should be professionally installed. 발음"
+    },
+    {
+      "korean": "She was found guilty of unprofessional conduct. 발음듣기 그녀는 전문가답지 못한 행동을 한 죄가 있는 것으로 밝혀졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was found guilty of unprofessional conduct. 발음"
+    },
+    {
+      "korean": "The letter has been authenticated by handwriting experts. 발음듣기 그 편지는 필체 전문가들에 의해 진짜임이 밝혀졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The letter has been authenticated by handwriting experts. 발음"
+    },
+    {
+      "korean": "The last question foxed even our panel of experts. 발음듣기 마지막 문제는 전문가로 구성된 우리 패널들도 해결할 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The last question foxed even our panel of experts. 발음"
+    }
+  ]
+}

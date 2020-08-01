@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기원",
+      "hanja": " (起源)",
+      "example": {},
+      "meanings": [
+        "[명사] origin, beginning, (formal) genesis, [동사] originate (in/from), derive from, have its origin[roots] (in)"
+      ]
+    },
+    {
+      "phrase": "기원",
+      "hanja": " (棋院)",
+      "example": {},
+      "meanings": [
+        "(바둑을 두는 곳) go club[house]"
+      ]
+    },
+    {
+      "phrase": "기원",
+      "hanja": " (祈願)",
+      "example": {},
+      "meanings": [
+        "Noun praying"
+      ]
+    },
+    {
+      "phrase": "기원",
+      "hanja": " (起源/起原)",
+      "example": {},
+      "meanings": [
+        "Noun origin, root, birth"
+      ]
+    },
+    {
+      "phrase": "기원하다",
+      "hanja": " (祈願하다)",
+      "example": {},
+      "meanings": [
+        "pray, wish"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "root",
+      "frequency": 3
+    },
+    {
+      "meaning": "origin",
+      "frequency": 3
+    },
+    {
+      "meaning": "wish",
+      "frequency": 3
+    },
+    {
+      "meaning": "germ",
+      "frequency": 3
+    },
+    {
+      "meaning": "genesis",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[1등 기원] 오케이~ [Praying for 1st place] Okay! 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[Praying for 1st place] Okay!"
+    },
+    {
+      "korean": "['Love, Poem' 첫 콘서트! 성공적인 시작을 기원하며] 밑으로 할까요? Shall we go down? 듣기 View video IU : [IU TV] 투 머치 토커 아이유",
+      "english": "Shall we go down?"
+    },
+    {
+      "korean": "[솔탈 기원] 짠 해야지 짠~ [Wish to meet someone] Cheers. 듣기 View video 콬TV (WHYNOT) : 키스 KISSㅣ저 썸남이랑 키스 각이에요..❤️ [리얼:타임:러브] EP1",
+      "english": "[Wish to meet someone] Cheers."
+    },
+    {
+      "korean": "대박! - 기원이? Awesome. - KI WON? 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "Awesome. - KI WON?"
+    },
+    {
+      "korean": "성공 기원해주고 있어. they are wishing I succeed. 듣기 View video Hahm Eun Jung : 은정이 베트남에 또 왔지롱~ Eun Jung lại đến Việt Nam rồi đây ~~",
+      "english": "they are wishing I succeed."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We prayed (that) she would recover from her illness. 듣기 Add to Wordbook 우리는 그녀가 병에서 회복하기를 기원했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We prayed (that) she would recover from her illness. Add to Wordbook"
+    },
+    {
+      "korean": "Keep your fingers crossed! 듣기 Add to Wordbook 행운을 빌어 줘[잘 되길 기원해]! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Keep your fingers crossed! Add to Wordbook"
+    },
+    {
+      "korean": "The prince’s wish came true. 듣기 Add to Wordbook 그 왕자의 기원이 실현되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The prince’s wish came true. Add to Wordbook"
+    },
+    {
+      "korean": "theories about the origins of language 듣기 Add to Wordbook 말[언어]의 기원에 관한 이론들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "theories about the origins of language Add to Wordbook"
+    },
+    {
+      "korean": "The question of the origin of the universe is still hotly debated by scientists. 듣기 Add to Wordbook 우주의 기원이라는 문제에 대해서는 아직도 과학자들이 열띤 논쟁을 벌이고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The question of the origin of the universe is still hotly debated by scientists. Add to Wordbook"
+    }
+  ]
+}

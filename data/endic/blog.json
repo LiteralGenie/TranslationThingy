@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "blog",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (인터넷의) 블로그",
+        "Verb 블로그를 기록하다"
+      ]
+    },
+    {
+      "phrase": "blog ( Weblog, Web log )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 신조어 특정 주제에 대해 시간순으로 글을 올리고, 자주 업데이트가 이루어지는 웹페이지"
+      ]
+    },
+    {
+      "phrase": "blog",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 신조어 충격을 받은 상태, 놀란 상태"
+      ]
+    },
+    {
+      "phrase": "blog-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Prefix 신조어 '블로그'라는 의미를 포함하는 합성어를 만드는 접두사 혹은 복합형. (예: Blogosphere(블로그들이 모인 공간, 세계), blognoscenti(전자기기 신제품에 대한 리뷰를 전문적으로 올리는 블로그), blogarrhea(길고 두서없..."
+      ]
+    },
+    {
+      "phrase": "live blog",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 라이브 블로그(어떤 사안에 대한 실시간 정보를 게시하는 블로그)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "블로그",
+      "frequency": 0
+    },
+    {
+      "meaning": "누리사랑방",
+      "frequency": 0
+    },
+    {
+      "meaning": "Blogging",
+      "frequency": 0
+    },
+    {
+      "meaning": "Big Load of Gossip",
+      "frequency": 0
+    },
+    {
+      "meaning": "Boring Lump Of Garbage",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "블로그 한번 시작해보세요. try starting a blog. 듣기 View video SSONGYANG : [복코성형팁] #내가좋아하는것 영상에 이어 요즘 좋아하는 메이크업 소개 | 코쉐딩하는법",
+      "english": "try starting a blog."
+    },
+    {
+      "korean": "새 블로그는 언제 만드냐고요? When will I make a new blog? 듣기 View video BTOB : 라디오 가는 길 또 심심해서 Q&A",
+      "english": "When will I make a new blog?"
+    },
+    {
+      "korean": "저 레시피 홈페이지 블로그 이런데서 봤어요. I saw it on the homepage blog... 듣기 View video DAY6 : 사탕빌더 밥성진🍭",
+      "english": "I saw it on the homepage blog..."
+    },
+    {
+      "korean": "선물 받았던 제품도 있고 직접 구매한 제품들도 있습니다. while doing the blog, SNS, and creator activities. 듣기 View video 카모마일T (Chamomile_T) : 지성두피? 건성두피? 타입 별 사용하기 좋은 샴푸 리뷰",
+      "english": "while doing the blog, SNS, and creator activities."
+    },
+    {
+      "korean": "근데 이번에 제가 블로그 포스팅을 하면서 이런 제품을 받았어요. But I got this product while posting on my blog. 듣기 View video 카모마일T (Chamomile_T) : 남자 헤어스타일링 + 극손상 모발 관리 방법 / Men's hair styling",
+      "english": "But I got this product while posting on my blog."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That shedworker posted a message on the blog about his work. 발음듣기 그 정원 헛간에서 일하는 사람은 블로그에 그의 일에 대해 썼다, 국제영어대학원대학교 신어사전",
+      "english": "That shedworker posted a message on the blog about his work. 발음"
+    },
+    {
+      "korean": "He is always shitposting on his blog. 발음듣기 그는 항상 그의 블로그에 영양가 없는 포스팅을 한다. 국제영어대학원대학교 신어사전",
+      "english": "He is always shitposting on his blog. 발음"
+    },
+    {
+      "korean": "While reading the blog post, I realized that it must be a blogvert. 발음듣기 블로그 글을 읽다 보니, 나는 그것이 광고임을 알게 되었다. 국제영어대학원대학교 신어사전",
+      "english": "While reading the blog post, I realized that it must be a blogvert. 발음"
+    },
+    {
+      "korean": "The freelance writer went for a walk to overcome the blog fog. 발음듣기 자유기고가는 블로그에 글을 쓸 아이디어가 고갈된 상황을 극복하려고 산책을 갔다. 국제영어대학원대학교 신어사전",
+      "english": "The freelance writer went for a walk to overcome the blog fog. 발음"
+    },
+    {
+      "korean": "She decided to e-blaborate the corruption scandals implicating incumbent lawmakers on her blog. 발음듣기 그녀는 현직 국회의원들이 연루된 비리 사건을 그녀의 블로그를 통해 알리기로 결심했다. 국제영어대학원대학교 신어사전",
+      "english": "She decided to e-blaborate the corruption scandals implicating incumbent lawmakers on her blog. 발음"
+    }
+  ]
+}

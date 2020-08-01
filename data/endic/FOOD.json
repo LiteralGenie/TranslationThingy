@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "food",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 식량, 음식, 식품, 먹이",
+        "Noun (특정한 유형의) 음식[식품/먹이] (→convenience food, fast food, functional food, health food, junk food, seafood, soul food, wholefood)"
+      ]
+    },
+    {
+      "phrase": "FOOD!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The number one nourishment of #asr."
+      ]
+    },
+    {
+      "phrase": "food for thought",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(깊이) 생각할 거리"
+      ]
+    },
+    {
+      "phrase": "food web",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 전문 용어 먹이 그물(서로 의존 관계에 있는 먹이 사슬 시스템)"
+      ]
+    },
+    {
+      "phrase": "junk food ( junk foods, junk )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비격식, 못마땅함 정크 푸드(건강에 좋지 못한 것으로 여겨지는 인스턴트 음식이나 패스트푸드)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Fresh Foods, Inc.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Federation of Organic Dairy",
+      "frequency": 0
+    },
+    {
+      "meaning": "Farmer overed and over dead",
+      "frequency": 0
+    },
+    {
+      "meaning": "Food Of The Orange District",
+      "frequency": 0
+    },
+    {
+      "meaning": "Foundation of Occupational Development",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐 음식이요? You mean food? 듣기 View video OSEN : PENTAGON 펜타곤, 귀여운 2인 1조 TMI 인터뷰 #스타로드 05",
+      "english": "You mean food?"
+    },
+    {
+      "korean": "'밥 먹었어?' 밥? \"Did you eat?\" Food? 듣기 View video AB6IX : 로센키🌹",
+      "english": "\"Did you eat?\" Food?"
+    },
+    {
+      "korean": "음식은 초콜릿? Food wise, chocolate? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "Food wise, chocolate?"
+    },
+    {
+      "korean": "안 나와도 돼? Oh, you don't need to see the food? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Oh, you don't need to see the food?"
+    },
+    {
+      "korean": "[계속해서 추가되는 음식들!] [Food coming over and over again!] View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "[Food coming over and over again!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Always chew food well before swallowing it. 듣기 Add to Wordbook 음식을 삼키기 전에 반드시 잘 씹어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Always chew food well before swallowing it. Add to Wordbook"
+    },
+    {
+      "korean": "She grew tired of the sameness of the food. 듣기 Add to Wordbook 그녀는 음식이 똑같은 것에 싫증이 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She grew tired of the sameness of the food. Add to Wordbook"
+    },
+    {
+      "korean": "The way he ate his food revolted me. 듣기 Add to Wordbook 그가 음식을 먹는 태도가 나를 역겹게 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The way he ate his food revolted me. Add to Wordbook"
+    },
+    {
+      "korean": "Food will be served in the hospitality tent. 듣기 Add to Wordbook 음식은 손님 접대용 천막에서 제공됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Food will be served in the hospitality tent. Add to Wordbook"
+    },
+    {
+      "korean": "These are classical examples of food allergy. 듣기 Add to Wordbook 이것들은 식품 알레르기의 전형적인 예들이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These are classical examples of food allergy. Add to Wordbook"
+    }
+  ]
+}

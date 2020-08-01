@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "노력",
+      "hanja": " (努力)",
+      "example": {},
+      "meanings": [
+        "[명사] effort, exertion, (formal) endeavor, [동사] try, make an effort[endeavor], work hard, strive (for), (formal) endeavor, (formal) exert oneself"
+      ]
+    },
+    {
+      "phrase": "노력",
+      "hanja": " (勞力)",
+      "example": {},
+      "meanings": [
+        "Noun labor"
+      ]
+    },
+    {
+      "phrase": "노력(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 endeavor"
+      ]
+    },
+    {
+      "phrase": "노력(적기능)",
+      "hanja": " (努力(的機能))",
+      "example": {},
+      "meanings": [
+        "의학 molimen"
+      ]
+    },
+    {
+      "phrase": "부단한 노력",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "constant exertions",
+        "a sustained[perpetual] effort"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cost",
+      "frequency": 3
+    },
+    {
+      "meaning": "sweat",
+      "frequency": 3
+    },
+    {
+      "meaning": "effort",
+      "frequency": 3
+    },
+    {
+      "meaning": "work",
+      "frequency": 3
+    },
+    {
+      "meaning": "gear",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그간의 노력을 생각하면... When I think about our efforts... 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "When I think about our efforts..."
+    },
+    {
+      "korean": "자기계발에 지금 노력을 하고 있지 않을까요? to improve themselves in their own roles? 듣기 View video ASTRO : 아로하 따나잇🌙",
+      "english": "to improve themselves in their own roles?"
+    },
+    {
+      "korean": "내 거 먹어볼래? - 노력을 하세요, 막 이러면... Do you want to eat mine? - What if it says, \"Try harder\". 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Do you want to eat mine? - What if it says, \"Try harder\"."
+    },
+    {
+      "korean": "팬이랑 진짜 친구가 될 수 있다고 생각해요 노력을 통해서? I think that you can really become friends with a fan through effort. 듣기 View video (G)I-DLE : 🐰🎂♥️",
+      "english": "I think that you can really become friends with a fan through effort."
+    },
+    {
+      "korean": "전 노력형... 노력형... I try hard... I try... 듣기 View video VICTON : 해피한세데이♡",
+      "english": "I try hard... I try..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "All our efforts have come to nought. 듣기 Add to Wordbook 우리의 모든 노력이 허사가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All our efforts have come to nought. Add to Wordbook"
+    },
+    {
+      "korean": "his ham-fisted efforts to assist her 듣기 Add to Wordbook 그녀를 도와주려는 그의 서투른 노력 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "his ham-fisted efforts to assist her Add to Wordbook"
+    },
+    {
+      "korean": "You should try and be more assertive. 듣기 Add to Wordbook 넌 좀 더 적극적이 되도록 노력해야 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You should try and be more assertive. Add to Wordbook"
+    },
+    {
+      "korean": "efforts to expand the outreach to black voters 듣기 Add to Wordbook 흑인 유권자들에 대한 지원을 확대하려는 노력 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "efforts to expand the outreach to black voters Add to Wordbook"
+    },
+    {
+      "korean": "Their efforts were finally crowned with success. 듣기 Add to Wordbook 그들의 노력은 마침내 성공으로 결실을 맺었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their efforts were finally crowned with success. Add to Wordbook"
+    }
+  ]
+}

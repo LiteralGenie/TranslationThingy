@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "잠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sleep, (literary) slumber, (낮잠) nap, (졸음) doze"
+      ]
+    },
+    {
+      "phrase": "잠을 깨우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wake up"
+      ]
+    },
+    {
+      "phrase": "잠자다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(잠을 자다) sleep, (Am, inf) catch[get] some z's, (잠자리에 들다) go to bed",
+        "(활동을 멈추거나 이용되지 않다) lie idle, lie unused",
+        "(어떤 현상을 깨닫지 못하고 있다)"
+      ]
+    },
+    {
+      "phrase": "겨울잠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hibernation"
+      ]
+    },
+    {
+      "phrase": "깊은 잠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a deep sleep"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sleep",
+      "frequency": 3
+    },
+    {
+      "meaning": "slumber",
+      "frequency": 3
+    },
+    {
+      "meaning": "kip",
+      "frequency": 0
+    },
+    {
+      "meaning": "Z",
+      "frequency": 0
+    },
+    {
+      "meaning": "shut-eye",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[잠 깨고 랩 하러 가실게요~] [Be awake for the stage~] View video 내 전공은 힙합(My major is HIPHOP) : Ep 22. 서울대의 두 동아리 츄플 & 바팩 파이널에서 만나다!",
+      "english": "[Be awake for the stage~]"
+    },
+    {
+      "korean": "잠 안 온다고 공부하면... Studying because I can't sleep... 듣기 View video SEVENTEEN : 잠이여 오너라",
+      "english": "Studying because I can't sleep..."
+    },
+    {
+      "korean": "잠은 사실 옛날에 잠을 줄이고... For sleep... In the past, I decided to sleep less. 듣기 View video Hwang Chi Yeul : 모두 굿나잇!!",
+      "english": "For sleep... In the past, I decided to sleep less."
+    },
+    {
+      "korean": "잠은... 좀 자? Do you ever get some sleep? 듣기 View video 컨스TV : 정말 난 친구인거네...[넘버식스] ep5.",
+      "english": "Do you ever get some sleep?"
+    },
+    {
+      "korean": "또 거기 가서 잠만 잤어요? You slept there again? 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "You slept there again?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He had fallen asleep on the sofa. 듣기 Add to Wordbook 그는 소파에서 잠이 들었었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had fallen asleep on the sofa. Add to Wordbook"
+    },
+    {
+      "korean": "Her eyes ached from lack of sleep. 듣기 Add to Wordbook 그녀는 잠을 못 자서 눈이 쓰렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her eyes ached from lack of sleep. Add to Wordbook"
+    },
+    {
+      "korean": "The bed was rumpled where he had slept. 듣기 Add to Wordbook 그가 잠을 잤던 침대가 헝클어져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bed was rumpled where he had slept. Add to Wordbook"
+    },
+    {
+      "korean": "He felt dulled and stupid with sleep. 듣기 Add to Wordbook 그는 잠이 와서 굼뜨고 멍청해진 기분이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He felt dulled and stupid with sleep. Add to Wordbook"
+    },
+    {
+      "korean": "I was rudely awakened by the phone ringing. 듣기 Add to Wordbook 나는 전화벨 소리에 깜짝 놀라 잠이 깼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was rudely awakened by the phone ringing. Add to Wordbook"
+    }
+  ]
+}

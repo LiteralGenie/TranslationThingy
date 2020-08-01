@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "강박",
+      "hanja": " (強迫)",
+      "example": {},
+      "meanings": [
+        "compulsion, coercion, duress, constraint, 강박하다 compel, coerce, constrain, force"
+      ]
+    },
+    {
+      "phrase": "강박(행위)",
+      "hanja": " (强迫(行爲))",
+      "example": {},
+      "meanings": [
+        "의학 compulsion"
+      ]
+    },
+    {
+      "phrase": "강박관념",
+      "hanja": " (强拍觀念)",
+      "example": {},
+      "meanings": [
+        "obsession (with)"
+      ]
+    },
+    {
+      "phrase": "강박 관념에 시달리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suffer from an obsession"
+      ]
+    },
+    {
+      "phrase": "강박 신경증",
+      "hanja": " (强迫神經症)",
+      "example": {},
+      "meanings": [
+        "(의학) obsessional[obsessive-compulsive] neurosis"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "onbeat",
+      "frequency": 0
+    },
+    {
+      "meaning": "compulsivity",
+      "frequency": 0
+    },
+    {
+      "meaning": "obsession",
+      "frequency": 3
+    },
+    {
+      "meaning": "obsessive compulsive disorder",
+      "frequency": 0
+    },
+    {
+      "meaning": "obsessive-compulsive",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "잘 먹어야 될 거 같은 그 강박 이런 거 있지? - 그게 옛날에 있었어요. you feel this pressure to eat? - I did a long time ago. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "you feel this pressure to eat? - I did a long time ago."
+    },
+    {
+      "korean": "혹시 강박적인 부분이 좀 있나요? Are you compulsive? 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "Are you compulsive?"
+    },
+    {
+      "korean": "강박적으로 생각하는 게 있죠. Yeah, you think more like that. 듣기 View video V COOKIE : [REPLAY]Christmas Week EP.2 STARSHIP-ENT (스타쉽엔터)",
+      "english": "Yeah, you think more like that."
+    },
+    {
+      "korean": "처음에는 너무 이제 강박관념이 심했어요. At first, I got stressed. 듣기 View video LEE DONG WOOK : [Full]이동욱의 On the air (LEE DONG WOOK's On the air)",
+      "english": "At first, I got stressed."
+    },
+    {
+      "korean": "어디인가 강박적인 부분이 있는 것 같아요. You'll be compulsive somewhere. 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "You'll be compulsive somewhere."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She’s a compulsive reader of romances. 듣기 Add to Wordbook 그녀는 강박적인 연애소설 독자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s a compulsive reader of romances. Add to Wordbook"
+    },
+    {
+      "korean": "Fitness has become an obsession with him. 듣기 Add to Wordbook 건강 관리가 그에게는 강박 관념이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fitness has become an obsession with him. Add to Wordbook"
+    },
+    {
+      "korean": "Her fear of flying is bordering on obsession. 듣기 Add to Wordbook 그녀의 비행 공포증이 거의 강박 상태 수준이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her fear of flying is bordering on obsession. Add to Wordbook"
+    },
+    {
+      "korean": "She went through periods of compulsive overeating. 듣기 Add to Wordbook 그녀는 한동안씩 강박적으로 과식을 하고는 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She went through periods of compulsive overeating. Add to Wordbook"
+    },
+    {
+      "korean": "Compulsive gamblers are more to be pitied than condemned. 듣기 Add to Wordbook 강박적인[상습] 도박꾼들은 비난보다는 동정을 받아야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Compulsive gamblers are more to be pitied than condemned. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이 모양으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in this way"
+      ]
+    },
+    {
+      "phrase": "이 모양으로 나가면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "if things go at this rate"
+      ]
+    },
+    {
+      "phrase": "모양(이) 사납다",
+      "hanja": " (模樣―·貌樣―)",
+      "example": {},
+      "meanings": [
+        "(관용)look unseemly[awkward, indecent, improper, unsightly, unbecoming];be offensive (to the eye) ;look bad;(be) ignoble;disgraceful"
+      ]
+    },
+    {
+      "phrase": "이모양의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 odontoid"
+      ]
+    },
+    {
+      "phrase": "물품의 형상, 모양 혹은 색채 또는 이들의 결합",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_특허 shape, pattern or color or any combination thereof in an article"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tooth profile",
+      "frequency": 0
+    },
+    {
+      "meaning": "tooth form",
+      "frequency": 0
+    },
+    {
+      "meaning": "tooth",
+      "frequency": 2
+    },
+    {
+      "meaning": "fall",
+      "frequency": 2
+    },
+    {
+      "meaning": "crown",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "왜 하필 이 모양이었을까요? Why does it look like that? 듣기 View video NU'EST : [NU’EST] 뉴이스트와 스푼즈가 함께 하는 스페셜 V LIVE",
+      "english": "Why does it look like that?"
+    },
+    {
+      "korean": "믿지 - M을 약간 이 모양... MIDZY. - Make an M like this. 듣기 View video ITZY : 있지♥믿지",
+      "english": "MIDZY. - Make an M like this."
+    },
+    {
+      "korean": "안 그러면 이 모양대로 탑니다. If you don't, you'll get burnt in the same shape as your outfit. 듣기 View video Space Girl : 태민 생파 같이 준비해요 🎉 Taemin birthday party GRWM",
+      "english": "If you don't, you'll get burnt in the same shape as your outfit."
+    },
+    {
+      "korean": "이렇게 스티커가 아래로 가서 이 모양이 손톱에 딱 맞게 스티커가 붙은 모양으로. Put the sticker under your nail so that it fits perfectly with your nail. 듣기 View video GFRIEND : SBS MTV <요고바라> 동시생중계",
+      "english": "Put the sticker under your nail so that it fits perfectly with your nail."
+    },
+    {
+      "korean": "[초콜릿 몰드에 녹인 초콜릿을 부어주기!] 우리 이 모양대로 나오는 거겠지? [Pour the melted chocolate into the mold] It'll mold into this shape, right? 듣기 View video OSEN : ASTRO 아스트로 'Star Road' EP.03",
+      "english": "[Pour the melted chocolate into the mold] It'll mold into this shape, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The state of the roads is a reproach to civilization. 발음듣기 도로 상태가 이 모양인 것은 문명의 수치다. Friendict Level English-Korean Dictionary",
+      "english": "The state of the roads is a reproach to civilization. 발음"
+    },
+    {
+      "korean": "I'm not fit to be seen. 발음듣기 이 모양으로는 사람들 앞에 설 수 없다 Dong-a's Prime English-Korean Dictionary",
+      "english": "I'm not fit to be seen. 발음"
+    },
+    {
+      "korean": "The stuctural shape is caused by a breakdown in the microscopic gate in the outer part of cells. 발음듣기 이 모양은 세포막에 있는 미세한 게이트의 고장으로 생겨납니다. YBM All in All English-Korean Dictionary",
+      "english": "The stuctural shape is caused by a breakdown in the microscopic gate in the outer part of cells. 발음"
+    },
+    {
+      "korean": "The shape is caused by a breakdown in the microscopic gate in the outer part of cells. 발음듣기 이 모양은 세포막에 있는 미세한 게이트의 고장으로 생겨납니다. YBM All in All English-Korean Dictionary",
+      "english": "The shape is caused by a breakdown in the microscopic gate in the outer part of cells. 발음"
+    },
+    {
+      "korean": "Cut my hair in the identical style as it is, please. 발음듣기 지금 이 모양대로 조금 다듬어 주세요. Neungyule",
+      "english": "Cut my hair in the identical style as it is, please. 발음"
+    }
+  ]
+}

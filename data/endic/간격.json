@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "간격",
+      "hanja": " (間隔)",
+      "example": {},
+      "meanings": [
+        "(시간적) interval",
+        "(공간적) space, distance, gap, interval"
+      ]
+    },
+    {
+      "phrase": "간격을 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "space out",
+        "leave[save] space"
+      ]
+    },
+    {
+      "phrase": "간격을 넓히다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "widen the spaces[distance] (between)"
+      ]
+    },
+    {
+      "phrase": "간격을 좁히다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "narrow the space[distance, gap] (between)"
+      ]
+    },
+    {
+      "phrase": "10분 간격으로 버스를 배차하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "operate[run] buses at 10-minute intervals"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "spacing",
+      "frequency": 0
+    },
+    {
+      "meaning": "interval",
+      "frequency": 2
+    },
+    {
+      "meaning": "clearance",
+      "frequency": 1
+    },
+    {
+      "meaning": "hairbreadth",
+      "frequency": 0
+    },
+    {
+      "meaning": "intervallaum",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[사고 위험이 높은 만큼] 'Blue Orangeade'할 때 사이 간격 조금 더 필요할 것 같지 않아? [It's risky] Don't you think we need more room between us during \"Blue Orangeade\"? 듣기 View video Mnet : [ONE DREAM.TXT] Reality Ep.05 - Part.3",
+      "english": "[It's risky] Don't you think we need more room between us during \"Blue Orangeade\"?"
+    },
+    {
+      "korean": "그래서 지범이가 같은 장소에 한 2시간 간격? So Ji Beom, at the same place in two hour intervals? 듣기 View video Golden Child : 지범이의 북두칠성💥 여섯번째 별",
+      "english": "So Ji Beom, at the same place in two hour intervals?"
+    },
+    {
+      "korean": "간격은 유지하고. Keep the distance. 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 시즌4 _ ep7 내 인생 최고의 날! 화보 촬영",
+      "english": "Keep the distance."
+    },
+    {
+      "korean": "간격이 너무 좁아. We have small space. 듣기 View video T-ARA : 티아라 in 베트남",
+      "english": "We have small space."
+    },
+    {
+      "korean": "간격이 기가 막혀. Look at these thin slices. 듣기 View video Cookat X Idol : [매떠여 시즌2] Kim Jin Kyung, Jung ho yeon / 김진경, 정호연 전주비빔밥 요리!!",
+      "english": "Look at these thin slices."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The contractions started coming every five minutes. 발음듣기 진통이 5분 간격으로 몰려오기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The contractions started coming every five minutes. 발음"
+    },
+    {
+      "korean": "a half-hourly bus service 발음듣기 30분 간격으로 운행하는 버스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a half-hourly bus service 발음"
+    },
+    {
+      "korean": "Trains leave at hourly intervals. 발음듣기 기차는 1시간 간격으로 출발한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Trains leave at hourly intervals. 발음"
+    },
+    {
+      "korean": "evenly spaced at four cm apart 발음듣기 고르게 4센티미터 간격으로 된 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "evenly spaced at four cm apart 발음"
+    },
+    {
+      "korean": "The noise came at two-minute intervals. 발음듣기 그 소리는 2분 간격으로 들려왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The noise came at two-minute intervals. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "벼락",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(자연 현상) lightning, thunderbolt",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "벼락 치듯",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as if lightning strikes",
+        "as if lightning strikes"
+      ]
+    },
+    {
+      "phrase": "벼락 맞을 소리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remarks that may be struck by lightning"
+      ]
+    },
+    {
+      "phrase": "벼락(이) 내리다[떨어지다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Lightning falls[drops]",
+        "Lightning falls[drops]"
+      ]
+    },
+    {
+      "phrase": "벼락부자",
+      "hanja": " (―富者)",
+      "example": {},
+      "meanings": [
+        "upstart, nouveau riche, (formal) parvenu"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thunderbolt",
+      "frequency": 3
+    },
+    {
+      "meaning": "coup de foudre",
+      "frequency": 0
+    },
+    {
+      "meaning": "thunderstroke",
+      "frequency": 0
+    },
+    {
+      "meaning": "thunderstoke",
+      "frequency": 0
+    },
+    {
+      "meaning": "ground discharge",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "벼락인가요?",
+      "english": "Is it a lightening mark?"
+    },
+    {
+      "korean": "[오잉 번개치기 아니었어요? 아니 그 급하게 외우는 거] 벼락...",
+      "english": "[It wasn't crashing?] It's cramming."
+    },
+    {
+      "korean": "[벼락 치기] - 여기서 외우네 - 여기서 외웁니다!",
+      "english": "[Cramming] - They're memorizing. - Here!"
+    },
+    {
+      "korean": "[서열 2위 벼락 언니 민혁] - 나 넘버 2! - 넘버 2!",
+      "english": "[Minhyuk got number 2] - I'm number 2! - Number 2!"
+    },
+    {
+      "korean": "저희가 돈벼락을 한 번 맞아 보려고요.",
+      "english": "We wanted to hit the jackpot."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 나무는 벼락을 맞았다.",
+      "english": "The tree was struck by lightning."
+    },
+    {
+      "korean": "그 소식은 그들에게 벼락과 같았다.",
+      "english": "The news hit them like a thunderbolt."
+    },
+    {
+      "korean": "벼락에 맞을 가능성[확률]은 100만분의 1이다.",
+      "english": "The chances are a million to one against being struck by lightning."
+    },
+    {
+      "korean": "무선 셀 기지국이 벼락을 맞는 바람에 통신이 먹통이 되었다.",
+      "english": "The cell tower was struck by lightning, so communication was interrupted."
+    },
+    {
+      "korean": "벼락을 칠 듯한 그의 표정",
+      "english": "his thunderous expression"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "지금까지 없던 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an unprecedented event"
+      ]
+    },
+    {
+      "phrase": "예정에 없던 방문을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make an unscheduled visit to"
+      ]
+    },
+    {
+      "phrase": "없는 것이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack nothing, soup-to-nuts"
+      ]
+    },
+    {
+      "phrase": "없는 놈이 찬밥 더운 밥을 가리랴",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Would a man in need discriminate cold rice from hot rice?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "new",
+      "frequency": 2
+    },
+    {
+      "meaning": "unscheduled",
+      "frequency": 0
+    },
+    {
+      "meaning": "an unplanned pregnancy",
+      "frequency": 0
+    },
+    {
+      "meaning": "an unscheduled stop",
+      "frequency": 0
+    },
+    {
+      "meaning": "a joyless childhood",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "만약에 결혼을 없던 일로 한다 해도... if you want to cancel our wedding. 듣기 View video 콬TV (WHYNOT) : 해피 엔딩 [가두리횟집] EP12",
+      "english": "if you want to cancel our wedding."
+    },
+    {
+      "korean": "이거 예정에 없던 건데, 노래를... I didn't plan this, but... 듣기 View video WINNER : How to 멋 2",
+      "english": "I didn't plan this, but..."
+    },
+    {
+      "korean": "[거의 일주일 밤샘 전례 없던 죽음의 스케줄!] [They've never worked this hard before!] View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "[They've never worked this hard before!]"
+    },
+    {
+      "korean": "[사극에도 나온 적 없던 옵황상제의 옷방을 공개합니다!] [First time to show MINHYUN's dressing room!] View video V PICK! : [NU'EST] ※라식 라섹 없는 시력 향상의 비법이 궁금하다면⁉️※ (MINHYUN talking about his Visual acuity)",
+      "english": "[First time to show MINHYUN's dressing room!]"
+    },
+    {
+      "korean": "영민이 형이 이렇게 말이 많았던 적이 없던 것 같은데 - 그렇지 - 그래? Youngmin was never this talkative. - Right. - Really? 듣기 View video V COOKIE : [Full] AB6IX x 우리의 밤 (Our Night with AB6IX)",
+      "english": "Youngmin was never this talkative. - Right. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The race was won by a 20–1 outsider. 발음듣기 그 경주에서는 20 대 1로 승산이 없던 선수가 우승했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The race was won by a 20–1 outsider. 발음"
+    },
+    {
+      "korean": "She had undergone an amazing metamorphosis from awkward schoolgirl to beautiful woman. 발음듣기 그녀는 볼품없던 여학생에서 아름다운 여인으로 놀랍게 탈바꿈해 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had undergone an amazing metamorphosis from awkward schoolgirl to beautiful woman. 발음"
+    },
+    {
+      "korean": "an accident of birth/fate/history 발음듣기 어쩌다가 태어난 몸/운수에 없던 일/역사적 우연 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an accident of birth/fate/history 발음"
+    },
+    {
+      "korean": "That was in the bad old days of rampant inflation. 발음듣기 그것은 인플레이션이 걷잡을 수 없던, 힘들었던 옛날 일이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That was in the bad old days of rampant inflation. 발음"
+    },
+    {
+      "korean": "The winning horse was a rank outsider. 발음듣기 우승한 말은 전혀 승산이 없던 말이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The winning horse was a rank outsider. 발음"
+    }
+  ]
+}

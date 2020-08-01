@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "들어가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(특정 장소로) enter, go[get, come] in(to), walk[step] in(to)",
+        "go into, (몸 안으로) get into",
+        "(학교·회사 등에) enter, go into, (회사에) be employed, (가입하다) join"
+      ]
+    },
+    {
+      "phrase": "쑥 들어간 눈",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hollow[sunken, deep-set] eyes"
+      ]
+    },
+    {
+      "phrase": "움푹 들어간 볼",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hollow cheeks",
+        "sunken cheeks"
+      ]
+    },
+    {
+      "phrase": "움푹 들어간 배꼽",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a deep navel"
+      ]
+    },
+    {
+      "phrase": "바람이 덜 들어간[너무 들어간] 타이어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an under-[over-]inflated tire"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cleft",
+      "frequency": 3
+    },
+    {
+      "meaning": "deep-set",
+      "frequency": 0
+    },
+    {
+      "meaning": "dent",
+      "frequency": 3
+    },
+    {
+      "meaning": "eyeful",
+      "frequency": 0
+    },
+    {
+      "meaning": "figured pottery",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 초코 안에 치즈 들어간 크림치즈 같은...",
+      "english": "There's cheese inside the chocolate... Like cream cheese."
+    },
+    {
+      "korean": "언니가 들어간 노래가 있나?",
+      "english": "Is there a song with \"sister\" in it?"
+    },
+    {
+      "korean": "[명쾌] - 치즈가 들어간 떡볶이 - 뭐라고?",
+      "english": "[Clear] - It's tteokbokki with cheese. - What?"
+    },
+    {
+      "korean": "이 프렌치로 들어간 게 진짜 매력적이에요 맞죠?",
+      "english": "It's really charming how it's French nails, right?"
+    },
+    {
+      "korean": "내가 자주 먹는 거? - 치즈가 들어간 떡볶이!",
+      "english": "The one that I eat often? - It's tteokbokki with cheese!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그녀는 허리 부분에 주름이 들어간 치마를 입고 있었다.",
+      "english": "She wore a skirt gathered (in) at the waist."
+    },
+    {
+      "korean": "책을 꽂을 수 있도록 우묵 들어간 곳",
+      "english": "a recess for books"
+    },
+    {
+      "korean": "그 소도시는 내륙으로 몇 마일 들어간 곳에 위치해 있다.",
+      "english": "The town lies a few kilometres inland."
+    },
+    {
+      "korean": "수면 부족으로 눈이 쑥 들어간",
+      "english": "hollow-eyed from lack of sleep"
+    },
+    {
+      "korean": "범죄의 세계로 끌려 들어간 청소년들",
+      "english": "youngsters drawn into a life of crime"
+    }
+  ]
+}

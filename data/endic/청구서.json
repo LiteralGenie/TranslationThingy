@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "청구서",
+      "hanja": " (請求書)",
+      "example": {},
+      "meanings": [
+        "bill, account"
+      ]
+    },
+    {
+      "phrase": "청구서를 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "render[send in] an account",
+        "submit a bill"
+      ]
+    },
+    {
+      "phrase": "청구서를 쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "write[make] out a bill"
+      ]
+    },
+    {
+      "phrase": "전화 요금 청구서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a phone bill"
+      ]
+    },
+    {
+      "phrase": "나중에 청구서를 보내시오",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Bill me later."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bill",
+      "frequency": 3
+    },
+    {
+      "meaning": "invoice",
+      "frequency": 3
+    },
+    {
+      "meaning": "bill 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "tab 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "chit 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "to send/issue/settle an invoice for the goods 듣기 Add to Wordbook 물품 대금 청구서[송장]를 보내다/발송하다/처리하다[청구서대로 계산해 주다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to send/issue/settle an invoice for the goods Add to Wordbook"
+    },
+    {
+      "korean": "a cheque in settlement of a bill 듣기 Add to Wordbook 청구서를 계산하기 위해 낸 수표 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cheque in settlement of a bill Add to Wordbook"
+    },
+    {
+      "korean": "to pad bills/expense accounts 듣기 Add to Wordbook 청구서/비용 계정에 다른 항목을 추가하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to pad bills/expense accounts Add to Wordbook"
+    },
+    {
+      "korean": "The bills kept coming in, one after another. 듣기 Add to Wordbook 청구서는 계속 들어왔다. 하나 그 뒤에 또 하나. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bills kept coming in, one after another. Add to Wordbook"
+    },
+    {
+      "korean": "You will receive a bill for the full amount. 듣기 Add to Wordbook 당신은 요금 전액에 대한 청구서를 받게 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You will receive a bill for the full amount. Add to Wordbook"
+    }
+  ]
+}

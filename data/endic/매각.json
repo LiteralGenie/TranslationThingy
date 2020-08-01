@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "매각",
+      "hanja": " (賣却)",
+      "example": {},
+      "meanings": [
+        "[명사] sale, disposal, [동사] sell (off), dispose (of)"
+      ]
+    },
+    {
+      "phrase": "자산 매각",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disposal of one's asset"
+      ]
+    },
+    {
+      "phrase": "매각 처분",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disposal[disposition] by sale"
+      ]
+    },
+    {
+      "phrase": "매각 지정가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "selling limits"
+      ]
+    },
+    {
+      "phrase": "주식을 매각하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sell stocks"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sell-off",
+      "frequency": 0
+    },
+    {
+      "meaning": "trade-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "deaccession",
+      "frequency": 0
+    },
+    {
+      "meaning": "vendition",
+      "frequency": 0
+    },
+    {
+      "meaning": "disposal 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "매각하셔서 - 그래요? 그런 것까지 여기서 얘기해야 되나? sold it. - Do we have to say that here? 듣기 View video INFINITE : 우현이 내게 오나 봐 잘사람 보라디오",
+      "english": "sold it. - Do we have to say that here?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a forced sale of his property 듣기 Add to Wordbook 그의 재산 강제 매각 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a forced sale of his property Add to Wordbook"
+    },
+    {
+      "korean": "The Church sold off the land for housing. 듣기 Add to Wordbook 교회가 그 토지를 주택 용지로 매각했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Church sold off the land for housing. Add to Wordbook"
+    },
+    {
+      "korean": "a strategic decision to sell off part of the business 듣기 Add to Wordbook 사업체 일부를 매각하기로 한 전략적인 결정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a strategic decision to sell off part of the business Add to Wordbook"
+    },
+    {
+      "korean": "It emerged that the company was going to be sold. 듣기 Add to Wordbook 그 회사가 매각될 것임이 알려졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It emerged that the company was going to be sold. Add to Wordbook"
+    },
+    {
+      "korean": "They sold the business at a profit/loss. 듣기 Add to Wordbook 그들은 이익을 남기고/손해를 보고 그 사업체를 매각했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They sold the business at a profit/loss. Add to Wordbook"
+    }
+  ]
+}

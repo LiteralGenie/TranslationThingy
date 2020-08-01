@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "대비",
+      "hanja": " (對比)",
+      "example": {},
+      "meanings": [
+        "(대조, 비교) [명사] (대조) contrast, (비교) comparison [동사] (대조되다) be contrasted (with), (비교되다) be compared (with/to)",
+        "(미술) [명사] contrast, [동사] be contrasted (with)"
+      ]
+    },
+    {
+      "phrase": "대비",
+      "hanja": " (對備)",
+      "example": {},
+      "meanings": [
+        "[명사] preparation (for), provision (for), preparedness, [동사] prepare (for), make provision (for), make preparations (for), be ready (for)"
+      ]
+    },
+    {
+      "phrase": "변에 대비하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide against emergencies"
+      ]
+    },
+    {
+      "phrase": "비상시에 대비하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide against emergencies[contingencies]",
+        "prepare for the worst",
+        "lay up against a rainy day"
+      ]
+    },
+    {
+      "phrase": "후일에 대비하여",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as a warning for the future"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "preparation",
+      "frequency": 3
+    },
+    {
+      "meaning": "contrast",
+      "frequency": 3
+    },
+    {
+      "meaning": "homework",
+      "frequency": 3
+    },
+    {
+      "meaning": "provision",
+      "frequency": 3
+    },
+    {
+      "meaning": "bandobast",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "거기에 대비해서 이제 해야지 진짜... You have to calculate the loss based on that. 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "You have to calculate the loss based on that."
+    },
+    {
+      "korean": "[또다시 시작된 동시V LIVE 요즘 대치동에 동시 V LIVE 대비 분신술학원이] 누가 V LIVE 하나? [Doing V LIVE shows] Who else is on V LIVE now? 듣기 View video V PICK! : [TWICE] 이렇게 줄줄이 모여들면 행복은 151020억배 눈물콧물까지 줄줄이야💗💦 (TWICE playing with glasses)",
+      "english": "[Doing V LIVE shows] Who else is on V LIVE now?"
+    },
+    {
+      "korean": "명암대비하면서 명수, 뭔 소리야? He'll be in contrast and L... What am I saying? 듣기 View video INFINITE : 장동우(Jang Dong Woo) 1st MINI ALBUM [Bye] COMEBACK V LIVE",
+      "english": "He'll be in contrast and L... What am I saying?"
+    },
+    {
+      "korean": "[혹시라도 망했을 때 대비책] 옆에서 요리하실 때 옆에서 고기 구워먹고 있어도 돼요? Can I be grilling and eat meat on the side while you are cooking? 듣기 View video AB6IX : AB6IX (에이비식스) 여행은 기록왕",
+      "english": "Can I be grilling and eat meat on the side while you are cooking?"
+    },
+    {
+      "korean": "여름을 대비하자! To prepare for the summer! 듣기 View video Park Bo Young : 포스터 나왔어요!!!",
+      "english": "To prepare for the summer!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the oscillations of the pound against foreign currency 듣기 Add to Wordbook 외화 대비 파운드화의 움직임 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the oscillations of the pound against foreign currency Add to Wordbook"
+    },
+    {
+      "korean": "She was ready and primed for action. 듣기 Add to Wordbook 그녀는 행동할 각오와 대비가 되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was ready and primed for action. Add to Wordbook"
+    },
+    {
+      "korean": "the value of the rupee against a basket of currencies 듣기 Add to Wordbook 바스켓 방식 통화 대비 루피화 가치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the value of the rupee against a basket of currencies Add to Wordbook"
+    },
+    {
+      "korean": "They had been primed with good advice. 듣기 Add to Wordbook 그들은 좋은 충고들을 듣고 대비가 되어 있는 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had been primed with good advice. Add to Wordbook"
+    },
+    {
+      "korean": "As she waited, she steeled herself for disappointment. 듣기 Add to Wordbook 그녀는 기다리면서 실망할 것에 대비해 마음을 단단히 먹었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "As she waited, she steeled herself for disappointment. Add to Wordbook"
+    }
+  ]
+}

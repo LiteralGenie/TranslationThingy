@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "끼우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(틈·구멍 등에) put (in), insert (in/into/between)",
+        "(여럿 사이에 끼이게 하다)"
+      ]
+    },
+    {
+      "phrase": "끼워 넣는 앨범",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a slip-in album"
+      ]
+    },
+    {
+      "phrase": "전 끼워 주세요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You can count me in."
+      ]
+    },
+    {
+      "phrase": "경품을 끼워 팔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sell articles with a premium"
+      ]
+    },
+    {
+      "phrase": "책갈피에 끼워 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put between the leaves of a book"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "embed",
+      "frequency": 0
+    },
+    {
+      "meaning": "insertion",
+      "frequency": 1
+    },
+    {
+      "meaning": "insert",
+      "frequency": 2
+    },
+    {
+      "meaning": "let somebody in on something",
+      "frequency": 0
+    },
+    {
+      "meaning": "cross-selling",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너 방금 여기 끼워놨다 빼는 거 봤다고 - 여기서 꺼냈어야죠 어떻게 뭐... I saw you taking out the card from your sweater. - You should take the card out from here. 듣기 View video TOMORROW X TOGETHER : 코너 하나 뺏었습니다",
+      "english": "I saw you taking out the card from your sweater. - You should take the card out from here."
+    },
+    {
+      "korean": "굉장히 잘 끼워맞췄죠? Didn't I express it well? 듣기 View video V COOKIE : [Full] Apink 9th Anniversary x - 에이핑크 데뷔 9주년 기념 <같이 먹어요>",
+      "english": "Didn't I express it well?"
+    },
+    {
+      "korean": "반지를 끼워줘 - 네 번째 손가락? Put the ring on his finger. - The 4th finger? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.13 SVT ESCAPE ROOM #2",
+      "english": "Put the ring on his finger. - The 4th finger?"
+    },
+    {
+      "korean": "손가락에 끼워 생크림에 찍어먹기 - 생크림? Stick it on your finger and dip it in whipped cream. - Whipped cream? 듣기 View video V COOKIE : [Full] OH MY GIRL X LieV - 오마이걸의 눕방라이브!",
+      "english": "Stick it on your finger and dip it in whipped cream. - Whipped cream?"
+    },
+    {
+      "korean": "[울 쿼카한테 누가 에너한이저 끼워줬나요?] [Who inserted Ener-HAN-gizer batteries to HAN?] View video V PICK! : [Stray Kids] 스키즈 천국에서 보낸 스파이야..? 그렇다면... 옥황상제님.. 땡큐 소머취...🖤 (Stray Kids talking about their tmi)",
+      "english": "[Who inserted Ener-HAN-gizer batteries to HAN?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He fumbled the key into the ignition. 발음듣기 그가 더듬더듬 열쇠를 끼워 시동을 걸었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He fumbled the key into the ignition. 발음"
+    },
+    {
+      "korean": "a pair of flip-flops 발음듣기 끈을 발가락 사이로 끼워 신는 슬리퍼 한 켤레 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a pair of flip-flops 발음"
+    },
+    {
+      "korean": "Insert tab A into slot 1. 발음듣기 1번 자리에는 색인표 A를 끼워 넣어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Insert tab A into slot 1. 발음"
+    },
+    {
+      "korean": "That sounds great. Deal me in! 발음듣기 그거 참 좋겠다. 나도 끼워 줘! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That sounds great. Deal me in! 발음"
+    },
+    {
+      "korean": "Please change the wheels over. 발음듣기 바퀴들을 (서로의 위치를) 바꿔 끼워 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please change the wheels over. 발음"
+    }
+  ]
+}

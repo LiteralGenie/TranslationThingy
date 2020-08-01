@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "법칙",
+      "hanja": " (法則)",
+      "example": {},
+      "meanings": [
+        "law, rule"
+      ]
+    },
+    {
+      "phrase": "불변의 법칙",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an immutable law"
+      ]
+    },
+    {
+      "phrase": "관성의 법칙",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the law of inertia"
+      ]
+    },
+    {
+      "phrase": "정글의 법칙",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the law of the jungle"
+      ]
+    },
+    {
+      "phrase": "자연의 법칙",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a law of nature",
+        "a natural law"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "principle",
+      "frequency": 2
+    },
+    {
+      "meaning": "law",
+      "frequency": 2
+    },
+    {
+      "meaning": "the law of averages",
+      "frequency": 0
+    },
+    {
+      "meaning": "Murphy's Law",
+      "frequency": 0
+    },
+    {
+      "meaning": "physically",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "불변의 법칙이야! It's a universal law! 듣기 View video 콬TV (WHYNOT) : 맛 좀 보실래요? [가두리횟집] EP08",
+      "english": "It's a universal law!"
+    },
+    {
+      "korean": "어제 '정글의 법칙' 다 봤어요? Did you all watch the \"Law of the Jungle\" yesterday? 듣기 View video GOT7 : 🐥🐥🐥",
+      "english": "Did you all watch the \"Law of the Jungle\" yesterday?"
+    },
+    {
+      "korean": "이거 'Grrr 총량의 법칙' 진짜... And \"Grrr (BEWARE)\" is really... 듣기 View video Stray Kids : 현진이의_매순간에_스테이🙈🐵",
+      "english": "And \"Grrr (BEWARE)\" is really..."
+    },
+    {
+      "korean": "이게 법칙이에요? Is this a kind of rule? 듣기 View video SUNMI : [Full] SUNMI [LALALAY] SHOWCASE",
+      "english": "Is this a kind of rule?"
+    },
+    {
+      "korean": "괜찮아요, 3초의 법칙! It's okay. 3 second rule! 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "It's okay. 3 second rule!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the principle that heat rises 발음듣기 더운 기운은 위로 올라간다는 법칙 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the principle that heat rises 발음"
+    },
+    {
+      "korean": "You can’t lay down hard and fast rules. 발음듣기 변경 불가능한 법칙을 정할 수는 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can’t lay down hard and fast rules. 발음"
+    },
+    {
+      "korean": "Away with all these rules and regulations! 발음듣기 이 모든 법칙과 규칙들이 없어졌으면 (좋겠어)! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Away with all these rules and regulations! 발음"
+    },
+    {
+      "korean": "It was Sod’s Law—the only day he could manage was the day I couldn’t miss work. 발음듣기 소드 법칙이라더니, 그가 간신히 시간을 낼 수 있는 단 하루가 나로서는 일을 쉴 수가 없는 날이었어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was Sod’s Law—the only day he could manage was the day I couldn’t miss work. 발음"
+    },
+    {
+      "korean": "It is a physical impossibility to be in two places at once. 발음듣기 동시에 두 장소에 있는 것은 자연법칙상으로 불가능한 일이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is a physical impossibility to be in two places at once. 발음"
+    }
+  ]
+}

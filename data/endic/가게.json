@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "가게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shop, store"
+      ]
+    },
+    {
+      "phrase": "과일 가게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fruit shop[store]"
+      ]
+    },
+    {
+      "phrase": "구멍가게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "small store[shop], (Am) mom-and-pop store, (Brit) corner shop"
+      ]
+    },
+    {
+      "phrase": "꽃 가게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "florist, flower shop"
+      ]
+    },
+    {
+      "phrase": "가게 주인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a storekeeper",
+        "a shopkeeper"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shop",
+      "frequency": 3
+    },
+    {
+      "meaning": "store",
+      "frequency": 3
+    },
+    {
+      "meaning": "lock-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "builders' merchant",
+      "frequency": 0
+    },
+    {
+      "meaning": "luncher",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 커스텀 가게~ Oh! Custom store. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Oh! Custom store."
+    },
+    {
+      "korean": "또 도망가게? Are you walking away again? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "Are you walking away again?"
+    },
+    {
+      "korean": "저희 가게 왔었죠? You've dropped by our shop right? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "You've dropped by our shop right?"
+    },
+    {
+      "korean": "'승짱 어디 가요?' 어디가게요? \"Where are you, Seungjjang?\" Guess where I'm going. 듣기 View video N.Flying : 우리 얘기 좀 합시다 #43",
+      "english": "\"Where are you, Seungjjang?\" Guess where I'm going."
+    },
+    {
+      "korean": "[옆 가게에서 흘러나오는 '빔밤붐'] '빔밤붐'! [\"BIM BAM BUM\" playing in the store] \"BIM BAM BUM\"! 듣기 View video 콬TV (WHYNOT) : 16살 걸그룹 멤버가 홍대에서 \"저 아세요?\"라고 물었다 #아이돌 #리얼리티ㅣ로켓펀치 [펀치",
+      "english": "[\"BIM BAM BUM\" playing in the store] \"BIM BAM BUM\"!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The shop specializes in hand-made chocolates. 듣기 Add to Wordbook 그 가게는 수제 초콜릿을 전문적으로 판다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shop specializes in hand-made chocolates. Add to Wordbook"
+    },
+    {
+      "korean": "Prices are exorbitantly high in this shop. 듣기 Add to Wordbook 이 가게는 물건값이 지나치게 높다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prices are exorbitantly high in this shop. Add to Wordbook"
+    },
+    {
+      "korean": "The vaccine provides longer immunity against flu. 듣기 Add to Wordbook 그 백신은 독감 면역력이 더 오래가게 해 준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The vaccine provides longer immunity against flu. Add to Wordbook"
+    },
+    {
+      "korean": "The sandwich bar is generally packed at lunchtimes. 듣기 Add to Wordbook 그 샌드위치 가게는 보통 점심시간 때면 사람들이 넘친다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sandwich bar is generally packed at lunchtimes. Add to Wordbook"
+    },
+    {
+      "korean": "The jeweller has a workroom at the back of his shop. 듣기 Add to Wordbook 그 보석 세공사는 가게 뒤쪽에 작업실을 갖고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The jeweller has a workroom at the back of his shop. Add to Wordbook"
+    }
+  ]
+}

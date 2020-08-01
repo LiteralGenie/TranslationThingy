@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "냉동",
+      "hanja": " (冷凍)",
+      "example": {},
+      "meanings": [
+        "[동사] freeze"
+      ]
+    },
+    {
+      "phrase": "냉동 창고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cold storage, (Brit) cold store"
+      ]
+    },
+    {
+      "phrase": "냉동식품",
+      "hanja": " (冷凍食品)",
+      "example": {},
+      "meanings": [
+        "frozen food"
+      ]
+    },
+    {
+      "phrase": "냉동 보관하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep sth in a freezer",
+        "keep sth frozen"
+      ]
+    },
+    {
+      "phrase": "급속 냉동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "quick-freeze",
+        "deep-freeze"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "refrigeration",
+      "frequency": 0
+    },
+    {
+      "meaning": "frozen",
+      "frequency": 2
+    },
+    {
+      "meaning": "quick-freeze",
+      "frequency": 0
+    },
+    {
+      "meaning": "deep-frozen",
+      "frequency": 0
+    },
+    {
+      "meaning": "cryonics",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아~ 냉동실에 넣었습니다 냉동실 되겠죠? Ah, I put it in the freezer. That's okay, right? 듣기 View video ATEEZ : 에이티니 마음에 탕🍬탕🍬사탕❤",
+      "english": "Ah, I put it in the freezer. That's okay, right?"
+    },
+    {
+      "korean": "이게 냉동실에 넣으면 안 되겠죠? You can't put this in the freezer, right? 듣기 View video ATEEZ : 에이티니 마음에 탕🍬탕🍬사탕❤",
+      "english": "You can't put this in the freezer, right?"
+    },
+    {
+      "korean": "[눈을 의심] [냉동 다람쥐] 깜짝 놀랐어! [Can't believe it] What a surprised! 듣기 View video 콬TV (WHYNOT) : K팝 걸그룹의 스킨케어 비법 대공개!!┃로켓펀치 [펀치타임 2 - ROCKETPUNCH UNIVERSE] EP5",
+      "english": "[Can't believe it] What a surprised!"
+    },
+    {
+      "korean": "아~ 이게 냉동실에 넣으면 오히려 안 굳는 건가? Ah, if you put it in the freezer it doesn't harden? 듣기 View video ATEEZ : 에이티니 마음에 탕🍬탕🍬사탕❤",
+      "english": "Ah, if you put it in the freezer it doesn't harden?"
+    },
+    {
+      "korean": "거기다가 냉동 블루베리 넣어 먹으면 얼마나 맛있게요? If I add frozen blueberries to that, do you know how good that is? 듣기 View video V PICK! : [NU'EST] 🌜🌛 = 애옹이의 '달달'한 방송(MINHYUN's staring game)",
+      "english": "If I add frozen blueberries to that, do you know how good that is?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a lorry load of frozen fish 발음듣기 냉동 생선을 실은 대형 화물차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a lorry load of frozen fish 발음"
+    },
+    {
+      "korean": "Can you freeze this cake? 발음듣기 이 케이크 냉동할 수 있어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you freeze this cake? 발음"
+    },
+    {
+      "korean": "Some fruits freeze better than others. 발음듣기 일부 과일은 다른 과일들보다 냉동 보관이 더 잘 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some fruits freeze better than others. 발음"
+    },
+    {
+      "korean": "These meals are ideal for home freezing. 발음듣기 이 식사류는 가정에서 냉동 보관하기에 이상적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These meals are ideal for home freezing. 발음"
+    },
+    {
+      "korean": "She had her eggs harvested and frozen for her own future use. 발음듣기 그녀는 자신의 난자를 채취하여 나중에 이용하기 위해 냉동시켜 두었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had her eggs harvested and frozen for her own future use. 발음"
+    }
+  ]
+}

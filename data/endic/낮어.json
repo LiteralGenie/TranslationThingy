@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(높이·위치 등이) low, (구두 굽·코 등이) flat",
+        "(계급·지위 등이)",
+        "(수준·수치·가격 등이) low"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "low",
+      "frequency": 2
+    },
+    {
+      "meaning": "inferior",
+      "frequency": 1
+    },
+    {
+      "meaning": "저속하다",
+      "frequency": 0
+    },
+    {
+      "meaning": "담 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "저급",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한 주제에서 가장 낮은 점수를 받은 멤버들은 - 여름 노래? The member who scored the lowest for each theme, - Summer songs? 듣기 View video OSEN : 여자친구, 마이크 받자마자 텐션 폭발한 썰 #스타로드 01",
+      "english": "The member who scored the lowest for each theme, - Summer songs?"
+    },
+    {
+      "korean": "레벨이 낮으니까? Because they had low levels. 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Because they had low levels."
+    },
+    {
+      "korean": "낮은 샌들을 신어주시면 더 편안해 보이겠죠? It'll look more comfortable if I wear low sandals, right? 듣기 View video 기은세 (Ki EunSe) : 기은세) 기은세의 Kinstyle, HAGO",
+      "english": "It'll look more comfortable if I wear low sandals, right?"
+    },
+    {
+      "korean": "왜 낮지? Why is it low? 듣기 View video IU : [IU TV] 아이유 분노의 쇼핑",
+      "english": "Why is it low?"
+    },
+    {
+      "korean": "낮은 걸걸요? I think it's a low decibel. 듣기 View video BTS : Run BTS! 2020 - EP.98",
+      "english": "I think it's a low decibel."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "foods that are low in trans fats 발음듣기 트랜스 지방 함량이 낮은 식품 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "foods that are low in trans fats 발음"
+    },
+    {
+      "korean": "The cello is lower than the violin. 발음듣기 첼로는 바이올린보다 음이 더 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cello is lower than the violin. 발음"
+    },
+    {
+      "korean": "He mixes with some pretty low types. 발음듣기 그는 약간 질 낮은 사람들과 어울린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He mixes with some pretty low types. 발음"
+    },
+    {
+      "korean": "The song was pitched too low for my voice. 발음듣기 그 노래는 내 목소리에 비해 음이 너무 낮았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The song was pitched too low for my voice. 발음"
+    },
+    {
+      "korean": "a dress with a low/round/plunging neckline 발음듣기 목둘레선이 낮은[많이 파인]/둥근/깊이 파인 드레스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a dress with a low/round/plunging neckline 발음"
+    }
+  ]
+}

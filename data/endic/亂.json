@@ -1,0 +1,61 @@
+{
+  "phrases": [
+    {
+      "phrase": "난하다",
+      "hanja": " (亂하다)",
+      "example": {},
+      "meanings": [
+        "(be) loud, gaudy, flashy, showy"
+      ]
+    },
+    {
+      "phrase": "프롱드의 난",
+      "hanja": " (─亂)",
+      "example": {},
+      "meanings": [
+        "사회·정치·역사 La Fronde"
+      ]
+    },
+    {
+      "phrase": "자크리의 난",
+      "hanja": " (─亂)",
+      "example": {},
+      "meanings": [
+        "뉴스와 미디어·역사 Jacquerie"
+      ]
+    },
+    {
+      "phrase": "라진의 난",
+      "hanja": " (─亂)",
+      "example": {},
+      "meanings": [
+        "뉴스와 미디어·역사 Razin's rebellion"
+      ]
+    },
+    {
+      "phrase": "잔지의 난",
+      "hanja": " (─亂)",
+      "example": {},
+      "meanings": [
+        "뉴스와 미디어·역사 Zanj rebellion"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "an indiscriminate reader",
+      "frequency": 0
+    },
+    {
+      "meaning": "bundle off",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The Shimabara insurrection was the prelude to the extinction of Christianity in Japan. 듣기 Add to Wordbook 시마바라의 난(亂)은 일본에 있어서 기독교 절멸(絶滅)의 서곡(序曲)이었다. 영어영작문대사전",
+      "english": "The Shimabara insurrection was the prelude to the extinction of Christianity in Japan. Add to Wordbook"
+    }
+  ]
+}

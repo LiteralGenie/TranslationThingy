@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "걸리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그림·해 등이) hang, be hung",
+        "(장애물·구멍 등에) catch, be caught, be[get] stuck (in); (기계 등에 끼이다) be[get] jammed; (발이) trip, stumble",
+        "(그물·덫 등에) (그물 등에) be[get] caught[entangled], (덫에) be trapped[entrapped]"
+      ]
+    },
+    {
+      "phrase": "걸리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(시간이) take (time)"
+      ]
+    },
+    {
+      "phrase": "걸리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb walk"
+      ]
+    },
+    {
+      "phrase": "시간이 많이 걸리는 일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a time-consuming job[task]"
+      ]
+    },
+    {
+      "phrase": "5분 걸리는 거리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "five minutes' distance"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "long",
+      "frequency": 2
+    },
+    {
+      "meaning": "-otic",
+      "frequency": 0
+    },
+    {
+      "meaning": "time-consuming",
+      "frequency": 0
+    },
+    {
+      "meaning": "diphtheria",
+      "frequency": 1
+    },
+    {
+      "meaning": "on your conscience",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "렉이 조금 걸리는 건가? Is it kind of laggy? 듣기 View video IZ*ONE : 룸메즈의 간식타임!",
+      "english": "Is it kind of laggy?"
+    },
+    {
+      "korean": "그러면 그 사람이 걸리는 거예요 - 실패! then the person becomes the loser. - Failure! 듣기 View video V COOKIE : [Full] AB6IX x Rooftop Live - AB6IX의 루프탑라이브!",
+      "english": "then the person becomes the loser. - Failure!"
+    },
+    {
+      "korean": "[벌칙 폭탄을 받는 멤버는 Only One] 근데 이거 그냥 한 명만 걸리는 거예요? [The member getting the penalty bomb is Only One] Then, only one person gets the penalty? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[The member getting the penalty bomb is Only One] Then, only one person gets the penalty?"
+    },
+    {
+      "korean": "이게 자라려면 얼마나 걸리는 거죠? How long does it take for this to grow? 듣기 View video SF9 : 자라났다!!!!!",
+      "english": "How long does it take for this to grow?"
+    },
+    {
+      "korean": "말을 하면서 하니까 되게 오래 걸리는 거 같아 근데 또... it takes longer when I talk. 듣기 View video BTS : 심심하면 보세요(답답함 주의 2탄!)",
+      "english": "it takes longer when I talk."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a ten-minute bus ride 발음듣기 버스로 10분 (걸리는) 거리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a ten-minute bus ride 발음"
+    },
+    {
+      "korean": "The avalanche forced its way down the mountain, crushing everything in its path. 발음듣기 그 눈사태는 산 아래로 밀고 내려가며 가는 길에 걸리는 모든 것을 박살내 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The avalanche forced its way down the mountain, crushing everything in its path. 발음"
+    },
+    {
+      "korean": "a three-hour ferry crossing 발음듣기 연락선으로 세 시간 걸리는 도항 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a three-hour ferry crossing 발음"
+    },
+    {
+      "korean": "a difficult and time-consuming process 발음듣기 힘들고 시간이 걸리는 과정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a difficult and time-consuming process 발음"
+    },
+    {
+      "korean": "The journey time is two hours. 발음듣기 여행[이동](에 걸리는) 시간은 두 시간이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The journey time is two hours. 발음"
+    }
+  ]
+}

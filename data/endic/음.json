@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "음",
+      "hanja": " (音)",
+      "example": {},
+      "meanings": [
+        "(소리) sound, (음악의) note, tone",
+        "(한자의) pronunciation of Chinese characters"
+      ]
+    },
+    {
+      "phrase": "음",
+      "hanja": " (陰)",
+      "example": {},
+      "meanings": [
+        "(동양철학) yin",
+        "(알게 모르게)"
+      ]
+    },
+    {
+      "phrase": "양[음] 전위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "positive[negative] potential"
+      ]
+    },
+    {
+      "phrase": "양[음]전하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(a) positive[negative] charge"
+      ]
+    },
+    {
+      "phrase": "-음",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending m (→-ㅁ1, -기1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sound 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "sound",
+      "frequency": 3
+    },
+    {
+      "meaning": "note",
+      "frequency": 3
+    },
+    {
+      "meaning": "well",
+      "frequency": 3
+    },
+    {
+      "meaning": "oh",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[음까지 넣으라고??] [You even want melodies?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 22. 서울대의 두 동아리 츄플 & 바팩 파이널에서 만나다!",
+      "english": "[You even want melodies?]"
+    },
+    {
+      "korean": "음? 구두를 신고 놀았냐고? Um?? Did I play with shoes? 듣기 View video MONSTA X : LIVE : 소통타임🐻",
+      "english": "Um?? Did I play with shoes?"
+    },
+    {
+      "korean": "아니 벌써 올렸다고요? 삑사리 난 거? 음이탈 난 거? You already put it up? Me cracking my voice?? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "You already put it up? Me cracking my voice??"
+    },
+    {
+      "korean": "잠깐만 나 노래 못 부르겠어! 갑자기 또 음이탈 날까 봐! One second. I can't sing... Just in case I crack my voice again... 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "One second. I can't sing... Just in case I crack my voice again..."
+    },
+    {
+      "korean": "음 음 음음 음! 맛있다! Oh! It's good! 듣기 View video Dispatch : [ⓓxV] “옴-LOG③ #지호_비니_아린” (오마이걸 : OHMYGIRL)",
+      "english": "Oh! It's good!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The cello is lower than the violin. 듣기 Add to Wordbook 첼로는 바이올린보다 음이 더 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cello is lower than the violin. Add to Wordbook"
+    },
+    {
+      "korean": "The song was pitched too low for my voice. 듣기 Add to Wordbook 그 노래는 내 목소리에 비해 음이 너무 낮았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The song was pitched too low for my voice. Add to Wordbook"
+    },
+    {
+      "korean": "The word ‘hour’ is pronounced without an initial aspirate. 듣기 Add to Wordbook 단어 hour는 첫 음이 대기음 없이 발음된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The word ‘hour’ is pronounced without an initial aspirate. Add to Wordbook"
+    },
+    {
+      "korean": "The singer worked hard on the clear articulation of every note. 듣기 Add to Wordbook 그 가수는 각 음을 또렷이 소리내기 위해 열심히 연습했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The singer worked hard on the clear articulation of every note. Add to Wordbook"
+    },
+    {
+      "korean": "Mm, what lovely cake! 듣기 Add to Wordbook 음, 정말 멋진 케이크군! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mm, what lovely cake! Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "조건",
+      "hanja": " (條件)",
+      "example": {},
+      "meanings": [
+        "(계약 등의) condition (for), terms (of); (자격 등의) qualification (for)"
+      ]
+    },
+    {
+      "phrase": "필요조건",
+      "hanja": " (必要條件)",
+      "example": {},
+      "meanings": [
+        "necessary condition, required condition, (formal) requisite"
+      ]
+    },
+    {
+      "phrase": "필수 조건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(formal) prerequisite, requirement, essential[indispensable] factor"
+      ]
+    },
+    {
+      "phrase": "전제 조건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "precondition"
+      ]
+    },
+    {
+      "phrase": "충분조건",
+      "hanja": " (充分條件)",
+      "example": {},
+      "meanings": [
+        "sufficient condition"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "condition",
+      "frequency": 2
+    },
+    {
+      "meaning": "terms",
+      "frequency": 0
+    },
+    {
+      "meaning": "string",
+      "frequency": 2
+    },
+    {
+      "meaning": "qualification",
+      "frequency": 2
+    },
+    {
+      "meaning": "way",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[우승 조건] 야 정국이 1등 세 번 했는데? [According to the rule] Jung Kook won 3 times. 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[According to the rule] Jung Kook won 3 times."
+    },
+    {
+      "korean": "근데 이게, 조건이 있어요 - 뭐야? But it has conditions. - What? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.19 논리나잇 Ⅱ #2 (Debate Night Ⅱ #2)",
+      "english": "But it has conditions. - What?"
+    },
+    {
+      "korean": "우리가 하는 조건 하에 말씀하신 건가? - 네, 저희 조건... 저희라는 조건... Are you saying that because it's us? - Yes. Because it's us. 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "Are you saying that because it's us? - Yes. Because it's us."
+    },
+    {
+      "korean": "죄송합니다 - 아 이거 입장 조건이에요 죄송한데... I'm sorry. - I'm sorry but it's a dress code for this party. 듣기 View video 콬TV (WHYNOT) : 😒 남친이 여사친을 애칭으로 부른다면?? [오늘부터 찐한 사이] EP07 #오찐사 #필굿",
+      "english": "I'm sorry. - I'm sorry but it's a dress code for this party."
+    },
+    {
+      "korean": "그래? 조건이 마음에 안 든대? Whynot? Does she not like the conditions? 듣기 View video 플레이리스트 (Playlist) : 연락 두절된 남친이 다른 여자랑 있었다 [엑스엑스(XX)] - EP.01",
+      "english": "Whynot? Does she not like the conditions?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Nobody would assent to the terms they proposed. 발음듣기 그들이 제안한 조건에 찬성할 사람은 아무도 없을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nobody would assent to the terms they proposed. 발음"
+    },
+    {
+      "korean": "the difference between inborn and conditioned reflexes 발음듣기 선천적 반응과 조건 반사 사이의 차이 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the difference between inborn and conditioned reflexes 발음"
+    },
+    {
+      "korean": "They met to finalize the terms of the treaty. 발음듣기 그들은 조약의 조건을 마무리짓기 위해 만났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They met to finalize the terms of the treaty. 발음"
+    },
+    {
+      "korean": "With so many ifs and buts, it is easier to wait and see. 발음듣기 조건과 이의들이 너무 많아서 기다려 보는 것이 더 수월하겠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "With so many ifs and buts, it is easier to wait and see. 발음"
+    },
+    {
+      "korean": "A ceasefire is an essential precondition for negotiation. 발음듣기 휴전이 협상에 필수적인 전제 조건이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A ceasefire is an essential precondition for negotiation. 발음"
+    }
+  ]
+}

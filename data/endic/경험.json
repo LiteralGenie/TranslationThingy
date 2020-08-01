@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "경험",
+      "hanja": " (經驗)",
+      "example": {},
+      "meanings": [
+        "[명사, 동사] experience"
+      ]
+    },
+    {
+      "phrase": "첫 경험",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "one´s first experience"
+      ]
+    },
+    {
+      "phrase": "간접경험",
+      "hanja": " (間接經驗)",
+      "example": {},
+      "meanings": [
+        "indirect experience"
+      ]
+    },
+    {
+      "phrase": "경험 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "experienced",
+        "seasoned",
+        "practiced"
+      ]
+    },
+    {
+      "phrase": "경험 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "inexperienced",
+        "new"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "experience",
+      "frequency": 3
+    },
+    {
+      "meaning": "taste",
+      "frequency": 3
+    },
+    {
+      "meaning": "education",
+      "frequency": 3
+    },
+    {
+      "meaning": "hair-raiser",
+      "frequency": 0
+    },
+    {
+      "meaning": "XP",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "특별한 경험을 했죠 - 했죠! You experienced something special. - I did! 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "You experienced something special. - I did!"
+    },
+    {
+      "korean": "대체로 상상보다는 경험에 더 의존하는 편? Rely more on experience, than imagination? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Rely more on experience, than imagination?"
+    },
+    {
+      "korean": "또 현지 음식 많이 경험하고 맛보는 걸 저는... I want to experience foods that are in that country... 듣기 View video NU'EST : [NU’EST] 오늘은 일찍..늦지 않게! 왔어요😉",
+      "english": "I want to experience foods that are in that country..."
+    },
+    {
+      "korean": "그런 경험 있습니까? Did you have an experience like that? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Did you have an experience like that?"
+    },
+    {
+      "korean": "직접 경험하는... - 뭐라 해야 되지 경험하는 걸... hate experiencing... - How should I say it? Experiencing... 듣기 View video Stray Kids : 막내의 사생활 22 🦊🐿(다시)",
+      "english": "hate experiencing... - How should I say it? Experiencing..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The slight risk added zest to the experience. 듣기 Add to Wordbook 약간의 위험성이 그 경험에 묘미를 더해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The slight risk added zest to the experience. Add to Wordbook"
+    },
+    {
+      "korean": "The experience made an indelible impression on me. 듣기 Add to Wordbook 그 경험은 나에게 잊을 수 없는 각인을 남겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The experience made an indelible impression on me. Add to Wordbook"
+    },
+    {
+      "korean": "The experience left her scarred for life. 듣기 Add to Wordbook 그 경험은 그녀의 마음에 평생 지워지지 않는 상처를 남겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The experience left her scarred for life. Add to Wordbook"
+    },
+    {
+      "korean": "His mistake was due to youth and inexperience. 듣기 Add to Wordbook 그의 실수는 어리고 경험이 부족해서 발생한 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His mistake was due to youth and inexperience. Add to Wordbook"
+    },
+    {
+      "korean": "Reading this essay was an elevating experience. 듣기 Add to Wordbook 이 산문을 읽는 것은 정신을 고양시키는 경험이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Reading this essay was an elevating experience. Add to Wordbook"
+    }
+  ]
+}

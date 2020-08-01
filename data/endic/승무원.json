@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "승무원",
+      "hanja": " (乘務員)",
+      "example": {},
+      "meanings": [
+        "(배·비행기 등의) crewman, crew member; (비행기의) flight attendant[crew], cabin attendant[crew]; (남자) steward; (여자) stewardess; (집합적) (the) crew"
+      ]
+    },
+    {
+      "phrase": "항공기 승무원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an aircrew",
+        "a flight crew"
+      ]
+    },
+    {
+      "phrase": "기관차 승무원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a locomotive[an engine] crew"
+      ]
+    },
+    {
+      "phrase": "잠수함 승무원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a submariner"
+      ]
+    },
+    {
+      "phrase": "군함의 승무원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the crew of a warship"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hand",
+      "frequency": 2
+    },
+    {
+      "meaning": "crew",
+      "frequency": 1
+    },
+    {
+      "meaning": "conductor",
+      "frequency": 1
+    },
+    {
+      "meaning": "seaman",
+      "frequency": 1
+    },
+    {
+      "meaning": "porter",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[얼음물 챙겨주시는 친절한 승무원] - 물에 얼음도 드릴까요? - 뭐든 상관없습니다. Would you like ice in the water? - Whatever is okay. 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.13",
+      "english": "Would you like ice in the water? - Whatever is okay."
+    },
+    {
+      "korean": "[황민현 기장님 역사상 난기류 따위 없어] 승무원 그 기장님! [There's no such thing as turbulence in pilot Minhyun's book] Like pilot's in planes! 듣기 View video V PICK! : [NU'EST] 예~예~예~ 들썩들썩 하트 어깨춤으로 함.께.춤.춰.🎶💕 (NU’EST’s new fan chant!)",
+      "english": "[There's no such thing as turbulence in pilot Minhyun's book] Like pilot's in planes!"
+    },
+    {
+      "korean": "남자 승무원? Male flight attendant? 듣기 View video AB6IX : 심야동방🌛",
+      "english": "Male flight attendant?"
+    },
+    {
+      "korean": "[서연주] 제가 승무원이라서... [Seo Yeon Ju] I'm a flight attendant. 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP56] 연남동 (똘)끼남을 아시나요?",
+      "english": "[Seo Yeon Ju] I'm a flight attendant."
+    },
+    {
+      "korean": "그 열몇 시간 비행하는데 승무원님께서 참 이게... During the whole trip of 10 hours on the plane, ... 듣기 View video SEVENTEEN : 😇🐯🐶💎💕",
+      "english": "During the whole trip of 10 hours on the plane, ..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I crewed for him on his yacht last summer. 발음듣기 나는 지난 여름에 그의 요트에서 승무원으로 일해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I crewed for him on his yacht last summer. 발음"
+    },
+    {
+      "korean": "the officers and crew 발음듣기 장교들과 일반 사병들[계급을 불문한 전 승무원] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the officers and crew 발음"
+    },
+    {
+      "korean": "Rescuers made heroic efforts to save the crew. 발음듣기 구조대원들은 그 승무원들을 구하기 위해 영웅적인 노력을 기울였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rescuers made heroic efforts to save the crew. 발음"
+    },
+    {
+      "korean": "None of the passengers and crew were injured. 발음듣기 승객과 승무원은 아무도 다치지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "None of the passengers and crew were injured. 발음"
+    },
+    {
+      "korean": "The ship’s crew was sluicing down the deck. 발음듣기 배의 승무원들이 갑판을 씻어 내리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The ship’s crew was sluicing down the deck. 발음"
+    }
+  ]
+}

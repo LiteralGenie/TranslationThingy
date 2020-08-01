@@ -1,0 +1,75 @@
+{
+  "phrases": [
+    {
+      "phrase": "구석",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(모퉁이의 안쪽)",
+        "(외딴 곳) remote[secluded, out-of-the-way] place",
+        "(마음·사물의 한 부분) side, part, point, corner"
+      ]
+    },
+    {
+      "phrase": "촌",
+      "hanja": " (村)",
+      "example": {},
+      "meanings": [
+        "(시골) the country, the countryside, rural area"
+      ]
+    },
+    {
+      "phrase": "촌",
+      "hanja": " (寸)",
+      "example": {},
+      "meanings": [
+        "(촌수) degree of kinship[relationship] (by blood)"
+      ]
+    },
+    {
+      "phrase": "-촌",
+      "hanja": " (村)",
+      "example": {},
+      "meanings": [
+        "Affix -chon (→촌1)"
+      ]
+    },
+    {
+      "phrase": "구석에 몰리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be driven into a corner"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "in the boonies",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "She isn't one to stay in such a rural area as this. 듣기 Add to Wordbook 그녀는 이런 촌구석에 있을 사람이 아니다 Neungyule",
+      "english": "She isn't one to stay in such a rural area as this. Add to Wordbook"
+    },
+    {
+      "korean": "I don't want to live in this backcountry anymore. 듣기 Add to Wordbook 더 이상 이런 촌구석에서 살고 싶지 않다 Neungyule",
+      "english": "I don't want to live in this backcountry anymore. Add to Wordbook"
+    },
+    {
+      "korean": "I don't want to live way back in the country anymore. 듣기 Add to Wordbook 더 이상 이런 촌구석에서 살고 싶지 않다 Neungyule",
+      "english": "I don't want to live way back in the country anymore. Add to Wordbook"
+    },
+    {
+      "korean": "Are you being condescending because I live out in the boonies? 듣기 Add to Wordbook 촌구석에 산다고 사람 무시하는 겁니까? Neungyule",
+      "english": "Are you being condescending because I live out in the boonies? Add to Wordbook"
+    },
+    {
+      "korean": "He was this skinny little kid from a tiny little rural town. 듣기 Add to Wordbook 그 사람 촌구석에 살던 말라깽이 아이였지요. Neungyule",
+      "english": "He was this skinny little kid from a tiny little rural town. Add to Wordbook"
+    }
+  ]
+}

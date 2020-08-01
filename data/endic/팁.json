@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "팁",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tip"
+      ]
+    },
+    {
+      "phrase": "tip",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (뾰족한) 끝 (→fingertip)",
+        "Noun (다른 것이 붙어 있거나 씌워져 있는) 끝 부분 (→felt-tip pen, filter tip)",
+        "Verb 기울어지다, 젖혀지다, 기울이다, 젖히다 (=tilt)"
+      ]
+    },
+    {
+      "phrase": "tip",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 끝, 첨단(point)",
+        "Noun (칼집·양산·단장 등의) 끝, 물미",
+        "Transitive verb 끝을 붙이다, 끝에 씌우다, 끝을 장식하다, 끝을 이루다"
+      ]
+    },
+    {
+      "phrase": "tip",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 팁, 사례금, 행하",
+        "Noun [구어] (도박·투기 등의) 비밀[내부] 정보, 귀띔, ((일반적으로)) 정보, 예상 ((for, on))",
+        "Transitive verb …에게 팁을 주다, …에게 …을 팁으로 주다"
+      ]
+    },
+    {
+      "phrase": "tip",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb <물건을> 기울이다, 뒤집어 엎다, 넘어뜨리다",
+        "Verb [영] (기울여) <내용물을> 비우다, 버리다, <사람을> 내쫓다",
+        "Intransitive verb 기울다, 기울어지다"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tip",
+      "frequency": 3
+    },
+    {
+      "meaning": "tip 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "gratuity",
+      "frequency": 0
+    },
+    {
+      "meaning": "baksheesh",
+      "frequency": 0
+    },
+    {
+      "meaning": "tip 3",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저한테 팁을 좀 주세요 어떻게 하라고요? Give me some advice. What should I do? 듣기 View video TOMORROW X TOGETHER : 스윗한 태현이의 스윗한거 만들기",
+      "english": "Give me some advice. What should I do?"
+    },
+    {
+      "korean": "네 - 이거 좀 벗어나는 팁 혹시 있어요, 멤버들? Yes. - Is there any tip to get out of it? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "Yes. - Is there any tip to get out of it?"
+    },
+    {
+      "korean": "[오늘도 이렇게 꿀 팁을 하나 배워갑니다] 너무너무 좋은 팁이죠? [Thank you for the great tip] Isn't this a good tip? 듣기 View video Dispatch : [ⓓxV] “옴-LOG③ #지호_비니_아린” (오마이걸 : OHMYGIRL)",
+      "english": "[Thank you for the great tip] Isn't this a good tip?"
+    },
+    {
+      "korean": "뭐 팁이 있어, 그냥 일어나야지 뭐 - 그냥 일어나요? There's no special tip. You should wake up. - Just wake up? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "There's no special tip. You should wake up. - Just wake up?"
+    },
+    {
+      "korean": "이거는 제가 개인적으로 - 팁 팁! This is my personal - Tip! 듣기 View video 슈주 리턴즈 (SJ returns) : [슈주 리턴즈 : 스핀오프] 특규 리턴즈 픽쿡크라운 EP01",
+      "english": "This is my personal - Tip!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Did you remember to tip the waiter? 듣기 Add to Wordbook 웨이터한테 팁 주는 거 안 잊었죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Did you remember to tip the waiter? Add to Wordbook"
+    },
+    {
+      "korean": "Is it customary to tip hairdressers in this country? 듣기 Add to Wordbook 이 나라에서는 미용사에게 팁을 주는 것이 관례인가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is it customary to tip hairdressers in this country? Add to Wordbook"
+    },
+    {
+      "korean": "She tipped the porter a dollar. 듣기 Add to Wordbook 그녀는 짐꾼에게 1달러를 팁으로 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tipped the porter a dollar. Add to Wordbook"
+    },
+    {
+      "korean": "She relies on tips to top up her wages. 듣기 Add to Wordbook 그녀는 팁에 의지하여 임금을 보충한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She relies on tips to top up her wages. Add to Wordbook"
+    },
+    {
+      "korean": "I didn’t have any small change to leave as a tip. 듣기 Add to Wordbook 난 팁을 남길 잔돈이 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I didn’t have any small change to leave as a tip. Add to Wordbook"
+    }
+  ]
+}

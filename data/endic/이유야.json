@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "이유",
+      "hanja": " (理由)",
+      "example": {},
+      "meanings": [
+        "(까닭, 근거) reason, (원인) cause, (근거) grounds (for)",
+        "(이유, 핑계) excuse (for), pretext (for)"
+      ]
+    },
+    {
+      "phrase": "이유",
+      "hanja": " (離乳)",
+      "example": {},
+      "meanings": [
+        "(젖을 뗌) weaning, ablactation"
+      ]
+    },
+    {
+      "phrase": "…의 이유로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by reason of",
+        "on the ground(s) of[that]",
+        "on account of"
+      ]
+    },
+    {
+      "phrase": "표면적 이유",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an ostensible reason",
+        "a plausible excuse",
+        "the surface reason"
+      ]
+    },
+    {
+      "phrase": "이유 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without reason[good cause]",
+        "without provocation[occasion]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "명목",
+      "frequency": 0
+    },
+    {
+      "meaning": "wherefore",
+      "frequency": 3
+    },
+    {
+      "meaning": "사정 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "삭발",
+      "frequency": 0
+    },
+    {
+      "meaning": "why",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아니, 아니에요 이유를 같이 설명해주시면... No, no. Just want to know why... 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "No, no. Just want to know why..."
+    },
+    {
+      "korean": "그래서 여러분들 저희 7명이 모인 이유가 뭘까요? Why do you think 7 of us are together now? 듣기 View video V PICK! : [GOT7] 눈 덩어리보다 더 반가운 덩어리들,, 아이러브유💚 (GOT7’s acrostic poem bet)",
+      "english": "Why do you think 7 of us are together now?"
+    },
+    {
+      "korean": "내가 늦은 이유가 있어 제이홉! 생일 축하해! There's a reason I'm late j-hope! Happy birthday! 듣기 View video V PICK! : [BTS] 공공칠빵 소시지빵은 가라 호석오빵의 시대가 왔노라니,,🍞 (HAPPY J-HOPE DAY+1!)",
+      "english": "There's a reason I'm late j-hope! Happy birthday!"
+    },
+    {
+      "korean": "그러게요? - 이유 말씀해주시죠 - 그게 아니라 - 이유가 있을까요? Yeah. - Please tell us why. - No, I meant... - Is there a reason? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Yeah. - Please tell us why. - No, I meant... - Is there a reason?"
+    },
+    {
+      "korean": "여러분, 정국 씨가 저를 뽑았는데 이유를 들어봐도 될까요? Everyone, Jung Kook picked me. Can we hear why? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Everyone, Jung Kook picked me. Can we hear why?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That's why he picks on him. 듣기 Add to Wordbook 그게 바로 그가 그를 고른 이유야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 glvh925(glvh****)",
+      "english": "That's why he picks on him. Add to Wordbook"
+    },
+    {
+      "korean": "That is why it is so important. 듣기 Add to Wordbook 그건 좀 중요한 이유야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Sunny Jeong(hane****)",
+      "english": "That is why it is so important. Add to Wordbook"
+    },
+    {
+      "korean": "Now this is why I come here. 듣기 Add to Wordbook 그게 내가 이곳에 온 이유야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 James(uran****)",
+      "english": "Now this is why I come here. Add to Wordbook"
+    },
+    {
+      "korean": "So that's why you did it? 듣기 Add to Wordbook 그래서 그게 네가 그걸 한 이유야? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 glvh925(glvh****)",
+      "english": "So that's why you did it? Add to Wordbook"
+    },
+    {
+      "korean": "Is that why I'm feeling so dizzy? 듣기 Add to Wordbook 그게 내가 어지러운 이유야? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 정현진(hhhc****)",
+      "english": "Is that why I'm feeling so dizzy? Add to Wordbook"
+    }
+  ]
+}

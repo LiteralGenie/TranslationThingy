@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "선출",
+      "hanja": " (選出)",
+      "example": {},
+      "meanings": [
+        "election, elect"
+      ]
+    },
+    {
+      "phrase": "협회 회장으로 선출되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be named president of an association",
+        "be elected as a president of an association"
+      ]
+    },
+    {
+      "phrase": "무기명 투표로 선출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "elect by secret ballot"
+      ]
+    },
+    {
+      "phrase": "대의원을 선출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "elect a representative"
+      ]
+    },
+    {
+      "phrase": "대통령에 선출되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be elected President"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "elect",
+      "frequency": 2
+    },
+    {
+      "meaning": "politician",
+      "frequency": 2
+    },
+    {
+      "meaning": "vote somebody in",
+      "frequency": 0
+    },
+    {
+      "meaning": "incoming",
+      "frequency": 0
+    },
+    {
+      "meaning": "re-elect",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "선출이라고 유세 떠냐? Why are you so arrogant? 듣기 View video 플레이리스트 (Playlist) : [에이틴 시즌1] - EP.06 조용한 사람이 화내면 무서운 이유",
+      "english": "Why are you so arrogant?"
+    },
+    {
+      "korean": "3명 가자. - 선출됐습니다. The 3. - 3 are picked. 듣기 View video Golden Child : '울려라! 골든차일드' 4화 ('Ring it! Golden Child' ep.4)",
+      "english": "The 3. - 3 are picked."
+    },
+    {
+      "korean": "어차피 너 선출이잖아 - 누가... You're a former basketball player. - Who... 듣기 View video 플레이리스트 (Playlist) : [에이틴 시즌1] - EP.06 조용한 사람이 화내면 무서운 이유",
+      "english": "You're a former basketball player. - Who..."
+    },
+    {
+      "korean": "경찰이 선출이 됐습니다. 의사는 누구인가. The police has been picked. Who is the doctor? 듣기 View video TWICE : 풀메방송3",
+      "english": "The police has been picked. Who is the doctor?"
+    },
+    {
+      "korean": "조금 더 고난도 게임이 나왔으면 좋겠습니다, 조장을 선출해 주세요, 조장. I hope to pick a more challenging game. Please choose your team leader. 듣기 View video Minzy : [MINZY's 1st FANMEETING] 민지와 함께하는 게임타임~",
+      "english": "I hope to pick a more challenging game. Please choose your team leader."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to be elected to fellowship of the British Academy 발음듣기 영국 학술원 회원으로 선출되다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be elected to fellowship of the British Academy 발음"
+    },
+    {
+      "korean": "The chairperson is chosen by secret ballot. 발음듣기 의장은 비밀 무기명 투표로 선출된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The chairperson is chosen by secret ballot. 발음"
+    },
+    {
+      "korean": "Several new councillors got in at the last election. 발음듣기 지난번 선거에서 몇 명의 시의원들이 새로 선출되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several new councillors got in at the last election. 발음"
+    },
+    {
+      "korean": "a popularly elected government 발음듣기 대중에 의해 선출된 정부 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a popularly elected government 발음"
+    },
+    {
+      "korean": "a democratically elected legislature 발음듣기 민주적으로 선출된 입법 기관 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a democratically elected legislature 발음"
+    }
+  ]
+}

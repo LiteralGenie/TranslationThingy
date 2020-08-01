@@ -1,0 +1,97 @@
+{
+  "phrases": [
+    {
+      "phrase": "좌표",
+      "hanja": " (座標)",
+      "example": {},
+      "meanings": [
+        "(수학) coordinate",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "x 좌표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "x-coordinate",
+        "the abscissa"
+      ]
+    },
+    {
+      "phrase": "좌표축",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "axis of coordinates, coordinate axis"
+      ]
+    },
+    {
+      "phrase": "가로 좌표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the abscissa"
+      ]
+    },
+    {
+      "phrase": "y 좌표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "y-coordinate",
+        "the ordinate"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "coordinate",
+      "frequency": 3
+    },
+    {
+      "meaning": "coordinates",
+      "frequency": 0
+    },
+    {
+      "meaning": "Datum Reference Datum point",
+      "frequency": 0
+    },
+    {
+      "meaning": "ordinate",
+      "frequency": 0
+    },
+    {
+      "meaning": "abscissa",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저도 있어요 - 좌표 - 어떤 건가요? I have one too. - Coordinate. - What's that? 듣기 View video FANTAGIO : ASTRO 아스트로 5th 미니앨범 'Dream Part.02' SHOWCASE",
+      "english": "I have one too. - Coordinate. - What's that?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the x, y coordinates of any point on a line 듣기 Add to Wordbook 선 위 어느 지점의 x, y 좌표 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the x, y coordinates of any point on a line Add to Wordbook"
+    },
+    {
+      "korean": "On the plane[graph], find the distance of point A from the origin[between point A and the origin]. 듣기 Add to Wordbook 좌표 평면 위의 점 A와 원점 사이의 거리를 구하라 Neungyule",
+      "english": "On the plane[graph], find the distance of point A from the origin[between point A and the origin]. Add to Wordbook"
+    },
+    {
+      "korean": "I think of his teaching as the guidelines in my life. 듣기 Add to Wordbook 나는 그의 가르침을 삶의 좌표로 삼고 있다 Neungyule",
+      "english": "I think of his teaching as the guidelines in my life. Add to Wordbook"
+    },
+    {
+      "korean": "Those coordinates could be changed or updated at any time. 듣기 Add to Wordbook 언제라도 좌표를 수정하거나 갱신할 수 있다. YBM All in All English-Korean Dictionary",
+      "english": "Those coordinates could be changed or updated at any time. Add to Wordbook"
+    },
+    {
+      "korean": "A parameter may be anything; for example, a file name, a coordinate, a range of values, a money amount or a code of some kind. 듣기 Add to Wordbook 파일 이름, 좌표, 값 범위, 금액 또는 코드 등 어느 것이나 매개 변수가 될 수 있다. YBM All in All English-Korean Dictionary",
+      "english": "A parameter may be anything; for example, a file name, a coordinate, a range of values, a money amount or a code of some kind. Add to Wordbook"
+    }
+  ]
+}

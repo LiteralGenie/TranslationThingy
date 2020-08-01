@@ -1,0 +1,107 @@
+{
+  "phrases": [
+    {
+      "phrase": "한기",
+      "hanja": " (寒氣)",
+      "example": {},
+      "meanings": [
+        "chill, cold"
+      ]
+    },
+    {
+      "phrase": "한기를 느끼다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "feel[have] a chill",
+        "feel chilly"
+      ]
+    },
+    {
+      "phrase": "한기가 나는 감기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a chill"
+      ]
+    },
+    {
+      "phrase": "미사일 한 기를 발사하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fire a missile"
+      ]
+    },
+    {
+      "phrase": "아만니사한기념릉",
+      "hanja": " (阿曼尼莎汗纪念陵 (아만니사한기념릉))",
+      "example": {},
+      "meanings": [
+        "관광지 A man ni sha han ji nian ling"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "chill",
+      "frequency": 3
+    },
+    {
+      "meaning": "rigor",
+      "frequency": 3
+    },
+    {
+      "meaning": "chilliness",
+      "frequency": 0
+    },
+    {
+      "meaning": "algor",
+      "frequency": 0
+    },
+    {
+      "meaning": "a cold fit",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어쩔 수 없는 한기가 있거든요. So, there's the chill of the ice. 듣기 View video V MOVIE : [REPLAY] 톰 크루즈 <잭 리처: 네버 고 백> 레드카펫 'Tom Cruise Red Carpet in Korea'",
+      "english": "So, there's the chill of the ice."
+    },
+    {
+      "korean": "그럼 모두 즐거운 한기위 보내세요. We hope everyone has a wonderful holiday. 듣기 View video 모모랜드를 찾아서 (Finding MOMOLAND) : [모모랜드] 추석 인사 어서오세요 모모랜드입니다",
+      "english": "We hope everyone has a wonderful holiday."
+    },
+    {
+      "korean": "한기 님, 안녕하세요? -나와봐, 나 화보 좀 찍게. ID Hanki, hello. - Out of my way, I'm doing a shoot. 듣기 View video IDOL x IDOL : A.DE - 에이디이 '에이디이의 속이 뻥!뻥!뻥! 여름소풍!!'",
+      "english": "ID Hanki, hello. - Out of my way, I'm doing a shoot."
+    },
+    {
+      "korean": "그러나 이 한기마저 잊게 하는 Tom Cruise의 모습이 아닌가 싶습니다. But, Tom Cruise is making them to forget about the chill of the ice. 듣기 View video V MOVIE : [REPLAY] 톰 크루즈 <잭 리처: 네버 고 백> 레드카펫 'Tom Cruise Red Carpet in Korea'",
+      "english": "But, Tom Cruise is making them to forget about the chill of the ice."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The sudden cold brought her arms and legs goose bumps. 듣기 Add to Wordbook 갑작스런 한기로 인해 그녀의 팔다리에 닭살이 돋았다. YBM All in All English-Korean Dictionary",
+      "english": "The sudden cold brought her arms and legs goose bumps. Add to Wordbook"
+    },
+    {
+      "korean": "I feel the chill of that east wind off the ocean. 듣기 Add to Wordbook 나는 동쪽에서 불어온 바닷 바람에 한기를 느낀다. Neungyule",
+      "english": "I feel the chill of that east wind off the ocean. Add to Wordbook"
+    },
+    {
+      "korean": "I've been feeling chills since this morning. I seem to be catching a cold. 듣기 Add to Wordbook 아침부터 한기가 난다. 감기에 걸린 것 같다 Dong-a's Prime English-Korean Dictionary",
+      "english": "I've been feeling chills since this morning. I seem to be catching a cold. Add to Wordbook"
+    },
+    {
+      "korean": "The president made a speech to a business group in Chicago. 듣기 Add to Wordbook 부쉬 대통령은 미국 중서부 시카고에서 한 기업계 단체를 대상으로 한 연설을 했습니다. YBM All in All English-Korean Dictionary",
+      "english": "The president made a speech to a business group in Chicago. Add to Wordbook"
+    },
+    {
+      "korean": "chilled to the bone in soaking clothes 듣기 Add to Wordbook 옷이 흠뻑 젖었기 때문에 한기가 뼈에 사무쳐서. 영어영작문대사전",
+      "english": "chilled to the bone in soaking clothes Add to Wordbook"
+    }
+  ]
+}

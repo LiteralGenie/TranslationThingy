@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "돌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(회전하다) turn, rotate, revolve, (빠른 속도로) spin",
+        "(배회하다) go around, circle",
+        "(방향을 바꾸다) turn"
+      ]
+    },
+    {
+      "phrase": "집에 돌아 갈 겁니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm going back home."
+      ]
+    },
+    {
+      "phrase": "돌아 가며 한턱 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "treat by turns"
+      ]
+    },
+    {
+      "phrase": "아직 안 돌아 왔어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "She's not back yet."
+      ]
+    },
+    {
+      "phrase": "머리가 잘 안 돌아 간다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm not all together."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "round",
+      "frequency": 3
+    },
+    {
+      "meaning": "around",
+      "frequency": 3
+    },
+    {
+      "meaning": "gadabout",
+      "frequency": 0
+    },
+    {
+      "meaning": "gad about/around",
+      "frequency": 0
+    },
+    {
+      "meaning": "on song",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한번 보여주세요 - 돌아, 돌아 돌림판! Show us. - Spin around! 듣기 View video V COOKIE : [Full] 아스트로 X 우리의 밤 (Our Night with ASTRO)",
+      "english": "Show us. - Spin around!"
+    },
+    {
+      "korean": "하트 천... 하천돌! - 돌아, 돌아! 10 million hearts! - Go around! 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "10 million hearts! - Go around!"
+    },
+    {
+      "korean": "여러분 - 한 바퀴 돌아! Everyone. - Go around once! 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "Everyone. - Go around once!"
+    },
+    {
+      "korean": "춤추면서 한 바퀴 돌아주세요! Dance and turn around! 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "Dance and turn around!"
+    },
+    {
+      "korean": "이게 뭘 잘 못돌아! What does he mean he didn't turn well? 듣기 View video ASTRO : [ASTRO PLAY] in 2019 Awards🎉",
+      "english": "What does he mean he didn't turn well?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Taxis cruised the streets, looking for fares. 듣기 Add to Wordbook 택시들이 승객을 찾아 거리를 돌아 다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Taxis cruised the streets, looking for fares. Add to Wordbook"
+    },
+    {
+      "korean": "The bus came around the bend. 듣기 Add to Wordbook 버스가 커브 길을 돌아 나왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bus came around the bend. Add to Wordbook"
+    },
+    {
+      "korean": "What time did you get back last night? 듣기 Add to Wordbook 너 지난밤에 몇 시에 돌아 왔니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What time did you get back last night? Add to Wordbook"
+    },
+    {
+      "korean": "She’s gone completely round the bend. 듣기 Add to Wordbook 그녀가 완전히 돌아 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s gone completely round the bend. Add to Wordbook"
+    },
+    {
+      "korean": "A bus appeared around the corner. 듣기 Add to Wordbook 모퉁이를 돌아 버스 한 대가 나타났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A bus appeared around the corner. Add to Wordbook"
+    }
+  ]
+}

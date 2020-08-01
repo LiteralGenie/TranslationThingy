@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "악마",
+      "hanja": " (惡魔)",
+      "example": {},
+      "meanings": [
+        "Satan, the Devil, the devil"
+      ]
+    },
+    {
+      "phrase": "악마 같은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "devilish",
+        "satanic",
+        "fiendish"
+      ]
+    },
+    {
+      "phrase": "악마의 화신",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a devil incarnate[in the flesh]",
+        "an incarnate fiend"
+      ]
+    },
+    {
+      "phrase": "악마의 권화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a devil incarnate",
+        "the incarnation[personification] of a devil"
+      ]
+    },
+    {
+      "phrase": "악마를 불러내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "raise the devil"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "devil",
+      "frequency": 2
+    },
+    {
+      "meaning": "demon",
+      "frequency": 1
+    },
+    {
+      "meaning": "Satan",
+      "frequency": 1
+    },
+    {
+      "meaning": "Lucifer",
+      "frequency": 0
+    },
+    {
+      "meaning": "Beelzebub",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "악마 뭐야 누가 계속 써 악마! Who is it? Who keeps using the devil? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Who is it? Who keeps using the devil?"
+    },
+    {
+      "korean": "야 악마 그만 써라 악마 - 그만 때려라! Stop using the devil! - Stop hitting me! 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Stop using the devil! - Stop hitting me!"
+    },
+    {
+      "korean": "[나도 있다, 악마!] 나와! [I have the devil, too!] Get out! 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[I have the devil, too!] Get out!"
+    },
+    {
+      "korean": "[왜 이렇게 악마가 많아?!] 악마 누가 계속 써 악마! [Why are there so many devils?] Who keeps using the devil? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[Why are there so many devils?] Who keeps using the devil?"
+    },
+    {
+      "korean": "[하필 커브를 돌 때 악마가 풀려버림] 뭐야 이거! [The devil left when he was making a curve] What? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[The devil left when he was making a curve] What?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the old Enemy 발음듣기 악마. Friendict Level English-Korean Dictionary",
+      "english": "the old Enemy 발음"
+    },
+    {
+      "korean": "He was handsome, with a devilish charm. 발음듣기 그는 잘생기고 악마적인 매력이 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was handsome, with a devilish charm. 발음"
+    },
+    {
+      "korean": "You sly old devil! How long have you known? 발음듣기 이 음흉한 늙은 악마 같으니라구! 당신은 안 지 얼마나 된 거야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You sly old devil! How long have you known? 발음"
+    },
+    {
+      "korean": "He’s a crafty old devil. 발음듣기 그는 교활한 악마 같은 늙은이야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s a crafty old devil. 발음"
+    },
+    {
+      "korean": "He was demonized by the right-wing press. 발음듣기 그는 우익 언론에서 악마 취급을 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was demonized by the right-wing press. 발음"
+    }
+  ]
+}

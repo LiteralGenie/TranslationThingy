@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "자본",
+      "hanja": " (資本)",
+      "example": {},
+      "meanings": [
+        "capital"
+      ]
+    },
+    {
+      "phrase": "자본주의",
+      "hanja": " (資本主義)",
+      "example": {},
+      "meanings": [
+        "capitalism"
+      ]
+    },
+    {
+      "phrase": "자기자본",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personal net worth, the capital owned by the business"
+      ]
+    },
+    {
+      "phrase": "총자본",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the total amount[sum] of capital",
+        "the fund total"
+      ]
+    },
+    {
+      "phrase": "자기자본 비율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the ratio of owner's equity[net worth]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "capital 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "single market",
+      "frequency": 0
+    },
+    {
+      "meaning": "fond 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "capital assets",
+      "frequency": 0
+    },
+    {
+      "meaning": "Kap.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지하철에서 4시간 어떻게 자본거지? How would you sleep for four hours on a subway? 듣기 View video V COOKIE : [Full] YUBIN X LieV - 유빈의 눕방라이브!",
+      "english": "How would you sleep for four hours on a subway?"
+    },
+    {
+      "korean": "[소파에서 잠 좀 자본 놈들의 신중 of 신중 순서 결정] 너 타본 적 있어? Have you ever done this? 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 12부_ep.1 흥 폭발♬ 어른이들의 환상의 나라",
+      "english": "Have you ever done this?"
+    },
+    {
+      "korean": "자본에 흔들리지 않겠다! And wealth doesn't impress you! 듣기 View video V DRAMA : [Full]변혁의 사랑 X 앞터V (Revolutionary Love X Early Interview)",
+      "english": "And wealth doesn't impress you!"
+    },
+    {
+      "korean": "저는 하루를 자본 적이 있어요. I've slept an entire day before. 듣기 View video V COOKIE : [Full] MXM X LieV - MXM 임영민 X 김동현의 눕방라이브!",
+      "english": "I've slept an entire day before."
+    },
+    {
+      "korean": "지금 제가 제일 자본이 많으니까... Since I have the most capital... 듣기 View video IDOL x IDOL : Underdog - 언더독 '언더독, 공놀이 좋아해?!'",
+      "english": "Since I have the most capital..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "negative debt 발음듣기 자본. Friendict Level English-Korean Dictionary",
+      "english": "negative debt 발음"
+    },
+    {
+      "korean": "The museum is privately funded. 발음듣기 그 박물관은 민간 자본으로 운영된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The museum is privately funded. 발음"
+    },
+    {
+      "korean": "to set capital costs off against tax 발음듣기 자본 비용을 세금에 대비해서 비용으로 처리하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to set capital costs off against tax 발음"
+    },
+    {
+      "korean": "Most of the capital is tied up in property. 발음듣기 그 자본은 대부분이 부동산에 묶여 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of the capital is tied up in property. 발음"
+    },
+    {
+      "korean": "Capital expenditure was treble the 2002 level. 발음듣기 자본적 지출이 2002년 수준의 3배였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Capital expenditure was treble the 2002 level. 발음"
+    }
+  ]
+}

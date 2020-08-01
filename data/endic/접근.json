@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "접근",
+      "hanja": " (接近)",
+      "example": {},
+      "meanings": [
+        "(가까이 다가가다) approach, approach, draw[come, get] near, come[get] close (to)",
+        "(컴퓨터 파일 등에) access"
+      ]
+    },
+    {
+      "phrase": "접근(법)",
+      "hanja": " (接近法)",
+      "example": {},
+      "meanings": [
+        "의학 access, approach"
+      ]
+    },
+    {
+      "phrase": "접근하기 어렵다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be difficult of access",
+        "be inaccessible",
+        "be unapproachable"
+      ]
+    },
+    {
+      "phrase": "접근 비행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "buzz"
+      ]
+    },
+    {
+      "phrase": "데이터에 접근하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "access data"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "advance",
+      "frequency": 3
+    },
+    {
+      "meaning": "access",
+      "frequency": 3
+    },
+    {
+      "meaning": "approach",
+      "frequency": 3
+    },
+    {
+      "meaning": "overture",
+      "frequency": 3
+    },
+    {
+      "meaning": "contiguity",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[과학적인 접근 중] 치아가 몇 개야? [Making scientific approach] How many teeth? 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP40. MAMA에 있지!",
+      "english": "[Making scientific approach] How many teeth?"
+    },
+    {
+      "korean": "비슷한 접근을 하고 있어 - 그래? Similar. - Really? 듣기 View video 심포유 - my SMTelevision : [심포유 #시우민] EP16 #파자마파티 #시우민도어려운 #시우민TMI퀴즈",
+      "english": "Similar. - Really?"
+    },
+    {
+      "korean": "제가 - 접근방식이요? I... - You approached them differently? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#160. 윙 가르디움 라비오우사 (w. 라비 of 빅스)",
+      "english": "I... - You approached them differently?"
+    },
+    {
+      "korean": "저는 좀 다른 쪽으로 접근했습니다 - 네? My approach is different. - Yes? 듣기 View video V COOKIE : [Full] MONSTA X x Eating Show - 몬스타엑스 X 같이 먹어요",
+      "english": "My approach is different. - Yes?"
+    },
+    {
+      "korean": "그래요? - 네 그렇기 때문에 접근이 좀 쉽죠? Really? - So it's not as bad, right? 듣기 View video tvN : [Full]tvN <호텔 델루나> 아이유, 여진구, 피오, 미나의 영혼힐링 드라마토크 LIVE!",
+      "english": "Really? - So it's not as bad, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A ramp allows easy access for wheelchairs. 듣기 Add to Wordbook 경사로가 있어서 휠체어 접근이 용이하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A ramp allows easy access for wheelchairs. Add to Wordbook"
+    },
+    {
+      "korean": "The summit was approachable only from the south. 듣기 Add to Wordbook 그 정상은 남쪽에서만 접근이 가능했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The summit was approachable only from the south. Add to Wordbook"
+    },
+    {
+      "korean": "She had unhindered access to the files. 듣기 Add to Wordbook 그녀는 아무런 제약없이 그 파일들에 접근할 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had unhindered access to the files. Add to Wordbook"
+    },
+    {
+      "korean": "Their approach to life is refreshingly naive. 듣기 Add to Wordbook 삶에 대한 그들의 접근법은 신선할 정도로 순진무구하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their approach to life is refreshingly naive. Add to Wordbook"
+    },
+    {
+      "korean": "a cream that repels insects 듣기 Add to Wordbook 곤충의 접근을 막는 크림 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cream that repels insects Add to Wordbook"
+    }
+  ]
+}

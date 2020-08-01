@@ -1,0 +1,50 @@
+{
+  "phrases": [
+    {
+      "phrase": "진입구",
+      "hanja": " (進入口)",
+      "example": {},
+      "meanings": [
+        "an admission part"
+      ]
+    },
+    {
+      "phrase": "진입",
+      "hanja": " (進入)",
+      "example": {},
+      "meanings": [
+        "(일정한 장소에) entry (into); (침투) penetration, enter; (침투하다) penetrate (into)",
+        "(일정한 경지·상태 등에) entry, enter"
+      ]
+    },
+    {
+      "phrase": "진입/진출목록",
+      "hanja": " (進入/進出目錄)",
+      "example": {},
+      "meanings": [
+        "Entry/Exit List"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "admission port",
+      "frequency": 0
+    },
+    {
+      "meaning": "emergency entrance",
+      "frequency": 0
+    },
+    {
+      "meaning": "rescue entrance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "an admission port[valve] 발음듣기 진입구(口)[판(瓣)]. Friendict Level English-Korean Dictionary",
+      "english": "an admission port[valve] 발음"
+    }
+  ]
+}

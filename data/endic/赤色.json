@@ -1,0 +1,73 @@
+{
+  "phrases": [
+    {
+      "phrase": "적색",
+      "hanja": " (赤色)",
+      "example": {},
+      "meanings": [
+        "red"
+      ]
+    },
+    {
+      "phrase": "밝은 적색의",
+      "hanja": " (-赤色-)",
+      "example": {},
+      "meanings": [
+        "의학 florid"
+      ]
+    },
+    {
+      "phrase": "적색을 뜻하는",
+      "hanja": " (赤色-)",
+      "example": {},
+      "meanings": [
+        "의학 erythr(o)-"
+      ]
+    },
+    {
+      "phrase": "적색 테러",
+      "hanja": " (赤色―)",
+      "example": {},
+      "meanings": [
+        "Red terrorism"
+      ]
+    },
+    {
+      "phrase": "적색 리트머스 시험지",
+      "hanja": " (赤色―試驗紙)",
+      "example": {},
+      "meanings": [
+        "red litmus paper"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Red International",
+      "frequency": 0
+    },
+    {
+      "meaning": "rubrum",
+      "frequency": 0
+    },
+    {
+      "meaning": "ruber",
+      "frequency": 0
+    },
+    {
+      "meaning": "rhod(o)-",
+      "frequency": 0
+    },
+    {
+      "meaning": "erythr(o)-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "This fantastic cinnabar red by mixing in cinnabar which is powdered mercury. 듣기 Add to Wordbook 바로 가루로 된 수은인 辰砂(진사)를 섞어서 만든 환상적인 진사 赤色(적색)이지요. Khan Academy",
+      "english": "This fantastic cinnabar red by mixing in cinnabar which is powdered mercury. Add to Wordbook"
+    }
+  ]
+}

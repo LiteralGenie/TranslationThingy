@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "특수",
+      "hanja": " (特殊)",
+      "example": {},
+      "meanings": [
+        "[형용사] special"
+      ]
+    },
+    {
+      "phrase": "특수",
+      "hanja": " (特需)",
+      "example": {},
+      "meanings": [
+        "(특별히 많은 수요)"
+      ]
+    },
+    {
+      "phrase": "특수효과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "special effects"
+      ]
+    },
+    {
+      "phrase": "특수부대",
+      "hanja": " (特殊部隊)",
+      "example": {},
+      "meanings": [
+        "special forces"
+      ]
+    },
+    {
+      "phrase": "특수 학급",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a special class (for the handicapped)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "specialness",
+      "frequency": 0
+    },
+    {
+      "meaning": "procurement demand",
+      "frequency": 0
+    },
+    {
+      "meaning": "special procurement demand",
+      "frequency": 0
+    },
+    {
+      "meaning": "special insertion editing",
+      "frequency": 0
+    },
+    {
+      "meaning": "special",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그건 특수 소스 있었잖아요. There was a special sauce. 듣기 View video V COOKIE : [Full] IN2IT​ X Rooftop Live - 인투잇의 루프탑라이브!",
+      "english": "There was a special sauce."
+    },
+    {
+      "korean": "특수부위죠. - 맞죠? - 특수부위. It's a special part. - Right? - A special part. 듣기 View video BRANDNEWBOYS : 커피될게 우유해줘",
+      "english": "It's a special part. - Right? - A special part."
+    },
+    {
+      "korean": "요즘 특수 효과가 - 네 특수 효과 있어요. The special effects these days... - They have special effects. 듣기 View video SF9 : go back in time",
+      "english": "The special effects these days... - They have special effects."
+    },
+    {
+      "korean": "때문에 저는 특수 케이스로 밑에도 조금만 땡글하게 말아 줄게요. This is a special case, so I'll curl the bottoms a bit more curlier. 듣기 View video EUNBI : EUNBI✟How to Hairstyles | BERET 베레모 쓰는법|베레모 헤어스타일링",
+      "english": "This is a special case, so I'll curl the bottoms a bit more curlier."
+    },
+    {
+      "korean": "이렇게 특수효과를 즐기고 있어요. - 지헌이는 비눗방울 들고있네요. And I am enjoying the special effects. - Ji-Heon is holding the bubbles. 듣기 View video fromis_9 : 첫방완료 💣",
+      "english": "And I am enjoying the special effects. - Ji-Heon is holding the bubbles."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "specific conditions which are diagnostic of AIDS 듣기 Add to Wordbook 에이즈로 진단되는 특수한 상태 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "specific conditions which are diagnostic of AIDS Add to Wordbook"
+    },
+    {
+      "korean": "The hotel has special facilities for welcoming disabled people. 듣기 Add to Wordbook 그 호텔에는 장애인들을 맞을 수 있는 특수 시설이 되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel has special facilities for welcoming disabled people. Add to Wordbook"
+    },
+    {
+      "korean": "children with special educational needs 듣기 Add to Wordbook 특수 교육이 필요한 아동들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "children with special educational needs Add to Wordbook"
+    },
+    {
+      "korean": "a special stone for grinding knives 듣기 Add to Wordbook 칼을 가는 데 쓰는 특수 숫돌 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a special stone for grinding knives Add to Wordbook"
+    },
+    {
+      "korean": "a statement of special educational needs 듣기 Add to Wordbook 특수 교육이 필요함을 인정하는 보고서 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a statement of special educational needs Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "군용",
+      "hanja": " (軍用)",
+      "example": {},
+      "meanings": [
+        "military use[purpose]"
+      ]
+    },
+    {
+      "phrase": "군용의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "military",
+        "for military use"
+      ]
+    },
+    {
+      "phrase": "군용열차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "troop train"
+      ]
+    },
+    {
+      "phrase": "군용담요",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "army[military] blanket"
+      ]
+    },
+    {
+      "phrase": "군용 지프",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a military jeep"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "military use",
+      "frequency": 0
+    },
+    {
+      "meaning": "armoured personnel carrier",
+      "frequency": 0
+    },
+    {
+      "meaning": "warbird",
+      "frequency": 0
+    },
+    {
+      "meaning": "for military use",
+      "frequency": 0
+    },
+    {
+      "meaning": "service rifle",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The Air Force planes flew back to their airbase. 듣기 Add to Wordbook 공군 비행기들이 군용비행장으로 되돌아 왔다. Neungyule",
+      "english": "The Air Force planes flew back to their airbase. Add to Wordbook"
+    },
+    {
+      "korean": "earmark the supplies for the army 듣기 Add to Wordbook 보급품을 군용으로 떼어 두다. Friendict Level English-Korean Dictionary",
+      "english": "earmark the supplies for the army Add to Wordbook"
+    },
+    {
+      "korean": "Soldiers and athletes use duffel bags to carry their clothes and belongings. 듣기 Add to Wordbook 군인들과 운동선수들은 옷과 소지품을 군용 잡낭에 넣어 가지고 다닌다. Neungyule",
+      "english": "Soldiers and athletes use duffel bags to carry their clothes and belongings. Add to Wordbook"
+    },
+    {
+      "korean": "The young burglar in the back of the police car was wearing a mask and dirty army fatigues. 듣기 Add to Wordbook 경찰차 뒷 좌석에 탄 어린 도둑은 마스크와 더러운 군용 작업복을 입고 있었다. YBM All in All English-Korean Dictionary",
+      "english": "The young burglar in the back of the police car was wearing a mask and dirty army fatigues. Add to Wordbook"
+    },
+    {
+      "korean": "A wind gust caused a military helicopter to crash. 듣기 Add to Wordbook 돌풍으로 군용 헬기 한 대가 추락했다. Neungyule",
+      "english": "A wind gust caused a military helicopter to crash. Add to Wordbook"
+    }
+  ]
+}

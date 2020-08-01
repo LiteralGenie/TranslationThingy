@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "참고",
+      "hanja": " (參考)",
+      "example": {},
+      "meanings": [
+        "reference, refer (to), consult"
+      ]
+    },
+    {
+      "phrase": "참고로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for reference",
+        "for one´s information"
+      ]
+    },
+    {
+      "phrase": "참고 자료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reference, reference data[items, materials]"
+      ]
+    },
+    {
+      "phrase": "참고 문헌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reference, bibliography, citations"
+      ]
+    },
+    {
+      "phrase": "참고가 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be a good guide",
+        "be suggestive",
+        "serve as a good reference"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "reference",
+      "frequency": 2
+    },
+    {
+      "meaning": "consultation",
+      "frequency": 1
+    },
+    {
+      "meaning": "훗날을 위해",
+      "frequency": 0
+    },
+    {
+      "meaning": "자료",
+      "frequency": 0
+    },
+    {
+      "meaning": "커피에 밀크와 설탕을 타 마시다",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 참고가 되나? Can I be referred to? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "Can I be referred to?"
+    },
+    {
+      "korean": "내가 숨은 왜 참고 있었지, 근데? Why did I hold my breath? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Why did I hold my breath?"
+    },
+    {
+      "korean": "제가 참고할 만한 사람인가요? Am I person worthy of being referred? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "Am I person worthy of being referred?"
+    },
+    {
+      "korean": "[HOW TO 멋 1편 참고] 도라... 도라에몽... [Previously on HOW TO BE COOL EP. 1] Dora... Doraemon... 듣기 View video V PICK! : [WINNER] 내가 바로 패셔너블 라이징⭐️스타 이승훈이얏😎 (HOONY exploring his fashion &talking to YOON)",
+      "english": "[Previously on HOW TO BE COOL EP. 1] Dora... Doraemon..."
+    },
+    {
+      "korean": "솔라는 숨을 참고 몇 초 동안 소리를 낼 수 있을까? how long can Solar make a sound without a breath? 듣기 View video OSEN : 마마무 솔라, 솔로로 돌아온 용리다 #스타로드 01",
+      "english": "how long can Solar make a sound without a breath?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Each chapter is referenced, citing literature up to 2004. 발음듣기 각 장에는 2004년까지의 문헌을 인용하는 참고 문헌 목록이 달려 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Each chapter is referenced, citing literature up to 2004. 발음"
+    },
+    {
+      "korean": "I was fighting back the tears. 발음듣기 나는 눈물을 간신히 참고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was fighting back the tears. 발음"
+    },
+    {
+      "korean": "How can you bear to eat that stuff? 발음듣기 어떻게 그런 것을 참고 먹을 수가 있죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How can you bear to eat that stuff? 발음"
+    },
+    {
+      "korean": "Suddenly Charles exploded with rage. 발음듣기 갑자기 찰스가 분노를 못 참고 폭발했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Suddenly Charles exploded with rage. 발음"
+    },
+    {
+      "korean": "a selected webliography on new Irish poetry 발음듣기 새로운 아일랜드 시에 대한 선별된 웹사이트 참고 목록 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a selected webliography on new Irish poetry 발음"
+    }
+  ]
+}

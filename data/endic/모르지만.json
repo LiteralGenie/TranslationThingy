@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(알지 못하다) do not know, (이해하지 못하다) do not understand",
+        "(경험이 없다) have no experience, be ignorant of",
+        "(느끼지 못하다) be unaware (of), be unconscious (of)"
+      ]
+    },
+    {
+      "phrase": "왜 그런지 모르지만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without knowing why",
+        "somehow"
+      ]
+    },
+    {
+      "phrase": "무슨 영문인지 모르지만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for some unknown reason"
+      ]
+    },
+    {
+      "phrase": "이상하게 들릴지 모르지만 사실이에요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Strange but true."
+      ]
+    },
+    {
+      "phrase": "제 의견이 틀릴지도 모르지만.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-의심 · 농담 I may be wrong, but."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "without knowing why",
+      "frequency": 0
+    },
+    {
+      "meaning": "It may be just me, but …",
+      "frequency": 0
+    },
+    {
+      "meaning": "for the nth time",
+      "frequency": 0
+    },
+    {
+      "meaning": "paradoxically",
+      "frequency": 0
+    },
+    {
+      "meaning": "might 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어딘지 모르지만. 여기 있는 보조개는 잘보이죠. I don't know. But this one, you can see it. 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 41",
+      "english": "I don't know. But this one, you can see it."
+    },
+    {
+      "korean": "뭔지는 모르지만 일단 맛있는 거, 두부인가? I don't know what it is... But delicious... Tofu?? 듣기 View video V COOKIE : [Full] KIM JUNSU X Eating Show - 김준수 X 같이 먹어요",
+      "english": "I don't know what it is... But delicious... Tofu??"
+    },
+    {
+      "korean": "[모르지만 일단 적어본다] ㄴㄴㄷㅇ? [Don't know what it is, but just write it down anyways] N.N.D.O? 듣기 View video BTS : Run BTS! 2019 - EP.86",
+      "english": "[Don't know what it is, but just write it down anyways] N.N.D.O?"
+    },
+    {
+      "korean": "[뭔진 모르지만 신난다] 근데 이게 세 글자... [I don't know but it looks exciting] If it has a 3-digit number. 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.17 노래방탈출 #1 (Escape Singing Room #1)",
+      "english": "[I don't know but it looks exciting] If it has a 3-digit number."
+    },
+    {
+      "korean": "그런 거라고 하죠, 이런 얘기해도 될지 모르지만 주접 댓글이라고... - 주접! I don't know whether I can say this. It's called silly comments. - Silly! 듣기 View video Red Velvet : [Full] 레드벨벳과 [사][이]좋은 [코]리스마스🌲🎁 (Red Velvet's PsychoRISTMAS Party)",
+      "english": "I don't know whether I can say this. It's called silly comments. - Silly!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You may laugh but I’m in deadly earnest. 듣기 Add to Wordbook 넌 웃을지 모르지만 난 더없이 진지해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You may laugh but I’m in deadly earnest. Add to Wordbook"
+    },
+    {
+      "korean": "She may be slow but at least she’s reliable. 듣기 Add to Wordbook 그녀가 느릴지는 모르지만 최소한 믿을 수는 있지. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She may be slow but at least she’s reliable. Add to Wordbook"
+    },
+    {
+      "korean": "I don’t know the title but I recognize the tune. 듣기 Add to Wordbook 내가 그 곡명은 모르지만 곡은 알겠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I don’t know the title but I recognize the tune. Add to Wordbook"
+    },
+    {
+      "korean": "He may say no, but there’s no harm in asking. 듣기 Add to Wordbook 그가 싫다고 할지 모르지만 물어봐서 나쁠 건 없어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He may say no, but there’s no harm in asking. Add to Wordbook"
+    },
+    {
+      "korean": "He may seem charming, but it’s all show! 듣기 Add to Wordbook 그가 매력 있어 보일지 모르지만 그건 모두 가식이야! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He may seem charming, but it’s all show! Add to Wordbook"
+    }
+  ]
+}

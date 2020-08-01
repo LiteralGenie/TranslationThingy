@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "약화",
+      "hanja": " (弱化)",
+      "example": {},
+      "meanings": [
+        "be weaken"
+      ]
+    },
+    {
+      "phrase": "압력을 약화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "relieve[ease] (the) pressure"
+      ]
+    },
+    {
+      "phrase": "약화된 시력",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weakened eyesight"
+      ]
+    },
+    {
+      "phrase": "약화를 그리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a rough sketch",
+        "sketch"
+      ]
+    },
+    {
+      "phrase": "약화하다",
+      "hanja": " (弱化하다)",
+      "example": {},
+      "meanings": [
+        "Verb weaken, debilitate, diminish (↔강화하다1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fatigue",
+      "frequency": 3
+    },
+    {
+      "meaning": "let-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "adumbration",
+      "frequency": 0
+    },
+    {
+      "meaning": "letup",
+      "frequency": 0
+    },
+    {
+      "meaning": "weakening",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"이렇게 아프니 제 영혼을 약화 시키더군요.\" \"Being sick like this has really lowered my spirits.\" 듣기 View video DAY6 : DAY6의 Free한 라디오 with 성진, Jae",
+      "english": "\"Being sick like this has really lowered my spirits.\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The team has been weakened by injury. 듣기 Add to Wordbook 그 팀은 부상으로 약화되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team has been weakened by injury. Add to Wordbook"
+    },
+    {
+      "korean": "The drug attenuates the effects of the virus. 듣기 Add to Wordbook 그 약물은 바이러스의 영향을 약화시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The drug attenuates the effects of the virus. Add to Wordbook"
+    },
+    {
+      "korean": "Years of failure have sapped him of his confidence. 듣기 Add to Wordbook 오랫동안의 실패로 그는 자신감이 약화되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Years of failure have sapped him of his confidence. Add to Wordbook"
+    },
+    {
+      "korean": "Nothing could weaken his resolve to continue. 듣기 Add to Wordbook 그 무엇도 계속하겠다는 그의 결심을 약화시키지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nothing could weaken his resolve to continue. Add to Wordbook"
+    },
+    {
+      "korean": "The new evidence weakens the case against her. 듣기 Add to Wordbook 그 새로운 증거로 그녀에 대한 반대 입장[주장]이 약화되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new evidence weakens the case against her. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "회의",
+      "hanja": " (會議)",
+      "example": {},
+      "meanings": [
+        "meeting, conference, council, convention"
+      ]
+    },
+    {
+      "phrase": "회의",
+      "hanja": " (懷疑)",
+      "example": {},
+      "meanings": [
+        "(의심) doubt (about), skepticism"
+      ]
+    },
+    {
+      "phrase": "화상회의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "video conference, web conference"
+      ]
+    },
+    {
+      "phrase": "국무회의",
+      "hanja": " (國務會議)",
+      "example": {},
+      "meanings": [
+        "Cabinet meeting"
+      ]
+    },
+    {
+      "phrase": "긴급회의",
+      "hanja": " (緊急會議)",
+      "example": {},
+      "meanings": [
+        "urgent[emergency] conference[meeting]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "meeting",
+      "frequency": 3
+    },
+    {
+      "meaning": "congress",
+      "frequency": 3
+    },
+    {
+      "meaning": "conference",
+      "frequency": 3
+    },
+    {
+      "meaning": "session",
+      "frequency": 3
+    },
+    {
+      "meaning": "powwow",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[회의 끝] - 바로 하겠습니다! - 해도 될까요?",
+      "english": "[Discussion over] - We'll start right now. - Shall we start?"
+    },
+    {
+      "korean": "[긴 회의끝, 용인대의 결정은?]",
+      "english": "[After a long discussion, how did Yong In Univ. decide?]"
+    },
+    {
+      "korean": "저희가 최근에 콘서트 회의를 했는데 큐시트...",
+      "english": "We had a meeting about the concert. Q sheet..."
+    },
+    {
+      "korean": "회의 빨리 끝났네?",
+      "english": "The meeting is over already?"
+    },
+    {
+      "korean": "회의할 거 있어 - 왜요?",
+      "english": "Something to discuss. - Why?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "회의 전에 예의상 주고받는 말들",
+      "english": "an exchange of courtesies before the meeting"
+    },
+    {
+      "korean": "그 회의는 긍정적인 분위기로 끝났다.",
+      "english": "The meeting ended on an upbeat note."
+    },
+    {
+      "korean": "그는 군법회의에서 유죄 선고를 받았다.",
+      "english": "He was convicted at a court martial."
+    },
+    {
+      "korean": "그 회의에서는 감정들이 격했었다.",
+      "english": "Passions were running high at the meeting."
+    },
+    {
+      "korean": "그는 모든 회의에 기사를 데리고 다녔다.",
+      "english": "He was chauffeured to all his meetings."
+    }
+  ]
+}

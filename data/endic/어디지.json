@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "어디",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어느 곳) where",
+        "(정해지지 않은 곳)",
+        "(어디서나'의 형태로 쓰여)"
+      ]
+    },
+    {
+      "phrase": "어디",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection all right, fine",
+        "Interjection on earth",
+        "Interjection all right"
+      ]
+    },
+    {
+      "phrase": "어디에다 대고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to where, how dare"
+      ]
+    },
+    {
+      "phrase": "어디 두고 보자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Let's wait and see"
+      ]
+    },
+    {
+      "phrase": "어디를 막론하고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regardless of where"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wherever",
+      "frequency": 2
+    },
+    {
+      "meaning": "anywhere",
+      "frequency": 2
+    },
+    {
+      "meaning": "whither",
+      "frequency": 1
+    },
+    {
+      "meaning": "where",
+      "frequency": 2
+    },
+    {
+      "meaning": "whithersoever",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여기 어디지? Where am I? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Where am I?"
+    },
+    {
+      "korean": "여기가 어디지? Where am I? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "Where am I?"
+    },
+    {
+      "korean": "출구가 어디지? Where is the exit? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "Where is the exit?"
+    },
+    {
+      "korean": "그때 제가 그 어디지? Where was it? 듣기 View video IZ*ONE : 까꿍🙈💕",
+      "english": "Where was it?"
+    },
+    {
+      "korean": "[슬픈 데자뷔] 출구가 어디지? [A sad déjà vu] Where's the exit? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[A sad déjà vu] Where's the exit?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Where is the nearest cludgie? 발음듣기 가장 가까운 공중화장실이 어디지? 국제영어대학원대학교 신어사전",
+      "english": "Where is the nearest cludgie? 발음"
+    },
+    {
+      "korean": "Where am I? Feels like a very hot place. 발음듣기 여기가 어디지? 아주 더운 곳 같은데. Neungyule",
+      "english": "Where am I? Feels like a very hot place. 발음"
+    },
+    {
+      "korean": "Where is a second-hand bookstore ? 발음듣기 중고서점이 어디지요? YBM All in All English-Korean Dictionary",
+      "english": "Where is a second-hand bookstore ? 발음"
+    },
+    {
+      "korean": "Where is House of Lords? 발음듣기 화장실은 어디지? YBM All in All English-Korean Dictionary",
+      "english": "Where is House of Lords? 발음"
+    },
+    {
+      "korean": "Where am I? 발음듣기 여기가 어디지? Neungyule",
+      "english": "Where am I? 발음"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "조립",
+      "hanja": " (組立)",
+      "example": {},
+      "meanings": [
+        "assembly, assembling, assemble, put[fit, piece] (sth) together"
+      ]
+    },
+    {
+      "phrase": "부품을 조립하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "assemble parts into a complete whole"
+      ]
+    },
+    {
+      "phrase": "기계를 조립하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "assemble a machine",
+        "put together a machine"
+      ]
+    },
+    {
+      "phrase": "조립 공장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an assembly plant"
+      ]
+    },
+    {
+      "phrase": "조립 건축물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a set[prefab] building"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "assembly",
+      "frequency": 3
+    },
+    {
+      "meaning": "makeup",
+      "frequency": 3
+    },
+    {
+      "meaning": "composing",
+      "frequency": 0
+    },
+    {
+      "meaning": "fabrication",
+      "frequency": 0
+    },
+    {
+      "meaning": "cannibalization",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "레고 조립하기가 최근에 생긴 취미인 것 같아요. LEGO is my new hobby. 듣기 View video Dispatch : [ⓓxV] \"귀여운 고먐미 강다니엘 미니 인터뷰\" (강다니엘 : KANG DANIEL)",
+      "english": "LEGO is my new hobby."
+    },
+    {
+      "korean": "조립은 같이 했는데 형 안... 왔을 때 딩동... We did put it together, but... When it came, the doorbell... 듣기 View video NCT : 제목뭐라하지",
+      "english": "We did put it together, but... When it came, the doorbell..."
+    },
+    {
+      "korean": "바로 조립하나요? Do I make it right away? 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.16 JR의 왕 쿠폰 사용기 #1",
+      "english": "Do I make it right away?"
+    },
+    {
+      "korean": "형 형 조립 잘해요? Are you good at assembling? 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.16 JR의 왕 쿠폰 사용기 #1",
+      "english": "Are you good at assembling?"
+    },
+    {
+      "korean": "이거 조립해야 되는 거예요? I have to assemble this? 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.16 JR의 왕 쿠폰 사용기 #1",
+      "english": "I have to assemble this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a kit for a model plane 듣기 Add to Wordbook 모형 비행기 조립용품 세트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a kit for a model plane Add to Wordbook"
+    },
+    {
+      "korean": "prefabs built after the war 듣기 Add to Wordbook 전쟁 후에 지어진 조립식 건물들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "prefabs built after the war Add to Wordbook"
+    },
+    {
+      "korean": "cheap self-assembly kitchen units 듣기 Add to Wordbook 값싼 조립식 주방 설비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "cheap self-assembly kitchen units Add to Wordbook"
+    },
+    {
+      "korean": "The shelves are easy to assemble. 듣기 Add to Wordbook 그 선반들은 조립이 쉽다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shelves are easy to assemble. Add to Wordbook"
+    },
+    {
+      "korean": "He assembled the model aircraft bit by bit. 듣기 Add to Wordbook 그는 모형 비행기를 한 조각씩 조립했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He assembled the model aircraft bit by bit. Add to Wordbook"
+    }
+  ]
+}

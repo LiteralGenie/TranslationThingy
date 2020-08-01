@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "b",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[물리] bel(s), barn(s)"
+      ]
+    },
+    {
+      "phrase": "B",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비(영어 알파벳의 둘째 글자)",
+        "Noun 음악 ‘나’ 음(다장조의 제7음)",
+        "Symbol (영국의) B 도로"
+      ]
+    },
+    {
+      "phrase": "b.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Abbreviation (글에서) born"
+      ]
+    },
+    {
+      "phrase": "B",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[체스] bishop, [연필] black ((연필심의 검은 정도를 표시)), [화학] boron"
+      ]
+    },
+    {
+      "phrase": "B",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Symbol (순서·연속된 것의) 두번째, 둘째의 것.",
+        "Symbol (때로 b) (학업 성적의) B.",
+        "Symbol (때로 b) (두 학기제(制) 학년의) 제2학기."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "born",
+      "frequency": 3
+    },
+    {
+      "meaning": "homorganic",
+      "frequency": 0
+    },
+    {
+      "meaning": "lip consonant",
+      "frequency": 0
+    },
+    {
+      "meaning": "crystallographic axis",
+      "frequency": 0
+    },
+    {
+      "meaning": "ㅂ",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[한국 추워요?] 한국 춥냐고요? [THE B: Is it cold in Korea?] Korea? 듣기 View video V PICK! : [THE BOYZ] 치즈 콜렉터 째짜니 모짜렐라 치즈로 돌돌말아 둥가둥가 해버려🧀 (NEW eating cheese tteokbokki set)",
+      "english": "[THE B: Is it cold in Korea?] Korea?"
+    },
+    {
+      "korean": "[차니 옷 넘 귀엽당] 옷 귀엽다고요? [THE B: I like your outfit] You think it's cute? 듣기 View video V PICK! : [THE BOYZ] 치즈 콜렉터 째짜니 모짜렐라 치즈로 돌돌말아 둥가둥가 해버려🧀 (NEW eating cheese tteokbokki set)",
+      "english": "[THE B: I like your outfit] You think it's cute?"
+    },
+    {
+      "korean": "[거기 치즈볼도 맛있는데!] 어? 치즈볼도 맛있다고요? [THE B: Cheese balls are delicious, too] Cheese balls are delicious? 듣기 View video V PICK! : [THE BOYZ] 치즈 콜렉터 째짜니 모짜렐라 치즈로 돌돌말아 둥가둥가 해버려🧀 (NEW eating cheese tteokbokki set)",
+      "english": "[THE B: Cheese balls are delicious, too] Cheese balls are delicious?"
+    },
+    {
+      "korean": "[저 B는 발색 기능이 있대요] 쓱싹쓱싹 음파음파 우~ [That B has some color] Put some on and woo~ 듣기 View video 콬TV (WHYNOT) : 문예찬 얼굴보고 벽치다가 우리집 원룸 됨ㅋㅋ[리얼:타임:러브2] VLOG #발렌타인데이",
+      "english": "[That B has some color] Put some on and woo~"
+    },
+    {
+      "korean": "약 1,700만 명이 A형이고 다음으로 O, B, AB형으로... which is about 17 million people, followed by blood type O, B, and AB. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "which is about 17 million people, followed by blood type O, B, and AB."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I got B plus (B+) in the test. 듣기 Add to Wordbook 나는 그 테스트에서 B 플러스(B +)를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I got B plus (B+) in the test. Add to Wordbook"
+    },
+    {
+      "korean": "I got (a) B minus (B-) in the test. 듣기 Add to Wordbook 나는 그 시험에서 B 마이너스를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I got (a) B minus (B-) in the test. Add to Wordbook"
+    },
+    {
+      "korean": "If a=b and b=c it follows that a=c. 듣기 Add to Wordbook a =b이고 b =c이면 결과적으로 a =c이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If a=b and b=c it follows that a=c. Add to Wordbook"
+    },
+    {
+      "korean": "Let x be the sum of a and b. 듣기 Add to Wordbook a와 b의 합이 x라고 하자. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let x be the sum of a and b. Add to Wordbook"
+    },
+    {
+      "korean": "I was assigned to B platoon. 듣기 Add to Wordbook 나는 B 소대로 배치되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was assigned to B platoon. Add to Wordbook"
+    }
+  ]
+}

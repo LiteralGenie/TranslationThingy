@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "박해",
+      "hanja": " (迫害)",
+      "example": {},
+      "meanings": [
+        "[명사] persecution, oppression, [동사] persecute, oppress"
+      ]
+    },
+    {
+      "phrase": "박해를 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be persecuted",
+        "suffer persecution"
+      ]
+    },
+    {
+      "phrase": "격심한 박해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "intense[fierce] persecution"
+      ]
+    },
+    {
+      "phrase": "박해의 희생자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "victims of oppression"
+      ]
+    },
+    {
+      "phrase": "종교를 박해하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "persecute a religion"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "persecution",
+      "frequency": 3
+    },
+    {
+      "meaning": "(flee from) the wrath to come",
+      "frequency": 0
+    },
+    {
+      "meaning": "persecute",
+      "frequency": 3
+    },
+    {
+      "meaning": "dragonnade",
+      "frequency": 0
+    },
+    {
+      "meaning": "persecuted minorities",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "83점밖에 안 나왔네요. 여기 박해. Only 83 points? Too strict grading. 듣기 View video IDOL x IDOL : Man's Avenue - 맨스에비뉴 '노래방 대결!!'",
+      "english": "Only 83 points? Too strict grading."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Throughout history, people have been persecuted for their religious beliefs. 듣기 Add to Wordbook 역사를 통틀어 사람들은 종교적 신념 때문에 박해를 받아 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Throughout history, people have been persecuted for their religious beliefs. Add to Wordbook"
+    },
+    {
+      "korean": "the victims of religious persecution 듣기 Add to Wordbook 종교적 박해의 피해자들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the victims of religious persecution Add to Wordbook"
+    },
+    {
+      "korean": "to fear death / persecution / the unknown 듣기 Add to Wordbook 죽음/박해/미지의 세계를 두려워하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to fear death / persecution / the unknown Add to Wordbook"
+    },
+    {
+      "korean": "Iran is ranked No. 7 on the Open Doors 2013 WWL. 듣기 Add to Wordbook 이란은 오픈도어선교회의 2013 세계 기독교 박해 순위에서 7위에 올랐다. 국제영어대학원대학교 신어사전",
+      "english": "Iran is ranked No. 7 on the Open Doors 2013 WWL. Add to Wordbook"
+    },
+    {
+      "korean": "The persecutions flared up afresh. 듣기 Add to Wordbook 박해 사건들이 새롭게 다시 벌어졌다. Friendict Level English-Korean Dictionary",
+      "english": "The persecutions flared up afresh. Add to Wordbook"
+    }
+  ]
+}

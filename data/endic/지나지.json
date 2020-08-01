@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "지나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(시간이) pass, go by",
+        "(장소를) pass (by), go by",
+        "(때·시기 등이) be gone, be past; (예정일 등이) be overdue"
+      ]
+    },
+    {
+      "phrase": "지나지 아니하다[못하다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "not[be unable to] pass"
+      ]
+    },
+    {
+      "phrase": "명목에 지나지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be just nominal",
+        "be in name only"
+      ]
+    },
+    {
+      "phrase": "추측에 지나지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be mere guesswork"
+      ]
+    },
+    {
+      "phrase": "억측에 지나지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be a mere conjecture[guesswork]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "an illusory sense of freedom",
+      "frequency": 0
+    },
+    {
+      "meaning": "be a mere conjecture[guesswork]",
+      "frequency": 0
+    },
+    {
+      "meaning": "be mere guesswork",
+      "frequency": 0
+    },
+    {
+      "meaning": "be just nominal",
+      "frequency": 0
+    },
+    {
+      "meaning": "be in name only",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "밥 드실 시간 지나지 않았나요? Isn't it past meal time? 듣기 View video TOMORROW X TOGETHER : 해피벌쓰데이 범규❣🥰",
+      "english": "Isn't it past meal time?"
+    },
+    {
+      "korean": "지금 시간이 점심 먹을 시간은 지나지 않았을까요? It's time to eat lunch right now. Wouldn't it be over? 듣기 View video NU'EST : [NU’EST] 기습공격🙈🙉",
+      "english": "It's time to eat lunch right now. Wouldn't it be over?"
+    },
+    {
+      "korean": "근데 10초가 지나지 않았어요? Hasn't it been 10 seconds already? 듣기 View video BTS : BTS 꿀FM 06.13 : Comeback Special",
+      "english": "Hasn't it been 10 seconds already?"
+    },
+    {
+      "korean": "[아직 한 명도 지나지 않았는걸...] [No one's turn has passed yet...] View video MAMAMOO : [Special] 너나해 '음주 歌 마무' 시즌 2",
+      "english": "[No one's turn has passed yet...]"
+    },
+    {
+      "korean": "5분이 왜 이렇게 안 지나지? Why are the five minutes taking so long? 듣기 View video V COOKIE : [Full] TRCNG's SUMMER VACATION WEEK - TRCNG X 여름방학 스페셜위크",
+      "english": "Why are the five minutes taking so long?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The attainment of his ambitions was still a dream. 발음듣기 그의 야망을 달성하는 것은 아직도 꿈에 지나지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The attainment of his ambitions was still a dream. 발음"
+    },
+    {
+      "korean": "an illusory sense of freedom 발음듣기 환상에 지나지 않는 자유로움 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an illusory sense of freedom 발음"
+    },
+    {
+      "korean": "It was only a suggestion. 발음듣기 그것은 단지 하나의 제안에 지나지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was only a suggestion. 발음"
+    },
+    {
+      "korean": "Not long after that he resigned. 발음듣기 그 후 얼마 지나지 않아 그가 사임했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Not long after that he resigned. 발음"
+    },
+    {
+      "korean": "$1000 is a mere trifle to her. 발음듣기 천 달러는 그녀에게 하찮은 것에 지나지 않는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "$1000 is a mere trifle to her. 발음"
+    }
+  ]
+}

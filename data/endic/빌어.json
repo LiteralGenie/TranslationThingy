@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "빌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(잘못·용서 등을) beg (for), apologize, ask for",
+        "(행운·소원 등을) wish, pray"
+      ]
+    },
+    {
+      "phrase": "빌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(도움을 받거나 이용하다)",
+        "(거저 달라고 사정하다)",
+        "(인용하다)"
+      ]
+    },
+    {
+      "phrase": "빌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb → 22851빌리다"
+      ]
+    },
+    {
+      "phrase": "우리 모두 네 성공을 빌어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "We all wish you success."
+      ]
+    },
+    {
+      "phrase": "행운을 빌어요!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "축하와 기원 I wish you good luck.",
+        "축하와 기원 I'll keep my fingers crossed for you. Good luck!"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Bhil languages",
+      "frequency": 0
+    },
+    {
+      "meaning": "the best of luck (with something)",
+      "frequency": 0
+    },
+    {
+      "meaning": "break a leg!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Get well soon!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Wish me luck!",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어허, 어허, 행운을 빌어요!",
+      "english": "Uh-huh, uh-huh. Good luck!"
+    },
+    {
+      "korean": "우리 크리스마스 오기 전에 소원 하나씩 빌어볼까요?",
+      "english": "Shall we make a wish before Christmas comes?"
+    },
+    {
+      "korean": "[From.AFGAN] \"안녕하세요, 행운을 빌어주세요, 사랑해요!\"",
+      "english": "[From AFGAN] Hi guys, wish me luck! Love you all!\""
+    },
+    {
+      "korean": "일출 볼 때 소원을 빌어요?",
+      "english": "We make a wish when we watch the sunrise?"
+    },
+    {
+      "korean": "아니 왜 내 행복을 빌어주지 않는 거에요?",
+      "english": "Why aren't you praying for my happiness?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "자, 시작이야! 행운을 빌어 줘.",
+      "english": "Well, this is it! Wish me luck."
+    },
+    {
+      "korean": "바라시는 대로 다 이루시길 빌어요.",
+      "english": "We wish you every success."
+    },
+    {
+      "korean": "행운을 빌어 줘[잘 되길 기원해]!",
+      "english": "Keep your fingers crossed!"
+    },
+    {
+      "korean": "행운을 빌어. 내가 널 성원할게!",
+      "english": "Good luck—I’m rooting for you!"
+    },
+    {
+      "korean": "행운을 빌어요! 그 일이 잘되길 바래요.",
+      "english": "Good luck! I hope it goes well."
+    }
+  ]
+}

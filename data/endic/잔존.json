@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "잔존",
+      "hanja": " (殘存)",
+      "example": {},
+      "meanings": [
+        "survival, (잔류하다) 잔존하다 be left, remain"
+      ]
+    },
+    {
+      "phrase": "잔존하는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "surviving",
+        "extant"
+      ]
+    },
+    {
+      "phrase": "잔존 생물",
+      "hanja": " (殘存生物)",
+      "example": {},
+      "meanings": [
+        "a relict"
+      ]
+    },
+    {
+      "phrase": "잔존 동물",
+      "hanja": " (殘存動物)",
+      "example": {},
+      "meanings": [
+        "relic fauna"
+      ]
+    },
+    {
+      "phrase": "잔존 기관",
+      "hanja": " (殘存器官)",
+      "example": {},
+      "meanings": [
+        "a vestigial[residual, rudimentary] organ"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "survivorship",
+      "frequency": 0
+    },
+    {
+      "meaning": "retentio",
+      "frequency": 0
+    },
+    {
+      "meaning": "extant",
+      "frequency": 0
+    },
+    {
+      "meaning": "relict",
+      "frequency": 0
+    },
+    {
+      "meaning": "extant remains of the ancient wall",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "extant remains of the ancient wall 듣기 Add to Wordbook 그 고대 성벽의 잔존하는 유적 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "extant remains of the ancient wall Add to Wordbook"
+    },
+    {
+      "korean": "The building stands as the last remaining relic of the town’s cotton industry. 듣기 Add to Wordbook 그 건물은 그 소도시의 면직물 산업이 남긴 마지막 잔존 유물로 서 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The building stands as the last remaining relic of the town’s cotton industry. Add to Wordbook"
+    },
+    {
+      "korean": "They also found that some of the sculptures retained some remnants of color up until the early 19th century. 듣기 Add to Wordbook 또한 그들은 조각상 중에 어떤 것들은 색깔의 잔존물을 19세기 초까지 갖고 있었다는 것을 발견했다. Neungyule",
+      "english": "They also found that some of the sculptures retained some remnants of color up until the early 19th century. Add to Wordbook"
+    },
+    {
+      "korean": "In addition, Korea is a country of rumors, another shameful remnant from its long experience of colonization and dictatorship. 듣기 Add to Wordbook 게다가 한국은 소문의 나라인데, 이것은 식민지화와 독재권력의 오랜 경험에서 비롯된 또 하나의 수치스러운 잔존물이다. Neungyule",
+      "english": "In addition, Korea is a country of rumors, another shameful remnant from its long experience of colonization and dictatorship. Add to Wordbook"
+    },
+    {
+      "korean": "He now must consolidate his position in Serbia and deal with the lingering threat from Milosevic. 듣기 Add to Wordbook 그는 지금 세르비아에서 자신의 입지를 다져야 하고 밀로셰비치의 잔존 세력의 위협에 대처해야만 한다. YBM All in All English-Korean Dictionary",
+      "english": "He now must consolidate his position in Serbia and deal with the lingering threat from Milosevic. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "강습",
+      "hanja": " (講習)",
+      "example": {},
+      "meanings": [
+        "lesson, class, course, training"
+      ]
+    },
+    {
+      "phrase": "강습",
+      "hanja": " (強襲)",
+      "example": {},
+      "meanings": [
+        "Noun surprise attack"
+      ]
+    },
+    {
+      "phrase": "강습(하다)",
+      "hanja": " (强襲 ~)",
+      "example": {},
+      "meanings": [
+        "군사 strike, assault"
+      ]
+    },
+    {
+      "phrase": "강습을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take a course (in/on)",
+        "take lessons (in/on)",
+        "take a class"
+      ]
+    },
+    {
+      "phrase": "스키 강습",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a ski(ing) lesson"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "clinic",
+      "frequency": 1
+    },
+    {
+      "meaning": "brash",
+      "frequency": 0
+    },
+    {
+      "meaning": "violent assault",
+      "frequency": 0
+    },
+    {
+      "meaning": "Hardhitting tank-airplane forces",
+      "frequency": 0
+    },
+    {
+      "meaning": "a pottery class",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "실뜨기 강습을 한번... I'll give you a class. 듣기 View video DIA : [DIA] 다이아 돌잔치",
+      "english": "I'll give you a class."
+    },
+    {
+      "korean": "뷰러 강습이 있겠어요. This is a lesson on how to use eyelash curlers. 듣기 View video ASTRO : [ASTRO PLAY] 쉬는 시간",
+      "english": "This is a lesson on how to use eyelash curlers."
+    },
+    {
+      "korean": "'메이크업 강습' - 그래서 재미있습니다. \"Makeup lesson\". - Anyways, it's fun. 듣기 View video EXID : 후쿠오카에서 감동 받은 EXID",
+      "english": "\"Makeup lesson\". - Anyways, it's fun."
+    },
+    {
+      "korean": "보컬 강습 받았을 때 - 그거 아직 날... The one where you gave a vocal lesson. - You know... 듣기 View video BTOB : [REPLAY] 2017 GLOBAL V LIVE TOP10 - BTOB",
+      "english": "The one where you gave a vocal lesson. - You know..."
+    },
+    {
+      "korean": "제가 그 때 일훈이랑 노래 강습했잖아요? Remember the singing lesson I gave with IL-HOON before? 듣기 View video BTOB : 은광이 깜짝 V!!!!",
+      "english": "Remember the singing lesson I gave with IL-HOON before?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a coaching clinic for young tennis players 발음듣기 어린 테니스 선수들을 위한 특별 강습 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a coaching clinic for young tennis players 발음"
+    },
+    {
+      "korean": "to scrape/scratch a living from part-time tutoring 발음듣기 시간제 강습으로 근근이 벌어먹고 살다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to scrape/scratch a living from part-time tutoring 발음"
+    },
+    {
+      "korean": "The antenatal clinic is on Wednesdays. 발음듣기 태교 강습은 수요일에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The antenatal clinic is on Wednesdays. 발음"
+    },
+    {
+      "korean": "a skiing holiday/instructor/lesson/vacation, etc. 발음듣기 스키 휴가/강사/강습/휴가 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a skiing holiday/instructor/lesson/vacation, etc. 발음"
+    },
+    {
+      "korean": "I am taking dancercise class these days. 발음듣기 난 요즘 댄서사이즈 강습받아. 국제영어대학원대학교 신어사전",
+      "english": "I am taking dancercise class these days. 발음"
+    }
+  ]
+}

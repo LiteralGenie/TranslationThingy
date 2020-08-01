@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "-짜리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(가치) worth, value",
+        "(분량) amount",
+        "(나이) a ((two-))year-old"
+      ]
+    },
+    {
+      "phrase": "10원 짜리 동전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a ten-won coin[piece]"
+      ]
+    },
+    {
+      "phrase": "3학점짜리 수업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a 3-credit class"
+      ]
+    },
+    {
+      "phrase": "100촉광짜리 전구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a 100 candlepower bulb"
+      ]
+    },
+    {
+      "phrase": "그 영화는 90분 짜리이다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The film is 90 minutes long."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "halfpenny",
+      "frequency": 0
+    },
+    {
+      "meaning": "sixpence",
+      "frequency": 3
+    },
+    {
+      "meaning": "dime",
+      "frequency": 3
+    },
+    {
+      "meaning": "twopenny",
+      "frequency": 3
+    },
+    {
+      "meaning": "ten pence",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "300초 짜리 5분 영상? 5 minute video? 듣기 View video World Klass (월드 클래스) : ⛹️‍♂️ 굴려라~ 굴려라~ 굴렁쇠즈! ♾",
+      "english": "5 minute video?"
+    },
+    {
+      "korean": "레벨 100짜리 캐릭터가 던전... 뭐라 해야 되지? A level 100 character... How should I say this? 듣기 View video TOMORROW X TOGETHER : 게임의 정석",
+      "english": "A level 100 character... How should I say this?"
+    },
+    {
+      "korean": "다리에 진짜 한 3kg짜리 아령을 붙이고 뛰는 느낌? I felt like there was 3kg weights on my legs? 듣기 View video OH MY GIRL : 미라클모여라❤️",
+      "english": "I felt like there was 3kg weights on my legs?"
+    },
+    {
+      "korean": "고고고! - 갈게요! - 7점 짜리예요? Go go go! - Okay! - 7 points? 듣기 View video BTS : Run BTS! 2019 - EP.83",
+      "english": "Go go go! - Okay! - 7 points?"
+    },
+    {
+      "korean": "제가 2년 짜리 식사 쿠폰 드릴게요. I'll give you a 2 year meal coupon. 듣기 View video 모비딕(Mobidic) : 코 끝에서 단전까지 치고 올라오는 매운 맛! 디진다 돈까스 <유아인싸> 11회",
+      "english": "I'll give you a 2 year meal coupon."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Have you got a 50p? 듣기 Add to Wordbook 50펜스짜리 동전 하나 있니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you got a 50p? Add to Wordbook"
+    },
+    {
+      "korean": "Do you have these shoes in (a) size 5? 듣기 Add to Wordbook 이 신발로 5사이즈짜리 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you have these shoes in (a) size 5? Add to Wordbook"
+    },
+    {
+      "korean": "to change a dollar bill for four quarters 듣기 Add to Wordbook 1달러짜리 지폐를 25센트짜리 동전 4개로 바꾸다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to change a dollar bill for four quarters Add to Wordbook"
+    },
+    {
+      "korean": "Have you got a ten pence piece? 듣기 Add to Wordbook 10펜스짜리 동전 하나 있니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you got a ten pence piece? Add to Wordbook"
+    },
+    {
+      "korean": "He had a few pennies in his pocket. 듣기 Add to Wordbook 그는 호주머니에 1페니짜리 동전이 몇 개 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had a few pennies in his pocket. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "이건 어떻게 된 거야?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What happened to this?"
+      ]
+    },
+    {
+      "phrase": "당신 기억력 어떻게 된 거예요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What happened to your memory?"
+      ]
+    },
+    {
+      "phrase": "어쩌다가 그렇게 된 거야?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "병원에서 How did you hurt yourself?"
+      ]
+    },
+    {
+      "phrase": "어떻게 된 건지 알겠지?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 도중 You know now what really happened?",
+        "대화 도중 Do you get how it happened?"
+      ]
+    },
+    {
+      "phrase": "당신 차 앞 유리가 어떻게 된 거예요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "자동차 점검 What happened to your windshield?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "What's gotten into your head?",
+      "frequency": 0
+    },
+    {
+      "meaning": "What the deuce is that?",
+      "frequency": 0
+    },
+    {
+      "meaning": "What the dickens (is it)?",
+      "frequency": 0
+    },
+    {
+      "meaning": "do you[d'you] know",
+      "frequency": 0
+    },
+    {
+      "meaning": "What's happening?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "된 거예요?",
+      "english": "Is it on now?"
+    },
+    {
+      "korean": "된 건가? 왜 난 안 떠?",
+      "english": "Is it on? Why can't I see it?"
+    },
+    {
+      "korean": "이왕 이렇게 된 거 먹방 콘텐츠로 그냥 바꿔버릴까?",
+      "english": "Should we just turn it into an eating show?"
+    },
+    {
+      "korean": "재밌었겠어요 - 결국 확정된 게 이제 음원으로 된 건가요?",
+      "english": "Sounds fun? - So the final version is the track?"
+    },
+    {
+      "korean": "된 건가?",
+      "english": "Is it OK?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "이 음흉한 늙은 악마 같으니라구! 당신은 안 지 얼마나 된 거야?",
+      "english": "You sly old devil! How long have you known?"
+    },
+    {
+      "korean": "당신 차가 어떻게 된 거예요?",
+      "english": "What’s happened to your car?"
+    },
+    {
+      "korean": "뭐, 그렇담 내 휴가 계획은 엉망이 된 거로군!",
+      "english": "Well, that’s my holiday plans gone up the spout!"
+    },
+    {
+      "korean": "난 동정 안 해. 네가 그리 된 건 모두 자업자득이니까.",
+      "english": "I have no sympathy—you brought it all on yourself."
+    },
+    {
+      "korean": "당신은 그 직장에 취직이 된 거예요. 면접은 한낱 요식일 뿐이에요.",
+      "english": "You’ve got the job. The interview will be a mere formality."
+    }
+  ]
+}

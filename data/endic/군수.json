@@ -1,0 +1,100 @@
+{
+  "phrases": [
+    {
+      "phrase": "군수",
+      "hanja": " (軍需)",
+      "example": {},
+      "meanings": [
+        "(군사 물자)"
+      ]
+    },
+    {
+      "phrase": "군수",
+      "hanja": " (郡守)",
+      "example": {},
+      "meanings": [
+        "(county) governor"
+      ]
+    },
+    {
+      "phrase": "군수산업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "munitions[war, military] industry"
+      ]
+    },
+    {
+      "phrase": "군수 공장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "munitions[armaments] factory[works, plant]"
+      ]
+    },
+    {
+      "phrase": "군수 공업가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a munitions manufacturer",
+        "a war industrialist",
+        "a merchant of death"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mayor",
+      "frequency": 2
+    },
+    {
+      "meaning": "war machine",
+      "frequency": 0
+    },
+    {
+      "meaning": "subprefect",
+      "frequency": 0
+    },
+    {
+      "meaning": "sea-lemon",
+      "frequency": 0
+    },
+    {
+      "meaning": "the head of a Gun",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저희 군수님이 준비해 주신 버섯을... Now here are the mushrooms the governor gave us. 듣기 View video 썬파워 크리에이티브 : 통하는 여행 경남 하동편 4화",
+      "english": "Now here are the mushrooms the governor gave us."
+    },
+    {
+      "korean": "군수님을 개인적으로 또 안단 말이야 - 진짜요? I know the town leader personally. - Really? 듣기 View video 썬파워 크리에이티브 : 통하는 여행 경남 하동편 1화",
+      "english": "I know the town leader personally. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a shortage of munitions 발음듣기 군수품 부족 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a shortage of munitions 발음"
+    },
+    {
+      "korean": "The war languished for lack of supplies. 발음듣기 군수품 부족 때문에 전쟁이 소강상태에 들어갔다. Friendict Level English-Korean Dictionary",
+      "english": "The war languished for lack of supplies. 발음"
+    },
+    {
+      "korean": "The military maintains arsenals all over the country. 발음듣기 군은 전국에 걸쳐 군수 창고를 유지하고 있다. Neungyule",
+      "english": "The military maintains arsenals all over the country. 발음"
+    },
+    {
+      "korean": "The deal includes a munitions package and logistical support for the planes. 발음듣기 전투기들에 대한 군수품들과 병참학적 지원 역시 이번 협상에 포함됩니다. YBM All in All English-Korean Dictionary",
+      "english": "The deal includes a munitions package and logistical support for the planes. 발음"
+    },
+    {
+      "korean": "And private U.S. companies will be able to compete for contracts to sell the F-16 fighter jets to India. 발음듣기 그래서 앞으로 미국의 민간 군수업체들은 F-16 전투기를 인도에 수출하기 위한 수주 경쟁을 할 수 있게 되었습니다. YBM All in All English-Korean Dictionary",
+      "english": "And private U.S. companies will be able to compete for contracts to sell the F-16 fighter jets to India. 발음"
+    }
+  ]
+}

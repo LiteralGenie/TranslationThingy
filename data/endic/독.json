@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "독",
+      "hanja": " (毒)",
+      "example": {},
+      "meanings": [
+        "(해로운 물질) poison, (뱀의) venom",
+        "(독기)"
+      ]
+    },
+    {
+      "phrase": "독",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(항아리) jar",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "독-",
+      "hanja": " (獨)",
+      "example": {},
+      "meanings": [
+        "Affix dok-"
+      ]
+    },
+    {
+      "phrase": "dock",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 부두, 선창 (→dry dock)",
+        "Noun (항구에서 선박 수리물품 보관 등을 위한) 독, 선거(船渠)",
+        "Verb (배를) 부두에 대다"
+      ]
+    },
+    {
+      "phrase": "dork",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비격식 (다른 사람의 비웃음을 받는) 얼간이"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "poison",
+      "frequency": 3
+    },
+    {
+      "meaning": "dock 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "dock",
+      "frequency": 3
+    },
+    {
+      "meaning": "venom",
+      "frequency": 3
+    },
+    {
+      "meaning": "earthenware pot",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[악독][그냥 독] - 55! - 자 20! [Evil][More evil] - 55dB! - 20dB! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Evil][More evil] - 55dB! - 20dB!"
+    },
+    {
+      "korean": "세븐틴 선배님들의 '독'을... - '독'? SEVENTEEN's \"Fear\"... - \"Fear\"? 듣기 View video TWICE : 모챙TV🍑🍓",
+      "english": "SEVENTEEN's \"Fear\"... - \"Fear\"?"
+    },
+    {
+      "korean": "['독' 못 맞힌 애] 야 '독' 못 맞힌 애보단 낫지 않냐? [The one who did not notice \"Fear\"] Hey, I am better than the one who did not notice \"Fear\". 듣기 View video Dispatch : [ⓓxV] “도전! 셉마인드 ②” (세븐틴 : SEVENTEEN)",
+      "english": "[The one who did not notice \"Fear\"] Hey, I am better than the one who did not notice \"Fear\"."
+    },
+    {
+      "korean": "독 있어? Is it poisoned? 듣기 View video GOT7 : [ GOT7NOW ] 맠녕뱀 라이브💚",
+      "english": "Is it poisoned?"
+    },
+    {
+      "korean": "독이 포이즌 맞나? Is it poison? 듣기 View video BTS : BTS Live : 행복한 시간 후 여유로운 한잔🍷",
+      "english": "Is it poison?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "equipment that senses the presence of toxic gases 듣기 Add to Wordbook 독가스의 존재를 탐지하는 장비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "equipment that senses the presence of toxic gases Add to Wordbook"
+    },
+    {
+      "korean": "Venomous snakes spit and hiss when they are cornered. 듣기 Add to Wordbook 독이 있는 뱀[독사]들은 궁지에 몰리면 쉬쉬거리며 위협적인 소리를 낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Venomous snakes spit and hiss when they are cornered. Add to Wordbook"
+    },
+    {
+      "korean": "an improvement in Anglo-German relations 듣기 Add to Wordbook 영-독 관계 개선 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an improvement in Anglo-German relations Add to Wordbook"
+    },
+    {
+      "korean": "poisonous chemicals / plants 듣기 Add to Wordbook 유독 화학 물질/독이 있는 식물 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "poisonous chemicals / plants Add to Wordbook"
+    },
+    {
+      "korean": "Some mushrooms contain a deadly poison. 듣기 Add to Wordbook 일부 버섯에는 치명적인 독이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some mushrooms contain a deadly poison. Add to Wordbook"
+    }
+  ]
+}

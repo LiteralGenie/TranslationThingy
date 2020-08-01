@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "그만 둬!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Cut it off!"
+      ]
+    },
+    {
+      "phrase": "내버려 둬.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Give me a break."
+      ]
+    },
+    {
+      "phrase": "그 사람 가만 내버려 둬.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Don't bother him."
+      ]
+    },
+    {
+      "phrase": "나중에 치약 사다 둬.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "아침의 행동을 나타내는 표현 Buy some toothpaste later, will you?"
+      ]
+    },
+    {
+      "phrase": "날 좀 내버려둬",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "let me alone"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "give it a rest",
+      "frequency": 0
+    },
+    {
+      "meaning": "Kindly leave me alone!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Leave him to stew.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Let it lie.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Mind (you)!",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어차피 우리 분식밖에 없으니깐 많이들 마셔둬요... We'll have to eat snacks anyway, so drink a lot... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "We'll have to eat snacks anyway, so drink a lot..."
+    },
+    {
+      "korean": "[케이크는 그만 넣어둬] - 케이크 아니야 - 재혁! [Stop talking about a cake] - It's not included. - JAE HYUK! 듣기 View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[Stop talking about a cake] - It's not included. - JAE HYUK!"
+    },
+    {
+      "korean": "[가만 안 둬...] 빠! 빠! 빠! [I hate you] Ba! Ba! Ba! 듣기 View video World Klass (월드 클래스) : [1회] '스케일 레전드' 방배정을 위한 역대급 사다리게임",
+      "english": "[I hate you] Ba! Ba! Ba!"
+    },
+    {
+      "korean": "왜 훈수 둬? - 갑자기요? Why give tips? - All of a sudden?? 듣기 View video VICTON : 깜짝부이앱",
+      "english": "Why give tips? - All of a sudden??"
+    },
+    {
+      "korean": "얼려둔 귤 까먹는대 우와! 귤을 얼려둬? Eat frozen tangerine. Wow, do you freeze the tangerine? 듣기 View video TWICE : 원쓰으응",
+      "english": "Eat frozen tangerine. Wow, do you freeze the tangerine?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Please keep a seat for me. 듣기 Add to Wordbook 내 자리 꼭 남겨 둬요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please keep a seat for me. Add to Wordbook"
+    },
+    {
+      "korean": "Kindly leave me alone! 듣기 Add to Wordbook 나를 좀 내버려 둬! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Kindly leave me alone! Add to Wordbook"
+    },
+    {
+      "korean": "Please keep me a seat. 듣기 Add to Wordbook 내 자리 꼭 남겨 둬요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please keep me a seat. Add to Wordbook"
+    },
+    {
+      "korean": "Leave him to stew. 듣기 Add to Wordbook 그가 마음을 졸이게 내버려 둬. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Leave him to stew. Add to Wordbook"
+    },
+    {
+      "korean": "Put it on my account please. 듣기 Add to Wordbook 그거 내 거래 장부에 달아 둬요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Put it on my account please. Add to Wordbook"
+    }
+  ]
+}

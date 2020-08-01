@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "떨어지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(밑으로) fall, drop, (액체가) drip, (지니고 있던 것이) slip",
+        "(가격·물가·수준 등이) fall, drop, go[come] down, decline, decrease",
+        "depreciate, (가치·품질 등이) (formal) be debased"
+      ]
+    },
+    {
+      "phrase": "멀리 떨어진 곳에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a long way away[off]",
+        "far away (from)",
+        "at a long[great] distance"
+      ]
+    },
+    {
+      "phrase": "떨어진 옷",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seedy[ragged, worn-out, threadbare] clothes"
+      ]
+    },
+    {
+      "phrase": "뭍에서 멀리 떨어진",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "far off the coast",
+        "far away from land"
+      ]
+    },
+    {
+      "phrase": "젖 떨어진 아이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a weaned child",
+        "a weanling"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fallen",
+      "frequency": 3
+    },
+    {
+      "meaning": "removed",
+      "frequency": 3
+    },
+    {
+      "meaning": "flat 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "unstuck",
+      "frequency": 0
+    },
+    {
+      "meaning": "off-site",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무슨 감이 떨어진 걸까요? What sense have we lost? 듣기 View video iKON : live",
+      "english": "What sense have we lost?"
+    },
+    {
+      "korean": "꼼수 대마왕 - 땅에 떨어진 거 잡는 건 괜찮대! He's the king of cheating. - You can pick it up from the ground. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "He's the king of cheating. - You can pick it up from the ground."
+    },
+    {
+      "korean": "연준이 형 떨어진 거야? Did YEONJUN fall down from there? 듣기 View video TOMORROW X TOGETHER : TALK X TODAY : Season2 EP.7",
+      "english": "Did YEONJUN fall down from there?"
+    },
+    {
+      "korean": "떨어진 느낌으로! - 태용 씨는? I fell! - What about you, TAEYONG? 듣기 View video Dispatch : [ⓓxV] “제티로그1편” (종현 : 태용)",
+      "english": "I fell! - What about you, TAEYONG?"
+    },
+    {
+      "korean": "우와! 방울 떨어졌어 - 물 떨어진 거야? Wow. I got a drop of water. - Water drop? 듣기 View video GOT7 : [FULL] GOT7 SHOWCASE",
+      "english": "Wow. I got a drop of water. - Water drop?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "My name had been dragged through the mire. 듣기 Add to Wordbook 내 이름[평판]은 진흙탕에 굴러 떨어진 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My name had been dragged through the mire. Add to Wordbook"
+    },
+    {
+      "korean": "the part of the garden farthest from the house 듣기 Add to Wordbook 그 정원에서 집으로부터 가장 멀리 떨어진 쪽 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the part of the garden farthest from the house Add to Wordbook"
+    },
+    {
+      "korean": "She bent to retrieve her comb from the floor. 듣기 Add to Wordbook 그녀가 바닥에 떨어진 빗을 주우려고 몸을 숙였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She bent to retrieve her comb from the floor. Add to Wordbook"
+    },
+    {
+      "korean": "The plane hit the ocean several miles offshore. 듣기 Add to Wordbook 그 비행기는 육지에서 몇 마일 떨어진 근해 바다로 추락했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plane hit the ocean several miles offshore. Add to Wordbook"
+    },
+    {
+      "korean": "A robin was pecking at crumbs on the ground. 듣기 Add to Wordbook 로빈새 한 마리가 땅바닥에 떨어진 빵 부스러기를 쪼아 먹고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A robin was pecking at crumbs on the ground. Add to Wordbook"
+    }
+  ]
+}

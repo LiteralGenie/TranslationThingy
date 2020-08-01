@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "면",
+      "hanja": " (面)",
+      "example": {},
+      "meanings": [
+        "(입체의 면) face, side",
+        "(산·땅·벽 등의) face, side",
+        "(측면) side, facet, aspect, respect"
+      ]
+    },
+    {
+      "phrase": "면",
+      "hanja": " (綿)",
+      "example": {},
+      "meanings": [
+        "(직물) cotton"
+      ]
+    },
+    {
+      "phrase": "면",
+      "hanja": " (麵/麪)",
+      "example": {},
+      "meanings": [
+        "(국수) noodle"
+      ]
+    },
+    {
+      "phrase": "끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(마지막) end, finish, close",
+        "end, (물체·장소 등의 끝 부분) tip; (뾰족한 물체의) point; (가장자리) edge",
+        "('~ 끝에'의 형태로 쓰여)"
+      ]
+    },
+    {
+      "phrase": "면",
+      "hanja": " (面)",
+      "example": {},
+      "meanings": [
+        "(행정구역) myeon (as a subdivision of a gun), township"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "side",
+      "frequency": 2
+    },
+    {
+      "meaning": "end-to-end",
+      "frequency": 0
+    },
+    {
+      "meaning": "soffit",
+      "frequency": 0
+    },
+    {
+      "meaning": "truncated",
+      "frequency": 0
+    },
+    {
+      "meaning": "shot-peen",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "전 이것만 먹으면 면 끝이에요 - 다 먹는 거거든요? If I finish this, I'm done. - You have to eat it all. 듣기 View video V PICK! : [ASTRO] 🍜점보라멘에 도전하는 점보큐티ㅠ 점보깜찍ㅠ 단단즈ㅠ (MJ&JINJIN’s jumbo ramen challenge)",
+      "english": "If I finish this, I'm done. - You have to eat it all."
+    },
+    {
+      "korean": "[기다리고 기다리던 끝에 면 투하] 타임워치! [Finally putting in the noodles after a long wait] Time watch! 듣기 View video BTS : Run BTS! 2019 - EP.58",
+      "english": "[Finally putting in the noodles after a long wait] Time watch!"
+    },
+    {
+      "korean": "이제 면 삶고 넣으면 끝인 건가요? - 네 맞아요. Are we done after we cook the noodles and put it in? - Yeah. 듣기 View video V COOKIE : [Full]YDPP X Calling Recipe - YDPP X 부재중레시피",
+      "english": "Are we done after we cook the noodles and put it in? - Yeah."
+    },
+    {
+      "korean": "면이 다 익어서. -피오 형, 더 어색하게 저쪽 끝에 있었어요. Noodles are cooked. - P.O looked so awkward, standing there. 듣기 View video Block B : 블락비 바스타즈의 심야식당",
+      "english": "Noodles are cooked. - P.O looked so awkward, standing there."
+    },
+    {
+      "korean": "그게 끝이야? 외모 이런 거 없어? 아무것도 없고 그냥 참한 여자면 돼? That's it? Nothing about appearance? They just need to be nice? 듣기 View video INFINITE : 이번생일이 젤루행복해연 으해햏 감사의 마음~.~",
+      "english": "That's it? Nothing about appearance? They just need to be nice?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Our superpower days would then be over. 발음듣기 우리가 초강대국인 시절도 그때면 끝이겠지. User translation Inaccurate information may be included due to the users' self-traslation. Jessie(mine****) Web Collection",
+      "english": "Our superpower days would then be over. 발음"
+    },
+    {
+      "korean": "Tie up one end firmly with cotton string. 발음듣기 한 쪽 끝을 면 실로 단단히 묶어라. User translation Inaccurate information may be included due to the users' self-traslation. 무튼(nanj****) Web Collection",
+      "english": "Tie up one end firmly with cotton string. 발음"
+    },
+    {
+      "korean": "They are mostly hexagonal, or six-sided like the end of a brand new pencil. 발음듣기 그것들은 일반적으로 새 연필의 끝처럼 6면으로 되어 있는 육각형입니다. TIMES CORE",
+      "english": "They are mostly hexagonal, or six-sided like the end of a brand new pencil. 발음"
+    },
+    {
+      "korean": "Cut a small hole near the edge of each side. 발음듣기 각 면의 끝 부분에 작은 구멍을 뚫는다. Neungyule",
+      "english": "Cut a small hole near the edge of each side. 발음"
+    },
+    {
+      "korean": "students at opposite ends of the ability range 발음듣기 능력 분포 면에서 서로 정반대 끝에 있는 학생들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "students at opposite ends of the ability range 발음"
+    }
+  ]
+}

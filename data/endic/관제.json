@@ -1,0 +1,92 @@
+{
+  "phrases": [
+    {
+      "phrase": "관제",
+      "hanja": " (管制)",
+      "example": {},
+      "meanings": [
+        "control"
+      ]
+    },
+    {
+      "phrase": "관제",
+      "hanja": " (官制)",
+      "example": {},
+      "meanings": [
+        "Noun administrative law"
+      ]
+    },
+    {
+      "phrase": "관제의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "government-manufactured[-made]",
+        "of government manufacture[make]",
+        "made[manufactured] by the government"
+      ]
+    },
+    {
+      "phrase": "보도 관제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "news blackout",
+        "news censorship"
+      ]
+    },
+    {
+      "phrase": "관제엽서",
+      "hanja": " (官製葉書)",
+      "example": {},
+      "meanings": [
+        "government postcard"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "controlment",
+      "frequency": 0
+    },
+    {
+      "meaning": "station-year",
+      "frequency": 0
+    },
+    {
+      "meaning": "air traffic control",
+      "frequency": 0
+    },
+    {
+      "meaning": "flight control",
+      "frequency": 0
+    },
+    {
+      "meaning": "noise control",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Air traffic controllers are threatening to come out on/go on strike. 듣기 Add to Wordbook 항공 관제사들이 파업에 들어가겠다고 협박하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Air traffic controllers are threatening to come out on/go on strike. Add to Wordbook"
+    },
+    {
+      "korean": "The pilot was given clearance to land by air traffic control. 듣기 Add to Wordbook 그 조종사는 항공 교통 관제소로부터 착륙 허가를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pilot was given clearance to land by air traffic control. Add to Wordbook"
+    },
+    {
+      "korean": "The sound of siren announced blackout. 듣기 Add to Wordbook 사이렌 소리가 등화 관제를 알렸다. YBM All in All English-Korean Dictionary",
+      "english": "The sound of siren announced blackout. Add to Wordbook"
+    },
+    {
+      "korean": "No air traffic controller in the world could keep that many planes safe in such a small area. 듣기 Add to Wordbook 세계의 어느 항공 관제사라고 해도 이처럼 좁은지역에 그렇게 많은 비행기들을 안전하게 띄우지는 못할 것입니다. YBM All in All English-Korean Dictionary",
+      "english": "No air traffic controller in the world could keep that many planes safe in such a small area. Add to Wordbook"
+    },
+    {
+      "korean": "This airport has excellent flight control facilities. 듣기 Add to Wordbook 이 공항에는 훌륭한 항공 관제 설비가 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "This airport has excellent flight control facilities. Add to Wordbook"
+    }
+  ]
+}

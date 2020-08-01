@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "누구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(의문문에 쓰여) (주격) who, (목적격) whom, (소유격) whose",
+        "somebody, (불특정 인물) someone, anybody, anyone, everybody, everyone, (부정문에 쓰여) no one, nobody",
+        "(나) I"
+      ]
+    },
+    {
+      "phrase": "누구 할 것 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regardless of anyone"
+      ]
+    },
+    {
+      "phrase": "누구 입에 붙이겠는가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "To whose lip is it attached?"
+      ]
+    },
+    {
+      "phrase": "누구를 막론하고[물론하고]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regardless of anyone"
+      ]
+    },
+    {
+      "phrase": "누구 코에 바르겠는가[붙이겠는가]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "To whose lip is it attached?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "who",
+      "frequency": 3
+    },
+    {
+      "meaning": "anyone",
+      "frequency": 3
+    },
+    {
+      "meaning": "someone",
+      "frequency": 3
+    },
+    {
+      "meaning": "Seconds, anybody?",
+      "frequency": 0
+    },
+    {
+      "meaning": "the next man[woman, person]",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "누구? You love who? 듣기 View video NCT : 19",
+      "english": "You love who?"
+    },
+    {
+      "korean": "\"누구?\" \"Who is this\"? 듣기 View video NCT : 자기전에 부이앱💚💚💚",
+      "english": "\"Who is this\"?"
+    },
+    {
+      "korean": "누구요? Who is it? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "Who is it?"
+    },
+    {
+      "korean": "누구예요? Who is it? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Who is it?"
+    },
+    {
+      "korean": "누구야 얘? Who is this? 듣기 View video OSEN : PENTAGON 펜타곤, 우당탕탕 'Dr.베베' 댄스 챌린지 #스타로드 01",
+      "english": "Who is this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I felt a tug at my sleeve. 듣기 Add to Wordbook (누군가가) 내 소매를 잡아당기는 게 느껴졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I felt a tug at my sleeve. Add to Wordbook"
+    },
+    {
+      "korean": "No one sings the blues like she did. 듣기 Add to Wordbook 어느 누구도 그녀(가 그랬던 것)처럼 블루스를 부르지는 못해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No one sings the blues like she did. Add to Wordbook"
+    },
+    {
+      "korean": "Someone had slashed the tyres on my car. 듣기 Add to Wordbook 누군가가 내 차 타이어를 그어 놓은 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Someone had slashed the tyres on my car. Add to Wordbook"
+    },
+    {
+      "korean": "There was someone skulking behind the bushes. 듣기 Add to Wordbook 덤불 뒤에 누군가가 몰래 숨어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was someone skulking behind the bushes. Add to Wordbook"
+    },
+    {
+      "korean": "Woe betide anyone who gets in her way! 듣기 Add to Wordbook 그녀에게 방해가 되는 사람은 누구든 화를 당할지니라! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Woe betide anyone who gets in her way! Add to Wordbook"
+    }
+  ]
+}

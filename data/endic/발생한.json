@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "발생하다",
+      "hanja": " (發生하다)",
+      "example": {},
+      "meanings": [
+        "Verb occur, generate"
+      ]
+    },
+    {
+      "phrase": "발생",
+      "hanja": " (發生)",
+      "example": {},
+      "meanings": [
+        "[명사] (사건 등의) occurrence; (전쟁·질병 등의) outbreak; (생명체 등의) (formal) genesis [동사] (사건 등이) occur, happen, arise, come about, take place; (전쟁·질병 등이) break out; (효력 등이) take effect, come into force"
+      ]
+    },
+    {
+      "phrase": "자연 발생",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "spontaneous generation"
+      ]
+    },
+    {
+      "phrase": "효력을 발생하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become effective",
+        "come into effect[force, operation, validity]",
+        "take effect"
+      ]
+    },
+    {
+      "phrase": "효력이 발생하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take effect",
+        "come into force[effect]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "accrued",
+      "frequency": 0
+    },
+    {
+      "meaning": "caused",
+      "frequency": 0
+    },
+    {
+      "meaning": "occurrence",
+      "frequency": 1
+    },
+    {
+      "meaning": "arise",
+      "frequency": 2
+    },
+    {
+      "meaning": "outbreak",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[투머치 버터와 씨름하는 사이 발생한 대참사...] 탔어 이것도! [Disaster that occurred while adding too much butter] It's burnt, again! 듣기 View video V PICK! : [Stray Kids] 👨‍🍳네 손님!! 댕냥스쿨 神메뉴 두부지짐 팬케이크입니다!!🥞 (SEUNGMIN & FELIX cooking souffle pancake)",
+      "english": "[Disaster that occurred while adding too much butter] It's burnt, again!"
+    },
+    {
+      "korean": "[하지만 연습 과정에서 발생한 불협화음] - 다시 - 형 먼저 해야 하는 거 아니야? [But troubles came along during the practice] - Again. - It's your part. 듣기 View video World Klass (월드 클래스) : [5회] 'K-POP 팬들의 투표' 온 힘을 쏟은 월드 팀의 점수 공개!",
+      "english": "[But troubles came along during the practice] - Again. - It's your part."
+    },
+    {
+      "korean": "[큐뉴우유에게 발생한 예기치 못한 비상사태!!!] [An unpredicted situation has approached Q New Milk!!!] View video THE BOYZ : 큐뉴우유(Q_NEW_MILK) EP_2",
+      "english": "[An unpredicted situation has approached Q New Milk!!!]"
+    },
+    {
+      "korean": "제모 후 피부를 부드럽게 유지하려면, 제모과정 에서 발생한 손상된 피부를 회복시켜 주세요. If you'd like to keep your skin smooth after shaving, make sure you have treated and repaired cuts. 듣기 View video Wishtrend TV : Hair Removal 101 | Make Your Own DIY Shaving Cream & Shaving Foam",
+      "english": "If you'd like to keep your skin smooth after shaving, make sure you have treated and repaired cuts."
+    },
+    {
+      "korean": "이쪽에서만 발생한 것 같아요. I think that happened from here only. 듣기 View video GAVYNJ : *가비랑 불금할래*",
+      "english": "I think that happened from here only."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "His mistake was due to youth and inexperience. 발음듣기 그의 실수는 어리고 경험이 부족해서 발생한 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His mistake was due to youth and inexperience. 발음"
+    },
+    {
+      "korean": "disease resulting from poor sanitation 발음듣기 열악한 위생 시설로 발생한 질병 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "disease resulting from poor sanitation 발음"
+    },
+    {
+      "korean": "an unfortunate concurrence of events 발음듣기 불행하게 동시에 발생한 사건들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an unfortunate concurrence of events 발음"
+    },
+    {
+      "korean": "job losses resulting from changes in production 발음듣기 생산상의 변화들로 인해 발생한 실직 사례들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "job losses resulting from changes in production 발음"
+    },
+    {
+      "korean": "This is the second time it’s happened. 발음듣기 이번은 그 일이 두 번째로 발생한 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This is the second time it’s happened. 발음"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "후보",
+      "hanja": " (候補)",
+      "example": {},
+      "meanings": [
+        "(자격을 갖춘 사람·사물) candidate, nominee",
+        "(대체 선수) reserve, substitute, backup"
+      ]
+    },
+    {
+      "phrase": "우승 후보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "favorite, front-runner"
+      ]
+    },
+    {
+      "phrase": "후보 선수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a substitute"
+      ]
+    },
+    {
+      "phrase": "공천 후보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a nominated[party] candidate"
+      ]
+    },
+    {
+      "phrase": "유력한 후보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a strong[leading] candidate"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "nominee",
+      "frequency": 0
+    },
+    {
+      "meaning": "farther news",
+      "frequency": 0
+    },
+    {
+      "meaning": "nineteenth man",
+      "frequency": 0
+    },
+    {
+      "meaning": "put up for something",
+      "frequency": 0
+    },
+    {
+      "meaning": "sub",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[뒤집히는 우승후보!] 뺏었어요! [One after another] They took the throne! 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 23. 현재 1위 츄플에게 도전하는 경희대 래빈 & 용인 리퍼블릭!",
+      "english": "[One after another] They took the throne!"
+    },
+    {
+      "korean": "어떻게... 우승 후보를 뺏을 수 있을 거 같아요? Do you think you can win them? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "Do you think you can win them?"
+    },
+    {
+      "korean": "후보 2번... - 왜 방탄 방탄 방방탄 아무도 안 했냐? Candidate... - Why didn't anybody think of this? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Candidate... - Why didn't anybody think of this?"
+    },
+    {
+      "korean": "우승 후보 타이틀 다니까 기분 어때요? How does it feel to be the strongest candidate for 1st place? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 23. 현재 1위 츄플에게 도전하는 경희대 래빈 & 용인 리퍼블릭!",
+      "english": "How does it feel to be the strongest candidate for 1st place?"
+    },
+    {
+      "korean": "[내 전공은 힙합 파이널 우승 후보 1] 경희대 국제캠 래빈! [1st candidates] Kyunghee University International Campus RAPIN! 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 22. 서울대의 두 동아리 츄플 & 바팩 파이널에서 만나다!",
+      "english": "[1st candidates] Kyunghee University International Campus RAPIN!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "one of the leading candidates for the presidency 듣기 Add to Wordbook 대통령 선거 유력 입후보자들 중 한 명 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of the leading candidates for the presidency Add to Wordbook"
+    },
+    {
+      "korean": "All the other candidates lost their deposits. 듣기 Add to Wordbook 다른 후보들은 모두 공탁금을 잃었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All the other candidates lost their deposits. Add to Wordbook"
+    },
+    {
+      "korean": "Our candidate fared poorly in the election. 듣기 Add to Wordbook 우리 후보가 선거에서 득표율이 저조했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our candidate fared poorly in the election. Add to Wordbook"
+    },
+    {
+      "korean": "Both candidates have been trolling for votes. 듣기 Add to Wordbook 두 후보 다 표를 얻으려고 애쓰고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Both candidates have been trolling for votes. Add to Wordbook"
+    },
+    {
+      "korean": "We have narrowed down the list to four candidates. 듣기 Add to Wordbook 우리가 그 명단을 네 명의 후보까지로 줄였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have narrowed down the list to four candidates. Add to Wordbook"
+    }
+  ]
+}

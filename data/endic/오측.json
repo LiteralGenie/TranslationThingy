@@ -1,0 +1,61 @@
+{
+  "phrases": [
+    {
+      "phrase": "측",
+      "hanja": " (側)",
+      "example": {},
+      "meanings": [
+        "side"
+      ]
+    },
+    {
+      "phrase": "오",
+      "hanja": " (五)",
+      "example": {},
+      "meanings": [
+        "five"
+      ]
+    },
+    {
+      "phrase": "오",
+      "hanja": " (五)",
+      "example": {},
+      "meanings": [
+        "Number five (→다섯1)"
+      ]
+    },
+    {
+      "phrase": "-측",
+      "hanja": " (-側)",
+      "example": {},
+      "meanings": [
+        "the side."
+      ]
+    },
+    {
+      "phrase": "오",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection oh, ah"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "false reading",
+      "frequency": 0
+    },
+    {
+      "meaning": "cat-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The opposition-dominated city council backfired at Oh's statement by saying the mayor's referendum was reckless. 발음듣기 시 의회를 점령한 반대측은 오 시장의 발표에서 국민 투표는 무모했었다고 언급함으로써 역효과를 낳았다. TIMES CORE",
+      "english": "The opposition-dominated city council backfired at Oh's statement by saying the mayor's referendum was reckless. 발음"
+    }
+  ]
+}

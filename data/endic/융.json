@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "융",
+      "hanja": " (絨)",
+      "example": {},
+      "meanings": [
+        "cotton flannel"
+      ]
+    },
+    {
+      "phrase": "Jung",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 융 Carl Gustav ~ ((1875-1961:스위스의 심리학자·정신 의학자))"
+      ]
+    },
+    {
+      "phrase": "융병",
+      "hanja": " (癃病)",
+      "example": {},
+      "meanings": [
+        "senile atrophy."
+      ]
+    },
+    {
+      "phrase": "제융",
+      "hanja": " (製絨)",
+      "example": {},
+      "meanings": [
+        "wool weaving."
+      ]
+    },
+    {
+      "phrase": "융매제",
+      "hanja": " (融媒劑)",
+      "example": {},
+      "meanings": [
+        "[회화] a gumption, a megilp, a magilp."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "winceyette",
+      "frequency": 0
+    },
+    {
+      "meaning": "Jung, Carl Gustav",
+      "frequency": 0
+    },
+    {
+      "meaning": "Jung, Franz Josef",
+      "frequency": 0
+    },
+    {
+      "meaning": "eutectoid",
+      "frequency": 0
+    },
+    {
+      "meaning": "a winceyette nightdress",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "안녕하세요 융스트링 김미정이라고 합니다.",
+      "english": "Hello, I'm Kim Mi Jung from Yoong String."
+    },
+    {
+      "korean": "[올해의 실연자 상 김미정 심상원] 안녕하십니까 융스트링의 심상원이라고 합니다.",
+      "english": "Hello, I'm Shim Jang Won from Yoong String."
+    },
+    {
+      "korean": "정국 씨, 어떤가요?",
+      "english": "Jung Kook, how was it?"
+    },
+    {
+      "korean": "후회 안 해?",
+      "english": "getting back at Jung Gyumin like that?"
+    },
+    {
+      "korean": "[뷔가 함께 찍힌 걸 발견한 정국] 뭐야!",
+      "english": "[Jung Kook found V was also in the photo] What are you doing!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "융의 철학",
+      "english": "the philosophy of Jung"
+    },
+    {
+      "korean": "부모의 이루지 못한 삶보다 부모의 주변, 특히 자녀들에게 더 강한 심리적 영향을 끼치는 것은 없다. (칼 융, 실패명언)",
+      "english": "Nothing has a stronger influence psychologically on their environment and especially on their children than the unlived life of the parent. (Carl Jung)"
+    },
+    {
+      "korean": "두 사람이 만나는 것은 두 가지 화학 물질이 접촉하는 것과 같다. 어떤 반응이 일어나면 둘다 완전히 바뀌게 된다. (칼 융, 사랑명언)",
+      "english": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed. (Carl Jung)"
+    },
+    {
+      "korean": "새로운 것의 창조는 지능이 아니라 내적 필요에 의한 놀기 본능을 통해 달성된다. 창의적인 사람은 자신이 사랑하는 것을 가지고 놀기 좋아한다. (칼 융, 성공명언)",
+      "english": "The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves. (Carl Jung)"
+    },
+    {
+      "korean": "융은 내향적 성향과 외향적 성향이란 개념을 만들어냈다.",
+      "english": "Jung developed the concepts of introvert and extrovert personality types."
+    }
+  ]
+}

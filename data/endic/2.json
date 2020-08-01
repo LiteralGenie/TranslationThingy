@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "2",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "채팅 약어 2, 또는 역시 또는 to 의미 (To, Too or Two)"
+      ]
+    },
+    {
+      "phrase": "1[2]번",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "number one[two]"
+      ]
+    },
+    {
+      "phrase": "1[2]차 코일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a primary[secondary] coil"
+      ]
+    },
+    {
+      "phrase": "둘",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(하나에 하나를 더한 수) two",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "두",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "two"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "two",
+      "frequency": 3
+    },
+    {
+      "meaning": "cardinal",
+      "frequency": 3
+    },
+    {
+      "meaning": "Fibonacci series",
+      "frequency": 0
+    },
+    {
+      "meaning": "1, 2, 3으로 등급이 매겨지다",
+      "frequency": 0
+    },
+    {
+      "meaning": "합계액 2,000원",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "몰래 라이브2요? \"Secret Live 2\"? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "\"Secret Live 2\"?"
+    },
+    {
+      "korean": "오후 2시 정도 - 오후 2시인가요? 2 pm. - 2pm? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "2 pm. - 2pm?"
+    },
+    {
+      "korean": "어제는 한 2시인가? Yesterday... Around 2? 듣기 View video Dispatch : [Dicon] \"모모’s Special Day\" (디아이콘 : 트와이스)",
+      "english": "Yesterday... Around 2?"
+    },
+    {
+      "korean": "[드르렁][드르렁] 2개씩! [Snoring sound] 2 each! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Snoring sound] 2 each!"
+    },
+    {
+      "korean": "[성공] 2개씩이면 쉽겠는데? [Done] Easy to get 2. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Done] Easy to get 2."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "One and one make(s) two. 1+1= 듣기 Add to Wordbook 2 Dong-a's Prime English-Korean Dictionary",
+      "english": "One and one make(s) two. 1+1= Add to Wordbook"
+    },
+    {
+      "korean": "8 is divisible by 2 and 4, but not by 3. 듣기 Add to Wordbook 8은 2와 4로는 나눠지지만 3으로는 나눠지지 않는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "8 is divisible by 2 and 4, but not by 3. Add to Wordbook"
+    },
+    {
+      "korean": "6 divided by 2 equals 3. 듣기 Add to Wordbook 6 나누기 2는 3이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "6 divided by 2 equals 3. Add to Wordbook"
+    },
+    {
+      "korean": "The voting was 15 in favour, 3 against and 2 abstentions. 듣기 Add to Wordbook 투표 결과는 찬성 15, 반대 3, 기권 2였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The voting was 15 in favour, 3 against and 2 abstentions. Add to Wordbook"
+    },
+    {
+      "korean": "They managed an honourable 2–2 draw. 듣기 Add to Wordbook 그들은 훌륭하게도 2 대 2 동점을 이뤄 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They managed an honourable 2–2 draw. Add to Wordbook"
+    }
+  ]
+}

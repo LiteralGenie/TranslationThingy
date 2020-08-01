@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "방패",
+      "hanja": " (防牌)",
+      "example": {},
+      "meanings": [
+        "(무기) shield, escutcheon",
+        "(비유적) shield (against)"
+      ]
+    },
+    {
+      "phrase": "인간 방패",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "human shield"
+      ]
+    },
+    {
+      "phrase": "방패 모양의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shield-shaped",
+        "scutellate",
+        "peltate"
+      ]
+    },
+    {
+      "phrase": "방패로 삼다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "use sth as a shield (against)",
+        "screen[hide] oneself behind sth",
+        "shield[cover] oneself behind sth"
+      ]
+    },
+    {
+      "phrase": "…을 방패 삼아",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on the strength[ground] of",
+        "on the plea[pretext] of",
+        "on the authority of"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shield",
+      "frequency": 1
+    },
+    {
+      "meaning": "aegis",
+      "frequency": 0
+    },
+    {
+      "meaning": "scutum",
+      "frequency": 0
+    },
+    {
+      "meaning": "riot shield",
+      "frequency": 0
+    },
+    {
+      "meaning": "Britannia",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "형 이제 앞으로 등에 방패 메고 다녀! From now on, you need to carry a shield!! 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.14 MBTI of SVT",
+      "english": "From now on, you need to carry a shield!!"
+    },
+    {
+      "korean": "이거 방패... This is a shield. 듣기 View video Stray Kids : 막내의 사생활 13🦊(feat.🐻)",
+      "english": "This is a shield."
+    },
+    {
+      "korean": "방패기사단 콘서트 티켓! Ticket for Bang-Pae-Gi-Sa-Dan concert! 듣기 View video 컨버전스 TV (CONS TV) : 악동탐정스 시즌2 13화 <스나이퍼 예매사건 Ⅰ>",
+      "english": "Ticket for Bang-Pae-Gi-Sa-Dan concert!"
+    },
+    {
+      "korean": "[미국 대장 방패도 발견] - 이거네 - 이거 리얼인가? This one. - Is this real? 듣기 View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 5화",
+      "english": "This one. - Is this real?"
+    },
+    {
+      "korean": "이거 방패가 있어요 - 방패만 하면 하나 끝나는 건가? You have a shield. - Is it done after making a shield? 듣기 View video Stray Kids : 막내의 사생활 13🦊(feat.🐻)",
+      "english": "You have a shield. - Is it done after making a shield?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The hostages were used as a human shield. 발음듣기 그 인질들이 인간 방패로 이용되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hostages were used as a human shield. 발음"
+    },
+    {
+      "korean": "The gunman used the hostages as a human shield. 발음듣기 그 총기범은 인질들을 인간 방패로 이용했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The gunman used the hostages as a human shield. 발음"
+    },
+    {
+      "korean": "the ricochet of bricks and bottles off police riot shields 발음듣기 경찰의 진압 방패에 맞아 튀어 나오는 벽돌과 병들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ricochet of bricks and bottles off police riot shields 발음"
+    },
+    {
+      "korean": "Riot police with shields were blocking the demonstrators’ way. 발음듣기 방패를 든 폭동 진압 경찰이 시위대들의 진로를 막고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Riot police with shields were blocking the demonstrators’ way. 발음"
+    },
+    {
+      "korean": "The police officer fended off the blows with his riot shield. 발음듣기 그 경찰관은 시위 진압용 방패로 그 타격들을 막았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police officer fended off the blows with his riot shield. 발음"
+    }
+  ]
+}

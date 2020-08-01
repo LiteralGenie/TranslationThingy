@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "비올라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "viola"
+      ]
+    },
+    {
+      "phrase": "viola",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비올라(바이올린보다 조금 큰 현악기)"
+      ]
+    },
+    {
+      "phrase": "Viola",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 여자 이름"
+      ]
+    },
+    {
+      "phrase": "viola",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 식물 제비꽃 무리"
+      ]
+    },
+    {
+      "phrase": "비올라 연주자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "violist, viola player"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "viola",
+      "frequency": 0
+    },
+    {
+      "meaning": "a viola player",
+      "frequency": 0
+    },
+    {
+      "meaning": "viola da gamba",
+      "frequency": 0
+    },
+    {
+      "meaning": "viola da braccio",
+      "frequency": 0
+    },
+    {
+      "meaning": "piano quartet",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그리고 요즘 큰 인기를 받고 있는 Viola의 Kang Haewon 입니다. And she's very popular violist, Kang Haewon. 듣기 View video BURUDA CONCERT : BREWERY CONCERT KWON TREE",
+      "english": "And she's very popular violist, Kang Haewon."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The piece is scored for violin, viola and cello. 발음듣기 그 곡은 바이올린, 비올라, 첼로를 위해 편곡된 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The piece is scored for violin, viola and cello. 발음"
+    },
+    {
+      "korean": "Ma started the violin, then the viola. 발음듣기 요요마는 바이올린을 시작했고 그 다음에는 비올라를 시작했다. Neungyule",
+      "english": "Ma started the violin, then the viola. 발음"
+    },
+    {
+      "korean": "I can't play the viola. 발음듣기 나는 비올라를 연주하지 못한다. YBM All in All English-Korean Dictionary",
+      "english": "I can't play the viola. 발음"
+    },
+    {
+      "korean": "a viola player 발음듣기 비올라 연주자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a viola player 발음"
+    },
+    {
+      "korean": "The Italian made 1,116 instruments, including violas, guitars, and cellos. 발음듣기 그 이탈리아인은 비올라, 기타, 첼로를 포함하여 1,116 개의 악기를 만들었다. TIMES CORE",
+      "english": "The Italian made 1,116 instruments, including violas, guitars, and cellos. 발음"
+    }
+  ]
+}

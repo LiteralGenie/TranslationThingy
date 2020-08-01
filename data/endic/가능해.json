@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "가능하다",
+      "hanja": " (可能하다)",
+      "example": {},
+      "meanings": [
+        "possible, (실현 가능하다) practicable, feasible"
+      ]
+    },
+    {
+      "phrase": "실행이 가능한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "practicable",
+        "feasible"
+      ]
+    },
+    {
+      "phrase": "가능한 범위에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as much[far] as possible",
+        "within the limits of the possible[possibility]"
+      ]
+    },
+    {
+      "phrase": "가능",
+      "hanja": " (可能)",
+      "example": {},
+      "meanings": [
+        "possibility, 가능하다 (be) possible, feasible, potential, practicable, be within the range[bounds] of possibility,"
+      ]
+    },
+    {
+      "phrase": "실현 가능한 계획",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a realizable[feasible] plan"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "possible",
+      "frequency": 3
+    },
+    {
+      "meaning": "possibility",
+      "frequency": 3
+    },
+    {
+      "meaning": "alternative",
+      "frequency": 3
+    },
+    {
+      "meaning": "commutable",
+      "frequency": 0
+    },
+    {
+      "meaning": "renewable",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가능해? Do you think you can do it? 듣기 View video NCT : J💚J💚J",
+      "english": "Do you think you can do it?"
+    },
+    {
+      "korean": "그게 가능해? Is it possible? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "Is it possible?"
+    },
+    {
+      "korean": "진짜로요? - 가능해요 그게? Really? - Is that even possible? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "Really? - Is that even possible?"
+    },
+    {
+      "korean": "역시! - 공연 끝나고 헬스가 가능해? Wow! - Is it possible to work out after a concert? 듣기 View video Stray Kids : First UNLOCK in Chicago❤",
+      "english": "Wow! - Is it possible to work out after a concert?"
+    },
+    {
+      "korean": "한 사람이 중복 하트가 가능해요 - 계속 누를 수 있어요 - 그래요? One person can press hearts multiple times. - They can press it continuously. - Really? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "One person can press hearts multiple times. - They can press it continuously. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Profits of $20m look achievable. 듣기 Add to Wordbook 2천만 달러 수익이 달성 가능해 보인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Profits of $20m look achievable. Add to Wordbook"
+    },
+    {
+      "korean": "What had seemed impossible now seemed a distinct possibility. 듣기 Add to Wordbook 불가능해 보였던 일이 이제는 분명히 가능해 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What had seemed impossible now seemed a distinct possibility. Add to Wordbook"
+    },
+    {
+      "korean": "If you limit your choices only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is a compromise. (Robert Fritz) 듣기 Add to Wordbook 가능해 보이는 것 혹은 타당해 보이는 것만 선택한다면 스스로가 진정 원하는 것을 알 수 없고 타협만이 남게 된다. (로버트 프리츠, 지혜명언) 명언/속담",
+      "english": "If you limit your choices only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is a compromise. (Robert Fritz) Add to Wordbook"
+    },
+    {
+      "korean": "This concert was made possible by the kind patronage of Smith Industries. 듣기 Add to Wordbook 이 연주회는 스미스 산업의 친절한 후원으로 가능해 진 것이었다. YBM All in All English-Korean Dictionary",
+      "english": "This concert was made possible by the kind patronage of Smith Industries. Add to Wordbook"
+    },
+    {
+      "korean": "I will be in a meeting all day tomorrow but can be reached after 5 p.m. if needed. 듣기 Add to Wordbook 저는 내일은 하루 종일 회의가 있지만 필요하면 오후 5시 이후에는 연락 가능해요. YBM All in All English-Korean Dictionary",
+      "english": "I will be in a meeting all day tomorrow but can be reached after 5 p.m. if needed. Add to Wordbook"
+    }
+  ]
+}

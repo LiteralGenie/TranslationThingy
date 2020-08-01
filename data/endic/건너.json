@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "건너",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(맞은편)",
+        "(일정한 시간·공간을 간격으로)",
+        "(이야기·소문 등이 전해지다)"
+      ]
+    },
+    {
+      "phrase": "길 건너에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "over the road",
+        "across the street"
+      ]
+    },
+    {
+      "phrase": "건너 편짝에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "across",
+        "on the other side"
+      ]
+    },
+    {
+      "phrase": "건너 마을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a village on the other side",
+        "a village at the opposite side"
+      ]
+    },
+    {
+      "phrase": "강 건너에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "across[beyond] the river",
+        "opposite[on the other] side of the river"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "over",
+      "frequency": 3
+    },
+    {
+      "meaning": "across the pond",
+      "frequency": 0
+    },
+    {
+      "meaning": "across the street",
+      "frequency": 0
+    },
+    {
+      "meaning": "on the opposite bank[shore]",
+      "frequency": 0
+    },
+    {
+      "meaning": "live across the river",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "미친 건 너야 돌부처야! You are the one who is crazy! 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "You are the one who is crazy!"
+    },
+    {
+      "korean": "건너 건너에 그... It's far from.... 듣기 View video Dingo Story / 딩고스토리 : 변태 선생이 벌점을 줬다_EP11 [라이크(LIKE)]",
+      "english": "It's far from...."
+    },
+    {
+      "korean": "[문제: 강 건너 불구경] 이거는... [Q: As if you were watching a fire on the other side of the river] This is... 듣기 View video Dispatch : [ⓓxV] “도전! 셉마인드 ②” (세븐틴 : SEVENTEEN)",
+      "english": "[Q: As if you were watching a fire on the other side of the river] This is..."
+    },
+    {
+      "korean": "우와! 나 이거! 길건너 친구들! Oh, those guys on the other side of the street! 듣기 View video Mnet : [ONE DREAM.TXT] Reality Ep.08 - Part.1",
+      "english": "Oh, those guys on the other side of the street!"
+    },
+    {
+      "korean": "[네... 건너들은 얘기라고 하네요...] [Okay... Let's just say we heard all that...] View video 모비딕(Mobidic) : <쎈마이웨이> 신입사원의 회사생활 꿀팁! 직장인 스트레스 때문에 힘들어요",
+      "english": "[Okay... Let's just say we heard all that...]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "An army of ants marched across the path. 듣기 Add to Wordbook 개미 집단이 길을 건너 행진했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "An army of ants marched across the path. Add to Wordbook"
+    },
+    {
+      "korean": "Ferries ply across a narrow strait to the island. 듣기 Add to Wordbook 연락선이 좁은 해협을 건너 그 섬까지 다닌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ferries ply across a narrow strait to the island. Add to Wordbook"
+    },
+    {
+      "korean": "Two large birds flapped slowly across the water. 듣기 Add to Wordbook 두 마리의 큰 새가 날개를 퍼덕이며 물 건너로 천천히 날아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two large birds flapped slowly across the water. Add to Wordbook"
+    },
+    {
+      "korean": "They were trying to manhandle an old sofa across the road. 듣기 Add to Wordbook 그들은 헌 소파 하나를 길 건너로 옮기려고 애를 쓰는 중이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were trying to manhandle an old sofa across the road. Add to Wordbook"
+    },
+    {
+      "korean": "They have gone over to France. 듣기 Add to Wordbook 그들은 (해협을 건너) 프랑스에 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They have gone over to France. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "급하다",
+      "hanja": " (急―)",
+      "example": {},
+      "meanings": [
+        "(사정·형편 등이) urgent, pressing",
+        "impetuous, (성격이) rash",
+        "(경사·기울기 등이) steep"
+      ]
+    },
+    {
+      "phrase": "급하게 먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "scarf (down)"
+      ]
+    },
+    {
+      "phrase": "급하게 허둥지둥 일을 끝냈어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I hurried straight over."
+      ]
+    },
+    {
+      "phrase": "그렇게 급하게 먹지마.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "식사 중의 표현 Don't eat so quickly."
+      ]
+    },
+    {
+      "phrase": "급하게 볼일이 생겨서요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 Something suddenly came up.",
+        "초대와 방문 Something came up all of a sudden."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "precipitously",
+      "frequency": 0
+    },
+    {
+      "meaning": "in hot[great] haste",
+      "frequency": 0
+    },
+    {
+      "meaning": "do a flip-flop",
+      "frequency": 0
+    },
+    {
+      "meaning": "come on the hotfoot",
+      "frequency": 0
+    },
+    {
+      "meaning": "a hastily prepared sandwich",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "급하게...",
+      "english": "They didn't prepare it."
+    },
+    {
+      "korean": "천천히 급하게 하지 마!",
+      "english": "Slowly! Don't rush!"
+    },
+    {
+      "korean": "급하게 퇴장하셨습니다!",
+      "english": "He has left abruptly!"
+    },
+    {
+      "korean": "맞아 급하게 협찬해줬습니다!",
+      "english": "Right, it was a urgent sponsor!"
+    },
+    {
+      "korean": "뭐야 말도 없이 이렇게 급하게 간다고?",
+      "english": "Like this? Without telling me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 말들은 급하게 나왔다.",
+      "english": "The words came out in a rush."
+    },
+    {
+      "korean": "급하게 결혼하고, 시간 날 때 후회한다. (서양속담, 남녀속담)",
+      "english": "Marry in haste, repent at leisure."
+    },
+    {
+      "korean": "한번은 제가 급하게 유망 고객에게 구매 권유를 해야 했던 일이 있었습니다.",
+      "english": "I once had to give a sales pitch to a prospective client on very short notice."
+    },
+    {
+      "korean": "급하게 알려줘서 정말 미안한데 진짜 급한 일이 생겨서 오늘 취소해야 할 것 같아.",
+      "english": "I’m terribly sorry for the short notice, but I’m gonna have to cancel today because something really urgent has come up."
+    },
+    {
+      "korean": "물속에 휙 뛰어들다[급하게 옷을 입다].",
+      "english": "fling oneself into the water[one's clothes]"
+    }
+  ]
+}

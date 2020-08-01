@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "속보",
+      "hanja": " (速報)",
+      "example": {},
+      "meanings": [
+        "(뉴스) breaking news, news bulletin, newsflash"
+      ]
+    },
+    {
+      "phrase": "속보",
+      "hanja": " (速步)",
+      "example": {},
+      "meanings": [
+        "(빠른 걸음) quick pace[steps], (군대의) quick march"
+      ]
+    },
+    {
+      "phrase": "선거 속보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prompt[hour-by-hour] reports of the election returns"
+      ]
+    },
+    {
+      "phrase": "속보로 걷다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk fast",
+        "walk with quick steps",
+        "speed-walk"
+      ]
+    },
+    {
+      "phrase": "뉴스 속보",
+      "hanja": " (―速報)",
+      "example": {},
+      "meanings": [
+        "a news flash"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "trot",
+      "frequency": 1
+    },
+    {
+      "meaning": "quick time",
+      "frequency": 0
+    },
+    {
+      "meaning": "further news",
+      "frequency": 0
+    },
+    {
+      "meaning": "a quick pace",
+      "frequency": 0
+    },
+    {
+      "meaning": "a rattling pace",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐 할까, 이제? - 속보가 들어왔어요 - 네 - 뭔데 뭔데? What should we do now? - I've got breaking news. - What is it? 듣기 View video NCT : 오랜만😆😆💚",
+      "english": "What should we do now? - I've got breaking news. - What is it?"
+    },
+    {
+      "korean": "[(속보) 붐보 드디어 이미지 대변신하다?!] [(Breaking news) BOOMBO has transformed himself?!] View video V CREW : [V CREW] 붐보의 서재 - EP. 10 ITZY 미니 앨범 2집 IT'z ME 언박싱🖐🏻 (붐보의 WANNABE는 IT지 뿐이지..🤭❤️)",
+      "english": "[(Breaking news) BOOMBO has transformed himself?!]"
+    },
+    {
+      "korean": "[속보 - 세기의 명작 슈가 소유로 밝혀져...] - 배경화면입니다, 이거 너무 웃겨서 - 진짜요? [Breaking news! SUGA owns the masterpiece of this century] - It's my wallpaper. - Really? 듣기 View video BTS : Run BTS! 2020 - EP.106",
+      "english": "[Breaking news! SUGA owns the masterpiece of this century] - It's my wallpaper. - Really?"
+    },
+    {
+      "korean": "속보 - 진짜 뭐 할래? Breaking news! - What should we do? 듣기 View video TWICE : 1시간전...",
+      "english": "Breaking news! - What should we do?"
+    },
+    {
+      "korean": "[속보] 이제 곧 간다고 합니다! [Breaking news] We're going soon now! 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 2019 AWARDS BEHIND #1",
+      "english": "[Breaking news] We're going soon now!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a quick pace 발음듣기 속보. Friendict Level English-Korean Dictionary",
+      "english": "a quick pace 발음"
+    },
+    {
+      "korean": "She trotted her pony around the field. 발음듣기 그녀는 조랑말을 속보로 타고 들판을 돌아다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She trotted her pony around the field. 발음"
+    },
+    {
+      "korean": "The horse slowed to a trot. 발음듣기 말이 속보 상태로 속도를 늦추었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The horse slowed to a trot. 발음"
+    },
+    {
+      "korean": "to break the sound barrier 발음듣기 음속 장벽을 넘어서다[음속보다 더 빨리 달리다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to break the sound barrier 발음"
+    },
+    {
+      "korean": "The horse started off at a steady trot. 발음듣기 그 말이 안정된 속보로 움직이기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The horse started off at a steady trot. 발음"
+    }
+  ]
+}

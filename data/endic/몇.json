@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "몇",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(많지 않은 수) some, several, a few",
+        "(의문문에서) (수) how many, (연령) how old, (시간) what time"
+      ]
+    },
+    {
+      "phrase": "몇",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner some, several",
+        "Determiner how many"
+      ]
+    },
+    {
+      "phrase": "몇 시",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "when",
+        "what time"
+      ]
+    },
+    {
+      "phrase": "몇 번",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "how often",
+        "several times"
+      ]
+    },
+    {
+      "phrase": "몇 살",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "how old",
+        "what age"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what",
+      "frequency": 3
+    },
+    {
+      "meaning": "how",
+      "frequency": 3
+    },
+    {
+      "meaning": "many",
+      "frequency": 3
+    },
+    {
+      "meaning": "several",
+      "frequency": 3
+    },
+    {
+      "meaning": "suite",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "몇 대 몇이야? What's the score? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "What's the score?"
+    },
+    {
+      "korean": "몇 살? How old are you? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "How old are you?"
+    },
+    {
+      "korean": "몇 시야? What time is it? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "What time is it?"
+    },
+    {
+      "korean": "몇 시지? What time is it? 듣기 View video MONSTA X : LIVE : 그냥🐺",
+      "english": "What time is it?"
+    },
+    {
+      "korean": "몇 시쯤이에요, 몇 시쯤? What time is it? 듣기 View video TOMORROW X TOGETHER : 연준이와 소통먹방",
+      "english": "What time is it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He had a few puffs at the cigar. 듣기 Add to Wordbook 그가 담배를 몇 모금 빨았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had a few puffs at the cigar. Add to Wordbook"
+    },
+    {
+      "korean": "Several prisoners broke out of the jail. 듣기 Add to Wordbook 죄수 몇 명이 탈옥을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several prisoners broke out of the jail. Add to Wordbook"
+    },
+    {
+      "korean": "He must have put on several kilos. 듣기 Add to Wordbook 그가 틀림없이 살이 몇 킬로는 쪘을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He must have put on several kilos. Add to Wordbook"
+    },
+    {
+      "korean": "How many sugars do you take in coffee? 듣기 Add to Wordbook 커피에 설탕 몇 숟가락[개] 넣으세요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How many sugars do you take in coffee? Add to Wordbook"
+    },
+    {
+      "korean": "How many states did the Republicans win? 듣기 Add to Wordbook 공화당이 몇 개 주를 차지했나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How many states did the Republicans win? Add to Wordbook"
+    }
+  ]
+}

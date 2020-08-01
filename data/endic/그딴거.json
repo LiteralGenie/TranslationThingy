@@ -1,0 +1,93 @@
+{
+  "phrases": [
+    {
+      "phrase": "거",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(거기)"
+      ]
+    },
+    {
+      "phrase": "거",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그것) Well!, Why!, There!"
+      ]
+    },
+    {
+      "phrase": "거",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Bound noun thing (→것)",
+        "Bound noun (→것)",
+        "Bound noun (→것)"
+      ]
+    },
+    {
+      "phrase": "그딴",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner like that (→저딴, 그따위2, 이딴)"
+      ]
+    },
+    {
+      "phrase": "거",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun this, that",
+        "Pronoun it",
+        "Pronoun (disparaging) The person."
+      ]
+    }
+  ],
+  "meanings": [],
+  "vlive": [
+    {
+      "korean": "그 딴거 껴야된다고 뺏었어...",
+      "english": "But I was told to wear another and had to take it off..."
+    },
+    {
+      "korean": "'어화동동 오빠 금손이다' 그딴 거 필요 없어!",
+      "english": "\"Eohwadongdongi, oppa is golden hand!\" I don't need that!!"
+    },
+    {
+      "korean": "[그딴 거 없음] - 없어요 그딴 거 - 야!",
+      "english": "There's nothing like that. - Hey!"
+    },
+    {
+      "korean": "그딴 거 아니에요. - 그딴 거야? 미안해.",
+      "english": "No, it wasn't that. - No? Sorry."
+    },
+    {
+      "korean": "제가 좋아하는 거 하나 시킬게요. - [그딴 거 없고] 딸기 하나 주세요.",
+      "english": "Let me order one I like. - [Ignoring his request] 1 strawberry, please."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그딴 걸 입고 있는거야?",
+      "english": "You wearing the same sort of thing?"
+    },
+    {
+      "korean": "그딴거할 생각은 추호도 없다",
+      "english": "Mr Hearne: Far be it from me to do such a thing."
+    },
+    {
+      "korean": "그딴 건 기억 안 나. 어떤 빌어먹을 것도 기억 못해.",
+      "english": "Craft cant remember not a damn thing."
+    },
+    {
+      "korean": "이동식 주택? 별도의 화장실? 그딴 건 잊어.",
+      "english": "A mobile home? A separate lavatory? Forget it."
+    },
+    {
+      "korean": "오, 그딴 거 말하지 마.",
+      "english": "Oh, don't say such a thing."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "점",
+      "hanja": " (點)",
+      "example": {},
+      "meanings": [
+        "(작고 둥근 표시) dot",
+        "(피부의) mole, (모반) birthmark",
+        "(어떤 측면·요소) point, respect, aspect, way"
+      ]
+    },
+    {
+      "phrase": "점",
+      "hanja": " (占)",
+      "example": {},
+      "meanings": [
+        "divination, fortune-telling"
+      ]
+    },
+    {
+      "phrase": "점",
+      "hanja": " (點)",
+      "example": {},
+      "meanings": [
+        "Bound noun point",
+        "Bound noun piece",
+        "Bound noun jeom"
+      ]
+    },
+    {
+      "phrase": "-점",
+      "hanja": " (店)",
+      "example": {},
+      "meanings": [
+        "a store, a shop (영)"
+      ]
+    },
+    {
+      "phrase": "점치다",
+      "hanja": " (占―)",
+      "example": {},
+      "meanings": [
+        "(운수·길흉 등을)",
+        "(예측·판단하다) predict, foresee, forecast"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dot",
+      "frequency": 2
+    },
+    {
+      "meaning": "dotted",
+      "frequency": 0
+    },
+    {
+      "meaning": "요컨대",
+      "frequency": 0
+    },
+    {
+      "meaning": "freezing point",
+      "frequency": 0
+    },
+    {
+      "meaning": "spot",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "점이... There's a mole... 듣기 View video HYOMIN : [FULL] HYOMIN ‘MANGO’ SHOWCASE",
+      "english": "There's a mole..."
+    },
+    {
+      "korean": "이 점이 되게 좋은 점이래요. I heard it's good luck to have a mole here. 듣기 View video JEONG HA NA : ⭐ 첫 방 ⭐",
+      "english": "I heard it's good luck to have a mole here."
+    },
+    {
+      "korean": "'빈이 점이 있네' 빈이 점 있어요? - 점? \"Bin has a mole.\" Bin has a mole? - Mole? 듣기 View video ASTRO : Just one 아로하 10 minutes",
+      "english": "\"Bin has a mole.\" Bin has a mole? - Mole?"
+    },
+    {
+      "korean": "이 점이 지금 제가 세 네 번 뺐어요. I removed this beauty mark 3 to 4 times. 듣기 View video NU'EST : [NU'EST W] 망고 보고 힘내라구!!!🍋💪🏻",
+      "english": "I removed this beauty mark 3 to 4 times."
+    },
+    {
+      "korean": "정말입니다. 나는 이 점이 좋아. I mean seriously. I like this beauty mark. 듣기 View video DIA : [DIA] 채연이와 예빈이의 꿀잠LIVE",
+      "english": "I mean seriously. I like this beauty mark."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Two things go to render this plan worthless. 발음듣기 두 가지 점이 이 계획을 가치 없게끔 하고 있다. Friendict Level English-Korean Dictionary",
+      "english": "Two things go to render this plan worthless. 발음"
+    },
+    {
+      "korean": "Is intelligence a hindrance in this field? 발음듣기 학식을 겸비했다는 점이 이 분야에서는 장애가 되나요? Neungyule",
+      "english": "Is intelligence a hindrance in this field? 발음"
+    },
+    {
+      "korean": "And that has been the main source of conflict in the area. 발음듣기 그리고, 이 점이 이 지역에서 분쟁의 근원이 되어가고 있다. Neungyule",
+      "english": "And that has been the main source of conflict in the area. 발음"
+    },
+    {
+      "korean": "What makes this band different from most youth bands? They just don't play for fun and in the hope of one day being famous. 발음듣기 어떠한 점이 이 밴드를 대부분의 청소년 밴드와 차이 나게 해줄까? 그들은 재미만으로 그리고 ㄴ하루 아침에 유명해 지려는 기대로 연주하지 않는다. Neungyule",
+      "english": "What makes this band different from most youth bands? They just don't play for fun and in the hope of one day being famous. 발음"
+    },
+    {
+      "korean": "Which makes the ending to that story all the more satisfying. 발음듣기 이런 점이 이 책의 이야기를 더욱 만족스럽게 느껴지도록 만들어준다고도 볼 수 있다. TIMES CORE",
+      "english": "Which makes the ending to that story all the more satisfying. 발음"
+    }
+  ]
+}

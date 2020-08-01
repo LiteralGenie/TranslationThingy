@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "전용",
+      "hanja": " (專用)",
+      "example": {},
+      "meanings": [
+        "exclusive use, private use, ―하다 use exclusively, be for private use"
+      ]
+    },
+    {
+      "phrase": "전용",
+      "hanja": " (轉用)",
+      "example": {},
+      "meanings": [
+        "Noun diversion (→유용2)"
+      ]
+    },
+    {
+      "phrase": "전용의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "exclusive",
+        "private(개인의)"
+      ]
+    },
+    {
+      "phrase": "버스 전용 차선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bus-only lane (system)"
+      ]
+    },
+    {
+      "phrase": "장애인 전용 주차 구역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "handicap parking"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "appropriation",
+      "frequency": 1
+    },
+    {
+      "meaning": "alienation",
+      "frequency": 0
+    },
+    {
+      "meaning": "exclusive use",
+      "frequency": 0
+    },
+    {
+      "meaning": "propupa",
+      "frequency": 0
+    },
+    {
+      "meaning": "prepupa",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "대표님 전용 샌드위치? 그건 뭔 말이지? Sandwich for CEO? What does this mean? 듣기 View video NU'EST : [NU’EST] 하이하이하이~",
+      "english": "Sandwich for CEO? What does this mean?"
+    },
+    {
+      "korean": "전용 박스 있고 - 맞아 맞아 - 그거 알아? There is a special box. - Right. - Do you know? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "There is a special box. - Right. - Do you know?"
+    },
+    {
+      "korean": "[아까 줬는데 자꾸자꾸 먹고 싶나 봐요 까미는 까미 전용 닭가슴살] 맛있어~ [He must want more, so he gets some chicken] Yummy~ 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "[He must want more, so he gets some chicken] Yummy~"
+    },
+    {
+      "korean": "\"전용 샌드위치가 맛있어요, '인기가요' 샌드위치가 더 맛있어요?\" \"Which is better? The CEO sandwich or the 'Inkigayo' sandwich?\" 듣기 View video NU'EST : [NU’EST REN] 러브들♥️",
+      "english": "\"Which is better? The CEO sandwich or the 'Inkigayo' sandwich?\""
+    },
+    {
+      "korean": "전용 - 거기로 다 모이는 거지 - 전용으로? It's a dedicated hall for us. - A dedicated hall! 듣기 View video V COOKIE : [Full] UP10TION X LieV - 업텐션의 눕방라이브!",
+      "english": "It's a dedicated hall for us. - A dedicated hall!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was accused of appropriating club funds. 발음듣기 그는 클럽 기금을 전용했다는 비난을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was accused of appropriating club funds. 발음"
+    },
+    {
+      "korean": "The hotel has 110 bedrooms, all with private bathrooms. 발음듣기 그 호텔에는 110개의 객실이 있는데 모두 전용 욕실이 딸려 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel has 110 bedrooms, all with private bathrooms. 발음"
+    },
+    {
+      "korean": "dishonest appropriation of property 발음듣기 정직하지 못한 자산 전용 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "dishonest appropriation of property 발음"
+    },
+    {
+      "korean": "The hotel has exclusive access to the beach. 발음듣기 그 호텔은 전용 해안 접근로가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel has exclusive access to the beach. 발음"
+    },
+    {
+      "korean": "All rooms have private facilities. 발음듣기 모든 객실에는 전용 시설[개별 욕실]이 되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All rooms have private facilities. 발음"
+    }
+  ]
+}

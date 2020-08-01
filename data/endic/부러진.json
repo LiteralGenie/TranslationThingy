@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "부러지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(단단한 물체가) break, be[get] broken, fracture, (무게·압력 등으로) give way, (딱 소리를 내며) snap (off)",
+        "('딱 부러지게'의 형태로 쓰여)",
+        "(기타)"
+      ]
+    },
+    {
+      "phrase": "부러진 다리[팔]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a broken leg[arm]"
+      ]
+    },
+    {
+      "phrase": "부러진 다리에 부목을 대다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "splint a broken leg",
+        "put a splint on a broken leg"
+      ]
+    },
+    {
+      "phrase": "부러진 다리에 붕대를 휘감다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bandage up[bind up] a broken leg"
+      ]
+    },
+    {
+      "phrase": "계단에서 떨어져서 팔이 부러진 것 같습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "외과 It feels like I broke my arm when I fell down the stairs."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "broken",
+      "frequency": 3
+    },
+    {
+      "meaning": "munted",
+      "frequency": 0
+    },
+    {
+      "meaning": "borked",
+      "frequency": 0
+    },
+    {
+      "meaning": "to weld a broken axle",
+      "frequency": 0
+    },
+    {
+      "meaning": "to reset a broken bone",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 부러진 거 같은데 - 이거 왜 이래? I think it's broken. - What's wrong with this? 듣기 View video Stray Kids : 스테이를 위한 향수 만들기🖤",
+      "english": "I think it's broken. - What's wrong with this?"
+    },
+    {
+      "korean": "부러진... - 예스! It broke... - Yes! 듣기 View video PENTAGON : 나홀로 크리스마스🎄",
+      "english": "It broke... - Yes!"
+    },
+    {
+      "korean": "저희 때문에 부러진 건가요? Is it because of us? 듣기 View video TWICE : 모모의 What is Love? 댄스교실",
+      "english": "Is it because of us?"
+    },
+    {
+      "korean": "다리가 부러진 거 같아요. I think the leg is broken. 듣기 View video Dispatch : \"먹방이 별거냐!\"....범주&백호(NU'EST W)의 베트남 음식 먹방",
+      "english": "I think the leg is broken."
+    },
+    {
+      "korean": "부러진 거 아니야? - 안 났어요 지금? Is it broken? - Was there nothing? 듣기 View video 졸잼티비 (joLjamTV) : [theHybrid] 드디어 토라에몽 소환! and 고객이 된 지워니 _ ep11",
+      "english": "Is it broken? - Was there nothing?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a suspected broken arm 듣기 Add to Wordbook 부러진 것으로 의심되는[여겨지는] 팔 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a suspected broken arm Add to Wordbook"
+    },
+    {
+      "korean": "a broken bone showed up on the X-ray 듣기 Add to Wordbook 엑스레이에 나타난 부러진 뼈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a broken bone showed up on the X-ray Add to Wordbook"
+    },
+    {
+      "korean": "My broken finger hurt like hell. 듣기 Add to Wordbook 내 부러진 손가락이 아파 죽을 지경이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My broken finger hurt like hell. Add to Wordbook"
+    },
+    {
+      "korean": "Always immobilize a broken leg immediately. 듣기 Add to Wordbook 부러진 다리는 언제나 즉각 고정시키시오. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Always immobilize a broken leg immediately. Add to Wordbook"
+    },
+    {
+      "korean": "The surgeon set her broken arm. 듣기 Add to Wordbook (외과) 의사가 그녀의 부러진 뼈를 접합시켜 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The surgeon set her broken arm. Add to Wordbook"
+    }
+  ]
+}

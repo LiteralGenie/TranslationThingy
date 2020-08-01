@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "범죄",
+      "hanja": " (犯罪)",
+      "example": {},
+      "meanings": [
+        "crime, (criminal) offense, delinquency"
+      ]
+    },
+    {
+      "phrase": "성범죄",
+      "hanja": " (性犯罪)",
+      "example": {},
+      "meanings": [
+        "sexual assault, sex crime, sex offense, sexual abuse"
+      ]
+    },
+    {
+      "phrase": "범죄 조직",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "criminal organization, crime syndicate"
+      ]
+    },
+    {
+      "phrase": "범죄 수사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a criminal investigation"
+      ]
+    },
+    {
+      "phrase": "범죄를 저지르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "commit a crime"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "crime",
+      "frequency": 2
+    },
+    {
+      "meaning": "job",
+      "frequency": 2
+    },
+    {
+      "meaning": "offence",
+      "frequency": 2
+    },
+    {
+      "meaning": "vice",
+      "frequency": 1
+    },
+    {
+      "meaning": "delinquency",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "범죄자 같은 느낌? Like you're a criminal? 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Like you're a criminal?"
+    },
+    {
+      "korean": "범죄 스릴러, 사이코? Crime thriller. Psycho? 듣기 View video NU'EST : [NU'EST REN] 러브들 오랜만이에요",
+      "english": "Crime thriller. Psycho?"
+    },
+    {
+      "korean": "내가 진짜 엄청난 범죄를 저질렀구나! I committed a really big crime! 듣기 View video VICTON : 달려왔어요 어후;;; 숨차 🐺💙🧡",
+      "english": "I committed a really big crime!"
+    },
+    {
+      "korean": "장르는 좀 범죄 스릴러? 그리고... The genre is like crime thriller? And... 듣기 View video V COOKIE : [Full]RADIO APART X LEE DONG WOOK (RADIO APART X 이동욱)",
+      "english": "The genre is like crime thriller? And..."
+    },
+    {
+      "korean": "훔쳐 간 사람이 범죄자 아니야! You're a criminal! 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.23 TTT #3 (Camping Ver.)",
+      "english": "You're a criminal!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "plain-clothes detectives from the vice squad 발음듣기 범죄 수사팀에서 나온[수사팀의] 사복형사들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "plain-clothes detectives from the vice squad 발음"
+    },
+    {
+      "korean": "The rise in violent crime must not go unchecked. 발음듣기 폭력 범죄의 증가를 억제하지 않고 놔두어서는 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The rise in violent crime must not go unchecked. 발음"
+    },
+    {
+      "korean": "The whole community was aroused by the crime. 발음듣기 그 범죄 행위에 전 지역 주민이 각성을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The whole community was aroused by the crime. 발음"
+    },
+    {
+      "korean": "He bragged to his friends about the crime. 발음듣기 그는 그가 저지른 범죄에 대하여 친구들에게 자랑했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He bragged to his friends about the crime. 발음"
+    },
+    {
+      "korean": "There is anxiety about the rising tide of crime. 발음듣기 범죄의 물결이 거세지는 데 대한 불안이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is anxiety about the rising tide of crime. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "무인",
+      "hanja": " (無人)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "무인의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "manless",
+        "unmanned",
+        "uninhabited"
+      ]
+    },
+    {
+      "phrase": "무인 기질",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a military spirit"
+      ]
+    },
+    {
+      "phrase": "무인 발급기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "automatic dispenser"
+      ]
+    },
+    {
+      "phrase": "무인 카메라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "speed camera"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thumbmark",
+      "frequency": 0
+    },
+    {
+      "meaning": "seal with a thumb",
+      "frequency": 0
+    },
+    {
+      "meaning": "Untact",
+      "frequency": 0
+    },
+    {
+      "meaning": "unmanned",
+      "frequency": 0
+    },
+    {
+      "meaning": "uninhabited",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무인도에서 살아남기... Surviving in a deserted island. 듣기 View video World Klass (월드 클래스) : [Full] <월드 클래스> 첫방송 카운트다운 라이브 / Countdown Live",
+      "english": "Surviving in a deserted island."
+    },
+    {
+      "korean": "바로 갑시다 - 바로 무인도! Right into... - The Deserted Island! 듣기 View video BTS : Run BTS! 2020 - EP.93",
+      "english": "Right into... - The Deserted Island!"
+    },
+    {
+      "korean": "[바로 사이좋게 무인도행] 무인도! [Going to the deserted island together] Deserted island! 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "[Going to the deserted island together] Deserted island!"
+    },
+    {
+      "korean": "[+3과 -3으로 그 자리 그대로 무인도] 무인도! [Stay on the island with +3 and -3] Deserted island! 듣기 View video BTS : Run BTS! 2020 - EP.93",
+      "english": "[Stay on the island with +3 and -3] Deserted island!"
+    },
+    {
+      "korean": "[해탈] 무인도 뺏을 수 있나요? [Half-giving up] Can we own the deserted island? 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "[Half-giving up] Can we own the deserted island?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an unmanned Mars mission 듣기 Add to Wordbook 무인 화성 비행 임무 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an unmanned Mars mission Add to Wordbook"
+    },
+    {
+      "korean": "a fictional account of life on a desert island 듣기 Add to Wordbook 무인도에서의 삶에 대한 허구적 이야기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a fictional account of life on a desert island Add to Wordbook"
+    },
+    {
+      "korean": "‘Lord of the Flies’ is a novel about English schoolboys marooned on a desert island. 듣기 Add to Wordbook ‘파리 대왕’은 무인도에 고립된 영국 남학생들에 대한 소설이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Lord of the Flies’ is a novel about English schoolboys marooned on a desert island. Add to Wordbook"
+    },
+    {
+      "korean": "They are testing Robovan delivery. 듣기 Add to Wordbook 로보밴을 이용한 무인 배송을 시험할 예정이다. 국제영어대학원대학교 신어사전",
+      "english": "They are testing Robovan delivery. Add to Wordbook"
+    },
+    {
+      "korean": "MariBOT is an unmanned underwater drone. 듣기 Add to Wordbook 마리봇은 수중 무인 드론이다. 국제영어대학원대학교 신어사전",
+      "english": "MariBOT is an unmanned underwater drone. Add to Wordbook"
+    }
+  ]
+}

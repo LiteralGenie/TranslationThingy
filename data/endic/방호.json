@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "방호",
+      "hanja": " (防護)",
+      "example": {},
+      "meanings": [
+        "protection, defense, custody, 방호하다 protect, defend, have custody of"
+      ]
+    },
+    {
+      "phrase": "방호하다",
+      "hanja": " (防護하다)",
+      "example": {},
+      "meanings": [
+        "Verb protect, defend"
+      ]
+    },
+    {
+      "phrase": "방호물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 fender"
+      ]
+    },
+    {
+      "phrase": "화재방호",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 fire protection"
+      ]
+    },
+    {
+      "phrase": "방사선방호",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 radiation protection"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rock 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "para- 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "방호",
+      "frequency": 0
+    },
+    {
+      "meaning": "armature",
+      "frequency": 0
+    },
+    {
+      "meaning": "character armor",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The Ministry of National Defense allocated a budget for MRAP vehicles for the safety of soldiers. 발음듣기 국방부는 군인들의 안전을 위한 지뢰 방호 차량을 구매하는 데 예산을 배당했다. 국제영어대학원대학교 신어사전",
+      "english": "The Ministry of National Defense allocated a budget for MRAP vehicles for the safety of soldiers. 발음"
+    },
+    {
+      "korean": "The rainbow-colored barriers running along the seashore offer a scenic view mixing with the ocean, so it is an up-and-coming photo spot for social network media freaks. The length of the barriers is 15 to 20 minutes on foot, providing an ideal place for a stroll. 발음듣기 해안을 따라 수 놓인 무지갯빛 방호벽은 바다와 어우러진 멋진 경치를 제공해 소셜미디어 이용자들에게 새롭게 뜨는 명소다. 방호벽은 도보로 15~20분 길이로, 산책하기에 이상적인 장소를 제공한다. The Korea Times",
+      "english": "The rainbow-colored barriers running along the seashore offer a scenic view mixing with the ocean, so it is an up-and-coming photo spot for social network media freaks. The length of the barriers is 15 to 20 minutes on foot, providing an ideal place for a stroll. 발음"
+    },
+    {
+      "korean": "If you agree to euthanasia , what would you think can safeguard you about it? 발음듣기 만약 당신이 안락사의 시행에 동의한다면, 당신은 그것에 대해 무엇이 당신의 방호책을 만들어줄것이라고 생각하나요? YBM All in All English-Korean Dictionary",
+      "english": "If you agree to euthanasia , what would you think can safeguard you about it? 발음"
+    },
+    {
+      "korean": "It is effectively protected against the attacks of bacteria. 발음듣기 그것은 세균에 감염되지 않도록 유효하게 방호(防護)되어 있다. 영어영작문대사전",
+      "english": "It is effectively protected against the attacks of bacteria. 발음"
+    },
+    {
+      "korean": "Many of them were trying to get a glimpse of the pope across police barricades. 발음듣기 이들 중 많은 사람들은 경찰 방호벽 너머로 교황의 모습을 보려고 애썼다. TIMES CORE",
+      "english": "Many of them were trying to get a glimpse of the pope across police barricades. 발음"
+    }
+  ]
+}

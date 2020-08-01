@@ -1,0 +1,120 @@
+{
+  "phrases": [
+    {
+      "phrase": "말하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(말로 나타내다) say, tell, speak, talk (=이야기하다)",
+        "(부탁하다) ask",
+        "(알려 주다) show, indicate"
+      ]
+    },
+    {
+      "phrase": "바꿔 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in other words",
+        "that is (to say)",
+        "to put it (in) another way"
+      ]
+    },
+    {
+      "phrase": "짧게 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in short",
+        "to be brief",
+        "to make a long story short"
+      ]
+    },
+    {
+      "phrase": "간단히 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in short[brief]",
+        "to put it simply[briefly]",
+        "to make a long story short"
+      ]
+    },
+    {
+      "phrase": "다르게 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in other words",
+        "that is (to say)",
+        "to put it (in) another way"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "personally",
+      "frequency": 3
+    },
+    {
+      "meaning": "technically",
+      "frequency": 3
+    },
+    {
+      "meaning": "to be (more) precise",
+      "frequency": 0
+    },
+    {
+      "meaning": "strictly speaking",
+      "frequency": 0
+    },
+    {
+      "meaning": "more precisely",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "조용히 말하면 안 될까? Will you please say softly? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "Will you please say softly?"
+    },
+    {
+      "korean": "[그걸 말하면 어케혁] 정우! [You shouldn't say that!] JEONG WOO! 듣기 View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[You shouldn't say that!] JEONG WOO!"
+    },
+    {
+      "korean": "순서만 말하면 끊긴다고요? It breaks off whenever I tell the order? 듣기 View video MONSTA X : LIVE : 몬베베 오랜만🐢",
+      "english": "It breaks off whenever I tell the order?"
+    },
+    {
+      "korean": "이렇게 말하면 들리나요 여러분? If I talk like this, can you hear me? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "If I talk like this, can you hear me?"
+    },
+    {
+      "korean": "제가 잘하라고 말하면 잘 할 거예요? If I tell you to study hard, will you? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "If I tell you to study hard, will you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That’s not strictly true. 듣기 Add to Wordbook 그것은 엄밀히 말하면 사실이 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That’s not strictly true. Add to Wordbook"
+    },
+    {
+      "korean": "To put it in a nutshell, we’re bankrupt. 듣기 Add to Wordbook 간단명료하게 말하면, 우린 파산했어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "To put it in a nutshell, we’re bankrupt. Add to Wordbook"
+    },
+    {
+      "korean": "The result was unfortunate, to put it mildly. 듣기 Add to Wordbook 결과는, 부드럽게 말하면, 불행했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The result was unfortunate, to put it mildly. Add to Wordbook"
+    },
+    {
+      "korean": "In practical terms, it means spending less. 듣기 Add to Wordbook 현실적으로 말하면, 그것은 비용 절감을 의미한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In practical terms, it means spending less. Add to Wordbook"
+    },
+    {
+      "korean": "It wasn’t illegal in the strict sense (of the word). 듣기 Add to Wordbook 그것은 엄밀히 말하면 불법적이 아니었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It wasn’t illegal in the strict sense (of the word). Add to Wordbook"
+    }
+  ]
+}

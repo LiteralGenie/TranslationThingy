@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "조종",
+      "hanja": " (操縱)",
+      "example": {},
+      "meanings": [
+        "(비행기·배 등을) pilot, (비행기를) fly, (배를) steer",
+        "(사람·사건 등을) manipulate, (사건 등을) mastermind"
+      ]
+    },
+    {
+      "phrase": "비행기를 조종하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pilot[fly] a plane"
+      ]
+    },
+    {
+      "phrase": "배후에서 조종하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pull (the) wires[strings] from behind",
+        "maneuver from behind the scenes[in the background]"
+      ]
+    },
+    {
+      "phrase": "무선 조종의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "radio-controlled"
+      ]
+    },
+    {
+      "phrase": "배를 조종하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "navigate[steer] a ship"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "handling",
+      "frequency": 0
+    },
+    {
+      "meaning": "knell",
+      "frequency": 3
+    },
+    {
+      "meaning": "death bell",
+      "frequency": 0
+    },
+    {
+      "meaning": "passing bell",
+      "frequency": 0
+    },
+    {
+      "meaning": "piloting",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "얘가 지금 날 조종하고 있는 거야? Is he controlling me? 듣기 View video iKON : 12월31일!!!!!!!!",
+      "english": "Is he controlling me?"
+    },
+    {
+      "korean": "[찬희를 조종하는 커피 러버] 하얀 거 맞히고 싶지 않나요? [Controlling CHANI] Don't you want the white part? 듣기 View video SF9 : SF9 2020 설특집 아육대 비하인드 #1",
+      "english": "[Controlling CHANI] Don't you want the white part?"
+    },
+    {
+      "korean": "무선조종 자동차? A remote controlled car? 듣기 View video OSEN : '스타로드' AB6IX 박우진, 무한 매력의 소유자 #하이라이트",
+      "english": "A remote controlled car?"
+    },
+    {
+      "korean": "또 하늘 분들이 조종하셨나? Did HA:NEUL do something? 듣기 View video V COOKIE : [FULL] 하성운, 지금 봄! 피크닉 뮤직 라이브 in 에버랜드 (HA SUNG WOON's Picnic Music Live in EVERLAND)",
+      "english": "Did HA:NEUL do something?"
+    },
+    {
+      "korean": "난 비행기 조종해줄게. - 귀신이나 사람이... I will be the pilot. - Ghost or people... 듣기 View video THE BOYZ : 학주켑😀",
+      "english": "I will be the pilot. - Ghost or people..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The plane was piloted by the instructor. 듣기 Add to Wordbook 그 비행기는 교관이 조종했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plane was piloted by the instructor. Add to Wordbook"
+    },
+    {
+      "korean": "He radioed the pilot to change course. 듣기 Add to Wordbook 그가 조종사에게 항로를 바꾸라는 무선을 보냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He radioed the pilot to change course. Add to Wordbook"
+    },
+    {
+      "korean": "The pilot was able to parachute to safety. 듣기 Add to Wordbook 그 조종사는 낙하산으로 안전히 뛰어내릴 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pilot was able to parachute to safety. Add to Wordbook"
+    },
+    {
+      "korean": "The Abbey bell tolled for those killed in the war. 듣기 Add to Wordbook 애비 사원의 종이 전몰자들을 위한 조종을 울렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Abbey bell tolled for those killed in the war. Add to Wordbook"
+    },
+    {
+      "korean": "Fighter pilots searched out and attacked enemy aircraft. 듣기 Add to Wordbook 전투기 조종사들은 적기를 끝까지 찾아내어 공격했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fighter pilots searched out and attacked enemy aircraft. Add to Wordbook"
+    }
+  ]
+}

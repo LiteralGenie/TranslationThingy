@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "일이 없어 놀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be out of work",
+        "have no employment[job]"
+      ]
+    },
+    {
+      "phrase": "돈이 없어 따분하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be hard up for money",
+        "be embarrassed to find oneself without money"
+      ]
+    },
+    {
+      "phrase": "식욕이 없어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I've lost my appetite."
+      ]
+    },
+    {
+      "phrase": "흥미 없어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm not turned on."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "to little/no avail",
+      "frequency": 0
+    },
+    {
+      "meaning": "no-win",
+      "frequency": 0
+    },
+    {
+      "meaning": "get lost",
+      "frequency": 0
+    },
+    {
+      "meaning": "of little/no avail",
+      "frequency": 0
+    },
+    {
+      "meaning": "no can do",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "없어요...",
+      "english": "There are none..."
+    },
+    {
+      "korean": "없어요?",
+      "english": "They don't have it?"
+    },
+    {
+      "korean": "요 팔레트 워낙 독보적이라 하나밖에 없어요.",
+      "english": "This palette is so unique there is only one kind."
+    },
+    {
+      "korean": "또 요? - 다른 개인기 없어요?",
+      "english": "Again? - Do you have a different one?"
+    },
+    {
+      "korean": "간식이 없어!",
+      "english": "I have no snacks!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "저는 그걸 할 수 없어요.",
+      "english": "I am not able to do it."
+    },
+    {
+      "korean": "더 이상은 할 수 없어요.",
+      "english": "I do not be able of it more!"
+    },
+    {
+      "korean": "이 욕조엔 물이 없어요.",
+      "english": "There's no water in this tub!"
+    },
+    {
+      "korean": "아니, 난 포옹은 필요없어요.",
+      "english": "No, I don't need a hug."
+    },
+    {
+      "korean": "저는 지금 집에 없어요.",
+      "english": "I am not at home right now."
+    }
+  ]
+}

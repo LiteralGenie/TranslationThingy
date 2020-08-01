@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(상태·품질 등이) good, fine, nice; (다른 것보다) better (than), superior (to)",
+        "(성격·인품 등이) good, nice, good-natured",
+        "(건강·체격 등이) good, fine; (체격이) well-built"
+      ]
+    },
+    {
+      "phrase": "나 빼고 먼저 시작했으면 좋았을 텐데.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 You should have started without me."
+      ]
+    },
+    {
+      "phrase": "조금 더 일찍 깨워 줬으면 좋았을 텐데.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "아침의 행동을 나타내는 표현 You should have woken me sooner."
+      ]
+    },
+    {
+      "phrase": "좋은 일에는 남이요 궂은일에는 일가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Strangers when a good thing happens, and relatives when a bad thing happens"
+      ]
+    },
+    {
+      "phrase": "좋은 노래도 세 번 들으면 귀가 싫어한다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Your ears will be fed up with a good song if it is repeated three times"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "if only",
+      "frequency": 0
+    },
+    {
+      "meaning": "it could’ve been worse",
+      "frequency": 0
+    },
+    {
+      "meaning": "SWH",
+      "frequency": 0
+    },
+    {
+      "meaning": "good old days",
+      "frequency": 0
+    },
+    {
+      "meaning": "good",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[아쉬워] 국물이 더 있었음 좋았을 텐데... [Disappointed] I wish we had more soup. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Disappointed] I wish we had more soup."
+    },
+    {
+      "korean": "[언제 어디서나 우진 기다려...] 우진이도 같이 있었으면 좋았을 텐데... It would have been nice if Woo Jin was here, too... 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 서울가요대상 BEHIND",
+      "english": "It would have been nice if Woo Jin was here, too..."
+    },
+    {
+      "korean": "4교시 끝나고 진짜 몸이 안 좋았을 때 초등학교 때인가? After fourth period... When I don't feel good... Was it during elementary school? 듣기 View video SF9 : 저는 밥먹을거예요",
+      "english": "After fourth period... When I don't feel good... Was it during elementary school?"
+    },
+    {
+      "korean": "아 좋았을 것 같아요? Ah, you would have liked it? 듣기 View video SF9 : 🍧",
+      "english": "Ah, you would have liked it?"
+    },
+    {
+      "korean": "\"사진 같이 찍었으면 좋았을 텐데\" 그렇죠? \"I wish you could take a picture with him\". Right? 듣기 View video NCT : 안녕 こんにちは hello",
+      "english": "\"I wish you could take a picture with him\". Right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "If only I had gone by taxi. 발음듣기 내가 택시로 갔더라면 좋았을 텐데. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If only I had gone by taxi. 발음"
+    },
+    {
+      "korean": "I wish I hadn’t eaten so much. 발음듣기 내가 그렇게 많이 먹지 않았더라면 좋았을 텐데 (그랬다). Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I wish I hadn’t eaten so much. 발음"
+    },
+    {
+      "korean": "I wish we’d known about it beforehand. 발음듣기 우리가 그것에 대해 사전에 알고 있었더라면 좋았을 텐데 그랬다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I wish we’d known about it beforehand. 발음"
+    },
+    {
+      "korean": "You ought to have come to the meeting. It was interesting. 발음듣기 네가 그 모임에 왔더라면 좋았을 걸 그랬어. 재미있었는데. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You ought to have come to the meeting. It was interesting. 발음"
+    },
+    {
+      "korean": "If only I could have taken a picture as proof. 발음듣기 증거로 사진이라도 찍어뒀으면 좋았을 걸. DARAKWON",
+      "english": "If only I could have taken a picture as proof. 발음"
+    }
+  ]
+}

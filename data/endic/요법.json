@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "요법",
+      "hanja": " (療法)",
+      "example": {},
+      "meanings": [
+        "therapy, (medical) treatment, remedy"
+      ]
+    },
+    {
+      "phrase": "민간요법",
+      "hanja": " (民間療法)",
+      "example": {},
+      "meanings": [
+        "home[folk] remedy"
+      ]
+    },
+    {
+      "phrase": "식이요법",
+      "hanja": " (食餌療法)",
+      "example": {},
+      "meanings": [
+        "diet, diet therapy, dietary therapy"
+      ]
+    },
+    {
+      "phrase": "민간 요법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a folk remedy"
+      ]
+    },
+    {
+      "phrase": "대증 요법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "allopathy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "therapy",
+      "frequency": 3
+    },
+    {
+      "meaning": "dechloridation",
+      "frequency": 0
+    },
+    {
+      "meaning": "curative treatment",
+      "frequency": 0
+    },
+    {
+      "meaning": "art therapy",
+      "frequency": 0
+    },
+    {
+      "meaning": "osteopathy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그런데 홍수치료요법은 사실 굉장히 충격요법 비슷하기 때문에 위험할 수도 있고. But it can be dangerous sometimes. 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "But it can be dangerous sometimes."
+    },
+    {
+      "korean": "다이어트 식이요법을 안하고... We didn't change our eating habit when were on a diet... 듣기 View video GAVYNJ : GavyNJ_TV",
+      "english": "We didn't change our eating habit when were on a diet..."
+    },
+    {
+      "korean": "식이요법도 있을 테고, 운동도 있겠죠. There could be a diet in nutrition or a diet workout. 듣기 View video V Beauty : Akiba Rie - 리에와 요가Talk_모닝요가로 다이어트해요!",
+      "english": "There could be a diet in nutrition or a diet workout."
+    },
+    {
+      "korean": "저는 식이요법으로 고구마. 그런데 삼시세끼 다 챙겨먹었어요. I ate sweet potatoes. But ate all 3 meals a day. 듣기 View video MAMAMOO : 용콩별콩의 고민상담소!",
+      "english": "I ate sweet potatoes. But ate all 3 meals a day."
+    },
+    {
+      "korean": "[#살림꾼_민간요법(?)] 그러면 파 물면 눈이 좀 덜 매워요. [#Houskeeper's tip(?)] Bite onto a green onion. It'll help. 듣기 View video THE BOYZ : [FULL] 더 보이즈 '꽃미남 분식집' 2회 '본격오픈준비!' The BOYZ \"Flower Snack\" ep.2",
+      "english": "[#Houskeeper's tip(?)] Bite onto a green onion. It'll help."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a diet supplemented with vitamin pills 듣기 Add to Wordbook 비타민제를 보충하는 식이 요법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a diet supplemented with vitamin pills Add to Wordbook"
+    },
+    {
+      "korean": "an excellent home remedy for sore throats 듣기 Add to Wordbook 목 따가움을 위한 뛰어난 민간요법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an excellent home remedy for sore throats Add to Wordbook"
+    },
+    {
+      "korean": "She tolerated the chemotherapy well. 듣기 Add to Wordbook 그녀는 화학요법을 잘 견뎠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tolerated the chemotherapy well. Add to Wordbook"
+    },
+    {
+      "korean": "Garlic is widely used in Chinese folk medicine. 듣기 Add to Wordbook 마늘은 중국의 민간요법에서 널리 쓰인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Garlic is widely used in Chinese folk medicine. Add to Wordbook"
+    },
+    {
+      "korean": "‘You should try a herbal remedy.’ ‘Yeah, whatever.’ 듣기 Add to Wordbook “자넨 꼭 약초 요법을 써 봐야 해.” “그래, 그게 뭐든.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘You should try a herbal remedy.’ ‘Yeah, whatever.’ Add to Wordbook"
+    }
+  ]
+}

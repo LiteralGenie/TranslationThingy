@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "몇 명 더 와요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How many more are coming?"
+      ]
+    },
+    {
+      "phrase": "화가 몇 명의 합작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the joint performance of several artists"
+      ]
+    },
+    {
+      "phrase": "오늘 찾아올 지원자는 몇 명이죠?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "How many applicants today?"
+      ]
+    },
+    {
+      "phrase": "몇 명이 모이면 투어가 진행됩니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "관광 How many people have to go for there to be a tour?",
+        "관광 How many people have to sign up for there to be a tour?"
+      ]
+    },
+    {
+      "phrase": "센트럴 파크에서 젊은 여성이 몇 명의 남자들에게 둘러싸여 있습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "SOS표현 A young woman is being surrounded by several men in Central Park."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "X amount",
+      "frequency": 0
+    },
+    {
+      "meaning": "couple",
+      "frequency": 3
+    },
+    {
+      "meaning": "some of his friends",
+      "frequency": 0
+    },
+    {
+      "meaning": "group practice",
+      "frequency": 0
+    },
+    {
+      "meaning": "few",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "몇명? How many people? 듣기 View video FANGUIN TV : [SPICA] 스피카 'Secret Time' 스페셜 LIVE",
+      "english": "How many people?"
+    },
+    {
+      "korean": "근데 이거 3번이야, 4번이야? - 홍석 몇 명이야? But is it No. 3 or No. 4? - How many of you wrote Hongseok? 듣기 View video OSEN : PENTAGON 펜타곤이 꼽은 가장 힘이 센 멤버는? #스타로드 03",
+      "english": "But is it No. 3 or No. 4? - How many of you wrote Hongseok?"
+    },
+    {
+      "korean": "눈치 빠른 유애나들이 몇 명 막... A few quick UAENA... 듣기 View video IU : [IU TV] 너의 이름을 불러줄게",
+      "english": "A few quick UAENA..."
+    },
+    {
+      "korean": "깜짝 파티하는데 분명히 몇 명은... It's a surprise party, but... 듣기 View video TOMORROW X TOGETHER : 태현 탄신일❣",
+      "english": "It's a surprise party, but..."
+    },
+    {
+      "korean": "여기 잘생긴 사람 몇 명이야? - 세 명이요 - 세 명이 누군데? How many? - Three. - Who are they? 듣기 View video Stray Kids : First UNLOCK in Chicago❤",
+      "english": "How many? - Three. - Who are they?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Several prisoners broke out of the jail. 듣기 Add to Wordbook 죄수 몇 명이 탈옥을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several prisoners broke out of the jail. Add to Wordbook"
+    },
+    {
+      "korean": "Several youths had set fire to the police car. 듣기 Add to Wordbook 젊은 애들 몇 명이 그 경찰차에 불을 질렀었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several youths had set fire to the police car. Add to Wordbook"
+    },
+    {
+      "korean": "A few survivors were pulled from the wreckage. 듣기 Add to Wordbook 사고 잔해 속에서 몇 명의 생존자들이 끌려나왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A few survivors were pulled from the wreckage. Add to Wordbook"
+    },
+    {
+      "korean": "Several of the asylum seekers now face deportation. 듣기 Add to Wordbook 망명 신청자 몇 명이 지금 강제 추방을 앞두고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several of the asylum seekers now face deportation. Add to Wordbook"
+    },
+    {
+      "korean": "Several new councillors got in at the last election. 듣기 Add to Wordbook 지난번 선거에서 몇 명의 시의원들이 새로 선출되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several new councillors got in at the last election. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "희귀",
+      "hanja": " (稀貴)",
+      "example": {},
+      "meanings": [
+        "[명사] rarity, rareness, [형용사] rare"
+      ]
+    },
+    {
+      "phrase": "희귀병",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rare disease"
+      ]
+    },
+    {
+      "phrase": "희귀한 물건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rarity",
+        "a curiosity",
+        "rare articles"
+      ]
+    },
+    {
+      "phrase": "희귀한 책",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rare book"
+      ]
+    },
+    {
+      "phrase": "희귀한 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a rare occurrence[event]",
+        "an uncommon occurrence[event]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rare",
+      "frequency": 3
+    },
+    {
+      "meaning": "panda",
+      "frequency": 3
+    },
+    {
+      "meaning": "rarity",
+      "frequency": 0
+    },
+    {
+      "meaning": "twitcher",
+      "frequency": 0
+    },
+    {
+      "meaning": "a rare blood type",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "되게... 뭐랄까? 희귀... What should I say...It's quite unique... 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #55 부승관의 카스테라",
+      "english": "What should I say...It's quite unique..."
+    },
+    {
+      "korean": "희귀... - 희귀 혈액형 - 진짜요? A rare kind. - Rare blood type. - Really? 듣기 View video IDOL RADIO : [Full] 'IDOL RADIO' ep#4. 우리의 자정은 낮보다 뜨겁다 with 세븐틴",
+      "english": "A rare kind. - Rare blood type. - Really?"
+    },
+    {
+      "korean": "아사히 애교라고? - 그 희귀한! ASAHI's? - That's so rare! 듣기 View video YG 보석함 (YG TREASURE BOX) : [YG 보석함] TREASURE13 스페셜 라이브 / [YG TREASURE BOX] TREASURE13 Special Live",
+      "english": "ASAHI's? - That's so rare!"
+    },
+    {
+      "korean": "[희귀음성] - 구하기 힘들었습니다 - 그거 뭐니? [Rare audio clip] - It was hard to get. - What's that? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 12회 - YGX 이승현 대표님 워커홀릭설 팩트체크!",
+      "english": "[Rare audio clip] - It was hard to get. - What's that?"
+    },
+    {
+      "korean": "[자기 합리화] - 이거 주세요~ - 내 생각에는 이게 희귀하니까 사겠어. [Self-rationalize] - Give me this... - Since it's rare, I will buy this. 듣기 View video 졸잼티비 (joLjamTV) : ep12. 박은혜, 한류스타 등극?! _ 뷰티스코드3",
+      "english": "[Self-rationalize] - Give me this... - Since it's rare, I will buy this."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Wild flowers such as primroses are becoming rare. 듣기 Add to Wordbook 예를 들어 앵초와 같은 그런 야생화들이 점점 희귀해지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Wild flowers such as primroses are becoming rare. Add to Wordbook"
+    },
+    {
+      "korean": "The value of antiques will depend on their condition and rarity. 듣기 Add to Wordbook 골동품의 가치는 그 (보존) 상태와 희귀성에 달려 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The value of antiques will depend on their condition and rarity. Add to Wordbook"
+    },
+    {
+      "korean": "This species is extremely rare. 듣기 Add to Wordbook 이 종은 극도로 희귀하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This species is extremely rare. Add to Wordbook"
+    },
+    {
+      "korean": "a rare disease / occurrence / sight 듣기 Add to Wordbook 희귀 질환/드문 일/보기 힘든 광경 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a rare disease / occurrence / sight Add to Wordbook"
+    },
+    {
+      "korean": "He buys rare baseball cards on eBay. 듣기 Add to Wordbook 그는 이베이에서 희귀 야구 카드를 산다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He buys rare baseball cards on eBay. Add to Wordbook"
+    }
+  ]
+}

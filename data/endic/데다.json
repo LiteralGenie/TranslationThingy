@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "데다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(화상을 입다) (불에) burn oneself, (뜨거운 물·증기 등에) scald oneself",
+        "(심한 고통을 당하다) have a bad[bitter] experience"
+      ]
+    },
+    {
+      "phrase": "데",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(곳, 장소) (장소) place, point, (특정 지점) spot, location, (터) site, (지역) area",
+        "(부분, 요소) part, aspect, feature, quality",
+        "(일, 사실)"
+      ]
+    },
+    {
+      "phrase": "-데",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -de"
+      ]
+    },
+    {
+      "phrase": "-ㄴ데",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그러나) but, however, still",
+        "(그리고) and, when, where, who",
+        "(감탄)"
+      ]
+    },
+    {
+      "phrase": "먼 데",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a far-off place",
+        "a distant place",
+        "a distance"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "burn",
+      "frequency": 3
+    },
+    {
+      "meaning": "scald",
+      "frequency": 3
+    },
+    {
+      "meaning": "streak",
+      "frequency": 3
+    },
+    {
+      "meaning": "nowhere",
+      "frequency": 3
+    },
+    {
+      "meaning": "cutter",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네가 원하는 데 다 했어? - 네. Did you do all the parts you wanted to do? - Yes. 듣기 View video DIA : 다이아 콘서트 B조 자작곡 녹음현장",
+      "english": "Did you do all the parts you wanted to do? - Yes."
+    },
+    {
+      "korean": "고르라는 데 다 이유가 있다고요. - 저는 골랐습니다. There are reasons as I said this. - I chose one. 듣기 View video IDOL x IDOL : BLOOMY - 블루미 '맞춰! 맞춰! 막 맞춰!!'",
+      "english": "There are reasons as I said this. - I chose one."
+    },
+    {
+      "korean": "둘이 용달차에서 내리는 데 다 해결해 줄 거 같아서... They got out of a car, and they looked too reliable. 듣기 View video V Special : JTBC <판타스틱>(Fantastic) Leading Actress Spot Live",
+      "english": "They got out of a car, and they looked too reliable."
+    },
+    {
+      "korean": "이렇게 입으면 가릴데 다 가리죠. If you wear these two, you can pretty much hide all worrisome spots. 듣기 View video V Beauty : 룡이의 Summer item & bikini 입는 꿀팁",
+      "english": "If you wear these two, you can pretty much hide all worrisome spots."
+    },
+    {
+      "korean": "저기요, 지금 도망가는 소리 들리는 데 다들 STOP 해주세요. You know, I hear them running away. Please stop them. 듣기 View video THE MUSIC WORKS : ⭐️김소희⭐️ 퀵家네 김밥",
+      "english": "You know, I hear them running away. Please stop them."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He spent all his salary on books. 듣기 Add to Wordbook 그는 월급을 책 사는 데 다 썼다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He spent all his salary on books. Add to Wordbook"
+    },
+    {
+      "korean": "I think, they would be shocked to see how far I’ve come. 듣기 Add to Wordbook 아마 제가 이 정도까지 된 데 다들 놀랐을 거예요. YBM All in All English-Korean Dictionary",
+      "english": "I think, they would be shocked to see how far I’ve come. Add to Wordbook"
+    },
+    {
+      "korean": "Everyone seems to be getting used to dialing the new numbers. 듣기 Add to Wordbook 새 전화 번호를 돌리는 데 다들 익숙해지고 있는 것 같아요. YBM All in All English-Korean Dictionary",
+      "english": "Everyone seems to be getting used to dialing the new numbers. Add to Wordbook"
+    },
+    {
+      "korean": "Eventually, the poor bees spend all their energy searching for their homes, and soon enough they die. 듣기 Add to Wordbook 결과, 불쌍한 벌들은 그들의 에너지를 집을 찾는 데 다 써버리고, 머지않아 죽게 돼요. TIMES CORE",
+      "english": "Eventually, the poor bees spend all their energy searching for their homes, and soon enough they die. Add to Wordbook"
+    },
+    {
+      "korean": "Sources familiar with the situation agree that the deal was only made possible after South Korea intervened in the process. 듣기 Add to Wordbook 이 문제에 정통한 소식통들은 이번 협상이 한국의 중재를 통해서 가능할 수 있었다는 데 다 같이 입을 모으고 있다. TIMES CORE",
+      "english": "Sources familiar with the situation agree that the deal was only made possible after South Korea intervened in the process. Add to Wordbook"
+    }
+  ]
+}

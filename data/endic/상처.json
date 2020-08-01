@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "상처",
+      "hanja": " (傷處)",
+      "example": {},
+      "meanings": [
+        "(몸의) injury, abrasion, (총·칼 등으로 인한) wound, (칼에 베인) cut, (멍 등의 타박상) bruise, contusion, (찰과상) scratch",
+        "(마음의) wound, scar, hurt"
+      ]
+    },
+    {
+      "phrase": "상처",
+      "hanja": " (喪妻)",
+      "example": {},
+      "meanings": [
+        "Noun losing one's wife"
+      ]
+    },
+    {
+      "phrase": "상처(딱지)",
+      "hanja": " ((傷處)-)",
+      "example": {},
+      "meanings": [
+        "의학 crust"
+      ]
+    },
+    {
+      "phrase": "상처하다",
+      "hanja": " (喪妻하다)",
+      "example": {},
+      "meanings": [
+        "(아내를 잃다) lose one's wife, be bereaved of one's wife"
+      ]
+    },
+    {
+      "phrase": "할퀸 상처",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a scratch",
+        "a nail mark"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hurt",
+      "frequency": 3
+    },
+    {
+      "meaning": "sore",
+      "frequency": 3
+    },
+    {
+      "meaning": "wound 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "injury",
+      "frequency": 3
+    },
+    {
+      "meaning": "cut",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇게까지 상처받고도 잊지 않을 남자가 어디 있냐? Everybody would forget, after getting hurt so much. 듣기 View video 컨스TV : 니들 나한테 용사따윈 바라지 마라![넘버식스]ep8.",
+      "english": "Everybody would forget, after getting hurt so much."
+    },
+    {
+      "korean": "영광의 상처? It's an wound of honor. 듣기 View video MAMAMOO : [MMMTV6] EP2 3rd Universe MAMAMOO?",
+      "english": "It's an wound of honor."
+    },
+    {
+      "korean": "상처 보이죠? You see the scar, right? 듣기 View video OH MY GIRL : YUB Night🌙",
+      "english": "You see the scar, right?"
+    },
+    {
+      "korean": "나는! 절대 상처받지 않아! I! I will never get hurt! 듣기 View video 컨버전스티비 (CONS TV) : 몽슈슈 글로벌하우스 Ep2. [니가 왜 거기서 나와?]",
+      "english": "I! I will never get hurt!"
+    },
+    {
+      "korean": "'손에 난 상처 다 나았나요?' \"Did your scar got better?\" 듣기 View video Hwang Chi Yeul : 즐거운 주말되세요^^",
+      "english": "\"Did your scar got better?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "His legs were covered with weeping sores. 듣기 Add to Wordbook 그의 다리는 진물이 흐르는 상처투성이였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His legs were covered with weeping sores. Add to Wordbook"
+    },
+    {
+      "korean": "The cut healed up without leaving a scar. 듣기 Add to Wordbook 그 베인 상처는 흉터 없이 나았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cut healed up without leaving a scar. Add to Wordbook"
+    },
+    {
+      "korean": "Bathe the wound and apply a clean dressing. 듣기 Add to Wordbook 상처를 세척하고 깨끗한 붕대를 감아라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Bathe the wound and apply a clean dressing. Add to Wordbook"
+    },
+    {
+      "korean": "The bruising was not contiguous to the wound. 듣기 Add to Wordbook 타박상은 상처에 근접해 있지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bruising was not contiguous to the wound. Add to Wordbook"
+    },
+    {
+      "korean": "He was bleeding from a gash on his head. 듣기 Add to Wordbook 그는 머리에 난 깊은 상처에서 피를 흘리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was bleeding from a gash on his head. Add to Wordbook"
+    }
+  ]
+}

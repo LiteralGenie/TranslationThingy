@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "예의",
+      "hanja": " (禮儀)",
+      "example": {},
+      "meanings": [
+        "manners, etiquette, courtesy, politeness, (formal) the proprieties, (formal) decorum, (formal) civility"
+      ]
+    },
+    {
+      "phrase": "예의 바른",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "courteous",
+        "polite",
+        "civil"
+      ]
+    },
+    {
+      "phrase": "예의 바르게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in a civil way",
+        "politely",
+        "courteously"
+      ]
+    },
+    {
+      "phrase": "예의가 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack courtesy"
+      ]
+    },
+    {
+      "phrase": "예의 바르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "형식적으로 be civil"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "grace",
+      "frequency": 2
+    },
+    {
+      "meaning": "manner",
+      "frequency": 2
+    },
+    {
+      "meaning": "etiquette",
+      "frequency": 1
+    },
+    {
+      "meaning": "decorum",
+      "frequency": 0
+    },
+    {
+      "meaning": "devoir",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[예의 바름] 안 계세요? [Polite] Is anybody there? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.13 SVT ESCAPE ROOM #2",
+      "english": "[Polite] Is anybody there?"
+    },
+    {
+      "korean": "최대한 예의를 차리겠죠? I'll be as polite as I can, right? 듣기 View video ASTRO : 보이스온리 할거야😃",
+      "english": "I'll be as polite as I can, right?"
+    },
+    {
+      "korean": "[예의 바름] 사진 찍어 드릴까요? [Polite] Do you want me to take a picture of you? 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.01",
+      "english": "[Polite] Do you want me to take a picture of you?"
+    },
+    {
+      "korean": "'예의없게 존댓말 자꾸 하실래요?' \"Are you going to keep being improper and speak honorifics?\" 듣기 View video GOT7 : 긋밤☕️",
+      "english": "\"Are you going to keep being improper and speak honorifics?\""
+    },
+    {
+      "korean": "[예의범절 중시하는 유교고양이 심각하게 귀엽네요] 그렇죠 아직... [They're so cute thinking about being polite and all] Yes we're... 듣기 View video V PICK! : [ASTRO] 딴콩엠씨 귀여움의 한계는 어디까진지.. 몰라 알 수가 없어!🎶 (Moonbin&Sanha’s first MC debut!)",
+      "english": "[They're so cute thinking about being polite and all] Yes we're..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "beyond/outside/within the bounds of decency 발음듣기 예의의 한도를 넘어선/한도 밖의/한도 내의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "beyond/outside/within the bounds of decency 발음"
+    },
+    {
+      "korean": "lessons for young ladies in deportment and etiquette 발음듣기 젊은 처자들을 위한 몸가짐과 예의범절 교육 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "lessons for young ladies in deportment and etiquette 발음"
+    },
+    {
+      "korean": "He was not particularly well versed in the social graces. 발음듣기 그는 사교적인 예의를 특별히 잘 갖추고 있지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was not particularly well versed in the social graces. 발음"
+    },
+    {
+      "korean": "He was bundled out of the room with unceremonious haste. 발음듣기 그는 예의고 뭐고 없이 서둘러 그 방에서 쫓겨났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was bundled out of the room with unceremonious haste. 발음"
+    },
+    {
+      "korean": "a graceless, angry young man 발음듣기 예의 없는, 화가 난 청년 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a graceless, angry young man 발음"
+    }
+  ]
+}

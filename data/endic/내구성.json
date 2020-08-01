@@ -1,0 +1,108 @@
+{
+  "phrases": [
+    {
+      "phrase": "내구성",
+      "hanja": " (耐久性)",
+      "example": {},
+      "meanings": [
+        "durability"
+      ]
+    },
+    {
+      "phrase": "내구성이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be short-lived",
+        "be not durable"
+      ]
+    },
+    {
+      "phrase": "내구성이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "옷·신발 등이 wear long",
+        "옷·신발 등이 wear well"
+      ]
+    },
+    {
+      "phrase": "강도[내구성] 시험",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a strength[durability] test"
+      ]
+    },
+    {
+      "phrase": "내구성 시험",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 endurance test"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fiber",
+      "frequency": 1
+    },
+    {
+      "meaning": "durability",
+      "frequency": 0
+    },
+    {
+      "meaning": "wearability",
+      "frequency": 0
+    },
+    {
+      "meaning": "serviceability",
+      "frequency": 0
+    },
+    {
+      "meaning": "lasting quality",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "Galaxy가 좀 내구성은 좋더라고요. Galaxy has good durability. 듣기 View video BRAVE Entertainment : BIGSTAR will sing for you 3-4",
+      "english": "Galaxy has good durability."
+    },
+    {
+      "korean": "[내구성 튼튼한 혁벅지] 얘가 딴딴하네. [Hard thigh] His thigh is so hard. 듣기 View video Amigo TV : 본격 아이돌 혜자방송 <아이돌에 미치고, 아미고TV> 빅스편 (4/7)",
+      "english": "[Hard thigh] His thigh is so hard."
+    },
+    {
+      "korean": "[맛은 있는데 내구성이 부실] - 많이 빠졌네. - 터졌어. [Tastes good but the durability is weak] - A lot came out. - It exploded. 듣기 View video 파파런치 에이프릴박스 (Papalunch Aprilbox) : 파파런치 에이프릴박스 Ep07<레이첼은 시집을 잘 간다?>",
+      "english": "[Tastes good but the durability is weak] - A lot came out. - It exploded."
+    },
+    {
+      "korean": "[보기보다 내구성이 뛰어난 도영이가 빌린 배] 이게 더 빠르겠네. [Doyoung's boat has good internal structure] That would be a lot faster. 듣기 View video V PICK! : [NCT] 바다에 쓰레기버리면 일이칠한테 혼난다잉~⁉️ (NCT 127’s V at the sea)",
+      "english": "[Doyoung's boat has good internal structure] That would be a lot faster."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the durability of gold 발음듣기 금의 내구성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the durability of gold 발음"
+    },
+    {
+      "korean": "The brand-new smart phone is durable and the screen is shatter-resistant. 발음듣기 새로 나온 스마트폰은 내구성이 좋으며 액정화면에 비산 방지 기능이 있다. 국제영어대학원대학교 신어사전",
+      "english": "The brand-new smart phone is durable and the screen is shatter-resistant. 발음"
+    },
+    {
+      "korean": "Board books are more durable than others. 발음듣기 보드책은 다른 책보다 내구성이 뛰어나다. 국제영어대학원대학교 신어사전",
+      "english": "Board books are more durable than others. 발음"
+    },
+    {
+      "korean": "Good quality and durability are specially guaranteed. 발음듣기 품질의 우량성과 내구성을 특별히 보증합니다. Friendict Level English-Korean Dictionary",
+      "english": "Good quality and durability are specially guaranteed. 발음"
+    },
+    {
+      "korean": "We seek for innovating way to improve corrosion resistance. 발음듣기 내구성을 강화하기위한 혁신적인 방법을 찾고 있다. YBM All in All English-Korean Dictionary",
+      "english": "We seek for innovating way to improve corrosion resistance. 발음"
+    }
+  ]
+}

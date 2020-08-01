@@ -1,0 +1,65 @@
+{
+  "phrases": [
+    {
+      "phrase": "검",
+      "hanja": " (劍)",
+      "example": {},
+      "meanings": [
+        "sword, (날이 휜) saber"
+      ]
+    },
+    {
+      "phrase": "검물벼룩",
+      "hanja": " (劍─)",
+      "example": {},
+      "meanings": [
+        "동물 Cyclops"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sword",
+      "frequency": 3
+    },
+    {
+      "meaning": "glaive",
+      "frequency": 0
+    },
+    {
+      "meaning": "Toledo",
+      "frequency": 0
+    },
+    {
+      "meaning": "Excalibur",
+      "frequency": 0
+    },
+    {
+      "meaning": "bilbo 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The sword thirsts to drink the blood of an enemy. 듣기 Add to Wordbook 그 검(劍)은 적의 피에 굶주리고 있다. 영어영작문대사전",
+      "english": "The sword thirsts to drink the blood of an enemy. Add to Wordbook"
+    },
+    {
+      "korean": "He who lives by the sword shall die by the sword. 듣기 Add to Wordbook 검(劍)으로써 사는 자는 끝내 검(劍)으로써 죽는다. 영어영작문대사전",
+      "english": "He who lives by the sword shall die by the sword. Add to Wordbook"
+    },
+    {
+      "korean": "I live under a sword suspended by a hair. 듣기 Add to Wordbook 나는 한오라기의 털로 매달은 검(劍) 밑에 있는 것과 다름없다. 영어영작문대사전",
+      "english": "I live under a sword suspended by a hair. Add to Wordbook"
+    },
+    {
+      "korean": "The idiom “Gyeon Mun Bal Geom” (“Jian Wen Ba Jian” in Chinese) consists of four characters, each of which means “to see”, “mosquito”, “to draw”, “sword”. 듣기 Add to Wordbook 고사성어 “견문발검” (見蚊拔劍)은 각각, \"보다\" (見), \"모기\" (蚊), \"뽑다\" (拔), \"칼\" (劍)을 뜻하는 네 글자로 구성되어있습니다. TIMES CORE",
+      "english": "The idiom “Gyeon Mun Bal Geom” (“Jian Wen Ba Jian” in Chinese) consists of four characters, each of which means “to see”, “mosquito”, “to draw”, “sword”. Add to Wordbook"
+    },
+    {
+      "korean": "I think I need a sword. 듣기 Add to Wordbook 나는 검(劍)이 필요하다고 생각한다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 kwonil61(kwon****)",
+      "english": "I think I need a sword. Add to Wordbook"
+    }
+  ]
+}

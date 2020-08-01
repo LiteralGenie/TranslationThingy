@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "가깝다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(거리가) close (to), nearby, close by, near",
+        "(시간이) near, close (to), immediate",
+        "(사이·관계 등이) close (to), intimate (=친밀하다, 친하다)"
+      ]
+    },
+    {
+      "phrase": "가까운 친구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a(n) close[intimate] friend",
+        "a bosom buddy[friend, pal]"
+      ]
+    },
+    {
+      "phrase": "가까운 시일 내에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "soon",
+        "as soon as possible (ASAP)",
+        "in the near future"
+      ]
+    },
+    {
+      "phrase": "가까운 장래에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the near[immediate] future",
+        "at an early date"
+      ]
+    },
+    {
+      "phrase": "가까운 시일에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at (some) early date"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "close 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "near",
+      "frequency": 3
+    },
+    {
+      "meaning": "convenient",
+      "frequency": 3
+    },
+    {
+      "meaning": "adjacent",
+      "frequency": 3
+    },
+    {
+      "meaning": "close-at-hand",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[스파이는 가까운 곳에 있다!] [The spy is among us!] View video ITZY : ITZY(있지) IT'z TOURBOOK EP07",
+      "english": "[The spy is among us!]"
+    },
+    {
+      "korean": "나보다 가까운 사람 있어? - 17개국이요? Is there anyone closer than me? - 17 countries? 듣기 View video OSEN : Stray Kids 스트레이키즈, TMI 대방출 퀴즈대결 #스타로드 07",
+      "english": "Is there anyone closer than me? - 17 countries?"
+    },
+    {
+      "korean": "이것도 가까운 거죠? - 아이튠즈요? The winner is the one who gets the closest? - iTunes? 듣기 View video OSEN : Stray Kids 스트레이키즈, TMI 대방출 퀴즈대결 #스타로드 07",
+      "english": "The winner is the one who gets the closest? - iTunes?"
+    },
+    {
+      "korean": "이 가까운 거리에서... It's so close. 듣기 View video TWICE : ㄴㅁ",
+      "english": "It's so close."
+    },
+    {
+      "korean": "내 몸에 가까운 물 포카리... Pocari sweat that replenishes water. 듣기 View video TWICE : [AutoCut_JIHYO] TWICE First Half Highlight",
+      "english": "Pocari sweat that replenishes water."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The bullet ricocheted off a nearby wall. 듣기 Add to Wordbook 총알은 가까운 벽에 맞고 튀어 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bullet ricocheted off a nearby wall. Add to Wordbook"
+    },
+    {
+      "korean": "The nearest town is about ten miles upstream. 듣기 Add to Wordbook 가장 가까운 도시는 상류로 10마일쯤 가면 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The nearest town is about ten miles upstream. Add to Wordbook"
+    },
+    {
+      "korean": "Such protests are without precedent in recent history. 듣기 Add to Wordbook 그러한 항의는 가까운 역사에서는 전례가 없는 일이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Such protests are without precedent in recent history. Add to Wordbook"
+    },
+    {
+      "korean": "football fans whose support for their team borders on idolatry 듣기 Add to Wordbook 자기 팀에게 숭배에 가까운 지지를 보내는 축구 팬들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "football fans whose support for their team borders on idolatry Add to Wordbook"
+    },
+    {
+      "korean": "Help was at hand. 듣기 Add to Wordbook 도움의 손길이 가까운 곳에 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Help was at hand. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이민",
+      "hanja": " (移民)",
+      "example": {},
+      "meanings": [
+        "(다른 나라로부터) immigration (to), (다른 나라로) emigration (from)"
+      ]
+    },
+    {
+      "phrase": "imine",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 화학 이민"
+      ]
+    },
+    {
+      "phrase": "I.Min.E.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "英 Institution of Mining Engineers."
+      ]
+    },
+    {
+      "phrase": "IMinE",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ABBREVIATION Institution of Mining Engineers"
+      ]
+    },
+    {
+      "phrase": "이민 비자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an immigrant visa"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "immigration",
+      "frequency": 3
+    },
+    {
+      "meaning": "emigration",
+      "frequency": 3
+    },
+    {
+      "meaning": "imine",
+      "frequency": 0
+    },
+    {
+      "meaning": "transplantation",
+      "frequency": 0
+    },
+    {
+      "meaning": "transmigrant",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여기 지금 이민 오셨어요? Did you immigrate here? 듣기 View video V PICK! : [2년 전 오늘의 DAY6] 일로 오세여~ 2년 전 방콕의 큐티데식 일로 오세여~ (DAY6 2 years ago)",
+      "english": "Did you immigrate here?"
+    },
+    {
+      "korean": "이민 가야 될 수도 있겠네. We might have to leave the country. 듣기 View video Golden Child : 골든차일드(Golden Child) Golden Movie \"奇跡(기적)\"",
+      "english": "We might have to leave the country."
+    },
+    {
+      "korean": "이민 이렇게 부르고 유기 이렇게 부르잖아요. - 맞아요. called me Lee Min and You Ki... - Right. 듣기 View video MONSTA X : 몬.즐.라 - 몬스타엑스의 즐거운 라디오 [MON HAPPY RADIO] EP.8 ★데뷔3주년 특/별/편/성/",
+      "english": "called me Lee Min and You Ki... - Right."
+    },
+    {
+      "korean": "유학이 아니라 아예 이민을 보내버리는 수가 있어! I might make you emigrate and not study abroad! 듣기 View video 초등학생 관심거리연구소 (Super Cool Kids Lab) : [남자사람친구 14일전]_4화 | 못생긴 애가 예쁘게도 자네",
+      "english": "I might make you emigrate and not study abroad!"
+    },
+    {
+      "korean": "이민가는 소감. A word about immigrating. 듣기 View video BTOB : 비투비 - 비트콤 #18 (2017 드림콘서트 비하인드 )",
+      "english": "A word about immigrating."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the absorption of immigrants into the host country 듣기 Add to Wordbook 이민을 받아들이는 국가로의 이민 흡수 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the absorption of immigrants into the host country Add to Wordbook"
+    },
+    {
+      "korean": "He was criticized for his tough stand on immigration. 듣기 Add to Wordbook 그는 이민에 대한 강경한 태도로 비판을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was criticized for his tough stand on immigration. Add to Wordbook"
+    },
+    {
+      "korean": "The government has adopted an aggressive posture on immigration. 듣기 Add to Wordbook 그 정부는 이민에 대해 공격적인 자세를 취해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government has adopted an aggressive posture on immigration. Add to Wordbook"
+    },
+    {
+      "korean": "They claimed they were political refugees and not economic migrants. 듣기 Add to Wordbook 그들은 자기들이 정치적 난민이지 경제 이민이 아니라고 주장했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They claimed they were political refugees and not economic migrants. Add to Wordbook"
+    },
+    {
+      "korean": "My grandparents emigrated to Canada to try their luck there. 듣기 Add to Wordbook 우리 조부모님은 그곳에서 자신들의 운수를 시험해 보기 위해 캐나다로 이민을 가셨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My grandparents emigrated to Canada to try their luck there. Add to Wordbook"
+    }
+  ]
+}

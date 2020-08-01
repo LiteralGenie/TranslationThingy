@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(수소) bull, (암소) cow, (거세된 수소) ox (oxen), (거세된 어린 수소) bullock, steer, (아직 새끼를 낳지 않은 암소) heifer, (송아지) calf (calves), (집합적) cattle"
+      ]
+    },
+    {
+      "phrase": "소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음식 속에 넣는 고명) filling"
+      ]
+    },
+    {
+      "phrase": "소",
+      "hanja": " (小)",
+      "example": {},
+      "meanings": [
+        "(형용사적) small, little, minor, lesser, miniature"
+      ]
+    },
+    {
+      "phrase": "소",
+      "hanja": " (訴)",
+      "example": {},
+      "meanings": [
+        "Noun claim, case"
+      ]
+    },
+    {
+      "phrase": "대[소] 인수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a large[small] number of people"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cattle",
+      "frequency": 3
+    },
+    {
+      "meaning": "small",
+      "frequency": 3
+    },
+    {
+      "meaning": "ox",
+      "frequency": 3
+    },
+    {
+      "meaning": "filling",
+      "frequency": 3
+    },
+    {
+      "meaning": "S",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소... Cow... Cow is... 듣기 View video EXO : 안녕하세요 exo 카이입니다",
+      "english": "Cow... Cow is..."
+    },
+    {
+      "korean": "[소 잃고 외양간 득템] 교훈을 얻는 게 없잖아! [You lose a cow, and get a barn] There's no lesson. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[You lose a cow, and get a barn] There's no lesson."
+    },
+    {
+      "korean": "[(미안함에 음소거 미소)] 소 잃고 외양간을 잃으면 뭘 얻는데? [I'm sorry] What do you get if you lose a cow and a barn? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[I'm sorry] What do you get if you lose a cow and a barn?"
+    },
+    {
+      "korean": "귤 하나 - 소 좀... A tangerine. - Dumpling filling. 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "A tangerine. - Dumpling filling."
+    },
+    {
+      "korean": "소띠? Year of the ox? 듣기 View video THE BOYZ : 신상",
+      "english": "Year of the ox?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The cattle were put out to pasture. 듣기 Add to Wordbook 그 소들은 목초지에 내놓여져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cattle were put out to pasture. Add to Wordbook"
+    },
+    {
+      "korean": "A pair of oxen, yoked together, was used. 듣기 Add to Wordbook 함께 멍에를 씌운 한 쌍의 소가 이용되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A pair of oxen, yoked together, was used. Add to Wordbook"
+    },
+    {
+      "korean": "This particular breed of cattle matures early. 듣기 Add to Wordbook 이 특정 종자의 소는 빨리 어른 소가 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This particular breed of cattle matures early. Add to Wordbook"
+    },
+    {
+      "korean": "In this area oxen are used to pull carts. 듣기 Add to Wordbook 이 지역에서는 소가 달구지를 끄는 데 이용된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In this area oxen are used to pull carts. Add to Wordbook"
+    },
+    {
+      "korean": "The leaves of certain trees are poisonous to cattle. 듣기 Add to Wordbook 어떤 나무들의 잎은 소에게 유독하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The leaves of certain trees are poisonous to cattle. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "개체",
+      "hanja": " (個體)",
+      "example": {},
+      "meanings": [
+        "(formal) entity, individual (being)"
+      ]
+    },
+    {
+      "phrase": "개체 발생",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ontogeny"
+      ]
+    },
+    {
+      "phrase": "개체 간의 차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(an) individual difference"
+      ]
+    },
+    {
+      "phrase": "개체 식별을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "recognize individually"
+      ]
+    },
+    {
+      "phrase": "개체 변이",
+      "hanja": " (個體變異·箇體變異)",
+      "example": {},
+      "meanings": [
+        "individual variation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unity",
+      "frequency": 3
+    },
+    {
+      "meaning": "singleton",
+      "frequency": 0
+    },
+    {
+      "meaning": "zoon",
+      "frequency": 0
+    },
+    {
+      "meaning": "zooid",
+      "frequency": 0
+    },
+    {
+      "meaning": "betterments and replacements",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "This bird is now an endling. 듣기 Add to Wordbook 이 새는 이제 이 종의 최후 개체이다. 국제영어대학원대학교 신어사전",
+      "english": "This bird is now an endling. Add to Wordbook"
+    },
+    {
+      "korean": "The current defaunation situation has been shown to have serious consequences for plant populations. 듣기 Add to Wordbook 현재의 개체 감소 상황은 식물 개채 수에 심각한 결과를 갖는 것으로 드러났다. 국제영어대학원대학교 신어사전",
+      "english": "The current defaunation situation has been shown to have serious consequences for plant populations. Add to Wordbook"
+    },
+    {
+      "korean": "An error occurred attempting to create the Object Picker. 듣기 Add to Wordbook 개체 선택기를 만드는 동안 오류가 발생했습니다. YBM All in All English-Korean Dictionary",
+      "english": "An error occurred attempting to create the Object Picker. Add to Wordbook"
+    },
+    {
+      "korean": "Failed to initialize object picker for the target domain. 듣기 Add to Wordbook 대상 도메인의 개체 선택을 초기화하지 못했습니다. YBM All in All English-Korean Dictionary",
+      "english": "Failed to initialize object picker for the target domain. Add to Wordbook"
+    },
+    {
+      "korean": "Select default permissions for user and group objects. 듣기 Add to Wordbook 사용자 및 그룹 개체에 대한 기본 사용 권한을 선택하십시오. YBM All in All English-Korean Dictionary",
+      "english": "Select default permissions for user and group objects. Add to Wordbook"
+    }
+  ]
+}

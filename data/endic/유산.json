@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "유산",
+      "hanja": " (遺産)",
+      "example": {},
+      "meanings": [
+        "(사후에 남겨진 재산) (물려받은) inheritance, legacy, (물려주는) (formal) bequest",
+        "(앞 세대가 물려준 사물·문화) heritage"
+      ]
+    },
+    {
+      "phrase": "유산",
+      "hanja": " (流産)",
+      "example": {},
+      "meanings": [
+        "[명사] (자연유산) miscarriage, stillbirth, (인공유산) abortion [동사] (자연적으로) miscarry, have[suffer] a miscarriage, (수술을 통해) abort, have an abortion"
+      ]
+    },
+    {
+      "phrase": "유산",
+      "hanja": " (有産)",
+      "example": {},
+      "meanings": [
+        "(재산이 많음)"
+      ]
+    },
+    {
+      "phrase": "문화유산",
+      "hanja": " (文化遺産)",
+      "example": {},
+      "meanings": [
+        "cultural heritage[traditions]"
+      ]
+    },
+    {
+      "phrase": "문화 유산",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a cultural heritage"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "legacy",
+      "frequency": 3
+    },
+    {
+      "meaning": "inheritance",
+      "frequency": 3
+    },
+    {
+      "meaning": "heritage",
+      "frequency": 3
+    },
+    {
+      "meaning": "miss 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "slip 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "천년의 유산? Cultural Heritage of 1000 Years? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Cultural Heritage of 1000 Years?"
+    },
+    {
+      "korean": "[이 정도면 문화유산 지정해놓고 모셔야 하는 위대한 인물들 아닙니까] 그래요? [Shouldn't they be designated as cultural heritages?] Really? 듣기 View video V PICK! : [SF9] 힘든 하루를 위로해주는 여기는 큰집라이ㅂ.. 아니 빈,us입니다! (SF9 talking about Chani’s text message)",
+      "english": "[Shouldn't they be designated as cultural heritages?] Really?"
+    },
+    {
+      "korean": "[왜냐하면 제로는 레전드를 넘어서 우주적 문화유산이 되었기 때문에] 그거 디노 '제로'요? [Because it's already been cultural heritage going beyond just being legendary] Dino \"Zero\"? 듣기 View video V PICK! : [SEVENTEEN] 뿌야의 새로운 눈물버튼이 추가되는 순간.svt (SEVENTEEN’s reaction of their funny video)",
+      "english": "[Because it's already been cultural heritage going beyond just being legendary] Dino \"Zero\"?"
+    },
+    {
+      "korean": "유네스코 세계유산입니다. A UNESCO World Heritage Site. 듣기 View video KIM JAEJOONG : 김재중의 스페셜 V LIVE in 공주",
+      "english": "A UNESCO World Heritage Site."
+    },
+    {
+      "korean": "유산와 폭행과... - 중절수술과... Miscarriage, assault... - Abortion... 듣기 View video 10PM : 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "Miscarriage, assault... - Abortion..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He left a bequest to each of his grandchildren. 듣기 Add to Wordbook 그는 손주 각각에게 유산을 남겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He left a bequest to each of his grandchildren. Add to Wordbook"
+    },
+    {
+      "korean": "The pregnancy ended in miscarriage at 11 weeks. 듣기 Add to Wordbook 그 임신은 11주째 때 유산으로 끝났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pregnancy ended in miscarriage at 11 weeks. Add to Wordbook"
+    },
+    {
+      "korean": "The residue of the estate was divided equally among his children. 듣기 Add to Wordbook 그 재산의 잔여 유산은 그의 자녀들에게 공평하게 분배되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The residue of the estate was divided equally among his children. Add to Wordbook"
+    },
+    {
+      "korean": "The shock caused her to miscarry. 듣기 Add to Wordbook 그 충격으로 그녀는 유산을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shock caused her to miscarry. Add to Wordbook"
+    },
+    {
+      "korean": "the proletariat and the bourgeoisie 듣기 Add to Wordbook 프롤레타리아와 부르주아[무산 계급과 유산 계급] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the proletariat and the bourgeoisie Add to Wordbook"
+    }
+  ]
+}

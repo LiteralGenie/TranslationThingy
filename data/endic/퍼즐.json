@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "퍼즐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "puzzle, (가로세로 퍼즐) crossword (puzzle), (조각 퍼즐) jigsaw puzzle"
+      ]
+    },
+    {
+      "phrase": "puzzle",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 퍼즐, (머리를 써서) 알아맞히기",
+        "Noun 특히 美 (=jigsaw)",
+        "Verb 어리둥절하게[이해할 수 없게] 만들다 (=baffle)"
+      ]
+    },
+    {
+      "phrase": "fuzzle",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Intransitive verb 미·속어 술취하다, 술마시다"
+      ]
+    },
+    {
+      "phrase": "퍼즐을 맞추다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "비유적 put the puzzle together",
+        "비유적 put all the pieces of a puzzle together"
+      ]
+    },
+    {
+      "phrase": "퍼즐을 풀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "solve[work out] a (crossword) puzzle"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "puzzle",
+      "frequency": 1
+    },
+    {
+      "meaning": "puzzle out 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "crossword",
+      "frequency": 1
+    },
+    {
+      "meaning": "jigsaw",
+      "frequency": 0
+    },
+    {
+      "meaning": "sudoku",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이건 퍼즐? This is a puzzle? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "This is a puzzle?"
+    },
+    {
+      "korean": "그래서 \"오! 퍼즐?\" So I said, \"Oh! A puzzle?\" 듣기 View video OUI ENTERTAINMENT : 잠깐의 소통🤗",
+      "english": "So I said, \"Oh! A puzzle?\""
+    },
+    {
+      "korean": "식스퍼즐~ 안 만났어요~ Six puzzle. We didn't meet. 듣기 View video (G)I-DLE : 수진!!!!!!",
+      "english": "Six puzzle. We didn't meet."
+    },
+    {
+      "korean": "네? 그것도 퍼즐이라고? What? That's also a puzzle? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "What? That's also a puzzle?"
+    },
+    {
+      "korean": "이것도 퍼즐 - 그것도 퍼즐이에요? This is also a puzzle. - That's also a puzzle? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "This is also a puzzle. - That's also a puzzle?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a cryptic crossword clue 발음듣기 아리송한 십자말 퍼즐 열쇠 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cryptic crossword clue 발음"
+    },
+    {
+      "korean": "a missing piece of the puzzle 발음듣기 그 퍼즐의 빠진 한 조각 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a missing piece of the puzzle 발음"
+    },
+    {
+      "korean": "a puzzle of fiendish complexity 발음듣기 골치 아프게 복잡한 퍼즐 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a puzzle of fiendish complexity 발음"
+    },
+    {
+      "korean": "a fitness/crossword, etc. fanatic 발음듣기 몸매[건강] 관리/십자말 퍼즐 등에 광적인 사람 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a fitness/crossword, etc. fanatic 발음"
+    },
+    {
+      "korean": "We fitted together the pieces of the puzzle. 발음듣기 우리는 퍼즐 조각들을 끼워 맞췄다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We fitted together the pieces of the puzzle. 발음"
+    }
+  ]
+}

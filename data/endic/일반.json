@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "일반",
+      "hanja": " (一般)",
+      "example": {},
+      "meanings": [
+        "(전반) the whole, general",
+        "(마찬가지) the (very) same, one and the same"
+      ]
+    },
+    {
+      "phrase": "일반의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "흔한 common"
+      ]
+    },
+    {
+      "phrase": "일반이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be the same",
+        "be identical",
+        "be equal"
+      ]
+    },
+    {
+      "phrase": "일반 사회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the general public",
+        "the public in general[at large]"
+      ]
+    },
+    {
+      "phrase": "일반 국민",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the general public"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rule",
+      "frequency": 3
+    },
+    {
+      "meaning": "ordinary dog",
+      "frequency": 0
+    },
+    {
+      "meaning": "general practice",
+      "frequency": 0
+    },
+    {
+      "meaning": "rank and file",
+      "frequency": 0
+    },
+    {
+      "meaning": "의사 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[일반 탁구채] - 뭐야! - 뭐야? [Normal table tennis racket] - What? - What? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Normal table tennis racket] - What? - What?"
+    },
+    {
+      "korean": "[일반 제기 연준 34개 성공] 34! [YEONJUN did 34] 34! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[YEONJUN did 34] 34!"
+    },
+    {
+      "korean": "에 이렇게 하시면 되는데 이게 일반 좀... You can do it like this but... 듣기 View video KIM JAEJOONG : [LIVE] 내일은 재중이와 콘서트에서 만나는 날💛",
+      "english": "You can do it like this but..."
+    },
+    {
+      "korean": "그냥 일반 모래가 아니에요 - 그래? It's not just regular sand. - Really? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #41",
+      "english": "It's not just regular sand. - Really?"
+    },
+    {
+      "korean": "[일반 제기 차기 범규 44개 성공] - 44! - 44! [BEOMGYU did 44 with ordinary jegi] - 44! - 44! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[BEOMGYU did 44 with ordinary jegi] - 44! - 44!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a speech that appealed to the rabble 듣기 Add to Wordbook 일반 대중에게 호소한 연설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a speech that appealed to the rabble Add to Wordbook"
+    },
+    {
+      "korean": "The excavations are open to the public. 듣기 Add to Wordbook 그 발굴지들이 일반인에게 공개된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The excavations are open to the public. Add to Wordbook"
+    },
+    {
+      "korean": "Let me deal with some common misconceptions. 듣기 Add to Wordbook 몇 가지 일반적인 오해를 다뤄 보겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let me deal with some common misconceptions. Add to Wordbook"
+    },
+    {
+      "korean": "This view is irreconcilable with common sense. 듣기 Add to Wordbook 이런 견해는 일반 상식과 양립하지 않는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This view is irreconcilable with common sense. Add to Wordbook"
+    },
+    {
+      "korean": "The bonds are convertible into ordinary shares. 듣기 Add to Wordbook 그 채권은 일반 주식으로 전환할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bonds are convertible into ordinary shares. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "장",
+      "hanja": " (場)",
+      "example": {},
+      "meanings": [
+        "(어떤 일이 행해지는 곳) place"
+      ]
+    },
+    {
+      "phrase": "장",
+      "hanja": " (腸)",
+      "example": {},
+      "meanings": [
+        "intestine, bowel, gut"
+      ]
+    },
+    {
+      "phrase": "장",
+      "hanja": " (醬)",
+      "example": {},
+      "meanings": [
+        "(음식) (간장) soy sauce, (된장) (fermented) soybean paste, (고추장) red pepper paste",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "장",
+      "hanja": " (張)",
+      "example": {},
+      "meanings": [
+        "(종이·접시 등을 세는 단위) sheet, (책의) leaf, page"
+      ]
+    },
+    {
+      "phrase": "장",
+      "hanja": " (章)",
+      "example": {},
+      "meanings": [
+        "(글을 나누는 단위) chapter"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "field",
+      "frequency": 3
+    },
+    {
+      "meaning": "ground",
+      "frequency": 3
+    },
+    {
+      "meaning": "chapter",
+      "frequency": 3
+    },
+    {
+      "meaning": "boss",
+      "frequency": 3
+    },
+    {
+      "meaning": "market",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "장바구니에! - 이거 묻혀야 되지? - 이 정도? In the shopping cart! - I should coat this with flour first, right? - This much? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "In the shopping cart! - I should coat this with flour first, right? - This much?"
+    },
+    {
+      "korean": "계란장? Soy sauce egg? 듣기 View video TOMORROW X TOGETHER : 태현범규_질문_다_드루와_요",
+      "english": "Soy sauce egg?"
+    },
+    {
+      "korean": "계란장이라고 하나요? That's what it's called? 듣기 View video TOMORROW X TOGETHER : 태현범규_질문_다_드루와_요",
+      "english": "That's what it's called?"
+    },
+    {
+      "korean": "[과연 특규가 장 본 재료와 요리 메뉴는?] [What did they each get?] View video 슈주 리턴즈 (SJ returns) : [슈주 리턴즈 : 스핀오프] 특규 리턴즈 픽쿡크라운 EP01",
+      "english": "[What did they each get?]"
+    },
+    {
+      "korean": "이제 장 보고 와서... So we just came back from grocery shopping. 듣기 View video GOT7 : 미국에서 유겸이",
+      "english": "So we just came back from grocery shopping."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We’re having new wardrobes built in. 듣기 Add to Wordbook 우리는 새 붙박이장을 들이고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re having new wardrobes built in. Add to Wordbook"
+    },
+    {
+      "korean": "The final chapter crystallizes all the main issues. 듣기 Add to Wordbook 마지막 장에서 모든 주요 쟁점들이 확실해진다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The final chapter crystallizes all the main issues. Add to Wordbook"
+    },
+    {
+      "korean": "Each chapter is referenced, citing literature up to 2004. 듣기 Add to Wordbook 각 장에는 2004년까지의 문헌을 인용하는 참고 문헌 목록이 달려 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Each chapter is referenced, citing literature up to 2004. Add to Wordbook"
+    },
+    {
+      "korean": "See the preceding chapter. 듣기 Add to Wordbook 앞에 나온 장을 보라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "See the preceding chapter. Add to Wordbook"
+    },
+    {
+      "korean": "The chapter headings are useful signposts to the content of the book. 듣기 Add to Wordbook 각 장(章)의 제목은 책의 내용으로 인도하는 유용한 길잡이이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The chapter headings are useful signposts to the content of the book. Add to Wordbook"
+    }
+  ]
+}

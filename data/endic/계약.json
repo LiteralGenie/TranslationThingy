@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "계약",
+      "hanja": " (契約)",
+      "example": {},
+      "meanings": [
+        "[명사] contract (with/between), [동사] contract"
+      ]
+    },
+    {
+      "phrase": "계약직",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "contract worker"
+      ]
+    },
+    {
+      "phrase": "계약대로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "according to the contract",
+        "as per contract",
+        "as contracted"
+      ]
+    },
+    {
+      "phrase": "전세 계약",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a lease",
+        "a charter"
+      ]
+    },
+    {
+      "phrase": "계약 해제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "revocation[rescission, cancellation] of a contract"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "contract",
+      "frequency": 3
+    },
+    {
+      "meaning": "bond",
+      "frequency": 3
+    },
+    {
+      "meaning": "covenant",
+      "frequency": 3
+    },
+    {
+      "meaning": "compact 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "signing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "멤버들 출연 계약? Contract for members to appear? 듣기 View video SF9 : 빈어스🍀",
+      "english": "Contract for members to appear?"
+    },
+    {
+      "korean": "형 계약하실 때 계약서는 잘 보셨죠? Did you read fine prints when you signed the contract? 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP24 #데스티니 #김종대의스케치북 #SM오디션썰",
+      "english": "Did you read fine prints when you signed the contract?"
+    },
+    {
+      "korean": "종신계약 가능해? Is a life contract possible? 듣기 View video SF9 : 커피먹방2",
+      "english": "Is a life contract possible?"
+    },
+    {
+      "korean": "오늘 바로 계약할 수 있죠? Can I sign the housing contract today? 듣기 View video 플레이리스트 (Playlist) : 엄마랑 싸우고 집을 나왔다 [인서울] - EP.08",
+      "english": "Can I sign the housing contract today?"
+    },
+    {
+      "korean": "전속 계약이 끝난 거죠? So the exclusive contract is terminated, right? 듣기 View video BTOB : ♥멜로디와의 봄날의 기억, 우리 70년 함께해요♥",
+      "english": "So the exclusive contract is terminated, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The lease expires/runs out next year. 듣기 Add to Wordbook 그 임대차 계약은 내년에 만료된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The lease expires/runs out next year. Add to Wordbook"
+    },
+    {
+      "korean": "to renew a licence/lease/subscription/contract, etc. 듣기 Add to Wordbook 자격증을 갱신하다/차용 계약/구독/계약 등을 연장하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to renew a licence/lease/subscription/contract, etc. Add to Wordbook"
+    },
+    {
+      "korean": "There were six bidders for the catering contract. 듣기 Add to Wordbook 그 음식 납품 계약에 여섯 업체가 응찰했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There were six bidders for the catering contract. Add to Wordbook"
+    },
+    {
+      "korean": "They reminded him of his contractual obligations. 듣기 Add to Wordbook 그들이 그에게 계약상의 의무들을 상기시켜 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They reminded him of his contractual obligations. Add to Wordbook"
+    },
+    {
+      "korean": "The company poached the contract from their main rivals. 듣기 Add to Wordbook 그 회사가 주요 경쟁사들로부터 그 계약을 가로챘다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company poached the contract from their main rivals. Add to Wordbook"
+    }
+  ]
+}

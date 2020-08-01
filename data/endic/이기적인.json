@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "이기적인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "selfish",
+        "egoistic",
+        "self-seeking"
+      ]
+    },
+    {
+      "phrase": "이기적",
+      "hanja": " (利己的)",
+      "example": {},
+      "meanings": [
+        "self-centered, selfish, egoistic"
+      ]
+    },
+    {
+      "phrase": "이기적",
+      "hanja": " (利己的)",
+      "example": {},
+      "meanings": [
+        "Noun being selfish, being egoistic, being egocentric (↔이타적1)"
+      ]
+    },
+    {
+      "phrase": "공격적[이기적]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an aggressive[a selfish] personality"
+      ]
+    },
+    {
+      "phrase": "이기적이 아닌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disinterested",
+        "selfless",
+        "unselfish"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "selfish",
+      "frequency": 1
+    },
+    {
+      "meaning": "egocentric",
+      "frequency": 0
+    },
+    {
+      "meaning": "self-seeking",
+      "frequency": 0
+    },
+    {
+      "meaning": "self-concerned",
+      "frequency": 0
+    },
+    {
+      "meaning": "grabby",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저도 이기적인 사람인 걸까요? am I selfish? 듣기 View video 콬TV (WHYNOT) : 남사친이 전남친을 질투한다. \"내가 너 좋아하니까 호구로 보여?\" [리얼:타임:러브2] EP 6",
+      "english": "am I selfish?"
+    },
+    {
+      "korean": "그 뭔가 스스로에 대한 그런 이기적인 모습들이나 되게... You know, something selfish about yourself... 듣기 View video SEVENTEEN : 노래 듣고픈 캐럿들 모여랍👐",
+      "english": "You know, something selfish about yourself..."
+    },
+    {
+      "korean": "너도 네가 이기적인 거 알고 있지? You know you're selfish, too, right? 듣기 View video 플레이리스트 (Playlist) : 남친에게 '라면먹고 갈래?'를 시전했다 [인서울] - 9,10 화 하이라이트",
+      "english": "You know you're selfish, too, right?"
+    },
+    {
+      "korean": "진짜 이기적인 게 뭔지 보여줘? Do you want to see how a selfish one acts like? 듣기 View video 콬TV (WHYNOT) : 그래서 넌 누구를 좋아하는데 [연애미수] EP05",
+      "english": "Do you want to see how a selfish one acts like?"
+    },
+    {
+      "korean": "어떤 타협도 하지 않겠다고 하면 사실 너무 이기적인 거죠. and refuse to compromise, that's really selfish. 듣기 View video 모비딕(Mobidic) : <쎈마이웨이> 남녀사이 친구 가능한가요?",
+      "english": "and refuse to compromise, that's really selfish."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She didn’t do it for any reason of self. 발음듣기 그녀가 무슨 이기적인 이유로 그것을 하지는 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She didn’t do it for any reason of self. 발음"
+    },
+    {
+      "korean": "‘Isn’t that a bit selfish?’ he chided. 발음듣기 “그거 좀 이기적인 것 아니니?” 그가 꾸짖었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Isn’t that a bit selfish?’ he chided. 발음"
+    },
+    {
+      "korean": "Their offer to help was at bottom self-centred. 발음듣기 그들이 도와주겠다는 제의는 실지로는 이기적인 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their offer to help was at bottom self-centred. 발음"
+    },
+    {
+      "korean": "You’re taking a pretty selfish attitude over this, aren’t you? 발음듣기 이것에 대해 네가 상당히 이기적인 태도를 취하고 있잖아, 안 그래? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re taking a pretty selfish attitude over this, aren’t you? 발음"
+    },
+    {
+      "korean": "She looked forward, a little selfishly, to a weekend away from her family. 발음듣기 그녀는 약간 이기적인 마음으로 가족과 떨어져 지낼 한 주말을 고대했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She looked forward, a little selfishly, to a weekend away from her family. 발음"
+    }
+  ]
+}

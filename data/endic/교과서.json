@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "교과서",
+      "hanja": " (敎科書)",
+      "example": {},
+      "meanings": [
+        "(학교에서 사용하는 책) textbook, (Am) text, (Brit) coursebook",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "국정교과서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "national textbook, government-designated[state-designated] textbook"
+      ]
+    },
+    {
+      "phrase": "수학 교과서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a textbook on mathematics"
+      ]
+    },
+    {
+      "phrase": "역사 교과서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a history textbook"
+      ]
+    },
+    {
+      "phrase": "검인정교과서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "government-authorized[government-endorsed] textbooks"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "textbook",
+      "frequency": 2
+    },
+    {
+      "meaning": "coursebook",
+      "frequency": 0
+    },
+    {
+      "meaning": "schoolbook",
+      "frequency": 0
+    },
+    {
+      "meaning": "course book",
+      "frequency": 0
+    },
+    {
+      "meaning": "classbook",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "교과서 진짜 - 인정 - 한번 보여주세요! 춤! He's like a textbook. - Agreed. - Show us your dance! 듣기 View video V COOKIE : [Full] CRAVITY X LieV - 크래비티의 눕방라이브!",
+      "english": "He's like a textbook. - Agreed. - Show us your dance!"
+    },
+    {
+      "korean": "너무 잘해 - 너무 잘했었기 때문에 - 맞아 교과서! He was so good. - Because he was so good. - Right! Textbook! 듣기 View video V COOKIE : [Full] CRAVITY X LieV - 크래비티의 눕방라이브!",
+      "english": "He was so good. - Because he was so good. - Right! Textbook!"
+    },
+    {
+      "korean": "[소외된 어린이들에게] 교과서 외의 공부라든지... [To marginalized children] Studying...other than textbooks... 듣기 View video GOT7 : GOT7(갓세븐) OFFLINE #4",
+      "english": "[To marginalized children] Studying...other than textbooks..."
+    },
+    {
+      "korean": "그거 막 교과서나 그런 책에 있는 거 설명해줘야 되는 거 아니에요? Shouldn't they be explaining things from textbooks? 듣기 View video NCT : 🍒🐭👋👋🤍🖤",
+      "english": "Shouldn't they be explaining things from textbooks?"
+    },
+    {
+      "korean": "근데 이게 무슨 말이야? 'Chewing Gum'이 중국 교과서에 실렸나? What does this mean? \"Chewing Gum\" is on Chinese textbook? 듣기 View video NCT : 💚💚💚💚💚",
+      "english": "What does this mean? \"Chewing Gum\" is on Chinese textbook?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a textbook example of how the game should be played 발음듣기 그 경기를 어떻게 해야 하는지에 대한 교과서적인 본보기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a textbook example of how the game should be played 발음"
+    },
+    {
+      "korean": "a school/medical/history, etc. textbook 발음듣기 학교/의학/역사 교과서 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a school/medical/history, etc. textbook 발음"
+    },
+    {
+      "korean": "I want to borrow your textbook. 발음듣기 네 교과서를 빌리고 싶어. 절대어휘 5100",
+      "english": "I want to borrow your textbook. 발음"
+    },
+    {
+      "korean": "Two writers collaborated in writing a textbook. 발음듣기 두 저자가 공동으로 교과서를 썼다. Neungyule",
+      "english": "Two writers collaborated in writing a textbook. 발음"
+    },
+    {
+      "korean": "The Japanese government is approving new textbooks. 발음듣기 일본 정부는 새 교과서를 검정하고 있다. Neungyule",
+      "english": "The Japanese government is approving new textbooks. 발음"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "가령",
+      "hanja": " (假令)",
+      "example": {},
+      "meanings": [
+        "(가정한다면) if, suppose (that), supposing, granting[granted] that, even if, (예를 들어) for example[instance], let us say"
+      ]
+    },
+    {
+      "phrase": "가령 …따위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "such as",
+        "for example"
+      ]
+    },
+    {
+      "phrase": "가령폭포",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "관광지 (자연관광) Garyeong Falls"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "majordomo",
+      "frequency": 0
+    },
+    {
+      "meaning": "maître d'hôtel",
+      "frequency": 0
+    },
+    {
+      "meaning": "assuming",
+      "frequency": 0
+    },
+    {
+      "meaning": "suppose",
+      "frequency": 3
+    },
+    {
+      "meaning": "good faith exception",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가령 제가 멤버들... For example, members... 듣기 View video IDOL RADIO : 'IDOL RADIO' ep #98. 키스 더 아이돌라디오 (w. 슈퍼주니어 려욱)",
+      "english": "For example, members..."
+    },
+    {
+      "korean": "뭐 가령 그런 것들이 있겠죠. Granted, there could be something like this. 듣기 View video INFINITE : INFINITE \"김명수의 TALK N TALK\"",
+      "english": "Granted, there could be something like this."
+    },
+    {
+      "korean": "현질이라고 하는 가령 현질이라고 불리는 - 현질이 뭐예요? It's called Hyunjil. - What's that? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep #98. 키스 더 아이돌라디오 (w. 슈퍼주니어 려욱)",
+      "english": "It's called Hyunjil. - What's that?"
+    },
+    {
+      "korean": "우리 가령이도 오지구영~ Garyung is also cool~ 듣기 View video Jung Joon Young : 정준영의 [1인칭] Countdown Live!",
+      "english": "Garyung is also cool~"
+    },
+    {
+      "korean": "가령 성격 같은 것들이요. I mean, your characteristic. 듣기 View video V Special : SBS파워FM 오늘같은밤 힙합위크LIVE: 슬리피X딥플로우X베이식",
+      "english": "I mean, your characteristic."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Such as? 듣기 Add to Wordbook 가령? YBM All in All English-Korean Dictionary",
+      "english": "Such as? Add to Wordbook"
+    },
+    {
+      "korean": "Suppose him dead—what then? 듣기 Add to Wordbook 만약[가령] 그가 죽었다고 쳐요, 그럼 어떻게 하죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Suppose him dead—what then? Add to Wordbook"
+    },
+    {
+      "korean": "Assume A knows B is guilty. 듣기 Add to Wordbook 가령 B 가 유죄라는 걸 A 가 안다고 합시다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Assume A knows B is guilty. Add to Wordbook"
+    },
+    {
+      "korean": "Let’s pretend A meets B in the park. 듣기 Add to Wordbook 가령 공원에서 A가 B를 만난다고 합시다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let’s pretend A meets B in the park. Add to Wordbook"
+    },
+    {
+      "korean": "Let’s suppose X knows what Y is doing. 듣기 Add to Wordbook 가령 Y [을]가 무엇을 하고 있는지 X [갑]가 안다고 하자. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let’s suppose X knows what Y is doing. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "칼자루",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(칼을 쥐는 부분) handle (of a knife), hilt",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "칼자루를 쥐다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hold a sword by the hilt",
+        "have the (final, last) say",
+        "have the whip hand"
+      ]
+    },
+    {
+      "phrase": "쇠자루칼",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a metal-handled knife",
+        "a metal-haft sword"
+      ]
+    },
+    {
+      "phrase": "칼자루를 고쳐 잡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "adjust one's grip on the sword"
+      ]
+    },
+    {
+      "phrase": "칼자루끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a pommel."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "the handle of a knife",
+      "frequency": 0
+    },
+    {
+      "meaning": "have the whip hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "a metal-handled knife",
+      "frequency": 0
+    },
+    {
+      "meaning": "have the (final, last) say",
+      "frequency": 0
+    },
+    {
+      "meaning": "a metal-haft sword",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이제부터 칼자루가 저에게 주어졌네요. You guys handed me the sword. 듣기 View video SF9 : ♨(KING OF)부릉이 쟁탈전5♨ (부제 : 휘영이를 이겨라)",
+      "english": "You guys handed me the sword."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the handle of a knife 발음듣기 칼자루 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the handle of a knife 발음"
+    },
+    {
+      "korean": "He has the final say. 발음듣기 그가 칼자루를 쥐고 있다 Neungyule",
+      "english": "He has the final say. 발음"
+    },
+    {
+      "korean": "He makes the call. 발음듣기 그가 칼자루를 쥐고 있다 Neungyule",
+      "english": "He makes the call. 발음"
+    },
+    {
+      "korean": "He makes the calls. 발음듣기 그가 칼자루를 쥐고 있다 Neungyule",
+      "english": "He makes the calls. 발음"
+    },
+    {
+      "korean": "He's holding all the cards. 발음듣기 그가 칼자루를 쥐고 있다 Neungyule",
+      "english": "He's holding all the cards. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "아는 것이 병[탈]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Knowing too much is a disease; Where ignorance is bliss, it is folly to be wise; Ignorance is the peace of life",
+        "Knowing too much is a disease; Where ignorance is bliss, it is folly to be wise; Ignorance is the peace of life"
+      ]
+    },
+    {
+      "phrase": "알게 모르게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the manner of one being unaware of something, unwittingly"
+      ]
+    },
+    {
+      "phrase": "알 게 뭐야[뭐나]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is not of one's concern"
+      ]
+    },
+    {
+      "phrase": "알다가도 모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "think one knows something, but actually does not know it"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "know",
+      "frequency": 2
+    },
+    {
+      "meaning": "understand",
+      "frequency": 2
+    },
+    {
+      "meaning": "clear",
+      "frequency": 2
+    },
+    {
+      "meaning": "acquainted",
+      "frequency": 1
+    },
+    {
+      "meaning": "see",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[느낌 아니까~] [I know how this is supposed to be~] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.13",
+      "english": "[I know how this is supposed to be~]"
+    },
+    {
+      "korean": "맞아 그걸 아니까 누굴 평가하고 싶지 않은데 그렇지? I know that and I don't want to evaluate someone. Right? 듣기 View video TWICE : 밥",
+      "english": "I know that and I don't want to evaluate someone. Right?"
+    },
+    {
+      "korean": "그러니까 나는 노래 아니까 노래는 안 궁금한데, 노래는 아니까 - 응, 근데? I know the song so I'm not curious about the song but... - Then what? 듣기 View video BLACKPINK : 즐거운 일요일 😆",
+      "english": "I know the song so I'm not curious about the song but... - Then what?"
+    },
+    {
+      "korean": "[속사포] 가사 아니까 저희끼리 보고 하면 안 돼요? [Super fast] Can't we face each other since we know the lyrics? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.2",
+      "english": "[Super fast] Can't we face each other since we know the lyrics?"
+    },
+    {
+      "korean": "애들이 네가 내 여자친군 줄 아니까 나도 그 정도 알고 있어야지! People think that you're my girlfriend so that's the least you can tell me! 듣기 View video 콬TV (WHYNOT) : 나를 괴롭히던 일진의 과거는? [일진에게 찍혔을 때] EP05",
+      "english": "People think that you're my girlfriend so that's the least you can tell me!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Knowing Ben, we could be waiting a long time. 발음듣기 벤을 잘 아니까 하는 말인데, 우리가 오래 기다려야 할 거예요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Knowing Ben, we could be waiting a long time. 발음"
+    },
+    {
+      "korean": "You know more, so I submit to your decision. 발음듣기 네가 더 많이 아니까 네 결정에 따를께. Neungyule",
+      "english": "You know more, so I submit to your decision. 발음"
+    },
+    {
+      "korean": "But, I know how much you love Chinese food, so I'm thinking about picking up some take-out. 발음듣기 하지만 당신이 중국 음식을 얼마나 좋아하는지 아니까 중국 음식을 좀 살까해. YBM All in All English-Korean Dictionary",
+      "english": "But, I know how much you love Chinese food, so I'm thinking about picking up some take-out. 발음"
+    },
+    {
+      "korean": "That's natural, but you know the material and once you get started, you'll feel more relaxed. 발음듣기 당연한 거예요. 하지만 발표 내용을 잘 아니까 일단 시작하면 긴장이 좀 풀릴 거예요. YBM All in All English-Korean Dictionary",
+      "english": "That's natural, but you know the material and once you get started, you'll feel more relaxed. 발음"
+    },
+    {
+      "korean": "You can come with Brandon. He knows where I live. 발음듣기 브랜든이랑 같이 오면 돼. 그는 내가 어디 사는지 아니까. Neungyule",
+      "english": "You can come with Brandon. He knows where I live. 발음"
+    }
+  ]
+}

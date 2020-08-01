@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "발생",
+      "hanja": " (發生)",
+      "example": {},
+      "meanings": [
+        "[명사] (사건 등의) occurrence; (전쟁·질병 등의) outbreak; (생명체 등의) (formal) genesis [동사] (사건 등이) occur, happen, arise, come about, take place; (전쟁·질병 등이) break out; (효력 등이) take effect, come into force"
+      ]
+    },
+    {
+      "phrase": "자연 발생",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "spontaneous generation"
+      ]
+    },
+    {
+      "phrase": "효력을 발생하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become effective",
+        "come into effect[force, operation, validity]",
+        "take effect"
+      ]
+    },
+    {
+      "phrase": "효력이 발생하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take effect",
+        "come into force[effect]"
+      ]
+    },
+    {
+      "phrase": "동시에 발생하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "coincide",
+        "clash"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "generation",
+      "frequency": 2
+    },
+    {
+      "meaning": "occurrence",
+      "frequency": 1
+    },
+    {
+      "meaning": "outbreak",
+      "frequency": 1
+    },
+    {
+      "meaning": "genesis",
+      "frequency": 1
+    },
+    {
+      "meaning": "eruption",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[투머치 버터와 씨름하는 사이 발생한 대참사...] 탔어 이것도! [Disaster that occurred while adding too much butter] It's burnt, again! 듣기 View video V PICK! : [Stray Kids] 👨‍🍳네 손님!! 댕냥스쿨 神메뉴 두부지짐 팬케이크입니다!!🥞 (SEUNGMIN & FELIX cooking souffle pancake)",
+      "english": "[Disaster that occurred while adding too much butter] It's burnt, again!"
+    },
+    {
+      "korean": "가정집에 산소발생기가 있어요? Do you have this at home? 듣기 View video HANABONO : 집에 홈케어 기기만 15개? 홈케어달인 집에는 산소발생기에 전신 LED 마스크도 있다",
+      "english": "Do you have this at home?"
+    },
+    {
+      "korean": "근데 산소발생기를 집에서 왜 쓰시는 거예요? Why do you use this oxygen generator? 듣기 View video HANABONO : 집에 홈케어 기기만 15개? 홈케어달인 집에는 산소발생기에 전신 LED 마스크도 있다",
+      "english": "Why do you use this oxygen generator?"
+    },
+    {
+      "korean": "[#필살기 두성 폭발 #두성 피해자 발생] [캬~] [#head voice explosion # head voice victim] [Wow~] View video 심포유 - my SMTelevision : [심포유 #첸] EP18 #천생사랑꾼 #뜻밖의공통점 #사람잡는두성",
+      "english": "[#head voice explosion # head voice victim] [Wow~]"
+    },
+    {
+      "korean": "[다친 건 팔인데 왜 다리를 절어...?] 부상! 긴급상황 발생! [You hurt your arm, but why are you limping?] Injury! Emergency situation! 듣기 View video IU : [IU TV] '호텔 델루나' 장만월의 바깥 나들이",
+      "english": "[You hurt your arm, but why are you limping?] Injury! Emergency situation!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The army was badly affected by desertions. 발음듣기 그 군대에서는 많은 탈영이 발생했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The army was badly affected by desertions. 발음"
+    },
+    {
+      "korean": "attempts to reduce smog caused by traffic fumes 발음듣기 차량 배기가스로 발생되는 스모그를 줄이기 위한 시도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "attempts to reduce smog caused by traffic fumes 발음"
+    },
+    {
+      "korean": "His mistake was due to youth and inexperience. 발음듣기 그의 실수는 어리고 경험이 부족해서 발생한 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His mistake was due to youth and inexperience. 발음"
+    },
+    {
+      "korean": "Violence broke out/erupted inside the prison last night. 발음듣기 어젯밤 교도소 내에서 폭력 사태가 발생했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Violence broke out/erupted inside the prison last night. 발음"
+    },
+    {
+      "korean": "Any expenses you may incur will be chargeable to the company. 발음듣기 당신으로 인해 발생되는 모든 경비는 회사 앞으로 청구된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Any expenses you may incur will be chargeable to the company. 발음"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "phrases": [
+    {
+      "phrase": "괄목",
+      "hanja": " (刮目)",
+      "example": {},
+      "meanings": [
+        "looking at ((a person)) carefully rubbing one's eyes, watching closely[eagerly], watching with keen interest, watching with close attention, 괄목하다 look at ((a person)) carefully rubbing one's eyes, watch closely, watch with keen interest, watch with close attention"
+      ]
+    },
+    {
+      "phrase": "괄목하다",
+      "hanja": " (刮目하다)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "괄목할 만하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be worthy of close attention"
+      ]
+    },
+    {
+      "phrase": "괄목할 만한 진보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "eye-opening progress"
+      ]
+    },
+    {
+      "phrase": "산업에서 괄목할 만한 발전을 이룩하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a remarkable[an eye-opening, an eye-catching] growth of industry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "noteworthy",
+      "frequency": 1
+    },
+    {
+      "meaning": "괄목",
+      "frequency": 0
+    },
+    {
+      "meaning": "eye-opening",
+      "frequency": 0
+    },
+    {
+      "meaning": "eye-opening progress",
+      "frequency": 0
+    },
+    {
+      "meaning": "outstanding achievements in science",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The recent increase of scientific knowledge has been remarkable. 발음듣기 최근의 과학 지식의 신장은 괄목할 만한 것이었다. Friendict Level English-Korean Dictionary",
+      "english": "The recent increase of scientific knowledge has been remarkable. 발음"
+    },
+    {
+      "korean": "The growth of this area is amazing. 발음듣기 이 지역의 발전은 괄목할 만하다 Neungyule",
+      "english": "The growth of this area is amazing. 발음"
+    },
+    {
+      "korean": "This administration has enjoyed remarkable success. 발음듣기 현 행정부는 괄목할 만한 성과를 이뤄냈다. YBM All in All English-Korean Dictionary",
+      "english": "This administration has enjoyed remarkable success. 발음"
+    },
+    {
+      "korean": "I compliment our troops on this outstanding achievement. 발음듣기 나는 미군의 괄목할 만한 성과를 축하합니다. YBM All in All English-Korean Dictionary",
+      "english": "I compliment our troops on this outstanding achievement. 발음"
+    },
+    {
+      "korean": "There have been some remarkable triumphs, including the recovery of the bald eagle in the Lower 48 states. 발음듣기 미국 본토 48개 주에서의 흰머리 독수리의 회복과 같은 괄목할 만한 성과도 있었다. YBM All in All English-Korean Dictionary",
+      "english": "There have been some remarkable triumphs, including the recovery of the bald eagle in the Lower 48 states. 발음"
+    }
+  ]
+}

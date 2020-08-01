@@ -1,0 +1,105 @@
+{
+  "phrases": [
+    {
+      "phrase": "아쉽다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(서운하다, 유감이다) sorry, sad",
+        "(필요한 것이 없거나 부족해서)"
+      ]
+    },
+    {
+      "phrase": "아쉽지만 가야겠네요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "작별 I'm sorry but I should get going.",
+        "작별 It's a pity but I have to go.",
+        "작별 It is unfortunate but I must go now."
+      ]
+    },
+    {
+      "phrase": "아쉽지만 그날은 안 되겠어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 I'm afraid I can't make it that day."
+      ]
+    },
+    {
+      "phrase": "아쉬운 소리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a wistful sound"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "time to love you and leave you",
+      "frequency": 0
+    },
+    {
+      "meaning": "lamented",
+      "frequency": 0
+    },
+    {
+      "meaning": "waste not, want not",
+      "frequency": 0
+    },
+    {
+      "meaning": "shame",
+      "frequency": 3
+    },
+    {
+      "meaning": "short",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아쉽지만! That's too bad! 듣기 View video (G)I-DLE : (여자)아이들 - I-TALK #17 : 뉴욕 프로모션 비하인드",
+      "english": "That's too bad!"
+    },
+    {
+      "korean": "아쉽지만 벌써 시간이... - 아쉬워요 - 벌써요? Unfortunately, it's time... - Sad. - Already? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Unfortunately, it's time... - Sad. - Already?"
+    },
+    {
+      "korean": "[아쉽지만 게임은 끝!] 깔끔하게 인정하자! [Unfortunately, it's over] We lost. Let's not do this. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Unfortunately, it's over] We lost. Let's not do this."
+    },
+    {
+      "korean": "너무 아쉽지만 이제... I am sorry but... 듣기 View video OSEN : KANGDANIEL 강다니엘, 아쉬운 굿바이 #스타로드 08",
+      "english": "I am sorry but..."
+    },
+    {
+      "korean": "아쉽지만 여러분들... It's unfortunate, but everyone... 듣기 View video ASTRO : [Full] ASTRO 6th Mini Album [BLUE FLAME] SHOWCASE",
+      "english": "It's unfortunate, but everyone..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Recent personal difficulties have put more demands on my time than I can put into full-time work, and sadly, I have been forced to make this reluctant decision. 듣기 Add to Wordbook 최근 저의 개인적인 문제들에 많은 시간이 요구되어 업무에 전적으로 집중하기 어려운 이유로, 아쉽지만 마지못해 이 결정을 내리게 되었습니다. DARAKWON",
+      "english": "Recent personal difficulties have put more demands on my time than I can put into full-time work, and sadly, I have been forced to make this reluctant decision. Add to Wordbook"
+    },
+    {
+      "korean": "I am afraid I must say bye. 듣기 Add to Wordbook 아쉽지만 작별 인사를 해야겠어요. YBM All in All English-Korean Dictionary",
+      "english": "I am afraid I must say bye. Add to Wordbook"
+    },
+    {
+      "korean": "It's too bad we forgot to bring the bowls[plates], but let's make do with these. 듣기 Add to Wordbook 그릇을 안 챙겨 와서 아쉽지만 그럭저럭 이것으로 씁시다. Neungyule",
+      "english": "It's too bad we forgot to bring the bowls[plates], but let's make do with these. Add to Wordbook"
+    },
+    {
+      "korean": "I'm afraid it's time to say good-bye. 듣기 Add to Wordbook 아쉽지만 이제는 헤어져야 할 시간입니다. Neungyule",
+      "english": "I'm afraid it's time to say good-bye. Add to Wordbook"
+    },
+    {
+      "korean": "Unfortunately, no. I'm working on a report, and I'll have to work late every night this week to meet my deadline. 듣기 Add to Wordbook 아쉽지만 안 되겠네요. 보고서를 쓰고 있는데 마감일까지 끝내려면 이번 주 내내 야근을 해야만 해요. YBM All in All English-Korean Dictionary",
+      "english": "Unfortunately, no. I'm working on a report, and I'll have to work late every night this week to meet my deadline. Add to Wordbook"
+    }
+  ]
+}

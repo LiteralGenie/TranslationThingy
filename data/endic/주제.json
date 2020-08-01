@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "주제",
+      "hanja": " (主題)",
+      "example": {},
+      "meanings": [
+        "subject, topic, (테마) theme, leitmotif"
+      ]
+    },
+    {
+      "phrase": "주제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(꼴)"
+      ]
+    },
+    {
+      "phrase": "주제를 다루다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cover[deal with] a subject"
+      ]
+    },
+    {
+      "phrase": "주제의 전개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thematic development"
+      ]
+    },
+    {
+      "phrase": "주제의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thematic"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "issue",
+      "frequency": 3
+    },
+    {
+      "meaning": "subject",
+      "frequency": 3
+    },
+    {
+      "meaning": "theme",
+      "frequency": 3
+    },
+    {
+      "meaning": "topic",
+      "frequency": 3
+    },
+    {
+      "meaning": "heading",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[그렇다면 바팩의 주제는?] [Then what will their topic be?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "[Then what will their topic be?]"
+    },
+    {
+      "korean": "'채널 주제 정했어?' \"Did you pick a topic for the channel?\" 듣기 View video NCT : 런쥔이왔어요!!",
+      "english": "\"Did you pick a topic for the channel?\""
+    },
+    {
+      "korean": "그 주제로 써봐 - 요! Write about that topic. - Yo! 듣기 View video OSEN : Stray Kids 스트레이키즈에게 자유시간이 생기면? #스타로드 11",
+      "english": "Write about that topic. - Yo!"
+    },
+    {
+      "korean": "그러면 얘기할 주제가 없으면 오지 마요? If I have nothing to talk about, just don't come? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #69 정한이의 따뜻한 우유 한 잔",
+      "english": "If I have nothing to talk about, just don't come?"
+    },
+    {
+      "korean": "저한테 주제를 주면 제가 여덟 마디 정도... If you give me a topic, I'll write about eight words. 듣기 View video OSEN : Stray Kids 스트레이키즈에게 자유시간이 생기면? #스타로드 11",
+      "english": "If you give me a topic, I'll write about eight words."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the most authoritative book on the subject 듣기 Add to Wordbook 그 주제에 대한 가장 권위 있는 책 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the most authoritative book on the subject Add to Wordbook"
+    },
+    {
+      "korean": "The information available on the subject is sparse. 듣기 Add to Wordbook 그 주제에 대한 정보는 드물다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The information available on the subject is sparse. Add to Wordbook"
+    },
+    {
+      "korean": "Innumerable books have been written on the subject. 듣기 Add to Wordbook 그 주제에 대해 무수한 책들이 쓰여 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Innumerable books have been written on the subject. Add to Wordbook"
+    },
+    {
+      "korean": "He chose an uncontroversial topic for his speech. 듣기 Add to Wordbook 그는 연설을 위해 논란의 여지가 적은 주제를 골랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He chose an uncontroversial topic for his speech. Add to Wordbook"
+    },
+    {
+      "korean": "He forbade them from mentioning the subject again. 듣기 Add to Wordbook 그는 그들이 다시 그 주제를 언급하는 것을 금했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He forbade them from mentioning the subject again. Add to Wordbook"
+    }
+  ]
+}

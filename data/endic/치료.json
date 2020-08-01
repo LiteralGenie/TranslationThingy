@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "치료",
+      "hanja": " (治療)",
+      "example": {},
+      "meanings": [
+        "treatment, cure, remedy, therapy, care, treat, cure"
+      ]
+    },
+    {
+      "phrase": "물리치료",
+      "hanja": " (物理治療)",
+      "example": {},
+      "meanings": [
+        "(Am) physical therapy[treatment], (Brit) physiotherapy"
+      ]
+    },
+    {
+      "phrase": "심리치료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "psychotherapy"
+      ]
+    },
+    {
+      "phrase": "자가 치료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "self-treatment"
+      ]
+    },
+    {
+      "phrase": "치료를 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[receive] treatment",
+        "be given treatment",
+        "undergo medical treatment"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "treatment",
+      "frequency": 3
+    },
+    {
+      "meaning": "attention",
+      "frequency": 3
+    },
+    {
+      "meaning": "therapy",
+      "frequency": 3
+    },
+    {
+      "meaning": "remedy",
+      "frequency": 3
+    },
+    {
+      "meaning": "healing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "물리치료가 왜 물리치료인지 아세요? Do you know why they call physical therapy mool-li-chi-ryo? 듣기 View video V PICK! : [iKON] 이 박사님들 깜찍학 박사 맞아요 무조건 맞아요 👨‍🎓 (JAY&BOBBY playing with swimming goggles)",
+      "english": "Do you know why they call physical therapy mool-li-chi-ryo?"
+    },
+    {
+      "korean": "여러분 물리치료가 왜 물리치료인지 아세요? Do you know why physical therapy is called physical therapy? 듣기 View video iKON : live",
+      "english": "Do you know why physical therapy is called physical therapy?"
+    },
+    {
+      "korean": "오늘 또 치료를 받고 있어서... But he had a treatment today. 듣기 View video AB6IX : 메리 영민스마스🎅🎅❤",
+      "english": "But he had a treatment today."
+    },
+    {
+      "korean": "밤샘으로 인한 탈모를 어떻게 치료하는가? How do you cure hair loss from late night work? 듣기 View video NCT : 드디어퇴근길vapp한다!!",
+      "english": "How do you cure hair loss from late night work?"
+    },
+    {
+      "korean": "[미라클] 언니를 좋아하는데 치료법이 따로 있냐고요? [MIRACLE] Is there any cure for loving you? 듣기 View video V PICK! : [2년 전 오늘의 OH MY GIRL] 울 씅씅에게 빠지면 치료법? 그런게 어딨어요 이미 게임오버💕 (HAPPY SEUNGHEE DAY 2years ago!)",
+      "english": "[MIRACLE] Is there any cure for loving you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a therapist trained in the art of healing 듣기 Add to Wordbook 치료 기술을 훈련받은 치료사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a therapist trained in the art of healing Add to Wordbook"
+    },
+    {
+      "korean": "He uses hypnosis as part of the treatment. 듣기 Add to Wordbook 그는 치료의 일부로 최면술을 쓴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He uses hypnosis as part of the treatment. Add to Wordbook"
+    },
+    {
+      "korean": "Group therapy classes have been his salvation. 듣기 Add to Wordbook 집단 치료 학습이 그를 구제했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Group therapy classes have been his salvation. Add to Wordbook"
+    },
+    {
+      "korean": "He is critically ill in intensive care. 듣기 Add to Wordbook 그는 중환자실에서 치료를 받고 있는 위독한 환자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is critically ill in intensive care. Add to Wordbook"
+    },
+    {
+      "korean": "an overemphasis on curing illness rather than preventing it 듣기 Add to Wordbook 병의 예방보다는 지나친 치료 중시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an overemphasis on curing illness rather than preventing it Add to Wordbook"
+    }
+  ]
+}

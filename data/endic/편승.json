@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "편승",
+      "hanja": " (便乘)",
+      "example": {},
+      "meanings": [
+        "―하다 get[take] a lift in, take passage in, take[get] a ride in, hitchhike",
+        "(기회에) ―하다 take advantage of, avail oneself of, climb[get, hop, jump] on[aboard] the bandwagon(구어)"
+      ]
+    },
+    {
+      "phrase": "시류에 편승하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "jump[climb, get] on the bandwagon"
+      ]
+    },
+    {
+      "phrase": "분위기에 편승하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go along with the atmosphere[crowd]"
+      ]
+    },
+    {
+      "phrase": "편승하다",
+      "hanja": " (便乘하다)",
+      "example": {},
+      "meanings": [
+        "Verb hitchhike",
+        "Verb take advantage of"
+      ]
+    },
+    {
+      "phrase": "빔 편승 유도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Beam Riding Guide"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "phoresy",
+      "frequency": 0
+    },
+    {
+      "meaning": "Take riding",
+      "frequency": 0
+    },
+    {
+      "meaning": "bandwagoning",
+      "frequency": 0
+    },
+    {
+      "meaning": "hitch",
+      "frequency": 3
+    },
+    {
+      "meaning": "climb/jump on the bandwagon",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "politicians eager to jump on the environmental bandwagon 듣기 Add to Wordbook 환경 문제와 관련된 시류에 열심히 편승하는 정치인들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "politicians eager to jump on the environmental bandwagon Add to Wordbook"
+    },
+    {
+      "korean": "Will you assent me to trade on your automobile? 듣기 Add to Wordbook 좀 편승할 수 없을까요? YBM All in All English-Korean Dictionary",
+      "english": "Will you assent me to trade on your automobile? Add to Wordbook"
+    },
+    {
+      "korean": "Popularity is often a snare. 듣기 Add to Wordbook 인기에 편승하다가 함정에 빠지는 일이 종종 있다. YBM All in All English-Korean Dictionary",
+      "english": "Popularity is often a snare. Add to Wordbook"
+    },
+    {
+      "korean": "The Labour Party is capitalizing on local discontent over low living standards. 듣기 Add to Wordbook 노동당은 낮은 생활 수준에 대한 지방의 불만에 편승하고 있다. YBM All in All English-Korean Dictionary",
+      "english": "The Labour Party is capitalizing on local discontent over low living standards. Add to Wordbook"
+    },
+    {
+      "korean": "Doing what everybody else is doing is how he gets by. 듣기 Add to Wordbook 그는 시류에 편승하면서 살아가요. Neungyule",
+      "english": "Doing what everybody else is doing is how he gets by. Add to Wordbook"
+    }
+  ]
+}

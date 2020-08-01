@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "이용하다",
+      "hanja": " (利用하다)",
+      "example": {},
+      "meanings": [
+        "Verb use, utilize",
+        "Verb use, exploit"
+      ]
+    },
+    {
+      "phrase": "이용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 exploit"
+      ]
+    },
+    {
+      "phrase": "이용",
+      "hanja": " (利用)",
+      "example": {},
+      "meanings": [
+        "take advantage of, (쓸모 있게 사용하다) [명사] use, [동사] use, (formal) utilize, make (good) use of",
+        "(목적을 위한 수단으로 삼다) [동사] use, take advantage of; (상황 등을) exploit, capitalize on, play on"
+      ]
+    },
+    {
+      "phrase": "이용 가치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "utility value"
+      ]
+    },
+    {
+      "phrase": "대중교통을 이용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "use public[mass] transportation",
+        "travel by[on] public transportation",
+        "take public[mass] transit"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "뛰어넘다",
+      "frequency": 0
+    },
+    {
+      "meaning": "use",
+      "frequency": 2
+    },
+    {
+      "meaning": "쫓다",
+      "frequency": 0
+    },
+    {
+      "meaning": "telepathic",
+      "frequency": 0
+    },
+    {
+      "meaning": "부치다 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[정국의 탄생화를 이용해 만든 작품] 이거 호랑이꽃 이용한 거죠? [Used Jung Kook's birth flower] You used the tiger lily, right? 듣기 View video BTS : Run BTS! 2020 - EP.99",
+      "english": "[Used Jung Kook's birth flower] You used the tiger lily, right?"
+    },
+    {
+      "korean": "류진아! - 핑크 머리를 이용한 애교! Ryujin! - so aegyo that uses the pink hair! 듣기 View video ITZY : 믿지 오늘도 고마워유~ 💙",
+      "english": "Ryujin! - so aegyo that uses the pink hair!"
+    },
+    {
+      "korean": "[날 이용한 전 남친] 정해진이랑 어떻게 된 거냐고요? [The ex who used me] what happened with Jeong Haejin? 듣기 View video 콬TV (WHYNOT) : 10년된 남사친과 공개연애를 시작했다 #공개고백 #거짓말 [리얼:타임:러브2] EP1",
+      "english": "[The ex who used me] what happened with Jeong Haejin?"
+    },
+    {
+      "korean": "[상체를 이용한 날갯짓] - 왜 어깨를 해? - 왜 어깨를 해? [Flapping wings] - Why do you move your shoulders? - Why? 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울여자상업고등학교 ep5.(홍현희X정세운X강율)",
+      "english": "[Flapping wings] - Why do you move your shoulders? - Why?"
+    },
+    {
+      "korean": "[조화] [TMI)'좋아'와 '조화'의 발음이 유사함을 이용한 인싸개그다] 꽃내음... [Fake flowers] [(TMI) It's a word play on similar pronunciations in Korean] The smell of flowers... 듣기 View video 콬TV (WHYNOT) : 일찍 유나쓰랑 승헌쓰가 만났다?! [일진에게 찍혔을 때] 유나TV",
+      "english": "[Fake flowers] [(TMI) It's a word play on similar pronunciations in Korean] The smell of flowers..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a pictorial account/record of the expedition 발음듣기 그 탐험에 대한, 그림을 이용한 설명/기록 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a pictorial account/record of the expedition 발음"
+    },
+    {
+      "korean": "the biological control of pests 발음듣기 생물체를 이용한 역병 통제 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the biological control of pests 발음"
+    },
+    {
+      "korean": "visual and tactile communication 발음듣기 시각 및 촉각을 이용한 의사소통 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "visual and tactile communication 발음"
+    },
+    {
+      "korean": "computer design tools that work in three dimensions 발음듣기 3차원으로 작동하는, 컴퓨터를 이용한 디자인 도구들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "computer design tools that work in three dimensions 발음"
+    },
+    {
+      "korean": "the employment of artillery in the capture of the town 발음듣기 대포를 이용한 그 소도시 쟁탈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the employment of artillery in the capture of the town 발음"
+    }
+  ]
+}

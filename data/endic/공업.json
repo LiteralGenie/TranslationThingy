@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "공업",
+      "hanja": " (工業)",
+      "example": {},
+      "meanings": [
+        "(manufacturing) industry, (집합적) the industries"
+      ]
+    },
+    {
+      "phrase": "공업용지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "industrial site"
+      ]
+    },
+    {
+      "phrase": "공업의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "industrial"
+      ]
+    },
+    {
+      "phrase": "공업 도시",
+      "hanja": " (工業都市)",
+      "example": {},
+      "meanings": [
+        "industrial[manufacturing] city[town]"
+      ]
+    },
+    {
+      "phrase": "공업용수",
+      "hanja": " (工業用水)",
+      "example": {},
+      "meanings": [
+        "industrial water, water for industrial use"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "industry",
+      "frequency": 3
+    },
+    {
+      "meaning": "industrio-",
+      "frequency": 0
+    },
+    {
+      "meaning": "gest 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "industrial pursuits",
+      "frequency": 0
+    },
+    {
+      "meaning": "industrial",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그치 공업용 이런거? 약간 그정도... For industrial use? Sort of like that... 듣기 View video V PICK! : [MONSTA X] 몽스탁스 생일문화 넘 귀여운거 알아주라! (MONSTA X talking about their b-day event)",
+      "english": "For industrial use? Sort of like that..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the factory chimneys of an industrial landscape 듣기 Add to Wordbook 공업 지대 풍경의 공장 굴뚝들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the factory chimneys of an industrial landscape Add to Wordbook"
+    },
+    {
+      "korean": "a charmless industrial town 듣기 Add to Wordbook 매력 없는 작은 공업 도시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a charmless industrial town Add to Wordbook"
+    },
+    {
+      "korean": "a change from agriculture to industry 듣기 Add to Wordbook 농업에서 공업으로 전환 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a change from agriculture to industry Add to Wordbook"
+    },
+    {
+      "korean": "The industry has made great development[strides]. 듣기 Add to Wordbook 그 공업은 크게 발달하였다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The industry has made great development[strides]. Add to Wordbook"
+    },
+    {
+      "korean": "Two-thirds of CO2 emissions arise from transportation and industry. 듣기 Add to Wordbook 전체 3분의 2에 달하는 이산화탄소가 운송과 공업 부문에서 발생한다. YBM All in All English-Korean Dictionary",
+      "english": "Two-thirds of CO2 emissions arise from transportation and industry. Add to Wordbook"
+    }
+  ]
+}

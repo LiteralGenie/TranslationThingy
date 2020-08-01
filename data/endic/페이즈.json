@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "phase",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (변화·발달 과정상의 한) 단계[시기/국면]",
+        "Noun (주기적으로 형태가 변하는 달의) 상[모습]",
+        "Verb (일의 진행을) 단계적으로 하다"
+      ]
+    },
+    {
+      "phrase": "fade",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (색깔이) 바래다[희미해지다], 바래게[희미해지게] 만들다",
+        "Verb 서서히 사라지다, 점점 희미해지다",
+        "Verb (운동선수·팀·배우 등의 실력이) 시들해지다"
+      ]
+    },
+    {
+      "phrase": "faze",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 비격식 당황시키다 (=disconcert)"
+      ]
+    },
+    {
+      "phrase": "PES",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "화학 polyether sulfone 폴리에테르 술폰 ((고(高)내열성 특수 수지의 하나))"
+      ]
+    },
+    {
+      "phrase": "pes",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 해부·동물 발, 족부(足部), 발 모양의 기관[부분]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "도입",
+      "frequency": 0
+    },
+    {
+      "meaning": "단계",
+      "frequency": 0
+    },
+    {
+      "meaning": "초반",
+      "frequency": 0
+    },
+    {
+      "meaning": "성장기",
+      "frequency": 0
+    },
+    {
+      "meaning": "중반",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근데 저는 티셔츠까지는 조금... I haven't gotten to the t-shirt phase yet. 듣기 View video N.Flying : GOOD NIGHT RADIO PART.1",
+      "english": "I haven't gotten to the t-shirt phase yet."
+    },
+    {
+      "korean": "제2의 인생 네! The 2nd phase of life! Yes! 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.13 #DJ황치열",
+      "english": "The 2nd phase of life! Yes!"
+    },
+    {
+      "korean": "근데 굳이 줄임말로 제목을 정한 이유가 있나요? But is there a reason you chose an abbreviated phase as the title? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#149. 오. 꼭. 말. (오졌다고 꼭 말해줘야지) (w. 하성운)",
+      "english": "But is there a reason you chose an abbreviated phase as the title?"
+    },
+    {
+      "korean": "지금은 녹음하는 단계고요. We're in the recording phase. 듣기 View video INFINITE : INFINITE \"김명수의 TALK N TALK\"",
+      "english": "We're in the recording phase."
+    },
+    {
+      "korean": "라이언은 요즘 조금 거시기해요. Ryan is not in the good phase... 듣기 View video MAMAMOO : [MMMTV4] EP4 마첨지의 운수 좋은 날",
+      "english": "Ryan is not in the good phase..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "In fact, Dr. David Page of the Massachusetts Institute of Technology found that while human DNA, in general, is less than 2 percent different from that of chimpanzees, the Y chromosome has been found to vary by more than 30 percent. 듣기 Add to Wordbook 매사추세츠 기술 협회의 데이비드 페이즈 박사는 인간의 DNA가 침팬지와 겨우 2퍼센트의 차이를 보일 때 Y 염색체는 30퍼센트 이상 차이를 보인다는 것을 발견하였다. Neungyule",
+      "english": "In fact, Dr. David Page of the Massachusetts Institute of Technology found that while human DNA, in general, is less than 2 percent different from that of chimpanzees, the Y chromosome has been found to vary by more than 30 percent. Add to Wordbook"
+    },
+    {
+      "korean": "This prolonged kiss was popularized in France by residents living in a town called Pays de Mont. They would often kiss each other for several hours! 듣기 Add to Wordbook 이 오래도록 하는 키스는 페이즈 드 몽뜨라고 불리는 마을 주민들에 의해서 대중화되었는데 그들은 종종 키스를 몇 시간이고 한단다. TIMES CORE",
+      "english": "This prolonged kiss was popularized in France by residents living in a town called Pays de Mont. They would often kiss each other for several hours! Add to Wordbook"
+    },
+    {
+      "korean": "Janschwalde thermal power station near Peitz 듣기 Add to Wordbook 페이즈 인근에 있는 얀슈발데 열발전소 hansemEUG",
+      "english": "Janschwalde thermal power station near Peitz Add to Wordbook"
+    },
+    {
+      "korean": "Support of Optimal Routing - Phase1 - Stage2 듣기 Add to Wordbook IMT2000 3GPP - 최적 라우팅 지원 - 페이즈1 - 2단계 Naver Academic",
+      "english": "Support of Optimal Routing - Phase1 - Stage2 Add to Wordbook"
+    },
+    {
+      "korean": "Janschwalde thermal power station near Peitz, Brandenburg, Germany 듣기 Add to Wordbook 독일 브란덴부르크, 페이즈 인근에 있는 얀슈발데 열발전소 hansemEUG",
+      "english": "Janschwalde thermal power station near Peitz, Brandenburg, Germany Add to Wordbook"
+    }
+  ]
+}

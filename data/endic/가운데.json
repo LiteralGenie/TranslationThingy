@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "가운데",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(위치) center, the middle (=중앙)",
+        "(여럿 중에서), (=중)",
+        "(~하는 동안)"
+      ]
+    },
+    {
+      "phrase": "가운데 형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the middle brother"
+      ]
+    },
+    {
+      "phrase": "가운데 서랍",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the middle drawer"
+      ]
+    },
+    {
+      "phrase": "가운데 토막",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the center cut"
+      ]
+    },
+    {
+      "phrase": "큰[가운데, 작은] 언니",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a girl´s oldest[next oldest, third oldest] big sister"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "between",
+      "frequency": 3
+    },
+    {
+      "meaning": "centre",
+      "frequency": 3
+    },
+    {
+      "meaning": "middle",
+      "frequency": 3
+    },
+    {
+      "meaning": "mid-point",
+      "frequency": 0
+    },
+    {
+      "meaning": "in the midst of something/of doing something",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가운데? In the middle? 듣기 View video Dispatch : [ⓓxV] \"고오급 TMI 티키타카\" (한결, 도현 : H&D)",
+      "english": "In the middle?"
+    },
+    {
+      "korean": "가운데! To the center! 듣기 View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM] BEHIND 회식비를 건 딩고와 다모임의 농구 한 판! 더콰이엇, 이번에도 더콰당…?! ㅣ둘도없는힙합친구 : 다모임ㅣDingo Freestyle",
+      "english": "To the center!"
+    },
+    {
+      "korean": "''가운데''? \"In the middle\"? 듣기 View video BLACKPINK : 나랑놀쟈아😼",
+      "english": "\"In the middle\"?"
+    },
+    {
+      "korean": "가운데. One in the middle. 듣기 View video EXID : <11월의 해주세요 - EXID의 송년회>",
+      "english": "One in the middle."
+    },
+    {
+      "korean": "나는 가운데로 왜 안 가지? It's not staying at the center. 듣기 View video ASTRO : [ASTRO PLAY] 아로하 4랑해",
+      "english": "It's not staying at the center."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "one of the remotest areas of the world 듣기 Add to Wordbook 세계 최고 오지들 가운데 한 곳 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of the remotest areas of the world Add to Wordbook"
+    },
+    {
+      "korean": "one of the president’s staunchest allies 듣기 Add to Wordbook 대통령의 가장 충실한 측근들 가운데 한 명 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of the president’s staunchest allies Add to Wordbook"
+    },
+    {
+      "korean": "one of the country’s premier chefs 듣기 Add to Wordbook 그 나라 최고 요리사 가운데 한 명 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of the country’s premier chefs Add to Wordbook"
+    },
+    {
+      "korean": "The peace talks broke up in disarray. 듣기 Add to Wordbook 평화회담은 혼란스러운 가운데 결렬되고 말았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The peace talks broke up in disarray. Add to Wordbook"
+    },
+    {
+      "korean": "The firm collapsed amid allegations of fraud. 듣기 Add to Wordbook 그 회사는 사기 혐의가 쏟아지는 가운데 몰락했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The firm collapsed amid allegations of fraud. Add to Wordbook"
+    }
+  ]
+}

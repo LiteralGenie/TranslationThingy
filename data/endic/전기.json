@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "전기",
+      "hanja": " (電氣)",
+      "example": {},
+      "meanings": [
+        "(에너지) electricity, (electric) power"
+      ]
+    },
+    {
+      "phrase": "전기",
+      "hanja": " (前期)",
+      "example": {},
+      "meanings": [
+        "(앞의 시기) the former part[half, period] (of)"
+      ]
+    },
+    {
+      "phrase": "전기",
+      "hanja": " (傳記)",
+      "example": {},
+      "meanings": [
+        "(한 개인의 일생을 기록한 글) biography, life (story)"
+      ]
+    },
+    {
+      "phrase": "전기",
+      "hanja": " (轉機)",
+      "example": {},
+      "meanings": [
+        "(전환점) turning point"
+      ]
+    },
+    {
+      "phrase": "전기의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "above-mentioned",
+        "foregoing",
+        "aforementioned"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "juice",
+      "frequency": 3
+    },
+    {
+      "meaning": "power",
+      "frequency": 3
+    },
+    {
+      "meaning": "life",
+      "frequency": 3
+    },
+    {
+      "meaning": "electricity",
+      "frequency": 3
+    },
+    {
+      "meaning": "electric",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[전기정보공학부 (feat.암호)] 그냥 암호? [Electronic information engineering (feat. codes)] Codes? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[Electronic information engineering (feat. codes)] Codes?"
+    },
+    {
+      "korean": "[볼륨을 줄이면 전기료가 절약된다] 그럴 줄 알았어! [you spend more energy. If you reduce it, you can spend less] I knew it! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[you spend more energy. If you reduce it, you can spend less] I knew it!"
+    },
+    {
+      "korean": "음... 전기뱀장어? Well, Electric Eel? 듣기 View video Dingo Story / 딩고스토리 : 남자가 사랑에 빠지는 과정_EP08 [라이크]",
+      "english": "Well, Electric Eel?"
+    },
+    {
+      "korean": "전기를 써요? Does it use electricity? 듣기 View video TOMORROW X TOGETHER : 최범규의 별밤✨",
+      "english": "Does it use electricity?"
+    },
+    {
+      "korean": "전기 아직 안 샀어 - 너? But I haven't bought it yet. - You? 듣기 View video NCT : ㅎㅇㅎㅇ 💚",
+      "english": "But I haven't bought it yet. - You?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was sentenced to death by electrocution. 듣기 Add to Wordbook 그는 전기 처형형을 선고받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was sentenced to death by electrocution. Add to Wordbook"
+    },
+    {
+      "korean": "thunder and lightning caused by electrical discharges 듣기 Add to Wordbook (전기) 방전에 의해 생기는 천둥과 번개 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "thunder and lightning caused by electrical discharges Add to Wordbook"
+    },
+    {
+      "korean": "an electric drill with a range of different attachments 듣기 Add to Wordbook 여러 가지 부가 기구들이 딸린 전기 드릴 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an electric drill with a range of different attachments Add to Wordbook"
+    },
+    {
+      "korean": "Lightning is caused by clouds discharging electricity. 듣기 Add to Wordbook 번개는 구름이 전기를 방출하면서 생긴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Lightning is caused by clouds discharging electricity. Add to Wordbook"
+    },
+    {
+      "korean": "The shaver will run off batteries or mains. 듣기 Add to Wordbook 그 (전기) 면도기는 배터리로도 쓸 수 있고 전원에 꽂아서도 쓰 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shaver will run off batteries or mains. Add to Wordbook"
+    }
+  ]
+}

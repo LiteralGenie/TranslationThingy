@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "절차",
+      "hanja": " (節次)",
+      "example": {},
+      "meanings": [
+        "procedure (for), process (of), (단계) step, (법적) proceedings"
+      ]
+    },
+    {
+      "phrase": "통관절차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "customs clearance, customs formalities[procedure]"
+      ]
+    },
+    {
+      "phrase": "절차를 밟다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go through formalities",
+        "take steps[proceedings]"
+      ]
+    },
+    {
+      "phrase": "소송 절차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "legal procedures"
+      ]
+    },
+    {
+      "phrase": "통관 절차를 밟다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "clear",
+        "pass customs entry",
+        "go through customs formalities"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "procedure",
+      "frequency": 3
+    },
+    {
+      "meaning": "drill",
+      "frequency": 3
+    },
+    {
+      "meaning": "process 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "modus operandi",
+      "frequency": 0
+    },
+    {
+      "meaning": "procedures",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇지, 그렇지 - 많은 절차가... Right, right. - So many steps required to do that. 듣기 View video Stray Kids : 바람 컴백한드아~~~~",
+      "english": "Right, right. - So many steps required to do that."
+    },
+    {
+      "korean": "가입절차가 좀 엄격하거든? so we are quite strict on our admission. 듣기 View video 플레이리스트 (Playlist) : 짝사랑 숨기면서 짝사랑하는 법 [연플리 시즌4] - EP.02",
+      "english": "so we are quite strict on our admission."
+    },
+    {
+      "korean": "[정해진 절차] SNS하시죠? [Due course] You're on social media, right? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 33회 - ★제 1회 땡큐 어워즈★ 시청률의 남자 승리!",
+      "english": "[Due course] You're on social media, right?"
+    },
+    {
+      "korean": "혹시 가입 절차는 어떻게 되는지? What was the membership process like? 듣기 View video IDOL RADIO : [Full] 'IDOL RADIO' ep#2. 우리는 최강 아이돌 (with B.A.P영재, 권현빈)",
+      "english": "What was the membership process like?"
+    },
+    {
+      "korean": "[일본 잘알 세호도 몰랐던 디테일한 절차] 이게 방법이 또 있구나. There's a way for this. 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 9부_ep.2 클리셰 폭발☆ 포피즈 유닛 결성",
+      "english": "There's a way for this."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to observe the solemnities of the occasion 듣기 Add to Wordbook 행사의 의식 절차를 준수하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to observe the solemnities of the occasion Add to Wordbook"
+    },
+    {
+      "korean": "the process of decontaminating areas exposed to radioactivity 듣기 Add to Wordbook 방사능에 노출된 지역의 오염 제거 절차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the process of decontaminating areas exposed to radioactivity Add to Wordbook"
+    },
+    {
+      "korean": "The visit was conducted with all due ceremonial. 듣기 Add to Wordbook 그 방문은 모든 마땅한 의식 절차에 따라 행해졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The visit was conducted with all due ceremonial. Add to Wordbook"
+    },
+    {
+      "korean": "He was released on bail pending committal proceedings. 듣기 Add to Wordbook 그는 수감여부결정 절차를 밟는 동안 보석금을 내고 풀려났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was released on bail pending committal proceedings. Add to Wordbook"
+    },
+    {
+      "korean": "This procedure ensures correct placement of the catheter. 듣기 Add to Wordbook 이 절차대로 하면 카테터를 틀림없이 정확히 삽입할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This procedure ensures correct placement of the catheter. Add to Wordbook"
+    }
+  ]
+}

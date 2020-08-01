@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "근접",
+      "hanja": " (近接)",
+      "example": {},
+      "meanings": [
+        "proximity, approach, 근접하다 come[go] close (to) , approach, draw near"
+      ]
+    },
+    {
+      "phrase": "근접한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "neighboring",
+        "adjacent",
+        "contiguous"
+      ]
+    },
+    {
+      "phrase": "근접하다",
+      "hanja": " (近接하다)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "…에 근접해 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be[stand] close[adjacent]",
+        "be near",
+        "be contiguous"
+      ]
+    },
+    {
+      "phrase": "근접 회로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an adjoining circuit"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neighborhood",
+      "frequency": 3
+    },
+    {
+      "meaning": "proximity",
+      "frequency": 0
+    },
+    {
+      "meaning": "propinquity",
+      "frequency": 0
+    },
+    {
+      "meaning": "close encounter",
+      "frequency": 0
+    },
+    {
+      "meaning": "appulse",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근접. A close shot. 듣기 View video NCT : 💚💚쿤림카페💚💚",
+      "english": "A close shot."
+    },
+    {
+      "korean": "근접샷입니다 렌즈가 좀 예쁘네요 그렇죠? It's a close-up shot. The lens are pretty. Right? 듣기 View video CIX : 서기의 퇴근전 라이브",
+      "english": "It's a close-up shot. The lens are pretty. Right?"
+    },
+    {
+      "korean": "[세계 최초 분노의 영민 이마 초근접 직캠] 아 저기요! [First time getting angry at a close-up shot] Excuse me! 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 2019 AWARDS BEHIND #1",
+      "english": "[First time getting angry at a close-up shot] Excuse me!"
+    },
+    {
+      "korean": "[하뚜 전송을 위해서라면! 근접샷도 마다않는 이 열정...] [To send a heart! This passion where he doesn't even care about close shots...] View video CIX : [씨앗관찰일기] EP 6. 팬바라기 진영이의 깜찍 뽀짝 하트를 모아서 ♥",
+      "english": "[To send a heart! This passion where he doesn't even care about close shots...]"
+    },
+    {
+      "korean": "[예나 초근접 캠!] [Yena closeup CAM!] View video IZ*ONE : IZ*ONE 에너지 캠(ENOZI Cam) EP.34",
+      "english": "[Yena closeup CAM!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The bruising was not contiguous to the wound. 듣기 Add to Wordbook 타박상은 상처에 근접해 있지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bruising was not contiguous to the wound. Add to Wordbook"
+    },
+    {
+      "korean": "The economy is precariously close to recession. 듣기 Add to Wordbook 경제가 경기 침체에 위태로울 정도로 근접해 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The economy is precariously close to recession. Add to Wordbook"
+    },
+    {
+      "korean": "Her comment was uncomfortably close to the truth. 듣기 Add to Wordbook 그녀의 논평은 불편할 정도로 진실에 근접해 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her comment was uncomfortably close to the truth. Add to Wordbook"
+    },
+    {
+      "korean": "Few writers approach his richness of language. 듣기 Add to Wordbook 그의 언어적 풍요로움에 근접하는 작가는 거의 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Few writers approach his richness of language. Add to Wordbook"
+    },
+    {
+      "korean": "a close-up of a human eye 듣기 Add to Wordbook 사람의 눈을 근접 촬영한 사진 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a close-up of a human eye Add to Wordbook"
+    }
+  ]
+}

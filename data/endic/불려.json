@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "불리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물체를 액체에 담그다) steep, soak, macerate",
+        "(재산·세력 등을 커지게 하다) increase, (세력 등을) extend"
+      ]
+    },
+    {
+      "phrase": "불리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be called, be named"
+      ]
+    },
+    {
+      "phrase": "불리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(자기 배를)"
+      ]
+    },
+    {
+      "phrase": "불려가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be called (to), be summoned (to)"
+      ]
+    },
+    {
+      "phrase": "물에 불려 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep sth steeped[soaked] in water"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "(be/get called) on the carpet",
+      "frequency": 0
+    },
+    {
+      "meaning": "soak off",
+      "frequency": 0
+    },
+    {
+      "meaning": "cited to the field of battle",
+      "frequency": 0
+    },
+    {
+      "meaning": "pad an expense account",
+      "frequency": 0
+    },
+    {
+      "meaning": "scattered wrecks on a stormbeaten shore",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 아까 불려놓은 거 있죠?",
+      "english": "Remember the rice cakes we soaked in water earlier?"
+    },
+    {
+      "korean": "또 불려가는 거 아니야?",
+      "english": "What if we get called in again?"
+    },
+    {
+      "korean": "[내 이름은 김싱가포르로 개명해서 네 저요? 하면서 불려나가버려] 싱가포르!",
+      "english": "[then I'm going to have to change my name to Singapore] Singapore!"
+    },
+    {
+      "korean": "[STEP 7 월남쌈용 라이스페이퍼를 따뜻한 물에 10초가량 짧게 불려줍니다] 이렇게... 뜨거워!",
+      "english": "[Step 7. Soak rice paper in warm water for 10 seconds] Like this... It's hot!"
+    },
+    {
+      "korean": "만득이라고 안 불려요 저 - 젠득램지?",
+      "english": "No one calls me Mandeugi. - Jendeuk Ramsey?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그것은 현대판 노예제도라고 불려 왔다.",
+      "english": "It has been called modern-day slavery."
+    },
+    {
+      "korean": "나는 지각한 것 때문에 불려갔다.",
+      "english": "I got called on the carpet for being late."
+    },
+    {
+      "korean": "그 싸움을 중단시키기 위해 경찰이 불려 왔다.",
+      "english": "Police were called in to break up the fight."
+    },
+    {
+      "korean": "집안싸움을 해결하기 위해 경찰이 불려 왔다.",
+      "english": "The police were called to sort out a domestic."
+    },
+    {
+      "korean": "벨기에 출신 배우인 장 클로드 반담은 ‘브뤼셀에서 온 근육질’이라는 별명으로 불려 왔다.",
+      "english": "The Belgian actor Jean Claude Van Damme has been dubbed ‘Muscles from Brussels’."
+    }
+  ]
+}

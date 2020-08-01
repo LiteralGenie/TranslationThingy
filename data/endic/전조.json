@@ -1,0 +1,108 @@
+{
+  "phrases": [
+    {
+      "phrase": "전조",
+      "hanja": " (前兆)",
+      "example": {},
+      "meanings": [
+        "sign (of), omen (of/for), prelude (to), (literary) harbinger, (literary) portent"
+      ]
+    },
+    {
+      "phrase": "전조이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be a sign",
+        "foretell",
+        "betoken"
+      ]
+    },
+    {
+      "phrase": "전쟁의 전조",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "portents of war"
+      ]
+    },
+    {
+      "phrase": "좋은 전조",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a good omen"
+      ]
+    },
+    {
+      "phrase": "비가 올 전조",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sign of rain"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "herald",
+      "frequency": 1
+    },
+    {
+      "meaning": "hint",
+      "frequency": 1
+    },
+    {
+      "meaning": "forerunner",
+      "frequency": 1
+    },
+    {
+      "meaning": "augury",
+      "frequency": 0
+    },
+    {
+      "meaning": "portent",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "전조가 되는거로 하셨어요. He made it as a prelude. 듣기 View video BTOB : 비투비 - THE BEAT SEASON 4 -11- '서은광의 노래 교실'",
+      "english": "He made it as a prelude."
+    },
+    {
+      "korean": "우리 시대의 우울한 전조에 대해서 썼던 영화평이 굉장히 인상적이었습니다. an impressive article about a depressive sign of our times. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "an impressive article about a depressive sign of our times."
+    },
+    {
+      "korean": "전조부터 좋지 않습니까? Don't you just like the intro? 듣기 View video LEE HI : HI TV - Episode 02",
+      "english": "Don't you just like the intro?"
+    },
+    {
+      "korean": "또 하나는 한두 번 겪다보면 이제 전조증상이라는 걸 아실 거예요. After suffering panic attack 1 or 2 times, you will realize there is a presymptom. 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "After suffering panic attack 1 or 2 times, you will realize there is a presymptom."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The government claims that the fall in unemployment is the herald of economic recovery. 발음듣기 정부는 실업률 하락이 경제 회복의 전조라고 주장한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government claims that the fall in unemployment is the herald of economic recovery. 발음"
+    },
+    {
+      "korean": "At the first hint of trouble, they left. 발음듣기 어려움의 첫 전조가 보이자마자 그들은 떠났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At the first hint of trouble, they left. 발음"
+    },
+    {
+      "korean": "This speech may mark a change in government policy. 발음듣기 이 연설이 정부 정책의 변화를 보여주는 전조일 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This speech may mark a change in government policy. 발음"
+    },
+    {
+      "korean": "University campuses are often the bellwether of change. 발음듣기 대학 캠퍼스는 흔히 변화의 전조를 재는 기준이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "University campuses are often the bellwether of change. 발음"
+    },
+    {
+      "korean": "Conflicts among the various groups do not augur well for the future of the peace talks. 발음듣기 여러 집단들 간의 갈등은 그 평화 회담의 미래에 상서로운 전조가 못 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Conflicts among the various groups do not augur well for the future of the peace talks. 발음"
+    }
+  ]
+}

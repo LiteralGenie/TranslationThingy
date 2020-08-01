@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "수영장",
+      "hanja": " (水泳場)",
+      "example": {},
+      "meanings": [
+        "(swimming) pool"
+      ]
+    },
+    {
+      "phrase": "실내 수영장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "indoor swimming pool"
+      ]
+    },
+    {
+      "phrase": "태양열 온수 수영장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a solar-heated swimming pool"
+      ]
+    },
+    {
+      "phrase": "안전시설이 미비한 수영장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unprotected swimming pools"
+      ]
+    },
+    {
+      "phrase": "수영장 물을 염소로 살균하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "chlorinate a pool",
+        "disinfect a pool with chlorine"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "swimming pool",
+      "frequency": 3
+    },
+    {
+      "meaning": "bath",
+      "frequency": 3
+    },
+    {
+      "meaning": "swimming bath",
+      "frequency": 0
+    },
+    {
+      "meaning": "natatorium",
+      "frequency": 0
+    },
+    {
+      "meaning": "a bathing place",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "수영장? The swimming pool? 듣기 View video TOMORROW X TOGETHER : 2번주자는 누굴까요*힌트*다 잘하는 멤버",
+      "english": "The swimming pool?"
+    },
+    {
+      "korean": "수영장, 수영장! The pool, the pool! 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.10",
+      "english": "The pool, the pool!"
+    },
+    {
+      "korean": "아 수영장~ Oh, the swimming pool! 듣기 View video TOMORROW X TOGETHER : 2번주자는 누굴까요*힌트*다 잘하는 멤버",
+      "english": "Oh, the swimming pool!"
+    },
+    {
+      "korean": "저희가 처음으로 수영장에! For the first time! 듣기 View video VICTON : TVicton EP.81 (두 댕댕이의 수영장 나들이~)",
+      "english": "For the first time!"
+    },
+    {
+      "korean": "\"찬, 바다 수영 vs 수영장 수영?\" \"CHAN, sea or pool?\" 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 35",
+      "english": "\"CHAN, sea or pool?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We lazed by the pool all day. 듣기 Add to Wordbook 우리는 하루 종일 수영장 가에서 느긋하게 보냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We lazed by the pool all day. Add to Wordbook"
+    },
+    {
+      "korean": "The swimming pool is floodlit in the evenings. 듣기 Add to Wordbook 야간에는 그 수영장에 투광 조명등을 밝힌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The swimming pool is floodlit in the evenings. Add to Wordbook"
+    },
+    {
+      "korean": "He stood on the side of the pool flexing his muscles. 듣기 Add to Wordbook 그는 수영장 가에 서서 몸의 근육을 풀고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He stood on the side of the pool flexing his muscles. Add to Wordbook"
+    },
+    {
+      "korean": "The kids were ducking each other in the pool. 듣기 Add to Wordbook 아이들은 수영장에서 서로를 물 속에 밀어 넣으며 장난을 치고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The kids were ducking each other in the pool. Add to Wordbook"
+    },
+    {
+      "korean": "The hotel also boasts two swimming pools and a golf course. 듣기 Add to Wordbook 또한 그 호텔은 자랑할 만한 두 개의 수영장과 골프 코스를 가지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel also boasts two swimming pools and a golf course. Add to Wordbook"
+    }
+  ]
+}

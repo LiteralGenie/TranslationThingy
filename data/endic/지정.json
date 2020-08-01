@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "지정",
+      "hanja": " (指定)",
+      "example": {},
+      "meanings": [
+        "(formal) designation, appointment, (formal) designate, appoint"
+      ]
+    },
+    {
+      "phrase": "지정한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "appointed",
+        "designated",
+        "specified"
+      ]
+    },
+    {
+      "phrase": "지정한 대로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as specified",
+        "according to the specifications"
+      ]
+    },
+    {
+      "phrase": "방을 지정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "assign a room to"
+      ]
+    },
+    {
+      "phrase": "지정 좌석",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a reserved seat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "designation",
+      "frequency": 3
+    },
+    {
+      "meaning": "soil ground",
+      "frequency": 0
+    },
+    {
+      "meaning": "specifying",
+      "frequency": 0
+    },
+    {
+      "meaning": "designate",
+      "frequency": 3
+    },
+    {
+      "meaning": "unassigned",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이 정도면 문화유산 지정해놓고 모셔야 하는 위대한 인물들 아닙니까] 그래요? [Shouldn't they be designated as cultural heritages?] Really? 듣기 View video V PICK! : [SF9] 힘든 하루를 위로해주는 여기는 큰집라이ㅂ.. 아니 빈,us입니다! (SF9 talking about Chani’s text message)",
+      "english": "[Shouldn't they be designated as cultural heritages?] Really?"
+    },
+    {
+      "korean": "[이제부터 빈어스 하는 날을 영빈이 생일로 지정해버리자] 오늘 제 생일이에요? [Let's just say that the day they do V LIVE shows, it's YOUNG BIN's birthday] Is it my birthday today? 듣기 View video V PICK! : [SF9] 힘든 하루를 위로해주는 여기는 큰집라이ㅂ.. 아니 빈,us입니다! (SF9 talking about Chani’s text message)",
+      "english": "[Let's just say that the day they do V LIVE shows, it's YOUNG BIN's birthday] Is it my birthday today?"
+    },
+    {
+      "korean": "[오늘 리막 그래요? 데이로 지정] 집중집중! [Today is \"Really?\" day] Focus! 듣기 View video V PICK! : [MAMAMOO] 다들 가슴 한 편에 맘무콘서트용 제빙기 하나쯤은 품고 사는거 아니었나요?☀️❄️ (MAMAMOO’s concert spoiler)",
+      "english": "[Today is \"Really?\" day] Focus!"
+    },
+    {
+      "korean": "\"진지하게 이 정도면 국보로 지정해줘야 하는 거 아닌가요?\" \"Shouldn't he be chosen as a national treasure\"? 듣기 View video Dispatch : [ⓓxV] “얼굴 천재 주접낭송 만재 용이” ① (태용 : NCT 127)",
+      "english": "\"Shouldn't he be chosen as a national treasure\"?"
+    },
+    {
+      "korean": "[특정 금액 안에서 지정된 상대방에게 가장 필요 없을 것 같은 아이템을 선물해주는 것!] [They have to buy each other useless products under 10,000 won!] View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 3화",
+      "english": "[They have to buy each other useless products under 10,000 won!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The town centre was zoned for office development. 듣기 Add to Wordbook 시내 중심부는 사무실 조성 지구로 지정되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The town centre was zoned for office development. Add to Wordbook"
+    },
+    {
+      "korean": "a designated nature reserve 듣기 Add to Wordbook 자연 보호 지정 지역 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a designated nature reserve Add to Wordbook"
+    },
+    {
+      "korean": "genes that code for the colour of the eyes 듣기 Add to Wordbook 눈의 색깔을 지정하게 되는 유전자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "genes that code for the colour of the eyes Add to Wordbook"
+    },
+    {
+      "korean": "‘Macbeth’ is a set text this year. 듣기 Add to Wordbook ‘맥베스’는 올해 지정 교재이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Macbeth’ is a set text this year. Add to Wordbook"
+    },
+    {
+      "korean": "This floor has been designated a no-smoking area. 듣기 Add to Wordbook 이 층은 금연 구역으로 지정되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This floor has been designated a no-smoking area. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "phrases": [
+    {
+      "phrase": "사상자",
+      "hanja": " (死傷者)",
+      "example": {},
+      "meanings": [
+        "casualties"
+      ]
+    },
+    {
+      "phrase": "사상자 수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "losses",
+        "the toll of casualties",
+        "the killed and wounded"
+      ]
+    },
+    {
+      "phrase": "사상자 명단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a casualty list",
+        "a list of casualties"
+      ]
+    },
+    {
+      "phrase": "많은 사상자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "heavy[many, serious] casualties"
+      ]
+    },
+    {
+      "phrase": "사상자 총수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the total casualties"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "casualty",
+      "frequency": 3
+    },
+    {
+      "meaning": "the dead and wounded",
+      "frequency": 0
+    },
+    {
+      "meaning": "hedge parsley",
+      "frequency": 0
+    },
+    {
+      "meaning": "the dead and the injured",
+      "frequency": 0
+    },
+    {
+      "meaning": "casualties",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "수많은 사상자를 냈던 그 끔찍한 사건의 시작이 fMRI 기술이라면? What if the start of the incident with many casualties was because of the fMRI technique? 듣기 View video 아이엠 (I am) : <사랑, 기억에 머물다> 6-2화 (Final) [해피 엔딩]",
+      "english": "What if the start of the incident with many casualties was because of the fMRI technique?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the dead and the injured 듣기 Add to Wordbook 사상자. Friendict Level English-Korean Dictionary",
+      "english": "the dead and the injured Add to Wordbook"
+    },
+    {
+      "korean": "The dead and wounded in that one attack amounted to 6000. 듣기 Add to Wordbook 그 한 차례의 공격으로 인한 사상자가 6 000명에 달했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dead and wounded in that one attack amounted to 6000. Add to Wordbook"
+    },
+    {
+      "korean": "the war’s growing casualty toll 듣기 Add to Wordbook 점점 늘어나고 있는 그 전쟁의 사상자 수 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the war’s growing casualty toll Add to Wordbook"
+    },
+    {
+      "korean": "Both sides had suffered heavy casualties. 듣기 Add to Wordbook 양 측 다 많은 사상자가 났었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Both sides had suffered heavy casualties. Add to Wordbook"
+    },
+    {
+      "korean": "The army was forced to retreat after suffering heavy losses. 듣기 Add to Wordbook 그 군대는 많은 사상자를 낸 뒤 후퇴해야만 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The army was forced to retreat after suffering heavy losses. Add to Wordbook"
+    }
+  ]
+}

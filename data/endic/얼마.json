@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "얼마",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(의문문에서)",
+        "(정해지지 않은)",
+        "(비교적 적은)"
+      ]
+    },
+    {
+      "phrase": "얼마든지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as many[much] as sb likes[wants]"
+      ]
+    },
+    {
+      "phrase": "얼마 안 가서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in a short time",
+        "before long"
+      ]
+    },
+    {
+      "phrase": "얼마 있으면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "before long",
+        "shortly",
+        "in a little while"
+      ]
+    },
+    {
+      "phrase": "하루 얼마로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by the day",
+        "at so much a day"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "how much",
+      "frequency": 0
+    },
+    {
+      "meaning": "How much…?",
+      "frequency": 0
+    },
+    {
+      "meaning": "so much",
+      "frequency": 0
+    },
+    {
+      "meaning": "some time",
+      "frequency": 0
+    },
+    {
+      "meaning": "what 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "얼마예요? How much are they? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "How much are they?"
+    },
+    {
+      "korean": "이게 얼마죠? How much is this? 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "How much is this?"
+    },
+    {
+      "korean": "얼마 안 남았다! We are almost there! 듣기 View video TOMORROW X TOGETHER : 즐거운 휴닝로직🤗",
+      "english": "We are almost there!"
+    },
+    {
+      "korean": "이게 얼마 만이야? How long has it been? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "How long has it been?"
+    },
+    {
+      "korean": "이거 얼마예요? How much is this polaroid camera? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "How much is this polaroid camera?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "How much money have we been allotted? 듣기 Add to Wordbook 우리에게 돈이 얼마가 할당됐어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How much money have we been allotted? Add to Wordbook"
+    },
+    {
+      "korean": "How much money has been allotted to us? 듣기 Add to Wordbook 우리에게 돈이 얼마가 할당됐어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How much money has been allotted to us? Add to Wordbook"
+    },
+    {
+      "korean": "What is the average annual snowfall for this state? 듣기 Add to Wordbook 이 주는 연중 평균 강설량이 얼마인가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What is the average annual snowfall for this state? Add to Wordbook"
+    },
+    {
+      "korean": "‘How much is that dress?’ ‘Eighty dollars.’ 듣기 Add to Wordbook “저 드레스[원피스] 얼마에요?” “80 달러에요.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘How much is that dress?’ ‘Eighty dollars.’ Add to Wordbook"
+    },
+    {
+      "korean": "How much was your share of the winnings? 듣기 Add to Wordbook 그 상금에서 당신 몫은 얼마였어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How much was your share of the winnings? Add to Wordbook"
+    }
+  ]
+}

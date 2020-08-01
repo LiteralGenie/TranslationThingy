@@ -1,0 +1,106 @@
+{
+  "phrases": [
+    {
+      "phrase": "공군",
+      "hanja": " (空軍)",
+      "example": {},
+      "meanings": [
+        "air force"
+      ]
+    },
+    {
+      "phrase": "미국 공군",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the United States Air Force"
+      ]
+    },
+    {
+      "phrase": "한국 공군",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Republic of Korea Air Force"
+      ]
+    },
+    {
+      "phrase": "공군기지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "air base, air force base"
+      ]
+    },
+    {
+      "phrase": "공군본부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Air Force Headquarters"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "air force",
+      "frequency": 0
+    },
+    {
+      "meaning": "the air force",
+      "frequency": 0
+    },
+    {
+      "meaning": "air arm",
+      "frequency": 0
+    },
+    {
+      "meaning": "air fleet",
+      "frequency": 0
+    },
+    {
+      "meaning": "air service",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "공군에 간데요. He's going to air force. 듣기 View video Sungha Jung : 속초다!!!!",
+      "english": "He's going to air force."
+    },
+    {
+      "korean": "9월 19일 월요일에 진주 공군 훈련소로 입소합니다. I'm going to air force in Jinju on September 19. 듣기 View video Sungha Jung : 속초다!!!!",
+      "english": "I'm going to air force in Jinju on September 19."
+    },
+    {
+      "korean": "공군사관학교 시험을 쳤지만 낙제를 하게 되었어요. But when I took the exam for the Air Force Academy, I failed. 듣기 View video IDOL x IDOL : RoadBoyz - Road Together 로드보이즈 '오늘도 파이팅 넘치는 길 위의 소년들'",
+      "english": "But when I took the exam for the Air Force Academy, I failed."
+    },
+    {
+      "korean": "공군사관학교 파일럿의 꿈을 갖고, 시험을 했지만 낙제를 하게 되었고... I wanted to be a pilot and applied to the Air Force Academy but failed the exam... 듣기 View video IDOL x IDOL : RoadBoyz - Road Together 로드보이즈 '오늘도 파이팅 넘치는 길 위의 소년들'",
+      "english": "I wanted to be a pilot and applied to the Air Force Academy but failed the exam..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the air arm 듣기 Add to Wordbook 공군. Friendict Level English-Korean Dictionary",
+      "english": "the air arm Add to Wordbook"
+    },
+    {
+      "korean": "the air force 듣기 Add to Wordbook 공군. Friendict Level English-Korean Dictionary",
+      "english": "the air force Add to Wordbook"
+    },
+    {
+      "korean": "his enlistment in the Royal Air Force 듣기 Add to Wordbook 그의 영국 공군 입대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "his enlistment in the Royal Air Force Add to Wordbook"
+    },
+    {
+      "korean": "Air Marshal Gordon Black 듣기 Add to Wordbook 고든 블랙 공군 중장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Air Marshal Gordon Black Add to Wordbook"
+    },
+    {
+      "korean": "Flying Officer Ian Wall 듣기 Add to Wordbook 이언 월 공군 중위 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Flying Officer Ian Wall Add to Wordbook"
+    }
+  ]
+}

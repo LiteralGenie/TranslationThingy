@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "뭐 마실 것을 드릴까요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Something to drink?"
+      ]
+    },
+    {
+      "phrase": "외상으로 마실 수 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I can drink on credit."
+      ]
+    },
+    {
+      "phrase": "이것 마실 수 있는 물이야?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is this drinkable water?"
+      ]
+    },
+    {
+      "phrase": "콜라 좀 마실 수 있습니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "May I have some Coke?"
+      ]
+    },
+    {
+      "phrase": "뭔가 마실 거라도 드릴까요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 Can I get you something to drink?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "drink",
+      "frequency": 3
+    },
+    {
+      "meaning": "drinkable",
+      "frequency": 0
+    },
+    {
+      "meaning": "Can I have a drink?",
+      "frequency": 0
+    },
+    {
+      "meaning": "undrinkable",
+      "frequency": 0
+    },
+    {
+      "meaning": "corkage",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한 잔만? - 많이 마실 거야? Just one? - You're going to drink a lot? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Just one? - You're going to drink a lot?"
+    },
+    {
+      "korean": "맥주 마실 건데~ I'm going to drink beer~ 듣기 View video NU'EST : [NU’EST] 짠! 러브들 고마워요🍋",
+      "english": "I'm going to drink beer~"
+    },
+    {
+      "korean": "뭐 마실 거야? What are you going to drink? 듣기 View video Dingo Story / 딩고스토리 : 이상형과 만나지 못하는 이유_EP17_[라이크LIKE]",
+      "english": "What are you going to drink?"
+    },
+    {
+      "korean": "마실 거 없냐? Do you have anything to drink? 듣기 View video 콬TV (WHYNOT) : 나는 누구를 좋아하는 걸까 [연애미수] EP04",
+      "english": "Do you have anything to drink?"
+    },
+    {
+      "korean": "더 마실 거야? Are you going to drink it more? 듣기 View video Stray Kids : 🐶🐱스쿨 유학 후 개학하다...!",
+      "english": "Are you going to drink it more?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can I fix you a drink? 듣기 Add to Wordbook 마실 것 한 잔 줄까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I fix you a drink? Add to Wordbook"
+    },
+    {
+      "korean": "Can I have a drink? 듣기 Add to Wordbook 뭐 한 잔 마실 수 있을까요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I have a drink? Add to Wordbook"
+    },
+    {
+      "korean": "Can I fix a drink for you? 듣기 Add to Wordbook 마실 것 한 잔 줄까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I fix a drink for you? Add to Wordbook"
+    },
+    {
+      "korean": "Yuletide food and drink 듣기 Add to Wordbook 크리스마스 무렵 음식과 술[마실 것] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Yuletide food and drink Add to Wordbook"
+    },
+    {
+      "korean": "She went off to get a drink. 듣기 Add to Wordbook 그녀가 마실 것을 가지러 자리를 떴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She went off to get a drink. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "수완",
+      "hanja": " (手腕)",
+      "example": {},
+      "meanings": [
+        "ability, acumen"
+      ]
+    },
+    {
+      "phrase": "수완이 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "able",
+        "capable",
+        "talented"
+      ]
+    },
+    {
+      "phrase": "외교적 수완",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "diplomatic ability"
+      ]
+    },
+    {
+      "phrase": "수완이 늘다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "improve one´s skill"
+      ]
+    },
+    {
+      "phrase": "정치적 수완",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a political capacity"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "contrivance",
+      "frequency": 1
+    },
+    {
+      "meaning": "art 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "finesse",
+      "frequency": 0
+    },
+    {
+      "meaning": "stroke 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "savoir faire",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "I should have got a better price for the car, but I’m not much of a businessman. 발음듣기 내가 그 차 값을 좀 더 낫게 받았어야 했는데 난 장사 수완이 별로 없어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I should have got a better price for the car, but I’m not much of a businessman. 발음"
+    },
+    {
+      "korean": "His lawyer’s a sharp operator. 발음듣기 그의 변호사는 영리한 수완가이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His lawyer’s a sharp operator. 발음"
+    },
+    {
+      "korean": "an ingenious contrivance to get her to sign the document without reading it 발음듣기 그녀로 하여금 그 서류를 읽어 보지도 않고 서명하게 만드는 천재적인 수완 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an ingenious contrivance to get her to sign the document without reading it 발음"
+    },
+    {
+      "korean": "When have your skills in diplomacy been put to the test? 발음듣기 당신의 외교수완을 언제 시험해 보셨습니까? DARAKWON",
+      "english": "When have your skills in diplomacy been put to the test? 발음"
+    },
+    {
+      "korean": "Numbness of hands can be a sign of HAVS. 발음듣기 손의 마비 현상은 수완 진동 증후군의 징후일 수 있다. 국제영어대학원대학교 신어사전",
+      "english": "Numbness of hands can be a sign of HAVS. 발음"
+    }
+  ]
+}

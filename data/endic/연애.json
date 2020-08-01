@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "연애",
+      "hanja": " (戀愛)",
+      "example": {},
+      "meanings": [
+        "date, go out (with), have a (romantic) relationship (with)"
+      ]
+    },
+    {
+      "phrase": "연애시인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a love poet"
+      ]
+    },
+    {
+      "phrase": "맞선[연애] 결혼",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an arranged[a love] marriage"
+      ]
+    },
+    {
+      "phrase": "연애편지",
+      "hanja": " (戀愛便紙)",
+      "example": {},
+      "meanings": [
+        "love letter, love note"
+      ]
+    },
+    {
+      "phrase": "연애 장면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a love scene"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "involvement",
+      "frequency": 2
+    },
+    {
+      "meaning": "courtship",
+      "frequency": 1
+    },
+    {
+      "meaning": "romance",
+      "frequency": 0
+    },
+    {
+      "meaning": "affaire",
+      "frequency": 0
+    },
+    {
+      "meaning": "love affair",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "연애를 해~ 어? Why don't you date someone? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Why don't you date someone?"
+    },
+    {
+      "korean": "나보고 연애를 또 하라고? Are you telling me to go out with a guy? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Are you telling me to go out with a guy?"
+    },
+    {
+      "korean": "그게 뭔데요? 그거 연애 아니에요? What is that? Isn't that on love? 듣기 View video TOMORROW X TOGETHER : 같이 먹어요",
+      "english": "What is that? Isn't that on love?"
+    },
+    {
+      "korean": "나 연애하는 건 어떻게 알았는데? How did you know I was dating someone? 듣기 View video 콬TV (WHYNOT) : 수상한 그녀 [가두리횟집] EP10",
+      "english": "How did you know I was dating someone?"
+    },
+    {
+      "korean": "연애한다고 사람이 이렇게 달라지시나? How can you change so much just because you're dating someone? 듣기 View video 콬TV (WHYNOT) : 수상한 그녀 [가두리횟집] EP10",
+      "english": "How can you change so much just because you're dating someone?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "tender passion 발음듣기 연애. Friendict Level English-Korean Dictionary",
+      "english": "tender passion 발음"
+    },
+    {
+      "korean": "She’s a compulsive reader of romances. 발음듣기 그녀는 강박적인 연애소설 독자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s a compulsive reader of romances. 발음"
+    },
+    {
+      "korean": "She’s a real flirt. 발음듣기 그녀는 정말 연애 선수다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s a real flirt. 발음"
+    },
+    {
+      "korean": "a sizzling love affair 발음듣기 아주 흥미진진한 연애 사건 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sizzling love affair 발음"
+    },
+    {
+      "korean": "Isabel’s latest romantic escapade 발음듣기 이사벨의 최근 연애 행각 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Isabel’s latest romantic escapade 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "묘",
+      "hanja": " (墓)",
+      "example": {},
+      "meanings": [
+        "(무덤) grave, (돌로 만들어진) tomb"
+      ]
+    },
+    {
+      "phrase": "묘",
+      "hanja": " (妙)",
+      "example": {},
+      "meanings": [
+        "(교묘) cleverness, adroitness"
+      ]
+    },
+    {
+      "phrase": "묘를 쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[secure] a gravesite and bury sb"
+      ]
+    },
+    {
+      "phrase": "조화의 묘",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the wonders of nature"
+      ]
+    },
+    {
+      "phrase": "단청의 묘(妙)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the exquisite beauty of the painting"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "grave 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "mausoleum",
+      "frequency": 0
+    },
+    {
+      "meaning": "grave 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "sepulcher",
+      "frequency": 1
+    },
+    {
+      "meaning": "mool",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근데 갑자기 제 옆에서 '묘묘묘' 이러는데 진짜... But suddenly, she was saying \"myo myo myo\" next to me, and... 듣기 View video fromis_9 : 꼬챙이",
+      "english": "But suddenly, she was saying \"myo myo myo\" next to me, and..."
+    },
+    {
+      "korean": "대형묘. A large imitation. 듣기 View video Stray Kids : [Stray Kids: SK-TALKER(슼토커)] EP.02",
+      "english": "A large imitation."
+    },
+    {
+      "korean": "심플하게 묘느리 파스타. It's simply called daughter-in-law pasta. 듣기 View video TWICE : TWICE TV4 LAST EP. - TWICE's COOKTIME 2 -",
+      "english": "It's simply called daughter-in-law pasta."
+    },
+    {
+      "korean": "그래, 나는 묘느리야. - 귀엽다. Yes, I'm the daughter in law. - So cute. 듣기 View video TWICE : [FULL] TWICE \"Heart Shaker\" Special V LIVE",
+      "english": "Yes, I'm the daughter in law. - So cute."
+    },
+    {
+      "korean": "[찜질하러 왔다냥...] 너 찜질묘야? [I'm here for sauna] Are you a sauna cat? 듣기 View video BLACKPINK : 블핑하우스 (BLACKPINK HOUSE) EP.9-2",
+      "english": "[I'm here for sauna] Are you a sauna cat?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was buried in a pyramid tomb. 발음듣기 그는 피라미드 형태의 묘에 묻혔다. Neungyule",
+      "english": "He was buried in a pyramid tomb. 발음"
+    },
+    {
+      "korean": "Then, they go to their ancestors’ graves. 발음듣기 그런 뒤 조상의 묘를 찾아간다. Neungyule",
+      "english": "Then, they go to their ancestors’ graves. 발음"
+    },
+    {
+      "korean": "He built Hwaseong Fortress to guard the tomb. 발음듣기 그는 이 묘를 수호하기 위해 화성을 세웠다. Neungyule",
+      "english": "He built Hwaseong Fortress to guard the tomb. 발음"
+    },
+    {
+      "korean": "We paid our respects to soldiers who died in battle. 발음듣기 우리는 전사자들의 묘에 꽃을 올려 놓고 경의를 표했다. Neungyule",
+      "english": "We paid our respects to soldiers who died in battle. 발음"
+    },
+    {
+      "korean": "Strange to relate, asteroids will hit the Earth. 발음듣기 이상한[묘한] 이야기지만, 소행성이 지구와 충돌할 것이다. YBM All in All English-Korean Dictionary",
+      "english": "Strange to relate, asteroids will hit the Earth. 발음"
+    }
+  ]
+}

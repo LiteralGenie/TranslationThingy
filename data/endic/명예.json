@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "명예",
+      "hanja": " (名譽)",
+      "example": {},
+      "meanings": [
+        "honor"
+      ]
+    },
+    {
+      "phrase": "명예교수",
+      "hanja": " (名譽敎授)",
+      "example": {},
+      "meanings": [
+        "honorary[emeritus] professor, professor emeritus"
+      ]
+    },
+    {
+      "phrase": "명예박사",
+      "hanja": " (名譽博士)",
+      "example": {},
+      "meanings": [
+        "honorary doctorate[Ph.D.]"
+      ]
+    },
+    {
+      "phrase": "명예퇴직",
+      "hanja": " (名譽退職)",
+      "example": {},
+      "meanings": [
+        "voluntary resignation, ERP (Early Retirement Plan)"
+      ]
+    },
+    {
+      "phrase": "명예롭다",
+      "hanja": " (名譽롭다)",
+      "example": {},
+      "meanings": [
+        "honorable"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "honour",
+      "frequency": 3
+    },
+    {
+      "meaning": "honor",
+      "frequency": 3
+    },
+    {
+      "meaning": "second 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "trouthe",
+      "frequency": 0
+    },
+    {
+      "meaning": "libel",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[사실적시 명예훼손이란다...] 알았지? [This is a de-facto defamation] Okay? 듣기 View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM] EP.7 4천만원 '기부' 플렉싱! 근데 이게 끝이 아니라고...? 묻고 더블로 가! ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[This is a de-facto defamation] Okay?"
+    },
+    {
+      "korean": "[언민 형제 : 현 포스텍 명예학생] 이곳이 그곳인가? [Zion. T & MINO: Honorary POSTECH students] Is this it? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 10. 포스텍 야잠입고 카이스트 습격! “구토스”, 외대와 타령랩, 오묘한 조합!? “도비\"",
+      "english": "[Zion. T & MINO: Honorary POSTECH students] Is this it?"
+    },
+    {
+      "korean": "[포스텍 명예학생이 카이스트에 오면 어떤 일이 생길까?] [What will happen when honorary POTECH students come to KAIST?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 10. 포스텍 야잠입고 카이스트 습격! “구토스”, 외대와 타령랩, 오묘한 조합!? “도비\"",
+      "english": "[What will happen when honorary POTECH students come to KAIST?]"
+    },
+    {
+      "korean": "정소민 명예ㅅ... Jeong Somin honorary... 듣기 View video 스튜디오 픽또 / PICK DDO : [메이킹] 드라마 리허설 중에 무슨 일이?! / 인싸가 된 아싸짱",
+      "english": "Jeong Somin honorary..."
+    },
+    {
+      "korean": "[명예 영상 팀] 인서트? [Imaging team] Insert? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.10 당.당.감.체 #1",
+      "english": "[Imaging team] Insert?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He received an honourable discharge from the army. 듣기 Add to Wordbook 그는 군에서 명예 제대를 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He received an honourable discharge from the army. Add to Wordbook"
+    },
+    {
+      "korean": "I give you my word of honour … 듣기 Add to Wordbook 제 명예를 걸고 약속하는데… Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I give you my word of honour … Add to Wordbook"
+    },
+    {
+      "korean": "the Country Music Hall of Fame 듣기 Add to Wordbook 컨트리 뮤직 명예의 전당 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the Country Music Hall of Fame Add to Wordbook"
+    },
+    {
+      "korean": "Hon Treasurer: D Shrimpton 듣기 Add to Wordbook 명예 재무위원: 디 쉬림톤 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hon Treasurer: D Shrimpton Add to Wordbook"
+    },
+    {
+      "korean": "damage to a person’s reputation 듣기 Add to Wordbook 어떤 사람에 대한 명예 훼손 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "damage to a person’s reputation Add to Wordbook"
+    }
+  ]
+}

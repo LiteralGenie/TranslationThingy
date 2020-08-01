@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "인공",
+      "hanja": " (人工)",
+      "example": {},
+      "meanings": [
+        "artificiality"
+      ]
+    },
+    {
+      "phrase": "인공의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "artificial",
+        "man-made"
+      ]
+    },
+    {
+      "phrase": "인공지능",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "AI (artificial intelligence)"
+      ]
+    },
+    {
+      "phrase": "인공위성",
+      "hanja": " (人工衛星)",
+      "example": {},
+      "meanings": [
+        "satellite"
+      ]
+    },
+    {
+      "phrase": "인공수정",
+      "hanja": " (人工受精)",
+      "example": {},
+      "meanings": [
+        "artificial insemination[fertilization]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "art 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "artifical",
+      "frequency": 0
+    },
+    {
+      "meaning": "artificial",
+      "frequency": 3
+    },
+    {
+      "meaning": "유산 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "prosthetics",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "눈을 어떻게 내리게 해요? 인공 눈? How do they make snow fall? Artificial snow? 듣기 View video BTS : 생일 전날 아미 만나기💜",
+      "english": "How do they make snow fall? Artificial snow?"
+    },
+    {
+      "korean": "[신기한 인공 얼음] - 인공 - 인공 - 인공 얼음 아닌가? [Artificially made ice] - Artificially made. - Artificially made. - Wouldn't it be artificially made ice? 듣기 View video TOMORROW X TOGETHER : TALK X TODAY : Season2 EP.4",
+      "english": "[Artificially made ice] - Artificially made. - Artificially made. - Wouldn't it be artificially made ice?"
+    },
+    {
+      "korean": "조금 인공적인 자몽에이드 맛이... And the artificial taste of grapefruit ade... 듣기 View video NU'EST : 🤗",
+      "english": "And the artificial taste of grapefruit ade..."
+    },
+    {
+      "korean": "[헐 그래도 하나 남으셨네요... 전 인공심장 이식했어요...] - 205개 있었어요? - 205개나... There were 205? - 205? 듣기 View video V PICK! : [NCT] 천회장님의 귀요미애기들 말레이시아가요~ (NCT calling with Chenle)",
+      "english": "There were 205? - 205?"
+    },
+    {
+      "korean": "[머리에 쓰기만 해도 인공지능을 넘어서는] 상상 헬멧? [If you wear this, you will overdo AI] Imagination helmet? 듣기 View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸 동맹] EP.42 사장님..이거 PPL아니고 몰카죠? 현존하는 가장 미친 PPL방송...ㅎ",
+      "english": "[If you wear this, you will overdo AI] Imagination helmet?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "AID or artificial insemination by a donor 듣기 Add to Wordbook AID, 즉 기증자를 통한 인공 수정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "AID or artificial insemination by a donor Add to Wordbook"
+    },
+    {
+      "korean": "the fertilization of soil with artificial chemicals 듣기 Add to Wordbook 인공 비료에 의한 토양의 비옥화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the fertilization of soil with artificial chemicals Add to Wordbook"
+    },
+    {
+      "korean": "artificial insemination by a donor, abbreviated to ‘AID’ 듣기 Add to Wordbook 약어로는 ‘AID’라고 하는, 기증자에 의한 인공 수정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "artificial insemination by a donor, abbreviated to ‘AID’ Add to Wordbook"
+    },
+    {
+      "korean": "She was put on a respirator. 듣기 Add to Wordbook 그녀는 인공호흡기를 달고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was put on a respirator. Add to Wordbook"
+    },
+    {
+      "korean": "The cows are artificially inseminated. 듣기 Add to Wordbook 그 소들은 인공수정을 시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cows are artificially inseminated. Add to Wordbook"
+    }
+  ]
+}

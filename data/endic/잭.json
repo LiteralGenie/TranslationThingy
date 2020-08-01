@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "잭",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(기중기) a jack, (트럼프) the knave, the jack"
+      ]
+    },
+    {
+      "phrase": "jack",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 잭(자동차 타이어를 갈 때처럼 무거운 것을 들어올릴 때 쓰는 기구)",
+        "Noun (전기 기구를 연결하는) 잭",
+        "Adjective 호주 영어 ~에 싫증난"
+      ]
+    },
+    {
+      "phrase": "jack",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (중세 보병이 입던) 소매 없는 가죽 상의",
+        "Noun (맥주용) 가죽제의 조끼(cf. BLACKJACK 1)"
+      ]
+    },
+    {
+      "phrase": "Jack",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 이름 ((John[때로 James, Jacob]의 애칭))"
+      ]
+    },
+    {
+      "phrase": "jack",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 식물 (=JACKFRUIT)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "jack",
+      "frequency": 1
+    },
+    {
+      "meaning": "the quint major",
+      "frequency": 0
+    },
+    {
+      "meaning": "the quint major[minor]",
+      "frequency": 0
+    },
+    {
+      "meaning": "simple honors",
+      "frequency": 0
+    },
+    {
+      "meaning": "skip straight",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "하나 둘! 원 투 잭! 1, 2. 1, 2, jack! 듣기 View video ATEEZ : 에이티즈와 함께 하는 초성게임🙆‍♂️",
+      "english": "1, 2. 1, 2, jack!"
+    },
+    {
+      "korean": "잭 스패로우 알아요, 혹시? Jack Sparrow style. Do you know who he is? 듣기 View video GOT7 : [FULL] GOT7 LIVE PREMIERE",
+      "english": "Jack Sparrow style. Do you know who he is?"
+    },
+    {
+      "korean": "제가 약간 잭 스패로우 알아요 혹시? it seems to be... Do you know Jack Sparrow? 듣기 View video GOT7 : GOT7(갓세븐) MONOGRAPH \"DYE\" EP.01",
+      "english": "it seems to be... Do you know Jack Sparrow?"
+    },
+    {
+      "korean": "[조금 더 빨랐던 마.잭 팀] - 마잭! - 마잭! [Mi-Jack was faster] - Mi-Jack! - Mi-Jack! 듣기 View video TWICE : TWICE REALITY \"TIME TO TWICE\" - Noraebang Battle EP.04",
+      "english": "[Mi-Jack was faster] - Mi-Jack! - Mi-Jack!"
+    },
+    {
+      "korean": "점핑 잭입니다 다 아시는 팔 벌려 뛰기! are jumping jacks. One that all of you know! 듣기 View video Rain(정지훈) : let it 비 - 비가 소개하는 홈트레이닝 (지옥의 타바타 운동법)",
+      "english": "are jumping jacks. One that all of you know!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "John Hunt, familiarly known to his friends as Jack 발음듣기 친구들에게는 친근하게 잭으로 알려져 있는 존 헌트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "John Hunt, familiarly known to his friends as Jack 발음"
+    },
+    {
+      "korean": "They only invited Jack and Sarah as an afterthought. 발음듣기 그들은 나중에 생각이 나서 잭과 사라를 초대했을 뿐이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They only invited Jack and Sarah as an afterthought. 발음"
+    },
+    {
+      "korean": "the knave of clubs 발음듣기 (트럼프 카드) 클럽의 잭 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the knave of clubs 발음"
+    },
+    {
+      "korean": "I saw Jack the other day. 발음듣기 내가 일전에 잭을 봤어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I saw Jack the other day. 발음"
+    },
+    {
+      "korean": "For the first week he never actually saw the fabled Jack. 발음듣기 첫 한 주 동안은 그 전설적인 인물인 잭을 그는 한번도 실제로 보질 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "For the first week he never actually saw the fabled Jack. 발음"
+    }
+  ]
+}

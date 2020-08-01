@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "오랜만",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "오랜만이야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 시작 Long time no see."
+      ]
+    },
+    {
+      "phrase": "정말 오랜만이야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "만남 Long time no see!",
+        "만남 It's been a long time.",
+        "만남 It's been a while."
+      ]
+    },
+    {
+      "phrase": "굉장히 오랜만이네요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 시작 It's been a long time.",
+        "대화 시작 It's been a long time since I saw you last."
+      ]
+    },
+    {
+      "phrase": "이렇게 유쾌한 영화를 본 건 오랜만이야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "영화 I haven't seen anything so pleasant for a long time."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "after a long interval",
+      "frequency": 0
+    },
+    {
+      "meaning": "after a long time",
+      "frequency": 0
+    },
+    {
+      "meaning": "long time no see",
+      "frequency": 0
+    },
+    {
+      "meaning": "Welcome, stranger.",
+      "frequency": 0
+    },
+    {
+      "meaning": "LTNS",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오랜만에? Since it's been quite long since I last played? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "Since it's been quite long since I last played?"
+    },
+    {
+      "korean": "오랜만에... It's been awhile... 듣기 View video fromis_9 : 가슴이 선덕선덕🍂",
+      "english": "It's been awhile..."
+    },
+    {
+      "korean": "오랜만에! It's been a while! 듣기 View video MONSTA X : 몬스타엑스 X TWOTUCKGOM SPECIAL V LIVE",
+      "english": "It's been a while!"
+    },
+    {
+      "korean": "오랜만에. Oh, it's been so long. 듣기 View video JBJ : 젭제는 배가고픕니다 그래서..",
+      "english": "Oh, it's been so long."
+    },
+    {
+      "korean": "이 노래 너무 오랜만인데? It's really been awhile? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "It's really been awhile?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We haven't seen you for a long time. 듣기 Add to Wordbook 오랜만에 다시 만나 뵙는군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 보디사타(sunt****)",
+      "english": "We haven't seen you for a long time. Add to Wordbook"
+    },
+    {
+      "korean": "You are meeting me after such a long time. 듣기 Add to Wordbook 우리 정말 오랜만에 보네요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 헵번공주(yuli****)",
+      "english": "You are meeting me after such a long time. Add to Wordbook"
+    },
+    {
+      "korean": "I spoke to him on Sunday night. 듣기 Add to Wordbook 일요일밤..오랜만에 그와 진지한 대화를 했다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 헵번공주(yuli****)",
+      "english": "I spoke to him on Sunday night. Add to Wordbook"
+    },
+    {
+      "korean": "Our family went shopping after a long time. 듣기 Add to Wordbook 우리가족은 오랜만에 쇼핑을 갔다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 베니(beni****)",
+      "english": "Our family went shopping after a long time. Add to Wordbook"
+    },
+    {
+      "korean": "So is it weird being home after so long? 듣기 Add to Wordbook 오랜만에 집에 있으니까 이상하지 않아? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Yun(gung****)",
+      "english": "So is it weird being home after so long? Add to Wordbook"
+    }
+  ]
+}

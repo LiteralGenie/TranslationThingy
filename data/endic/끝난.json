@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "끝나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "end, finish, close, be over, be done, be finished, be completed"
+      ]
+    },
+    {
+      "phrase": "기입이 끝난",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "entered"
+      ]
+    },
+    {
+      "phrase": "수업이 끝난 후",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "after school"
+      ]
+    },
+    {
+      "phrase": "학교가 끝난 후",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "after school (is over)"
+      ]
+    },
+    {
+      "phrase": "다 끝난 일이야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Everything is taken care of."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "finished",
+      "frequency": 2
+    },
+    {
+      "meaning": "gone",
+      "frequency": 2
+    },
+    {
+      "meaning": "through",
+      "frequency": 2
+    },
+    {
+      "meaning": "out of the way",
+      "frequency": 0
+    },
+    {
+      "meaning": "finito",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "끝난 건가요? 아니면 계속하는 겁니까? Is it over? Shall we continue? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Is it over? Shall we continue?"
+    },
+    {
+      "korean": "피팅 방금 끝난 거야? Have you just finished trying on the outfits? 듣기 View video TOMORROW X TOGETHER : 같이 먹어요",
+      "english": "Have you just finished trying on the outfits?"
+    },
+    {
+      "korean": "[RM 꼴찌 탈출 성공] 뭐야 이게 끝난 거야? [RM's not the last] What? Is that all? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[RM's not the last] What? Is that all?"
+    },
+    {
+      "korean": "[다음 이야기][끝난 줄 알았쥬?] 투두! [Next episode][You thought it's over?] TO DO! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.21",
+      "english": "[Next episode][You thought it's over?] TO DO!"
+    },
+    {
+      "korean": "그럼 우리 지금 아이엠 그라운드 하고 끝난 거야? Then \"I am ground\" game was the only thing we did today? 듣기 View video NCT : 오랜만😆😆💚",
+      "english": "Then \"I am ground\" game was the only thing we did today?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an ineffectual attempt to reform the law 발음듣기 무위로 끝난 법률 개혁 시도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an ineffectual attempt to reform the law 발음"
+    },
+    {
+      "korean": "Housing standards improved immeasurably after the war. 발음듣기 전쟁이 끝난 이후로 주택 수준이 헤아릴 수 없을 정도로 개선되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Housing standards improved immeasurably after the war. 발음"
+    },
+    {
+      "korean": "After the earthquake, the people set about rebuilding their homes. 발음듣기 지진이 끝난 후에 사람들은 집을 다시 짓기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "After the earthquake, the people set about rebuilding their homes. 발음"
+    },
+    {
+      "korean": "a sense of release after the exam 발음듣기 시험이 끝난 뒤의 해방감 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sense of release after the exam 발음"
+    },
+    {
+      "korean": "The worst of the storm was over. 발음듣기 그 폭풍의 가장 심한 부분은 끝난 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The worst of the storm was over. 발음"
+    }
+  ]
+}

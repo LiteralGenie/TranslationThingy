@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기부",
+      "hanja": " (寄附)",
+      "example": {},
+      "meanings": [
+        "[명사] donation, contribution, (정기적인) subscription, [동사] donate (to), contribute (to/toward), subscribe (to)"
+      ]
+    },
+    {
+      "phrase": "기부의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "basal"
+      ]
+    },
+    {
+      "phrase": "거액을 기부하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a big donation"
+      ]
+    },
+    {
+      "phrase": "기부 행위를 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a contribution"
+      ]
+    },
+    {
+      "phrase": "자선단체에 기부하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "유언으로 leave sth to charity"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "contribution",
+      "frequency": 3
+    },
+    {
+      "meaning": "donation",
+      "frequency": 3
+    },
+    {
+      "meaning": "endowment",
+      "frequency": 3
+    },
+    {
+      "meaning": "subscription",
+      "frequency": 3
+    },
+    {
+      "meaning": "base 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "기부를 했습니다. we donated it. 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.17 #DJ황치열",
+      "english": "we donated it."
+    },
+    {
+      "korean": "모두 기부한다고 말씀을 드렸었고. I told you that I'd be donating them. 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.17 #DJ황치열",
+      "english": "I told you that I'd be donating them."
+    },
+    {
+      "korean": "[이들의 기부 FLEX 과연 어디까지?] [Where is the limit of their donation FLEX?] View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM] EP.7 4천만원 '기부' 플렉싱! 근데 이게 끝이 아니라고...? 묻고 더블로 가! ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[Where is the limit of their donation FLEX?]"
+    },
+    {
+      "korean": "중국... 한국 측 것은 잘 기부가 되었어요. But China... The Korea side was donated well. 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.17 #DJ황치열",
+      "english": "But China... The Korea side was donated well."
+    },
+    {
+      "korean": "형이 이거를 너한테 기부하려고 산 줄 알아? Do you think I bought this to donate this to you? 듣기 View video Stray Kids : 집가기시룬🐖🐇",
+      "english": "Do you think I bought this to donate this to you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They are very generous givers to charity. 듣기 Add to Wordbook 그들은 자선단체에 아주 후한 기부자들이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They are very generous givers to charity. Add to Wordbook"
+    },
+    {
+      "korean": "valuable contributions towards the upkeep of the cathedral 듣기 Add to Wordbook 그 성당 유지를 위한 귀중한 기부들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "valuable contributions towards the upkeep of the cathedral Add to Wordbook"
+    },
+    {
+      "korean": "We need your help—please give generously. 듣기 Add to Wordbook 저희는 당신의 도움이 필요합니다. 후한 기부를 부탁드립니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We need your help—please give generously. Add to Wordbook"
+    },
+    {
+      "korean": "to make a contribution to charity 듣기 Add to Wordbook 자선단체에 기부금을 내다[기부를 하다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to make a contribution to charity Add to Wordbook"
+    },
+    {
+      "korean": "donations from private individuals 듣기 Add to Wordbook 민간인 개개인이 낸 기부 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "donations from private individuals Add to Wordbook"
+    }
+  ]
+}

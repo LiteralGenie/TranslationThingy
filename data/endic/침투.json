@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "침투",
+      "hanja": " (浸透)",
+      "example": {},
+      "meanings": [
+        "(속으로 스며들다) pass[get] through, permeate (through/into)",
+        "(사상·현상 등의) infiltration, invasion, infiltrate, invade, penetrate",
+        "(병력·간첩 등의) infiltration, infiltrate (into), penetrate"
+      ]
+    },
+    {
+      "phrase": "경제 침투",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "economic penetration"
+      ]
+    },
+    {
+      "phrase": "시장에 침투하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "penetrate a market"
+      ]
+    },
+    {
+      "phrase": "공산주의의 침투",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "infiltration of communism"
+      ]
+    },
+    {
+      "phrase": "적지에 침투하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "penetrate into enemy territory"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "penetration",
+      "frequency": 1
+    },
+    {
+      "meaning": "inroad",
+      "frequency": 0
+    },
+    {
+      "meaning": "seepage",
+      "frequency": 0
+    },
+    {
+      "meaning": "permeation",
+      "frequency": 0
+    },
+    {
+      "meaning": "infiltration",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[지민이도 처치했겠다 다시 적진 침투!] [Now that Jimin's taken care of, he goes back to infiltrating the enemy line!] View video BTS : Run BTS! 2020 - 서바이벌 Director's cut",
+      "english": "[Now that Jimin's taken care of, he goes back to infiltrating the enemy line!]"
+    },
+    {
+      "korean": "[침투력 메시급] 너네 집에 한번 놀러 가도 되냐? [Shooting it like Messi] can we go to your places? 듣기 View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM/★선공개★] EP.6 다모임 안의 중2병이 깨어났다…!ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[Shooting it like Messi] can we go to your places?"
+    },
+    {
+      "korean": "[자연스럽게 본진 침투] 여기죠? [He's in the headquarter] It's here, right? 듣기 View video 한뼘TV : [방판소년단 EP40] 새 멤버 면접 : UNB 호정 VS 워너원이 될 뻔(?)한 멤버",
+      "english": "[He's in the headquarter] It's here, right?"
+    },
+    {
+      "korean": "근데 이제 그 안까지는 습기가 침투를 못했나 봐요? But I guess the moisture didn't get to the insides? 듣기 View video B1A4 : B1A4의 To My Star EP.021-2",
+      "english": "But I guess the moisture didn't get to the insides?"
+    },
+    {
+      "korean": "침투하고 있나? Have you gotten inside? 듣기 View video V COOKIE : [Full] SPECIAL WEEK - EP.2 SF9",
+      "english": "Have you gotten inside?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The party has been penetrated by extremists. 발음듣기 그 정당에는 과격론자들이 침투해 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party has been penetrated by extremists. 발음"
+    },
+    {
+      "korean": "The headquarters had been infiltrated by enemy spies. 발음듣기 사령부에 적의 스파이들이 침투했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The headquarters had been infiltrated by enemy spies. 발음"
+    },
+    {
+      "korean": "The troops had penetrated deep into enemy lines. 발음듣기 그 군대는 적진 깊숙이 침투해 들어갔었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The troops had penetrated deep into enemy lines. 발음"
+    },
+    {
+      "korean": "Water gradually escapes by seepage through the ground. 발음듣기 물기가 땅속으로 침투하여 서서히 빠져나간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Water gradually escapes by seepage through the ground. 발음"
+    },
+    {
+      "korean": "Troops repelled an attempt to infiltrate the south of the island. 발음듣기 군대가 그 섬의 남쪽으로 침투하려는 시도를 격퇴했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Troops repelled an attempt to infiltrate the south of the island. 발음"
+    }
+  ]
+}

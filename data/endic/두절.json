@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "두절",
+      "hanja": " (杜絕)",
+      "example": {},
+      "meanings": [
+        "stoppage, cessation, interruption, suspension, 두절하다 stop, cease, be interrupted, be paralyzed, be cut off, be blocked"
+      ]
+    },
+    {
+      "phrase": "두절되다",
+      "hanja": " (杜絕되다)",
+      "example": {},
+      "meanings": [
+        "be cut off; (교통 등이) be blocked (up), be paralyzed"
+      ]
+    },
+    {
+      "phrase": "전신 두절",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "telegraphic[transmission] interruption"
+      ]
+    },
+    {
+      "phrase": "교통이 두절되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "traffic is interrupted[tied up]"
+      ]
+    },
+    {
+      "phrase": "외부와 교통이 두절되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be cut off from the outside world"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "disruption",
+      "frequency": 1
+    },
+    {
+      "meaning": "scolex",
+      "frequency": 0
+    },
+    {
+      "meaning": "두절",
+      "frequency": 0
+    },
+    {
+      "meaning": "psychological block",
+      "frequency": 0
+    },
+    {
+      "meaning": "telegraphic[transmission] interruption",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[연락두절] 답변이 없더라고요. [No contact] but there was no response. 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep63_방송 인생 최대 위기 하하 먹튀(?)논란!?",
+      "english": "[No contact] but there was no response."
+    },
+    {
+      "korean": "데뷔하고 연락 두절됐다는 얘기가 있어요. I heard you stopped keeping in touch after the debut. 듣기 View video stellar : [STELLAR] 스텔라 COMEBACK",
+      "english": "I heard you stopped keeping in touch after the debut."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The traffic was crippled for the day. 발음듣기 교통은 그날 하루 두절되었다. Friendict Level English-Korean Dictionary",
+      "english": "The traffic was crippled for the day. 발음"
+    },
+    {
+      "korean": "The train schedule has been disrupted by the heavy snowfall. 발음듣기 심한 폭설로 기차 운행이 두절되었다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The train schedule has been disrupted by the heavy snowfall. 발음"
+    },
+    {
+      "korean": "The ship lost communication in the middle of the Pacific Ocean. 발음듣기 그 배는 태평양 한가운데서 연락이 두절되었다 Neungyule",
+      "english": "The ship lost communication in the middle of the Pacific Ocean. 발음"
+    },
+    {
+      "korean": "All communications are down. 발음듣기 모든 통신은 두절되어 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "All communications are down. 발음"
+    },
+    {
+      "korean": "We lost contact with the recon party. 발음듣기 우리는 정찰대와의 교신이 두절되었다 Neungyule",
+      "english": "We lost contact with the recon party. 발음"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "삐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb beep (→빼)",
+        "Adverb whistling",
+        "Adverb with a harsh cry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bleep",
+      "frequency": 0
+    },
+    {
+      "meaning": "beep",
+      "frequency": 0
+    },
+    {
+      "meaning": "pip 6",
+      "frequency": 0
+    },
+    {
+      "meaning": "pip 7",
+      "frequency": 0
+    },
+    {
+      "meaning": "pip",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "잠시만요 침대가 왜 나와 - 삐! Wait, in bed? - Nope! 듣기 View video V COOKIE : Stray Kids X VANILLA STAGE - 스트레이 키즈 X 바닐라 스테이지",
+      "english": "Wait, in bed? - Nope!"
+    },
+    {
+      "korean": "연결이 되지 않아 삐 소리 후 소리샘 퀵보이스로 연결되오며... Your call has been forward to an automated voice message system recording... 듣기 View video Dingo Story / 딩고스토리 : 둘이 거기서 뭐해?_EP14_[라이크(Like)]",
+      "english": "Your call has been forward to an automated voice message system recording..."
+    },
+    {
+      "korean": "삐 소리 들려요 혹시? Do you hear beep sound? 듣기 View video BTS : BTS Live : VOPE 끼릿~!",
+      "english": "Do you hear beep sound?"
+    },
+    {
+      "korean": "삐! 탈락입니다 - 저는... You failed! - Well... 듣기 View video IZ*ONE : 미리 혜원 데이🐹💕🎂",
+      "english": "You failed! - Well..."
+    },
+    {
+      "korean": "[말잇못] 삐 하잖아요 진짜 와... [Speechless] It rings, right? Really. Wow... 듣기 View video AB6IX : AB6IX (에이비식스) 'BREATHE' M/V MAKING FILM",
+      "english": "[Speechless] It rings, right? Really. Wow..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Does the computer beep on power-up? 듣기 Add to Wordbook 그 컴퓨터는 작동 시작 때 삐 하는 소리가 나나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Does the computer beep on power-up? Add to Wordbook"
+    },
+    {
+      "korean": "The microwave will bleep when your meal is ready. 듣기 Add to Wordbook 요리가 다 되면 전자 렌지가 삐 소리를 낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The microwave will bleep when your meal is ready. Add to Wordbook"
+    },
+    {
+      "korean": "The microwave beeps to let you know when it has finished. 듣기 Add to Wordbook 그 전자렌지는 작동이 끝나면 삐 소리로 알려준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The microwave beeps to let you know when it has finished. Add to Wordbook"
+    },
+    {
+      "korean": "(beep) (beep) (beep) Yes, like that. 듣기 Add to Wordbook (삐) (삐) (삐) 예, 그렇게요. YBM All in All English-Korean Dictionary",
+      "english": "(beep) (beep) (beep) Yes, like that. Add to Wordbook"
+    },
+    {
+      "korean": "Please leave your message after the beep. 듣기 Add to Wordbook 삐 소리가 난 후 메시지를 남겨 주세요. Neungyule",
+      "english": "Please leave your message after the beep. Add to Wordbook"
+    }
+  ]
+}

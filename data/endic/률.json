@@ -1,0 +1,85 @@
+{
+  "phrases": [
+    {
+      "phrase": "-률",
+      "hanja": " (率)",
+      "example": {},
+      "meanings": [
+        "Affix -ryul (→-율2)"
+      ]
+    },
+    {
+      "phrase": "-률",
+      "hanja": " (律)",
+      "example": {},
+      "meanings": [
+        "Affix -ryul (→-율1)"
+      ]
+    },
+    {
+      "phrase": "방사선치유성(률)",
+      "hanja": " (放射線治癒性(率))",
+      "example": {},
+      "meanings": [
+        "의학 radiocurability"
+      ]
+    },
+    {
+      "phrase": "구출 률",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rescue rate"
+      ]
+    },
+    {
+      "phrase": "보강 률",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reinforcement rate"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dilatability",
+      "frequency": 0
+    },
+    {
+      "meaning": "coefficient of expansion",
+      "frequency": 0
+    },
+    {
+      "meaning": "dynamic viscosity",
+      "frequency": 0
+    },
+    {
+      "meaning": "coefficient of viscosity",
+      "frequency": 0
+    },
+    {
+      "meaning": "ratio of top to root",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "While it is true that 60 Minutes consistently ranks in Nielsen’s top 10, ratings for the Kevin program were unusually high. 발음듣기 60 미니츠가 닐슨 시청률 조사에서 꾸준히 10위 안에 들고 있기는 하지만 케빈 프로그램의 시청 률은 여느 때보다 현저히 높았다. YBM All in All English-Korean Dictionary",
+      "english": "While it is true that 60 Minutes consistently ranks in Nielsen’s top 10, ratings for the Kevin program were unusually high. 발음"
+    },
+    {
+      "korean": "The initiative works with health services to improve practice in supporting breastfeeding. 발음듣기 건강 단체의 권장은 모유수유를 률을 높인다. User translation Inaccurate information may be included due to the users' self-traslation. 키튼(kory****) Hansard",
+      "english": "The initiative works with health services to improve practice in supporting breastfeeding. 발음"
+    },
+    {
+      "korean": "It is an exclusive and integral law. 발음듣기 그것은 배타적이고 필수적인 법(률)이다. User translation Inaccurate information may be included due to the users' self-traslation. 랑데(oily****) Web Collection",
+      "english": "It is an exclusive and integral law. 발음"
+    },
+    {
+      "korean": "For example, in endeavouring to address long-term unemployment (Catholic and Protestant) the Report is to be commended. 발음듣기 예를들어, 이 리포트는 오랜 기간의 실업(률)을 설명하는데 도움이 될 것이다. User translation Inaccurate information may be included due to the users' self-traslation. 산타캣연구소(ipho****) Hansard",
+      "english": "For example, in endeavouring to address long-term unemployment (Catholic and Protestant) the Report is to be commended. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "학교",
+      "hanja": " (學校)",
+      "example": {},
+      "meanings": [
+        "school"
+      ]
+    },
+    {
+      "phrase": "학교 구경도 못하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have never even sightseen a school"
+      ]
+    },
+    {
+      "phrase": "학교(는) 구경도 못하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have not even come near a school"
+      ]
+    },
+    {
+      "phrase": "학교 근처에도 못[안] 가 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have not even come near a school"
+      ]
+    },
+    {
+      "phrase": "초등학교",
+      "hanja": " (初等學校)",
+      "example": {},
+      "meanings": [
+        "(Am) elementary school, (Am) grade school, (Am) primary school"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "school",
+      "frequency": 3
+    },
+    {
+      "meaning": "school 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "academy",
+      "frequency": 3
+    },
+    {
+      "meaning": "ecole",
+      "frequency": 0
+    },
+    {
+      "meaning": "comparative[descriptive, generative, historical, prescriptive, school, transformational] grammar",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"정인이 학교 반 배정 나왔어요?\" \"I.N, did your school assign you a new class?\" 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "\"I.N, did your school assign you a new class?\""
+    },
+    {
+      "korean": "'내일 저 초등학교 졸업해요' 초등학교... \"I am graduating elementary school tomorrow.\" Elementary... 듣기 View video AB6IX : 로센키🌹",
+      "english": "\"I am graduating elementary school tomorrow.\" Elementary..."
+    },
+    {
+      "korean": "'오빠 다시 학교 다니고 싶은 마음 없으세요?' \"Do you have any thoughts of going back to school?\" 듣기 View video AB6IX : 로센키🌹",
+      "english": "\"Do you have any thoughts of going back to school?\""
+    },
+    {
+      "korean": "학교에 소문 퍼지면 어떻게 될 거 같아? What do you think will happen if people in school know about that? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "What do you think will happen if people in school know about that?"
+    },
+    {
+      "korean": "형은 만약에 학교 다녔으면 한 몇 등 정도 했을 것 같아? If you went to school... What do you think of your rank? 듣기 View video NU'EST : [NU’EST] 🍫🍫🍫🍫🍫",
+      "english": "If you went to school... What do you think of your rank?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "My son is being bullied at school. 듣기 Add to Wordbook 우리 아들이 학교에서 괴롭힘을 당하고 있어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My son is being bullied at school. Add to Wordbook"
+    },
+    {
+      "korean": "You have dishonoured the name of the school. 듣기 Add to Wordbook 넌 학교 이름에 먹칠을 했어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You have dishonoured the name of the school. Add to Wordbook"
+    },
+    {
+      "korean": "He was bundled off to boarding school. 듣기 Add to Wordbook 그는 서둘러 기숙학교로 보내졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was bundled off to boarding school. Add to Wordbook"
+    },
+    {
+      "korean": "She rode the bus to school every day. 듣기 Add to Wordbook 그녀는 매일 버스를 타고 학교에 다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She rode the bus to school every day. Add to Wordbook"
+    },
+    {
+      "korean": "He went to school in York or somewhere. 듣기 Add to Wordbook 그는 요크인가 어디에서 학교를 다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He went to school in York or somewhere. Add to Wordbook"
+    }
+  ]
+}

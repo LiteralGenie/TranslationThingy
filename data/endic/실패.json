@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "실패",
+      "hanja": " (失敗)",
+      "example": {},
+      "meanings": [
+        "failure, (informal) washout, fail, be unsuccessful (in), (계획 등이) fall through, (literary) miscarry"
+      ]
+    },
+    {
+      "phrase": "실패",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "spool, reel, bobbin"
+      ]
+    },
+    {
+      "phrase": "실패로 돌아가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "turn out (to be) a failure",
+        "result in failure",
+        "prove (to be) a failure"
+      ]
+    },
+    {
+      "phrase": "실패로 끝나다[돌아가다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "end in failure",
+        "meet with failure",
+        "turn out a failure"
+      ]
+    },
+    {
+      "phrase": "재선에 실패하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fail to get reelected"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "failure",
+      "frequency": 3
+    },
+    {
+      "meaning": "collapse",
+      "frequency": 3
+    },
+    {
+      "meaning": "reverse",
+      "frequency": 3
+    },
+    {
+      "meaning": "crash",
+      "frequency": 3
+    },
+    {
+      "meaning": "breakdown",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이것도 실패예요? Did we fail, again? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "Did we fail, again?"
+    },
+    {
+      "korean": "실패! 해가지고 이제 약간... Fail! It's kind of... 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Fail! It's kind of..."
+    },
+    {
+      "korean": "[실패할 Feel이 좋았나 보다...] - 천천히 해 - 그렇지! [Nice but failed] - Take it easy. - There you go! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Nice but failed] - Take it easy. - There you go!"
+    },
+    {
+      "korean": "[팀=TEAM=훈민정음 실패] 같은 팀이야! [Team is English, which means they failed the mission] The same team! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Team is English, which means they failed the mission] The same team!"
+    },
+    {
+      "korean": "[기죽지 마] - 그래 봤자 2점 차이야! - 5점 실패! [Don't be disappointed] - It's just 2 points difference. - Failed at 5 points. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Don't be disappointed] - It's just 2 points difference. - Failed at 5 points."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a cotton reel 듣기 Add to Wordbook 실패 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cotton reel Add to Wordbook"
+    },
+    {
+      "korean": "ill success 듣기 Add to Wordbook 실패. Friendict Level English-Korean Dictionary",
+      "english": "ill success Add to Wordbook"
+    },
+    {
+      "korean": "She was fearful that she would fail. 듣기 Add to Wordbook 그녀는 실패할까 봐 걱정이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was fearful that she would fail. Add to Wordbook"
+    },
+    {
+      "korean": "Many diets fail because they are boring. 듣기 Add to Wordbook 많은 다이어트들이 지루해서 실패한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many diets fail because they are boring. Add to Wordbook"
+    },
+    {
+      "korean": "The government failed to stifle the unrest. 듣기 Add to Wordbook 정부는 그 불안을 억누르는 데 실패했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government failed to stifle the unrest. Add to Wordbook"
+    }
+  ]
+}

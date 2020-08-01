@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "소수",
+      "hanja": " (素數)",
+      "example": {},
+      "meanings": [
+        "(1과 자신의 수 외에는 나눌 수 없는 숫자) prime number"
+      ]
+    },
+    {
+      "phrase": "소수",
+      "hanja": " (少數)",
+      "example": {},
+      "meanings": [
+        "(적은 숫자) minority (of)"
+      ]
+    },
+    {
+      "phrase": "소수",
+      "hanja": " (小數)",
+      "example": {},
+      "meanings": [
+        "(0보다 크고 1보다 작은 실수) decimal (fraction)"
+      ]
+    },
+    {
+      "phrase": "소수(파)",
+      "hanja": " (小數(波))",
+      "example": {},
+      "meanings": [
+        "의학 minority"
+      ]
+    },
+    {
+      "phrase": "소수점",
+      "hanja": " (小數點)",
+      "example": {},
+      "meanings": [
+        "(decimal) point"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "minority",
+      "frequency": 2
+    },
+    {
+      "meaning": "few",
+      "frequency": 2
+    },
+    {
+      "meaning": "scatter",
+      "frequency": 2
+    },
+    {
+      "meaning": "decimal",
+      "frequency": 1
+    },
+    {
+      "meaning": "prime 1",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "혹시 소수도 포함이 되나요? Can we right decimal points? 듣기 View video JBJ95 : ♥JBJ95 DEBUT 95DAYS♥",
+      "english": "Can we right decimal points?"
+    },
+    {
+      "korean": "왜 소수점으로 계산을 하지? Why does it calculate in decimals? 듣기 View video INFINITE : 남피스토 먹방",
+      "english": "Why does it calculate in decimals?"
+    },
+    {
+      "korean": "언니가 소수점이 훨씬 높아 - 그런가요? But her tenth is much higher. - Is that so? 듣기 View video ITZY : ITZY 1ST V LIVE",
+      "english": "But her tenth is much higher. - Is that so?"
+    },
+    {
+      "korean": "[소수점까지 점수 매기는 디테일한 용복이] 8.5요? [He's so detailed, thinking of the decimal point] 8.5? 듣기 View video Stray Kids : [FULL] <찾았다 스트레이키즈> 2화",
+      "english": "[He's so detailed, thinking of the decimal point] 8.5?"
+    },
+    {
+      "korean": "이건 인증을 좀 해야 될 거 같아요. - 소수점까지 해서. - 소수점까지 해서요. I think we'll have to prove this. - Down to the decimal. - Down to the decimal. 듣기 View video IMFACT : [Full] IMFACT x mini CONCERT Ep 24.+1",
+      "english": "I think we'll have to prove this. - Down to the decimal. - Down to the decimal."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a decimal fraction 발음듣기 소수. Friendict Level English-Korean Dictionary",
+      "english": "a decimal fraction 발음"
+    },
+    {
+      "korean": "The regime is accused of oppressing religious minorities. 발음듣기 그 정권은 종교적 소수 집단을 탄압한다는 비난을 받고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The regime is accused of oppressing religious minorities. 발음"
+    },
+    {
+      "korean": "The recurring decimal 3.999… is also described as 3.9 recurring. 발음듣기 순환 소수 3.999…는 3. 순환마디 9로 나타내기도 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The recurring decimal 3.999… is also described as 3.9 recurring. 발음"
+    },
+    {
+      "korean": "Very few people know that. 발음듣기 아주 소수의 사람들만이 그것을 안다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Very few people know that. 발음"
+    },
+    {
+      "korean": "the forceful suppression of minorities 발음듣기 소수 민족들에 대한 강압적인 억압 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the forceful suppression of minorities 발음"
+    }
+  ]
+}

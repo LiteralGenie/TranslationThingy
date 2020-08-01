@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "진동",
+      "hanja": " (振動)",
+      "example": {},
+      "meanings": [
+        "(흔들림) vibration, vibrate",
+        "(냄새가)"
+      ]
+    },
+    {
+      "phrase": "진동",
+      "hanja": " (震動)",
+      "example": {},
+      "meanings": [
+        "(땅의 흔들림) shock, tremor, quake, shake, quake, tremble, rock"
+      ]
+    },
+    {
+      "phrase": "진동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun armhole"
+      ]
+    },
+    {
+      "phrase": "진동시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shake",
+        "vibrate"
+      ]
+    },
+    {
+      "phrase": "공기의 진동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "air vibrations"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "oscillation",
+      "frequency": 1
+    },
+    {
+      "meaning": "pulse",
+      "frequency": 1
+    },
+    {
+      "meaning": "throb",
+      "frequency": 1
+    },
+    {
+      "meaning": "sway",
+      "frequency": 1
+    },
+    {
+      "meaning": "vibration",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "진동 소리 아니야 진동 소리? Isn't it buzzing noise? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #69 정한이의 따뜻한 우유 한 잔",
+      "english": "Isn't it buzzing noise?"
+    },
+    {
+      "korean": "그래? 어떻게 진동을 할 수가 있지? Really? How could you do it with vibration? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Really? How could you do it with vibration?"
+    },
+    {
+      "korean": "[진동 퍼프로 들뜸 없이 완벽 케어가 가능해요! 메마를 틈 없이 촉촉함까지!] [Perfect makeup with a vibrating puff] [Hydrated all day!] View video HANABONO : 썬크림 영상 이제 종결! 썬크림 기본상식, 피부타입별, 제형별 썬크림추천 Everything You Need to Know About Sunscreen",
+      "english": "[Perfect makeup with a vibrating puff] [Hydrated all day!]"
+    },
+    {
+      "korean": "저랑 수진 언니 방은 그냥 진동 - 한번 옛날에 뭐였더라? For Soojin and my room, it was just on vibrate. - One time a long time ago, what was it? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "For Soojin and my room, it was just on vibrate. - One time a long time ago, what was it?"
+    },
+    {
+      "korean": "진동, 진동! - 진동이에요? Vibration! - Is it the vibration? 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP10 #십첸치 #프로냄새킁킁러 #두성쓰기있어?",
+      "english": "Vibration! - Is it the vibration?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the economy’s continual oscillation between growth and recession 발음듣기 성장과 침체 사이를 계속해서 오가는 경제적 진동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the economy’s continual oscillation between growth and recession 발음"
+    },
+    {
+      "korean": "The vibration of the engine lulled the children to sleep. 발음듣기 엔진의 진동이 아이들에게 안도감을 주어 잠이 들게 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The vibration of the engine lulled the children to sleep. 발음"
+    },
+    {
+      "korean": "We could feel the vibrations from the trucks passing outside. 발음듣기 우리는 밖에서 지나가는 트럭 때문에 생기는 흔들림[진동]을 느낄 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We could feel the vibrations from the trucks passing outside. 발음"
+    },
+    {
+      "korean": "the throbbing pulse of the drums 발음듣기 강한 리듬으로 진동하는 북소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the throbbing pulse of the drums 발음"
+    },
+    {
+      "korean": "It stinks of smoke in here. 발음듣기 여기는 담배 연기 냄새가 진동을 하는군. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It stinks of smoke in here. 발음"
+    }
+  ]
+}

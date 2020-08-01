@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "하자",
+      "hanja": " (瑕疵)",
+      "example": {},
+      "meanings": [
+        "flaw, defect, fault"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(행동·행위 등을) do, have, (연극·운동경기 등을) play",
+        "(만들다, 장만하다)",
+        "(동작·표정 등을)"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb hada",
+        "Assistant adverb hada",
+        "Assistant adverb hada"
+      ]
+    },
+    {
+      "phrase": "하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adjective hada",
+        "Assistant adjective hada"
+      ]
+    },
+    {
+      "phrase": "-하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix -hada",
+        "Affix -hada",
+        "Affix -hada"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "let",
+      "frequency": 3
+    },
+    {
+      "meaning": "Alejandro Fernandez, Haza",
+      "frequency": 0
+    },
+    {
+      "meaning": "flaws and defect",
+      "frequency": 0
+    },
+    {
+      "meaning": "no hard feelings",
+      "frequency": 0
+    },
+    {
+      "meaning": "Let's take a break.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'하자'.",
+      "english": "\"Let's do it\"."
+    },
+    {
+      "korean": "내일도 함께하자로 해야 돼!",
+      "english": "Translate it into Korean."
+    },
+    {
+      "korean": "[불꽃 자존심] 우리 깨끗하게 하자, 깨끗하게!",
+      "english": "[Proud man] Let's play a fair game."
+    },
+    {
+      "korean": "[다음번에는 슈 게임 하자] 슈 게임이요? 슈 게임은 뭐예요?",
+      "english": "[Let's play Sue games] Sue games? What are Sue games?"
+    },
+    {
+      "korean": "[바로 다음 문제 도전] - 그냥 다음 거 하자 - 다음 뭘로 할까요? - 그럴까요?",
+      "english": "[Move on] - Let's do the next one. - What should we pick?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그녀가 재혼을 하자 가족들은 그녀를 피했다.",
+      "english": "She was shunned by her family when she remarried."
+    },
+    {
+      "korean": "그녀는 자기 친오빠를 배신할 생각을 하자 몸이 움츠러들었다.",
+      "english": "She recoiled from the idea of betraying her own brother."
+    },
+    {
+      "korean": "a와 b의 합이 x라고 하자.",
+      "english": "Let x be the sum of a and b."
+    },
+    {
+      "korean": "카드 한 판 하자.",
+      "english": "Let’s have a game of cards."
+    },
+    {
+      "korean": "우리 농구공 던져 넣기 좀 하자.",
+      "english": "Let’s shoot some hoops."
+    }
+  ]
+}

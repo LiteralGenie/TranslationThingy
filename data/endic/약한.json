@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "약한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 mitis"
+      ]
+    },
+    {
+      "phrase": "약하다",
+      "hanja": " (弱―)",
+      "example": {},
+      "meanings": [
+        "(힘·세력 등이) weak, feeble, light, (바람 등이) gentle",
+        "(몸이) weak, frail, feeble, (질병·고령 등으로) infirm",
+        "(각오·의지·마음 등이) weak, feeble, weak-minded, weak-willed"
+      ]
+    },
+    {
+      "phrase": "약한 술",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weak[mild] wine"
+      ]
+    },
+    {
+      "phrase": "약한 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a weak person",
+        "the weak"
+      ]
+    },
+    {
+      "phrase": "마음이 약한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fainthearted",
+        "softhearted",
+        "chicken-hearted"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "weak",
+      "frequency": 3
+    },
+    {
+      "meaning": "soft",
+      "frequency": 3
+    },
+    {
+      "meaning": "low 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "pale",
+      "frequency": 3
+    },
+    {
+      "meaning": "faint",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[영어에 약한 미스터 리] 댄스가 저절로 나오죠? [Mr. Lee, not good at English] You can't help but dance, right? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "[Mr. Lee, not good at English] You can't help but dance, right?"
+    },
+    {
+      "korean": "궁예 말고 좀 더 약한 거 없나? Anything lighter than Gungye? 듣기 View video NCT : 시즈니기요미^^",
+      "english": "Anything lighter than Gungye?"
+    },
+    {
+      "korean": "'술 제일 약한 사람 누구예요?' \"Who is the weakest towards alcohol?\" 듣기 View video NCT : 안녕 싱가폴💚",
+      "english": "\"Who is the weakest towards alcohol?\""
+    },
+    {
+      "korean": "아니야 - 약한 것 같아 - 약했어? No. - Not good enough. - Not good enough? 듣기 View video W PROJECT : [W PROJECT] 1분1초(돌아와줘) V LIVE",
+      "english": "No. - Not good enough. - Not good enough?"
+    },
+    {
+      "korean": "맞아요 그리고 조금 있으면 이제 약 한시간 좀 남았죠? Right. And in a little bit... About an hour left? 듣기 View video VICTON : 앨리스와 승식나잇💙💛",
+      "english": "Right. And in a little bit... About an hour left?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the delicacy of the fabric 듣기 Add to Wordbook 그 천의 약한 특성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the delicacy of the fabric Add to Wordbook"
+    },
+    {
+      "korean": "the frail stems of the flowers 듣기 Add to Wordbook 그 꽃의 약한 꽃대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the frail stems of the flowers Add to Wordbook"
+    },
+    {
+      "korean": "A weaker man would have buckled under the pressure. 듣기 Add to Wordbook 더 약한 사람 같았으면 그 중압감을 못 이기고 허물어졌을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A weaker man would have buckled under the pressure. Add to Wordbook"
+    },
+    {
+      "korean": "the runt of the litter 듣기 Add to Wordbook 한 배에서 난 새끼들 중 가장 약한 놈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the runt of the litter Add to Wordbook"
+    },
+    {
+      "korean": "Coffee and tea are mild stimulants. 듣기 Add to Wordbook 커피와 홍차는 약한 흥분제이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Coffee and tea are mild stimulants. Add to Wordbook"
+    }
+  ]
+}

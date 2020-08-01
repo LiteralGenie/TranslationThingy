@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "주의",
+      "hanja": " (注意)",
+      "example": {},
+      "meanings": [
+        "(조심) care, caution, beware (of), be careful, be cautious (about)",
+        "(관심) attention, caution, give attention to, (formal) pay heed to, (formal) take head to",
+        "(경고) warning, (formal) admonition"
+      ]
+    },
+    {
+      "phrase": "주의",
+      "hanja": " (主義)",
+      "example": {},
+      "meanings": [
+        "principle, (신념) belief"
+      ]
+    },
+    {
+      "phrase": "주의보",
+      "hanja": " (注意報)",
+      "example": {},
+      "meanings": [
+        "watch"
+      ]
+    },
+    {
+      "phrase": "관료주의",
+      "hanja": " (官僚主義)",
+      "example": {},
+      "meanings": [
+        "bureaucracy"
+      ]
+    },
+    {
+      "phrase": "제국주의",
+      "hanja": " (帝國主義)",
+      "example": {},
+      "meanings": [
+        "imperialism"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "caution",
+      "frequency": 3
+    },
+    {
+      "meaning": "principle",
+      "frequency": 3
+    },
+    {
+      "meaning": "attention",
+      "frequency": 3
+    },
+    {
+      "meaning": "care",
+      "frequency": 3
+    },
+    {
+      "meaning": "state",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "자 주의, 쏘기 전에 주의... Caution, before you turn it on... 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "Caution, before you turn it on..."
+    },
+    {
+      "korean": "자, 느낌표 주의! Exclamation mark, caution! 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "Exclamation mark, caution!"
+    },
+    {
+      "korean": "그러면 - 저는 평화주의자입니다! Then... - I'm a pacifist! 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Then... - I'm a pacifist!"
+    },
+    {
+      "korean": "[스포주의] 당신은 오늘 게임의... [Spoiler alert] You are today's... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "[Spoiler alert] You are today's..."
+    },
+    {
+      "korean": "[주의 : 의사 처방받아야 되는 연고입니다] 오늘 영상 속에서 보여드린 스티바A라는 연고 있잖아요? You know the Steva A ointment that I showed you in the video, right? 듣기 View video HANABONO : 생리 때 여드름관리 어떻게 해요? 하루만에 가라앉히는 비법 Solutions for menstrual trouble!",
+      "english": "You know the Steva A ointment that I showed you in the video, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": ":어린이들 손이 닿지 않는 곳에 두십시오 CAUTION:keep out of reach of children. 듣기 Add to Wordbook 주의 Dong-a's Prime English-Korean Dictionary",
+      "english": ":어린이들 손이 닿지 않는 곳에 두십시오 CAUTION:keep out of reach of children. Add to Wordbook"
+    },
+    {
+      "korean": "WARNING! 듣기 Add to Wordbook 주의! TIMES CORE",
+      "english": "WARNING! Add to Wordbook"
+    },
+    {
+      "korean": "Racism has been a scar on the game. 듣기 Add to Wordbook 인종차별주의가 그 경기의 이미지를 손상시켜 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Racism has been a scar on the game. Add to Wordbook"
+    },
+    {
+      "korean": "The prime minister was assassinated by extremists. 듣기 Add to Wordbook 그 수상은 극단주의자들에 의해 암살당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The prime minister was assassinated by extremists. Add to Wordbook"
+    },
+    {
+      "korean": "Racism is abhorrent to a civilized society. 듣기 Add to Wordbook 인종차별주의는 문명사회의 혐오감을 자아낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Racism is abhorrent to a civilized society. Add to Wordbook"
+    }
+  ]
+}

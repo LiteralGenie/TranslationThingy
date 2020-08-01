@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "굉장하다",
+      "hanja": " (宏壯―)",
+      "example": {},
+      "meanings": [
+        "wonderful, great, marvelous, excellent, amazing, tremendous, magnificent, (informal) awesome"
+      ]
+    },
+    {
+      "phrase": "굉장한 미인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a stunning[striking] beauty",
+        "a knockout",
+        "a stunner"
+      ]
+    },
+    {
+      "phrase": "굉장한 부자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an awfully rich man"
+      ]
+    },
+    {
+      "phrase": "굉장한 직함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a high-sounding title"
+      ]
+    },
+    {
+      "phrase": "굉장한 저택",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a palatial residence"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "great",
+      "frequency": 3
+    },
+    {
+      "meaning": "uncommon",
+      "frequency": 3
+    },
+    {
+      "meaning": "tremendous",
+      "frequency": 3
+    },
+    {
+      "meaning": "fantastic",
+      "frequency": 3
+    },
+    {
+      "meaning": "heroic",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "심사위원 분들이 또 굉장한 셀럽이시잖아요?",
+      "english": "The judges are big celebrities, right?"
+    },
+    {
+      "korean": "여러 가지 굉장한...",
+      "english": "There are many..."
+    },
+    {
+      "korean": "굉장한... - 뭐부터 먹지?",
+      "english": "It's really... - What do I eat first?"
+    },
+    {
+      "korean": "공연 끝나면 굉장한 배고픔이...",
+      "english": "After a concert, we feel starved."
+    },
+    {
+      "korean": "이거 굉장한 영상이 나올 것...",
+      "english": "I think an incredible video will result..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 카니발 행렬은 굉장한 구경거리였다.",
+      "english": "The carnival parade was a magnificent spectacle."
+    },
+    {
+      "korean": "굉장한 재능을 지닌 아동",
+      "english": "an uncommonly gifted child"
+    },
+    {
+      "korean": "그건 정말 굉장한 경기였어!",
+      "english": "That was one hell of a game!"
+    },
+    {
+      "korean": "그녀가 한창때는 굉장한 무용수였다.",
+      "english": "She was a great dancer in her day."
+    },
+    {
+      "korean": "그가 100미터 달리기에서 세운 굉장한 기록",
+      "english": "his devastating performance in the 100 metres"
+    }
+  ]
+}

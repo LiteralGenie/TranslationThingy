@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "범용",
+      "hanja": " (犯用)",
+      "example": {},
+      "meanings": [
+        "peculation, misappropriation, embezzlement, 범용하다 peculate, misappropriate, embezzle, use illegally"
+      ]
+    },
+    {
+      "phrase": "범용",
+      "hanja": " (汎用)",
+      "example": {},
+      "meanings": [
+        "a wide use"
+      ]
+    },
+    {
+      "phrase": "범용",
+      "hanja": " (凡庸)",
+      "example": {},
+      "meanings": [
+        "mediocrity, commonplace, banality, 범용하다 (be) mediocre, common(place), ordinary, banal, platitudinous"
+      ]
+    },
+    {
+      "phrase": "범용의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "general-purpose",
+        "all-purpose"
+      ]
+    },
+    {
+      "phrase": "범용 컴퓨터",
+      "hanja": " (汎用―)",
+      "example": {},
+      "meanings": [
+        "a general-purpose computer"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "extensive use",
+      "frequency": 0
+    },
+    {
+      "meaning": "SGML",
+      "frequency": 0
+    },
+    {
+      "meaning": "universal board",
+      "frequency": 0
+    },
+    {
+      "meaning": "general-purpose interface bus",
+      "frequency": 0
+    },
+    {
+      "meaning": "GPSS",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Some of the money stuck to his fingers. 듣기 Add to Wordbook 그는 그 돈의 일부를 범용했다 Dong-a's Prime English-Korean Dictionary",
+      "english": "Some of the money stuck to his fingers. Add to Wordbook"
+    },
+    {
+      "korean": "The Hummer is a popular sports utility vehicle (SUV). 듣기 Add to Wordbook Hummer는 인기 있는 스포츠 범용차(SUV)이다. Neungyule",
+      "english": "The Hummer is a popular sports utility vehicle (SUV). Add to Wordbook"
+    },
+    {
+      "korean": "You're looking for a universal remote control? 듣기 Add to Wordbook 범용 리모콘을 찾고 계신 건가요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 indians243(indi****)",
+      "english": "You're looking for a universal remote control? Add to Wordbook"
+    },
+    {
+      "korean": "These are subject to GPC validation. 듣기 Add to Wordbook 이것들은 범용 전산기 확인의 대상이다 User translation Inaccurate information may be included due to the users' self-traslation. 닫기 hanew_99(hane****) Hansard",
+      "english": "These are subject to GPC validation. Add to Wordbook"
+    },
+    {
+      "korean": "On the other hand, the PC market is focused on price and commoditization. 듣기 Add to Wordbook 한편, PC제작사는 가격과 범용화에 집중한다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 blizen(wow0****)",
+      "english": "On the other hand, the PC market is focused on price and commoditization. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "발견",
+      "hanja": " (發見)",
+      "example": {},
+      "meanings": [
+        "[명사] discovery, detection, [동사] discover, find (out), detect, spot, (formal) sight, (우연히) stumble on[across, upon], chance (up)on, light (up)on, come across"
+      ]
+    },
+    {
+      "phrase": "우연히 발견하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "light upon",
+        "stumble on"
+      ]
+    },
+    {
+      "phrase": "획기적 발견",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an epoch-making discovery"
+      ]
+    },
+    {
+      "phrase": "소재를 발견하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "discover whereabouts",
+        "locate"
+      ]
+    },
+    {
+      "phrase": "획기적 사건[발견]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an epoch-making event[discovery]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "strike",
+      "frequency": 3
+    },
+    {
+      "meaning": "discovery",
+      "frequency": 3
+    },
+    {
+      "meaning": "identification",
+      "frequency": 3
+    },
+    {
+      "meaning": "detection",
+      "frequency": 0
+    },
+    {
+      "meaning": "espial",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[발견?!] [He discovered it?] View video 모비딕(Mobidic) : 인천 동화마을에서 미션 하다가 무릎까지 꿇은 유재환 <우리 아빠가 생겼어요3> 5회",
+      "english": "[He discovered it?]"
+    },
+    {
+      "korean": "[뷔가 함께 찍힌 걸 발견한 정국] 뭐야! [Jung Kook found V was also in the photo] What are you doing! 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "[Jung Kook found V was also in the photo] What are you doing!"
+    },
+    {
+      "korean": "[뜻밖의 재능 발견] - 뭐야! 나 잘하는데? - 잘하는데? [Unexpected talent] - What? I'm good. - He's good. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Unexpected talent] - What? I'm good. - He's good."
+    },
+    {
+      "korean": "[뭔가 발견] [배경화면 륮땡 셀카로 바뀜] 진짜 이거 너무... [Found something] [New wallpaper] This is really... 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP49. 서가대에 있지!",
+      "english": "[Found something] [New wallpaper] This is really..."
+    },
+    {
+      "korean": "[무서웡] [뭔가 발견?] [Scary] [Sees something?] View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Scary] [Sees something?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They struck a rich seam of iron ore. 듣기 Add to Wordbook 그들은 풍부한 철광층을 발견했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They struck a rich seam of iron ore. Add to Wordbook"
+    },
+    {
+      "korean": "They found her lying in the tub. 듣기 Add to Wordbook 그들은 욕조 안에 누워 있는 그녀를 발견했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They found her lying in the tub. Add to Wordbook"
+    },
+    {
+      "korean": "We found him huddled on the floor. 듣기 Add to Wordbook 우리는 바닥에 옹송그리고 있는 그를 발견했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We found him huddled on the floor. Add to Wordbook"
+    },
+    {
+      "korean": "a drowned body found washed ashore on the beach 듣기 Add to Wordbook 해안으로 밀려와 해변에서 발견된 익사체 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a drowned body found washed ashore on the beach Add to Wordbook"
+    },
+    {
+      "korean": "mineral concentrates found at the bottom of rivers 듣기 Add to Wordbook 강바닥에서 발견되는 농축 광물질들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "mineral concentrates found at the bottom of rivers Add to Wordbook"
+    }
+  ]
+}

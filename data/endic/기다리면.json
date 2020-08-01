@@ -1,0 +1,78 @@
+{
+  "phrases": [
+    {
+      "phrase": "기다리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wait, hold on, (informal) hang on; (예정된 일·사람 등을) expect, (formal) await; (고대하다) look forward to"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "There's luck in leisure.",
+      "frequency": 0
+    },
+    {
+      "meaning": "wait",
+      "frequency": 2
+    },
+    {
+      "meaning": "await",
+      "frequency": 1
+    },
+    {
+      "meaning": "hold on",
+      "frequency": 0
+    },
+    {
+      "meaning": "pending",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "결제하고 기다리면 - 그럼 수저... Let's pay and wait. - Spoons... 듣기 View video BTS : Run BTS! 2020 - EP.101",
+      "english": "Let's pay and wait. - Spoons..."
+    },
+    {
+      "korean": "이게 아주 한 3분 정도만 더 기다리면... If we wait for about 3 more minutes... 듣기 View video BTS : 잇진🍳",
+      "english": "If we wait for about 3 more minutes..."
+    },
+    {
+      "korean": "저희가 40분까지 기다리면 6천만 가능하죠 여러분? if we wait until 40 minutes, you can get us 60 million, right? 듣기 View video TOMORROW X TOGETHER : 다들 컨포 보셨나요☺🤔",
+      "english": "if we wait until 40 minutes, you can get us 60 million, right?"
+    },
+    {
+      "korean": "이거 조금만 더 기다리면 400만 분까지도 가능하겠는데? If we wait just a bit longer, I bet we can reach 4 million soon. 듣기 View video BTS : 잇진🍳",
+      "english": "If we wait just a bit longer, I bet we can reach 4 million soon."
+    },
+    {
+      "korean": "원래 이거 조금만 더 기다리면 된대요 - 이거 안 씻었죠? They said that we need to wait a little bit more. - You didn't wash these, right? 듣기 View video AB6IX : AB6IX 화이트데이",
+      "english": "They said that we need to wait a little bit more. - You didn't wash these, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What happens if we wait? 발음듣기 우리가 기다리면 어떻게 되나요? YBM All in All English-Korean Dictionary",
+      "english": "What happens if we wait? 발음"
+    },
+    {
+      "korean": "How long is the wait for a table for two? 발음듣기 얼마나 기다리면 두 사람 테이블이 날까요? YBM All in All English-Korean Dictionary",
+      "english": "How long is the wait for a table for two? 발음"
+    },
+    {
+      "korean": "We can just wait for the next bus. 발음듣기 다음 버스를 기다리면 되잖아. Neungyule",
+      "english": "We can just wait for the next bus. 발음"
+    },
+    {
+      "korean": "Now that the plan has been put into action, all he has to do is wait for results. 발음듣기 그 계획이 이제 시행되고 있으므로 그는 결과만 기다리면 된다. YBM All in All English-Korean Dictionary",
+      "english": "Now that the plan has been put into action, all he has to do is wait for results. 발음"
+    },
+    {
+      "korean": "The longer we waited, the more impatient we become. 발음듣기 오래 기다리면 기다릴수록 우리는 더 참을성이 없어졌다. YBM All in All English-Korean Dictionary",
+      "english": "The longer we waited, the more impatient we become. 발음"
+    }
+  ]
+}

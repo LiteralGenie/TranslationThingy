@@ -1,0 +1,67 @@
+{
+  "phrases": [
+    {
+      "phrase": "고기동",
+      "hanja": " (古基洞)",
+      "example": {},
+      "meanings": [
+        "지명 Gogi-dong"
+      ]
+    },
+    {
+      "phrase": "재보급용 고기동수송차량",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 cargo carrier"
+      ]
+    },
+    {
+      "phrase": "전술 고기동단말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "항공우주 THMT (Tactical High Mobility Terminal)"
+      ]
+    },
+    {
+      "phrase": "고기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(육류 ) meat",
+        "(생선) fish"
+      ]
+    },
+    {
+      "phrase": "고기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun there (→조기5, 요기1)",
+        "Pronoun there",
+        "Pronoun it (→요기1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "High Mobility",
+      "frequency": 0
+    },
+    {
+      "meaning": "High Agile Maneuver",
+      "frequency": 0
+    },
+    {
+      "meaning": "cargo carrier",
+      "frequency": 0
+    },
+    {
+      "meaning": "Gogi-dong, Suji-gu, Yongin-si, Gyeonggi-do, Korea",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "화력",
+      "hanja": " (火力)",
+      "example": {},
+      "meanings": [
+        "(불의 힘)",
+        "(무기의 위력) firepower"
+      ]
+    },
+    {
+      "phrase": "화력발전",
+      "hanja": " (火力發電)",
+      "example": {},
+      "meanings": [
+        "thermal[steam] power generation"
+      ]
+    },
+    {
+      "phrase": "화력 발전소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a thermoelectric power plant[station]",
+        "a steam power plant[station]"
+      ]
+    },
+    {
+      "phrase": "화력이 우세하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "surpass (the enemy) in firepower",
+        "outgun (the enemy)"
+      ]
+    },
+    {
+      "phrase": "화력이 세다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have strong caloric force"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "firepower",
+      "frequency": 0
+    },
+    {
+      "meaning": "gunpower",
+      "frequency": 0
+    },
+    {
+      "meaning": "fire power",
+      "frequency": 0
+    },
+    {
+      "meaning": "thermal power (plant)",
+      "frequency": 0
+    },
+    {
+      "meaning": "thermal power",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "화력 나오는 데에 이렇게 살짝 댔다가 빼야 되나? Should I put it over the flame and take it out? 듣기 View video NU'EST : [NU’EST] 쩨-하🤗",
+      "english": "Should I put it over the flame and take it out?"
+    },
+    {
+      "korean": "화력 된 것 같아, 오케이 됐어! Heat level... I guess it's done. Okay, done! 듣기 View video NU'EST : [NU'EST] 아론 램지의 수제버거 만들기(Aron Ramsay's Handmade Burger)",
+      "english": "Heat level... I guess it's done. Okay, done!"
+    },
+    {
+      "korean": "우리 우정의 화력은... Ujung's strength is... 듣기 View video 우주소녀(WJSN) : [연정] 뎡탄절 브이앱이 왔어요💕",
+      "english": "Ujung's strength is..."
+    },
+    {
+      "korean": "또 화력하면 또 우리 러브들이지. If it's firepower, then it's L.O.V.E. 듣기 View video NU'EST : [NU'EST W] 망고 보고 힘내라구!!!🍋💪🏻",
+      "english": "If it's firepower, then it's L.O.V.E."
+    },
+    {
+      "korean": "화력이 세네. The heat is strong. 듣기 View video MONSTA X : 켠셰프의 쿸쿸 #3 [9월계획 몬베베미션]",
+      "english": "The heat is strong."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a coal-fired power station 듣기 Add to Wordbook 석탄을 때는 화력 발전소 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a coal-fired power station Add to Wordbook"
+    },
+    {
+      "korean": "The company signed a contract to supply ZLD to a thermal power plant. 듣기 Add to Wordbook 그 회사는 탈황 폐수 무방류 시스템을 화력발전소에 공급하는 계약을 체결했다. 국제영어대학원대학교 신어사전",
+      "english": "The company signed a contract to supply ZLD to a thermal power plant. Add to Wordbook"
+    },
+    {
+      "korean": "The unit has excellent firepower and mobility. 듣기 Add to Wordbook 그 부대는 화력과 기동력이 뛰어나다 Neungyule",
+      "english": "The unit has excellent firepower and mobility. Add to Wordbook"
+    },
+    {
+      "korean": "This gas stove has a high output power. 듣기 Add to Wordbook 이 가스레인지는 화력이 좋다 Neungyule",
+      "english": "This gas stove has a high output power. Add to Wordbook"
+    },
+    {
+      "korean": "No weapon can match this one in fire power. 듣기 Add to Wordbook 화력에서 그것과 견줄 만한 무기는 없다 Dong-a's Prime English-Korean Dictionary",
+      "english": "No weapon can match this one in fire power. Add to Wordbook"
+    }
+  ]
+}

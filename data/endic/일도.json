@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "일도",
+      "hanja": " (一度)",
+      "example": {},
+      "meanings": [
+        "a [one] degree."
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(인간의 신체적·정신적 활동) work, (힘든 일) labor, (임무) duty, task, (직업) job, employment",
+        "(용무) business",
+        "(문제) matter, affair, concern"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (日)",
+      "example": {},
+      "meanings": [
+        "(날) day"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (一·壹)",
+      "example": {},
+      "meanings": [
+        "(숫자) one"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (一/壹)",
+      "example": {},
+      "meanings": [
+        "Number one (→하나2)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "affair",
+      "frequency": 3
+    },
+    {
+      "meaning": "chore",
+      "frequency": 3
+    },
+    {
+      "meaning": "matter",
+      "frequency": 3
+    },
+    {
+      "meaning": "something",
+      "frequency": 3
+    },
+    {
+      "meaning": "job",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "일로 와! 일로 와! Come here! Come here. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Come here! Come here."
+    },
+    {
+      "korean": "일로 와! Come over here! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Come over here!"
+    },
+    {
+      "korean": "무슨 일이야? What's going on? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "What's going on?"
+    },
+    {
+      "korean": "멍뭉이 일로 와! Puppy, come here. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Puppy, come here."
+    },
+    {
+      "korean": "베리 일로 와! Berry, come over here. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Berry, come over here."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There is no rush and no haste. 듣기 Add to Wordbook 급할 일도 서두를 일도 없다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 토마토(yphw****) Hansard",
+      "english": "There is no rush and no haste. Add to Wordbook"
+    },
+    {
+      "korean": "It is no wonder the leader of the Labour party fled with his son to another borough. 듣기 Add to Wordbook 노동당의 대표가 그의 아들과 다른 자치구로 달아난것은 놀랄일도 아니에요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 로즈메리(lya0****) Hansard",
+      "english": "It is no wonder the leader of the Labour party fled with his son to another borough. Add to Wordbook"
+    },
+    {
+      "korean": "Where there is a will there is a way. 듣기 Add to Wordbook 정신 일도 하사 불성 User translation Inaccurate information may be included due to the users' self-traslation. 닫기 bhs4030(bhs4****)",
+      "english": "Where there is a will there is a way. Add to Wordbook"
+    },
+    {
+      "korean": "This is the third time it's happening. 듣기 Add to Wordbook 이 일도 벌써 세 번째야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 sherlator(sher****)",
+      "english": "This is the third time it's happening. Add to Wordbook"
+    },
+    {
+      "korean": "Don't let nothing happen to her. 듣기 Add to Wordbook 그녀에게 어떤 일도 생기게 하지마. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 sjanov19(sjan****)",
+      "english": "Don't let nothing happen to her. Add to Wordbook"
+    }
+  ]
+}

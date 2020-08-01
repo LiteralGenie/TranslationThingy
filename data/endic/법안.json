@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "법안",
+      "hanja": " (法案)",
+      "example": {},
+      "meanings": [
+        "bill"
+      ]
+    },
+    {
+      "phrase": "법안을 가결하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pass a bill",
+        "railroad a bill"
+      ]
+    },
+    {
+      "phrase": "법안을 상정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lay[bring in] a bill"
+      ]
+    },
+    {
+      "phrase": "법안을 통과시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pass a bill"
+      ]
+    },
+    {
+      "phrase": "미성년 금주법안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a prohibition bill for minors",
+        "a bill to prohibit the sale of intoxicating liquors to persons under age"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bill",
+      "frequency": 2
+    },
+    {
+      "meaning": "bill 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "legislative bill",
+      "frequency": 0
+    },
+    {
+      "meaning": "a proposed law",
+      "frequency": 0
+    },
+    {
+      "meaning": "legislative measures",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The central plank of the bill was rural development. 발음듣기 그 법안의 골자는 지방 개발이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The central plank of the bill was rural development. 발음"
+    },
+    {
+      "korean": "the senator’s sponsorship of the job training legislation 발음듣기 그 상원의원의 취업 교육 법안 발의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the senator’s sponsorship of the job training legislation 발음"
+    },
+    {
+      "korean": "to guillotine a bill 발음듣기 법안의 심의 기간을 제한하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to guillotine a bill 발음"
+    },
+    {
+      "korean": "They got the bill through Congress. 발음듣기 그들은 그 법안을 의회에서 통과시켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They got the bill through Congress. 발음"
+    },
+    {
+      "korean": "to rush a bill through Parliament 발음듣기 법안을 의회에서 서둘러 처리하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to rush a bill through Parliament 발음"
+    }
+  ]
+}

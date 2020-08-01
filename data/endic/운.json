@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "운",
+      "hanja": " (運)",
+      "example": {},
+      "meanings": [
+        "(운수) (good/bad) luck, (행운) fortune, (운명) fate, destiny, (우연) chance"
+      ]
+    },
+    {
+      "phrase": "운",
+      "hanja": " (韻)",
+      "example": {},
+      "meanings": [
+        "(운율) rhyme",
+        "(기타)"
+      ]
+    },
+    {
+      "phrase": "UN ( U.N. )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Abbreviation 유엔(United Nations)"
+      ]
+    },
+    {
+      "phrase": "un",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun (=ONE ((종종 다른 말과 결합하여 씀)))"
+      ]
+    },
+    {
+      "phrase": "un-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Prefix <‘부정’, ‘반대’의 뜻을 나타냄>"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fortune",
+      "frequency": 3
+    },
+    {
+      "meaning": "chance",
+      "frequency": 3
+    },
+    {
+      "meaning": "lot",
+      "frequency": 3
+    },
+    {
+      "meaning": "luck",
+      "frequency": 3
+    },
+    {
+      "meaning": "rhyme",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 카메라 앞에서 몇 번 운 거 포착됐다고 그거... I know I was caught crying... 듣기 View video TOMORROW X TOGETHER : 수빈입니다!",
+      "english": "I know I was caught crying..."
+    },
+    {
+      "korean": "저 운 거요? That I cried? 듣기 View video VICTON : 해피한세데이♡",
+      "english": "That I cried?"
+    },
+    {
+      "korean": "운이 너무 힘들다고! WOON is so, so tired! 듣기 View video HA SUNG WOON : [구르미TV] EP.30 CASTLE ON A CLOUD",
+      "english": "WOON is so, so tired!"
+    },
+    {
+      "korean": "[운에 집착] 운은 중요하지 않나요? [Obsessing on luck] How about luck? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.11 뉴이스트의 우당탕탕 볼링 대결!",
+      "english": "[Obsessing on luck] How about luck?"
+    },
+    {
+      "korean": "우리가 운이 없네요 - 우리... We are unlucky. - We... 듣기 View video BTS : Run BTS! 2020 - EP.93",
+      "english": "We are unlucky. - We..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Oh well, better luck next time,’ she sighed. 듣기 Add to Wordbook “뭐 저, 다음번에는 운이 더 좋겠지.” 그녀가 한숨을 쉬며 말했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Oh well, better luck next time,’ she sighed. Add to Wordbook"
+    },
+    {
+      "korean": "What a lucky bastard! 듣기 Add to Wordbook 진짜 운 좋은 놈이군! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What a lucky bastard! Add to Wordbook"
+    },
+    {
+      "korean": "children’s rhymes and stories 듣기 Add to Wordbook (운을 맞춰 지은) 동시와 동화들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "children’s rhymes and stories Add to Wordbook"
+    },
+    {
+      "korean": "the luckless victim of the attack 듣기 Add to Wordbook 그 공격의 운 나쁜 희생자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the luckless victim of the attack Add to Wordbook"
+    },
+    {
+      "korean": "a poem written in rhyming couplets 듣기 Add to Wordbook 운이 맞는 2행 연구로 쓰인 시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a poem written in rhyming couplets Add to Wordbook"
+    }
+  ]
+}

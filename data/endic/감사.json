@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "감사",
+      "hanja": " (監査)",
+      "example": {},
+      "meanings": [
+        "(조사) inspection, (회계감사) audit"
+      ]
+    },
+    {
+      "phrase": "감사",
+      "hanja": " (監事)",
+      "example": {},
+      "meanings": [
+        "(회계 책임자) auditor, finance manager"
+      ]
+    },
+    {
+      "phrase": "감사",
+      "hanja": " (感謝)",
+      "example": {},
+      "meanings": [
+        "[명사] gratitude, appreciation, thanks, [동사] appreciate, thank, be thankful, be grateful"
+      ]
+    },
+    {
+      "phrase": "감사",
+      "hanja": " (監司)",
+      "example": {},
+      "meanings": [
+        "(옛날의 관직명) governor, the ruler of a province"
+      ]
+    },
+    {
+      "phrase": "회계감사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "auditing, audit"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thank you",
+      "frequency": 3
+    },
+    {
+      "meaning": "thanks",
+      "frequency": 3
+    },
+    {
+      "meaning": "appreciation",
+      "frequency": 3
+    },
+    {
+      "meaning": "thanksgiving",
+      "frequency": 3
+    },
+    {
+      "meaning": "gratitude",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "1000만 감사해요~ Thank you for 10 million. 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Thank you for 10 million."
+    },
+    {
+      "korean": "뉴이스트였습니다 감사합니다! This was NU'EST! Thank you! 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "This was NU'EST! Thank you!"
+    },
+    {
+      "korean": "감사합니다 생일 축하... Thank you for the birthday wishes... 듣기 View video NCT : 해벌",
+      "english": "Thank you for the birthday wishes..."
+    },
+    {
+      "korean": "[그리고 늘 감사한 우리 MIDZY] 우리 믿지! [MIDZY, our fans] Dear MIDZYs! 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP49. 서가대에 있지!",
+      "english": "[MIDZY, our fans] Dear MIDZYs!"
+    },
+    {
+      "korean": "그럼 지금까지 Wanna be your star! 아스트로였습니다 감사합니다! This has been... Wanna be your star! ASTRO! Thank you! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "This has been... Wanna be your star! ASTRO! Thank you!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "An external auditor will verify the accounts. 듣기 Add to Wordbook 외부 감사가 그 회계 장부를 검증할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "An external auditor will verify the accounts. Add to Wordbook"
+    },
+    {
+      "korean": "Her contribution to the research went largely unacknowledged. 듣기 Add to Wordbook 그 연구에 대한 그녀의 공헌은 대부분 감사를 받지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her contribution to the research went largely unacknowledged. Add to Wordbook"
+    },
+    {
+      "korean": "a meeting to discuss the annual accounts and the auditors’ report thereon 듣기 Add to Wordbook 연차 재무제표와 그것에 대한 감사 보고서를 논의하기 위한 회의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a meeting to discuss the annual accounts and the auditors’ report thereon Add to Wordbook"
+    },
+    {
+      "korean": "to owe a debt of gratitude to sb 듣기 Add to Wordbook …에게 감사해야 할[신세를 진] 일이 있다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to owe a debt of gratitude to sb Add to Wordbook"
+    },
+    {
+      "korean": "Please accept our sincere thanks. 듣기 Add to Wordbook 부디 저희의 진심 어린 감사를 받아 주십시오. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please accept our sincere thanks. Add to Wordbook"
+    }
+  ]
+}

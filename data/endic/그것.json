@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "그것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(지시대명사) that (those)",
+        "(앞에서 언급한 대상) it, that"
+      ]
+    },
+    {
+      "phrase": "그것도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at that, to boot"
+      ]
+    },
+    {
+      "phrase": "그것도 그럴 것이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "That is so for a reason"
+      ]
+    },
+    {
+      "phrase": "그것 봐(요)[봐라/보세요/보십시오]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Look at that(, please)[Look at that/Please, look at at/Can you look at that?]"
+      ]
+    },
+    {
+      "phrase": "그것은 그렇다치고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be that as it may",
+        "well, let me see",
+        "apart from that"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "it",
+      "frequency": 3
+    },
+    {
+      "meaning": "that",
+      "frequency": 3
+    },
+    {
+      "meaning": "it 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "whoosis",
+      "frequency": 0
+    },
+    {
+      "meaning": "that 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그것은 타고나야 됩니다! You have to be born handsome! 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "You have to be born handsome!"
+    },
+    {
+      "korean": "[그것보다] 방금 OK를 하셨는데? [But] You just said okay. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[But] You just said okay."
+    },
+    {
+      "korean": "그것도 되는 거야? - 그럼~ - 자 '이'! That works too? - Of course. - \"Y!\" 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "That works too? - Of course. - \"Y!\""
+    },
+    {
+      "korean": "그것도 정말 좋은 생각인 것 같아요 - 그렇죠? That's a good idea. - Right? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "That's a good idea. - Right?"
+    },
+    {
+      "korean": "\"나는 그것을 원한다\" 이 책을 원한다는 거겠지? \"I want that\". He or she wants this photo book, probably? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "\"I want that\". He or she wants this photo book, probably?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "And that is the crux of the matter. 듣기 Add to Wordbook 그리고 그것이 문제의 핵심이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "And that is the crux of the matter. Add to Wordbook"
+    },
+    {
+      "korean": "The thought of it makes me heave. 듣기 Add to Wordbook 그것을 생각만 해도 난 속이 뒤틀린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The thought of it makes me heave. Add to Wordbook"
+    },
+    {
+      "korean": "It weighed between nine and ten kilos. 듣기 Add to Wordbook 그것은 무게가 9에서 10킬로 사이였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It weighed between nine and ten kilos. Add to Wordbook"
+    },
+    {
+      "korean": "It will take about four hours to defrost. 듣기 Add to Wordbook 그것은 해동하는 데 4 시간 정도가 걸린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It will take about four hours to defrost. Add to Wordbook"
+    },
+    {
+      "korean": "It was a finely honed piece of writing. 듣기 Add to Wordbook 그것은 한 편의 잘 다듬은 글이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was a finely honed piece of writing. Add to Wordbook"
+    }
+  ]
+}

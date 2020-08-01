@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "적화",
+      "hanja": " (赤化)",
+      "example": {},
+      "meanings": [
+        "communization"
+      ]
+    },
+    {
+      "phrase": "적화통일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unification under communism"
+      ]
+    },
+    {
+      "phrase": "적화를 방지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "check the spread of communism"
+      ]
+    },
+    {
+      "phrase": "적화 위협",
+      "hanja": " (赤化威脅)",
+      "example": {},
+      "meanings": [
+        "the red menace"
+      ]
+    },
+    {
+      "phrase": "적화 선전",
+      "hanja": " (赤化宣傳)",
+      "example": {},
+      "meanings": [
+        "Red[Bolshevik] propaganda"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "freightage",
+      "frequency": 0
+    },
+    {
+      "meaning": "flower pruning",
+      "frequency": 0
+    },
+    {
+      "meaning": "flower removal",
+      "frequency": 0
+    },
+    {
+      "meaning": "Bolshevize",
+      "frequency": 0
+    },
+    {
+      "meaning": "cargo cult",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The company executives considered the repurposability of the plan. 듣기 Add to Wordbook 회사 임원들은 회사 계획의 재목적화를 고려했다. 국제영어대학원대학교 신어사전",
+      "english": "The company executives considered the repurposability of the plan. Add to Wordbook"
+    },
+    {
+      "korean": "North Korea's attempt to communize the whole Korea was destined for failure. 듣기 Add to Wordbook 북한의 한반도 적화 통일 기도는 실패할 운명이었다. YBM All in All English-Korean Dictionary",
+      "english": "North Korea's attempt to communize the whole Korea was destined for failure. Add to Wordbook"
+    },
+    {
+      "korean": "North Korea still hasn't given up the ambition of a forceful unification. 듣기 Add to Wordbook 북한은 아직도 적화통일의 야욕을 버리지 못하고 있다 Neungyule",
+      "english": "North Korea still hasn't given up the ambition of a forceful unification. Add to Wordbook"
+    },
+    {
+      "korean": "My grandfather suffered from the red out. 듣기 Add to Wordbook 할아버지는 적화상실에 시달리셨다. YBM All in All English-Korean Dictionary",
+      "english": "My grandfather suffered from the red out. Add to Wordbook"
+    },
+    {
+      "korean": "He was arrested and placed on trial for communistic activities. 듣기 Add to Wordbook 그는 적화운동으로 체포되어 취조됐다. 영어영작문대사전",
+      "english": "He was arrested and placed on trial for communistic activities. Add to Wordbook"
+    }
+  ]
+}

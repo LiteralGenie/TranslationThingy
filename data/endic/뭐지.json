@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(무엇) what, something",
+        "(놀라움) what, huh, why"
+      ]
+    },
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection what, oh my goodness, oh my gosh",
+        "Interjection what",
+        "Interjection anyway"
+      ]
+    },
+    {
+      "phrase": "뭐라 뭐라 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say what and what"
+      ]
+    },
+    {
+      "phrase": "뭐니 뭐니 해도",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "뭐가 뭔지 모르겠어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm totally lost."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "or what",
+      "frequency": 0
+    },
+    {
+      "meaning": "intangible",
+      "frequency": 3
+    },
+    {
+      "meaning": "improvise",
+      "frequency": 3
+    },
+    {
+      "meaning": "eh",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐지??? What is it? 듣기 View video IU : [IU TV] '호텔 델루나' 장만월의 바깥 나들이",
+      "english": "What is it?"
+    },
+    {
+      "korean": "'뭐지?' \"What is this?\" 듣기 View video TWICE : 레나♡",
+      "english": "\"What is this?\""
+    },
+    {
+      "korean": "[뭐지...?] [What is this?] View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.14 MBTI of SVT",
+      "english": "[What is this?]"
+    },
+    {
+      "korean": "뭐지...? What is it...? 듣기 View video V PICK! : [LOONA] 모지? 이 리얼엉망징창깜찍볼링달소?🎳 (LOONA playing bowling)",
+      "english": "What is it...?"
+    },
+    {
+      "korean": "[(뭐지?)] [What is it?] View video 슈주 리턴즈 (SJ returns) : 슈주 리턴즈2 EP13- ‘이 초밥 200개도 먹을 수 있을 것 같아!' 도쿄에서 만난 슈주 인생 초밥",
+      "english": "[What is it?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What’s that in the sky? 듣기 Add to Wordbook 하늘에 있는 저게 뭐지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What’s that in the sky? Add to Wordbook"
+    },
+    {
+      "korean": "What’s that fishy smell? 듣기 Add to Wordbook 저 생선 냄새는 뭐지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What’s that fishy smell? Add to Wordbook"
+    },
+    {
+      "korean": "What’s their son called? 듣기 Add to Wordbook 그들의 아들 이름이 뭐지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What’s their son called? Add to Wordbook"
+    },
+    {
+      "korean": "What is the chemical symbol for copper? 듣기 Add to Wordbook 구리의 화학 기호가 뭐지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What is the chemical symbol for copper? Add to Wordbook"
+    },
+    {
+      "korean": "Listen! What’s that noise? Can you hear it? 듣기 Add to Wordbook (잘) 들어 봐! 저 소리가 뭐지? 너 들리니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Listen! What’s that noise? Can you hear it? Add to Wordbook"
+    }
+  ]
+}

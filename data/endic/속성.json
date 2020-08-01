@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "속성",
+      "hanja": " (屬性)",
+      "example": {},
+      "meanings": [
+        "(고유의 성질) (formal) attribute, properties, quality"
+      ]
+    },
+    {
+      "phrase": "속성",
+      "hanja": " (速成)",
+      "example": {},
+      "meanings": [
+        "(빨리 이룸)"
+      ]
+    },
+    {
+      "phrase": "인간의 고유한 속성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "attributes[characteristic] of humans"
+      ]
+    },
+    {
+      "phrase": "속성으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as quickly as possible",
+        "quickly"
+      ]
+    },
+    {
+      "phrase": "본질적 속성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an intrinsic attribute"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "property",
+      "frequency": 2
+    },
+    {
+      "meaning": "attribute",
+      "frequency": 1
+    },
+    {
+      "meaning": "belonging",
+      "frequency": 1
+    },
+    {
+      "meaning": "appanage",
+      "frequency": 0
+    },
+    {
+      "meaning": "attribution",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "2주만 딱 저한테 배우시면 속성으로... If you learn from me for 2 weeks... 듣기 View video WINNER : 3분커버 이선생",
+      "english": "If you learn from me for 2 weeks..."
+    },
+    {
+      "korean": "[팔 굽혀야 함, 속성 스킬 전수] 언니, 팔을 굽혀야 돼요 팔꿈치... [Bending your arms, the best tip] Bend your arms. Your elbows. 듣기 View video 아이돌룸(IDOL ROOM) : 최종 여신석에 앉은 피지컬 여신은 다원!",
+      "english": "[Bending your arms, the best tip] Bend your arms. Your elbows."
+    },
+    {
+      "korean": "단기 속성 예능 마스터를 준비해봤습니다. the young trainees of \"MOMO LAND\". 듣기 View video 모모랜드를 찾아서 (Finding MOMOLAND) : 춤신춤왕 정진운에게 배우는 아이돌 예능수업",
+      "english": "the young trainees of \"MOMO LAND\"."
+    },
+    {
+      "korean": "[속성 요리 강습 완료] 마지막이니까 파이팅! [After quick lessons] One more session to go. Way to go! 듣기 View video THE BOYZ : [FULL]더 보이즈 '꽃미남 분식집' 8회 The BOYZ \"Flower Snack\" ep.8",
+      "english": "[After quick lessons] One more session to go. Way to go!"
+    },
+    {
+      "korean": "[박경의 단기 속성 셀카 레슨] 제가 아이돌 사진 찍는 법 가르쳐 드릴게요. [Park Kyung's pointers] Learn to shoot like an idol. 듣기 View video V Special : [꽃브로] 꽃미남 브로맨스 - 김지석&박경 EP3. \"아이돌 금기\"",
+      "english": "[Park Kyung's pointers] Learn to shoot like an idol."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the curative properties of herbs 발음듣기 약초[향초]의 치유력 있는 속성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the curative properties of herbs 발음"
+    },
+    {
+      "korean": "the transitory nature of his happiness 발음듣기 그의 행복의 덧없는 속성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the transitory nature of his happiness 발음"
+    },
+    {
+      "korean": "the adversarial nature of the two-party system 발음듣기 양당제의 대립적 속성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the adversarial nature of the two-party system 발음"
+    },
+    {
+      "korean": "the transient nature of speech 발음듣기 말의 일시적인 속성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the transient nature of speech 발음"
+    },
+    {
+      "korean": "to study the properties of matter 발음듣기 물질의 속성을 연구하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to study the properties of matter 발음"
+    }
+  ]
+}

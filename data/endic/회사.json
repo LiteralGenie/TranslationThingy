@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "회사",
+      "hanja": " (會社)",
+      "example": {},
+      "meanings": [
+        "company ((abb.)Co.), corporation, firm, business, concern"
+      ]
+    },
+    {
+      "phrase": "주식회사",
+      "hanja": " (株式會社)",
+      "example": {},
+      "meanings": [
+        "corporation"
+      ]
+    },
+    {
+      "phrase": "유한회사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "limited liability company ((abb.)LLC)"
+      ]
+    },
+    {
+      "phrase": "제약 회사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pharmaceutical company[firm]"
+      ]
+    },
+    {
+      "phrase": "당 회사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "this firm"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "firm",
+      "frequency": 3
+    },
+    {
+      "meaning": "house",
+      "frequency": 3
+    },
+    {
+      "meaning": "player",
+      "frequency": 3
+    },
+    {
+      "meaning": "line",
+      "frequency": 3
+    },
+    {
+      "meaning": "concern",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "웅이, 회사에서? Woong? From the company? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Woong? From the company?"
+    },
+    {
+      "korean": "회사 갔다 온 거 아니야? You didn't go to his office? 듣기 View video 플레이리스트 (Playlist) : 너무 좋아해서 짝사랑만 하는 거 이해됨? [엑스엑스(XX)] - EP.04",
+      "english": "You didn't go to his office?"
+    },
+    {
+      "korean": "이런 날 회사를 간다니! To go to company on this day!! 듣기 View video SF9 : 어머님들",
+      "english": "To go to company on this day!!"
+    },
+    {
+      "korean": "\"저 내일 회사 안 가요\" 왜? \"I'm not going to work tomorrow\". Why? 듣기 View video TWICE : 힝",
+      "english": "\"I'm not going to work tomorrow\". Why?"
+    },
+    {
+      "korean": "내가 회사 근처로 갈게 미팅 몇 시에 끝나? I'll go to your firm. When will it be over? 듣기 View video 플레이리스트 (Playlist) : 존잘 연하가 선배 꼬시는 법 [엑스엑스(XX)] - EP.05",
+      "english": "I'll go to your firm. When will it be over?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the net asset value of the company 듣기 Add to Wordbook 그 회사의 순자산 가치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the net asset value of the company Add to Wordbook"
+    },
+    {
+      "korean": "a firm which specializes in house conversions 듣기 Add to Wordbook 주택 개조 전문 회사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a firm which specializes in house conversions Add to Wordbook"
+    },
+    {
+      "korean": "a firm that does paving and walling 듣기 Add to Wordbook 도로 포장과 벽 쌓기를 하는 회사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a firm that does paving and walling Add to Wordbook"
+    },
+    {
+      "korean": "the allotment of shares to company employees 듣기 Add to Wordbook 회사 사원들에 대한 주식 배당 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the allotment of shares to company employees Add to Wordbook"
+    },
+    {
+      "korean": "the company’s fiduciary duty to its shareholders 듣기 Add to Wordbook 주주들에 대한 회사의 신탁 의무 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the company’s fiduciary duty to its shareholders Add to Wordbook"
+    }
+  ]
+}

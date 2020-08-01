@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "돌진",
+      "hanja": " (突進)",
+      "example": {},
+      "meanings": [
+        "a rush, an onrush, a dash, a charge, 돌진하다 rush, make a dash, charge in (upon)"
+      ]
+    },
+    {
+      "phrase": "돌진(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 rush"
+      ]
+    },
+    {
+      "phrase": "돌진하다",
+      "hanja": " (突進하다)",
+      "example": {},
+      "meanings": [
+        "charge (at/towards/into) , rush"
+      ]
+    },
+    {
+      "phrase": "저돌적으로 돌진하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rush recklessly",
+        "make a rush (at)"
+      ]
+    },
+    {
+      "phrase": "적을 향해 돌진하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "charge in upon the enemy",
+        "charge[rush at] the enemy",
+        "make a dash at the enemy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dash",
+      "frequency": 3
+    },
+    {
+      "meaning": "rush 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "lunge",
+      "frequency": 0
+    },
+    {
+      "meaning": "rip 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "tantivy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[카메라 앞으로 돌진!] 앞으로 돌진! Go to the front! 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 2화",
+      "english": "Go to the front!"
+    },
+    {
+      "korean": "[너밖에 안 보여] [피자 박스를 향해 돌진] 피자? [I only see you] [Rushing toward the pizza box] Pizza? 듣기 View video Mnet : [ONE DREAM.TXT] Reality Ep.01 - Part.1",
+      "english": "[I only see you] [Rushing toward the pizza box] Pizza?"
+    },
+    {
+      "korean": "[막내 돌진] - 5분 지나면 뭔데? - 이거 뭔데? [The youngest is coming to him] - What happens after 5 minutes? - What's this? 듣기 View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 4화",
+      "english": "[The youngest is coming to him] - What happens after 5 minutes? - What's this?"
+    },
+    {
+      "korean": "[돌진 리노] - 뭐야? - 이거 뭐야? 이거 뺏기면 안 되지? [LEE KNOW rushing] - What's that? - What? - You should keep this, right? 듣기 View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 4화",
+      "english": "[LEE KNOW rushing] - What's that? - What? - You should keep this, right?"
+    },
+    {
+      "korean": "[그동안의 존버는 잊어라! 홍 배린이, 자신감 만땅 여포로 돌진!] [Don't forget me as a newbie! He's attacking full of confidence!] View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸 동맹] EP.39 훈남을 섭외했는데 두 얼간이가 왔습니다...",
+      "english": "[Don't forget me as a newbie! He's attacking full of confidence!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A runaway car came hurtling towards us. 듣기 Add to Wordbook 도주 차량 한 대가 우리를 향해 돌진해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A runaway car came hurtling towards us. Add to Wordbook"
+    },
+    {
+      "korean": "The police stormed the barricades the demonstrators had put up. 듣기 Add to Wordbook 경찰이 시위대가 세워 놓은 바리케이드로 돌진했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police stormed the barricades the demonstrators had put up. Add to Wordbook"
+    },
+    {
+      "korean": "He made a lunge for the phone. 듣기 Add to Wordbook 그가 전화기를 향해 돌진했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He made a lunge for the phone. Add to Wordbook"
+    },
+    {
+      "korean": "Johnson carried the ball an average of 6 yards per rush. 듣기 Add to Wordbook 존슨이 러시당 평균 6야드로 공을 가지고 돌진했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Johnson carried the ball an average of 6 yards per rush. Add to Wordbook"
+    },
+    {
+      "korean": "He extricated a little boy from the car. 듣기 Add to Wordbook 그는 돌진하는 차로부터 어린 소년을 구했다. 절대어휘 5100",
+      "english": "He extricated a little boy from the car. Add to Wordbook"
+    }
+  ]
+}

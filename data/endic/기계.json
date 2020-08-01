@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "기계",
+      "hanja": " (機械)",
+      "example": {},
+      "meanings": [
+        "(동력 장치) (집합적) machine, machinery"
+      ]
+    },
+    {
+      "phrase": "기계공학과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Department of Mechanical Engineering"
+      ]
+    },
+    {
+      "phrase": "기계 공구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a machine tool"
+      ]
+    },
+    {
+      "phrase": "공작 기계",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a machine tool"
+      ]
+    },
+    {
+      "phrase": "기계를 해체하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take a machine to pieces",
+        "disjoint a machine"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "machine",
+      "frequency": 3
+    },
+    {
+      "meaning": "technology",
+      "frequency": 3
+    },
+    {
+      "meaning": "machinery",
+      "frequency": 3
+    },
+    {
+      "meaning": "dispenser",
+      "frequency": 0
+    },
+    {
+      "meaning": "contraption",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[피해자 쥬씨] [기계 문제] 잠깐만 이거 다 이상한 거 맞지? [Victim Juri] [The machine is wrong] Hold on, this is weird, right? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[Victim Juri] [The machine is wrong] Hold on, this is weird, right?"
+    },
+    {
+      "korean": "야, 그건 발마사지 기계야! It was a food massager. 듣기 View video 컨스TV : 니들 나한테 용사따윈 바라지 마라![넘버식스]ep8.",
+      "english": "It was a food massager."
+    },
+    {
+      "korean": "[아차차차] 그때도 만약 찍는 기계가 있다면! [Oh right] If there's a chance to take it then, too! 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 서울가요대상 BEHIND",
+      "english": "[Oh right] If there's a chance to take it then, too!"
+    },
+    {
+      "korean": "뭐, 담임 말대로 우리가 공부하는 기계야? Do you really think that we should be like a machine to study? 듣기 View video tvN D : 내신등급이 내 인생의 등급일까? [언어의 온도 : 우리의 열아홉] Ep.1",
+      "english": "Do you really think that we should be like a machine to study?"
+    },
+    {
+      "korean": "이러는데 - 넌 좀 리액션이 좀 로봇 같아 - 기계야? I do. - Your reactions are like a robot. - Machine-like? 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "I do. - Your reactions are like a robot. - Machine-like?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The noise of the machine was deafening. 듣기 Add to Wordbook 기계 소리 때문에 귀가 먹먹했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The noise of the machine was deafening. Add to Wordbook"
+    },
+    {
+      "korean": "The machine rumbled as it started up. 듣기 Add to Wordbook 기계가 시동이 걸리면서 우르릉거리는 소리를 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The machine rumbled as it started up. Add to Wordbook"
+    },
+    {
+      "korean": "to manipulate the gears and levers of a machine 듣기 Add to Wordbook 기계의 기어와 레버를 (능숙하게) 조작하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to manipulate the gears and levers of a machine Add to Wordbook"
+    },
+    {
+      "korean": "The production process is now highly mechanized. 듣기 Add to Wordbook 생산 과정은 이제 고도로 기계화되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The production process is now highly mechanized. Add to Wordbook"
+    },
+    {
+      "korean": "The machine dispenses a range of drinks and snacks. 듣기 Add to Wordbook 그 기계에서는 다양한 음료와 스낵이 나온다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The machine dispenses a range of drinks and snacks. Add to Wordbook"
+    }
+  ]
+}

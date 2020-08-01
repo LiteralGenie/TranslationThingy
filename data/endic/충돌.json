@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "충돌",
+      "hanja": " (衝突)",
+      "example": {},
+      "meanings": [
+        "(세게 맞부딪침) collision (with), impact, crash, smash, collide (with), crash (into/onto), smash (into)",
+        "(무력 충돌) clash (with/between), (국지전) skirmish, clash (with)",
+        "(의견·이해관계 등의) conflict (over/between), clash (with/between), collision (between), (싸움) quarrel (with/between), (불화) feud (w..."
+      ]
+    },
+    {
+      "phrase": "측면 충돌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a broadside collision"
+      ]
+    },
+    {
+      "phrase": "정면충돌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a head-on collision"
+      ]
+    },
+    {
+      "phrase": "공중 충돌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a midair collision",
+        "a collision in midair"
+      ]
+    },
+    {
+      "phrase": "감정 충돌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an emotional clash",
+        "a collision of sentiments"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "clash",
+      "frequency": 3
+    },
+    {
+      "meaning": "collision",
+      "frequency": 3
+    },
+    {
+      "meaning": "impact",
+      "frequency": 3
+    },
+    {
+      "meaning": "conflict",
+      "frequency": 3
+    },
+    {
+      "meaning": "shock 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "운석 충돌로 인해서 이렇게 많이 파져 있는... surface holes created due to collision with meteorites. 듣기 View video V COOKIE : [Full] KIM JAEJOONG X CouchTalk - 김재중 X 카우치토크",
+      "english": "surface holes created due to collision with meteorites."
+    },
+    {
+      "korean": "[충돌 사고와 함께 화려한 등장?!] [She makes a flashy appearance with a bang?!] View video 콬TV (WHYNOT) : 예고 졸업생들의 첫 로맨스 여행♥ㅣ[리얼하이로맨스(Real High School Romance)] EP 1ㅣ청불 졸업",
+      "english": "[She makes a flashy appearance with a bang?!]"
+    },
+    {
+      "korean": "충돌했다! It's collided with the earth! 듣기 View video Block B : Block B BASTARZ MV 코멘터리쇼",
+      "english": "It's collided with the earth!"
+    },
+    {
+      "korean": "충돌사고가 있었어요. There was an accident. 듣기 View video IDOL x IDOL : WANNA.B - 워너비 '알고보면, 너비도 걸그룹!'",
+      "english": "There was an accident."
+    },
+    {
+      "korean": "그리고... - 토크 충돌. And... - Talk collision. 듣기 View video V COOKIE : [FULL] 2018 GLOBAL VLIVE TOP 10 - Wanna One",
+      "english": "And... - Talk collision."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The car collided head-on with the van. 듣기 Add to Wordbook 그 승용차는 그 밴과 정면으로 충돌했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The car collided head-on with the van. Add to Wordbook"
+    },
+    {
+      "korean": "The crash buckled the front of my car. 듣기 Add to Wordbook 그 충돌 사고로 내 차 앞부분이 찌그러졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The crash buckled the front of my car. Add to Wordbook"
+    },
+    {
+      "korean": "He suffered badly bruised ribs in the crash. 듣기 Add to Wordbook 그는 그 충돌 사고로 갈비뼈에 심한 타박상을 입었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He suffered badly bruised ribs in the crash. Add to Wordbook"
+    },
+    {
+      "korean": "The back of the car was badly dented in the collision. 듣기 Add to Wordbook 그 충돌로 승용차 뒷부분이 심하게 찌그러졌다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The back of the car was badly dented in the collision. Add to Wordbook"
+    },
+    {
+      "korean": "The car and the van collided head-on in thick fog. 듣기 Add to Wordbook 그 승용차와 밴은 짙은 안개 속에서 정면충돌을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The car and the van collided head-on in thick fog. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "회전",
+      "hanja": " (回轉)",
+      "example": {},
+      "meanings": [
+        "(물체의) [명사] rotation, revolution, [동사] turn, rotate, revolve (around); (빠른 속도로) spin",
+        "(상품·자금 등의) [명사] turnover",
+        "(두뇌의)"
+      ]
+    },
+    {
+      "phrase": "회전목마",
+      "hanja": " (回轉木馬)",
+      "example": {},
+      "meanings": [
+        "merry-go-round, (Am) carousel, (Brit) roundabout"
+      ]
+    },
+    {
+      "phrase": "좌회전",
+      "hanja": " (左回轉)",
+      "example": {},
+      "meanings": [
+        "left turn, turn left, make[take] a left"
+      ]
+    },
+    {
+      "phrase": "1회전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the first round[game]"
+      ]
+    },
+    {
+      "phrase": "우회전",
+      "hanja": " (右回轉)",
+      "example": {},
+      "meanings": [
+        "[명사] right turn, [동사] turn right, make[take] a right"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "revolution",
+      "frequency": 2
+    },
+    {
+      "meaning": "round",
+      "frequency": 2
+    },
+    {
+      "meaning": "spin",
+      "frequency": 2
+    },
+    {
+      "meaning": "cycle",
+      "frequency": 2
+    },
+    {
+      "meaning": "turn",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "회전 초밥으로 뭘 먹은 거지 대체? What did we eat at a conveyor belt sushi restaurant? 듣기 View video Stray Kids : [Two Kids Song(투키즈송)] Ep.03",
+      "english": "What did we eat at a conveyor belt sushi restaurant?"
+    },
+    {
+      "korean": "[빠른 두뇌 회전] 세차 먼저 하고 있어도 돼요? [Busy brain] Can I go and work with the new car now? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "[Busy brain] Can I go and work with the new car now?"
+    },
+    {
+      "korean": "회전이 되나? Can you just turn it? 듣기 View video WOODZ (조승연) : CsYWORLD",
+      "english": "Can you just turn it?"
+    },
+    {
+      "korean": "회전목마 준비 고! Merry-go-round, ready... go! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.9",
+      "english": "Merry-go-round, ready... go!"
+    },
+    {
+      "korean": "회전목마 - 자이로드롭, 자이로드롭이지! Merry-go-round. - Gyro-drop! 듣기 View video BTS : 슙디의 꿀 FM 06.13 with J-HOPE #0613FM_0523",
+      "english": "Merry-go-round. - Gyro-drop!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The needle on the rev counter soared. 발음듣기 회전식 계측기 바늘이 치솟았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The needle on the rev counter soared. 발음"
+    },
+    {
+      "korean": "The taxi driver revved up his engine. 발음듣기 택시 기사가 엔진의 회전 속도를 올렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The taxi driver revved up his engine. 발음"
+    },
+    {
+      "korean": "She was known for the quickness of her wit. 발음듣기 그녀는 두뇌 회전이 빠른 것으로 유명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was known for the quickness of her wit. 발음"
+    },
+    {
+      "korean": "4000 revs per minute 발음듣기 분당 4 000번의 회전 속도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "4000 revs per minute 발음"
+    },
+    {
+      "korean": "Mars takes longer to revolve on its axis than the earth. 발음듣기 화성은 지구보다 축을 중심으로 회전하는 데 시간이 더 오래 걸린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mars takes longer to revolve on its axis than the earth. 발음"
+    }
+  ]
+}

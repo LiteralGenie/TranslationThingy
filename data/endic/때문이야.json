@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "때문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ground, reason, because (of)"
+      ]
+    },
+    {
+      "phrase": "때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on account of",
+        "because of",
+        "owing to"
+      ]
+    },
+    {
+      "phrase": "이 때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on this account"
+      ]
+    },
+    {
+      "phrase": "그 때문에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for that reason"
+      ]
+    },
+    {
+      "phrase": "…때문이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be due[owing, attributable] to",
+        "attribute to"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "because",
+      "frequency": 3
+    },
+    {
+      "meaning": "snowbound",
+      "frequency": 0
+    },
+    {
+      "meaning": "blame",
+      "frequency": 3
+    },
+    {
+      "meaning": "due",
+      "frequency": 3
+    },
+    {
+      "meaning": "thereby",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "또 이루미 때문이야? Is it because of Yi Rumi again? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "Is it because of Yi Rumi again?"
+    },
+    {
+      "korean": "필터 때문이야 필터~ It's because of the filter. A filter. 듣기 View video GFRIEND : 오주년이 얼마 안남아따",
+      "english": "It's because of the filter. A filter."
+    },
+    {
+      "korean": "이게 다 너 때문이야! It's all because of you! 듣기 View video Dingo Story / 딩고스토리 : 좋아하는 사람이 다른 사람과 키스했다_EP19_[라이크LIKE]",
+      "english": "It's all because of you!"
+    },
+    {
+      "korean": "너 혹시 윤우 때문이야? Is it because of Yoonwoo? 듣기 View video Dingo Story / 딩고스토리 : 삼각 관계의 결말은 해피 엔딩? 새드 엔딩?_EP21_[라이크LIKE]",
+      "english": "Is it because of Yoonwoo?"
+    },
+    {
+      "korean": "추석 때문이야 - 많이 먹으려고? for Chuseok. - To eat more? 듣기 View video V PICK! : [Stray Kids] 전 하나에 이런 환호라니 다음 생에는 전으로 태어나야겠다고 ★결심★ (Stray Kids talking about Chuseok food)",
+      "english": "for Chuseok. - To eat more?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It’s precisely because I care about you that I don’t like you staying out late. 듣기 Add to Wordbook 네가 밤늦게까지 밖에 나가 있는 것을 내가 좋아하지 않는 이유는 바로 내가 너를 사랑하고 염려하기 때문이야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s precisely because I care about you that I don’t like you staying out late. Add to Wordbook"
+    },
+    {
+      "korean": "I think I chose the wrong one in the first place because it has nothing to do with my major. 듣기 Add to Wordbook 처음부터 잘못 선택한 것 같아. 내 전공이랑 아무 관련이 없기 때문이야. DARAKWON",
+      "english": "I think I chose the wrong one in the first place because it has nothing to do with my major. Add to Wordbook"
+    },
+    {
+      "korean": "And the fact that he looks like a complete dork. 듣기 Add to Wordbook 그리고 완전 얼간이같이 보이기 때문이야. DARAKWON",
+      "english": "And the fact that he looks like a complete dork. Add to Wordbook"
+    },
+    {
+      "korean": "The reason I frown sometimes is because of my diplophobia. 듣기 Add to Wordbook 내가 가끔 얼굴을 찡그리는 이유는 복시 공포증 때문이야. 국제영어대학원대학교 신어사전",
+      "english": "The reason I frown sometimes is because of my diplophobia. Add to Wordbook"
+    },
+    {
+      "korean": "The reason why I declined your proposal is because I am a commitmephobe. 듣기 Add to Wordbook 내가 너의 청혼을 거절하는 이유는 낭만적 관계 불안증 환자이기 때문이야. 국제영어대학원대학교 신어사전",
+      "english": "The reason why I declined your proposal is because I am a commitmephobe. Add to Wordbook"
+    }
+  ]
+}

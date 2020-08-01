@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "안내하다",
+      "hanja": " (案內하다)",
+      "example": {},
+      "meanings": [
+        "Verb make known",
+        "Verb guide, lead, usher"
+      ]
+    },
+    {
+      "phrase": "안내",
+      "hanja": " (案內)",
+      "example": {},
+      "meanings": [
+        "(내용·사정 등을)",
+        "(방·좌석·길 등을) guidance, guide (to/through/around); (방·좌석 등으로) usher[show] (sb to/into sth), (formal) conduct"
+      ]
+    },
+    {
+      "phrase": "길안내하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "show the way",
+        "guide[direct]",
+        "act as (a) guide"
+      ]
+    },
+    {
+      "phrase": "안내[홍보] 책자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a(n) information[promotional] leaflet[pamphlet, brochure]"
+      ]
+    },
+    {
+      "phrase": "여행안내 책자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a travel brochure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "guide",
+      "frequency": 2
+    },
+    {
+      "meaning": "방송실",
+      "frequency": 0
+    },
+    {
+      "meaning": "모시다",
+      "frequency": 0
+    },
+    {
+      "meaning": "classified advertising",
+      "frequency": 0
+    },
+    {
+      "meaning": "호출",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "미리 한번 안내해드릴까요? Could you tell them now? 듣기 View video V COOKIE : [Full]WEB INSIDE - 일진에게 찍혔을 때 & 리얼하이로맨스 시즌2 (WEB INSIDE - Best Mistake & Real Highschool Romance S2)",
+      "english": "Could you tell them now?"
+    },
+    {
+      "korean": "자리 어디로 안내해드릴까요? Where would you want to be seated? 듣기 View video 플레이리스트 (Playlist) : \"내가 여기 그냥 샀어, 얼마 안 하던데?\" [엑스엑스(XX)] - EP.02",
+      "english": "Where would you want to be seated?"
+    },
+    {
+      "korean": "안녕하세요 테이블 자리로 안내해드릴까요? Hello. Do you want to sit at the table? 듣기 View video 플레이리스트 (Playlist) : 연락 두절된 남친이 다른 여자랑 있었다 [엑스엑스(XX)] - EP.01",
+      "english": "Hello. Do you want to sit at the table?"
+    },
+    {
+      "korean": "이쪽으로 안내해 드릴게요. I'll guide you this way. 듣기 View video 렛스튜디오 (LETstudio) : [여행에서로맨스를만날확률시즌2] EP 05_썸녀에게 실수 한 것 같다",
+      "english": "I'll guide you this way."
+    },
+    {
+      "korean": "런쥔 씨 안내해 주세요 어디죠? RENJUN, where are we? 듣기 View video NCT : 신박한 제목좀...💚😁",
+      "english": "RENJUN, where are we?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The receptionist led the way to the boardroom. 발음듣기 안내실 직원이 중역실로 가는 길을 안내해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The receptionist led the way to the boardroom. 발음"
+    },
+    {
+      "korean": "The attendant showed us to our seats. 발음듣기 안내원이 우리를 우리 자리로 안내해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The attendant showed us to our seats. 발음"
+    },
+    {
+      "korean": "I’ll go first and show you the way. 발음듣기 제가 먼저 가면서 길을 안내해 드리겠어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll go first and show you the way. 발음"
+    },
+    {
+      "korean": "I’ll drive, and you can navigate. 발음듣기 내가 운전할 테니까 넌 (지도를 보며) 길을 안내해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll drive, and you can navigate. 발음"
+    },
+    {
+      "korean": "This is our new office—Kay will show you around. 발음듣기 여기가 우리 새 사무실이에요. 케이가 여기저기 안내해 드릴 겁니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This is our new office—Kay will show you around. 발음"
+    }
+  ]
+}

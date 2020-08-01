@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "위험도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 degree of risk"
+      ]
+    },
+    {
+      "phrase": "아무런 위험도 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without the least danger"
+      ]
+    },
+    {
+      "phrase": "위험도부호",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 safety hazard severity code (SHSC)"
+      ]
+    },
+    {
+      "phrase": "위험도범주",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 risk category"
+      ]
+    },
+    {
+      "phrase": "위험도평가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 risk assembly"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "low-risk",
+      "frequency": 0
+    },
+    {
+      "meaning": "a low-risk investment",
+      "frequency": 0
+    },
+    {
+      "meaning": "a calculable risk",
+      "frequency": 0
+    },
+    {
+      "meaning": "country risk",
+      "frequency": 0
+    },
+    {
+      "meaning": "without the least danger",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "There is a serious health hazard, too. 듣기 Add to Wordbook 건강에 심각한 위험도 있다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 pdw7566(pdw7****) Hansard",
+      "english": "There is a serious health hazard, too. Add to Wordbook"
+    },
+    {
+      "korean": "There are risks as well as hopes. 듣기 Add to Wordbook 희망뿐만 아니라 위험도 있습니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 스탠다드(fing****)",
+      "english": "There are risks as well as hopes. Add to Wordbook"
+    },
+    {
+      "korean": "The worst risk is to take no risks. 듣기 Add to Wordbook 최악의 위험은 어떤 위험도 감수하지 않는 것이다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 tmdendid(tmde****)",
+      "english": "The worst risk is to take no risks. Add to Wordbook"
+    },
+    {
+      "korean": "Hopes are high, but so are the dangers. 듣기 Add to Wordbook 희망은 높은 곳에 있어, 하지만 위험도 그래. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 브라우니(with****)",
+      "english": "Hopes are high, but so are the dangers. Add to Wordbook"
+    },
+    {
+      "korean": "The risk of hospital acquired infection is also reduced. 듣기 Add to Wordbook 원내 감염의 위험도 감소한다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 사과향기(lees****) Hansard",
+      "english": "The risk of hospital acquired infection is also reduced. Add to Wordbook"
+    }
+  ]
+}

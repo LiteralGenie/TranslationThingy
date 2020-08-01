@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "뇌물",
+      "hanja": " (賂物)",
+      "example": {},
+      "meanings": [
+        "bribe, (informal) kickback, (Brit, inf) backhander"
+      ]
+    },
+    {
+      "phrase": "뇌물을 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bribe",
+        "offer[give] a bribe (to)",
+        "grease sb's palm"
+      ]
+    },
+    {
+      "phrase": "뇌물 공여",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "giving[offering] a bribe"
+      ]
+    },
+    {
+      "phrase": "뇌물을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take[accept, receive] a bribe",
+        "be bribed"
+      ]
+    },
+    {
+      "phrase": "뇌물로 매수하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "buy off"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bribe",
+      "frequency": 3
+    },
+    {
+      "meaning": "graft",
+      "frequency": 3
+    },
+    {
+      "meaning": "pay-off",
+      "frequency": 0
+    },
+    {
+      "meaning": "pad 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "kickback",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아랫집에 뇌물을 먹여야 되나 - 아니... We should give something to the neighbor who live downstairs. - No... 듣기 View video KKOSISTERS : 워너원 부메랑 MV 메이크업 Wanna One Boomerang Makeup",
+      "english": "We should give something to the neighbor who live downstairs. - No..."
+    },
+    {
+      "korean": "뇌물이 먹힌 거야, 뇌물이. He gave the bribe. 듣기 View video IDOL x IDOL : ROMEO - 로미오 ' 로미오의 신박한 동화 이야기'",
+      "english": "He gave the bribe."
+    },
+    {
+      "korean": "뇌물 작전이야? Are you promising for bribes? 듣기 View video WINNER : WINNER의 승승TV (WINNER'S WINWIN TV)",
+      "english": "Are you promising for bribes?"
+    },
+    {
+      "korean": "아니요. 그것도 뇌물이라고 해서 법에 걸린데요. Yeah, because that's considered as a bribe too. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "Yeah, because that's considered as a bribe too."
+    },
+    {
+      "korean": "[새롬을 달랠 달달한 뇌물 바나나 등장] - 바나나 까서 먹여줄게. - 싫어. I'll feed you a banana. - No. 듣기 View video 컨버전스 TV (CONS TV) : Global Working Tour in Australia EP.02",
+      "english": "I'll feed you a banana. - No."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "allegations of bribery and corruption 듣기 Add to Wordbook 뇌물 수수 및 독직 혐의들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "allegations of bribery and corruption Add to Wordbook"
+    },
+    {
+      "korean": "corrupt officials accepting bribes 듣기 Add to Wordbook 뇌물을 받아먹는 부패한 공무원들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "corrupt officials accepting bribes Add to Wordbook"
+    },
+    {
+      "korean": "She was accused of taking bribes. 듣기 Add to Wordbook 그녀는 뇌물을 받아서 기소되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was accused of taking bribes. Add to Wordbook"
+    },
+    {
+      "korean": "She was arrested on bribery charges. 듣기 Add to Wordbook 그녀는 뇌물 수수 혐의로 체포되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was arrested on bribery charges. Add to Wordbook"
+    },
+    {
+      "korean": "Government officials have been accused of accepting inducements from local businessmen. 듣기 Add to Wordbook 정부 관리들이 지역 사업가들로부터 뇌물을 받았다는 혐의를 받아 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Government officials have been accused of accepting inducements from local businessmen. Add to Wordbook"
+    }
+  ]
+}

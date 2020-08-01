@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "대부",
+      "hanja": " (代父)",
+      "example": {},
+      "meanings": [
+        "(가톨릭의 남자 후견인) godfather",
+        "(어떤 집단에서 영향력 있는 남자) godfather, (formal) doyen, (Am, inf) dean"
+      ]
+    },
+    {
+      "phrase": "대부",
+      "hanja": " (貸付)",
+      "example": {},
+      "meanings": [
+        "loan"
+      ]
+    },
+    {
+      "phrase": "대부",
+      "hanja": " (大富)",
+      "example": {},
+      "meanings": [
+        "Noun billionaire, man of fortune"
+      ]
+    },
+    {
+      "phrase": "신용 대부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a loan on personal pledge",
+        "a personal[credit] loan",
+        "an open credit"
+      ]
+    },
+    {
+      "phrase": "정기 대부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a time loan"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "godfather",
+      "frequency": 1
+    },
+    {
+      "meaning": "lending",
+      "frequency": 0
+    },
+    {
+      "meaning": "godparent",
+      "frequency": 0
+    },
+    {
+      "meaning": "scion overgrowing rootstock",
+      "frequency": 0
+    },
+    {
+      "meaning": "The Godfather",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "['영앤리치 간지 안 난다'는 말을 들어봤는지?] [더콰이엇 (국힙의 간지 대부)] 간지 안 난다? [About \"Yng & Rich have no swag\"] [The Quiett (Swag godfather in K hiphop)] Swag? 듣기 View video Dingo Freestyle / 딩고프리스타일 : 영리한 문제아들 EP.02 - 우리가 간지가 안 난다고?",
+      "english": "[About \"Yng & Rich have no swag\"] [The Quiett (Swag godfather in K hiphop)] Swag?"
+    },
+    {
+      "korean": "[아... 이래서 모델이 됐...] 대부님은 대부님을... [That's why he became a model....] What do you think you... 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP73] 블락비를 쩌리(?) 만드는 슈퍼모델 클라스",
+      "english": "[That's why he became a model....] What do you think you..."
+    },
+    {
+      "korean": "[뜻밖의 빡구 접신] 대부님은 대부님을... 하지 마! 하지 마! [Acting like a comedian] What do you think? Don't! Don't! 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP73] 블락비를 쩌리(?) 만드는 슈퍼모델 클라스",
+      "english": "[Acting like a comedian] What do you think? Don't! Don't!"
+    },
+    {
+      "korean": "다들 되게 저한테 - 예능 대부들에게 배우셨구나. would always tell me... - You learned from the best. 듣기 View video SUNMI : [Full] SUNMI Premium Showcase [WARNING]",
+      "english": "would always tell me... - You learned from the best."
+    },
+    {
+      "korean": "진짜요? - 아린이한테 효정이는 대부님 느낌이죠? Really? - To Arin, Hyojung is like the godfather, right? 듣기 View video 아이돌룸(IDOL ROOM) : 오마이걸, 촬영 후 LIVE!",
+      "english": "Really? - To Arin, Hyojung is like the godfather, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They are offering loans at extortionate rates of interest. 발음듣기 그들은 터무니없이 높은 금리로 대부를 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They are offering loans at extortionate rates of interest. 발음"
+    },
+    {
+      "korean": "the theme from ‘The Godfather’ 발음듣기 영화 ‘대부’에 나오는 주제 음악 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the theme from ‘The Godfather’ 발음"
+    },
+    {
+      "korean": "The bank refused to extend credit to them. 발음듣기 은행에서 그들에게 신용 대부를 거부했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bank refused to extend credit to them. 발음"
+    },
+    {
+      "korean": "The bank plans various extensions to its credit facilities. 발음듣기 본 은행에서는 신용 대부 서비스를 다양하게 확대할 계획을 하고 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bank plans various extensions to its credit facilities. 발음"
+    },
+    {
+      "korean": "The afulcionado knows that Lucio Fulci is an Itallian godfather of gore. 발음듣기 루치오 풀치 감독 영화를 좋아하는 사람들은 그가 이탈리아 공포 영화의 대부라는 것을 안다. 국제영어대학원대학교 신어사전",
+      "english": "The afulcionado knows that Lucio Fulci is an Itallian godfather of gore. 발음"
+    }
+  ]
+}

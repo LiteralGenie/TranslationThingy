@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "전열",
+      "hanja": " (戰列)",
+      "example": {},
+      "meanings": [
+        "battle line"
+      ]
+    },
+    {
+      "phrase": "전열",
+      "hanja": " (電熱)",
+      "example": {},
+      "meanings": [
+        "Noun electrical heat"
+      ]
+    },
+    {
+      "phrase": "전열을 가다듬다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "brace up (for battle)"
+      ]
+    },
+    {
+      "phrase": "전열을 갖추다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "line up for battle"
+      ]
+    },
+    {
+      "phrase": "유효 전열면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the effective electric heating surface"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "line",
+      "frequency": 2
+    },
+    {
+      "meaning": "a line of battle",
+      "frequency": 0
+    },
+    {
+      "meaning": "martial(=battle) array",
+      "frequency": 0
+    },
+    {
+      "meaning": "electric heat",
+      "frequency": 0
+    },
+    {
+      "meaning": "electric heating (appliance)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다시 한번 전열을 가다듬고 있는 한국 팀입니다. Again, the Korean team has possession. 듣기 View video 병만TV : EP. Basketball 조던이 와도 못 막을 김병만",
+      "english": "Again, the Korean team has possession."
+    },
+    {
+      "korean": "어? 전열이다. 스페셜 게스트. Oh? Jeonyeol is here. Our special guest. 듣기 View video Happy Robot Records : [THE KOXX] 빈&송 수요미식단",
+      "english": "Oh? Jeonyeol is here. Our special guest."
+    },
+    {
+      "korean": "오늘 아까 전화 오더라고, 7시쯤에. 전열이가... He called me at around 7. 듣기 View video Happy Robot Records : [THE KOXX] 빈&송 수요미식단",
+      "english": "He called me at around 7."
+    },
+    {
+      "korean": "전열이와 터치했습니다. - 감사합니다. Jeonyeol left and the food came. - Thank you. 듣기 View video Happy Robot Records : [THE KOXX] 빈&송 수요미식단",
+      "english": "Jeonyeol left and the food came. - Thank you."
+    },
+    {
+      "korean": "앉아봐. 사실 전열이가 오늘... - 조금만 더 들어가봐. Sit down. - Move to your left a little. 듣기 View video Happy Robot Records : [THE KOXX] 빈&송 수요미식단",
+      "english": "Sit down. - Move to your left a little."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They regrouped their forces and renewed the attack. 발음듣기 그들은 병력을 재편성하여[전열을 다시 가다듬어] 공격을 재개했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They regrouped their forces and renewed the attack. 발음"
+    },
+    {
+      "korean": "Fires started because of overheated electric heaters. 발음듣기 전열기 과열로 화재가 발생했다 Neungyule",
+      "english": "Fires started because of overheated electric heaters. 발음"
+    },
+    {
+      "korean": "Before the game, the players braced themselves. 발음듣기 선수들은 경기를 앞두고 전열을 가다듬었다 Neungyule",
+      "english": "Before the game, the players braced themselves. 발음"
+    },
+    {
+      "korean": "the order of battle 발음듣기 전투 서열(序列), 전열(battle array). Friendict Level English-Korean Dictionary",
+      "english": "the order of battle 발음"
+    },
+    {
+      "korean": "In winter, we use electric space heaters under our desks. 발음듣기 겨울에 우리는 책상 아래에 전열기를 두고 사용한다. Neungyule",
+      "english": "In winter, we use electric space heaters under our desks. 발음"
+    }
+  ]
+}

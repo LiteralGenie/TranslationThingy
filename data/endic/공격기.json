@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "공격기",
+      "hanja": " (攻擊機)",
+      "example": {},
+      "meanings": [
+        "an attack plane, an air raider(공습의)"
+      ]
+    },
+    {
+      "phrase": "전천후공격기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 all-weather attack aircraft[intruder] (A-6E)"
+      ]
+    },
+    {
+      "phrase": "공중정찰공격기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 killer scout"
+      ]
+    },
+    {
+      "phrase": "해군공격기대대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 navy attack squadron"
+      ]
+    },
+    {
+      "phrase": "저고도함재공격기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 A-6 (Intruder)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "A",
+      "frequency": 0
+    },
+    {
+      "meaning": "attack aircraft",
+      "frequency": 0
+    },
+    {
+      "meaning": "fighter or attack aircraft (Honet)",
+      "frequency": 0
+    },
+    {
+      "meaning": "해리어",
+      "frequency": 0
+    },
+    {
+      "meaning": "Super Etendard",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나의 유일한 공격기다. but I'm the only attacker. 듣기 View video ASTRO : [ASTRO DDOCA] 아스트로 또까 in AAF VCR 촬영장",
+      "english": "but I'm the only attacker."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The Ministry of Commerce, Industry and Energy announced the T-50 Golden Eagle, a Korean jet trainer and light attack aircraft, will make its public debut in the upcoming Seoul Air Show 2005 at the Seoul Airport between October 18 and 23. 발음듣기 산업자원부는 한국 고등훈련기 겸 경공격기인 T-50 골 든이글이 오는 10월18일에서 23일 사이 서울공항에서 개최 되는 서울에어쇼2005에서 대중에게 선보일 것이라고 발표 했다. Neungyule",
+      "english": "The Ministry of Commerce, Industry and Energy announced the T-50 Golden Eagle, a Korean jet trainer and light attack aircraft, will make its public debut in the upcoming Seoul Air Show 2005 at the Seoul Airport between October 18 and 23. 발음"
+    },
+    {
+      "korean": "The South Korean military does not have attack drones. 발음듣기 한국군은 무인 공격기를 보유하고 있지 않다. TIMES CORE",
+      "english": "The South Korean military does not have attack drones. 발음"
+    },
+    {
+      "korean": "The A-10s are used to provide air cover for ground troops. 발음듣기 A-10 공격기들은 지상군에게 공중지원을 할 때 사용되었다. User translation Inaccurate information may be included due to the users' self-traslation. sunmo23(sunm****) Web Collection",
+      "english": "The A-10s are used to provide air cover for ground troops. 발음"
+    },
+    {
+      "korean": "A B1 bomber, two A-10 ground-attack aircraft and four Cobra helicopter gunships provided support, he said. 발음듣기 그는 한 대의 B1 폭격기와 두 대의 A-10 대지 공격기, 그리고 넉 대의 코브라 공격 헬리콥터가 지원을 했다고 말했다. User translation Inaccurate information may be included due to the users' self-traslation. sunmo23(sunm****) Web Collection",
+      "english": "A B1 bomber, two A-10 ground-attack aircraft and four Cobra helicopter gunships provided support, he said. 발음"
+    },
+    {
+      "korean": "Three of the Palestinians killed by missiles launched from unmanned drone aircraft were policemen. 발음듣기 무인공격기에서 발사된 미사일에 맞아 사망한 세명의 팔레스타인들은 경찰이었다. User translation Inaccurate information may be included due to the users' self-traslation. maristkr(mari****) Web Collection",
+      "english": "Three of the Palestinians killed by missiles launched from unmanned drone aircraft were policemen. 발음"
+    }
+  ]
+}

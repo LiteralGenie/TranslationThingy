@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "아래",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사물의 아래쪽) the bottom, the foot, the lower part (=밑)",
+        "(나이·지위·능력 등의), (=밑)",
+        "(다음)"
+      ]
+    },
+    {
+      "phrase": "아래의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lower",
+        "under",
+        "underneath"
+      ]
+    },
+    {
+      "phrase": "아래에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "바로 아래에 beneath"
+      ]
+    },
+    {
+      "phrase": "맨 아래",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the bottom",
+        "the lowest"
+      ]
+    },
+    {
+      "phrase": "아래와 같다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as follows"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "following",
+      "frequency": 3
+    },
+    {
+      "meaning": "cat-",
+      "frequency": 0
+    },
+    {
+      "meaning": "below",
+      "frequency": 3
+    },
+    {
+      "meaning": "down",
+      "frequency": 3
+    },
+    {
+      "meaning": "under",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'차 문 아래 향수예요?' \"Is the perfume next to the car door?\" 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "\"Is the perfume next to the car door?\""
+    },
+    {
+      "korean": "[사면초가][틈이 없는 위와 앙상한 아래] 근데 밑에 거 이제 뽑을 게 없네? [Stuck] [No space on top and weak foundation] There's nothing to take out at the bottom. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Stuck] [No space on top and weak foundation] There's nothing to take out at the bottom."
+    },
+    {
+      "korean": "[판으로 밀어 반죽을 아래쪽으로 모아줍니다] - 응 밀어 - 똑똑하죠? [Push the batter downward] - Yes, push it. - Smart, huh? 듣기 View video V PICK! : [V PICK! HOW TO in V] 정수빈의 유자머핀🍋🍞 (HOW TO COOK JungSuBin’s citron muffin)",
+      "english": "[Push the batter downward] - Yes, push it. - Smart, huh?"
+    },
+    {
+      "korean": "[무대 아래에서는 이렇게 웅둥이인데 무대만 올라가면 묘섹이 된다 이거죠] 실수 안 하길 제발! Please! I hope that I don't make a mistake! 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 서울가요대상 BEHIND",
+      "english": "Please! I hope that I don't make a mistake!"
+    },
+    {
+      "korean": "[네, 저희는 자리를 바꾸지 않았습니다] 마늘 원래 아래 라인에 있지 않았어요? [We didn't touch anything on the table] Crushed garlic was here, right? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[We didn't touch anything on the table] Crushed garlic was here, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the anger that bubbled beneath the surface 듣기 Add to Wordbook 표면 아래서 차오르던 분노 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the anger that bubbled beneath the surface Add to Wordbook"
+    },
+    {
+      "korean": "She was paralysed from the waist down. 듣기 Add to Wordbook 그녀는 허리 아래가[허리 아래 하반신이] 마비되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was paralysed from the waist down. Add to Wordbook"
+    },
+    {
+      "korean": "Gobs of spittle ran down his chin. 듣기 Add to Wordbook 침이 조금씩 그의 턱 아래로 흘러내렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Gobs of spittle ran down his chin. Add to Wordbook"
+    },
+    {
+      "korean": "Make a small incision below the ribs. 듣기 Add to Wordbook 갈비뼈 아래를 작게 절개하시오. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Make a small incision below the ribs. Add to Wordbook"
+    },
+    {
+      "korean": "the cool dappled light under the trees 듣기 Add to Wordbook 나무 아래로 어룽거리는 서늘한 햇빛 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the cool dappled light under the trees Add to Wordbook"
+    }
+  ]
+}

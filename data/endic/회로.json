@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "회로",
+      "hanja": " (回路)",
+      "example": {},
+      "meanings": [
+        "(electrical) circuit, circuitry"
+      ]
+    },
+    {
+      "phrase": "병렬회로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "parallel circuit"
+      ]
+    },
+    {
+      "phrase": "폐쇄 회로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "closed circuit"
+      ]
+    },
+    {
+      "phrase": "직렬회로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "series circuit"
+      ]
+    },
+    {
+      "phrase": "회로 차단기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a circuit breaker"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "circuit",
+      "frequency": 3
+    },
+    {
+      "meaning": "cycle",
+      "frequency": 0
+    },
+    {
+      "meaning": "TCA cycle TCA",
+      "frequency": 0
+    },
+    {
+      "meaning": "bus",
+      "frequency": 3
+    },
+    {
+      "meaning": "integrated circuit",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[깐모 보자마자 멈춰버린 전국민의 사고회로 뿐이라네요] 진짜요? [and those finding it hard to even think as soon as they see you] Really? 듣기 View video V PICK! : [TWICE] 좌뇌에 필 스페셜 우뇌에 트둥이들로 빠지다못해 절여지는 중✨*.◟(ˊᗨˋ)◞.*✨(TWICE talking about their new album)",
+      "english": "[and those finding it hard to even think as soon as they see you] Really?"
+    },
+    {
+      "korean": "[충격에 회로 정지] - 말 잃었어요 - 왜? 왜? [She can't think properly] - She's lost words. - Why? 듣기 View video 한뼘TV : [방판소년단 EP34] 지숙&B.P.S, 야구장에서 흠뻑 젖어버린 사연은?!",
+      "english": "[She can't think properly] - She's lost words. - Why?"
+    },
+    {
+      "korean": "[STEP 1] 회로기판의 양쪽을 단단히 잡고 분리한다? [STEP 1] Hold on to the sides of the circuit board and separate them? 듣기 View video V PICK! : [V PICK! HOW TO in V] 예나의 태양광랜턴🏮(HOW TO MAKE Yena’s Solar Lantern)",
+      "english": "[STEP 1] Hold on to the sides of the circuit board and separate them?"
+    },
+    {
+      "korean": "[쁠라는 생선, 능은 찜, 마나오는 라임이라는 뜻] 그럼 회로 먹어야지. [Pla Neung Manao] [Steamed fish with lime] Then I'll eat it like sushi. 듣기 View video 졸잼티비 (joLjamTV) : [theHybrid] 플랜맨! 나한테 무슨짓을 하는거야 _ ep7",
+      "english": "[Pla Neung Manao] [Steamed fish with lime] Then I'll eat it like sushi."
+    },
+    {
+      "korean": "[점심은 갈치회, 야식은 광어&우럭회로] 광어&우럭이 기본이지, 아까 얘기한 그거다. [Lunch: Hairtail fish. Late-night snack: Halibut & rockfish] That's what I mentioned earlier. 듣기 View video 키워드#보아 - my SMTelevision : [키워드#보아] Ep.71 보아를 위해 준비했어!",
+      "english": "[Lunch: Hairtail fish. Late-night snack: Halibut & rockfish] That's what I mentioned earlier."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "These fish are often eaten raw. 듣기 Add to Wordbook 이들 생선은 흔히 날로[회로] 먹는다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These fish are often eaten raw. Add to Wordbook"
+    },
+    {
+      "korean": "The switches close the contacts and complete the circuit. 듣기 Add to Wordbook 이 스위치들로 전기가 접속되면 회로가 완성된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The switches close the contacts and complete the circuit. Add to Wordbook"
+    },
+    {
+      "korean": "a printed circuit card 듣기 Add to Wordbook 인쇄된 회로 카드 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a printed circuit card Add to Wordbook"
+    },
+    {
+      "korean": "a motor circuit protector 듣기 Add to Wordbook 모터 회로 보호용 차단기 국제영어대학원대학교 신어사전",
+      "english": "a motor circuit protector Add to Wordbook"
+    },
+    {
+      "korean": "Semiconductors are used for making integrated circuits and computers. 듣기 Add to Wordbook 반도체는 집적 회로와 컴퓨터를 만드는 데 이용된다. YBM All in All English-Korean Dictionary",
+      "english": "Semiconductors are used for making integrated circuits and computers. Add to Wordbook"
+    }
+  ]
+}

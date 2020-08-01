@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "테스트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[명사, 동사] test"
+      ]
+    },
+    {
+      "phrase": "test",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (지식능력 등을 알아보기 위한) 시험[테스트/검사] (→driving test)",
+        "Noun (의료적인) 검사[테스트] (→blood test, breath test)",
+        "Verb (지식능력 등을) 시험[테스트]하다"
+      ]
+    },
+    {
+      "phrase": "test",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [동물] 겉껍질, 외각(shell), [식물] = TESTA"
+      ]
+    },
+    {
+      "phrase": "Test.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Testament(ary)"
+      ]
+    },
+    {
+      "phrase": "Test match ( Test )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 테스트 매치(크리켓·럭비의 국가 간 경기. 보통 일련의 순회 경기 중 일부로 치뤄짐)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "test",
+      "frequency": 3
+    },
+    {
+      "meaning": "quiz",
+      "frequency": 3
+    },
+    {
+      "meaning": "testing",
+      "frequency": 0
+    },
+    {
+      "meaning": "needs assessment",
+      "frequency": 0
+    },
+    {
+      "meaning": "pretest",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[인지도 테스트 체질] 이거 다 나눠드리고 가면 안 돼요? [Born to do recognition test] Can't I hand this out before I go? 듣기 View video 콬TV (WHYNOT) : 16살 걸그룹 멤버가 홍대에서 \"저 아세요?\"라고 물었다 #아이돌 #리얼리티ㅣ로켓펀치 [펀치",
+      "english": "[Born to do recognition test] Can't I hand this out before I go?"
+    },
+    {
+      "korean": "네? - 다른 심리테스트? What? - Other personality tests. 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.14 MBTI of SVT",
+      "english": "What? - Other personality tests."
+    },
+    {
+      "korean": "다른 심리테스트 없어요? Are there other personality tests? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.14 MBTI of SVT",
+      "english": "Are there other personality tests?"
+    },
+    {
+      "korean": "[예능 테스트였나요?] 예능 테스트예요? [Was it an entertainment test?] Was that a test? 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP17 #대나무숲을달리다 #취향저격 #태세전환갑",
+      "english": "[Was it an entertainment test?] Was that a test?"
+    },
+    {
+      "korean": "지금 바로 테스트하러 같이 가볼까요? Shall we go to test the product now? 듣기 View video SEOUL EONNI : [광채 커버 쿠션] 겨울철 촉촉 고정 데일리 메이크업 꿀조합 +쏘내추럴 4중고정 Natural Everyda",
+      "english": "Shall we go to test the product now?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The marathon is a severe test of stamina. 듣기 Add to Wordbook 마라톤은 아주 힘든 체력 테스트이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The marathon is a severe test of stamina. Add to Wordbook"
+    },
+    {
+      "korean": "The results of the tests substantiated his claims. 듣기 Add to Wordbook 그 테스트들의 결과가 그의 주장을 입증했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The results of the tests substantiated his claims. Add to Wordbook"
+    },
+    {
+      "korean": "Every product is exhaustively tested before being sold. 듣기 Add to Wordbook 모든 제품은 판매 전에 철저히 테스트를 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Every product is exhaustively tested before being sold. Add to Wordbook"
+    },
+    {
+      "korean": "After the gruelling test, he felt totally spent. 듣기 Add to Wordbook 그 호된 테스트를 받고 난 그는 완전히 힘이 다 빠지는 기분이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "After the gruelling test, he felt totally spent. Add to Wordbook"
+    },
+    {
+      "korean": "a positive pregnancy test 듣기 Add to Wordbook 양성 반응의 임신 테스트 결과 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a positive pregnancy test Add to Wordbook"
+    }
+  ]
+}

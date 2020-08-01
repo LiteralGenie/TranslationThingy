@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "포위",
+      "hanja": " (包圍)",
+      "example": {},
+      "meanings": [
+        "[명사] siege, [동사] besiege, surround, hem in, lay siege to"
+      ]
+    },
+    {
+      "phrase": "포위를 풀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "end[lift] a siege"
+      ]
+    },
+    {
+      "phrase": "포위를 터놓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "raise a siege"
+      ]
+    },
+    {
+      "phrase": "성을 포위하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "besiege[lay siege to] a castle"
+      ]
+    },
+    {
+      "phrase": "포위가 풀리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a siege is raised"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "siege",
+      "frequency": 1
+    },
+    {
+      "meaning": "besiegement",
+      "frequency": 0
+    },
+    {
+      "meaning": "envelopment",
+      "frequency": 0
+    },
+    {
+      "meaning": "encirclement",
+      "frequency": 0
+    },
+    {
+      "meaning": "encompassment",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "포위 저작이 있는? That has \"surrounded writing\"? 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.13 #DJ황치열",
+      "english": "That has \"surrounded writing\"?"
+    },
+    {
+      "korean": "풍선이 나를 포위했어. The balloon has besieged me. 듣기 View video NCT : 어린이💚어른이💚모여라",
+      "english": "The balloon has besieged me."
+    },
+    {
+      "korean": "일본군들이 포위를 하고 있고. Japanese soldiers have him surrounded. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "Japanese soldiers have him surrounded."
+    },
+    {
+      "korean": "[카메라에 포위된 갓 민간인들...] - 애들 언제 와? - 형. [Civilians surrounded by cameras...] - When are they coming? - Hyung. 듣기 View video 슈주 리턴즈 : 슈주 리턴즈 EP6- 슈퍼주니어 새 앨범 첫 회의",
+      "english": "[Civilians surrounded by cameras...] - When are they coming? - Hyung."
+    },
+    {
+      "korean": "이 장면은 말하자면 갇힌 건데, 포위된 건데... 납득을 못 하겠어요. But in this movie, he was trapped. I can't understand why. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "But in this movie, he was trapped. I can't understand why."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The town capitulated after a three-week siege. 발음듣기 그 소도시는 3주간의 포위 공격 후 항복했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The town capitulated after a three-week siege. 발음"
+    },
+    {
+      "korean": "The siege was finally lifted after six months. 발음듣기 그 포위는 6개월 후에 마침내 풀렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The siege was finally lifted after six months. 발음"
+    },
+    {
+      "korean": "an attempt to break the year-long siege 발음듣기 일 년간 계속되어 온 포위를 끝장내려는 시도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an attempt to break the year-long siege 발음"
+    },
+    {
+      "korean": "The town succumbed after a short siege. 발음듣기 그 소도시는 짧은 포위 공격 후에 무릎을 꿇었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The town succumbed after a short siege. 발음"
+    },
+    {
+      "korean": "They had withstood siege, hunger and deprivation. 발음듣기 그들은 포위 공격, 굶주림, 빈곤을 견뎌 냈었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had withstood siege, hunger and deprivation. 발음"
+    }
+  ]
+}

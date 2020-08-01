@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(장소) place, point, (특정 지점) spot, location, (터) site, (지역) area"
+      ]
+    },
+    {
+      "phrase": "높은 곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a high place",
+        "an elevated place",
+        "a height"
+      ]
+    },
+    {
+      "phrase": "먼 곳에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "far away[off]",
+        "a long way off",
+        "in the distance"
+      ]
+    },
+    {
+      "phrase": "얕은 곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a shoal",
+        "a shallow"
+      ]
+    },
+    {
+      "phrase": "깊은 곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a depth",
+        "a deep place"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "place",
+      "frequency": 3
+    },
+    {
+      "meaning": "city",
+      "frequency": 3
+    },
+    {
+      "meaning": "spot",
+      "frequency": 3
+    },
+    {
+      "meaning": "atmosphere",
+      "frequency": 3
+    },
+    {
+      "meaning": "locality",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제주도에서 제일 기억에 남는 곳이요? The most memorable place in Jeju? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "The most memorable place in Jeju?"
+    },
+    {
+      "korean": "최근 간 곳 중에 제일 맛있었던 맛집은? What's the most delicious place you've been to recently? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "What's the most delicious place you've been to recently?"
+    },
+    {
+      "korean": "가보고 싶었던 곳도 더 많이 헤엄쳐서 가볼걸... I should have swam more to the places I wanted to go to. 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "I should have swam more to the places I wanted to go to."
+    },
+    {
+      "korean": "[스파이는 가까운 곳에 있다!] [The spy is among us!] View video ITZY : ITZY(있지) IT'z TOURBOOK EP07",
+      "english": "[The spy is among us!]"
+    },
+    {
+      "korean": "이런 곳에도 있다는 거야? Can it be hidden somewhere like this? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "Can it be hidden somewhere like this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "New York is where the action is. 듣기 Add to Wordbook 그 액션이 벌어지는 곳은 뉴욕이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "New York is where the action is. Add to Wordbook"
+    },
+    {
+      "korean": "a house idyllically set in wooded grounds 듣기 Add to Wordbook 숲이 우거진 목가적인 곳에 자리한 집 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a house idyllically set in wooded grounds Add to Wordbook"
+    },
+    {
+      "korean": "the waifs and strays of our society 듣기 Add to Wordbook 우리 사회의 먹을 것 없고 지낼 곳 없는 사람들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the waifs and strays of our society Add to Wordbook"
+    },
+    {
+      "korean": "whales that feed deep beneath the waves 듣기 Add to Wordbook 바다 깊은 곳에서 먹이를 먹고 사는 고래들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "whales that feed deep beneath the waves Add to Wordbook"
+    },
+    {
+      "korean": "helping the poor and sheltering the homeless 듣기 Add to Wordbook 가난한 사람들을 돕고 노숙자들에게 쉴 곳을 제공하는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "helping the poor and sheltering the homeless Add to Wordbook"
+    }
+  ]
+}

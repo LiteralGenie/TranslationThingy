@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "현",
+      "hanja": " (現)",
+      "example": {},
+      "meanings": [
+        "(현재의) current, present, existing (※명사 앞에서만 쓰임)"
+      ]
+    },
+    {
+      "phrase": "현",
+      "hanja": " (絃)",
+      "example": {},
+      "meanings": [
+        "(현악기의 줄) string"
+      ]
+    },
+    {
+      "phrase": "현-",
+      "hanja": " (現-)",
+      "example": {},
+      "meanings": [
+        "present, existing, actual."
+      ]
+    },
+    {
+      "phrase": "현주소",
+      "hanja": " (現住所)",
+      "example": {},
+      "meanings": [
+        "(현재 사는 곳의 주소) one's current address",
+        "(현재 상태) present[current] situation, present[current] state"
+      ]
+    },
+    {
+      "phrase": "현 대통령",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the President in office"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "string",
+      "frequency": 3
+    },
+    {
+      "meaning": "present",
+      "frequency": 3
+    },
+    {
+      "meaning": "quarter",
+      "frequency": 3
+    },
+    {
+      "meaning": "chord 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "chord",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "전 남친? 현 남친을 앞에 두고? Ex boyfriend? In front of her current boyfriend? 듣기 View video 플레이리스트 (Playlist) : 남자가 직진하는 이유 [나의 이름에게] - EP.04",
+      "english": "Ex boyfriend? In front of her current boyfriend?"
+    },
+    {
+      "korean": "[현 작가님] [오늘 같은 날 현캠이 빠질 수 없지!] [Director HYUN] [HYUN cam is a must!] View video Stray Kids : 3팀3색 스트레이 키즈가 런던 거리에 뜬 이유는?｜Stray Kids: 제9구역 시즌5 EP.01",
+      "english": "[Director HYUN] [HYUN cam is a must!]"
+    },
+    {
+      "korean": "[현 스티커 0개] 나 묵찌빠 진짜 잘하는데? [Current score: 0 sticker] I'm so good at this. 듣기 View video NCT LIFE / 심포유 - my SMTelevision : [NCT LIFE] Ep.03 Last mission’s result revealed!",
+      "english": "[Current score: 0 sticker] I'm so good at this."
+    },
+    {
+      "korean": "매년 현시대의 과학기술들을 뽐내는 그런 어떤... there was an event to show latest technologies. 듣기 View video WINNER : 강승윤 생일 브이라이브 🎉YOONSBIRTHDAY🙏🏼❤️",
+      "english": "there was an event to show latest technologies."
+    },
+    {
+      "korean": "[언민 형제 : 현 포스텍 명예학생] 이곳이 그곳인가? [Zion. T & MINO: Honorary POSTECH students] Is this it? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 10. 포스텍 야잠입고 카이스트 습격! “구토스”, 외대와 타령랩, 오묘한 조합!? “도비\"",
+      "english": "[Zion. T & MINO: Honorary POSTECH students] Is this it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He muted the strings with his palm. 듣기 Add to Wordbook 그가 손바닥을 대어 현의 소리를 줄였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He muted the strings with his palm. Add to Wordbook"
+    },
+    {
+      "korean": "The present duke inherited the title from his father. 듣기 Add to Wordbook 현 공작은 아버지로부터 그 작위를 물려받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The present duke inherited the title from his father. Add to Wordbook"
+    },
+    {
+      "korean": "There is widespread disillusionment with the present government. 듣기 Add to Wordbook 현 정부에 대한 환멸감이 팽배해 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is widespread disillusionment with the present government. Add to Wordbook"
+    },
+    {
+      "korean": "Few businesses are flourishing in the present economic climate. 듣기 Add to Wordbook 현 경제 상황에서는 번창하는 사업체가 별로 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Few businesses are flourishing in the present economic climate. Add to Wordbook"
+    },
+    {
+      "korean": "the present owner of the house 듣기 Add to Wordbook 그 집의 현 주인 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the present owner of the house Add to Wordbook"
+    }
+  ]
+}

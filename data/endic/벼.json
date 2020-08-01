@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "벼",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rice"
+      ]
+    },
+    {
+      "phrase": "벼 이삭은 익을수록 고개를 숙인다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Rice plants tend to bow their heads as they grow ripe, The boughs that bear most hang lowest"
+      ]
+    },
+    {
+      "phrase": "벼 이삭",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an ear of rice"
+      ]
+    },
+    {
+      "phrase": "벼[보리]이삭",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an ear of rice[barley]"
+      ]
+    },
+    {
+      "phrase": "벼를 베다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reap[harvest] rice"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rice",
+      "frequency": 2
+    },
+    {
+      "meaning": "rough rice",
+      "frequency": 0
+    },
+    {
+      "meaning": "unhulled rice",
+      "frequency": 0
+    },
+    {
+      "meaning": "padi",
+      "frequency": 0
+    },
+    {
+      "meaning": "rice in the husk",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "벼... 별론가요? Is it weird? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.1",
+      "english": "Is it weird?"
+    },
+    {
+      "korean": "벼는... - 익을수록... The more... - The more rice grows. 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "The more... - The more rice grows."
+    },
+    {
+      "korean": "벼 같아 벼 - 근데 제가 팬분들한테 그... It seems like rice. - But to the fans, that... 듣기 View video ITZY : 믿지 오늘도 고마워유~ 💙",
+      "english": "It seems like rice. - But to the fans, that..."
+    },
+    {
+      "korean": "이거 벼 아닌가? Is this not rice? 듣기 View video Dispatch : [ⓓxV] “천재만재 프로 아이돌 짼” HD MAKING SKETCH (김재환:KIM JAE HWAN)",
+      "english": "Is this not rice?"
+    },
+    {
+      "korean": "벼는 고개를 숙인다. She's putting her head down. 듣기 View video GFRIEND : 안자는버디?",
+      "english": "She's putting her head down."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to plant and harvest rice 발음듣기 벼를 심고 수확하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to plant and harvest rice 발음"
+    },
+    {
+      "korean": "The boughs that bear most hang lowest. 발음듣기 열매 많은 가지는 밑으로 쳐져 있다.(벼는 익을수록 고개를 숙인다.) (서양속담, 겸손속담) 명언/속담",
+      "english": "The boughs that bear most hang lowest. 발음"
+    },
+    {
+      "korean": "properly dried rice in DSC 발음듣기 건조 저장시설에 저장된 적절히 건조된 벼 국제영어대학원대학교 신어사전",
+      "english": "properly dried rice in DSC 발음"
+    },
+    {
+      "korean": "The farmer loaded palay into the truck. 발음듣기 농부가 껍질을 벗기지 않은 벼를 트럭에 실었다. 국제영어대학원대학교 신어사전",
+      "english": "The farmer loaded palay into the truck. 발음"
+    },
+    {
+      "korean": "The eagle does not catch flies. 발음듣기 독수리는 파리를 잡지 않는다.(매가 굶는다고 벼이삭을 쪼으랴.) (서양속담, 자신감속담) 명언/속담",
+      "english": "The eagle does not catch flies. 발음"
+    }
+  ]
+}

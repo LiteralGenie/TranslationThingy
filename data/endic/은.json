@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "은",
+      "hanja": " (銀)",
+      "example": {},
+      "meanings": [
+        "silver (기호 Ag)"
+      ]
+    },
+    {
+      "phrase": "은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition n (→는, ㄴ2)",
+        "Postposition n (→는, ㄴ2)",
+        "Postposition n (→는, ㄴ2)"
+      ]
+    },
+    {
+      "phrase": "금[은] 본위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the gold[silver] standard"
+      ]
+    },
+    {
+      "phrase": "-은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(형용사 어간에서) ...that[which, who] is",
+        "(동사 어간에서) ...that[which, who] ((one)) did[has done]"
+      ]
+    },
+    {
+      "phrase": "은(증)",
+      "hanja": " (銀(症))",
+      "example": {},
+      "meanings": [
+        "의학 argyria"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bullion",
+      "frequency": 0
+    },
+    {
+      "meaning": "argentine",
+      "frequency": 0
+    },
+    {
+      "meaning": "Luna",
+      "frequency": 0
+    },
+    {
+      "meaning": "argentum",
+      "frequency": 0
+    },
+    {
+      "meaning": "argyr-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"오늘은은 쓰지 말라고\" - 근데 그거 알아요?",
+      "english": "\"Don't start your diary with today\". - Do you know what?"
+    },
+    {
+      "korean": "[은 거절한다] 별이 언니...",
+      "english": "[We decline] Moon Byul."
+    },
+    {
+      "korean": "[대기실 밖 믿지들은?]",
+      "english": "[MIDZY outside the waiting room?]"
+    },
+    {
+      "korean": "금 나와라 뚝딱! 은 나와라 뚝딱!",
+      "english": "Get me some gold! Get me some silver!"
+    },
+    {
+      "korean": "성인이 되면 뭘 제일 먼저 하고 싶어요? 코닉이들은?",
+      "english": "What's the first thing you want to do when you turn 20?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "tin 은 t 로 시작된다.",
+      "english": "‘Tin’ begins with (a) T / ‘T’."
+    },
+    {
+      "korean": "lion 은 l 로 시작된다.",
+      "english": "‘Lion’ begins with (an) L / ‘L’."
+    },
+    {
+      "korean": "apple 은 a 로 시작된다.",
+      "english": "‘Apple’ begins with (an) A / ‘A’."
+    },
+    {
+      "korean": "hat 은 h 로 시작된다.",
+      "english": "‘Hat’ begins with (an) H / ‘H’."
+    },
+    {
+      "korean": "dog 은 d 로 시작된다.",
+      "english": "‘Dog’ begins with (a) D / ‘D’."
+    }
+  ]
+}

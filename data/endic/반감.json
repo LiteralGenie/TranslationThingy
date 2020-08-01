@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "반감",
+      "hanja": " (反感)",
+      "example": {},
+      "meanings": [
+        "hostility (to/toward), antagonism (toward/to), animosity (toward/against), (formal) antipathy (for/to/toward), ill feeling, bad feeling"
+      ]
+    },
+    {
+      "phrase": "반감을 사다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rouse antipathy",
+        "antagonize"
+      ]
+    },
+    {
+      "phrase": "반감을 품다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "harbor[nurse] ill feeling against"
+      ]
+    },
+    {
+      "phrase": "흥미가 반감되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose half one´s interest in"
+      ]
+    },
+    {
+      "phrase": "비용을 반감하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cut the expense by half",
+        "halve the expense"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dislike",
+      "frequency": 3
+    },
+    {
+      "meaning": "disapproval",
+      "frequency": 3
+    },
+    {
+      "meaning": "antipathy",
+      "frequency": 0
+    },
+    {
+      "meaning": "disapprobation",
+      "frequency": 0
+    },
+    {
+      "meaning": "animus",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[정말 아쉽게도 춤에서 매력을 뽐내지 못한..] 여기서 반감이 되는데? [Unfortunately, he failed to show off his charms in dancing...] This is working against you. 듣기 View video BTS : Run BTS! 2019 - EP.63",
+      "english": "[Unfortunately, he failed to show off his charms in dancing...] This is working against you."
+    },
+    {
+      "korean": "반감이 많았어요. people hated him. 듣기 View video 10PM : 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "people hated him."
+    },
+    {
+      "korean": "달기만한 느낌을 조금 반감시켜 준다고 생각해서요. it's less sweeter than chocolate flavor. 듣기 View video C-JeS : 샤엘의 뮤지컬 <데스노트> 출근길~",
+      "english": "it's less sweeter than chocolate flavor."
+    },
+    {
+      "korean": "좋게 들렸는데, 이상하게 좀 약간 반감이 생겨요. I liked what he said but at the same time, I felt hostility. 듣기 View video 10PM : 양재진, 딘딘의 비정상담소 unusual counseling center",
+      "english": "I liked what he said but at the same time, I felt hostility."
+    },
+    {
+      "korean": "뉴썬이 반감을 가지지 않고 저에게 모두 맡기기로 했어요. NEW SUN won't have any hostility. And she'll let me use all of her face. 듣기 View video SONAMOO : 꽃보다소나무 (민재랑 놀자 - 올라프의 할.메)",
+      "english": "NEW SUN won't have any hostility. And she'll let me use all of her face."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He felt no animosity towards his critics. 듣기 Add to Wordbook 그는 자기를 비판하는 사람들에 대해 아무런 반감이 들지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He felt no animosity towards his critics. Add to Wordbook"
+    },
+    {
+      "korean": "a hearty dislike of sth 듣기 Add to Wordbook …에 대한 강한 반감 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a hearty dislike of sth Add to Wordbook"
+    },
+    {
+      "korean": "disapproval of his methods 듣기 Add to Wordbook 그의 방법에 대한 반감 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "disapproval of his methods Add to Wordbook"
+    },
+    {
+      "korean": "Vague objections to the system solidified into firm opposition. 듣기 Add to Wordbook 그 제도에 대한 희미한 반감이 확실한 반대로 굳어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Vague objections to the system solidified into firm opposition. Add to Wordbook"
+    },
+    {
+      "korean": "public hostility to nuclear power 듣기 Add to Wordbook 원자력에 대한 일반 대중의 강한 반감 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "public hostility to nuclear power Add to Wordbook"
+    }
+  ]
+}

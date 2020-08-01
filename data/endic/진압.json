@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "진압",
+      "hanja": " (鎭壓)",
+      "example": {},
+      "meanings": [
+        "(시위·폭동 등을) repress, suppression, repression, subjugation, suppress, subdue, subjugate, (formal) quell, put down",
+        "(화재를) extinguish, put out"
+      ]
+    },
+    {
+      "phrase": "유혈 진압",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bloody suppression"
+      ]
+    },
+    {
+      "phrase": "화재를 진압하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "extinguish[put out] a fire"
+      ]
+    },
+    {
+      "phrase": "시위를 진압하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suppress[put down] a demonstration[protest]"
+      ]
+    },
+    {
+      "phrase": "폭동을 무력으로 진압하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put down a riot by force"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "suppression",
+      "frequency": 1
+    },
+    {
+      "meaning": "repression",
+      "frequency": 0
+    },
+    {
+      "meaning": "firming",
+      "frequency": 0
+    },
+    {
+      "meaning": "compacting of soil",
+      "frequency": 0
+    },
+    {
+      "meaning": "compacting",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[진압 실패] 일단 이거 고기 못 먹어! 다 탔어. [Failed] We can't eat this. It's all burnt. 듣기 View video MONSTA X : [MONSTA X] 몬스타엑스 - 출.없.방 #02",
+      "english": "[Failed] We can't eat this. It's all burnt."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The army was sent in to crush the rebellion. 발음듣기 반란을 진압하기 위해 군대가 투입되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The army was sent in to crush the rebellion. 발음"
+    },
+    {
+      "korean": "Troops were called in to subdue the rebels. 발음듣기 반란자들을 진압하기 위해 군대가 투입되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Troops were called in to subdue the rebels. 발음"
+    },
+    {
+      "korean": "Government forces have failed to contain the rebellion. 발음듣기 정부군이 반란을 진압하지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Government forces have failed to contain the rebellion. 발음"
+    },
+    {
+      "korean": "the ricochet of bricks and bottles off police riot shields 발음듣기 경찰의 진압 방패에 맞아 튀어 나오는 벽돌과 병들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ricochet of bricks and bottles off police riot shields 발음"
+    },
+    {
+      "korean": "Extra police were called in to quell the disturbances. 발음듣기 그 소요를 진압하기 위해 경찰이 추가로 투입되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Extra police were called in to quell the disturbances. 발음"
+    }
+  ]
+}

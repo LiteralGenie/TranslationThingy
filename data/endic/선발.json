@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "선발",
+      "hanja": " (選拔)",
+      "example": {},
+      "meanings": [
+        "selection, select, pick out, single out, (Am) draft"
+      ]
+    },
+    {
+      "phrase": "선발",
+      "hanja": " (先發)",
+      "example": {},
+      "meanings": [
+        "(선발 투수) starting pitcher",
+        "(남보다 먼저 시작함)"
+      ]
+    },
+    {
+      "phrase": "선발된",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "selected",
+        "chosen",
+        "picked"
+      ]
+    },
+    {
+      "phrase": "선발 대회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "contest"
+      ]
+    },
+    {
+      "phrase": "선발 투수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the starting pitcher"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "selection",
+      "frequency": 2
+    },
+    {
+      "meaning": "picking",
+      "frequency": 1
+    },
+    {
+      "meaning": "drafting",
+      "frequency": 0
+    },
+    {
+      "meaning": "staff selection",
+      "frequency": 0
+    },
+    {
+      "meaning": "select",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "참여할 3명의 선수를 선발하세요! who will participate in the 1R! 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "who will participate in the 1R!"
+    },
+    {
+      "korean": "[투모로우바이투게더 팔씨름 장사 선발대표의 결과는?] 만족! [Result of TXT's arm wrestling tournament?] Satisfied! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[Result of TXT's arm wrestling tournament?] Satisfied!"
+    },
+    {
+      "korean": "글로벌 아이돌 선발 프로그램? Global idol audition program? 듣기 View video World Klass (월드 클래스) : [8회/Full] ♬ 좋아(JOAH) + ♬ Done For Me + ♬ 에너제틱(Energetic) - 예비 TOO @ 뮤직드라마 시사회",
+      "english": "Global idol audition program?"
+    },
+    {
+      "korean": "[과연 'ㅁㅊㄷㅁㅊㅇ'의 최종 선발 인원은?] [Final contestant that will be chosen for \"Crazy & Crazy\"?] View video ONEUS : [Full] ONEUS SPECIAL LIVE \"FLY WITH US\" 1부",
+      "english": "[Final contestant that will be chosen for \"Crazy & Crazy\"?]"
+    },
+    {
+      "korean": "두 명을 선발할게! I'll pick the best two trainees. 듣기 View video YG 보석함 (YG TREASURE BOX) : YG보석함ㅣ3회 예고 첫 번째 Treasure 선발!! 이미담이 사라진 Treasure A의 운명은??",
+      "english": "I'll pick the best two trainees."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He got the nod from the team manager. 발음듣기 그는 그 팀의 감독에게 선발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He got the nod from the team manager. 발음"
+    },
+    {
+      "korean": "He was singled out as the outstanding performer of the games. 발음듣기 그는 그 경기의 우수 선수로 선발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was singled out as the outstanding performer of the games. 발음"
+    },
+    {
+      "korean": "He hasn’t been selected for the team. 발음듣기 그는 그 팀에 선발되지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hasn’t been selected for the team. 발음"
+    },
+    {
+      "korean": "She was chosen for the first eleven. 발음듣기 그녀는 첫 11명에 선발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was chosen for the first eleven. 발음"
+    },
+    {
+      "korean": "She was lucky enough to be chosen for the team. 발음듣기 그녀는 아주 운 좋게도 그 팀에 선발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was lucky enough to be chosen for the team. 발음"
+    }
+  ]
+}

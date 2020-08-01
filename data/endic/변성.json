@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "변성",
+      "hanja": " (變聲)",
+      "example": {},
+      "meanings": [
+        "the change of voice, 변성하다 ((one's voice)) change[break, crack]"
+      ]
+    },
+    {
+      "phrase": "변성",
+      "hanja": " (變性)",
+      "example": {},
+      "meanings": [
+        "denaturalization, degeneration, 변성하다 degenerate, denaturalize, denature"
+      ]
+    },
+    {
+      "phrase": "변성",
+      "hanja": " (變姓)",
+      "example": {},
+      "meanings": [
+        "changing one's surname, 변성하다 change one's surname[family name]"
+      ]
+    },
+    {
+      "phrase": "변성",
+      "hanja": " (變成)",
+      "example": {},
+      "meanings": [
+        "rebirth, regeneration, metamorphosis, 변성하다 regenerate, metamorphose"
+      ]
+    },
+    {
+      "phrase": "변성(증)",
+      "hanja": " (變性(症))",
+      "example": {},
+      "meanings": [
+        "의학 degeneracy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "transmutation",
+      "frequency": 0
+    },
+    {
+      "meaning": "denaturation",
+      "frequency": 0
+    },
+    {
+      "meaning": "metamorphism",
+      "frequency": 0
+    },
+    {
+      "meaning": "change of voice",
+      "frequency": 0
+    },
+    {
+      "meaning": "denaturalization",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "노래도 가끔씩 하고있는데 노래는 변성... I sometimes sing, but swollen vocal... 듣기 View video Mnet : [PRODUCE X 101] EYE CONTACT CHALLENGE l KIM DONG BIN(MLD)",
+      "english": "I sometimes sing, but swollen vocal..."
+    },
+    {
+      "korean": "목소리 변성까지 해주세요. - 우정분들 방금 - 시리 버전 어때요? Please change your voice. - Ujung just... - How about a Siri version? 듣기 View video 우주소녀(WJSN) : [우주소녀] 처음부터 천일까지 함께해줘서 고마워♥",
+      "english": "Please change your voice. - Ujung just... - How about a Siri version?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Chaotropic salt denatures proteins. 듣기 Add to Wordbook 수소 결합을 억제하는 (고농도의) 소금은 단백질 변성을 일으킨다. 국제영어대학원대학교 신어사전",
+      "english": "Chaotropic salt denatures proteins. Add to Wordbook"
+    },
+    {
+      "korean": "A boy's voice changes and becomes deeper at puberty. 듣기 Add to Wordbook 소년은 사춘기가 되면 변성하여 목소리가 굵어진다 Dong-a's Prime English-Korean Dictionary",
+      "english": "A boy's voice changes and becomes deeper at puberty. Add to Wordbook"
+    },
+    {
+      "korean": "Researchers state that a similar strategy could someday be used to treat age-related macular degeneration (AMD), which is responsible for vision loss in more than 14 million older adults worldwide each year. 듣기 Add to Wordbook 과학자들은 이와 유사한 치료법이 매년 세계적으로 1,400만 명의 노인들의 시력 감퇴의 주범인 노인황반변성(AMD)을 치료하는데 사용될 수 있게 될 것이라고 밝혔다. Neungyule",
+      "english": "Researchers state that a similar strategy could someday be used to treat age-related macular degeneration (AMD), which is responsible for vision loss in more than 14 million older adults worldwide each year. Add to Wordbook"
+    },
+    {
+      "korean": "Although there are currently no gene therapy trials under way to treat macular degeneration, scientists say that studies show that using a virus to repair defective genes involved in the disease is safe. 듣기 Add to Wordbook 현재 황반변성의 치료를 위한 유전자 요법 임상 실험은 진행되고 있지 않지만, 과학자들은 이 연구가, 결함이 있는 유전자를 회복하는데 바이러스를 사용하는 것은 안전하다는 사실을 입증하는 것이라고 말한다. Neungyule",
+      "english": "Although there are currently no gene therapy trials under way to treat macular degeneration, scientists say that studies show that using a virus to repair defective genes involved in the disease is safe. Add to Wordbook"
+    },
+    {
+      "korean": "the change of voice 듣기 Add to Wordbook (사춘기의) 변성(變聲). Friendict Level English-Korean Dictionary",
+      "english": "the change of voice Add to Wordbook"
+    }
+  ]
+}

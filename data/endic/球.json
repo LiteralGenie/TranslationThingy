@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "구",
+      "hanja": " (球)",
+      "example": {},
+      "meanings": [
+        "(야구의 투구) pitch"
+      ]
+    },
+    {
+      "phrase": "B림프구",
+      "hanja": " (B-球)",
+      "example": {},
+      "meanings": [
+        "의학 B lymphocytes"
+      ]
+    },
+    {
+      "phrase": "T림프구",
+      "hanja": " (T球)",
+      "example": {},
+      "meanings": [
+        "의학 T lymphocytes"
+      ]
+    },
+    {
+      "phrase": "히스테리구",
+      "hanja": " (-球)",
+      "example": {},
+      "meanings": [
+        "의학 globus hystericus"
+      ]
+    },
+    {
+      "phrase": "림프구페레시스",
+      "hanja": " (-球-)",
+      "example": {},
+      "meanings": [
+        "의학 lymphocytapheresis"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sphere",
+      "frequency": 3
+    },
+    {
+      "meaning": "ball 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "-sphere",
+      "frequency": 0
+    },
+    {
+      "meaning": "myelocyte",
+      "frequency": 0
+    },
+    {
+      "meaning": "spheral",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "(英) 3개의 금빛 구(球)((전당포의 간판)).",
+      "english": "three (golden) balls"
+    },
+    {
+      "korean": "구(球)에 그린 세계지도(지구의<地球儀>).",
+      "english": "a map of the world drawn on a sphere"
+    },
+    {
+      "korean": "곡선[구(球)] 좌표.",
+      "english": "curvilinear[spherical] coordinates"
+    },
+    {
+      "korean": "구(球) 갭.",
+      "english": "a sphere gap"
+    },
+    {
+      "korean": "구(球) 주위 난류유동의 정량적 가시화",
+      "english": "Flow Visualization of Turbulent Flow around a Sphere"
+    }
+  ]
+}

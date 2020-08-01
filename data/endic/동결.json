@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "동결",
+      "hanja": " (凍結)",
+      "example": {},
+      "meanings": [
+        "[명사, 동사] freeze"
+      ]
+    },
+    {
+      "phrase": "가격을 동결하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "freeze prices"
+      ]
+    },
+    {
+      "phrase": "동결 자산",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "frozen assets"
+      ]
+    },
+    {
+      "phrase": "자산의 동결",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "freezing of assets"
+      ]
+    },
+    {
+      "phrase": "임금 동결 정책",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a wage-freeze policy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "freeze",
+      "frequency": 3
+    },
+    {
+      "meaning": "congelation",
+      "frequency": 0
+    },
+    {
+      "meaning": "gelation 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "congealment",
+      "frequency": 0
+    },
+    {
+      "meaning": "ice-up",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The company’s assets have been frozen. 듣기 Add to Wordbook 그 회사의 자산은 동결되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company’s assets have been frozen. Add to Wordbook"
+    },
+    {
+      "korean": "The staff have agreed to a voluntary wage freeze. 듣기 Add to Wordbook 직원들이 자발적인 임금 동결에 동의했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The staff have agreed to a voluntary wage freeze. Add to Wordbook"
+    },
+    {
+      "korean": "The party plans to unfreeze some of the cash held by local government. 듣기 Add to Wordbook 그 정당은 지방 정부가 억류하고 있는 현금 일부에 대한 동결 조치를 풀 계획이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party plans to unfreeze some of the cash held by local government. Add to Wordbook"
+    },
+    {
+      "korean": "a freeze on imports 듣기 Add to Wordbook 수입 동결 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a freeze on imports Add to Wordbook"
+    },
+    {
+      "korean": "Salaries have been frozen for the current year. 듣기 Add to Wordbook 금년도에는 봉급이 동결되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Salaries have been frozen for the current year. Add to Wordbook"
+    }
+  ]
+}

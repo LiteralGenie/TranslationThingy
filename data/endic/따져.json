@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "따지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(캐묻다) nitpick, quibble over[about]",
+        "(계산하다) calculate",
+        "(잘잘못을 가리다) determine, figure out"
+      ]
+    },
+    {
+      "phrase": "조목조목 따져 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "examine[check, figure out] sth one by one"
+      ]
+    },
+    {
+      "phrase": "득과 실을 따져 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "consider the gains and the losses"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cross-question",
+      "frequency": 0
+    },
+    {
+      "meaning": "reason with somebody",
+      "frequency": 0
+    },
+    {
+      "meaning": "weigh",
+      "frequency": 3
+    },
+    {
+      "meaning": "by any measure",
+      "frequency": 0
+    },
+    {
+      "meaning": "play the percentages",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "엄마한테 따져 그러면! Go ask my mom! 듣기 View video 콬TV (WHYNOT) : 저희 오늘부터 1일이에요❤️[리얼:타임:러브] EP2 New Love",
+      "english": "Go ask my mom!"
+    },
+    {
+      "korean": "갑자기 누구한테 따져? Whom are you confronting? 듣기 View video V COOKIE : [Full]SEVENTEEN X LieV - 세븐틴의 눕방라이브!",
+      "english": "Whom are you confronting?"
+    },
+    {
+      "korean": "한정우가 한참 데뷔 선배예요 그런 걸 왜 따져요? Jungwoo is very high senior. Why are you complaining? 듣기 View video 콬TV (WHYNOT) : 처음 본 사람이랑 같은 방을 쓴다면? [7일만 로맨스] EP02",
+      "english": "Jungwoo is very high senior. Why are you complaining?"
+    },
+    {
+      "korean": "그러니까 몇 분? - 몇 분? - 저희는 정확히 분으로 따져요 - 1시간 반? How long? - How many minutes? - Based on minutes. - 1 hour and a half? 듣기 View video OSEN : MONSTA X 몬스타엑스 'Star Road' EP.01",
+      "english": "How long? - How many minutes? - Based on minutes. - 1 hour and a half?"
+    },
+    {
+      "korean": "왜 따져요? Why are you arguing? 듣기 View video SF9 : 심야식당",
+      "english": "Why are you arguing?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We weighed up the pros and cons. 듣기 Add to Wordbook 우리는 장단점을 따져 보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We weighed up the pros and cons. Add to Wordbook"
+    },
+    {
+      "korean": "You must weigh up the pros and cons. 듣기 Add to Wordbook 장단점을 잘 따져 보아야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You must weigh up the pros and cons. Add to Wordbook"
+    },
+    {
+      "korean": "She weighed up all the evidence. 듣기 Add to Wordbook 그녀는 모든 증거들을 다 따져 보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She weighed up all the evidence. Add to Wordbook"
+    },
+    {
+      "korean": "It was my decision. The buck stops here. 듣기 Add to Wordbook 그건 내 결정이었어. 그러니 책임은 그만 따져. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was my decision. The buck stops here. Add to Wordbook"
+    },
+    {
+      "korean": "It was a rip-off, plain and simple. 듣기 Add to Wordbook 그것은 가짜였다. 따져 볼 것도 없이 분명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was a rip-off, plain and simple. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "응",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(대답할 때) yes, (informal) yeah, uh huh, (부정문에서) no",
+        "(대답을 촉구할 때) eh, (informal) huh"
+      ]
+    },
+    {
+      "phrase": "응 하고 대답하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say yes",
+        "give one´s consent"
+      ]
+    },
+    {
+      "phrase": "응(혈)괴",
+      "hanja": " (凝(血)塊)",
+      "example": {},
+      "meanings": [
+        "의학 coagulum"
+      ]
+    },
+    {
+      "phrase": "응. 무엇을 도와줄까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-도움과 조언 Sure. What can I do for you?"
+      ]
+    },
+    {
+      "phrase": "응, 난 독서가 더 좋아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-영화 · 연극 No, I prefer reading."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "yes",
+      "frequency": 3
+    },
+    {
+      "meaning": "eh",
+      "frequency": 3
+    },
+    {
+      "meaning": "well",
+      "frequency": 3
+    },
+    {
+      "meaning": "OK",
+      "frequency": 3
+    },
+    {
+      "meaning": "yeah",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "약간... 우아한... 응?",
+      "english": "A bit... graceful... huh?"
+    },
+    {
+      "korean": "언니들? - 응? - 이 사진?",
+      "english": "Hey, this photo? - What?"
+    },
+    {
+      "korean": "그랬어? - 응! - 그래 그래?",
+      "english": "Really? - Yes. - Really? Really?"
+    },
+    {
+      "korean": "자뻑을 해도 모자랄 판에 응?",
+      "english": "That's the least you should do!"
+    },
+    {
+      "korean": "끝부분이 조금 낡아있더라고 - 응?",
+      "english": "The edges were worn out. - What?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "또 다른 새 드레스라구, 응!",
+      "english": "Another new dress, eh!"
+    },
+    {
+      "korean": "그냥 입 좀 닥쳐, 응!",
+      "english": "Just belt up, will you!"
+    },
+    {
+      "korean": "제발 그만 지껄여, 응!",
+      "english": "Just forget it, will you!"
+    },
+    {
+      "korean": "내 새 자전거 좋지, 응?",
+      "english": "My new bike’s nice, hey?"
+    },
+    {
+      "korean": "그래 넌 어떻게 생각하니, 응?",
+      "english": "So what do you think, eh?"
+    }
+  ]
+}

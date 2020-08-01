@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "정밀도",
+      "hanja": " (精密度)",
+      "example": {},
+      "meanings": [
+        "degree of precision[accuracy]"
+      ]
+    },
+    {
+      "phrase": "정밀도를 측정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "determine the degree of precision[accuracy]"
+      ]
+    },
+    {
+      "phrase": "정밀도 요건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 precision requirement"
+      ]
+    },
+    {
+      "phrase": "촉각정밀도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 tactual acuity"
+      ]
+    },
+    {
+      "phrase": "최종정밀도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 ultimate precision"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "detailed drawing",
+      "frequency": 0
+    },
+    {
+      "meaning": "degree of precision",
+      "frequency": 0
+    },
+    {
+      "meaning": "Prec",
+      "frequency": 0
+    },
+    {
+      "meaning": "level of detail",
+      "frequency": 0
+    },
+    {
+      "meaning": "margin porcelain",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "We are proud of the high precision and low defectability of our products. 발음듣기 저희 제품의 높은 정밀도와 낮은 결함도를 자랑스럽게 생각합니다. 국제영어대학원대학교 신어사전",
+      "english": "We are proud of the high precision and low defectability of our products. 발음"
+    },
+    {
+      "korean": "Lets you select the level of detail for the game. Selecting a level greater than what your computer can support will slow down the game. 발음듣기 게임의 그래픽 정밀도를 선택할 수 있습니다. 컴퓨터가 지원할 수 있는 수준 이상을 선택하면 게임이 느려집니다. YBM All in All English-Korean Dictionary",
+      "english": "Lets you select the level of detail for the game. Selecting a level greater than what your computer can support will slow down the game. 발음"
+    },
+    {
+      "korean": "Lets you choose the level of detail for the game. You should selecting a level greater than what your computer can support will slow down the game. 발음듣기 게임의 그래픽 정밀도를 선택할 수 있습니다. 컴퓨터가 지원할 수 있는 수준 이상을 선택하면 게임이 느려집니다. YBM All in All English-Korean Dictionary",
+      "english": "Lets you choose the level of detail for the game. You should selecting a level greater than what your computer can support will slow down the game. 발음"
+    },
+    {
+      "korean": "In this material, we will cover some car-related to accuracy, precision, and sample size. 발음듣기 이 자료에서 우리는 정확성, 정밀도, 샘플 크기와 관련된 몇 가지 자동차와 관련된 개념을 다룰 것이다. YBM All in All English-Korean Dictionary",
+      "english": "In this material, we will cover some car-related to accuracy, precision, and sample size. 발음"
+    },
+    {
+      "korean": "In this material, we will cover some general concepts related to accuracy, precision, and sampling error. 발음듣기 이 자료에서 우리는 정확성, 정밀도, 표본 오차와 관련된 몇 가지 일반적인 개념을 다룰 것이다. YBM All in All English-Korean Dictionary",
+      "english": "In this material, we will cover some general concepts related to accuracy, precision, and sampling error. 발음"
+    }
+  ]
+}

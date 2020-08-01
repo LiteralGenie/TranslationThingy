@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "에이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[평점의] A."
+      ]
+    },
+    {
+      "phrase": "에이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection oh well",
+        "Interjection hmph, pff",
+        "Interjection tsk-tsk, tut-tut"
+      ]
+    },
+    {
+      "phrase": "a ( an )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Indefinite article <글 속에 처음 언급되는 단수형 명사 앞에 쓰임>",
+        "Indefinite article <‘형용사+불가산 명사’나 ‘불가산 명사+수식 어구’ 앞에 쓰임>",
+        "Indefinite article <단수 명사 앞에 쓰여 그 부류를 통칭함>"
+      ]
+    },
+    {
+      "phrase": "eh",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection 응[네], 뭐라고(요) (상대방에게 다시 말해 달라는 뜻으로 씀)",
+        "Interjection 응[네], 안 그래(요) (상대방의 동의나 대답을 구할 때 씀)",
+        "Interjection 응[네], 정말(놀람을 나타냄)"
+      ]
+    },
+    {
+      "phrase": "A",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 에이(영어 알파벳의 첫째 글자)",
+        "Noun 음악 ‘가’ 음(다장조의 제6음)",
+        "Symbol (영국의) A 도로, 국도"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "A",
+      "frequency": 0
+    },
+    {
+      "meaning": "hey",
+      "frequency": 3
+    },
+    {
+      "meaning": "aw",
+      "frequency": 0
+    },
+    {
+      "meaning": "Jeez",
+      "frequency": 0
+    },
+    {
+      "meaning": "crikey",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "설마 에이~ 아니죠? I thought... Ah... No right? 듣기 View video NCT : Jisung day💚💚",
+      "english": "I thought... Ah... No right?"
+    },
+    {
+      "korean": "울지 마세요 왜 그러세요 에이... Don't cry! Why are you... 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "Don't cry! Why are you..."
+    },
+    {
+      "korean": "'저 이제 고등학생 되는데 걱정돼요' 에이 뭐가 걱정이에요? \"I'm becoming a high school now and I'm worried.\" Why are you worried? 듣기 View video GOT7 : 쉼표방",
+      "english": "\"I'm becoming a high school now and I'm worried.\" Why are you worried?"
+    },
+    {
+      "korean": "에이~ - 에이~ - 에이~ A. - A. - A. 듣기 View video V PICK! : [ATEEZ] 팬클럽명은 G9야.. 이 지구가 다 귀요미그룹 A4 사랑하니ㄲr..🧡 (ATEEZ talking about their position in A4)",
+      "english": "A. - A. - A."
+    },
+    {
+      "korean": "에이~ 또 또! Come on! Again! 듣기 View video LEE JIN HYUK : 그냥 와봤어 브이단><",
+      "english": "Come on! Again!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Aw, come on, Andy! 듣기 Add to Wordbook 에이 어서 해, 앤디야! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Aw, come on, Andy! Add to Wordbook"
+    },
+    {
+      "korean": "Darn it! I’ve lost my keys! 듣기 Add to Wordbook 에이 참! 열쇠를 잃어버렸어! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Darn it! I’ve lost my keys! Add to Wordbook"
+    },
+    {
+      "korean": "Oh, please! You cannot be serious. 듣기 Add to Wordbook 에이, 설마! 너 진담으로 그러는 건 아니겠지. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Oh, please! You cannot be serious. Add to Wordbook"
+    },
+    {
+      "korean": "Oh, bugger the cost! Let’s get it anyway. 듣기 Add to Wordbook 에이, 값은 모르겠어! 어쨌든 그걸 사자. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Oh, bugger the cost! Let’s get it anyway. Add to Wordbook"
+    },
+    {
+      "korean": "Oh, let’s get two and hang the expense! 듣기 Add to Wordbook 에이, 두 개를 사자. 비용은 어떻게 되겠지, 뭐! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Oh, let’s get two and hang the expense! Add to Wordbook"
+    }
+  ]
+}

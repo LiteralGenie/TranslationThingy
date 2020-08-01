@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "손상",
+      "hanja": " (損傷)",
+      "example": {},
+      "meanings": [
+        "damage, be[get] damaged"
+      ]
+    },
+    {
+      "phrase": "손상되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get damaged",
+        "be injured",
+        "sustain an injury"
+      ]
+    },
+    {
+      "phrase": "체면을 손상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose face",
+        "disgrace oneself",
+        "hurt[impair] one´s honor"
+      ]
+    },
+    {
+      "phrase": "존엄을 손상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "impair the dignity"
+      ]
+    },
+    {
+      "phrase": "명예를 손상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bring[invite] disgrace on",
+        "injure[stain] honor"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "damage",
+      "frequency": 2
+    },
+    {
+      "meaning": "spoilage",
+      "frequency": 0
+    },
+    {
+      "meaning": "detriment",
+      "frequency": 0
+    },
+    {
+      "meaning": "mutilation",
+      "frequency": 0
+    },
+    {
+      "meaning": "scathe",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"그런 손상된 머리일까나..\" \"Does it mean that my hair is damaged?\" 듣기 View video SEOUL EONNI : 부시시한 곱슬 건조한 손상 머리 관리법은? 순한샴푸? (๑˃̵ᴗ˂̵๑) 머리에 꿀발랐어~honey",
+      "english": "\"Does it mean that my hair is damaged?\""
+    },
+    {
+      "korean": "손상되고 건조한 모발에 광채 엔젤링을 만들어줘요! It makes your damaged and dry hair shines. 듣기 View video SEOUL EONNI : 부시시한 곱슬 건조한 손상 머리 관리법은? 순한샴푸? (๑˃̵ᴗ˂̵๑) 머리에 꿀발랐어~honey",
+      "english": "It makes your damaged and dry hair shines."
+    },
+    {
+      "korean": "\"가늘고 부시시한 곱슬 건조한 손상 머리 관리법은?\" \"What's the hair care tips for thin, dry, damaged and curly hair?\" 듣기 View video SEOUL EONNI : 부시시한 곱슬 건조한 손상 머리 관리법은? 순한샴푸? (๑˃̵ᴗ˂̵๑) 머리에 꿀발랐어~honey",
+      "english": "\"What's the hair care tips for thin, dry, damaged and curly hair?\""
+    },
+    {
+      "korean": "많이 마시면 치아가 손상이 된다는 - 손상! that coke damages my teeth. - Damage! 듣기 View video IDOL RADIO : 'IDOL RADIO' ep #99. 우정소녀 (w. 우주소녀)",
+      "english": "that coke damages my teeth. - Damage!"
+    },
+    {
+      "korean": "녹이 슬 경우 피부에 손상을 줄 수가 있어요. which can also irritate the skin. 듣기 View video Wishtrend TV : Hair Removal 101 | Make Your Own DIY Shaving Cream & Shaving Foam",
+      "english": "which can also irritate the skin."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Racism has been a scar on the game. 발음듣기 인종차별주의가 그 경기의 이미지를 손상시켜 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Racism has been a scar on the game. 발음"
+    },
+    {
+      "korean": "Sugar is the destroyer of healthy teeth. 발음듣기 설탕은 건강한 치아를 손상시키는 주범이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sugar is the destroyer of healthy teeth. 발음"
+    },
+    {
+      "korean": "to cause irreparable damage/harm to your health 발음듣기 건강에 회복할 수 없는 손상/해를 입히다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cause irreparable damage/harm to your health 발음"
+    },
+    {
+      "korean": "He was very bruised and suffering from whiplash. 발음듣기 그는 심한 타박상과 목뼈 손상을 입고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was very bruised and suffering from whiplash. 발음"
+    },
+    {
+      "korean": "He suffered permanent disfigurement in the fire. 발음듣기 그는 그 화재로 영구적인 외모 손상을 입었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He suffered permanent disfigurement in the fire. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "그야",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "it, that"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[대명사] (주격) he; (소유격, 소유대명사) his; (목적격) him; (재귀대명사) himself",
+        "[관형사] (앞에서 언급한) the, (저것) that (those)"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner that (→저2, 이6)",
+        "Determiner that, the (→이6)",
+        "Determiner around, or such"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection uh, um, er, erm"
+      ]
+    },
+    {
+      "phrase": "그/그녀는 내 전화번호를 알고 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전화 실전표현 He/She knows my phone number."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "his",
+      "frequency": 2
+    },
+    {
+      "meaning": "they",
+      "frequency": 2
+    },
+    {
+      "meaning": "meanwhile",
+      "frequency": 2
+    },
+    {
+      "meaning": "himself",
+      "frequency": 2
+    },
+    {
+      "meaning": "their",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그냥 그 있잖아요 그... You know just... 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "You know just..."
+    },
+    {
+      "korean": "그 뭐야 뭐지? What is it? 듣기 View video ASTRO : 안 주무시면 컴온 ~ 🐮💩 방송",
+      "english": "What is it?"
+    },
+    {
+      "korean": "오늘 근데 우리 그 다 그 그거... Today we have... 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "Today we have..."
+    },
+    {
+      "korean": "그 알죠 클럽? You know... Club? 듣기 View video ASTRO : 안 주무시면 컴온 ~ 🐮💩 방송",
+      "english": "You know... Club?"
+    },
+    {
+      "korean": "그다음은 뭔가요? What's up next? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "What's up next?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I did not select you, he did. 발음듣기 널 선택한 사람은 내가 아니라 그야. User translation Inaccurate information may be included due to the users' self-traslation. 석범_연인윤(ell9****) Web Collection",
+      "english": "I did not select you, he did. 발음"
+    },
+    {
+      "korean": "Largo, your real father is him. 발음듣기 라르고, 너의 진짜 아버지는 그야. User translation Inaccurate information may be included due to the users' self-traslation. 공정제어설계(smj0****) Web Collection",
+      "english": "Largo, your real father is him. 발음"
+    },
+    {
+      "korean": "This is, like, way down the road. 발음듣기 이것은, 뭐, 그야 길을 내려가는 거야. User translation Inaccurate information may be included due to the users' self-traslation. 죠니(grac****) Web Collection",
+      "english": "This is, like, way down the road. 발음"
+    },
+    {
+      "korean": "Of course, the rumbling sound we heard. 발음듣기 그야 우린 천둥소리를 들었으니까 User translation Inaccurate information may be included due to the users' self-traslation. perperpwt(perp****) Web Collection",
+      "english": "Of course, the rumbling sound we heard. 발음"
+    },
+    {
+      "korean": "But that guy-- him I recognize. 발음듣기 하지만 그 녀석-- 내가 알아 본 그야. User translation Inaccurate information may be included due to the users' self-traslation. 향이남편 민이아빠(wpip****) Web Collection",
+      "english": "But that guy-- him I recognize. 발음"
+    }
+  ]
+}

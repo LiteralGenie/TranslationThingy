@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이식",
+      "hanja": " (移植)",
+      "example": {},
+      "meanings": [
+        "[명사] (피부·장기 등의) transplant, transplantation, implant, (피부·뼈 등의) graft, [동사] transplant, implant, (피부·뼈 등을) graft"
+      ]
+    },
+    {
+      "phrase": "이식(술)",
+      "hanja": " (移植(術))",
+      "example": {},
+      "meanings": [
+        "의학 transplantation"
+      ]
+    },
+    {
+      "phrase": "모발이식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hair implant"
+      ]
+    },
+    {
+      "phrase": "간 이식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a liver transplant"
+      ]
+    },
+    {
+      "phrase": "피부 이식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "skin graft"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "transplant",
+      "frequency": 3
+    },
+    {
+      "meaning": "graft",
+      "frequency": 3
+    },
+    {
+      "meaning": "implantation",
+      "frequency": 0
+    },
+    {
+      "meaning": "accumulation",
+      "frequency": 3
+    },
+    {
+      "meaning": "profit-taking",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근데 이렇게 수염 많이 자라려면 이식을 해야 될 것 같은데? To have such thick bears, I guess I need some transplantation. 듣기 View video NU'EST : [NU’EST] 늦기 전에 온다는 게 오늘이 되버렸네🙈",
+      "english": "To have such thick bears, I guess I need some transplantation."
+    },
+    {
+      "korean": "[나 손바닥에 쿠션 이식했어 우리 홍시 폭신하게 받아주려고] 어우 뭐야 이러고 쿵! [I implanted cushions on my palms so that you won't feel any shock] Wow, what? Thud! 듣기 View video V PICK! : [PENTAGON] ※미래형 머리!!※ 눈을 가려도 귀여움은 가려지지 않는 요정들만 가능💇🏻‍♂️ (PENTAGON talking about WOOSEOK’s hair)",
+      "english": "[I implanted cushions on my palms so that you won't feel any shock] Wow, what? Thud!"
+    },
+    {
+      "korean": "[헐 그래도 하나 남으셨네요... 전 인공심장 이식했어요...] - 205개 있었어요? - 205개나... There were 205? - 205? 듣기 View video V PICK! : [NCT] 천회장님의 귀요미애기들 말레이시아가요~ (NCT calling with Chenle)",
+      "english": "There were 205? - 205?"
+    },
+    {
+      "korean": "저는 이식이라고 - 베이식과 원식은 근데... I'm Basick. - Basick and Wonsik. 듣기 View video V COOKIE : [Full] Ravi X Rooftop Live - 라비의 루프탑라이브!",
+      "english": "I'm Basick. - Basick and Wonsik."
+    },
+    {
+      "korean": "이게 바로 채연이식 응원... This is how Chae Yeon supports people. 듣기 View video DIA : [DIA]채연이와 다이아는 지금 드라마 촬영중",
+      "english": "This is how Chae Yeon supports people."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Surgeons have successfully transplanted a liver into a four-year-old boy. 듣기 Add to Wordbook 외과의들이 네 살짜리 소년에게 간을 성공적으로 이식시켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Surgeons have successfully transplanted a liver into a four-year-old boy. Add to Wordbook"
+    },
+    {
+      "korean": "The skin graft failed to take. 듣기 Add to Wordbook 피부 이식이 성공하지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The skin graft failed to take. Add to Wordbook"
+    },
+    {
+      "korean": "New skin had to be grafted on from his back. 듣기 Add to Wordbook 그의 등에서 새 피부를 떼어다 이식해야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "New skin had to be grafted on from his back. Add to Wordbook"
+    },
+    {
+      "korean": "She was on a wait list for a liver transplant. 듣기 Add to Wordbook 그녀는 간 이식 수술 대기자 명단에 올라 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was on a wait list for a liver transplant. Add to Wordbook"
+    },
+    {
+      "korean": "His only chance of survival was a heart transplant. 듣기 Add to Wordbook 그의 유일한 생존 가능성은 심장 이식이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His only chance of survival was a heart transplant. Add to Wordbook"
+    }
+  ]
+}

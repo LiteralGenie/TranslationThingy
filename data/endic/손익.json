@@ -1,0 +1,99 @@
+{
+  "phrases": [
+    {
+      "phrase": "손익",
+      "hanja": " (損益)",
+      "example": {},
+      "meanings": [
+        "profit and loss, gain and loss"
+      ]
+    },
+    {
+      "phrase": "손익분기점",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "break-even point"
+      ]
+    },
+    {
+      "phrase": "손익계산서",
+      "hanja": " (損益計算書)",
+      "example": {},
+      "meanings": [
+        "income statement, profit and loss account"
+      ]
+    },
+    {
+      "phrase": "손익을 따지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "calculate profits[gains] and losses",
+        "calculate pluses and minuses"
+      ]
+    },
+    {
+      "phrase": "손익분기점에 도달하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reach the break-even point"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "profit and loss",
+      "frequency": 0
+    },
+    {
+      "meaning": "loss and gain",
+      "frequency": 0
+    },
+    {
+      "meaning": "gains and losses",
+      "frequency": 0
+    },
+    {
+      "meaning": "Sun Yi",
+      "frequency": 0
+    },
+    {
+      "meaning": "gain and loss",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마진 손익분기가 안 나와서... I didn't make profit... 듣기 View video 10PM : 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "I didn't make profit..."
+    },
+    {
+      "korean": "350만 명이 손익 분기점이에요. 3.5 million is the break-even point. 듣기 View video V MOVIE : <덕혜옹주> 스팟라이브 ' Spot Live'",
+      "english": "3.5 million is the break-even point."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The company just about broke even last year. 발음듣기 회사가 작년에는 손익이 거의 비슷했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company just about broke even last year. 발음"
+    },
+    {
+      "korean": "At this point we’re just breaking even. 발음듣기 우리는 바로 손익 분기점에 있다. YBM All in All English-Korean Dictionary",
+      "english": "At this point we’re just breaking even. 발음"
+    },
+    {
+      "korean": "What do we need to charge to break even? 발음듣기 손익분기점을 맞추려면 얼마를 받아야 하죠? YBM All in All English-Korean Dictionary",
+      "english": "What do we need to charge to break even? 발음"
+    },
+    {
+      "korean": "As per our conversation, I'm sending you profit/loss statements (by business unit) for the past two years. 발음듣기 얘기했던 것처럼, 지난 2년간 (사업부서별) 손익 계산서를 보내드립니다. YBM All in All English-Korean Dictionary",
+      "english": "As per our conversation, I'm sending you profit/loss statements (by business unit) for the past two years. 발음"
+    },
+    {
+      "korean": "Currently, oil producers are just barely breaking even. 발음듣기 현재 석유 제조업자들은 간신히 수지를(손익분기점을) 맞추고 있다. Neungyule",
+      "english": "Currently, oil producers are just barely breaking even. 발음"
+    }
+  ]
+}

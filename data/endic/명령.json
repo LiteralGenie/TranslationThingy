@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "명령",
+      "hanja": " (命令)",
+      "example": {},
+      "meanings": [
+        "[명사] order, command, instructions, [동사] order, give orders[commands, instructions], command, instruct"
+      ]
+    },
+    {
+      "phrase": "명령을 내리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "issue[give] orders"
+      ]
+    },
+    {
+      "phrase": "명령을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "receive[have, be under] orders",
+        "get the word"
+      ]
+    },
+    {
+      "phrase": "명령을 따르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "obey a(n) order[command]",
+        "carry out an order[instruction]"
+      ]
+    },
+    {
+      "phrase": "명령 권한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "command authority"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "injunction",
+      "frequency": 1
+    },
+    {
+      "meaning": "command",
+      "frequency": 2
+    },
+    {
+      "meaning": "instruction",
+      "frequency": 2
+    },
+    {
+      "meaning": "order",
+      "frequency": 2
+    },
+    {
+      "meaning": "direction",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[명령 전달] [요리] 누가 하는 거예요 지금? [Delivering the order] Who's cooking now? 듣기 View video BTS : Run BTS! 2020 - EP.103",
+      "english": "[Delivering the order] Who's cooking now?"
+    },
+    {
+      "korean": "[명령어 : 사람 살려!] 사람 살려! [Order : Help!] Help! 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP63] 길바닥에서 시민에게 뺨 맞은 유명 연예인",
+      "english": "[Order : Help!] Help!"
+    },
+    {
+      "korean": "[명령어 : 다리 찢으면서 + 물구나무] 그 상태에서 물구나무서기 가능해요? [Order : Splits + hand-standing] Can you stand on your hands? 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP63] 길바닥에서 시민에게 뺨 맞은 유명 연예인",
+      "english": "[Order : Splits + hand-standing] Can you stand on your hands?"
+    },
+    {
+      "korean": "명령이다. It's an order. 듣기 View video JBJ : 잘봐줘 JBJ 3화 (Just Be Joyful JBJ EP.3)",
+      "english": "It's an order."
+    },
+    {
+      "korean": "명령인가요? Is that a command? 듣기 View video Glorious Entertainment : [이호원(hoya)]촬영대기중",
+      "english": "Is that a command?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The court ordered the seizure of his assets. 발음듣기 법원이 그의 재산 몰수를 명령했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The court ordered the seizure of his assets. 발음"
+    },
+    {
+      "korean": "The troops were ordered back to barracks. 발음듣기 군대에게 병영으로 돌아가라는 명령이 떨어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The troops were ordered back to barracks. 발음"
+    },
+    {
+      "korean": "The court granted an injunction against the defendants. 발음듣기 법원에서 피고들에게 불리한 명령을 내렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The court granted an injunction against the defendants. 발음"
+    },
+    {
+      "korean": "He was ordered to pay damages totalling ￡30,000. 발음듣기 그는 총 3만 파운드의 손해 배상금을 지불하라는 명령을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was ordered to pay damages totalling ￡30,000. 발음"
+    },
+    {
+      "korean": "The general gave the order to advance. 발음듣기 장군이 진격 명령을 내렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The general gave the order to advance. 발음"
+    }
+  ]
+}

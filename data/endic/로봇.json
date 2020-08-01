@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "로봇",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "robot"
+      ]
+    },
+    {
+      "phrase": "robot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 로봇, 자동 기계 장치",
+        "Noun (특히 공상 과학 소설 속의) 인조인간",
+        "Noun 남아프리카공화국 영어 (교통) 신호등"
+      ]
+    },
+    {
+      "phrase": "로보트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun → 15111로봇"
+      ]
+    },
+    {
+      "phrase": "R(k)Obot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Robotic things from Randy Orton"
+      ]
+    },
+    {
+      "phrase": "로봇 공학",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "robotics"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "robot",
+      "frequency": 0
+    },
+    {
+      "meaning": "golem",
+      "frequency": 0
+    },
+    {
+      "meaning": "bot 4",
+      "frequency": 0
+    },
+    {
+      "meaning": "Robot Communications",
+      "frequency": 0
+    },
+    {
+      "meaning": "automaton",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이러는데 - 넌 좀 리액션이 좀 로봇 같아 - 기계야?",
+      "english": "I do. - Your reactions are like a robot. - Machine-like?"
+    },
+    {
+      "korean": "[자연스러운 로봇] - 그냥 나도 이 상황이 미스터리해서 - 네, 도겸이 형이...",
+      "english": "[Natural robot] - I just thought this was full of mystery. - DK is..."
+    },
+    {
+      "korean": "나 지금 로봇 같아?",
+      "english": "Do I sound like a robot now?"
+    },
+    {
+      "korean": "너 멋있는 로봇 만든다며?",
+      "english": "You're making cool robot, right?"
+    },
+    {
+      "korean": "오랜만에 성대모사 한번 보여주세요 - 로봇?",
+      "english": "Please show us the impersonation. - Robot?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "팔다리가 관절로 이어져 있는 로봇",
+      "english": "a robot with articulated limbs"
+    },
+    {
+      "korean": "이들 자동차는 로봇에 의해 제작된다.",
+      "english": "These cars are built by robots."
+    },
+    {
+      "korean": "이것이 로봇 공학에서 가장 최근의 것이다.",
+      "english": "This is the latest in robot technology."
+    },
+    {
+      "korean": "그 회사가 산업용 로봇을 발명한 공이 있는 것으로 여겨진다.",
+      "english": "The company is credited with inventing the industrial robot."
+    },
+    {
+      "korean": "그 로봇은 일련의 인간 동작을 모방하도록 프로그램되어 있었다.",
+      "english": "The robot was programmed to mimic a series of human movements."
+    }
+  ]
+}

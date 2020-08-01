@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "안정적",
+      "hanja": " (安定的)",
+      "example": {},
+      "meanings": [
+        "Determiner stable"
+      ]
+    },
+    {
+      "phrase": "안정적",
+      "hanja": " (安定的)",
+      "example": {},
+      "meanings": [
+        "Noun being stable"
+      ]
+    },
+    {
+      "phrase": "안정적인 생활을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live a stable life"
+      ]
+    },
+    {
+      "phrase": "준안정적 상태",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "metastable state"
+      ]
+    },
+    {
+      "phrase": "수치 안정적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "numerically stable"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stable",
+      "frequency": 2
+    },
+    {
+      "meaning": "settled",
+      "frequency": 1
+    },
+    {
+      "meaning": "a stable relationship",
+      "frequency": 0
+    },
+    {
+      "meaning": "positive adjustment policy",
+      "frequency": 0
+    },
+    {
+      "meaning": "에너지안보이니셔티브",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[팽팽함] 1, 2등이야 안정적이야 좋아! [Close] You're easily number one and two! Good! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "[Close] You're easily number one and two! Good!"
+    },
+    {
+      "korean": "[생각보다 안정적인 자세] 1, 2, 3, 4, 5... [Better than expected] 1, 2, 3, 4, 5... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Better than expected] 1, 2, 3, 4, 5..."
+    },
+    {
+      "korean": "시작! - 우기 너무 안정적이야 - 미연이 옛날에 했었어 이거! Start! - Yuqi is too safe. - Miyeon did this a long time ago! 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Start! - Yuqi is too safe. - Miyeon did this a long time ago!"
+    },
+    {
+      "korean": "[추억에 젖어보는 공기놀이] - 잘 해요 - 좋아요! 안정적이에요, 역시 우승 후보! [Indulging into reminiscence, Korean jackstones] - Good. - Stable, a strong candidate! 듣기 View video BTS : Run BTS! 2020 - EP.95",
+      "english": "[Indulging into reminiscence, Korean jackstones] - Good. - Stable, a strong candidate!"
+    },
+    {
+      "korean": "그러면 좀 안정적인 상품 위주로 설명을 드릴게요, 적금은 이제... Let me introduce some stable financial products. 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울여자상업고등학교 ep6(홍현희X정세운X강율)",
+      "english": "Let me introduce some stable financial products."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a society with a high/low frequency of stable marriages 발음듣기 안정적인 결혼생활 빈도가 높은/낮은 사회 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a society with a high/low frequency of stable marriages 발음"
+    },
+    {
+      "korean": "I hope my job’s safe. Life is hard enough as it is. 발음듣기 난 내 직장이 안정적이면 좋겠어. 사는 게 지금 이대로도 충분히 힘드니까. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I hope my job’s safe. Life is hard enough as it is. 발음"
+    },
+    {
+      "korean": "Conditions were set fair for stable economic development. 발음듣기 안정적인 경제 발전을 위한 조건이 다 갖춰져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Conditions were set fair for stable economic development. 발음"
+    },
+    {
+      "korean": "The patient’s condition is stable. 발음듣기 환자의 상태가 안정적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The patient’s condition is stable. 발음"
+    },
+    {
+      "korean": "The new SUV could be stable with a low and wide stance. 발음듣기 새 SUV는 낮고 넓은 자세로 안정적일 수 있다. 국제영어대학원대학교 신어사전",
+      "english": "The new SUV could be stable with a low and wide stance. 발음"
+    }
+  ]
+}

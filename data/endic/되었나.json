@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(새로운 신분·지위 등을 갖다) be, become",
+        "(다른 것으로 변하다) turn[change] (in)to, (발전하다) develop into",
+        "(때·시기 등에 이르다) be, come, become; (나이가) reach, (formal) attain; (경과하다) pass"
+      ]
+    },
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물기가 적어 뻑뻑하다) thick, stiff"
+      ]
+    },
+    {
+      "phrase": "-되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동사적 명사에 붙어) become, get to be, be",
+        "(형용사·부사적 어근에 붙어) be"
+      ]
+    },
+    {
+      "phrase": "시간이 그렇게 되었나?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is it that late?"
+      ]
+    },
+    {
+      "phrase": "제가 주문한 요리는 어떻게 되었나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "레스토랑 SOS What's happening with my order?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "What roused your suspicions?",
+      "frequency": 0
+    },
+    {
+      "meaning": "What has got…?",
+      "frequency": 0
+    },
+    {
+      "meaning": "What about…?",
+      "frequency": 0
+    },
+    {
+      "meaning": "proper",
+      "frequency": 2
+    },
+    {
+      "meaning": "ready",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어떠신가요 여러분들? 깜짝 선물이 되었나요? How is it? Is it a good surprise? 듣기 View video BTS : 슙디의 꿀 FM 06.13 #0613FM_0613",
+      "english": "How is it? Is it a good surprise?"
+    },
+    {
+      "korean": "오랜만에 켰더니 업데이트가 되었나? It's been a while since I turned it on. Did it get updated? 듣기 View video ONG SEONG WU : ONG SEONG WU 옹성우 - [diaONGlog] 드라이브 갈까요?",
+      "english": "It's been a while since I turned it on. Did it get updated?"
+    },
+    {
+      "korean": "[어떻게 이런 강렬한 단어로 작사를 시작하게 되었나요?] [Why did you start writing the lyrics with such a strong word?] View video EXO : Portrait of SUHO",
+      "english": "[Why did you start writing the lyrics with such a strong word?]"
+    },
+    {
+      "korean": "우리 섹시가이 웅이 씨는 어떤 향에 매료가 되었나요? Sexy guy, Woong! What scent are you fascinated by? 듣기 View video AB6IX : [Replay] AB6IX 1ST ALBUM [6IXENSE] SHOWCASE",
+      "english": "Sexy guy, Woong! What scent are you fascinated by?"
+    },
+    {
+      "korean": "집중해주세요 - 죄송합니다 - 여러분, 이제 게임할 준비 되었나요? Concentrate please. - Sorry. - Are you ready for the game? 듣기 View video V COOKIE : [Full] 아스트로 X 우리의 밤 (Our Night with ASTRO)",
+      "english": "Concentrate please. - Sorry. - Are you ready for the game?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What roused your suspicions? 발음듣기 당신은 뭣 때문에 의심을 하게 되었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What roused your suspicions? 발음"
+    },
+    {
+      "korean": "How did you make the connection? 발음듣기 어떻게 그렇게 연관짓게 되었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How did you make the connection? 발음"
+    },
+    {
+      "korean": "What brings you to these shores? 발음듣기 당신은 무슨 일로 이 나라에 오시게 되었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What brings you to these shores? 발음"
+    },
+    {
+      "korean": "What is the reasoning behind this decision? 발음듣기 어떤 추리에 따라 이런 결정을 내리게 되었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What is the reasoning behind this decision? 발음"
+    },
+    {
+      "korean": "Which of the applicants has got the job? 발음듣기 지원자들 중에서 어떤 사람이 그 자리에 취직이 되었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Which of the applicants has got the job? 발음"
+    }
+  ]
+}

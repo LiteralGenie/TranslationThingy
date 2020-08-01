@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "먹이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "food, feed, (육식동물의) prey, (초식동물의) fodder"
+      ]
+    },
+    {
+      "phrase": "먹이사슬",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "food chain"
+      ]
+    },
+    {
+      "phrase": "말[소] 먹이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "feed for horses[cows]"
+      ]
+    },
+    {
+      "phrase": "개[고양이] 먹이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "dog[cat] food"
+      ]
+    },
+    {
+      "phrase": "먹이가 떨어지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "run out of provisions"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "feed",
+      "frequency": 3
+    },
+    {
+      "meaning": "food",
+      "frequency": 3
+    },
+    {
+      "meaning": "prey",
+      "frequency": 3
+    },
+    {
+      "meaning": "ravin",
+      "frequency": 0
+    },
+    {
+      "meaning": "feed fodder",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그래서 이렇게 내 뒤통수 까고 엿 먹이는 거냐고! Is that why you're screwing me over now? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "Is that why you're screwing me over now?"
+    },
+    {
+      "korean": "그렇지 빨리 먹이를 먹는다, 이런 거지? catches the worm, right? 듣기 View video V COOKIE : [Full] KIM JAEJOONG X Orgel Live - 김재중의 오르골 라이브!",
+      "english": "catches the worm, right?"
+    },
+    {
+      "korean": "난 그냥 먹이야 - 민트 초코... I just eat it. - Mint chocolate. 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "I just eat it. - Mint chocolate."
+    },
+    {
+      "korean": "네가 왕주먹이야!? - 네! 맞습니다! Are you King Fist? - Yes, that's right. 듣기 View video ASTRO : [ASTRO PLAY] I 💜 Bangkok",
+      "english": "Are you King Fist? - Yes, that's right."
+    },
+    {
+      "korean": "난 그냥 먹이야 - 민트 초코 호 불호? I just eat it. - Mint chocolate, you like it or not? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "I just eat it. - Mint chocolate, you like it or not?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "whales that feed deep beneath the waves 듣기 Add to Wordbook 바다 깊은 곳에서 먹이를 먹고 사는 고래들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "whales that feed deep beneath the waves Add to Wordbook"
+    },
+    {
+      "korean": "She looked like a lion baulked of its prey. 듣기 Add to Wordbook 그녀는 먹이를 빼앗긴 사자 같았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She looked like a lion baulked of its prey. Add to Wordbook"
+    },
+    {
+      "korean": "The lions closed in on their prey. 듣기 Add to Wordbook 사자들이 먹이를 향해 점점 더 가까이 다가갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The lions closed in on their prey. Add to Wordbook"
+    },
+    {
+      "korean": "He says the media are ravening wolves. 듣기 Add to Wordbook 그는 언론을 먹이를 찾아 날뛰는 늑대들이라고 말한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He says the media are ravening wolves. Add to Wordbook"
+    },
+    {
+      "korean": "a can of dog food 듣기 Add to Wordbook 개 먹이 한 깡통 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a can of dog food Add to Wordbook"
+    }
+  ]
+}

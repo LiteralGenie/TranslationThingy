@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(무엇) what, something",
+        "(놀라움) what, huh, why"
+      ]
+    },
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection what, oh my goodness, oh my gosh",
+        "Interjection what",
+        "Interjection anyway"
+      ]
+    },
+    {
+      "phrase": "뭐라 뭐라 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say what and what"
+      ]
+    },
+    {
+      "phrase": "뭐니 뭐니 해도",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "뭐가 뭔지 모르겠어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm totally lost."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "I'm all right, Jack",
+      "frequency": 0
+    },
+    {
+      "meaning": "or what",
+      "frequency": 0
+    },
+    {
+      "meaning": "intangible",
+      "frequency": 3
+    },
+    {
+      "meaning": "improvise",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐야, 뭐야?",
+      "english": "What is it?"
+    },
+    {
+      "korean": "뭐가 뭐예요?",
+      "english": "What is what?"
+    },
+    {
+      "korean": "뭔데?",
+      "english": "What is it?"
+    },
+    {
+      "korean": "뭐죠?",
+      "english": "What is this?"
+    },
+    {
+      "korean": "너 뭐야!",
+      "english": "What are you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "이 겁쟁이! 뭐가 무서운 거야?",
+      "english": "You coward! What are you afraid of?"
+    },
+    {
+      "korean": "아기들은 입에 뭘 잘 집어넣는다.",
+      "english": "Babies are apt to put objects into their mouths."
+    },
+    {
+      "korean": "그들은 문구류와 뭐 그런 것들을 판다.",
+      "english": "They sell stationery and stuff (like that)."
+    },
+    {
+      "korean": "그녀가 이번엔 뭐라고 횡설수설하던?",
+      "english": "What was she blabbering on about this time?"
+    },
+    {
+      "korean": "내게 들려 줄 뭐 재미있는 소식 없어?",
+      "english": "Have you got any interesting snippets for me?"
+    }
+  ]
+}

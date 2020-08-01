@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "사법",
+      "hanja": " (司法)",
+      "example": {},
+      "meanings": [
+        "jurisdiction"
+      ]
+    },
+    {
+      "phrase": "사법의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "judicial",
+        "judiciary"
+      ]
+    },
+    {
+      "phrase": "사법연수원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Judicial Research and Training Institute"
+      ]
+    },
+    {
+      "phrase": "사법 재판관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a judge",
+        "a judicial official"
+      ]
+    },
+    {
+      "phrase": "사법 고시",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bar exam"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "justice",
+      "frequency": 2
+    },
+    {
+      "meaning": "private law",
+      "frequency": 0
+    },
+    {
+      "meaning": "judicatory",
+      "frequency": 0
+    },
+    {
+      "meaning": "private[public] statute",
+      "frequency": 0
+    },
+    {
+      "meaning": "private[public] law",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "예전에 같은 학교에 다녔던 동창이 사법고시 패스를 했다는 거예요. My friend told me one of our friends passed the bar exam. 듣기 View video LEE DONG WOOK : [Full]이동욱의 On the air (LEE DONG WOOK's On the air)",
+      "english": "My friend told me one of our friends passed the bar exam."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The inquiry acknowledges failings in the judicial system. 발음듣기 그 조사는 사법 제도상의 결함들을 인정하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The inquiry acknowledges failings in the judicial system. 발음"
+    },
+    {
+      "korean": "the country’s creaky legal machinery 발음듣기 국가의 낡은 사법 조직 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the country’s creaky legal machinery 발음"
+    },
+    {
+      "korean": "The case is subject to judicial review. 발음듣기 그 사례는 사법부의 심리를 받아야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The case is subject to judicial review. 발음"
+    },
+    {
+      "korean": "Portugal has lodged a complaint with the International Court of Justice. 발음듣기 포르투갈이 국제사법재판소에 소송을 제기했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Portugal has lodged a complaint with the International Court of Justice. 발음"
+    },
+    {
+      "korean": "The European Court of Justice 발음듣기 유럽 사법 재판소 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The European Court of Justice 발음"
+    }
+  ]
+}

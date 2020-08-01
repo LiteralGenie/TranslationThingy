@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "사정",
+      "hanja": " (事情)",
+      "example": {},
+      "meanings": [
+        "(형편, 까닭) [명사] (이유) reason, (형편) circumstances, situation, (이야기) story",
+        "(간청, 부탁) [동사] beg (for sth / sb to do), plead (for sth / with sb to do), (formal) entreat, (formal) implore"
+      ]
+    },
+    {
+      "phrase": "사정",
+      "hanja": " (射精)",
+      "example": {},
+      "meanings": [
+        "[명사] (정액을 내보냄) ejaculation, [동사] ejaculate"
+      ]
+    },
+    {
+      "phrase": "사정",
+      "hanja": " (司正)",
+      "example": {},
+      "meanings": [
+        "(그릇된 일을 바로잡는 것) (corrective) inspection"
+      ]
+    },
+    {
+      "phrase": "사정",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "관광지 (역사·문화재관광) Sajeong Pavilion"
+      ]
+    },
+    {
+      "phrase": "사정 기관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "inspection agency, assessment agency"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "circumstance",
+      "frequency": 3
+    },
+    {
+      "meaning": "matter",
+      "frequency": 3
+    },
+    {
+      "meaning": "shot 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "scope 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "ejaculation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어제는 사정상, 상황상 하지 못해서 오늘... but we couldn't because of our circumstances. 듣기 View video GOT7 : 아가새가 불러서 !",
+      "english": "but we couldn't because of our circumstances."
+    },
+    {
+      "korean": "있어요, 그 개인적인 사정으로 좀 힘든 게 있어서... There's something. Due to my personal matters... 듣기 View video GOT7 : [FULL] GOT7 SHOWCASE",
+      "english": "There's something. Due to my personal matters..."
+    },
+    {
+      "korean": "[아무도 몰랐던 스태프 남1의 속사정] 셰어하우스에 일이 많아요~ [No one knew about the situation of the staff] There's a lot of work in the share house. 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 몽슈슈 글로벌 하우스 BEHIND",
+      "english": "[No one knew about the situation of the staff] There's a lot of work in the share house."
+    },
+    {
+      "korean": "[인정사정 볼 것 없다!] [No room for mercy!] View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 5화",
+      "english": "[No room for mercy!]"
+    },
+    {
+      "korean": "[지금 사정에 그래도 돼?] 신혼집을? A matrimonial house? 듣기 View video Big Picture (빅픽처) : 빅픽처3 EP16_헤어코스토리 메이드 헤어~?",
+      "english": "A matrimonial house?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Things are looking unsettled on the economic front. 듣기 Add to Wordbook 경제 일선에서는 사정이 불안정해 보인다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Things are looking unsettled on the economic front. Add to Wordbook"
+    },
+    {
+      "korean": "We have holidays to suit every purse. 듣기 Add to Wordbook 저희에게는 모든 주머니 사정에 맞는 휴가 상품들이 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have holidays to suit every purse. Add to Wordbook"
+    },
+    {
+      "korean": "Surveyors carried out a valuation of the property. 듣기 Add to Wordbook 조세 사정관들이 그 부동산에 대한 평가를 실시했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Surveyors carried out a valuation of the property. Add to Wordbook"
+    },
+    {
+      "korean": "Things have been going badly. 듣기 Add to Wordbook 계속 사정이 안 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Things have been going badly. Add to Wordbook"
+    },
+    {
+      "korean": "nature, red in tooth and claw 듣기 Add to Wordbook 인정사정 봐주지 않는 자연 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "nature, red in tooth and claw Add to Wordbook"
+    }
+  ]
+}

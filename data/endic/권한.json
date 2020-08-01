@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "권한",
+      "hanja": " (權限)",
+      "example": {},
+      "meanings": [
+        "right(s) (to), authority, power, (법적 권한) jurisdiction (over)"
+      ]
+    },
+    {
+      "phrase": "권한이 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unauthorized",
+        "unwarranted"
+      ]
+    },
+    {
+      "phrase": "권한이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have the right[authority, power] (to do)",
+        "be authorized (to do)"
+      ]
+    },
+    {
+      "phrase": "권한을 부여하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "authorize",
+        "empower",
+        "give (sb) the authority (to do)"
+      ]
+    },
+    {
+      "phrase": "권한 다툼",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "conflict of attribution"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "power",
+      "frequency": 3
+    },
+    {
+      "meaning": "authority",
+      "frequency": 3
+    },
+    {
+      "meaning": "right",
+      "frequency": 3
+    },
+    {
+      "meaning": "reach",
+      "frequency": 3
+    },
+    {
+      "meaning": "mandate",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "권한대로 그냥... - 하나... Under your authority... - 1. 듣기 View video W PROJECT : [W PROJECT] 1분1초(돌아와줘) V LIVE",
+      "english": "Under your authority... - 1."
+    },
+    {
+      "korean": "MC의 권한으로 스킵 할까요? Under the authority of MC, shall we skip it? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "Under the authority of MC, shall we skip it?"
+    },
+    {
+      "korean": "권한이 없다고? It's not authorized? 듣기 View video MONSTA X : LIVE : 190611 🐰",
+      "english": "It's not authorized?"
+    },
+    {
+      "korean": "[PD의 권한으로] 메인 PD로서... [As the producer] As the main producer... 듣기 View video iKON : iKON - ‘자체제작 iKON TV’ EP.1-1",
+      "english": "[As the producer] As the main producer..."
+    },
+    {
+      "korean": "근데 왜 자꾸 권한이 없지? How come it says I do not have access to it? 듣기 View video NCT : 💚텐데즈의 뮤직시티🎧🎤🎸",
+      "english": "How come it says I do not have access to it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Some managers find it difficult to delegate. 듣기 Add to Wordbook 일부 관리자들은 (권한을) 위임하는 것을 힘들어 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some managers find it difficult to delegate. Add to Wordbook"
+    },
+    {
+      "korean": "The Supreme Council is vested with overall authority. 듣기 Add to Wordbook 최고 위원회가 전반적인 권한을 부여받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Supreme Council is vested with overall authority. Add to Wordbook"
+    },
+    {
+      "korean": "to overstep your authority 듣기 Add to Wordbook 자기 권한의 도를 넘다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to overstep your authority Add to Wordbook"
+    },
+    {
+      "korean": "a mandate for an end to the civil war 듣기 Add to Wordbook 내전 종식을 위한 권한 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a mandate for an end to the civil war Add to Wordbook"
+    },
+    {
+      "korean": "outside sb’s area of competence 듣기 Add to Wordbook …의 권한 범위를 넘어서는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "outside sb’s area of competence Add to Wordbook"
+    }
+  ]
+}

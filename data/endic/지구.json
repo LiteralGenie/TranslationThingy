@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "지구",
+      "hanja": " (地球)",
+      "example": {},
+      "meanings": [
+        "earth, Earth"
+      ]
+    },
+    {
+      "phrase": "지구",
+      "hanja": " (地區)",
+      "example": {},
+      "meanings": [
+        "(일정한 기준으로 나눈 지역) district, zone, area"
+      ]
+    },
+    {
+      "phrase": "지구의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "terrestrial",
+        "earthly"
+      ]
+    },
+    {
+      "phrase": "지구과학",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "earth science"
+      ]
+    },
+    {
+      "phrase": "지구의 표면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the surface of the earth"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sector",
+      "frequency": 3
+    },
+    {
+      "meaning": "earth",
+      "frequency": 3
+    },
+    {
+      "meaning": "world",
+      "frequency": 3
+    },
+    {
+      "meaning": "quarter",
+      "frequency": 3
+    },
+    {
+      "meaning": "district",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"언니! 팬들이 잘한다, 잘한다 하니까 지구가 언니 거 같죠?\" \"Unnie! Since the fans tell you you're doing a good job, you feel like you own the world, don't you\"? 듣기 View video V PICK! : [VPICK! 주접특강] 마마무 문별 영역🐹 (MOONBYUL reading lovely comments)",
+      "english": "\"Unnie! Since the fans tell you you're doing a good job, you feel like you own the world, don't you\"?"
+    },
+    {
+      "korean": "환경, 지구 온난화를 위해 제가... For environmental reasons... 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "For environmental reasons..."
+    },
+    {
+      "korean": "\"언니 팬들이 잘한다 잘한다 하니까 지구가 언니 거 같죠?\" \"Since fans love whatever you do, do you think the earth is yours?\" 듣기 View video MAMAMOO : 🌙달이 태양을 가릴 때🌙",
+      "english": "\"Since fans love whatever you do, do you think the earth is yours?\""
+    },
+    {
+      "korean": "[지구 한 바퀴 돌면서] 뭔가 내 이름이 예쁜가? [If we go around the world and ask] I thought like, \"My name is really pretty?\" 듣기 View video V PICK! : [UP10TION] 방정리가 왜 필요하죠? 맑고 깨끗한 옝이가 있는데💛 (SUNYOUL showing his room)",
+      "english": "[If we go around the world and ask] I thought like, \"My name is really pretty?\""
+    },
+    {
+      "korean": "[우주가 태어나고 지구가 태어나서 우리 겨미를 볼 수 있으니까] 안녕! [Because YUGYEOM was born after the universe and earth was made] Bye! 듣기 View video V PICK! : [GOT7] 말랑콩떡이 알고보니 반짝꿀떡이었던 거예요🍡 (YUGYEOM singing PRAY)",
+      "english": "[Because YUGYEOM was born after the universe and earth was made] Bye!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the terrestrial globe 듣기 Add to Wordbook 지구. Friendict Level English-Korean Dictionary",
+      "english": "the terrestrial globe Add to Wordbook"
+    },
+    {
+      "korean": "the earthly[terrestrial] ball 듣기 Add to Wordbook 지구. Friendict Level English-Korean Dictionary",
+      "english": "the earthly[terrestrial] ball Add to Wordbook"
+    },
+    {
+      "korean": "The earth is illuminated by the sun. 듣기 Add to Wordbook 지구는 태양의 빛을 받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The earth is illuminated by the sun. Add to Wordbook"
+    },
+    {
+      "korean": "When did mammals appear on the earth? 듣기 Add to Wordbook 언제 지구상에 포유류가 생겼을까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When did mammals appear on the earth? Add to Wordbook"
+    },
+    {
+      "korean": "Satellites route data all over the globe. 듣기 Add to Wordbook 위성은 데이터를 지구 전역으로 보낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Satellites route data all over the globe. Add to Wordbook"
+    }
+  ]
+}

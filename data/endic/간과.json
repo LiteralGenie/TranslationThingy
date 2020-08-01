@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "간과",
+      "hanja": " (看過)",
+      "example": {},
+      "meanings": [
+        "(못 보고 빠뜨림) passing over, failure to notice, (묵인함) connivance, overlooking, 간과하다 pass over, fail to notice, connive (at), wink (at), overlook"
+      ]
+    },
+    {
+      "phrase": "간과",
+      "hanja": " (干戈)",
+      "example": {},
+      "meanings": [
+        "(무기) shields and spears, arms, weapons, (전쟁) warfare"
+      ]
+    },
+    {
+      "phrase": "간과하다",
+      "hanja": " (看過하다)",
+      "example": {},
+      "meanings": [
+        "ignore, overlook"
+      ]
+    },
+    {
+      "phrase": "간과를 거두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lay down arms",
+        "sheathe the sword",
+        "bury the hatchet"
+      ]
+    },
+    {
+      "phrase": "서로 간과를 들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "open hostilities",
+        "take up arms against each other",
+        "take up the hatchet"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "oversight",
+      "frequency": 0
+    },
+    {
+      "meaning": "preterition",
+      "frequency": 0
+    },
+    {
+      "meaning": "neglection",
+      "frequency": 0
+    },
+    {
+      "meaning": "overlook",
+      "frequency": 1
+    },
+    {
+      "meaning": "unnoticed",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이런 것들을 우리가 간과해서는 안 되겠죠? We can't fail to notice these things, right? 듣기 View video WINNER : How to 멋",
+      "english": "We can't fail to notice these things, right?"
+    },
+    {
+      "korean": "다들 본인의 입술을 간과하고 있어. I think everyone underestimates their lips. 듣기 View video KWAK TORI : 곽토리&려리<명란립대잔치> - Comet Beauty Festival 커밋뷰티페스티벌",
+      "english": "I think everyone underestimates their lips."
+    },
+    {
+      "korean": "시간이 너무 많이 남네요. 1시간을 내가 너무 간과했어. I have too much time. I underestimated one hour. 듣기 View video VIXX : Beats by Ravi",
+      "english": "I have too much time. I underestimated one hour."
+    },
+    {
+      "korean": "여러분이 지금 간과하고 있는 게 어떤 곡이 들어가 있을지 몰라요, 여러분. Nobody knows which song is in the album. 듣기 View video Block B : 박경이랑 아갓츄츄츄💞",
+      "english": "Nobody knows which song is in the album."
+    },
+    {
+      "korean": "제목에 대해 많은 사람들이 간과하고 있지 않나 하는 생각이 들어요. I think a lot of people are overlooking the title. 듣기 View video BTS : BTS Live : WINGS Behind story by RM",
+      "english": "I think a lot of people are overlooking the title."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "His kindness did not go unnoticed by his staff. 발음듣기 그의 친절을 그의 직원들이 간과하지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His kindness did not go unnoticed by his staff. 발음"
+    },
+    {
+      "korean": "He seems to have overlooked one important fact. 발음듣기 그가 한 가지 중요한 사실을 간과한 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He seems to have overlooked one important fact. 발음"
+    },
+    {
+      "korean": "We cannot overlook the significance of the attached e-mail from Angelo Equipment. 발음듣기 Angelo Equipment 사에서 보내온 첨부 메일의 중요성을 간과해선 안 됩니다. DARAKWON",
+      "english": "We cannot overlook the significance of the attached e-mail from Angelo Equipment. 발음"
+    },
+    {
+      "korean": "Motherism ignores the value of housekeeping and child-rearing. 발음듣기 전업주부에 대한 무시는 가정을 돌보고 아이를 기르는 것의 가치를 간과하는 처사이다. 국제영어대학원대학교 신어사전",
+      "english": "Motherism ignores the value of housekeeping and child-rearing. 발음"
+    },
+    {
+      "korean": "Banner blindness shouldn't be neglected when estimating the influence of online marketing campaigns. 발음듣기 온라인 마케팅의 영향력을 가늠할 때 배너 광고 회피를 간과하지 말아야 한다. 국제영어대학원대학교 신어사전",
+      "english": "Banner blindness shouldn't be neglected when estimating the influence of online marketing campaigns. 발음"
+    }
+  ]
+}

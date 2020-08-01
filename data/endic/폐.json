@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "폐",
+      "hanja": " (肺)",
+      "example": {},
+      "meanings": [
+        "(신체 기관)lung"
+      ]
+    },
+    {
+      "phrase": "폐",
+      "hanja": " (弊)",
+      "example": {},
+      "meanings": [
+        "(신세)trouble"
+      ]
+    },
+    {
+      "phrase": "폐-",
+      "hanja": " (弊-)",
+      "example": {},
+      "meanings": [
+        "[저희] my [our] humble...."
+      ]
+    },
+    {
+      "phrase": "폐-",
+      "hanja": " (廢)",
+      "example": {},
+      "meanings": [
+        "Affix pye-"
+      ]
+    },
+    {
+      "phrase": "폐암",
+      "hanja": " (肺癌)",
+      "example": {},
+      "meanings": [
+        "lung cancer, cancer of the lungs"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "trouble",
+      "frequency": 3
+    },
+    {
+      "meaning": "lung",
+      "frequency": 3
+    },
+    {
+      "meaning": "imposition",
+      "frequency": 0
+    },
+    {
+      "meaning": "encumbrance",
+      "frequency": 0
+    },
+    {
+      "meaning": "disservice",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "폐병원이었잖아 - 약간 무서웠던... It was an abandoned hospital. - Right, it was scary. 듣기 View video Stray Kids : 아기다리고기다리던공공즈😁",
+      "english": "It was an abandoned hospital. - Right, it was scary."
+    },
+    {
+      "korean": "심각해요 - 폐... Serious. - Abandoned. 듣기 View video 모비딕(Mobidic) : 11회 : 마지막 뒷 이야기 편 (The last story)",
+      "english": "Serious. - Abandoned."
+    },
+    {
+      "korean": "저번엔 폐 병원, 이번엔 미군 부대. Lung hospital then and US army base this time. 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.05",
+      "english": "Lung hospital then and US army base this time."
+    },
+    {
+      "korean": "[우리횸은 폐까지 건강미인이거든요...] 이거 긴데요 그렇죠? This is long though, right? 듣기 View video V PICK! : [HYOMIN] 10년차 귀효미의 망고단쓰단쓰💃🏻 (HYOMIN's MANGO dance)",
+      "english": "This is long though, right?"
+    },
+    {
+      "korean": "[첫 촬영 폐 기숙사 샤워실] 나가! 나가자! 나가! [The shower at the dorm in the first shooting] Go! Go! Go! 듣기 View video 모비딕(Mobidic) : 10회 : 버려진 선박 편 (An abandoned Ship)",
+      "english": "[The shower at the dorm in the first shooting] Go! Go! Go!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an operation on her lung to remove a tumour 듣기 Add to Wordbook 종양을 제거하기 위해 그녀의 폐에 한 수술 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an operation on her lung to remove a tumour Add to Wordbook"
+    },
+    {
+      "korean": "These fine particles penetrate deep into the lungs. 듣기 Add to Wordbook 이들 미세 입자는 폐 깊숙이 뚫고 들어간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These fine particles penetrate deep into the lungs. Add to Wordbook"
+    },
+    {
+      "korean": "Mortality from lung cancer is still increasing. 듣기 Add to Wordbook 폐암으로 인한 사망자 수가 아직도 증가하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mortality from lung cancer is still increasing. Add to Wordbook"
+    },
+    {
+      "korean": "He has terminal lung cancer. 듣기 Add to Wordbook 그는 말기 폐암에 걸렸다[폐암을 앓고 있다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has terminal lung cancer. Add to Wordbook"
+    },
+    {
+      "korean": "She was taken to the hospital with broken ribs and a punctured lung. 듣기 Add to Wordbook 그녀는 갈비뼈가 부러지고 폐에 구멍이 나서 병원으로 실려 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was taken to the hospital with broken ribs and a punctured lung. Add to Wordbook"
+    }
+  ]
+}

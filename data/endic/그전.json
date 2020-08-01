@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "그전",
+      "hanja": " (그前)",
+      "example": {},
+      "meanings": [
+        "former days[times], the other day, the past"
+      ]
+    },
+    {
+      "phrase": "그전에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the past",
+        "formerly",
+        "before"
+      ]
+    },
+    {
+      "phrase": "그전같이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as before",
+        "as usual"
+      ]
+    },
+    {
+      "phrase": "그전 주소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a former address"
+      ]
+    },
+    {
+      "phrase": "그는 45분 전에 떠났다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "He left 45 minutes ago."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "just",
+      "frequency": 2
+    },
+    {
+      "meaning": "great",
+      "frequency": 2
+    },
+    {
+      "meaning": "before my, your, his, etc. time",
+      "frequency": 0
+    },
+    {
+      "meaning": "the years preceding the war",
+      "frequency": 0
+    },
+    {
+      "meaning": "They left before daylight.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그전에 들었던 노래, 이렇게 마지막 노래도... So, I'll choose the last song... 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 65",
+      "english": "So, I'll choose the last song..."
+    },
+    {
+      "korean": "그전에 우리가 왜 이걸 켰을까요? Before that, why did we turn this on? 듣기 View video NCT : 오랜만😆😆💚",
+      "english": "Before that, why did we turn this on?"
+    },
+    {
+      "korean": "[그 전에 한 말은 무슨 뜻?] 아니 어딜 봐도 맛있게 생겼다고요? [What does that mean?] It looks great? 듣기 View video iKON : iKON-ON : THAI FOOD CHALLENGE",
+      "english": "[What does that mean?] It looks great?"
+    },
+    {
+      "korean": "그 전에 저한테 먼저 찾아왔죠? - 연준... 내가 너한테? Before that, you wanted to talk to me. - YEONJUN... I did? 듣기 View video TOMORROW X TOGETHER : 수빈&범규의 티타임 🥑🍍",
+      "english": "Before that, you wanted to talk to me. - YEONJUN... I did?"
+    },
+    {
+      "korean": "연준이 형이랑 데뷔 조로 엮인 다음에 친해진 거지, 그전까지는... I got to know him after we became a team. Before that... 듣기 View video TOMORROW X TOGETHER : 같이 먹어요",
+      "english": "I got to know him after we became a team. Before that..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Few people had trod this path before. 발음듣기 그 전에 이 오솔길에 발을 디딘 사람은 거의 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Few people had trod this path before. 발음"
+    },
+    {
+      "korean": "They rebuilt the house on an even more lavish scale than before. 발음듣기 그들은 그 집을 그 전보다 훨씬 더 호화로운 규모로 개축했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They rebuilt the house on an even more lavish scale than before. 발음"
+    },
+    {
+      "korean": "It had been fine the week before. 발음듣기 그 전 주는 날씨가 좋았었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It had been fine the week before. 발음"
+    },
+    {
+      "korean": "Why ever didn’t you tell us before? 발음듣기 도대체 왜 그 전에 우리에게 말을 안 했니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Why ever didn’t you tell us before? 발음"
+    },
+    {
+      "korean": "Her life had always run smoothly before. 발음듣기 그 전에는 그녀의 삶이 언제나 잘 굴러갔었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her life had always run smoothly before. 발음"
+    }
+  ]
+}

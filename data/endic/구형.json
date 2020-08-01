@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "구형",
+      "hanja": " (球形)",
+      "example": {},
+      "meanings": [
+        "(공처럼 둥근 모양) globular shape, globular form"
+      ]
+    },
+    {
+      "phrase": "구형",
+      "hanja": " (舊型)",
+      "example": {},
+      "meanings": [
+        "(구식) old type[style, fashion]"
+      ]
+    },
+    {
+      "phrase": "구형",
+      "hanja": " (求刑)",
+      "example": {},
+      "meanings": [
+        "Noun prosecutor's proposal of punishment for the accused"
+      ]
+    },
+    {
+      "phrase": "구형의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "round",
+        "globular",
+        "spherical"
+      ]
+    },
+    {
+      "phrase": "구형하다",
+      "hanja": " (求刑하다)",
+      "example": {},
+      "meanings": [
+        "demand (a penalty)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sphericity",
+      "frequency": 0
+    },
+    {
+      "meaning": "rotundity",
+      "frequency": 0
+    },
+    {
+      "meaning": "conglobation",
+      "frequency": 0
+    },
+    {
+      "meaning": "globosity",
+      "frequency": 0
+    },
+    {
+      "meaning": "sphericalness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "New computer software is often incompatible with older computers. 듣기 Add to Wordbook 새 컴퓨터 소프트웨어는 흔히 구형 컴퓨터에서는 쓸 수가[호환성이] 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "New computer software is often incompatible with older computers. Add to Wordbook"
+    },
+    {
+      "korean": "The Earth is not perfectly spherical[globular]. 듣기 Add to Wordbook 지구는 완벽한 구형은 아니다 Neungyule",
+      "english": "The Earth is not perfectly spherical[globular]. Add to Wordbook"
+    },
+    {
+      "korean": "The prosecutor demanded life imprisonment for the accused. 듣기 Add to Wordbook 검사는 피고에게 무기징역을 구형했다 Neungyule",
+      "english": "The prosecutor demanded life imprisonment for the accused. Add to Wordbook"
+    },
+    {
+      "korean": "It will feature vintage items. 듣기 Add to Wordbook 구형 제품을 특집으로 한다. YBM All in All English-Korean Dictionary",
+      "english": "It will feature vintage items. Add to Wordbook"
+    },
+    {
+      "korean": "Ratchet also has plans to dismantle and replace all outmoded robots. 듣기 Add to Wordbook 라챗은 또한 모든 구형 로봇을 제거하고 교체할려는 음모를 꾸민다. Neungyule",
+      "english": "Ratchet also has plans to dismantle and replace all outmoded robots. Add to Wordbook"
+    }
+  ]
+}

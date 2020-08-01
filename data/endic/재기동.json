@@ -1,0 +1,45 @@
+{
+  "phrases": [
+    {
+      "phrase": "재기동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 restart"
+      ]
+    },
+    {
+      "phrase": "재기동 장치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 restarting device"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "restarting device",
+      "frequency": 0
+    },
+    {
+      "meaning": "restart region",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Closing the Setup Guide by pressing [OK] causes the machine to restart. 듣기 Add to Wordbook [확인]을 눌러 설정 가이드를 닫으면 기기가 재기동합니다. hansemEUG",
+      "english": "Closing the Setup Guide by pressing [OK] causes the machine to restart. Add to Wordbook"
+    },
+    {
+      "korean": "After the restart, the main menu is displayed and you can use the machine. 듣기 Add to Wordbook 재기동 후 메인메뉴가 나타나고, 기기를 사용할 수 있습니다. hansemEUG",
+      "english": "After the restart, the main menu is displayed and you can use the machine. Add to Wordbook"
+    },
+    {
+      "korean": "A message prompting you to restart the machine (turning the main power switch OFF, and then ON) appears. 듣기 Add to Wordbook 주전원 스위치를 껐다가 다시 켜서 기기를 재기동하라는 메시지가 나타납니다. hansemEUG",
+      "english": "A message prompting you to restart the machine (turning the main power switch OFF, and then ON) appears. Add to Wordbook"
+    }
+  ]
+}

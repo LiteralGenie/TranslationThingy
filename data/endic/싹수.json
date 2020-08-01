@@ -1,0 +1,87 @@
+{
+  "phrases": [
+    {
+      "phrase": "싹수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "one's chances"
+      ]
+    },
+    {
+      "phrase": "싹수가 노랗다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a slim chance of success",
+        "show no promise of success",
+        "have a dog's chance"
+      ]
+    },
+    {
+      "phrase": "싹수가 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be promising",
+        "show promise of success"
+      ]
+    },
+    {
+      "phrase": "싹수가 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be hopeless",
+        "show no promise of success",
+        "have no prospect"
+      ]
+    },
+    {
+      "phrase": "싹수없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective hopeless, having no prospects"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rudiment",
+      "frequency": 1
+    },
+    {
+      "meaning": "have no prospect (of)",
+      "frequency": 0
+    },
+    {
+      "meaning": "have no prospect",
+      "frequency": 0
+    },
+    {
+      "meaning": "have a dog's chance",
+      "frequency": 0
+    },
+    {
+      "meaning": "show promise of success",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그리고 저희한테 너희 뭐냐 싹수없게 반말하지. And she rudely asked who we were. 듣기 View video 홍익슈퍼 (HONG IK SUPER) : [홍익슈퍼]EP13_ 위기에 빠진 연희",
+      "english": "And she rudely asked who we were."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The way that kid talks back to his elders, he'll grow up to be no good. 발음듣기 어린 녀석이 어른한테 대드는 걸 보니 싹수가 노랗다 Neungyule",
+      "english": "The way that kid talks back to his elders, he'll grow up to be no good. 발음"
+    },
+    {
+      "korean": "Considering that he already goes through his mother's wallet, I can see that he's got no future. 발음듣기 벌써부터 어머니 지갑을 뒤지는 것을 보니 그도 싹수가 노랗다 Neungyule",
+      "english": "Considering that he already goes through his mother's wallet, I can see that he's got no future. 발음"
+    }
+  ]
+}

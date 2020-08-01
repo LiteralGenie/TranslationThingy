@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "보고서",
+      "hanja": " (報告書)",
+      "example": {},
+      "meanings": [
+        "report, paper"
+      ]
+    },
+    {
+      "phrase": "보고(서)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 report"
+      ]
+    },
+    {
+      "phrase": "연차 보고서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "annual report"
+      ]
+    },
+    {
+      "phrase": "보고서를 작성하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a report"
+      ]
+    },
+    {
+      "phrase": "보고서 작성을 완료하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "complete writing a report"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "review",
+      "frequency": 2
+    },
+    {
+      "meaning": "report",
+      "frequency": 2
+    },
+    {
+      "meaning": "return",
+      "frequency": 2
+    },
+    {
+      "meaning": "memorandum",
+      "frequency": 1
+    },
+    {
+      "meaning": "cahier",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "보고서는 어떤 사연이 담겨 있을지? What story will be hidden in report? 듣기 View video WOODZ (조승연) : [full] WOODZ 1ST MINI ALBUM [EQUAL] SHOWCASE",
+      "english": "What story will be hidden in report?"
+    },
+    {
+      "korean": "이제... - 나 얼마 전에 너 프롬 제목 보고서 진짜 내가 손 발 다 오그라져서 - 봤어? Now, - I saw a title or your letter and it made me cringe. - Did you read it? 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "Now, - I saw a title or your letter and it made me cringe. - Did you read it?"
+    },
+    {
+      "korean": "[무조건 운동 잘못... 운동 너 뒤로 돌아 벽 보고 서 있어]아니야 운동하고 싶진 않아... [It's the fault of sports... Exercise, you have to face the wall] I don't want to work out. 듣기 View video V PICK! : [TXT] 이 사랑둥 말랑둥 뿌앵토끼 이렇게 귀여우면 오쪼냐고..💓🐰💦 (SOOBIN talking about trainee episode)",
+      "english": "[It's the fault of sports... Exercise, you have to face the wall] I don't want to work out."
+    },
+    {
+      "korean": "보고서 이렇게 웃기만 했어요 - 진짜? I saw it and I just smiled. - Really? 듣기 View video CIX : 첫 브이앱💛",
+      "english": "I saw it and I just smiled. - Really?"
+    },
+    {
+      "korean": "[너 당장 벽 보고 서있어] - 그러니까 기다려 달라고 - 잡아? [I will punish you] - Please wait for me. - Do I have to catch the days? 듣기 View video V PICK! : [MAMAMOO] 오늘도 사이좋은 용쾅별쾅에 내 심장 정..상..작..동..! (Solar&Moon Byul acting ’Start love’)",
+      "english": "[I will punish you] - Please wait for me. - Do I have to catch the days?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He thumped the report down on my desk. 발음듣기 그가 그 보고서를 내 책상 위에 탁 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He thumped the report down on my desk. 발음"
+    },
+    {
+      "korean": "The report is a masterpiece of brevity. 발음듣기 그 보고서는 간결성의 극치를 보여준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The report is a masterpiece of brevity. 발음"
+    },
+    {
+      "korean": "The report exposes the injustices of the system. 발음듣기 그 보고서는 그 제도의 부당성을 폭로하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The report exposes the injustices of the system. 발음"
+    },
+    {
+      "korean": "The report is underpinned by extensive research. 발음듣기 그 보고서는 광범위한 실태 조사로 뒷받침되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The report is underpinned by extensive research. 발음"
+    },
+    {
+      "korean": "The report paints a vivid picture of life in the city. 발음듣기 그 보고서는 그 도시의 삶을 생생하게 묘사하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The report paints a vivid picture of life in the city. 발음"
+    }
+  ]
+}

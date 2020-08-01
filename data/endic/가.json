@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "가",
+      "hanja": " (可)",
+      "example": {},
+      "meanings": [
+        "(옳음) (fairly) good 가하다 (be) right, good",
+        "(등급) passable, (성적의) D(수·우·미·양·가의)",
+        "OK(찬성) approval, yes, yea, aye,"
+      ]
+    },
+    {
+      "phrase": "가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(가장자리) the edge, the verge, the brink, the rim, the fringe, (둘레) by, near",
+        "(그릇의 아가리 쪽 언저리) the brim"
+      ]
+    },
+    {
+      "phrase": "가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음악) la(음계의 제6음)"
+      ]
+    },
+    {
+      "phrase": "가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition ga (→이7)",
+        "Postposition ga (→이7)",
+        "Postposition ga (→이7)"
+      ]
+    },
+    {
+      "phrase": "-가",
+      "hanja": " (街)",
+      "example": {},
+      "meanings": [
+        "(거리) a street, an avenue",
+        "(구역) a district, a center, a quarter"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "side",
+      "frequency": 3
+    },
+    {
+      "meaning": "for",
+      "frequency": 3
+    },
+    {
+      "meaning": "in",
+      "frequency": 3
+    },
+    {
+      "meaning": "house",
+      "frequency": 3
+    },
+    {
+      "meaning": "parade",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어디 가?",
+      "english": "Where are you going?"
+    },
+    {
+      "korean": "이거 먹고 저리 가!",
+      "english": "Take this and go!"
+    },
+    {
+      "korean": "진짜 가볼게요! - 네!",
+      "english": "Let's go. - Okay!"
+    },
+    {
+      "korean": "안돼 우리 죽어 - 가버려!",
+      "english": "No, we are going to die. - Go!"
+    },
+    {
+      "korean": "조금 앞으로 더 가볼까요?",
+      "english": "Should I go closer to the camera?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그가 방금 내 차를 몰고 가 버렸어!",
+      "english": "He just waltzed off with my car!"
+    },
+    {
+      "korean": "그 총알은 벽에 가 박혔다.",
+      "english": "The bullet embedded itself in the wall."
+    },
+    {
+      "korean": "그가 부루퉁해서 자기 방으로 가 버렸다.",
+      "english": "He went off to sulk in his room."
+    },
+    {
+      "korean": "우리는 하루 종일 수영장 가에서 느긋하게 보냈다.",
+      "english": "We lazed by the pool all day."
+    },
+    {
+      "korean": "내 배낭이 길을 잃은[어디 딴 데 가 있는] 모양이다.",
+      "english": "My rucksack seems to have gone walkabout."
+    }
+  ]
+}

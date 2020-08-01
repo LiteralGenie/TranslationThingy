@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "기습",
+      "hanja": " (奇襲)",
+      "example": {},
+      "meanings": [
+        "(군사 공격) [명사] ambush, raid, blitz, surprise[sudden] attack, [동사] ambush, raid, blitz (=급습)",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "기습(하다)",
+      "hanja": " (奇襲 ~)",
+      "example": {},
+      "meanings": [
+        "군사 surprise, raid, blitzkrieg"
+      ]
+    },
+    {
+      "phrase": "기습 공격",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a surprise attack"
+      ]
+    },
+    {
+      "phrase": "기습을 당하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be ambushed[raided]",
+        "be attacked unawares"
+      ]
+    },
+    {
+      "phrase": "적을 기습 공격하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ambush[raid] the enemy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "surprise",
+      "frequency": 2
+    },
+    {
+      "meaning": "swoop",
+      "frequency": 1
+    },
+    {
+      "meaning": "surprise attack",
+      "frequency": 0
+    },
+    {
+      "meaning": "surprisal",
+      "frequency": 0
+    },
+    {
+      "meaning": "coup de main",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[기습 공격][방어] 찌! [Surprise attack] [Defense] Scissors! 듣기 View video Dispatch : [ⓓxV] “빅망진창 Mayday 합주회 ②” (빅톤 : VICTON)",
+      "english": "[Surprise attack] [Defense] Scissors!"
+    },
+    {
+      "korean": "[기습 공격2][방어2] 찌! [Surprise attack 2] [Defense 2] Scissors! 듣기 View video Dispatch : [ⓓxV] “빅망진창 Mayday 합주회 ②” (빅톤 : VICTON)",
+      "english": "[Surprise attack 2] [Defense 2] Scissors!"
+    },
+    {
+      "korean": "[받아라 기습 공격] [당함] 찌! [Here goes the surprise attack] [Defeated] Scissors! 듣기 View video Dispatch : [ⓓxV] “빅망진창 Mayday 합주회 ②” (빅톤 : VICTON)",
+      "english": "[Here goes the surprise attack] [Defeated] Scissors!"
+    },
+    {
+      "korean": "기습 키스를 당한다면? If I was suddenly kissed? 듣기 View video WOODZ (조승연) : CsYWORLD",
+      "english": "If I was suddenly kissed?"
+    },
+    {
+      "korean": "기습 방송! - 네 - 예스~ Spot Live! - Yes. - Yeah~ 듣기 View video V PICK! : [BTS] 🗣: 거기 누가 있다고 거길봐? 💜: 큐티말랑엔젤쓰.. 이 깜찍함 극락이 확실ㅠ (BTS’s V before the stage)",
+      "english": "Spot Live! - Yes. - Yeah~"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "coup de main 발음듣기 기습. Friendict Level English-Korean Dictionary",
+      "english": "coup de main 발음"
+    },
+    {
+      "korean": "The army attacked at night to surprise the rebels. 발음듣기 군대가 밤에 반란군들을 기습 공격했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The army attacked at night to surprise the rebels. 발음"
+    },
+    {
+      "korean": "Police stormed the building and captured the gunman. 발음듣기 경찰이 그 건물을 기습하여 그 총기범을 붙잡았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police stormed the building and captured the gunman. 발음"
+    },
+    {
+      "korean": "Five shops were damaged in a firebomb blitz. 발음듣기 그 폭탄 기습 공격으로 상점 다섯 곳이 파괴되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Five shops were damaged in a firebomb blitz. 발음"
+    },
+    {
+      "korean": "A surprise air attack was launched at night. 발음듣기 야간에 기습 폭격이 감행되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A surprise air attack was launched at night. 발음"
+    }
+  ]
+}

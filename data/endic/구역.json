@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "구역",
+      "hanja": " (區域)",
+      "example": {},
+      "meanings": [
+        "area, quarter, (담당 구역) beat, (행정상의) (Am) precinct, (특별한 용도로 쓰이는) zone, (상업적인) territory"
+      ]
+    },
+    {
+      "phrase": "행정구역",
+      "hanja": " (行政區域)",
+      "example": {},
+      "meanings": [
+        "administrative district[division, section]"
+      ]
+    },
+    {
+      "phrase": "담당 구역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "area of responsibility, (경찰 등의 순찰 구역 ) beat, (외판원의 ) territory"
+      ]
+    },
+    {
+      "phrase": "통제구역",
+      "hanja": " (統制區域)",
+      "example": {},
+      "meanings": [
+        "restricted area"
+      ]
+    },
+    {
+      "phrase": "제한구역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "restricted area[district]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "zone",
+      "frequency": 3
+    },
+    {
+      "meaning": "area",
+      "frequency": 3
+    },
+    {
+      "meaning": "block",
+      "frequency": 3
+    },
+    {
+      "meaning": "quarter",
+      "frequency": 3
+    },
+    {
+      "meaning": "bay",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[오늘도 이 구역의 직진남] 지훈!",
+      "english": "[Going straight] JIHOON!"
+    },
+    {
+      "korean": "E구역 F구역 야 이거 가자!",
+      "english": "Areas E or F! Let's go with this!"
+    },
+    {
+      "korean": "9구역 다 나온 거 맞나?",
+      "english": "Has it been released?"
+    },
+    {
+      "korean": "이 구역의 미친 리?",
+      "english": "Crazy something around here?"
+    },
+    {
+      "korean": "E, F 구역으로 할게요...",
+      "english": "I'll aim for areas E and F."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 페널티 구역에서 반칙을 당했다.",
+      "english": "He was fouled inside the penalty area."
+    },
+    {
+      "korean": "브리스톨 항만 구역 재개발 추진 진행 계획",
+      "english": "plans to further redevelop Bristol’s docklands"
+    },
+    {
+      "korean": "그 새 조약에서는 무역 자유 구역을 설정하고 있다.",
+      "english": "The new treaty establishes a free trade zone."
+    },
+    {
+      "korean": "우리는 바로 우리 구역에서 정보를 캐고 다니는 한 남자를 찾아냈다.",
+      "english": "We found a man nosing around in our backyard."
+    },
+    {
+      "korean": "그 보호 구역은 약 1 140 평방킬로미터의 지역에 걸쳐 있다.",
+      "english": "The reserve covers an area of some 1140 square kilometres."
+    }
+  ]
+}

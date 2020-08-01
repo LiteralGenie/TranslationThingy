@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "가치",
+      "hanja": " (價値)",
+      "example": {},
+      "meanings": [
+        "value, worth"
+      ]
+    },
+    {
+      "phrase": "같이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition gachi",
+        "Postposition gachi"
+      ]
+    },
+    {
+      "phrase": "가치 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "valuable",
+        "worthy",
+        "worthwhile"
+      ]
+    },
+    {
+      "phrase": "부가가치",
+      "hanja": " (附加價値)",
+      "example": {},
+      "meanings": [
+        "added value"
+      ]
+    },
+    {
+      "phrase": "희소가치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "scarcity value"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "value",
+      "frequency": 3
+    },
+    {
+      "meaning": "worth",
+      "frequency": 3
+    },
+    {
+      "meaning": "core",
+      "frequency": 3
+    },
+    {
+      "meaning": "attach",
+      "frequency": 3
+    },
+    {
+      "meaning": "merit",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다음 가치 쪽지는요? What would it be? 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "What would it be?"
+    },
+    {
+      "korean": "우아함이라는 가치 쪽지를... It says elegance. 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "It says elegance."
+    },
+    {
+      "korean": "다음 가치 쪽지는? Whose paper will be picked? 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "Whose paper will be picked?"
+    },
+    {
+      "korean": "그만큼 동양의 가치도... The value of the Orient... 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "The value of the Orient..."
+    },
+    {
+      "korean": "드디어 마지막 가치 쪽지만이 남았어요! We have the last one! 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "We have the last one!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the net asset value of the company 듣기 Add to Wordbook 그 회사의 순자산 가치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the net asset value of the company Add to Wordbook"
+    },
+    {
+      "korean": "This vase is worth several hundred dollars. 듣기 Add to Wordbook 이 화병은 가치가 수백 달러 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This vase is worth several hundred dollars. Add to Wordbook"
+    },
+    {
+      "korean": "The area is valued for its vineyards. 듣기 Add to Wordbook 그 지역은 포도밭들 때문에 가치 있게 여겨진다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The area is valued for its vineyards. Add to Wordbook"
+    },
+    {
+      "korean": "the value of the rupee against a basket of currencies 듣기 Add to Wordbook 바스켓 방식 통화 대비 루피화 가치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the value of the rupee against a basket of currencies Add to Wordbook"
+    },
+    {
+      "korean": "millions of pounds’ worth of Batman merchandising 듣기 Add to Wordbook 수백만 파운드 가치의 배트맨 캐릭터 상품 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "millions of pounds’ worth of Batman merchandising Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "명망",
+      "hanja": " (名望)",
+      "example": {},
+      "meanings": [
+        "reputation"
+      ]
+    },
+    {
+      "phrase": "명망이 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reputed",
+        "renowned",
+        "popular"
+      ]
+    },
+    {
+      "phrase": "명망을 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fall in public estimation",
+        "lose one´s popularity"
+      ]
+    },
+    {
+      "phrase": "명망이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a reputation",
+        "be well-reputed",
+        "be popular"
+      ]
+    },
+    {
+      "phrase": "명망을 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gain fame"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "honour",
+      "frequency": 2
+    },
+    {
+      "meaning": "prestige",
+      "frequency": 1
+    },
+    {
+      "meaning": "프리스티지",
+      "frequency": 0
+    },
+    {
+      "meaning": "prestigious",
+      "frequency": 0
+    },
+    {
+      "meaning": "a prestigious award",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "jobs with low prestige 발음듣기 명망 없는 일자리들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "jobs with low prestige 발음"
+    },
+    {
+      "korean": "He is well-reputed in the society. 발음듣기 그는 사회적으로 명망이 높은 인물이다 Neungyule",
+      "english": "He is well-reputed in the society. 발음"
+    },
+    {
+      "korean": "He now enjoys a fairly high reputation. 발음듣기 이제 그는 상당한 명망가이다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He now enjoys a fairly high reputation. 발음"
+    },
+    {
+      "korean": "The highly respected conductor began his musical career as a pianist, making his performance debut in Seoul at the age of seven. 발음듣기 명망 높은 지휘자 정명훈은 피아니스트로서 음악 활동을 시작했으며, 서울에서 7살의 나이에 첫 공연을 했다. Neungyule",
+      "english": "The highly respected conductor began his musical career as a pianist, making his performance debut in Seoul at the age of seven. 발음"
+    },
+    {
+      "korean": "Her success in business had earned her a certain cachet in society[a high social reputation]. 발음듣기 그녀는 사업의 성공으로 사회적 명망을 얻었다 Neungyule",
+      "english": "Her success in business had earned her a certain cachet in society[a high social reputation]. 발음"
+    }
+  ]
+}

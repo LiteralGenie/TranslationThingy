@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "가격",
+      "hanja": " (價格)",
+      "example": {},
+      "meanings": [
+        "price"
+      ]
+    },
+    {
+      "phrase": "가격",
+      "hanja": " (加擊)",
+      "example": {},
+      "meanings": [
+        "Noun hitting, striking"
+      ]
+    },
+    {
+      "phrase": "가격 인하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reduction of prices"
+      ]
+    },
+    {
+      "phrase": "가격 차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "price difference"
+      ]
+    },
+    {
+      "phrase": "시장가격",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "market price"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "price",
+      "frequency": 3
+    },
+    {
+      "meaning": "tab",
+      "frequency": 0
+    },
+    {
+      "meaning": "terms",
+      "frequency": 0
+    },
+    {
+      "meaning": "marketing mix",
+      "frequency": 0
+    },
+    {
+      "meaning": "run up",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가격 미정인가요, 아직? Is the price set? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Is the price set?"
+    },
+    {
+      "korean": "'곡괭이 가격 알려주세요' 곡괭이 가격 얼마야? \"Please tell us the price of the pickaxe.\" How much is the pickaxe? 듣기 View video KIM JAEJOONG : [LIVE] 내일은 재중이와 콘서트에서 만나는 날💛",
+      "english": "\"Please tell us the price of the pickaxe.\" How much is the pickaxe?"
+    },
+    {
+      "korean": "맛있는 거? - 네, 좀 가격 있는 음식을 먹을 수 있는 거예요? Something delicious? - Something pricey? 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "Something delicious? - Something pricey?"
+    },
+    {
+      "korean": "요리하는 데 가격도 중요하거든요 저렴한... Affordability is a really important factor in cooking you know. 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "Affordability is a really important factor in cooking you know."
+    },
+    {
+      "korean": "[너도나도 마이크 가격 확인 중] - 150만 원이야? - 150이야? [Everyone's checking its price] - 1.5 million won? - 1.5 million? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[Everyone's checking its price] - 1.5 million won? - 1.5 million?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The price of wheat has decreased by 15%. 듣기 Add to Wordbook 밀 가격이 15% 하락했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The price of wheat has decreased by 15%. Add to Wordbook"
+    },
+    {
+      "korean": "They have pitched their prices too high. 듣기 Add to Wordbook 그들이 가격을 너무 높이 잡았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They have pitched their prices too high. Add to Wordbook"
+    },
+    {
+      "korean": "a business beset by price wars and market saturation 듣기 Add to Wordbook 가격 전쟁과 시장 포화 상태에 시달리는 사업(체) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a business beset by price wars and market saturation Add to Wordbook"
+    },
+    {
+      "korean": "Their prices compare favourably with those of their competitors. 듣기 Add to Wordbook 그들의 가격이 경쟁사들의 가격에 비해 낫다[유리하다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their prices compare favourably with those of their competitors. Add to Wordbook"
+    },
+    {
+      "korean": "Prices are based on full occupancy of an apartment. 듣기 Add to Wordbook 가격은 아파트 전체를 사용하는 것을 기준으로 한 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prices are based on full occupancy of an apartment. Add to Wordbook"
+    }
+  ]
+}

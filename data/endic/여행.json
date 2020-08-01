@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "여행",
+      "hanja": " (旅行)",
+      "example": {},
+      "meanings": [
+        "travel, traveling, trip, tour, journey, travel, (formal) journey, take a trip, go on a trip"
+      ]
+    },
+    {
+      "phrase": "여행(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 travel"
+      ]
+    },
+    {
+      "phrase": "여행가",
+      "hanja": " (旅行家)",
+      "example": {},
+      "meanings": [
+        "(Am) (professional) traveler, (Brit) traveller"
+      ]
+    },
+    {
+      "phrase": "배낭여행",
+      "hanja": " (背囊旅行)",
+      "example": {},
+      "meanings": [
+        "backpacking"
+      ]
+    },
+    {
+      "phrase": "해외여행",
+      "hanja": " (海外旅行)",
+      "example": {},
+      "meanings": [
+        "overseas trip[travel]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "travel",
+      "frequency": 3
+    },
+    {
+      "meaning": "tour",
+      "frequency": 3
+    },
+    {
+      "meaning": "flight",
+      "frequency": 3
+    },
+    {
+      "meaning": "journey",
+      "frequency": 3
+    },
+    {
+      "meaning": "expedition",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "맞아요, 코스예요 - 제주도로 수학여행? Right, that is it. - Oh, a field trip to the Jeju island? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Right, that is it. - Oh, a field trip to the Jeju island?"
+    },
+    {
+      "korean": "이렇게 이제 해외에 여행 왔어요 - 공항에서 만났어요? We're overseas on a trip now. - Did you meet at the airport? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "We're overseas on a trip now. - Did you meet at the airport?"
+    },
+    {
+      "korean": "출발 슼 비디오 여행? Go SKZ video trip? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "Go SKZ video trip?"
+    },
+    {
+      "korean": "야 이런 게 수학여행의 스릴이지~ That's the fun of school trips~ 듣기 View video 콬TV (WHYNOT) : 남사친이 진심으로 날 좋아한다고 고백했다 [리얼:타임:러브2] EP4",
+      "english": "That's the fun of school trips~"
+    },
+    {
+      "korean": "여행 가서 얼마나 먹고 온 거야? How much did you eat on your trip? 듣기 View video MAMAMOO : [Special] MOONBYUL's Weird Day Vlog #1",
+      "english": "How much did you eat on your trip?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They’ve gone on an excursion to York. 듣기 Add to Wordbook 그들은 요크로 여행을 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They’ve gone on an excursion to York. Add to Wordbook"
+    },
+    {
+      "korean": "She wanted to travel to broaden her horizons. 듣기 Add to Wordbook 그녀는 시야를 넓히기 위해 여행을 하고 싶었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She wanted to travel to broaden her horizons. Add to Wordbook"
+    },
+    {
+      "korean": "Our camping trip was spoilt by bad weather. 듣기 Add to Wordbook 우리의 캠핑 여행은 날씨가 안 좋아서 망쳐 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our camping trip was spoilt by bad weather. Add to Wordbook"
+    },
+    {
+      "korean": "He had miscalculated how long the trip would take. 듣기 Add to Wordbook 그는 그 여행이 얼마나 오래 걸릴 것인지를 잘못 계산했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had miscalculated how long the trip would take. Add to Wordbook"
+    },
+    {
+      "korean": "Towns in the guide are listed alphabetically. 듣기 Add to Wordbook 그 여행 안내서에 나오는 소도시들은 알파벳순으로 열거되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Towns in the guide are listed alphabetically. Add to Wordbook"
+    }
+  ]
+}

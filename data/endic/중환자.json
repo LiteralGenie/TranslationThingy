@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "중환자",
+      "hanja": " (重患者)",
+      "example": {},
+      "meanings": [
+        "critical patient, serious patient"
+      ]
+    },
+    {
+      "phrase": "중환자명부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 seriously ill list (SIL)"
+      ]
+    },
+    {
+      "phrase": "중환자치료의학",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 critical care medicine"
+      ]
+    },
+    {
+      "phrase": "중환자 치료구역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 critical care areas"
+      ]
+    },
+    {
+      "phrase": "소아 중환자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "critically ill child"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a very serious case",
+      "frequency": 0
+    },
+    {
+      "meaning": "seriously ill",
+      "frequency": 0
+    },
+    {
+      "meaning": "critically ill patient",
+      "frequency": 0
+    },
+    {
+      "meaning": "danger list",
+      "frequency": 0
+    },
+    {
+      "meaning": "a critical list",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "중환자실이고요. in the intensive care unit. 듣기 View video V Special : SBS<낭만닥터 김사부> 한석규,서현진,유연석의 설레는 첫 만남",
+      "english": "in the intensive care unit."
+    },
+    {
+      "korean": "중환자실에서 만나 각자의 버킷 리스트를 실행에 옮긴 과정을 다룬 영화라고 해요. met each other at ICU and decided to do things on their wish lists. 듣기 View video V COOKIE : [REPLAY] INFINITE NAM WOO HYUN's LieV - 인피니트 남우현의 눕방 라이브!",
+      "english": "met each other at ICU and decided to do things on their wish lists."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He is critically ill in intensive care. 듣기 Add to Wordbook 그는 중환자실에서 치료를 받고 있는 위독한 환자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is critically ill in intensive care. Add to Wordbook"
+    },
+    {
+      "korean": "He was put on a life-support machine in intensive care. 듣기 Add to Wordbook 그는 중환자실에서 생명 유지 장치를 달고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was put on a life-support machine in intensive care. Add to Wordbook"
+    },
+    {
+      "korean": "Just visited my dad in the hospital. He’s recovering fast, but still in ICU. 듣기 Add to Wordbook 아버지 병문안 다녀왔어. 회복이 빠르긴 한데, 아직 중환자실에 계셔. DARAKWON",
+      "english": "Just visited my dad in the hospital. He’s recovering fast, but still in ICU. Add to Wordbook"
+    },
+    {
+      "korean": "Most of the patients in the ICU are lurgy-lurgy. 듣기 Add to Wordbook 중환자실의 대부분 환자들은 환각 증세를 겪는다. 국제영어대학원대학교 신어사전",
+      "english": "Most of the patients in the ICU are lurgy-lurgy. Add to Wordbook"
+    },
+    {
+      "korean": "Since he had been in the hospital's intensive care unit for a long period, he had pyjama paralysis. 듣기 Add to Wordbook 그는 병원의 중환자실에 오래 있었기 때문에 피자마 마비 상태였다. 국제영어대학원대학교 신어사전",
+      "english": "Since he had been in the hospital's intensive care unit for a long period, he had pyjama paralysis. Add to Wordbook"
+    }
+  ]
+}

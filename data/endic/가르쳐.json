@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "가르치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(지식·기능 등을) teach, (formal) instruct; (기술 등을) train, coach",
+        "(몰랐던 것을) (말로) tell, (지도·사진 등으로) show"
+      ]
+    },
+    {
+      "phrase": "객실 번호를 가르쳐 주십시오.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Please give your room number."
+      ]
+    },
+    {
+      "phrase": "스펠링을 가르쳐 주십시오.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전화 기본 표현 Please spell it for me.",
+        "전화 기본 표현 How is it spelled?",
+        "전화 기본 표현 Please tell me the spelling."
+      ]
+    },
+    {
+      "phrase": "지금 몇 시인지 가르쳐 줄래요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "부탁 Can you give me the time?"
+      ]
+    },
+    {
+      "phrase": "시험 범위를 가르쳐 줄 수 있어요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "부탁 Can you please tell me what the test will be on?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "teach",
+      "frequency": 2
+    },
+    {
+      "meaning": "pre-teach",
+      "frequency": 0
+    },
+    {
+      "meaning": "spoon-feed",
+      "frequency": 0
+    },
+    {
+      "meaning": "inculcation",
+      "frequency": 0
+    },
+    {
+      "meaning": "prime 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'오빠 내가 코로 매운 떡볶이를 먹는 법을 가르쳐 줄게'? \"I will teach you how to eat tteok-bokki with your nose.\" 듣기 View video iKON : 짜자잔",
+      "english": "\"I will teach you how to eat tteok-bokki with your nose.\""
+    },
+    {
+      "korean": "\"사나 씨 쯔위 그리고 중국어 가르쳐줄까? 원스를 가르쳐도 될까요?'' \"SANA and TZUYU... Can I teach you Chinese?\". Would that be okay? 듣기 View video TWICE : 🤭😐🔋❌",
+      "english": "\"SANA and TZUYU... Can I teach you Chinese?\". Would that be okay?"
+    },
+    {
+      "korean": "가르쳐 줘요? Should I tell you? 듣기 View video AB6IX : 🐦우진🐦",
+      "english": "Should I tell you?"
+    },
+    {
+      "korean": "가르쳐주시겠어요!? Teach me some. 듣기 View video (G)I-DLE : ㅇㄱ",
+      "english": "Teach me some."
+    },
+    {
+      "korean": "또 뭐 가르쳐줄까요? What else should I teach her? 듣기 View video TWICE : 🤍💙❤️",
+      "english": "What else should I teach her?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He taught me the fundamentals of the job. 발음듣기 그가 내게 그 일의 핵심 사항들을 가르쳐 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He taught me the fundamentals of the job. 발음"
+    },
+    {
+      "korean": "Didi taught me how to read. 발음듣기 언니[누나]가 내게 글 읽는 걸 가르쳐 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Didi taught me how to read. 발음"
+    },
+    {
+      "korean": "Could you teach me to do that? 발음듣기 그것을 하는 법을 제게 좀 가르쳐 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Could you teach me to do that? 발음"
+    },
+    {
+      "korean": "Lord knows, I tried to teach her. 발음듣기 하늘은 알지, 내가 그녀를 가르쳐 보려고 했다는 걸. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Lord knows, I tried to teach her. 발음"
+    },
+    {
+      "korean": "She showed her students the technique. 발음듣기 그녀는 학생들에게 그 기법을 보여[가르쳐] 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She showed her students the technique. 발음"
+    }
+  ]
+}

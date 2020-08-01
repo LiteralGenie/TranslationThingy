@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "자재",
+      "hanja": " (資材)",
+      "example": {},
+      "meanings": [
+        "materials, resources"
+      ]
+    },
+    {
+      "phrase": "신축자재의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "elastic",
+        "flexible",
+        "telescopic"
+      ]
+    },
+    {
+      "phrase": "자재로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "quite freely",
+        "at will[pleasure]",
+        "as one pleases"
+      ]
+    },
+    {
+      "phrase": "펄프 자재",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pulp wood"
+      ]
+    },
+    {
+      "phrase": "건축 자재",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "building[construction] materials"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "munition",
+      "frequency": 1
+    },
+    {
+      "meaning": "materials",
+      "frequency": 0
+    },
+    {
+      "meaning": "자유자재",
+      "frequency": 0
+    },
+    {
+      "meaning": "hod",
+      "frequency": 0
+    },
+    {
+      "meaning": "insulation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "최대한 좁게 자재요. He said don't spread apart. 듣기 View video JBJ : 잘봐줘 JBJ 3화 (Just Be Joyful JBJ EP.3)",
+      "english": "He said don't spread apart."
+    },
+    {
+      "korean": "'겨울잠을 자재요'. '백호야, 맛있어'? 맛있어. \"Hibernate\". \"Baekho, is that good?\" Yes. 듣기 View video NU'EST : NU'EST V time : 뉴이스트의 보이는라디오 L.O.Λ.E STORY 시즌2 9화",
+      "english": "\"Hibernate\". \"Baekho, is that good?\" Yes."
+    },
+    {
+      "korean": "레리가 일어났어요. 그래도 또 자, 재 봐봐. Larry woke up. But he's going to sleep again. 듣기 View video V Beauty : 화장품 털이범 예니와 메이크업 해요! Haul & Makeup",
+      "english": "Larry woke up. But he's going to sleep again."
+    },
+    {
+      "korean": "좀 자재할 필요가 있는데, 이걸 키는 순간 모든 걸 내려놓게 되네요. I know I need to hold back a little. But when the camera's on, I just let everything go. 듣기 View video GAVYNJ : GavyNJ_TV",
+      "english": "I know I need to hold back a little. But when the camera's on, I just let everything go."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Local companies pitched in with building materials and labour. 발음듣기 지역 기업들이 자재와 노동력을 지원하며 협력했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Local companies pitched in with building materials and labour. 발음"
+    },
+    {
+      "korean": "The country has to import most of its raw materials. 발음듣기 그 나라는 원자재 대부분을 수입해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The country has to import most of its raw materials. 발음"
+    },
+    {
+      "korean": "Crude oil is the world’s most important commodity. 발음듣기 원유는 세계에서 가장 중요한 원자재이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Crude oil is the world’s most important commodity. 발음"
+    },
+    {
+      "korean": "The industry relies on the price of raw materials remaining low. 발음듣기 그 산업에서는 계속 낮은 원자재 가격에 의존한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The industry relies on the price of raw materials remaining low. 발음"
+    },
+    {
+      "korean": "Raw materials and labour come by ship, rail or road. 발음듣기 원자재와 노동력은 배로, 철도로, 도로로 (실려) 온다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Raw materials and labour come by ship, rail or road. 발음"
+    }
+  ]
+}

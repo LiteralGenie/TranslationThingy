@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "수리",
+      "hanja": " (修理)",
+      "example": {},
+      "meanings": [
+        "repair(s), repair, mend, fix, overhaul"
+      ]
+    },
+    {
+      "phrase": "수리",
+      "hanja": " (受理)",
+      "example": {},
+      "meanings": [
+        "(서류를 받아서 처리함) accept, receive, take up"
+      ]
+    },
+    {
+      "phrase": "수리",
+      "hanja": " (數理)",
+      "example": {},
+      "meanings": [
+        "(수학) mathematics, mathematical principle"
+      ]
+    },
+    {
+      "phrase": "수리",
+      "hanja": " (水利)",
+      "example": {},
+      "meanings": [
+        "Noun utilization of water"
+      ]
+    },
+    {
+      "phrase": "사표를 수리[반려]하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "accept[turn down] resignation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "손질",
+      "frequency": 0
+    },
+    {
+      "meaning": "repair",
+      "frequency": 2
+    },
+    {
+      "meaning": "brushup",
+      "frequency": 1
+    },
+    {
+      "meaning": "fixing",
+      "frequency": 0
+    },
+    {
+      "meaning": "fix-up",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "수리비 플렉스입니다! This is repair cost FLEX! 듣기 View video NU'EST : [NU’EST] 🐯🎂💖✌️",
+      "english": "This is repair cost FLEX!"
+    },
+    {
+      "korean": "[소원 수리함에 필요한 것을 적어주세요!] 뭐 먹고 싶어? [Write whatever you need] What do you want to eat? 듣기 View video 몬스타엑스의 지금은 휴가중 : MONSTA X's on Vacation EP-1",
+      "english": "[Write whatever you need] What do you want to eat?"
+    },
+    {
+      "korean": "수리했어요! I fixed it! 듣기 View video CIX : CIX HYUNSUK BIRTHDAY V LIVE",
+      "english": "I fixed it!"
+    },
+    {
+      "korean": "같이 한다고요 수리를? - 수리하신다고요? We're going to repair it? - You're repairing it? 듣기 View video N.Flying : Get Ready to UP ALL NIGHT IN HONG KONG",
+      "english": "We're going to repair it? - You're repairing it?"
+    },
+    {
+      "korean": "[Q. 대기실에서 왜 수리영역 나형을 풀었나요?] 심심해서! [Q. Why did you work on the math questions of the SATs?] Bored! 듣기 View video V PICK! : [SF9] 나 기원전 00년생인데 0304형아즈 귀여워서 혼절해따,,(º﹃º):.♡* (SF9 talking about their cute episode)",
+      "english": "[Q. Why did you work on the math questions of the SATs?] Bored!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The museum has been closed for renovation. 발음듣기 그 박물관은 수리를 위해 문을 닫았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The museum has been closed for renovation. 발음"
+    },
+    {
+      "korean": "They lacked the wherewithal to pay for the repairs. 발음듣기 그들은 수리비를 지불할 돈이 부족했다[없었다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They lacked the wherewithal to pay for the repairs. 발음"
+    },
+    {
+      "korean": "We’re having our car repaired. 발음듣기 우리 차는 수리 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re having our car repaired. 발음"
+    },
+    {
+      "korean": "Under the provisions of the lease, the tenant is responsible for repairs. 발음듣기 임대차 계약서 조항들에 따르면 세입자가 수리를 해야 할 책임이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Under the provisions of the lease, the tenant is responsible for repairs. 발음"
+    },
+    {
+      "korean": "The house is in good repair. 발음듣기 그 집은 수리가 잘된 상태이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The house is in good repair. 발음"
+    }
+  ]
+}

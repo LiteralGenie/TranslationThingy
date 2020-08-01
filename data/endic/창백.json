@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "창백",
+      "hanja": " (蒼白)",
+      "example": {},
+      "meanings": [
+        "pallor, pallidness.",
+        "창백하다 (deathly) pale, pallid, white (as a sheet)."
+      ]
+    },
+    {
+      "phrase": "창백하다",
+      "hanja": " (蒼白―)",
+      "example": {},
+      "meanings": [
+        "pale, white, gray, ashen, green, pallid, wan (=파리하다)"
+      ]
+    },
+    {
+      "phrase": "창백한 안색",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a pale complexion"
+      ]
+    },
+    {
+      "phrase": "안색이 창백하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "look pale[green]",
+        "look as white as a sheet"
+      ]
+    },
+    {
+      "phrase": "창백한 인텔리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a palefaced intellectual"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "whiteness",
+      "frequency": 3
+    },
+    {
+      "meaning": "vasovagal attack",
+      "frequency": 0
+    },
+    {
+      "meaning": "pallescense",
+      "frequency": 0
+    },
+    {
+      "meaning": "pale",
+      "frequency": 3
+    },
+    {
+      "meaning": "pasty 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "왜 이렇게 창백해보이지? Why do I look so pale? 듣기 View video ASTRO : 따나의 퇴근길🐥",
+      "english": "Why do I look so pale?"
+    },
+    {
+      "korean": "아파 보이나요? 좀 창백해 보이나? Do I look ill? Do I look pale? 듣기 View video BTS : BTS Live : 생일 축하해주셔서 감사합니다!",
+      "english": "Do I look ill? Do I look pale?"
+    },
+    {
+      "korean": "창백해 보이나요? Do we look pale? 듣기 View video ASTRO : Just one 아로하 10 minutes",
+      "english": "Do we look pale?"
+    },
+    {
+      "korean": "'창백해 보여' 창백해 보이나? \"You look pale.\" Do we look pale? 듣기 View video ASTRO : Just one 아로하 10 minutes",
+      "english": "\"You look pale.\" Do we look pale?"
+    },
+    {
+      "korean": "왜 저 창백해보이죠? Why am I looking pale? 듣기 View video V Beauty : 뷰티DaDa 여름철 땀에강한 초간단 메이크업 Summer Makeup",
+      "english": "Why am I looking pale?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "In the gaslight she looked paler than ever. 듣기 Add to Wordbook 가스 불빛 속의 그녀는 평소보다 더 창백해 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In the gaslight she looked paler than ever. Add to Wordbook"
+    },
+    {
+      "korean": "his grey, wan face 듣기 Add to Wordbook 그의 창백한 잿빛 얼굴 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "his grey, wan face Add to Wordbook"
+    },
+    {
+      "korean": "her pale unblemished skin 듣기 Add to Wordbook 그녀의 흠 하나 없는 창백한 피부 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "her pale unblemished skin Add to Wordbook"
+    },
+    {
+      "korean": "You look pale. Are you OK? 듣기 Add to Wordbook 너 창백해 보여. 괜찮니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You look pale. Are you OK? Add to Wordbook"
+    },
+    {
+      "korean": "People with pale complexions should avoid wearing light colours. 듣기 Add to Wordbook 얼굴빛이 창백한 사람들은 옅은 색깔의 옷을 (입는 것을) 피해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "People with pale complexions should avoid wearing light colours. Add to Wordbook"
+    }
+  ]
+}

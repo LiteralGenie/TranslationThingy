@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "시행",
+      "hanja": " (施行)",
+      "example": {},
+      "meanings": [
+        "enforcement, implementation, enforce, conduct, implement, carry out"
+      ]
+    },
+    {
+      "phrase": "시행",
+      "hanja": " (詩行)",
+      "example": {},
+      "meanings": [
+        "Noun line"
+      ]
+    },
+    {
+      "phrase": "시행착오",
+      "hanja": " (施行錯誤)",
+      "example": {},
+      "meanings": [
+        "trial and error"
+      ]
+    },
+    {
+      "phrase": "시행되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take effect",
+        "go into effect",
+        "become effective[operative]"
+      ]
+    },
+    {
+      "phrase": "법을 시행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "enforce a law",
+        "carry[bring] a law into effect",
+        "put a law in force"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "institution",
+      "frequency": 2
+    },
+    {
+      "meaning": "line",
+      "frequency": 2
+    },
+    {
+      "meaning": "enforcement",
+      "frequency": 1
+    },
+    {
+      "meaning": "imposition",
+      "frequency": 0
+    },
+    {
+      "meaning": "trial run",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "하면서도 시행착오가 엄청... - 되게 편한 척하는데? While during it I made a lot of mistakes... - You tried to look comfortable though? 듣기 View video IZ*ONE : 🍯💧즈 왔어용~☔️",
+      "english": "While during it I made a lot of mistakes... - You tried to look comfortable though?"
+    },
+    {
+      "korean": "댓글을 조금만 더 읽어보고 시행을 할까요? - 런웨이를 시작해볼까요? Should we read some comments before we start? - Should we start the runway? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Should we read some comments before we start? - Should we start the runway?"
+    },
+    {
+      "korean": "이게 약간 시행착오가 많았던 파트 아니에요? 그렇죠? That part experienced trial and error, right? 듣기 View video V COOKIE : [Full] WEKI MEKI X LieV - 위키미키의 눕방라이브!",
+      "english": "That part experienced trial and error, right?"
+    },
+    {
+      "korean": "[강회장피셜] 공약을 시행할 거 같습니다. [Officially stated by President Kang] to carry out our pledge within the week. 듣기 View video V PICK! : [LIM SOOHYANG] 강미래 좋다못해사랑해ㅠㅠ💖 (Soohyang talking about ‘My ID is Gangnam Beauty’)",
+      "english": "[Officially stated by President Kang] to carry out our pledge within the week."
+    },
+    {
+      "korean": "마지막 방법은 레이저 제모가 있고, 레이저 제모를 시행하는 병원을 방문 해야 해요. And lastly there is laser treatments which you have performed at the designated clinics. 듣기 View video Wishtrend TV : Hair Removal 101 | Make Your Own DIY Shaving Cream & Shaving Foam",
+      "english": "And lastly there is laser treatments which you have performed at the designated clinics."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The speed limit must be rigidly enforced. 발음듣기 속도 제한은 엄격하게 시행되어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The speed limit must be rigidly enforced. 발음"
+    },
+    {
+      "korean": "the annual seal cull 발음듣기 매년 시행하는 바다표범 도태 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the annual seal cull 발음"
+    },
+    {
+      "korean": "This line doesn’t scan. 발음듣기 이 시행은 운율이 안 맞는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This line doesn’t scan. 발음"
+    },
+    {
+      "korean": "New controls come into effect next month. 발음듣기 새 관리 규정들이 다음 달에 시행된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "New controls come into effect next month. 발음"
+    },
+    {
+      "korean": "Granted that it is a simple test to perform, it should be easy to get results quickly. 발음듣기 그것은 시행이 간단한 테스트이므로 결과를 빨리 얻기가 쉬울 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Granted that it is a simple test to perform, it should be easy to get results quickly. 발음"
+    }
+  ]
+}

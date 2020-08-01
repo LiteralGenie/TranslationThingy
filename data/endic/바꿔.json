@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "바꾸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(변경하다) change, switch, turn, alter",
+        "(교체·교환하다) change (sth for sth); (맞바꾸다) exchange (sth for sth), trade[swap] (sth for sth); (오래된 것을) replace (sth with...",
+        "(전화에서)"
+      ]
+    },
+    {
+      "phrase": "바꿔 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in other words",
+        "that is (to say)",
+        "to put it (in) another way"
+      ]
+    },
+    {
+      "phrase": "바꿔 말하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say[express] in other words",
+        "change[alter] an expression",
+        "put (in) another way"
+      ]
+    },
+    {
+      "phrase": "그를 바꿔 드리죠.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'll get him."
+      ]
+    },
+    {
+      "phrase": "타이어를 바꿔 끼다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fix a new tire"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "put somebody on",
+      "frequency": 0
+    },
+    {
+      "meaning": "reword",
+      "frequency": 0
+    },
+    {
+      "meaning": "the road to Damascus",
+      "frequency": 0
+    },
+    {
+      "meaning": "turn somebody/something (from something) into something",
+      "frequency": 0
+    },
+    {
+      "meaning": "Hello, is Bob there please?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네 한번 바꿔 주실래요? Can you change the filter, please? 듣기 View video ASTRO : 산랔 아점 냠냠😋",
+      "english": "Can you change the filter, please?"
+    },
+    {
+      "korean": "어떨 때 바꿔? When do you replace it? 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "When do you replace it?"
+    },
+    {
+      "korean": "그러면 어떻게 ASMR로 한번 바꿔볼까? Okay, let me change to ASMR then. 듣기 View video V PICK! : [BTS] 번쩍이는 슥찌 미모에 눈 앞이 뽀샤시한 사람의 모임 (1/nn..)✨ (JIN talking about his childhood episode)",
+      "english": "Okay, let me change to ASMR then."
+    },
+    {
+      "korean": "어떻게 필터를 좀 바꿔볼까? 저 필터를 바꿀 수가 있나 지금? Can we change the filter? Can I adjust it? 듣기 View video SEVENTEEN : 정한의 따뜻한 우유한잔(보이는 라디오)",
+      "english": "Can we change the filter? Can I adjust it?"
+    },
+    {
+      "korean": "[나도 의상 바꾸게 해주라] 나도 커스텀 하고 싶은데 어떻게 바꿔? [Let me change the outfit, too] I want to customize the outfit. How can I do it? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Let me change the outfit, too] I want to customize the outfit. How can I do it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He transforms the most ordinary subject into the sublime. 발음듣기 그는 지극히 평범한 소재를 절묘한 것으로 바꿔 놓는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He transforms the most ordinary subject into the sublime. 발음"
+    },
+    {
+      "korean": "to cash a cheque 발음듣기 수표를 현금으로 바꾸다[바꿔 주다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cash a cheque 발음"
+    },
+    {
+      "korean": "Where do I have to change? 발음듣기 제가 어디서 바꿔 타야 해요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Where do I have to change? 발음"
+    },
+    {
+      "korean": "Do you have change for five dollars? 발음듣기 5달러 바꿔 주실 수 있어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you have change for five dollars? 발음"
+    },
+    {
+      "korean": "an event that changed the course of history 발음듣기 역사의 추이를 바꿔 놓은 사건 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an event that changed the course of history 발음"
+    }
+  ]
+}

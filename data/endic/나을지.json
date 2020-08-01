@@ -1,0 +1,87 @@
+{
+  "phrases": [
+    {
+      "phrase": "낫다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(질·정도·수준 등이) better (than), superior (to), preferable (to)",
+        "(~하는 것이)"
+      ]
+    },
+    {
+      "phrase": "낫다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(회복하다) recover (from), get well, be cured, get over; (상처 등이) heal (up)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "better",
+      "frequency": 2
+    },
+    {
+      "meaning": "cure",
+      "frequency": 2
+    },
+    {
+      "meaning": "heal",
+      "frequency": 2
+    },
+    {
+      "meaning": "preferable",
+      "frequency": 1
+    },
+    {
+      "meaning": "be well, ideally, uniquely, better, etc. placed for something/to do something",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "엄마한테 거의 싸우자고 하는 게 더 나을지도 몰라요. it might be better to just tell your mom to have a fight. 듣기 View video INFINITE : 우현이 내게 오나봐 잘사람자라디오 12화",
+      "english": "it might be better to just tell your mom to have a fight."
+    },
+    {
+      "korean": "어떤 게 나을지 형한테 실험하고 있어요. I'm testing the filter on you. 듣기 View video ASTRO : 아로하 보고싶은 아스트로💜아로하 보고싶은 아스트로💜",
+      "english": "I'm testing the filter on you."
+    },
+    {
+      "korean": "[그래, 이게 나을지도] - 좋아요. - 이게 더 편하다. [That would be better] - Good. - This is more comfy. 듣기 View video PeekaVoo! : [THE100] 침대방을 결정 할 왕이 될 상은 누구인가! - EP 05",
+      "english": "[That would be better] - Good. - This is more comfy."
+    },
+    {
+      "korean": "이게 지금 바르면 제일 나을지도 몰라요. 컬러팝의 범블이라는 색상인데요. This could look the best. ColourPop's Bumble lipstick. 듣기 View video V Beauty : 우린이 요새 빠진 mlbb 립제품 MLBB Lip Products",
+      "english": "This could look the best. ColourPop's Bumble lipstick."
+    },
+    {
+      "korean": "이게 나아요? Is this better? 듣기 View video ASTRO : 산랔 아점 냠냠😋",
+      "english": "Is this better?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I doubt whether/if the new one will be any better. 발음듣기 새 것이 조금이라도 더 나을지는 의문이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I doubt whether/if the new one will be any better. 발음"
+    },
+    {
+      "korean": "Perhaps it would be better if you came back tomorrow. 발음듣기 어쩌면 당신이 내일 돌아오는 것이 더 나을지도 모르겠어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Perhaps it would be better if you came back tomorrow. 발음"
+    },
+    {
+      "korean": "Maybe I ought to postpone till the weekend. 발음듣기 주말까지 연기하는게 나을지도 모르겠네요. Neungyule",
+      "english": "Maybe I ought to postpone till the weekend. 발음"
+    },
+    {
+      "korean": "It's hard to know who would do a better job. 발음듣기 누가 더 나을지 구별이 안 돼요. YBM All in All English-Korean Dictionary",
+      "english": "It's hard to know who would do a better job. 발음"
+    },
+    {
+      "korean": "No, I haven't. Both parties say the same thing. It's hard to know who would do a better job. 발음듣기 아니오, 아직이요. 두 당에서 하는 말이 똑같잖아요. 누가 더 나을지 구별이 안 돼요. YBM All in All English-Korean Dictionary",
+      "english": "No, I haven't. Both parties say the same thing. It's hard to know who would do a better job. 발음"
+    }
+  ]
+}

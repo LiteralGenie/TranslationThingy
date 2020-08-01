@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "주문하다",
+      "hanja": " (注文하다)",
+      "example": {},
+      "meanings": [
+        "Verb order",
+        "Verb tell, ask"
+      ]
+    },
+    {
+      "phrase": "주문",
+      "hanja": " (注文)",
+      "example": {},
+      "meanings": [
+        "(상품·음식 등의) order, order, place[give] an order",
+        "(요구) request (for), demand (for), ask (sb to do), request (that / sb to do)"
+      ]
+    },
+    {
+      "phrase": "주문",
+      "hanja": " (呪文)",
+      "example": {},
+      "meanings": [
+        "spell, incantation"
+      ]
+    },
+    {
+      "phrase": "주문을 걸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put[cast] a spell (on)"
+      ]
+    },
+    {
+      "phrase": "우편 주문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "orders by post",
+        "mail order"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "spell 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "back order",
+      "frequency": 0
+    },
+    {
+      "meaning": "incantation",
+      "frequency": 0
+    },
+    {
+      "meaning": "side order",
+      "frequency": 0
+    },
+    {
+      "meaning": "custom-built",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 주문한 건... What I ordered was... 듣기 View video NCT : 런쥔이의 퇴근길 오분브이앱~",
+      "english": "What I ordered was..."
+    },
+    {
+      "korean": "우리가 주문한 거 왔대! It's all here! 듣기 View video SM CCC LAB : [펫셔니스타 탱구│Petionista Taengoo] 0회. Petionista Purpose",
+      "english": "It's all here!"
+    },
+    {
+      "korean": "여기 주문한 칵테일 아직 다 안 됐나요? How long should I wait for my cocktail? 듣기 View video V COOKIE : IZ X Rooftop Live - 아이즈의 루프탑라이브!",
+      "english": "How long should I wait for my cocktail?"
+    },
+    {
+      "korean": "[드디어 주문한 Selfie 커피가 나오고] 너무 예뻐! [Finally coffees are out] So pretty! 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK EP06",
+      "english": "[Finally coffees are out] So pretty!"
+    },
+    {
+      "korean": "[주문한 배달 음식을 받아온 희준] 왔어? [Heejun received the food he orderd] It's here? 듣기 View video 잼플리 Jamfully : 여사친과 썸 탈 때 씁쓸한 순간 [썸타는일주일] EP.03",
+      "english": "[Heejun received the food he orderd] It's here?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There must be some misunderstanding—I thought I ordered the smaller model. 듣기 Add to Wordbook 무슨 착오가 생긴 모양이군요. 전 제가 더 작은 모델을 주문한 것으로 생각했어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There must be some misunderstanding—I thought I ordered the smaller model. Add to Wordbook"
+    },
+    {
+      "korean": "The stationery order has arrived. 듣기 Add to Wordbook 주문한 사무용품들이 도착했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The stationery order has arrived. Add to Wordbook"
+    },
+    {
+      "korean": "My order (#12-4000) for two cases of wine, placed on January 20, has not yet been received. 듣기 Add to Wordbook 제가 1월 20일에 주문한(12-4000번) 와인 두 상자를 아직 받지 못했습니다. DARAKWON",
+      "english": "My order (#12-4000) for two cases of wine, placed on January 20, has not yet been received. Add to Wordbook"
+    },
+    {
+      "korean": "We cancelled our order for 10 boxes of moon cakes on June 2, but we have not received confirmation from your company yet. 듣기 Add to Wordbook 당사가 주문한 월병 10박스를 6월 2일에 취소했으나, 아직 귀사로부터 확인을 받지 못했습니다. DARAKWON",
+      "english": "We cancelled our order for 10 boxes of moon cakes on June 2, but we have not received confirmation from your company yet. Add to Wordbook"
+    },
+    {
+      "korean": "We regret that we are unable to ship your order by next month, as the specific items in your order are currently out of stock. 듣기 Add to Wordbook 현재 귀사가 주문한 특정 품목들의 재고가 없어서 다음 달까지 출하하지 못하게 된 것을 유감으로 생각합니다. DARAKWON",
+      "english": "We regret that we are unable to ship your order by next month, as the specific items in your order are currently out of stock. Add to Wordbook"
+    }
+  ]
+}

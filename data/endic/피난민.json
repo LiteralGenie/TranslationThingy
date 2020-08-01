@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "피난민",
+      "hanja": " (避難民)",
+      "example": {},
+      "meanings": [
+        "refugee, evacuee"
+      ]
+    },
+    {
+      "phrase": "무국적 피난민",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a stateless refugee"
+      ]
+    },
+    {
+      "phrase": "피난민을 수용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "house the refugees"
+      ]
+    },
+    {
+      "phrase": "피난민의 안전한 은신처",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a safe bolt hole[hideaway] for refugees"
+      ]
+    },
+    {
+      "phrase": "피난민 수용소를 순시하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a tour of refugee camps"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "house the refugees",
+      "frequency": 0
+    },
+    {
+      "meaning": "a forlorn line of refugees",
+      "frequency": 0
+    },
+    {
+      "meaning": "harbor the refugees",
+      "frequency": 0
+    },
+    {
+      "meaning": "Nánsen Internátional Óffice for Refugées",
+      "frequency": 0
+    },
+    {
+      "meaning": "a refuge ship",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "He is light and hope to the refugees. 듣기 Add to Wordbook 피난민들에게 그는 태양과 같은 존재다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He is light and hope to the refugees. Add to Wordbook"
+    },
+    {
+      "korean": "A lot of refugees are dying of hunger. 듣기 Add to Wordbook 많은 피난민들이 굶어 죽어가고 있다. Neungyule",
+      "english": "A lot of refugees are dying of hunger. Add to Wordbook"
+    },
+    {
+      "korean": "The refugees are in a wretched plight. 듣기 Add to Wordbook 피난민들이 사는 꼴이란 비참하다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The refugees are in a wretched plight. Add to Wordbook"
+    },
+    {
+      "korean": "The house of refuge is full of refugees. 듣기 Add to Wordbook 양육원은 피난민들로 가득 차있다. YBM All in All English-Korean Dictionary",
+      "english": "The house of refuge is full of refugees. Add to Wordbook"
+    },
+    {
+      "korean": "They dispensed medical supplies to the refugees. 듣기 Add to Wordbook 그들은 피난민들에게 의약품을 나누어 주었다. YBM All in All English-Korean Dictionary",
+      "english": "They dispensed medical supplies to the refugees. Add to Wordbook"
+    }
+  ]
+}

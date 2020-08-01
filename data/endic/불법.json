@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "불법",
+      "hanja": " (不法)",
+      "example": {},
+      "meanings": [
+        "unlawfulness, (formal) illegality"
+      ]
+    },
+    {
+      "phrase": "불법",
+      "hanja": " (佛法)",
+      "example": {},
+      "meanings": [
+        "Noun Buddhism"
+      ]
+    },
+    {
+      "phrase": "불법의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "illegal",
+        "unlawful",
+        "illegitimate"
+      ]
+    },
+    {
+      "phrase": "불법으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "illegally",
+        "unlawfully"
+      ]
+    },
+    {
+      "phrase": "불법행위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "illegal[unlawful] act, (법률) tort, illegality"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "illegality",
+      "frequency": 0
+    },
+    {
+      "meaning": "illegitimacy",
+      "frequency": 0
+    },
+    {
+      "meaning": "illicitness",
+      "frequency": 0
+    },
+    {
+      "meaning": "iniquitousness",
+      "frequency": 0
+    },
+    {
+      "meaning": "Unrecht",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "웃으면 안돼? 불법이야?",
+      "english": "I can't laugh? Is it illegal?"
+    },
+    {
+      "korean": "하면... - 무슨 소리야 - 불법이야?",
+      "english": "If we do... - What? - Illegal?"
+    },
+    {
+      "korean": "점점 더 좋아지게 만드는 거 진짜 불법 아닌가요?",
+      "english": "instead of withering as time goes by?"
+    },
+    {
+      "korean": "요즘에는 운전하면서 라이브를 켜놓는 게 불법이에요?",
+      "english": "Is it illegal to turn on V LIVE while driving?"
+    },
+    {
+      "korean": "불법 유통인가?",
+      "english": "Is this illegal?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "주머니칼 소지를 불법화하려는 계획",
+      "english": "plans to outlaw the carrying of knives"
+    },
+    {
+      "korean": "1996년도 불법 이민자 고용 금지법",
+      "english": "the 1996 law against the hiring of illegal immigrants"
+    },
+    {
+      "korean": "불법 주차를 하면 아마 딱지를 발부받게 될 것이다.",
+      "english": "Park illegally, and you’re likely to be ticketed."
+    },
+    {
+      "korean": "그가 몇 건의 불법 부동산 거래에서 그들의 대리인 노릇을 했다.",
+      "english": "He fronted for them in several illegal property deals."
+    },
+    {
+      "korean": "불법 거주 건물에서 살다",
+      "english": "to live in a squat"
+    }
+  ]
+}

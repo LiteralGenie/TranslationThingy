@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "외상",
+      "hanja": " (外傷)",
+      "example": {},
+      "meanings": [
+        "(상처) (external) injury, (총·칼에 의한) wound"
+      ]
+    },
+    {
+      "phrase": "외상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건 값을 나중에 계산하는 것) credit"
+      ]
+    },
+    {
+      "phrase": "외상",
+      "hanja": " (外相)",
+      "example": {},
+      "meanings": [
+        "(장관) foreign minister"
+      ]
+    },
+    {
+      "phrase": "외상 매출금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a credit account"
+      ]
+    },
+    {
+      "phrase": "외상 매입금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the outstanding balance of credit purchase",
+        "accounts payable(지불 계정)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tick",
+      "frequency": 3
+    },
+    {
+      "meaning": "trauma",
+      "frequency": 0
+    },
+    {
+      "meaning": "tick 4",
+      "frequency": 0
+    },
+    {
+      "meaning": "traumatism",
+      "frequency": 0
+    },
+    {
+      "meaning": "a superficial wound",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "외상이 없어요. There was no scratch. 듣기 View video GFRIEND : 유주간라이브S2 live!!",
+      "english": "There was no scratch."
+    },
+    {
+      "korean": "외상 가능하겠나? Is it possible to do an \"I.O.U.\"? 듣기 View video V COOKIE : [Full] SPECIAL WEEK - EP.2 SF9",
+      "english": "Is it possible to do an \"I.O.U.\"?"
+    },
+    {
+      "korean": "외상해달라고 구걸하는 신. I'm begging to buy it on credit. 듣기 View video CNBLUE : [신데렐라와 네 명의 기사] 심쿵 유발 팬미팅",
+      "english": "I'm begging to buy it on credit."
+    },
+    {
+      "korean": "외상해달라고 했었죠? - 네. You're asking to buy it on credit. - Yes. 듣기 View video CNBLUE : [신데렐라와 네 명의 기사] 심쿵 유발 팬미팅",
+      "english": "You're asking to buy it on credit. - Yes."
+    },
+    {
+      "korean": "권영희 님 '돈 없다, 외상이다' 맞다. 지금 외상하는 거야? \"She's broke. On credit\". Are you going to leave it on credit? 듣기 View video GAVYNJ : 셀프 네일 Tip☆",
+      "english": "\"She's broke. On credit\". Are you going to leave it on credit?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can I have these on tick? 듣기 Add to Wordbook 이거 외상으로 해 주시겠소? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I have these on tick? Add to Wordbook"
+    },
+    {
+      "korean": "Divorce can be traumatic for everyone involved. 듣기 Add to Wordbook 이혼은 관련된 모든 사람들에게 정신적 외상을 초래할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Divorce can be traumatic for everyone involved. Add to Wordbook"
+    },
+    {
+      "korean": "In order to keep your credit account open, please send your payment today. 듣기 Add to Wordbook 귀사의 외상 계정을 유지하시려면 오늘 대금을 지불해주셔야 합니다. DARAKWON",
+      "english": "In order to keep your credit account open, please send your payment today. Add to Wordbook"
+    },
+    {
+      "korean": "Fortunately, she isn't PTSDing anymore. 듣기 Add to Wordbook 다행히 그녀는 더는 외상 후 스트레스 장애를 겪지 않는다. 국제영어대학원대학교 신어사전",
+      "english": "Fortunately, she isn't PTSDing anymore. Add to Wordbook"
+    },
+    {
+      "korean": "The trauma of a sexual assault gave me agraphobia. 듣기 Add to Wordbook 성폭행의 정신적 외상은 내게 성적 학대 공포증을 남겼다. 국제영어대학원대학교 신어사전",
+      "english": "The trauma of a sexual assault gave me agraphobia. Add to Wordbook"
+    }
+  ]
+}

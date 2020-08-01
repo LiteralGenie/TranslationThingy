@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "면적",
+      "hanja": " (面積)",
+      "example": {},
+      "meanings": [
+        "(surface) area, extent"
+      ]
+    },
+    {
+      "phrase": "면적분",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "surface integral"
+      ]
+    },
+    {
+      "phrase": "단위면적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "local (labor) union"
+      ]
+    },
+    {
+      "phrase": "총면적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the gross area"
+      ]
+    },
+    {
+      "phrase": "면적 도표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an area chart[diagram]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "area",
+      "frequency": 3
+    },
+    {
+      "meaning": "superficies",
+      "frequency": 0
+    },
+    {
+      "meaning": "square measure",
+      "frequency": 0
+    },
+    {
+      "meaning": "dimensions",
+      "frequency": 0
+    },
+    {
+      "meaning": "a square measure",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[위험 발언] 넓어서 그런 거 아니야? 면적이? [Risky comment] Isn't it because your face is huge? 듣기 View video KKOSISTERS : 파운데이션 그냥 바르기 vs 20분 두드리기, 과연 결과는?! | 실험 리뷰, 파데 지속력 테스트,",
+      "english": "[Risky comment] Isn't it because your face is huge?"
+    },
+    {
+      "korean": "야 면적이야 이거. It's surface area. 듣기 View video BTOB : 끝난줄알았지?🤗",
+      "english": "It's surface area."
+    },
+    {
+      "korean": "그러니까 이 면적이 없어야 된다? So this area needs to be gone? 듣기 View video MAMAMOO : 그냥 보고싶어서 왔어요😋",
+      "english": "So this area needs to be gone?"
+    },
+    {
+      "korean": "얘가 사실 제일 면적이 크죠? This actually has the largest area, right? 듣기 View video HYOMIN : [FULL] HYOMIN ‘MANGO’ SHOWCASE",
+      "english": "This actually has the largest area, right?"
+    },
+    {
+      "korean": "넓은 면적보다 좁은 면적에 사용하는 게 훨씬 예쁘더라고요. so it looks so much prettier to use it for the shorter areas. 듣기 View video WIWO : [full]Tan-Orange makeup",
+      "english": "so it looks so much prettier to use it for the shorter areas."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "square [superficial] measure 듣기 Add to Wordbook 면적. Friendict Level English-Korean Dictionary",
+      "english": "square [superficial] measure Add to Wordbook"
+    },
+    {
+      "korean": "an area of four square miles 듣기 Add to Wordbook 4평방 마일 되는 면적 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an area of four square miles Add to Wordbook"
+    },
+    {
+      "korean": "Acrylic paints can be used to create large, flat blocks of colour. 듣기 Add to Wordbook 아크릴 페인트는 넓은 면적에 고르게 채색할 때 쓸 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Acrylic paints can be used to create large, flat blocks of colour. Add to Wordbook"
+    },
+    {
+      "korean": "Two thirds of the region has been deforested in the past decade. 듣기 Add to Wordbook 지난 10년 동안 그 지역의 3분의 2에 해당하는 면적에서 삼림이 파괴되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two thirds of the region has been deforested in the past decade. Add to Wordbook"
+    },
+    {
+      "korean": "The room is 12 square metres in area. 듣기 Add to Wordbook 그 방은 면적이 12 평방미터이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The room is 12 square metres in area. Add to Wordbook"
+    }
+  ]
+}

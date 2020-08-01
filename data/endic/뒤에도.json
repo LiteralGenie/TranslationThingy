@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "뒤",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(뒷부분) back, the rear",
+        "(시간상의 나중)",
+        "(순서상의 나중)"
+      ]
+    },
+    {
+      "phrase": "앞[뒤]뜰",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a front[back] yard"
+      ]
+    },
+    {
+      "phrase": "앞[뒤]표지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a front[back] cover"
+      ]
+    },
+    {
+      "phrase": "뒤-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix dwi-",
+        "Affix dwi-"
+      ]
+    },
+    {
+      "phrase": "뒤를 빼다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take one's back out",
+        "take one's back out"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "after",
+      "frequency": 2
+    },
+    {
+      "meaning": "behind",
+      "frequency": 2
+    },
+    {
+      "meaning": "next",
+      "frequency": 2
+    },
+    {
+      "meaning": "보다 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "later",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뒤에도... At the back... 듣기 View video BTS : 오늘은 안 늦졌어요~",
+      "english": "At the back..."
+    },
+    {
+      "korean": "왜 항상 뒤야? Why are you always at the back? 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "Why are you always at the back?"
+    },
+    {
+      "korean": "뒤도 한번 보여드릴까요? Should we show them the back? 듣기 View video Dispatch : IZ*ONE DICON UNBOXING",
+      "english": "Should we show them the back?"
+    },
+    {
+      "korean": "\"뒤에 글씨 누가 적었나요?\" \"Who wrote it at the back?\" 듣기 View video TOMORROW X TOGETHER : 웃지마요 찍찍🐭",
+      "english": "\"Who wrote it at the back?\""
+    },
+    {
+      "korean": "\"찬, 왜 항상 뒤에...\" \"Chan, why are you at the back...\" 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "\"Chan, why are you at the back...\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can you all hear me at the back. 발음듣기 뒤에도 제 말을 전부 들을 수 있나. User translation Inaccurate information may be included due to the users' self-traslation. 행복하니(ssun****) Web Collection",
+      "english": "Can you all hear me at the back. 발음"
+    },
+    {
+      "korean": "This undertaking would subsist even after the diplomat had left the service. 발음듣기 이 약속은 외교관이 퇴직한 뒤에도 유효하다. User translation Inaccurate information may be included due to the users' self-traslation. 애기애기(lane****) Hansard",
+      "english": "This undertaking would subsist even after the diplomat had left the service. 발음"
+    },
+    {
+      "korean": "If I'm not back in ten minutes, call the police. 발음듣기 내가 10분 뒤에도 돌아오지 않으면 경찰에 전화해 User translation Inaccurate information may be included due to the users' self-traslation. Mendy(girr****) Web Collection",
+      "english": "If I'm not back in ten minutes, call the police. 발음"
+    },
+    {
+      "korean": "Turning off the applied voltage also returns the system to its non-conducting state. 발음듣기 정격전압을 끈 뒤에도 시스템은 불활성화 상태에 들어간다. User translation Inaccurate information may be included due to the users' self-traslation. 풍덩(unsk****) Web Collection",
+      "english": "Turning off the applied voltage also returns the system to its non-conducting state. 발음"
+    },
+    {
+      "korean": "Forty years later, it still has not been realized. 발음듣기 40년 뒤에도, 그것은 여전히 실현되지 못했다. User translation Inaccurate information may be included due to the users' self-traslation. 메르베이(psys****) Web Collection",
+      "english": "Forty years later, it still has not been realized. 발음"
+    }
+  ]
+}

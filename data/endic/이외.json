@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "이외",
+      "hanja": " (以外)",
+      "example": {},
+      "meanings": [
+        "except, save, but, but for, bar, outside, aside[apart], other than, beyond, besides, in addition, aside[apart((영))]"
+      ]
+    },
+    {
+      "phrase": "이외에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "그 외에 besides",
+        "그 외에 in addition to"
+      ]
+    },
+    {
+      "phrase": "월급 이외에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "besides[in addition to, aside from] one´s salary"
+      ]
+    },
+    {
+      "phrase": "일요일 이외에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "except on Sunday"
+      ]
+    },
+    {
+      "phrase": "일요일 이외의 날",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the weekdays"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "기호 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "found 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "호 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "non-player character",
+      "frequency": 0
+    },
+    {
+      "meaning": "outside",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[리액션 이외 금지 상태] 대박이야?",
+      "english": "[He can only react] Is it unbelievable?"
+    },
+    {
+      "korean": "'이번 활동 곡으로 나의 파트 이외에 좋아하는 파트는 있나요?'",
+      "english": "\"Is there a part that you like besides your own part in the new song?\""
+    },
+    {
+      "korean": "그리고 혹시 예능 이외에 또 좀 앞으로 도전해보고 싶은 분야 같은 거 혹시 있으세요?",
+      "english": "Is there any field that you want to try, besides variety shows?"
+    },
+    {
+      "korean": "교복이 너무 잘 어울리세요 본인 이외에 잘 어울리는 사람을 꼽자면?",
+      "english": "You look so good in the school uniform. Who else also looks good in the uniform?"
+    },
+    {
+      "korean": "이외의 모습도 되게 많은 친구고요.",
+      "english": "She has many things shown to us."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "업무적인 모습 이외의 당신의 성격은 어떻습니까?",
+      "english": "Describe your personality aside from your professional image."
+    },
+    {
+      "korean": "이 외에도 작년에 MSCE 자격증을 취득했습니다.",
+      "english": "Aside from these, I have an MSCE certification which I acquired last year."
+    },
+    {
+      "korean": "이 외에도 현재 식스 시그마-DFS의 블랙 벨트를 이수하고 있습니다.",
+      "english": "Aside from this I am currently finishing my Black Belt in Six Sigma-DFS."
+    },
+    {
+      "korean": "사랑은 자신 이외에 다른 것도 존재한다는 사실을 어렵사리 깨닫는 것이다. (아이리스 머독, 사랑명언)",
+      "english": "Love is the difficult realization that something other than oneself is real. (Iris Murdoch)"
+    },
+    {
+      "korean": "권력은 부패한다고들 말하나, 실은 권력이 부패되기 쉬운 이들을 끌어당긴다고 말하는 것이 더 정확하다. 분별있는 이들은 대개 권력 이외의 다른 것들에 의해 이끌린다. (데이비드 브린, 명예명언)",
+      "english": "It is said that power corrupts, but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power. (David Brin)"
+    }
+  ]
+}

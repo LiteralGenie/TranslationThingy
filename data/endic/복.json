@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "복",
+      "hanja": " (福)",
+      "example": {},
+      "meanings": [
+        "(재수, 행운) (good) luck, good fortune"
+      ]
+    },
+    {
+      "phrase": "복",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(복어) blowfish, fugu"
+      ]
+    },
+    {
+      "phrase": "단[복]비례",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "simple[compound] proportion"
+      ]
+    },
+    {
+      "phrase": "복-",
+      "hanja": " (複)",
+      "example": {},
+      "meanings": [
+        "complex, compound, double, compositive"
+      ]
+    },
+    {
+      "phrase": "-복",
+      "hanja": " (服)",
+      "example": {},
+      "meanings": [
+        "Affix -bok"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wear",
+      "frequency": 3
+    },
+    {
+      "meaning": "suit",
+      "frequency": 3
+    },
+    {
+      "meaning": "tog",
+      "frequency": 0
+    },
+    {
+      "meaning": "Chinese restaurant syndrome",
+      "frequency": 0
+    },
+    {
+      "meaning": "blessed",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "새해 복 많이 받으... Happy new year! 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP47. 아육대에 있지!",
+      "english": "Happy new year!"
+    },
+    {
+      "korean": "팬분들 새해 복 많이 받으세요~ Happy new year~ 듣기 View video Dispatch : [Dicon] “봄이니까, 나정모사” 큐트 ver (디아이콘 : 트와이스)",
+      "english": "Happy new year~"
+    },
+    {
+      "korean": "새해 복 많이 받으시면 좋겠네요 복 많이 받으세요! and Happy New Year! 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "and Happy New Year!"
+    },
+    {
+      "korean": "원스 새해 복 많이 받으세요! ONCE, happy new year! 듣기 View video Dispatch : [Dicon] “쯔위’s Special Day” (디아이콘 : 트와이스)",
+      "english": "ONCE, happy new year!"
+    },
+    {
+      "korean": "[행복한 복자매] 재밌어! [Happy members] It's fun! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Happy members] It's fun!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Blessed are the poor. 듣기 Add to Wordbook 가난한 이들은 복이 있나니. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Blessed are the poor. Add to Wordbook"
+    },
+    {
+      "korean": "Happy New Year to one and all! 듣기 Add to Wordbook 모두 새해 복 많이 받으세요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Happy New Year to one and all! Add to Wordbook"
+    },
+    {
+      "korean": "She’s blessed with excellent health. 듣기 Add to Wordbook 그녀는 복이 많아 건강이 아주 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s blessed with excellent health. Add to Wordbook"
+    },
+    {
+      "korean": "We’re blessed with five lovely grandchildren. 듣기 Add to Wordbook 우리는 복이 많아 사랑스런 손주가 다섯이나 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re blessed with five lovely grandchildren. Add to Wordbook"
+    },
+    {
+      "korean": "Some people don’t know when they’re well off. 듣기 Add to Wordbook 어떤 사람들은 (운이 좋으면서) 자기가 운이 좋은[복받은 사람인] 줄을 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some people don’t know when they’re well off. Add to Wordbook"
+    }
+  ]
+}

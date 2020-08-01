@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "위원회",
+      "hanja": " (委員會)",
+      "example": {},
+      "meanings": [
+        "committee, commission, (school/advisory) board"
+      ]
+    },
+    {
+      "phrase": "조직위원회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "organizing committee"
+      ]
+    },
+    {
+      "phrase": "자문 위원회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an advisory committee[body]",
+        "a consultative committee"
+      ]
+    },
+    {
+      "phrase": "운영 위원회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "steering committee"
+      ]
+    },
+    {
+      "phrase": "징계위원회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disciplinary committee"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "commission",
+      "frequency": 3
+    },
+    {
+      "meaning": "committee",
+      "frequency": 3
+    },
+    {
+      "meaning": "board",
+      "frequency": 3
+    },
+    {
+      "meaning": "high commission",
+      "frequency": 0
+    },
+    {
+      "meaning": "samiti",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무슨 위원회같은 게 있습니까? Is there a committee or something? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#335. 새옹_지마 (w. 최병찬, 이세진, 유리)",
+      "english": "Is there a committee or something?"
+    },
+    {
+      "korean": "그러면 우리 위원회님들을 향해서 강아지 같은 미소 한번 발사해볼까요? To viewers, will you show your puppy-like smile? 듣기 View video World Klass (월드 클래스) : [Full] <월드 클래스> 첫방송 카운트다운 라이브 / Countdown Live",
+      "english": "To viewers, will you show your puppy-like smile?"
+    },
+    {
+      "korean": "[WORLD KLASS 채널을 구독하고 월드 클래스 위원회가 되어주세요!] [Subscribe WORLD KLASS channel and become the committee of WORLD KLASS!] View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "[Subscribe WORLD KLASS channel and become the committee of WORLD KLASS!]"
+    },
+    {
+      "korean": "윙라조 결성 찬성 위원회요? Wing-razo formation committee? 듣기 View video PARK JI HOON : 박지훈 PARK JI HOON 1st MINI ALBUM [O’CLOCK] SHOWCASE",
+      "english": "Wing-razo formation committee?"
+    },
+    {
+      "korean": "'요고바라' 친구들의 일일 비상대책위원회가 돼드리려고 합니다. will act as \"Yogobara\" friends' one-day emergency response committee. 듣기 View video GFRIEND : SBS MTV <요고바라> 7화 동시생중계",
+      "english": "will act as \"Yogobara\" friends' one-day emergency response committee."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the United Nations High Commission for Refugees 듣기 Add to Wordbook 유엔 최고 난민 위원회 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the United Nations High Commission for Refugees Add to Wordbook"
+    },
+    {
+      "korean": "the United Nations High Commissioner for Refugees 듣기 Add to Wordbook 유엔 최고 난민 위원회 위원장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the United Nations High Commissioner for Refugees Add to Wordbook"
+    },
+    {
+      "korean": "Such decisions are outside the remit of this committee. 듣기 Add to Wordbook 그러한 결정은 이 위원회 소관 밖이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Such decisions are outside the remit of this committee. Add to Wordbook"
+    },
+    {
+      "korean": "The committee refused to countenance his proposals. 듣기 Add to Wordbook 위원회는 그의 제안에 동의하려 하지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The committee refused to countenance his proposals. Add to Wordbook"
+    },
+    {
+      "korean": "The Supreme Council is vested with overall authority. 듣기 Add to Wordbook 최고 위원회가 전반적인 권한을 부여받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Supreme Council is vested with overall authority. Add to Wordbook"
+    }
+  ]
+}

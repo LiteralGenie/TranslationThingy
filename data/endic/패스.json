@@ -1,0 +1,124 @@
+{
+  "phrases": [
+    {
+      "phrase": "패스",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(시험) [동사] pass",
+        "(정기 승차권) [명사] pass, commutation ticket",
+        "(스포츠) [명사] pass, [동사] pass, make a pass"
+      ]
+    },
+    {
+      "phrase": "pass",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 지나가다, 통과하다",
+        "Verb (언급된 방향으로) 나아가다[이동하다]",
+        "Verb (언급된 방향위치로) 나아가게[이동하게] 하다",
+        "Noun 특히 英 (시험) 합격[통과]"
+      ]
+    },
+    {
+      "phrase": "path ( pathway )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 길(사람들이 지나다녔거나 만들어서 생긴 작은 길) (→footpath)",
+        "Noun (사람·사물이 나아가는) 길[방향] (=way) (→flight path)",
+        "Noun (행동) 계획, (목표에 이르는) 길"
+      ]
+    },
+    {
+      "phrase": "passage",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 통로, 복도 (=corridor)",
+        "Noun (인체 내에서 기체·액체가 통하는) 관[길] (→back passage)",
+        "Noun (책의) 구절, (음악의) 악절 (=excerpt, extract)"
+      ]
+    },
+    {
+      "phrase": "pass",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Intransitive verb 통과하다, 지나가다, 나아가다(on)((along, through)).",
+        "Intransitive verb 떠나다, 없어지다, 사라지다, 끝나다, 죽다(off)((away, out, over)).",
+        "Transitive verb …을 지나가다, 지나치다, 통과하다, 가로지르다, 건너다(cross).",
+        "Transitive verb …을 들어오게 하다, 들이다, 통과시키다, 찌르다.",
+        "Noun 통행, 통과(하기), 통행 허가(증), 입장 허가(증), 무료 입장[승차]권((over, on, to)).",
+        "Noun (통제 구역 따위의) 출입 허가증."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pass",
+      "frequency": 3
+    },
+    {
+      "meaning": "pass 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "by me",
+      "frequency": 0
+    },
+    {
+      "meaning": "PATH",
+      "frequency": 0
+    },
+    {
+      "meaning": "Pass",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "패스 기능 있나요? Can I pass? 듣기 View video 우주소녀(WJSN) : [엑시 설아] 엑떨의 우쥬크박스🎧 Ep.10",
+      "english": "Can I pass?"
+    },
+    {
+      "korean": "차를 타고 가... 이거 패스하면 안 돼요 패스? You ride a car.. Can I pass it? 듣기 View video OSEN : Golden Child 골든차일드, 하이텐션 폭발! 고요속의 외침 #스타로드 05",
+      "english": "You ride a car.. Can I pass it?"
+    },
+    {
+      "korean": "패스할게요 - 다섯 문제... I'll pass. - 5 questions... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "I'll pass. - 5 questions..."
+    },
+    {
+      "korean": "패스! - 패스! Pass! - Pass! 듣기 View video OH MY GIRL : 이 브이앱을 보는건 destiny 야~~~",
+      "english": "Pass! - Pass!"
+    },
+    {
+      "korean": "안 돼! 패스! - 왜? No! Pass! - Why? 듣기 View video Red Velvet : [Full] 레드벨벳과 [사][이]좋은 [코]리스마스🌲🎁 (Red Velvet's PsychoRISTMAS Party)",
+      "english": "No! Pass! - Why?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a long pass to Rooney 듣기 Add to Wordbook 루니에게 길게 한 패스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a long pass to Rooney Add to Wordbook"
+    },
+    {
+      "korean": "a bus pass valid for 1 month 듣기 Add to Wordbook 한 달 동안 유효한 버스 패스[승차권] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a bus pass valid for 1 month Add to Wordbook"
+    },
+    {
+      "korean": "He passed the ball to Owen. 듣기 Add to Wordbook 그가 공을 오언에게 패스했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He passed the ball to Owen. Add to Wordbook"
+    },
+    {
+      "korean": "She timed the pass perfectly. 듣기 Add to Wordbook 그녀가 완벽하게 타이밍을 맞춰 패스를 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She timed the pass perfectly. Add to Wordbook"
+    },
+    {
+      "korean": "He should have shot instead of passing. 듣기 Add to Wordbook 그가 패스를 하지 말고 슛을 했어야 했어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He should have shot instead of passing. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "알아 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do at one´s discretion",
+        "do as one thinks fit",
+        "act for oneself"
+      ]
+    },
+    {
+      "phrase": "가사 알아요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Do you know the lyrics?"
+      ]
+    },
+    {
+      "phrase": "내 한계를 알아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I know my limit."
+      ]
+    },
+    {
+      "phrase": "너 바쁜거 알아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I realize you're busy."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "IK",
+      "frequency": 0
+    },
+    {
+      "meaning": "지껄이다",
+      "frequency": 0
+    },
+    {
+      "meaning": "clear",
+      "frequency": 3
+    },
+    {
+      "meaning": "unrecognizable",
+      "frequency": 0
+    },
+    {
+      "meaning": "you know something/what?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "알아? Do you know? 듣기 View video 콬TV (WHYNOT) : 저희 오늘부터 1일이에요❤️[리얼:타임:러브] EP2 New Love",
+      "english": "Do you know?"
+    },
+    {
+      "korean": "얘 드림캐처 알아! He knows it! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "He knows it!"
+    },
+    {
+      "korean": "언니 알아요? Do you know that? 듣기 View video TWICE : 아레나 투어 마지막 공연🎶👀",
+      "english": "Do you know that?"
+    },
+    {
+      "korean": "이거 알아요? 이거? Do you know this? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Do you know this?"
+    },
+    {
+      "korean": "지금 몇 분인 줄 알아요? Do you know the time? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "Do you know the time?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Hank: I know. 듣기 Add to Wordbook 알아. Khan Academy",
+      "english": "Hank: I know. Add to Wordbook"
+    },
+    {
+      "korean": "Can you find me a hotel? 듣기 Add to Wordbook 제가 묵을 호텔 좀 알아 봐 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you find me a hotel? Add to Wordbook"
+    },
+    {
+      "korean": "I know I’m asking a great deal. 듣기 Add to Wordbook 내 요구가 너무 크다는 거 알아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I know I’m asking a great deal. Add to Wordbook"
+    },
+    {
+      "korean": "Can you find a hotel for me? 듣기 Add to Wordbook 제가 묵을 호텔 좀 알아 봐 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you find a hotel for me? Add to Wordbook"
+    },
+    {
+      "korean": "I know exactly how she felt. 듣기 Add to Wordbook 난 그녀의 기분이 어땠을지 정확히 알아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I know exactly how she felt. Add to Wordbook"
+    }
+  ]
+}

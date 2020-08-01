@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(알지 못하다) do not know, (이해하지 못하다) do not understand",
+        "(경험이 없다) have no experience, be ignorant of",
+        "(느끼지 못하다) be unaware (of), be unconscious (of)"
+      ]
+    },
+    {
+      "phrase": "모르고 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remain ignorant[in ignorance]"
+      ]
+    },
+    {
+      "phrase": "맹문 모르고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without knowing the case"
+      ]
+    },
+    {
+      "phrase": "나는 그것에 대하여 모르고 있었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I was unaware about it."
+      ]
+    },
+    {
+      "phrase": "맹문 모르고 덤벼들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rush[plunge] into something without knowing anything about it",
+        "thrust oneself into without knowing the case"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unknowingly",
+      "frequency": 0
+    },
+    {
+      "meaning": "unknowingly",
+      "frequency": 0
+    },
+    {
+      "meaning": "sky-high interest rates",
+      "frequency": 0
+    },
+    {
+      "meaning": "never tire of doing something",
+      "frequency": 0
+    },
+    {
+      "meaning": "a shot/stab in the dark",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "월급 잘못 들어온 거 모르고 계셨어요? You didn't notice? 듣기 View video 콬TV (WHYNOT) : 해피 엔딩 [가두리횟집] EP12",
+      "english": "You didn't notice?"
+    },
+    {
+      "korean": "모르고 그걸 이제 올렸죠 그래서... And posted it. 듣기 View video V PICK! : [NCT] 인주니만 있다면 365일 24/7이 백야야☀️ (RENJUN talking about Laughter episode)",
+      "english": "And posted it."
+    },
+    {
+      "korean": "[정말 까맣게 모르고 있던 정째] 아~ [JAEYOON had no idea] Ah~ 듣기 View video V PICK! : [SF9] 재윤이는 잘 뜰 수 있었어요 🏅🎉 (JAEYOON is crocheting with YOUNGBIN)",
+      "english": "[JAEYOON had no idea] Ah~"
+    },
+    {
+      "korean": "[우리 슈가 아무것도 모르고...] [Our SUGA doesn't know anything...] View video BTS : Run BTS! 2020 - 서바이벌 Director's cut",
+      "english": "[Our SUGA doesn't know anything...]"
+    },
+    {
+      "korean": "내가 모르고 이렇게 막 까불었나? Was I rough on her without knowing?? 듣기 View video Hyomstore : ep. 15 횸스토어에 몰아친 예상치 못한 지각변동 (feat.임라라, 유신월)",
+      "english": "Was I rough on her without knowing??"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It was clear that, wittingly or unwittingly, he had offended her. 발음듣기 알고 그랬든 모르고 그랬든 간에 그가 그녀의 기분을 상하게 한 것은 분명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was clear that, wittingly or unwittingly, he had offended her. 발음"
+    },
+    {
+      "korean": "Kate was stumped for words. 발음듣기 케이트는 무슨 말을 해야 할지 모르고 쩔쩔맸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Kate was stumped for words. 발음"
+    },
+    {
+      "korean": "The meeting dragged on interminably. 발음듣기 회의는 끝날 줄을 모르고 질질 이어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The meeting dragged on interminably. 발음"
+    },
+    {
+      "korean": "It will not have escaped your notice that there have been some major changes in the company. 발음듣기 회사에 몇 가지 중요한 변화가 있었다는 것을 당신이 모르고 지나갈 리 없을 겁니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It will not have escaped your notice that there have been some major changes in the company. 발음"
+    },
+    {
+      "korean": "thousands of nameless and faceless workers 발음듣기 이름도 모르고 얼굴도 모르는 수천 명의 근로자들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "thousands of nameless and faceless workers 발음"
+    }
+  ]
+}

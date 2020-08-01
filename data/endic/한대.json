@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "한대",
+      "hanja": " (寒帶)",
+      "example": {},
+      "meanings": [
+        "polar regions"
+      ]
+    },
+    {
+      "phrase": "담배 한 대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a smoke",
+        "a fill (of tobacco)"
+      ]
+    },
+    {
+      "phrase": "한 대에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at a[one] blow[stroke]",
+        "by a (single) blow"
+      ]
+    },
+    {
+      "phrase": "뺨을 한 대 먹이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "slap on the cheek",
+        "give a box on the ear"
+      ]
+    },
+    {
+      "phrase": "북[남]한대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Arctic [Antarctic] zone"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "the frozen zone",
+      "frequency": 0
+    },
+    {
+      "meaning": "a frigid zone",
+      "frequency": 0
+    },
+    {
+      "meaning": "pipe",
+      "frequency": 2
+    },
+    {
+      "meaning": "truckload",
+      "frequency": 0
+    },
+    {
+      "meaning": "land a blow, punch, etc.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나 한 대 맞았어! I got hit! 듣기 View video BTS : Run BTS! 2020 - 서바이벌 Director's cut",
+      "english": "I got hit!"
+    },
+    {
+      "korean": "한 대 맞았어! I got a shot! 듣기 View video BTS : Run BTS! 2020 - EP.101",
+      "english": "I got a shot!"
+    },
+    {
+      "korean": "너 나 한 대 칠래? Do you want to slap me? 듣기 View video 플레이리스트 (Playlist) : 여자 둘이 손잡고 X레기 족치는 법[엑스엑스(XX)] - EP.08",
+      "english": "Do you want to slap me?"
+    },
+    {
+      "korean": "그게 세워지긴 한대? Does that even sit up? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "Does that even sit up?"
+    },
+    {
+      "korean": "너 왜 한 대도 안 맞았냐? Why didn't you get hit? 듣기 View video BTS : Run BTS! 2020 - 서바이벌 Director's cut",
+      "english": "Why didn't you get hit?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A runaway car came hurtling towards us. 발음듣기 도주 차량 한 대가 우리를 향해 돌진해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A runaway car came hurtling towards us. 발음"
+    },
+    {
+      "korean": "She got angry and socked him in the mouth. 발음듣기 그녀가 화가 나서 그의 입을 한 대 갈겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She got angry and socked him in the mouth. 발음"
+    },
+    {
+      "korean": "A truck came belting up behind us. 발음듣기 우리 뒤에서 트럭 한 대가 쏜살같이 달려 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A truck came belting up behind us. 발음"
+    },
+    {
+      "korean": "Goaded beyond endurance, she turned on him and hit out. 발음듣기 들들 볶이다 참을 수 없게 된 그녀가 그에게로 돌아서더니 한 대 쳐 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Goaded beyond endurance, she turned on him and hit out. 발음"
+    },
+    {
+      "korean": "A helicopter was scrambled to help rescue three young climbers. 발음듣기 젊은 등반가 세 명의 구조를 돕기 위해 헬리콥터 한 대를 긴급 이륙시켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A helicopter was scrambled to help rescue three young climbers. 발음"
+    }
+  ]
+}

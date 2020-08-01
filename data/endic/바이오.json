@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "bio",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 생물학(biology)",
+        "Noun (짧은) 전기; (예능인의) 경력; (연감·선전 기사 등에서의) 인물 소개, 약력",
+        "Adjective (=BIOLOGICAL)"
+      ]
+    },
+    {
+      "phrase": "bio-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Combining form <‘생명’, ‘인간의 삶’과 관련되어 있음을 나타냄>"
+      ]
+    },
+    {
+      "phrase": "bio.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Abbreviation] biologyBiology.",
+        "[Abbreviation] biographyBiography."
+      ]
+    },
+    {
+      "phrase": "[BRB] BIO",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Internet slang for \"Be right back, biology break,\" in which \"biology break\" refers to going to the bathroom."
+      ]
+    },
+    {
+      "phrase": "바이오리듬",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "biorhythms"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "biofuel",
+      "frequency": 0
+    },
+    {
+      "meaning": "biodiesel",
+      "frequency": 0
+    },
+    {
+      "meaning": "bioenergy",
+      "frequency": 0
+    },
+    {
+      "meaning": "biosecurity",
+      "frequency": 0
+    },
+    {
+      "meaning": "bioethanol",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "바이오 뭐라고요? 바이오? Bio what? Bio? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 10. 포스텍 야잠입고 카이스트 습격! “구토스”, 외대와 타령랩, 오묘한 조합!? “도비\"",
+      "english": "Bio what? Bio?"
+    },
+    {
+      "korean": "바이오도 있고~ There's bio energy. 듣기 View video 모비딕(Mobidic) : PT의 신(神) 이상민의 에너지 넘치는 발표 그리고 한수원 사랑 <오늘만 대리> 7회",
+      "english": "There's bio energy."
+    },
+    {
+      "korean": "풍력, 바이오, 수력, 태양광, 수소, 원자력! Wind power, bio, hydro power, solar power, nuclear power! 듣기 View video 모비딕(Mobidic) : 홍보의 神(신) 미우새 이상민 한수원:한국수력원자력에 취직하다? <오늘만 대리> 6회",
+      "english": "Wind power, bio, hydro power, solar power, nuclear power!"
+    },
+    {
+      "korean": "이렇게 하면 바이오리듬이 회복되고 혈액 순환도 더 좋아질 거예요. This will help to keep your physical rhythm and to improve your blood circulation. 듣기 View video Wishtrend TV : All About Dark Circles | 5 Causes and Hacks to Remove Dark Circles | Wishtrend TV",
+      "english": "This will help to keep your physical rhythm and to improve your blood circulation."
+    },
+    {
+      "korean": "바이오 오일 이것도... 아! 맞아. Bio-Oil... Oh! Right. 듣기 View video V Beauty : [콩슈니 SHOW] 초겨울엔 OIL! 오일 스킨케어 루틴!​​",
+      "english": "Bio-Oil... Oh! Right."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a biorobotic model of the tactile system 발음듣기 촉각 시스템을 바이오 로봇으로 구현한 모델 국제영어대학원대학교 신어사전",
+      "english": "a biorobotic model of the tactile system 발음"
+    },
+    {
+      "korean": "Can biobinder increase tensile strength? 발음듣기 바이오바인더가 인장 강도를 증가시킬 수 있나요? 국제영어대학원대학교 신어사전",
+      "english": "Can biobinder increase tensile strength? 발음"
+    },
+    {
+      "korean": "Human beings are just one living creature in the bioverse. 발음듣기 인류는 바이오버스 안에서 하나의 생명체일 뿐이다. 국제영어대학원대학교 신어사전",
+      "english": "Human beings are just one living creature in the bioverse. 발음"
+    },
+    {
+      "korean": "The biomechanoid is a robot in the form of an imaginary animal. 발음듣기 바이오메카노이드는 가공의 동물 형태를 한 로봇이다. 국제영어대학원대학교 신어사전",
+      "english": "The biomechanoid is a robot in the form of an imaginary animal. 발음"
+    },
+    {
+      "korean": "bio-ink used in bioprinting 발음듣기 생체인쇄에 사용된 바이오 잉크 국제영어대학원대학교 신어사전",
+      "english": "bio-ink used in bioprinting 발음"
+    }
+  ]
+}

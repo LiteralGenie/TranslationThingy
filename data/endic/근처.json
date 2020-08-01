@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "근처",
+      "hanja": " (近處)",
+      "example": {},
+      "meanings": [
+        "neighborhood, vicinity"
+      ]
+    },
+    {
+      "phrase": "근처도 못 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be unable to go to the vicinity"
+      ]
+    },
+    {
+      "phrase": "근처의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "neighboring",
+        "nearby",
+        "close-by"
+      ]
+    },
+    {
+      "phrase": "이 근처에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "near here",
+        "around[about] here",
+        "in this neighborhood"
+      ]
+    },
+    {
+      "phrase": "근처에 살다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live close to",
+        "live close at hand"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neighbourhood",
+      "frequency": 2
+    },
+    {
+      "meaning": "way 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "neighborhood",
+      "frequency": 1
+    },
+    {
+      "meaning": "vicinage",
+      "frequency": 0
+    },
+    {
+      "meaning": "purlieu",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그 근처에 어디였지? Where was it nearby? 듣기 View video Park Bo Young : 오랜만에 보이스🙄",
+      "english": "Where was it nearby?"
+    },
+    {
+      "korean": "회사 근처에 있었잖아 파는 데가! There was a place nearby our company building! 듣기 View video TWICE : 다다다다시시시",
+      "english": "There was a place nearby our company building!"
+    },
+    {
+      "korean": "내가 회사 근처로 갈게 미팅 몇 시에 끝나? I'll go to your firm. When will it be over? 듣기 View video 플레이리스트 (Playlist) : 존잘 연하가 선배 꼬시는 법 [엑스엑스(XX)] - EP.05",
+      "english": "I'll go to your firm. When will it be over?"
+    },
+    {
+      "korean": "[우리 현호] 너네 집 근천데 데리러 갈까? [My Hyunho] I'm in your neighborhood. Shall I come by to pick you up? 듣기 View video 콬TV (WHYNOT) : 여친의 모든 것이 궁금해 [일진에게 찍혔을 때2] 한스킨 특별편",
+      "english": "[My Hyunho] I'm in your neighborhood. Shall I come by to pick you up?"
+    },
+    {
+      "korean": "옛날 회사 근처에 있었던 김치찌개 집도 나 엄마랑 같이 갔었던... And the kimchi jjigae place near our old office.. I went there with my mom. 듣기 View video TWICE : 모사 8주년🍑🐹",
+      "english": "And the kimchi jjigae place near our old office.. I went there with my mom."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We spent the weekend sailing off the south coast. 발음듣기 우리는 남해안 근처에서 요트타기를 하며 주말을 보냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We spent the weekend sailing off the south coast. 발음"
+    },
+    {
+      "korean": "It started to rain so we dived into the nearest cafe. 발음듣기 비가 오기 시작해서 우리는 근처 카페로 급히 뛰어 들어갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It started to rain so we dived into the nearest cafe. 발음"
+    },
+    {
+      "korean": "a paved area near the back door 발음듣기 뒷문 근처의 포장된 부분 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a paved area near the back door 발음"
+    },
+    {
+      "korean": "Can you drop me near the bank? 발음듣기 은행 근처에 내려 줄 수 있니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you drop me near the bank? 발음"
+    },
+    {
+      "korean": "Is there a stationer’s near here? 발음듣기 이 근처에 문구점이 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is there a stationer’s near here? 발음"
+    }
+  ]
+}

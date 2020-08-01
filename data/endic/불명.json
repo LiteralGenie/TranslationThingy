@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "불명",
+      "hanja": " (不明)",
+      "example": {},
+      "meanings": [
+        "(분명하지 않음) indistinctness, obscurity, ambiguity, ―하다 (be) indistinct, obscure, ambiguous, vague",
+        "(사리에 어두움) lack of brightness[wisdom, perception, insight], dullness, stupidity, ―하다 (be) unwise, unperceptive, stupid, i..."
+      ]
+    },
+    {
+      "phrase": "행방불명",
+      "hanja": " (行方不明)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "정체 불명의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "strange",
+        "unidentified",
+        "mysterious"
+      ]
+    },
+    {
+      "phrase": "기원 불명의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "of unknown origin"
+      ]
+    },
+    {
+      "phrase": "행방불명이 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be[get] lost",
+        "be[go] missing"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "insensibility",
+      "frequency": 3
+    },
+    {
+      "meaning": "unaccounted for",
+      "frequency": 0
+    },
+    {
+      "meaning": "MIA",
+      "frequency": 0
+    },
+    {
+      "meaning": "unconsciousness",
+      "frequency": 0
+    },
+    {
+      "meaning": "faceless",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[정체불명의 랩과 함께 힘차게 쭈니 등장] Yo~ Ya~ [JUN appeared with mysterious rapping] Yo, ya! 듣기 View video V PICK! : [TXT] YO~ 미니’어처’ 만드는 껌딱지즈 ‘어처’구니 없게 귀엽다 YO~ (SOOBIN&HUENINGKAI making miniature food)",
+      "english": "[JUN appeared with mysterious rapping] Yo, ya!"
+    },
+    {
+      "korean": "'불명' 때 실검 1위 했을 때 어땠냐고요? How did it feel to be number one on search portals during \"Immortal Song\"? 듣기 View video Stray Kids : 막내의 사생활 18🦊",
+      "english": "How did it feel to be number one on search portals during \"Immortal Song\"?"
+    },
+    {
+      "korean": "[빠르게 완성되어 가는 정체불명의 무언가] - 뭐야 이게 - 저걸 이렇게... [A mysterious something is almost complete] - What is it? - That... 듣기 View video BTS : Run BTS! 2019 - EP.77",
+      "english": "[A mysterious something is almost complete] - What is it? - That..."
+    },
+    {
+      "korean": "[30분전] [거실에서 발견한 정체불명 물건] 이거 어디에 쓰는 거야? [30 minutes ago] [Finds something weird in the living room] What's this for? 듣기 View video 심포유 - my SMTelevision : [심포유 #시우민] EP05 #찬열떡볶이 #보드게임1탄 #꿀잼",
+      "english": "[30 minutes ago] [Finds something weird in the living room] What's this for?"
+    },
+    {
+      "korean": "[정체불명 하얀 덩어리] 이거 (그림의 배경) 이거 (브라우니 생크림) 묻힌거야? [An unknown white block] This... (in the background) is that (whip cream)? 듣기 View video 콬TV (WHYNOT) : 리하이 여자 출연자 3인방 드디어 모였어요!ㅣ지효의 깜짝 등장💖ㅣ[리얼하이VLOG] #6",
+      "english": "[An unknown white block] This... (in the background) is that (whip cream)?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to be in a deep sleep/trance/coma 듣기 Add to Wordbook 깊이 잠들어 있다/깊은 가사 상태에 빠져 있다/의식불명 상태에 깊이 빠져 있다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be in a deep sleep/trance/coma Add to Wordbook"
+    },
+    {
+      "korean": "At least 300 civilians are unaccounted for after the bombing raids. 듣기 Add to Wordbook 그 폭격이 있은 후에 최소 300명의 민간인이 행방불명되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At least 300 civilians are unaccounted for after the bombing raids. Add to Wordbook"
+    },
+    {
+      "korean": "He had lapsed into unconsciousness. 듣기 Add to Wordbook 그는 의식 불명에 빠져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had lapsed into unconsciousness. Add to Wordbook"
+    },
+    {
+      "korean": "He felt himself going under. 듣기 Add to Wordbook 그는 자신이 의식 불명 상태로 빠져드는 것을 느꼈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He felt himself going under. Add to Wordbook"
+    },
+    {
+      "korean": "He lip-synced ‘Return to Sender’. 듣기 Add to Wordbook 그는 ‘Return to Sender (수취인 불명)’를 립싱크로 불렀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He lip-synced ‘Return to Sender’. Add to Wordbook"
+    }
+  ]
+}

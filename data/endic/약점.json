@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "약점",
+      "hanja": " (弱點)",
+      "example": {},
+      "meanings": [
+        "weakness, weak point[spot, side], vulnerable point"
+      ]
+    },
+    {
+      "phrase": "약점[취약점]",
+      "hanja": " (弱點[脆弱點])",
+      "example": {},
+      "meanings": [
+        "군사 weakness"
+      ]
+    },
+    {
+      "phrase": "약점을 잡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hold a sword over head",
+        "take advantage of shortcomings"
+      ]
+    },
+    {
+      "phrase": "약점을 보완하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make up for the weak points"
+      ]
+    },
+    {
+      "phrase": "약점을 잡히다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have one´s weakness seized[played] upon"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "weakness",
+      "frequency": 3
+    },
+    {
+      "meaning": "weak",
+      "frequency": 3
+    },
+    {
+      "meaning": "disadvantage",
+      "frequency": 3
+    },
+    {
+      "meaning": "frailty",
+      "frequency": 3
+    },
+    {
+      "meaning": "inadequacy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐... 약점 잡힌 거 있어? Did your weakness get found out? 듣기 View video 콬TV (WHYNOT) : 놀리고싶은 후배가 생겼다 [프레쉬맨] EP05 인싸는 짜릿해",
+      "english": "Did your weakness get found out?"
+    },
+    {
+      "korean": "아니면 뭐 약점이라도 잡혔니? Or does she know something that you don't want her to tell other people? 듣기 View video 콬TV (WHYNOT) : 나를 괴롭히던 일진의 과거는? [일진에게 찍혔을 때] EP05",
+      "english": "Or does she know something that you don't want her to tell other people?"
+    },
+    {
+      "korean": "저는 이제 이 사연에 정말 대답을 잘 못해드릴 수 있는 한 가지 약점이 있는데. I have a weakness that won't allow me to answer to this story. 듣기 View video NU'EST : [NU'EST W] 뉴블의 심야식당 - 오늘을 읽어주는 남자들 part.4",
+      "english": "I have a weakness that won't allow me to answer to this story."
+    },
+    {
+      "korean": "큰 약점이라고 하면... very weak at... 듣기 View video MONSTA X : [몬채널][B] EP.48 '최.배.찾' #prologue",
+      "english": "very weak at..."
+    },
+    {
+      "korean": "저의 약점이 되어 주세요. Be my weakness. 듣기 View video INFINITE : 우현이 내게오나봐 잘사람자 라디오 5화",
+      "english": "Be my weakness."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Take your weaknesses and translate them into positives. 듣기 Add to Wordbook 자신의 약점을 잡아내어 그것들을 긍정적인 것으로 바꾸어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Take your weaknesses and translate them into positives. Add to Wordbook"
+    },
+    {
+      "korean": "The team’s weak points are in defence. 듣기 Add to Wordbook 그 팀의 약점은 방어이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team’s weak points are in defence. Add to Wordbook"
+    },
+    {
+      "korean": "Can you spot the weakness in her argument? 듣기 Add to Wordbook 그녀의 주장에 담긴 약점을 찾아낼 수 있겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you spot the weakness in her argument? Add to Wordbook"
+    },
+    {
+      "korean": "He knew her weak spot where Steve was concerned. 듣기 Add to Wordbook 그는 스티브와 관련된 그녀의 약점을 알고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He knew her weak spot where Steve was concerned. Add to Wordbook"
+    },
+    {
+      "korean": "The fact that I was a foreigner was a big disadvantage. 듣기 Add to Wordbook 내가 외국인이라는 사실이 큰 약점이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The fact that I was a foreigner was a big disadvantage. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "phrases": [
+    {
+      "phrase": "끝나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "end, finish, close, be over, be done, be finished, be completed"
+      ]
+    },
+    {
+      "phrase": "그 합병은 잘 끝났나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "직장에서의 표현 Did that merger ever go through?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "finished",
+      "frequency": 3
+    },
+    {
+      "meaning": "done",
+      "frequency": 3
+    },
+    {
+      "meaning": "sentence",
+      "frequency": 3
+    },
+    {
+      "meaning": "end in something",
+      "frequency": 0
+    },
+    {
+      "meaning": "victorious",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "끝났나? Is it over? 듣기 View video (G)I-DLE : 수지니",
+      "english": "Is it over?"
+    },
+    {
+      "korean": "끝났나요? Is it over? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "Is it over?"
+    },
+    {
+      "korean": "가만히 있으래 - 끝났나요, 비하인드 토크가? \"Stay quiet\". - Did we finish this session? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "\"Stay quiet\". - Did we finish this session?"
+    },
+    {
+      "korean": "그러면 다 끝났나요? Is it done? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#373. 스키즈 어워즈 (w. 스페셜 DJ 스트레이키즈 현진&방찬 with 스트레이키즈)",
+      "english": "Is it done?"
+    },
+    {
+      "korean": "됐어요? 저희 끝났나요? Done? Is it over? 듣기 View video TWICE : [AutoCut_NAYEON] TWICE July Highlight",
+      "english": "Done? Is it over?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Has that report been typed up yet? 듣기 Add to Wordbook 그 보고서 입력 다 끝났나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Has that report been typed up yet? Add to Wordbook"
+    },
+    {
+      "korean": "As a matter of interest, what time did the party finish? 듣기 Add to Wordbook 궁금해서 그러는데, 파티가 몇 시에 끝났나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "As a matter of interest, what time did the party finish? Add to Wordbook"
+    },
+    {
+      "korean": "‘Finished?’ ‘No, I’ve got another three questions to do.’ 듣기 Add to Wordbook “끝났나요?” “아뇨. 할 질문이 세 가지 더 있어요.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Finished?’ ‘No, I’ve got another three questions to do.’ Add to Wordbook"
+    },
+    {
+      "korean": "Is your group prepared for the upcoming inspection? 듣기 Add to Wordbook 당신 부서는 곧 있을 감사에 대한 준비가 다 끝났나요? YBM All in All English-Korean Dictionary",
+      "english": "Is your group prepared for the upcoming inspection? Add to Wordbook"
+    },
+    {
+      "korean": "Did that merger ever go through? 듣기 Add to Wordbook 그 합병은 잘 끝났나요? YBM All in All English-Korean Dictionary",
+      "english": "Did that merger ever go through? Add to Wordbook"
+    }
+  ]
+}

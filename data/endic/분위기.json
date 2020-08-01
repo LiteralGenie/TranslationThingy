@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "분위기",
+      "hanja": " (雰圍氣)",
+      "example": {},
+      "meanings": [
+        "(어떤 자리·장면에서 느껴지는 느낌) atmosphere, mood, air, ambience",
+        "(사람·사물에서 느껴지는 느낌) air, image",
+        "(사회에 떠도는 기운) mood, atmosphere"
+      ]
+    },
+    {
+      "phrase": "분위기 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have the mood"
+      ]
+    },
+    {
+      "phrase": "면학 분위기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an atmosphere conducive to academic pursuit"
+      ]
+    },
+    {
+      "phrase": "분위기를 띄우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "liven[brighten] up the mood[atmosphere]"
+      ]
+    },
+    {
+      "phrase": "분위기를 깨다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "spoil the mood"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mood",
+      "frequency": 2
+    },
+    {
+      "meaning": "feeling",
+      "frequency": 2
+    },
+    {
+      "meaning": "tone",
+      "frequency": 2
+    },
+    {
+      "meaning": "atmosphere",
+      "frequency": 2
+    },
+    {
+      "meaning": "climate",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[갑자기 분위기 브로맨스] 저요? [Suddenly bromance] Me? 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "[Suddenly bromance] Me?"
+    },
+    {
+      "korean": "여름 음악이랑 분위기 맞는 거 같아요. I feel like it really soothes the summer vibe. 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "I feel like it really soothes the summer vibe."
+    },
+    {
+      "korean": "짱 좋아요, 분위기가... It's awesome. The mood... 듣기 View video TOMORROW X TOGETHER : 수빈&범규의 티타임 🥑🍍",
+      "english": "It's awesome. The mood..."
+    },
+    {
+      "korean": "잠깐만요 - 갑자기 게임으로 이렇게 분위기가... Wait a minute. - The mood changed so suddenly... 듣기 View video SEVENTEEN : 헹가래의 끝은 안드로메다🚀",
+      "english": "Wait a minute. - The mood changed so suddenly..."
+    },
+    {
+      "korean": "이 계절에, 이 분위기에 딱 어울리는 메뉴 아닙니까 여러분들? Isn't it the best menu for this season and mood? 듣기 View video V COOKIE : [Full] AB6IX x Rooftop Live - AB6IX의 루프탑라이브!",
+      "english": "Isn't it the best menu for this season and mood?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The whole town is in festive mood. 발음듣기 그 소도시 전체가 축제 분위기이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The whole town is in festive mood. 발음"
+    },
+    {
+      "korean": "an atmosphere redolent of the sea and ships 발음듣기 바다와 배를 생각나게 하는 분위기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an atmosphere redolent of the sea and ships 발음"
+    },
+    {
+      "korean": "The overall tone of the book is gently nostalgic. 발음듣기 그 책의 전반적인 분위기는 약간 회고조이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The overall tone of the book is gently nostalgic. 발음"
+    },
+    {
+      "korean": "The scent of victory was in the air. 발음듣기 (분위기 속에는) 승리의 기운이 감돌았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The scent of victory was in the air. 발음"
+    },
+    {
+      "korean": "The meeting ended on an upbeat note. 발음듣기 그 회의는 긍정적인 분위기로 끝났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The meeting ended on an upbeat note. 발음"
+    }
+  ]
+}

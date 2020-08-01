@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "인형",
+      "hanja": " (人形)",
+      "example": {},
+      "meanings": [
+        "doll, (꼭두각시인형) puppet, marionette"
+      ]
+    },
+    {
+      "phrase": "봉제인형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rag doll"
+      ]
+    },
+    {
+      "phrase": "목각 인형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wooden doll, doll carved in wood"
+      ]
+    },
+    {
+      "phrase": "밀랍 인형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wax figures"
+      ]
+    },
+    {
+      "phrase": "모델 인형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a plastic model",
+        "a lay figure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "doll",
+      "frequency": 3
+    },
+    {
+      "meaning": "dolly",
+      "frequency": 3
+    },
+    {
+      "meaning": "puppet",
+      "frequency": 3
+    },
+    {
+      "meaning": "marionette",
+      "frequency": 0
+    },
+    {
+      "meaning": "effigy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너는 인형이야? Are you a doll? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Are you a doll?"
+    },
+    {
+      "korean": "안 귀여운 인형이 어디 있냐? There's no doll that's not cute. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "There's no doll that's not cute."
+    },
+    {
+      "korean": "[휴닝카이 1층 침대 상황][인형 80%+옷 20%] - 옷이 한 20% 정도로 있는 - 아니... And 20 percent is clothes. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "And 20 percent is clothes."
+    },
+    {
+      "korean": "[내 소듕한 인형인데] 던지니까 너무 마음 아픈 거예요... [My precious dolls] It hurts to see them thrown out. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[My precious dolls] It hurts to see them thrown out."
+    },
+    {
+      "korean": "오뚝이 인형? A head nodding doll? 듣기 View video NCT : 🎂🎂🎂",
+      "english": "A head nodding doll?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The teddy bear was his favourite plaything. 듣기 Add to Wordbook 그 곰 인형은 그가 좋아하는 장난감이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The teddy bear was his favourite plaything. Add to Wordbook"
+    },
+    {
+      "korean": "The demonstrators burned a crude effigy of the president. 듣기 Add to Wordbook 시위자들이 조잡하게 만든 대통령 인형을 불태웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The demonstrators burned a crude effigy of the president. Add to Wordbook"
+    },
+    {
+      "korean": "She’s quite a doll. 듣기 Add to Wordbook 그녀는 정말 인형 같아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s quite a doll. Add to Wordbook"
+    },
+    {
+      "korean": "The little boy cuddled the teddy bear close. 듣기 Add to Wordbook 그 어린 남자 아이는 곰 인형을 꼭 껴안았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The little boy cuddled the teddy bear close. Add to Wordbook"
+    },
+    {
+      "korean": "a doll with jointed arms/legs 듣기 Add to Wordbook 팔/다리가 관절로 연결된 인형 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a doll with jointed arms/legs Add to Wordbook"
+    }
+  ]
+}

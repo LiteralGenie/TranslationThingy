@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "corporation",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (Abbr.) Corp.. (큰 규모의) 기업[회사]",
+        "Noun 법인, 조합",
+        "Noun 英 (선출되는) 도시 자치 운영 위원단[시 자치체]"
+      ]
+    },
+    {
+      "phrase": "corporate",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 기업[회사]의",
+        "Adjective 전문 용어 법인(체)의",
+        "Adjective (그룹 구성원을 다 포함하는) 공동의"
+      ]
+    },
+    {
+      "phrase": "뉴스코퍼레이션",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "뉴스와 미디어·기관·단체 News Corporation"
+      ]
+    },
+    {
+      "phrase": "셸코퍼레이션",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "경제·경영 shell corporation"
+      ]
+    },
+    {
+      "phrase": "(주)대림코퍼레이션",
+      "hanja": " ((株)大林─)",
+      "example": {},
+      "meanings": [
+        "기관·단체 Daelim Corporation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "virtual corporation",
+      "frequency": 0
+    },
+    {
+      "meaning": "Neuralink Corp",
+      "frequency": 0
+    },
+    {
+      "meaning": "Murdoch, James (Rupert Jacob)",
+      "frequency": 0
+    },
+    {
+      "meaning": "Power Corporation of Canada, Inc",
+      "frequency": 0
+    },
+    {
+      "meaning": "Nippon Oil Corporation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 근데요 부장님 저희 회사가 주식회사였나요? Excuse me, department manager. Is our company a corporation? 듣기 View video SF9 : [FOR FANTASY] 셒구상사 (SF9 SANGSA) EP.01",
+      "english": "Excuse me, department manager. Is our company a corporation?"
+    },
+    {
+      "korean": "주식회사 파워... Power Corporation will... 듣기 View video NCT의 night night! : 미리 만나는 도요일♥ 도다제 녹음현장! with 도영",
+      "english": "Power Corporation will..."
+    },
+    {
+      "korean": "저한테 책상 있었어요 재능교육 책상. I had a desk. A JEI Corporation desk. 듣기 View video BRANDNEWBOYS : 커피될게 우유해줘",
+      "english": "I had a desk. A JEI Corporation desk."
+    },
+    {
+      "korean": "여기 강수 그룹이요. We are from Kang Soo Corporation. 듣기 View video V DRAMA : [Full]변혁의 사랑 X 앞터V (Revolutionary Love X Early Interview)",
+      "english": "We are from Kang Soo Corporation."
+    },
+    {
+      "korean": "N그룹 아들이라고요 제가요! My father is the CEO of N Corporation! 듣기 View video V DRAMA : [Full]변혁의 사랑 X 앞터V (Revolutionary Love X Early Interview)",
+      "english": "My father is the CEO of N Corporation!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "News Corporation is headquartered in Sydney. 듣기 Add to Wordbook 뉴스 코퍼레이션은 시드니에 본부가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "News Corporation is headquartered in Sydney. Add to Wordbook"
+    },
+    {
+      "korean": "Neuralink Corp aims to link computers to human brains. 듣기 Add to Wordbook 뉴럴링크 코퍼레이션은 컴퓨터를 인간 두뇌에 연결하는 것을 목표로 한다. 국제영어대학원대학교 신어사전",
+      "english": "Neuralink Corp aims to link computers to human brains. Add to Wordbook"
+    },
+    {
+      "korean": "The deal was announced on August 1 in a joint statement issued by Murdoch's News Corporation and Dow Jones. 듣기 Add to Wordbook 이 거래는 8월 1일 머독의 뉴스 코퍼레이션과 다우 존스에 의해 발표된 공동 성명에서 공표되었다. Neungyule",
+      "english": "The deal was announced on August 1 in a joint statement issued by Murdoch's News Corporation and Dow Jones. Add to Wordbook"
+    },
+    {
+      "korean": "Are you ready for all 'Simpsons', all the time? News Corp. company that owns the popular TV animation program, 'The Simpsons.' 듣기 Add to Wordbook 심슨 가족'의 24시간 방송에 대해 알고 있습니까? 뉴스 코퍼레이션은 인기 많은 TV 만화인 '심슨 가족'을 소유하고 있는 미국 기업이다. Neungyule",
+      "english": "Are you ready for all 'Simpsons', all the time? News Corp. company that owns the popular TV animation program, 'The Simpsons.' Add to Wordbook"
+    },
+    {
+      "korean": "Chase Carey, the Chief Operating Officer of News Corp., said his company was now considering a 24-hour TV channel devoted to the hit show. 듣기 Add to Wordbook 뉴스 코퍼레이션의 최고 운영 책임자인 체이스 캐리는 24시간 심슨만을 방영하는 TV 채널 개설을 구상 중이라고 밝혔다. Neungyule",
+      "english": "Chase Carey, the Chief Operating Officer of News Corp., said his company was now considering a 24-hour TV channel devoted to the hit show. Add to Wordbook"
+    }
+  ]
+}

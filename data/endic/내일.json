@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "내일",
+      "hanja": " (來日)",
+      "example": {},
+      "meanings": [
+        "(오늘의 다음 날) tomorrow",
+        "(장래, 미래) tomorrow, future"
+      ]
+    },
+    {
+      "phrase": "내일",
+      "hanja": " (來日)",
+      "example": {},
+      "meanings": [
+        "Noun (Abbr.) 낼1. days to come, future (→어제1)",
+        "Noun days to come, future (→어제1)"
+      ]
+    },
+    {
+      "phrase": "내일쯤",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by tomorrow"
+      ]
+    },
+    {
+      "phrase": "지금[내일]부터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "starting from now[tomorrow]"
+      ]
+    },
+    {
+      "phrase": "내일 아침[저녁]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tomorrow morning[evening]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tomorrow",
+      "frequency": 3
+    },
+    {
+      "meaning": "morrow",
+      "frequency": 3
+    },
+    {
+      "meaning": "mañana",
+      "frequency": 0
+    },
+    {
+      "meaning": "tomoz",
+      "frequency": 0
+    },
+    {
+      "meaning": "tmr",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내일 뭐 하냐고요? What am I doing tomorrow? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "What am I doing tomorrow?"
+    },
+    {
+      "korean": "내일도 함께하자로 해야 돼! Translate it into Korean. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "Translate it into Korean."
+    },
+    {
+      "korean": "내일이 더 추워요? 내일이 더 춥다고? It's colder tomorrow? It's colder tomorrow? 듣기 View video ITZY : 🖤",
+      "english": "It's colder tomorrow? It's colder tomorrow?"
+    },
+    {
+      "korean": "내일이 무슨 요일이죠? 금요일인가요? What's tomorrow? Is it Friday? 듣기 View video NU'EST : [NU’EST] 오늘은 일찍..늦지 않게! 왔어요😉",
+      "english": "What's tomorrow? Is it Friday?"
+    },
+    {
+      "korean": "내일 음방 문자 투표해야 하는 거 RGRG? We need to vote tomorrow. RGRG? 듣기 View video V CREW : [V CREW] 로디 알쓸덕잡 EP. 01 RGRG👌",
+      "english": "We need to vote tomorrow. RGRG?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Report to me tomorrow, corporal!’ ‘Yes, sir!’ 듣기 Add to Wordbook “내일 내게 보고해, 상병!” “알겠습니다!” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Report to me tomorrow, corporal!’ ‘Yes, sir!’ Add to Wordbook"
+    },
+    {
+      "korean": "Who knows what the morrow will bring? 듣기 Add to Wordbook 내일 무슨 일이 있을지 누가 알겠어? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Who knows what the morrow will bring? Add to Wordbook"
+    },
+    {
+      "korean": "Bus services will be disrupted tomorrow because of the bridge closure. 듣기 Add to Wordbook 그 다리 폐쇄로 내일은 버스 운행에 지장이 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Bus services will be disrupted tomorrow because of the bridge closure. Add to Wordbook"
+    },
+    {
+      "korean": "You will be quizzed on chapter 6 tomorrow. 듣기 Add to Wordbook 여러분들은 내일 6장에 대해 시험을 치를 거예요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You will be quizzed on chapter 6 tomorrow. Add to Wordbook"
+    },
+    {
+      "korean": "The victorious team will parade through the city tomorrow morning. 듣기 Add to Wordbook 우승팀은 내일 오전에 시가지를 다니며 가두 행진을 벌일 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The victorious team will parade through the city tomorrow morning. Add to Wordbook"
+    }
+  ]
+}

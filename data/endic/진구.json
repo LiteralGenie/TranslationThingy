@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "진구",
+      "hanja": " (塵垢)",
+      "example": {},
+      "meanings": [
+        "dust and dirt[filth]."
+      ]
+    },
+    {
+      "phrase": "경계진구역기준선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 screen sector origin"
+      ]
+    },
+    {
+      "phrase": "게히진구",
+      "hanja": " (気比神宮(기비신궁))",
+      "example": {},
+      "meanings": [
+        "종교 Kehi Shrine"
+      ]
+    },
+    {
+      "phrase": "우도진구",
+      "hanja": " (鵜戸神宮(제호신궁))",
+      "example": {},
+      "meanings": [
+        "종교 Udo-jingū"
+      ]
+    },
+    {
+      "phrase": "히코산진구",
+      "hanja": " (英彦山神宮(영언산신궁))",
+      "example": {},
+      "meanings": [
+        "종교 Hikosan Jingū"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Jin Goo",
+      "frequency": 0
+    },
+    {
+      "meaning": "Heian Jingu Shrine",
+      "frequency": 0
+    },
+    {
+      "meaning": "Mimana Nihonfu",
+      "frequency": 0
+    },
+    {
+      "meaning": "Jingū-Nishi Station",
+      "frequency": 0
+    },
+    {
+      "meaning": "Eucoccidiorida",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "진구야 - 아닌데요?",
+      "english": "Jingu. - It's not Doraemon."
+    },
+    {
+      "korean": "진구 씨나 제가 애교하는 거는...",
+      "english": "Jin-goo's or my aegyo is not so much..."
+    },
+    {
+      "korean": "우리 진구 씨는 어떤 힐링법을 갖고 계신가요?",
+      "english": "Jin-goo, what is your healing method?"
+    },
+    {
+      "korean": "이제 또 진구 씨가 어디 주머니에 갖고 왔나요? 어디?",
+      "english": "Did you prepare something in your pocket?"
+    },
+    {
+      "korean": "스크림 비슷하게 우리 진구 씨 뒤에 - 이거 해골이에요?",
+      "english": "This is kind of like The Scream. Behind Jin-goo. - This is a skull?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "우리는 14살의 강 진 구 친구와 함께 앉아서 즐거운 시간을 보냈다.",
+      "english": "We had the pleasure of sitting down with 14-year-old student Kang Jin-gu."
+    },
+    {
+      "korean": "그 그룹은 진구가 연기한 조직 두목, 한혜진이 연기한 국가 대표 사격 선수, 임슬옹이 연기한 경찰관 등이 함께 모여 전두환을 암살하려는 구상을 한다.",
+      "english": "The group included a gang leader, played by Jin Gu, a member of the Korean national shooting team, played by Han Hye-jin, and a policeman, played by Lim Seul-ong all of who gathered to plot the assassination of Chun Doo-hwan."
+    },
+    {
+      "korean": "법률에 엄격히 따른다고 나를 비난하는 진구",
+      "english": "Friend chiding me for being legalistic."
+    },
+    {
+      "korean": "일본 혼슈 도쿄 메이지 진구 신사",
+      "english": "Shinto temple of Meiji-Jingu, Tokyo, Honshu, Japan"
+    },
+    {
+      "korean": "지반면진구조의 진동조절 특성",
+      "english": "Vibration Control Properties of Seixmic Isolation system"
+    }
+  ]
+}

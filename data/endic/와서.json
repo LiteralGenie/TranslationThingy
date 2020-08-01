@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) come, (나타나다) turn up, show up, (방문하다) visit",
+        "(학교·군대·회사 등에)",
+        "(소식·연락·편지 등이) come"
+      ]
+    },
+    {
+      "phrase": "오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb oda (↔가다2)"
+      ]
+    },
+    {
+      "phrase": "이제 와서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "now",
+        "after so long a time",
+        "when it is too late"
+      ]
+    },
+    {
+      "phrase": "막판에 와서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at the last moment"
+      ]
+    },
+    {
+      "phrase": "잠이 안와서 엎치락뒤치락하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "toss about on the bed unable to get to sleep"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "back",
+      "frequency": 3
+    },
+    {
+      "meaning": "되돌려주다",
+      "frequency": 0
+    },
+    {
+      "meaning": "show-and-tell",
+      "frequency": 0
+    },
+    {
+      "meaning": "potluck",
+      "frequency": 0
+    },
+    {
+      "meaning": "Come have your dinner.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너 왜 이제 와서 질척이는데?",
+      "english": "Why all of a sudden?"
+    },
+    {
+      "korean": "이제 와서 왜 이러는 건데?",
+      "english": "After all we've been through?"
+    },
+    {
+      "korean": "그래 놓고 이제 와서 다시 시작하자고?",
+      "english": "And now, you want to start over?"
+    },
+    {
+      "korean": "여러분 저 오랜만에 V LIVE 와서 겨드랑이 치는 거 보고 싶어요?",
+      "english": "It's been awhile doing V LIVE... You want to see me hit it?"
+    },
+    {
+      "korean": "난 빨리 그냥 학교 마치고 그냥 빨리 집으로 가야지하고 - 우리 집 와서 놀자~",
+      "english": "\"I want to go home after school!\" - \"Let's go my home and play together!\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 잠이 와서 굼뜨고 멍청해진 기분이었다.",
+      "english": "He felt dulled and stupid with sleep."
+    },
+    {
+      "korean": "그 계곡에는 개울물이 흘러들어와서 물을 채운다.",
+      "english": "The valley is watered by a stream."
+    },
+    {
+      "korean": "그 차가 자갈 위를 드르륵거리며 와서 섰다.",
+      "english": "The car drew up with a crunch of gravel."
+    },
+    {
+      "korean": "그녀가 그에게 와서 그들과 합류하라고 손짓을 보냈다.",
+      "english": "She beckoned him to come and join them."
+    },
+    {
+      "korean": "경찰차가 우리 옆으로 다가 와서는 정지하라고 신호를 보냈다.",
+      "english": "A police car drew abreast of us and signalled us to stop."
+    }
+  ]
+}

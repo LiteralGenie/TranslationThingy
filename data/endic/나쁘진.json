@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "나쁘다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(좋지 않다) bad, poor",
+        "(옳지 않다) wrong, bad",
+        "(해롭다) bad (for), harmful, (formal) injurious (to)"
+      ]
+    },
+    {
+      "phrase": "그렇게 나쁘진 않아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "충고와 격려 It's not as bad as all that.",
+        "충고와 격려 It's not all that bad."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "not bad",
+      "frequency": 0
+    },
+    {
+      "meaning": "The devil is not so black as he is painted.",
+      "frequency": 0
+    },
+    {
+      "meaning": "bad",
+      "frequency": 2
+    },
+    {
+      "meaning": "worst",
+      "frequency": 2
+    },
+    {
+      "meaning": "worse",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나쁘진 않지 않아요? It's not bad, is it? 듣기 View video TWICE : 사나 TV “사나의 향초공방” EP.02",
+      "english": "It's not bad, is it?"
+    },
+    {
+      "korean": "그래도 솔직히 나쁘진 않죠, 형 머리? Isn't it too bad, right? 듣기 View video NCT : 💚사부작즈SHOP💈💈",
+      "english": "Isn't it too bad, right?"
+    },
+    {
+      "korean": "나쁘진 않은데? - 나쁘지 않지? Not bad. - Not bad, isn't it? 듣기 View video ITZY : 륮떵신나♥️",
+      "english": "Not bad. - Not bad, isn't it?"
+    },
+    {
+      "korean": "나쁘진 않을 텐데? I don't think it's a bad deal, is it? 듣기 View video 콬TV (WHYNOT) : 반장을 술집에서 만났다?! [일진에게 찍혔을 때] EP02",
+      "english": "I don't think it's a bad deal, is it?"
+    },
+    {
+      "korean": "저 그래도 나쁘진 않진 않았나요? I thought it wasn't bad. 듣기 View video SF9 : 빈어스🍀",
+      "english": "I thought it wasn't bad."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Not bad,’ she conceded grudgingly. 발음듣기 “나쁘진 않네.” 그녀가 마지못해 수긍했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Not bad,’ she conceded grudgingly. 발음"
+    },
+    {
+      "korean": "The devil is not so black as he is painted. 발음듣기 어떤 악인도 그가 칠해진 만큼 검지는 않다.(소문만큼 나쁘진 않다.) (프랑스속담, 지혜속담) 명언/속담",
+      "english": "The devil is not so black as he is painted. 발음"
+    },
+    {
+      "korean": "Not bad, but not great. 발음듣기 나쁘진 않지만, 훌륭하지도 않아. DARAKWON",
+      "english": "Not bad, but not great. 발음"
+    },
+    {
+      "korean": "Woman: Oh, that's not too bad. 발음듣기 W: 오, 그렇게 나쁘진 않은데. Neungyule",
+      "english": "Woman: Oh, that's not too bad. 발음"
+    },
+    {
+      "korean": "Not all of them,' he said. 발음듣기 다 나쁘진 않았어요'라고 그는 말했다. Neungyule",
+      "english": "Not all of them,' he said. 발음"
+    }
+  ]
+}

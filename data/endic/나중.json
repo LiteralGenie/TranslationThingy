@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "나중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the last, the latter part, the end, the future, the consequences, the next"
+      ]
+    },
+    {
+      "phrase": "나중에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "after",
+        "afterward",
+        "later"
+      ]
+    },
+    {
+      "phrase": "맨 나중에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in conclusion",
+        "finally"
+      ]
+    },
+    {
+      "phrase": "맨 나중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the very last[end]"
+      ]
+    },
+    {
+      "phrase": "맨 나중의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "final",
+        "terminal"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "later",
+      "frequency": 3
+    },
+    {
+      "meaning": "afterwards",
+      "frequency": 3
+    },
+    {
+      "meaning": "간수 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "afterward",
+      "frequency": 3
+    },
+    {
+      "meaning": "afterthought",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나중에 해보지 않을까요? Won't I try it later on? 듣기 View video ITZY : 🖤",
+      "english": "Won't I try it later on?"
+    },
+    {
+      "korean": "나중에 이제 풀다 보면 엑스... After a while, the X... 듣기 View video TOMORROW X TOGETHER : 즐거운 휴닝로직🤗",
+      "english": "After a while, the X..."
+    },
+    {
+      "korean": "그래서 이걸 나중에 보는 건가? So are we checking these out later? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "So are we checking these out later?"
+    },
+    {
+      "korean": "가사가... 여러분 나중에 이것도 좀... Later, I'm going to sing it better. 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Later, I'm going to sing it better."
+    },
+    {
+      "korean": "나중에 내가 바 하나 차려줄까? Do you want me to open a bar for you later? 듣기 View video 플레이리스트 (Playlist) : 남자 때문에 인간관계 X됨 [엑스엑스(XX)] - 하이라이트",
+      "english": "Do you want me to open a bar for you later?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A returnable deposit is payable on arrival. 듣기 Add to Wordbook 나중에 환불되는 예치금은 도착해서 납부하면 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A returnable deposit is payable on arrival. Add to Wordbook"
+    },
+    {
+      "korean": "This story, it later transpired, was untrue. 듣기 Add to Wordbook 나중에 알고 보니 이 이야기는 사실이 아니었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This story, it later transpired, was untrue. Add to Wordbook"
+    },
+    {
+      "korean": "Their protests were later taken up by other groups. 듣기 Add to Wordbook 그들의 시위에 나중에 다른 단체들이 가담했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their protests were later taken up by other groups. Add to Wordbook"
+    },
+    {
+      "korean": "According to the forecast, it should brighten up later. 듣기 Add to Wordbook 일기예보에 의하면, 나중에는 날씨가 갤 모양이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "According to the forecast, it should brighten up later. Add to Wordbook"
+    },
+    {
+      "korean": "They only invited Jack and Sarah as an afterthought. 듣기 Add to Wordbook 그들은 나중에 생각이 나서 잭과 사라를 초대했을 뿐이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They only invited Jack and Sarah as an afterthought. Add to Wordbook"
+    }
+  ]
+}

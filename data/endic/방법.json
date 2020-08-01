@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "방법",
+      "hanja": " (方法)",
+      "example": {},
+      "meanings": [
+        "way, means, manner, (이미 정해진) method"
+      ]
+    },
+    {
+      "phrase": "강의 방법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the manner of lecturing"
+      ]
+    },
+    {
+      "phrase": "옳은 방법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a proper way",
+        "a correct method"
+      ]
+    },
+    {
+      "phrase": "딴 방법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "another[different] method(s)"
+      ]
+    },
+    {
+      "phrase": "방법을 찾다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "find[figure out, come up with] a way"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "way",
+      "frequency": 3
+    },
+    {
+      "meaning": "device",
+      "frequency": 3
+    },
+    {
+      "meaning": "method",
+      "frequency": 3
+    },
+    {
+      "meaning": "channel",
+      "frequency": 3
+    },
+    {
+      "meaning": "procedure",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 방법이 맞는 거겠죠? This is the right way, isn't it? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "This is the right way, isn't it?"
+    },
+    {
+      "korean": "폴라로이드 잘 찍는 방법이 있어요? Is there a way to take polaroids well? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "Is there a way to take polaroids well?"
+    },
+    {
+      "korean": "[부기 빼는 방법 알려줘] 부기 빼는 방법이요? [Tell me how to reduce swelling] A way to reduce swelling? 듣기 View video V PICK! : [MONSTA X] 겨드랑이가 있는데 왜 치지를 못하니.. 채씨의 <겨드랑이 치기 좋은 날>🐢 (Hyungwon's how to remove swelling out)",
+      "english": "[Tell me how to reduce swelling] A way to reduce swelling?"
+    },
+    {
+      "korean": "안 끊긴다, 신기해 - 알려줘 방법? - 응? It's not damaged. Amazing. - You want to know how? - What? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "It's not damaged. Amazing. - You want to know how? - What?"
+    },
+    {
+      "korean": "\"요새 러닝머신만 30분씩 뛰는데 더 좋은 운동 방법 없을까요?\" \"I run on a treadmill for 30 minutes. Is there any better way to work out?\" 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "\"I run on a treadmill for 30 minutes. Is there any better way to work out?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He cheated his way into the job. 듣기 Add to Wordbook 그는 부정한 방법으로 직장에 들어갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He cheated his way into the job. Add to Wordbook"
+    },
+    {
+      "korean": "We have no quarrel with his methods. 듣기 Add to Wordbook 우리는 그의 방법에 대해 불만 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have no quarrel with his methods. Add to Wordbook"
+    },
+    {
+      "korean": "a method of jolting the economy out of recession 듣기 Add to Wordbook 경제에 충격을 가해 불경기를 벗어나게 할 방법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a method of jolting the economy out of recession Add to Wordbook"
+    },
+    {
+      "korean": "recent changes in the methodology of language teaching 듣기 Add to Wordbook 언어 교수 방법론상의 최근 변화들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "recent changes in the methodology of language teaching Add to Wordbook"
+    },
+    {
+      "korean": "Their objectives and methods require further elucidation. 듣기 Add to Wordbook 그들의 목적과 방법은 더 많은 설명이 필요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their objectives and methods require further elucidation. Add to Wordbook"
+    }
+  ]
+}

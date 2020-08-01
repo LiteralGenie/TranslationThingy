@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "소프트웨어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(컴퓨터) software"
+      ]
+    },
+    {
+      "phrase": "software",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 소프트웨어 (→hardware)"
+      ]
+    },
+    {
+      "phrase": "soft ware",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 전산학 소프트 웨어"
+      ]
+    },
+    {
+      "phrase": "확대되는 소프트웨어 시장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the expanding market for software"
+      ]
+    },
+    {
+      "phrase": "새로운 소프트웨어를 깔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "load[install] new software"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "software",
+      "frequency": 3
+    },
+    {
+      "meaning": "SW",
+      "frequency": 0
+    },
+    {
+      "meaning": "soft ware",
+      "frequency": 0
+    },
+    {
+      "meaning": "driver",
+      "frequency": 3
+    },
+    {
+      "meaning": "platform",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 모든 전자제품과 모든 소프트웨어를... 소프트웨어는 중국에서 만들지 않는군요. Every electronic and every software... Ah, China doesn't make software. 듣기 View video KIM DONG WAN : 2018 신화 활동 마무리",
+      "english": "Every electronic and every software... Ah, China doesn't make software."
+    },
+    {
+      "korean": "소프트웨어 업그레이드가 떠있네요. It says, you have to upgrade software. 듣기 View video Show! Music core : 쇼! 음악중심 '5분 딜레이~' Show! Music core",
+      "english": "It says, you have to upgrade software."
+    },
+    {
+      "korean": "V LIVE를 켜는데 핸드폰이 자동으로 소프트웨어 업데이트가 됐어요. When I turned on V LIVE, my mobile phone was automatically updated. 듣기 View video Girl's Day : [걸스데이] 토요일 유라는..?",
+      "english": "When I turned on V LIVE, my mobile phone was automatically updated."
+    },
+    {
+      "korean": "죄송해요. 제가 원래 방송으로 쓰던 핸드폰 소프트웨어가 오류가 있었어요. I'm very sorry. Actually, the cellphone I used to use for broadcasting had an error. 듣기 View video V Beauty : 민가든 여행시 유용해! 여름 뷰티 파우치템 Summer travel pouch!",
+      "english": "I'm very sorry. Actually, the cellphone I used to use for broadcasting had an error."
+    },
+    {
+      "korean": "자동통역하기에 너무... For a translation software, this is too... 듣기 View video HIGHLIGHT : ♡ HAPPY DUJUN DAY ♡",
+      "english": "For a translation software, this is too..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The security software he uses is home brew. 듣기 Add to Wordbook 그가 사용하는 보안 소프트웨어는 자가 제작물이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The security software he uses is home brew. Add to Wordbook"
+    },
+    {
+      "korean": "The new software is being pitched at banks. 듣기 Add to Wordbook 그 새 소프트웨어는 은행들을 대상 고객으로 잡고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new software is being pitched at banks. Add to Wordbook"
+    },
+    {
+      "korean": "You can customize the software in several ways. 듣기 Add to Wordbook 그 소프트웨어는 여러 가지 방식으로 원하는 대로 바꿀 수가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can customize the software in several ways. Add to Wordbook"
+    },
+    {
+      "korean": "a sexy new range of software 듣기 Add to Wordbook 흥미로운 일련의 새 소프트웨어 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a sexy new range of software Add to Wordbook"
+    },
+    {
+      "korean": "a suite of software development tools 듣기 Add to Wordbook 소프트웨어 개발 도구 묶음 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a suite of software development tools Add to Wordbook"
+    }
+  ]
+}

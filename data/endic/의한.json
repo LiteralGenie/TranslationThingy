@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "의하다",
+      "hanja": " (依―)",
+      "example": {},
+      "meanings": [
+        "be due to, be owing to, depend on, be dependent on, be based on, be founded on, appeal to, use, have recourse to"
+      ]
+    },
+    {
+      "phrase": "돌연변이에 의한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mutant"
+      ]
+    },
+    {
+      "phrase": "칼에 의한 상처",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a knife wound"
+      ]
+    },
+    {
+      "phrase": "누전에 의한 화재",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a fire caused by a short circult"
+      ]
+    },
+    {
+      "phrase": "법률에 의한 책임",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "responsibility under the law"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hate crime",
+      "frequency": 0
+    },
+    {
+      "meaning": "공격",
+      "frequency": 0
+    },
+    {
+      "meaning": "electronic",
+      "frequency": 3
+    },
+    {
+      "meaning": "forcible",
+      "frequency": 3
+    },
+    {
+      "meaning": "due",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "치정 관계에 의한 살인극이라.. 난 좋은데? But I like a murder scene that happened out of blind love. 듣기 View video 렛스튜디오 (LETstudio) : [목숨값] Ep09 나 때문에 싸우는 두 남자",
+      "english": "But I like a murder scene that happened out of blind love."
+    },
+    {
+      "korean": "[컨디션에 의한 컨디션을 위한 곡] - 컨디션! - 컨디션! [Song for condition, by condition] - Condition! - Condition! 듣기 View video Big Picture (빅픽처) : 빅픽처3 EP43_눈이 번쩍 떠지는 美친(?) 무대",
+      "english": "[Song for condition, by condition] - Condition! - Condition!"
+    },
+    {
+      "korean": "[사무엘을 위한!] [사무엘에 의한!] [For Samuel!] [By Samuel!] View video 포토피플(PHOTO PEOPLE) : Ep.01 무엘이의 포토피플 적응기",
+      "english": "[For Samuel!] [By Samuel!]"
+    },
+    {
+      "korean": "[위키미키의 위키미키에 의한] 우리끼리 첫 해외여행입니다. [For Weki Meki only] It's our first overseas trip together. 듣기 View video 모해 MOHAE : [WekiMeki 위키미키 모해?] EP39",
+      "english": "[For Weki Meki only] It's our first overseas trip together."
+    },
+    {
+      "korean": "[판다를 위한 판다에 의한 판다의 Apink의 PUT YOUR HANDS UP] 잠깐만, 누가 발로 밟았어? [Apink's \"PUT YOUR HANDS UP\" for Pandas] Hold on. Who stepped on me? 듣기 View video Apink : Apink의 'Put Your Hands Up' DVD Teaser",
+      "english": "[Apink's \"PUT YOUR HANDS UP\" for Pandas] Hold on. Who stepped on me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the erosion of the coastline by the sea 듣기 Add to Wordbook 바닷물에 의한 해안선 침식 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the erosion of the coastline by the sea Add to Wordbook"
+    },
+    {
+      "korean": "the desecration of the countryside by new roads 듣기 Add to Wordbook 신설 도로들에 의한 시골 풍광 훼손 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the desecration of the countryside by new roads Add to Wordbook"
+    },
+    {
+      "korean": "the fertilization of soil with artificial chemicals 듣기 Add to Wordbook 인공 비료에 의한 토양의 비옥화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the fertilization of soil with artificial chemicals Add to Wordbook"
+    },
+    {
+      "korean": "the pollution of drinking water by untreated human excrement 듣기 Add to Wordbook 처리되지 않은 인간의 배설물에 의한 식수 오염 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the pollution of drinking water by untreated human excrement Add to Wordbook"
+    },
+    {
+      "korean": "artificial insemination by a donor, abbreviated to ‘AID’ 듣기 Add to Wordbook 약어로는 ‘AID’라고 하는, 기증자에 의한 인공 수정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "artificial insemination by a donor, abbreviated to ‘AID’ Add to Wordbook"
+    }
+  ]
+}

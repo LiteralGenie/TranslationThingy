@@ -1,0 +1,92 @@
+{
+  "phrases": [
+    {
+      "phrase": "말로",
+      "hanja": " (末路)",
+      "example": {},
+      "meanings": [
+        "one's last days, end"
+      ]
+    },
+    {
+      "phrase": "Marlowe",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 말로 Christopher ~ (1564-93) ((영국의 극작가·시인))"
+      ]
+    },
+    {
+      "phrase": "속된 말로 하자면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to use a common word[phrase]",
+        "as is commonly said"
+      ]
+    },
+    {
+      "phrase": "말로 다할 수 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be inexpressive",
+        "be indescribable",
+        "be unspeakable"
+      ]
+    },
+    {
+      "phrase": "정중한 말로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in courteous words[terms]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "verbally",
+      "frequency": 0
+    },
+    {
+      "meaning": "through[by] word of mouth",
+      "frequency": 0
+    },
+    {
+      "meaning": "on a horse",
+      "frequency": 0
+    },
+    {
+      "meaning": "Marlow",
+      "frequency": 0
+    },
+    {
+      "meaning": "Malot, Hector",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "내가 그걸 말로 해야 하나?",
+      "english": "Do I even need to say it?"
+    },
+    {
+      "korean": "그건 말로 표현하기 힘들다.",
+      "english": "It's difficult to put into words."
+    },
+    {
+      "korean": "말로 널 속이려는 거야.",
+      "english": "They use their tongues to deceive you."
+    },
+    {
+      "korean": "쉬운 말로된 노래는 없다.",
+      "english": "In plain language, there are no songs."
+    },
+    {
+      "korean": "아마 넌 그를 말로 죽일 수 있어",
+      "english": "Maybe you can talk him to death."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "알아 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do at one´s discretion",
+        "do as one thinks fit",
+        "act for oneself"
+      ]
+    },
+    {
+      "phrase": "가사 알아요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Do you know the lyrics?"
+      ]
+    },
+    {
+      "phrase": "내 한계를 알아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I know my limit."
+      ]
+    },
+    {
+      "phrase": "너 바쁜거 알아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I realize you're busy."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "지껄이다",
+      "frequency": 0
+    },
+    {
+      "meaning": "clear",
+      "frequency": 3
+    },
+    {
+      "meaning": "unrecognizable",
+      "frequency": 0
+    },
+    {
+      "meaning": "you know something/what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "keep abreast of something",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저도 알아요 알고 있었어요 허여튼~ - 허여튼이요? I know. I knew that. Anyhoo... - Anyhoo? 듣기 View video SF9 : ,",
+      "english": "I know. I knew that. Anyhoo... - Anyhoo?"
+    },
+    {
+      "korean": "얘 드림캐처 알아! He knows it! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "He knows it!"
+    },
+    {
+      "korean": "언니 알아요? Do you know that? 듣기 View video TWICE : 아레나 투어 마지막 공연🎶👀",
+      "english": "Do you know that?"
+    },
+    {
+      "korean": "이거 알아요? 이거? Do you know this? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Do you know this?"
+    },
+    {
+      "korean": "이거 뭔 줄 알아요? Do you know what it is? 듣기 View video TWICE : 트와이스 복자매 나모의 “도전! ASMR” EP.01",
+      "english": "Do you know what it is?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Do you know where it is or not? 듣기 Add to Wordbook 어디에 있는지 알아요 몰라요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 유루밍(girr****)",
+      "english": "Do you know where it is or not? Add to Wordbook"
+    },
+    {
+      "korean": "How do you know you're not? 듣기 Add to Wordbook 당신이 아니란 걸 어떻게 알아요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 anna(dlsg****)",
+      "english": "How do you know you're not? Add to Wordbook"
+    },
+    {
+      "korean": "Do you know how to play that? 듣기 Add to Wordbook 당신 그거 연주할 줄 알아요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 주유천하(biog****)",
+      "english": "Do you know how to play that? Add to Wordbook"
+    },
+    {
+      "korean": "Matter of fact, I know there is. 듣기 Add to Wordbook 사실 전 있다는걸 알아요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 하루(smil****)",
+      "english": "Matter of fact, I know there is. Add to Wordbook"
+    },
+    {
+      "korean": "I know, I'll go to casualty. 듣기 Add to Wordbook 저도 알아요, 응급실로 가겠어요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 11alsdud(11al****)",
+      "english": "I know, I'll go to casualty. Add to Wordbook"
+    }
+  ]
+}

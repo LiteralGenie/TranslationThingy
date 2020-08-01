@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "일회용",
+      "hanja": " (一回用)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "일회용의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "throwaway",
+        "disposable"
+      ]
+    },
+    {
+      "phrase": "일회용 주사기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a disposable syringe"
+      ]
+    },
+    {
+      "phrase": "일회용 기저귀",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disposable diapers[nappies]"
+      ]
+    },
+    {
+      "phrase": "일회용 라이터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a disposable lighter"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "disposableness",
+      "frequency": 0
+    },
+    {
+      "meaning": "disposable diapers",
+      "frequency": 0
+    },
+    {
+      "meaning": "disposable",
+      "frequency": 0
+    },
+    {
+      "meaning": "disposable nappies",
+      "frequency": 0
+    },
+    {
+      "meaning": "plaster",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "냄비 일회용이야 우리? Is this a disposable pot? 듣기 View video Dispatch : [ⓓxV] “셉라면➀” (세븐틴 : SEVENTEEN)",
+      "english": "Is this a disposable pot?"
+    },
+    {
+      "korean": "새로 사야 해요 - 그래도 욕조가 있어야 하는 거네? - 일회용을... Buy a new one. - You have to have a tub. - One-time... 듣기 View video Dispatch : [ⓓxV] “오마이걸의 다이어트 꿀팁” (오마이걸 : OH MY GIRL)",
+      "english": "Buy a new one. - You have to have a tub. - One-time..."
+    },
+    {
+      "korean": "이거 일회용 카메라에요. This is a disposable camera. 듣기 View video V Special : <진리상점> 랜선 개업식 in 설리 대표님방 LIVE",
+      "english": "This is a disposable camera."
+    },
+    {
+      "korean": "일회용 숟가락 준비했습니다. So I prepared a disposable spoon. 듣기 View video V PICK! : [V PICK! HOW TO in V] 송윤형의 슬라임👾 (HOW TO MAKE SONG’s Slime)",
+      "english": "So I prepared a disposable spoon."
+    },
+    {
+      "korean": "일회용? 일일 렌즈 끼는 게 훨씬 좋아요. one time? It's better to use one day lens. 듣기 View video V Beauty : 개강맞이 여신 메이크업 / Become a goddess at begin school",
+      "english": "one time? It's better to use one day lens."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The use of disposable products is considered ecologically unsound. 듣기 Add to Wordbook 일회용 상품 사용은 생태학적으로 부적절한 것으로 여겨진다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The use of disposable products is considered ecologically unsound. Add to Wordbook"
+    },
+    {
+      "korean": "disposable gloves / razors 듣기 Add to Wordbook 일회용 장갑/면도기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "disposable gloves / razors Add to Wordbook"
+    },
+    {
+      "korean": "How many disposable coffee cups are being consumed in Korea each year? 듣기 Add to Wordbook 한국에서 연간 일회용 종이컵이 얼마나 팔릴까요? DARAKWON",
+      "english": "How many disposable coffee cups are being consumed in Korea each year? Add to Wordbook"
+    },
+    {
+      "korean": "It would be difficult to estimate the number of disposable coffee cups consumed in Korea in a year without solid facts. 듣기 Add to Wordbook 정확한 정보 없이 한국에서 매년 소비되는 일회용 종이컵 수를 알기는 쉽지 않습니다. DARAKWON",
+      "english": "It would be difficult to estimate the number of disposable coffee cups consumed in Korea in a year without solid facts. Add to Wordbook"
+    },
+    {
+      "korean": "The Korean-style disposable cupping device was officially titled 'air extraction cupping device'. 듣기 Add to Wordbook 한국식 일회용 부항기는 '공기 배출형 부항기'로 명명되었다. 국제영어대학원대학교 신어사전",
+      "english": "The Korean-style disposable cupping device was officially titled 'air extraction cupping device'. Add to Wordbook"
+    }
+  ]
+}

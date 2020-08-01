@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "사각",
+      "hanja": " (四角)",
+      "example": {},
+      "meanings": [
+        "(네모)"
+      ]
+    },
+    {
+      "phrase": "사각",
+      "hanja": " (死角)",
+      "example": {},
+      "meanings": [
+        "(눈에 보이지 않는 범위) blind spot",
+        "(관심·영향 등이 미치지 못하는 범위)"
+      ]
+    },
+    {
+      "phrase": "사각",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb A word imitating the sound made when rice, barley, wheat, etc., is cut.",
+        "Adverb A word imitating the sound made when it snows or one steps on snow.",
+        "Adverb with a munching sound"
+      ]
+    },
+    {
+      "phrase": "사각의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "정사각형의 square"
+      ]
+    },
+    {
+      "phrase": "무를 사각사각 씹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "munch a radish"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "oblique",
+      "frequency": 1
+    },
+    {
+      "meaning": "angle of view",
+      "frequency": 0
+    },
+    {
+      "meaning": "oblique angle",
+      "frequency": 0
+    },
+    {
+      "meaning": "dead angle",
+      "frequency": 0
+    },
+    {
+      "meaning": "dead space",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마지막에 찍는데 - 사각형 이거? We shot it last. - You mean the square one? 듣기 View video Stray Kids : 스키즈 옥상토크♡",
+      "english": "We shot it last. - You mean the square one?"
+    },
+    {
+      "korean": "[사각지대] 제로, 제로, 다섯! [Hard to see it from here] Zero, zero, 5! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.11",
+      "english": "[Hard to see it from here] Zero, zero, 5!"
+    },
+    {
+      "korean": "[사각지대 이런 곳] 와 진짜 어디다가 놨어요? [Like a hidden corner] Seriously, where is it? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "[Like a hidden corner] Seriously, where is it?"
+    },
+    {
+      "korean": "이게 평행사변형 아니고 - 사각형 아니야 그냥? It's not a parallelogram. - Isn't it just a square? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.10 S.B.S #1 (SEVENTEEN BRAIN SURVIVAL #1)",
+      "english": "It's not a parallelogram. - Isn't it just a square?"
+    },
+    {
+      "korean": "[자꾸 카메라 피해서 요리조리 숨는 황까미 씨] 사각지대에 딱 가버리냐? [Hwang Ggami is avoiding the camera] How do you know all the blind spots? 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "[Hwang Ggami is avoiding the camera] How do you know all the blind spots?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a pair of boxer shorts 발음듣기 사각 팬티 한 벌 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a pair of boxer shorts 발음"
+    },
+    {
+      "korean": "He has a strong square jaw. 발음듣기 그는 강인해 보이는 사각형 턱을 하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has a strong square jaw. 발음"
+    },
+    {
+      "korean": "He bent the wire into the shape of a square. 발음듣기 그가 전선을 구부려 사각형을 만들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He bent the wire into the shape of a square. 발음"
+    },
+    {
+      "korean": "The farm buildings form three sides of a square. 발음듣기 그 농장 건물들은 사각형의 세 변을 이루고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The farm buildings form three sides of a square. 발음"
+    },
+    {
+      "korean": "The boat is rounded at the front but squared off at the back. 발음듣기 그 보트는 앞쪽은 둥글지만 뒤쪽은 사각형이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The boat is rounded at the front but squared off at the back. 발음"
+    }
+  ]
+}

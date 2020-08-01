@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "시체",
+      "hanja": " (屍體)",
+      "example": {},
+      "meanings": [
+        "(dead) body, corpse; (연구용의) cadaver; (동물의) carcass"
+      ]
+    },
+    {
+      "phrase": "시체 해부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "autopsy",
+        "a postmortem"
+      ]
+    },
+    {
+      "phrase": "시체를 화장하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cremate a dead body"
+      ]
+    },
+    {
+      "phrase": "시체를 파묻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bury a dead body (in the ground)"
+      ]
+    },
+    {
+      "phrase": "부란한 시체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a decomposed[putrefied] body"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stiff",
+      "frequency": 2
+    },
+    {
+      "meaning": "body",
+      "frequency": 2
+    },
+    {
+      "meaning": "corpse",
+      "frequency": 1
+    },
+    {
+      "meaning": "carcass",
+      "frequency": 1
+    },
+    {
+      "meaning": "cadaver",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[#비주얼_빼면_시체=편치&문별] 우리 비주얼 빼면 시체지~ Without visuals, we're a dead body. 듣기 View video MAMAMOO : [Special] MOONBYUL's Weird Day Vlog #1",
+      "english": "Without visuals, we're a dead body."
+    },
+    {
+      "korean": "[나 예삐시야 예삐빼면 시체야] - 애빼시 - 애빼시가 뭐야? [I'm nothing without Eh-bbeh-si] - Eh-bbeh-si. - What's that? 듣기 View video V PICK! : [AB6IX] 📖2019 휘웅휘웅 신조어 사전📖 에빼시: 에삐 빼면 시체(ღˇ◡ˇ*)♡ (Woong&DaeHwi talking about neologism)",
+      "english": "[I'm nothing without Eh-bbeh-si] - Eh-bbeh-si. - What's that?"
+    },
+    {
+      "korean": "[하버드 설립 이래 최고 목표가 웅둥이 스카웃이라네요] 애교 빼면 시체! [Apparently, Havard's biggest goal is to get Woong in their school] Nothing without being cute! 듣기 View video V PICK! : [AB6IX] 📖2019 휘웅휘웅 신조어 사전📖 에빼시: 에삐 빼면 시체(ღˇ◡ˇ*)♡ (Woong&DaeHwi talking about neologism)",
+      "english": "[Apparently, Havard's biggest goal is to get Woong in their school] Nothing without being cute!"
+    },
+    {
+      "korean": "애정 빼면 시체? Nothing without love? 듣기 View video BTS : Run BTS! 2019 - EP.61",
+      "english": "Nothing without love?"
+    },
+    {
+      "korean": "안경 빼면 시체. A body if you take off the glasses. 듣기 View video Stray Kids : 보고싶었~스테이😘",
+      "english": "A body if you take off the glasses."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Detectives found no marks on the body. 발음듣기 형사들은 그 시체에서 아무런 흔적도 찾지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Detectives found no marks on the body. 발음"
+    },
+    {
+      "korean": "His decapitated body was found floating in a canal. 발음듣기 목이 잘린 그의 시체가 운하에 떠오른 것이 발견되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His decapitated body was found floating in a canal. 발음"
+    },
+    {
+      "korean": "The body was discovered when builders excavated the area. 발음듣기 건축업자들이 그 지역을 팠을 때 그 시체가 발견되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The body was discovered when builders excavated the area. 발음"
+    },
+    {
+      "korean": "Analysis showed that traces of arsenic were present in the body. 발음듣기 분석을 통해 그 시체 속에서 비소의 흔적이 있음이 드러났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Analysis showed that traces of arsenic were present in the body. 발음"
+    },
+    {
+      "korean": "‘Good place to bury the bodies,’ she joked with black humour. 발음듣기 “시체 묻기에 좋은 장소군.” 그녀가 블랙 유머로 농담을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Good place to bury the bodies,’ she joked with black humour. 발음"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "재편",
+      "hanja": " (再編)",
+      "example": {},
+      "meanings": [
+        "[명사] reorganization; (특히 정부 조직의) reshuffle, [동사] reorganize, reshuffle; (병력 등을) regroup"
+      ]
+    },
+    {
+      "phrase": "재편(성)",
+      "hanja": " (再編(成))",
+      "example": {},
+      "meanings": [
+        "reorganization, a reshuffle, rearrangement.",
+        "재편(성)하다 reorganize, reshuffle, revamp."
+      ]
+    },
+    {
+      "phrase": "재편하다",
+      "hanja": " (再編하다)",
+      "example": {},
+      "meanings": [
+        "Verb reorganize, reshuffle"
+      ]
+    },
+    {
+      "phrase": "재편되다",
+      "hanja": " (再編되다)",
+      "example": {},
+      "meanings": [
+        "Verb be reorganized"
+      ]
+    },
+    {
+      "phrase": "사업 재편",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "business reshuffle"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shakeout",
+      "frequency": 0
+    },
+    {
+      "meaning": "recapitalize",
+      "frequency": 0
+    },
+    {
+      "meaning": "re-engineer",
+      "frequency": 0
+    },
+    {
+      "meaning": "Chechen-Ingush Autonomous Soviet Socialist Republic",
+      "frequency": 0
+    },
+    {
+      "meaning": "a soldier re-enlisted in the Army",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "요즘 권력재편 시기 같아요. I think it's a power struggle. 듣기 View video V Animal Family : [해피빈펀딩] 배다해와 알아보는 길고양이와 함께 살아가는 법 #BaeDaHae #HappyBean #Cat",
+      "english": "I think it's a power struggle."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The system is reorganized bimodally. 발음듣기 이 시스템은 이원화되게 재편되었다. 국제영어대학원대학교 신어사전",
+      "english": "The system is reorganized bimodally. 발음"
+    },
+    {
+      "korean": "He reorganized the outfit into a stronger competitor. 발음듣기 그는 회사를 강력한 경쟁 체제로 재편했다. YBM All in All English-Korean Dictionary",
+      "english": "He reorganized the outfit into a stronger competitor. 발음"
+    },
+    {
+      "korean": "The US is working to reshuffle the American troops stationed abroad. 발음듣기 미국은 해외 주둔 미군의 재편을 추진하고 있다 Neungyule",
+      "english": "The US is working to reshuffle the American troops stationed abroad. 발음"
+    },
+    {
+      "korean": "In this global age, we need to bring the industrial structure up to date by making necessary changes. 발음듣기 세계화 시대에 맞추어 산업 구조의 재편이 필요하다 Neungyule",
+      "english": "In this global age, we need to bring the industrial structure up to date by making necessary changes. 발음"
+    },
+    {
+      "korean": "With the launch of the new government, the reorganization of the administrative system[structure] is now under discussion. 발음듣기 새 정부 출범에 따라 행정조직의 재편이 논의되고 있다 Neungyule",
+      "english": "With the launch of the new government, the reorganization of the administrative system[structure] is now under discussion. 발음"
+    }
+  ]
+}

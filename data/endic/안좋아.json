@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "오늘 일진이 안 좋아요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "This is not my day."
+      ]
+    },
+    {
+      "phrase": "오늘 정말 기분이 안 좋아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I feel terrible today."
+      ]
+    },
+    {
+      "phrase": "나도 사정이 안 좋아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Times are tight."
+      ]
+    },
+    {
+      "phrase": "난 시력이 별로 안좋아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "My vision is not good."
+      ]
+    },
+    {
+      "phrase": "사업 경기가 안 좋아요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "My business is dull."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bad",
+      "frequency": 3
+    },
+    {
+      "meaning": "rotten",
+      "frequency": 3
+    },
+    {
+      "meaning": "off colour",
+      "frequency": 0
+    },
+    {
+      "meaning": "I'm feeling pretty grotty.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Jane looked dreadful.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "화면이 안 좋아요? My screen is not good? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "My screen is not good?"
+    },
+    {
+      "korean": "조금 안 좋아 질때 쯤? does not get better? 듣기 View video VICTON : 앨리스 안녕! 보고싶다 ❤️",
+      "english": "does not get better?"
+    },
+    {
+      "korean": "하나도 안 좋아 - 맛있어요? It's not good. - Is it good? 듣기 View video TOMORROW X TOGETHER : 태현 탄신일❣",
+      "english": "It's not good. - Is it good?"
+    },
+    {
+      "korean": "무슨 빵? - 안 좋아? What kind of bread? - Do you not like it? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "What kind of bread? - Do you not like it?"
+    },
+    {
+      "korean": "기분이 왜 안 좋아요? Why do you feel bad? 듣기 View video DAY6 : 토요일밤 필레이리스트☆",
+      "english": "Why do you feel bad?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’ve got a bad back. 듣기 Add to Wordbook 나는 허리가 안 좋아요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ve got a bad back. Add to Wordbook"
+    },
+    {
+      "korean": "I’m feeling pretty grotty. 듣기 Add to Wordbook 나 몸이 좀 안 좋아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m feeling pretty grotty. Add to Wordbook"
+    },
+    {
+      "korean": "That’s no good—just chuck it. 듣기 Add to Wordbook 그거 안 좋아. 그냥 버려. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That’s no good—just chuck it. Add to Wordbook"
+    },
+    {
+      "korean": "You look rough—are you OK? 듣기 Add to Wordbook 너 안 좋아 보이는데, 괜찮은 거야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You look rough—are you OK? Add to Wordbook"
+    },
+    {
+      "korean": "You look wretched—what’s wrong? 듣기 Add to Wordbook 너 기분이 안 좋아 보이는구나. 무슨 일이 있니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You look wretched—what’s wrong? Add to Wordbook"
+    }
+  ]
+}

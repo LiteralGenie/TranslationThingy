@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "빈",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Vienna [→Wien((독))]"
+      ]
+    },
+    {
+      "phrase": "bin",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 英 쓰레기통 (→dustbin, waste bin)",
+        "Noun (흔히 뚜껑이 달린 저장용) 통",
+        "Verb 英, 비격식 버리다"
+      ]
+    },
+    {
+      "phrase": "be",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 있다, 존재하다",
+        "Verb (어디에) 있다[위치하다]",
+        "Modal verb <과거분사와 함께 수동태를 형성함>"
+      ]
+    },
+    {
+      "phrase": "bean",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 콩",
+        "Noun …콩[열매] (→jelly bean)",
+        "Verb 美, 비격식 머리를 때리다"
+      ]
+    },
+    {
+      "phrase": "been",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb [have[has]+been] 지금까지 줄곧 …이다 ((계속))",
+        "Verb [had+been] 그때까지 …이었다 ((과거의 어느 시점까지의 계속))",
+        "Verb [have[has]+been+-ing]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "blank",
+      "frequency": 3
+    },
+    {
+      "meaning": "hollow",
+      "frequency": 3
+    },
+    {
+      "meaning": "empty",
+      "frequency": 3
+    },
+    {
+      "meaning": "low 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "Vienna",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다음 다음 빈이! - 빈이 - 빈이! Next! Next! Bin! - Bin! - Bin! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Next! Next! Bin! - Bin! - Bin!"
+    },
+    {
+      "korean": "할머니 가디건 - 빈이는요? Grandma cardigan. - Bin? 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Grandma cardigan. - Bin?"
+    },
+    {
+      "korean": "바보! - 빈이 처음으로 옷 잘 입은 것 같아 처음으로! Stupid! - I think Bin dressed nicely for the first time. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Stupid! - I think Bin dressed nicely for the first time."
+    },
+    {
+      "korean": "빈이 형 꼈어요? Oh, not me. BIN? 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "Oh, not me. BIN?"
+    },
+    {
+      "korean": "빈이 형 사진 찍어줄까요? May I take a picture of BIN? 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "May I take a picture of BIN?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a painting that captures the quintessence of Viennese elegance 듣기 Add to Wordbook 빈의 우아함의 정수를 포착한 그림 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a painting that captures the quintessence of Viennese elegance Add to Wordbook"
+    },
+    {
+      "korean": "Her footsteps echoed in the empty room. 듣기 Add to Wordbook 텅 빈 방 안에서 그녀의 발자국 소리가 울렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her footsteps echoed in the empty room. Add to Wordbook"
+    },
+    {
+      "korean": "He stared out at the vast emptiness that was the sea. 듣기 Add to Wordbook 그는 바다가 있는 방대한 빈 공간을 응시했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He stared out at the vast emptiness that was the sea. Add to Wordbook"
+    },
+    {
+      "korean": "The showroom had been emptied and swept clean. 듣기 Add to Wordbook 상품 전시실은 텅 빈 채 깨끗이 청소되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The showroom had been emptied and swept clean. Add to Wordbook"
+    },
+    {
+      "korean": "I’m sorry, we have no vacancies. 듣기 Add to Wordbook 죄송하지만 빈 객실이 없어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m sorry, we have no vacancies. Add to Wordbook"
+    }
+  ]
+}

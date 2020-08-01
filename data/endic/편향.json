@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "편향",
+      "hanja": " (偏向)",
+      "example": {},
+      "meanings": [
+        "[명사] bias, [동사] be biased, be prejudiced, be lopsided"
+      ]
+    },
+    {
+      "phrase": "편향된",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "biased",
+        "prejudiced"
+      ]
+    },
+    {
+      "phrase": "우익 편향",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "right-wing deviationism"
+      ]
+    },
+    {
+      "phrase": "편향된 시각으로 바라보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "look at sth from a biased point of view"
+      ]
+    },
+    {
+      "phrase": "편향 코일",
+      "hanja": " (偏向―)",
+      "example": {},
+      "meanings": [
+        "(브라운관의) a deflecting coil"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bias",
+      "frequency": 3
+    },
+    {
+      "meaning": "deviationism",
+      "frequency": 0
+    },
+    {
+      "meaning": "diversionism",
+      "frequency": 0
+    },
+    {
+      "meaning": "human equation",
+      "frequency": 0
+    },
+    {
+      "meaning": "deflecting",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The findings of the report had been slanted in favour of the manufacturers. 듣기 Add to Wordbook 그 보고서의 결과는 제조 회사들에게 유리하게 편향된 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The findings of the report had been slanted in favour of the manufacturers. Add to Wordbook"
+    },
+    {
+      "korean": "a biased and slanted view of events 듣기 Add to Wordbook 사건에 대한 편향되고 편파적인 견해 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a biased and slanted view of events Add to Wordbook"
+    },
+    {
+      "korean": "accusations of political bias in news programmes 듣기 Add to Wordbook 뉴스 프로가 정치적으로 편향되어 있다는 비난 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "accusations of political bias in news programmes Add to Wordbook"
+    },
+    {
+      "korean": "The book is heavily skewed towards American readers. 듣기 Add to Wordbook 그 책은 미국 독자들 쪽으로 심하게 편향되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The book is heavily skewed towards American readers. Add to Wordbook"
+    },
+    {
+      "korean": "Many people gathered and criticized the biased judicial system. 듣기 Add to Wordbook 많은 사람들이 모여 편향된 사법 제도를 비판했다. 절대어휘 5100",
+      "english": "Many people gathered and criticized the biased judicial system. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "owl",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 올빼미, 부엉이 (→barn owl, night owl, tawny owl)"
+      ]
+    },
+    {
+      "phrase": "Ontology Web Language ( OWL )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "IT <컴퓨터>웹 온톨로지 언어(~言語)"
+      ]
+    },
+    {
+      "phrase": "Oarai Water Loop ( OWL )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "원자력용어 오아라이수(水)루프[일본(日本)]"
+      ]
+    },
+    {
+      "phrase": "아울 피크",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "자연지리 Owl Peak"
+      ]
+    },
+    {
+      "phrase": "아울리스 살리넨",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "인물 Aulis Sallinen"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Iphigenia in Aulis",
+      "frequency": 0
+    },
+    {
+      "meaning": "Aulis",
+      "frequency": 0
+    },
+    {
+      "meaning": "Aulov, Aleksandr Petrovich",
+      "frequency": 0
+    },
+    {
+      "meaning": "UI'skii aul",
+      "frequency": 0
+    },
+    {
+      "meaning": "Owl City",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "울 뻔 했다고요? - 아, 울 뻔 했어요. You almost cried? - Yeah. 듣기 View video STARSHIP : [REPLAY] 씨스타 컴백 'I Like That' 카운트다운 라이브",
+      "english": "You almost cried? - Yeah."
+    },
+    {
+      "korean": "올빼미인가? Is it a night owl? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "Is it a night owl?"
+    },
+    {
+      "korean": "제가 좀 부엉이 타입... 부엉이? 아닌가? I'm an owl type. Owl? No? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "I'm an owl type. Owl? No?"
+    },
+    {
+      "korean": "9만 명 부엉타지니? Are you 90,000 Owl-TASY? 듣기 View video SF9 : 안자는 사람끼리 20✌",
+      "english": "Are you 90,000 Owl-TASY?"
+    },
+    {
+      "korean": "[난 부엉이다옹~!] 괜찮은데? [I'm an owl~!] It's okay. 듣기 View video BTS : Run BTS! 2020 - EP.105",
+      "english": "[I'm an owl~!] It's okay."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The alley fight was active and exciting, but the Owl and Specter’s fight scene in the prison looked awkward because it seemed way too choreographed. 발음듣기 골목길 싸움 장면은 활동적이고 긴장감이 있었지만, 아울과 스펙터의 감옥에서의 싸움 장면은 너무 짠 것 같아 어색했다. TIMES CORE",
+      "english": "The alley fight was active and exciting, but the Owl and Specter’s fight scene in the prison looked awkward because it seemed way too choreographed. 발음"
+    },
+    {
+      "korean": "The owl seems to have deserted its nest. 발음듣기 올빼미가 둥지를 떠난 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The owl seems to have deserted its nest. 발음"
+    },
+    {
+      "korean": "The various types of owl are easily confusable with one another. 발음듣기 여러 가지 종류의 올빼미들은 서로 혼동되기 쉽다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The various types of owl are easily confusable with one another. 발음"
+    },
+    {
+      "korean": "An owl hooted nearby. 발음듣기 어디 가까이에서 부엉이가 부엉부엉 울었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "An owl hooted nearby. 발음"
+    },
+    {
+      "korean": "Owls usually swallow their prey whole. 발음듣기 올빼미는 대개 먹이를 통째로 삼킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Owls usually swallow their prey whole. 발음"
+    }
+  ]
+}

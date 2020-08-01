@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "좋다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(상태·품질 등이) good, fine, nice; (다른 것보다) better (than), superior (to)",
+        "(성격·인품 등이) good, nice, good-natured",
+        "(건강·체격 등이) good, fine; (체격이) well-built"
+      ]
+    },
+    {
+      "phrase": "저는 생선류가 좋겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'd rather have fish."
+      ]
+    },
+    {
+      "phrase": "이제 가는 게 좋겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'd better go now."
+      ]
+    },
+    {
+      "phrase": "창 옆자리가 더 좋겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I prefer a window seat."
+      ]
+    },
+    {
+      "phrase": "샘을 해고하는 게 좋겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You'd better ^fire^ Sam."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "you'd better",
+      "frequency": 0
+    },
+    {
+      "meaning": "good",
+      "frequency": 2
+    },
+    {
+      "meaning": "nice",
+      "frequency": 2
+    },
+    {
+      "meaning": "harmonious",
+      "frequency": 1
+    },
+    {
+      "meaning": "fine",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "좋겠습니다. it would be good. 듣기 View video MONSTA X : [몬채널][S] HYUNGWON DAY",
+      "english": "it would be good."
+    },
+    {
+      "korean": "하였으면 좋겠습니다! a great night! 듣기 View video V PICK! : [ONF] 토루 얼굴에 별자리는 내가 누울 자리...⭐️ (HYOJIN talking about the mole on his face)",
+      "english": "a great night!"
+    },
+    {
+      "korean": "건강 항상 잘 챙겼으면 좋겠습니다 이따 또 만나요! Stay safe, see ya! 듣기 View video NCT : 시즈니와 너클 펀치💚💚💚💚",
+      "english": "Stay safe, see ya!"
+    },
+    {
+      "korean": "많이 많이 기대해주셨으면 좋겠습니다 파이팅! Please look forward to the new album. 듣기 View video Dispatch : [늉포차] \"스페셜 안주에 진심인 편\" (NU'EST)",
+      "english": "Please look forward to the new album."
+    },
+    {
+      "korean": "오늘 하루 여러분들 달콤하셨으면 좋겠습니다! \"I hope your day today will be sweet!\" 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "\"I hope your day today will be sweet!\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We’d like as many people as possible to attend. 발음듣기 가능하면 많은 분들이 참석해 주시면 좋겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’d like as many people as possible to attend. 발음"
+    },
+    {
+      "korean": "We prefer CIF Busan to FOB Oakland. 발음듣기 FOB 오클랜드보다 CIF 부산이 좋겠습니다. DARAKWON",
+      "english": "We prefer CIF Busan to FOB Oakland. 발음"
+    },
+    {
+      "korean": "It would be great to see you again. 발음듣기 당신을 다시 뵐 수 있으면 대단히 좋겠습니다. DARAKWON",
+      "english": "It would be great to see you again. 발음"
+    },
+    {
+      "korean": "It would be great if you could meet us there. 발음듣기 그곳에서 뵐 수 있으면 좋겠습니다. DARAKWON",
+      "english": "It would be great if you could meet us there. 발음"
+    },
+    {
+      "korean": "It'll be wonderful to catch up with you soon. 발음듣기 조만간 만나뵐 수 있으면 좋겠습니다. DARAKWON",
+      "english": "It'll be wonderful to catch up with you soon. 발음"
+    }
+  ]
+}

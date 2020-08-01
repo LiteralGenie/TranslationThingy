@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "차",
+      "hanja": " (次)",
+      "example": {},
+      "meanings": [
+        "(번, 차례)",
+        "(목적)"
+      ]
+    },
+    {
+      "phrase": "차",
+      "hanja": " (差)",
+      "example": {},
+      "meanings": [
+        "(차이) difference (in/between), distinction (between), gap (between)",
+        "(어떤 수에서 다른 수를 뺀 나머지) difference, (수학) remainder, (점수·득표수 등의) margin"
+      ]
+    },
+    {
+      "phrase": "차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음료) tea"
+      ]
+    },
+    {
+      "phrase": "차",
+      "hanja": " (車)",
+      "example": {},
+      "meanings": [
+        "(자동차) car, (motor) vehicle, (informal) wheels, (Am) automobile, (Brit, f) motor car",
+        "(수량을 세는 단위)"
+      ]
+    },
+    {
+      "phrase": "차",
+      "hanja": " (次)",
+      "example": {},
+      "meanings": [
+        "(~하려던 차에'의 형태로 쓰여)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "차 5",
+      "frequency": 0
+    },
+    {
+      "meaning": "car",
+      "frequency": 3
+    },
+    {
+      "meaning": "tea",
+      "frequency": 3
+    },
+    {
+      "meaning": "wheel",
+      "frequency": 3
+    },
+    {
+      "meaning": "margin",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저는... - 블루베리차? I... - Blueberry teas? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "I... - Blueberry teas?"
+    },
+    {
+      "korean": "'차의 소리인가?' \"Is it the sound of the car?\" 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "\"Is it the sound of the car?\""
+    },
+    {
+      "korean": "그렇게 비싼 차를 제가 어우~ That kind of expensive... Oh no! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "That kind of expensive... Oh no!"
+    },
+    {
+      "korean": "'차 문 아래 향수예요?' \"Is the perfume next to the car door?\" 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "\"Is the perfume next to the car door?\""
+    },
+    {
+      "korean": "[어떡해...] 차에 졸업장이 있어요... Your diploma is in your car. 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "Your diploma is in your car."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Whose turn is it to brew up? 듣기 Add to Wordbook 누가 차 준비할 차례지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Whose turn is it to brew up? Add to Wordbook"
+    },
+    {
+      "korean": "We loaded our baggage into the car. 듣기 Add to Wordbook 우리는 짐을 차에 실었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We loaded our baggage into the car. Add to Wordbook"
+    },
+    {
+      "korean": "He swung himself out of the car. 듣기 Add to Wordbook 그가 몸을 돌려 차에서 내렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He swung himself out of the car. Add to Wordbook"
+    },
+    {
+      "korean": "My car does 35 miles to the gallon. 듣기 Add to Wordbook 내 차는 갤런 당 35마일을 주행한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My car does 35 miles to the gallon. Add to Wordbook"
+    },
+    {
+      "korean": "We need to have the car serviced. 듣기 Add to Wordbook 우리가 차를 점검 받아야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We need to have the car serviced. Add to Wordbook"
+    }
+  ]
+}

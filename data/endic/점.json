@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "점",
+      "hanja": " (點)",
+      "example": {},
+      "meanings": [
+        "(작고 둥근 표시) dot",
+        "(피부의) mole, (모반) birthmark",
+        "(어떤 측면·요소) point, respect, aspect, way"
+      ]
+    },
+    {
+      "phrase": "점",
+      "hanja": " (占)",
+      "example": {},
+      "meanings": [
+        "divination, fortune-telling"
+      ]
+    },
+    {
+      "phrase": "점",
+      "hanja": " (點)",
+      "example": {},
+      "meanings": [
+        "Bound noun point",
+        "Bound noun piece",
+        "Bound noun jeom"
+      ]
+    },
+    {
+      "phrase": "-점",
+      "hanja": " (店)",
+      "example": {},
+      "meanings": [
+        "a store, a shop (영)"
+      ]
+    },
+    {
+      "phrase": "germ",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 세균, 미생물",
+        "Noun (발생·발달의) 기원[초기]",
+        "Noun 생물 (생물의) 싹[배아] (→wheatgerm)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "point",
+      "frequency": 2
+    },
+    {
+      "meaning": "dot",
+      "frequency": 2
+    },
+    {
+      "meaning": "spot",
+      "frequency": 2
+    },
+    {
+      "meaning": "mark",
+      "frequency": 2
+    },
+    {
+      "meaning": "fact",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아무튼 여러분, 뷔 씨에게도 궁금한 점 있으면... Anyway, if you have any questions for V... 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "Anyway, if you have any questions for V..."
+    },
+    {
+      "korean": "[팀에서 뛰어난 점?] 카리스마? [What are you better at than other team members?] Charisma? 듣기 View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "[What are you better at than other team members?] Charisma?"
+    },
+    {
+      "korean": "[팀에서 뛰어난 점?] - 자기애? - 자기애? [What do you do the best in the group?] - Self-love? - Self-love? 듣기 View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "[What do you do the best in the group?] - Self-love? - Self-love?"
+    },
+    {
+      "korean": "점 진짜 많다고요? I have a lot of moles? 듣기 View video GOT7 : 🌞🌞🌞",
+      "english": "I have a lot of moles?"
+    },
+    {
+      "korean": "제가 점이 진짜 없는데... I have few moles. 듣기 View video V PICK! : [GFRIEND] 저희 집 앵무새도 엄지레몬 엄지레몬 하고 울어요🍋 (UMJI playing her cover song ‘Lemon’)",
+      "english": "I have few moles."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He reluctantly conceded the point to me. 발음듣기 그는 마지못해 그 점을 나에게 인정했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He reluctantly conceded the point to me. 발음"
+    },
+    {
+      "korean": "It is axiomatic that life is not always easy. 발음듣기 삶이 항상 수월하지는 않다는 점은 자명하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is axiomatic that life is not always easy. 발음"
+    },
+    {
+      "korean": "Every job has its difficulties and frustrations. 발음듣기 모든 직장은 그 나름의 어려움과 불만스러운 점들이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Every job has its difficulties and frustrations. 발음"
+    },
+    {
+      "korean": "Being a model invests her with a certain glamour. 발음듣기 모델이라는 점이 그녀를 매력적으로 보이게 하는 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Being a model invests her with a certain glamour. 발음"
+    },
+    {
+      "korean": "The karate bout has many similarities to a boxing match. 발음듣기 가라데 시합은 권투 시합과 닮은 점이 아주 많다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The karate bout has many similarities to a boxing match. 발음"
+    }
+  ]
+}

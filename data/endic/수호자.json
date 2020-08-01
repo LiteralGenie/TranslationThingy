@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "수호자",
+      "hanja": " (守護者)",
+      "example": {},
+      "meanings": [
+        "guardian"
+      ]
+    },
+    {
+      "phrase": "성지 수호자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "guardian of sacred ground"
+      ]
+    },
+    {
+      "phrase": "수호자를 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose guardian"
+      ]
+    },
+    {
+      "phrase": "수호",
+      "hanja": " (守護)",
+      "example": {},
+      "meanings": [
+        "protection, protect, guard, defend"
+      ]
+    },
+    {
+      "phrase": "수호",
+      "hanja": " (修好)",
+      "example": {},
+      "meanings": [
+        "Noun amity"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "guardian",
+      "frequency": 3
+    },
+    {
+      "meaning": "preserver",
+      "frequency": 3
+    },
+    {
+      "meaning": "bastion",
+      "frequency": 0
+    },
+    {
+      "meaning": "tutelary",
+      "frequency": 0
+    },
+    {
+      "meaning": "guarder",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The police are guardians of law and order. 듣기 Add to Wordbook 경찰은 법과 질서의 수호자들이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police are guardians of law and order. Add to Wordbook"
+    },
+    {
+      "korean": "Farmers should be guardians of the countryside. 듣기 Add to Wordbook 농부들이 전원 지역의 수호자가 되어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Farmers should be guardians of the countryside. Add to Wordbook"
+    },
+    {
+      "korean": "The police are the preservers of law and order. 듣기 Add to Wordbook 경찰은 법과 질서의 수호자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police are the preservers of law and order. Add to Wordbook"
+    },
+    {
+      "korean": "a bastion of freedom 듣기 Add to Wordbook 자유의 수호자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a bastion of freedom Add to Wordbook"
+    },
+    {
+      "korean": "Now every village nestled alongside the mountain has a protector. 듣기 Add to Wordbook 현재 산 주위에 자리잡은 모든 마을들이 수호자를 두고 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "Now every village nestled alongside the mountain has a protector. Add to Wordbook"
+    }
+  ]
+}

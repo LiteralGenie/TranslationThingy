@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "단순하다",
+      "hanja": " (單純하다)",
+      "example": {},
+      "meanings": [
+        "Adjective simple",
+        "Adjective simple-minded",
+        "Adjective mere, simple"
+      ]
+    },
+    {
+      "phrase": "단순",
+      "hanja": " (單純)",
+      "example": {},
+      "meanings": [
+        "(복잡하지 않고 간단하다) [형용사] simple",
+        "(순진하고 어수룩하다) [형용사] simple, naive"
+      ]
+    },
+    {
+      "phrase": "단순한 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a simple-minded person"
+      ]
+    },
+    {
+      "phrase": "단순하게 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "simplify",
+        "make simple"
+      ]
+    },
+    {
+      "phrase": "단순한 생각",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a simple idea"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "simple",
+      "frequency": 2
+    },
+    {
+      "meaning": "low 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "mere 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "unsophisticated",
+      "frequency": 0
+    },
+    {
+      "meaning": "uncomplicated",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그냥 정말 단순한... It's just very simple... 듣기 View video IZ*ONE : 🦋🍞고민 상담소2-2❤",
+      "english": "It's just very simple..."
+    },
+    {
+      "korean": "아무리 생각해도 이건 단순한 호감은 아닌 것 같은... Well, I can't call it mere interest. 듣기 View video 플레이리스트 (Playlist) : 알바하다가 사귀는 애들 종특 [크네유] - EP.04",
+      "english": "Well, I can't call it mere interest."
+    },
+    {
+      "korean": "약간 단순한 취미 이상? It's like a simple hobby? 듣기 View video MOMO X : [10초의 10초의 10초] 인성이는 할 말을 참지않긔! 10초는 너무 짧은⏱ SF9 인성 편",
+      "english": "It's like a simple hobby?"
+    },
+    {
+      "korean": "좀 너무 단순한 질문인데 어떠세요? It's a simple question, but what do you think? 듣기 View video V DRAMA : [Full]서른이지만 열일곱입니다 X 앞터V (30 but 17 X Early Interview)",
+      "english": "It's a simple question, but what do you think?"
+    },
+    {
+      "korean": "[걱정 노노 단순한 펀치&킥 연습] 팀팀 아~ 이렇게 해본다고? [No worries] [Simple punching & kicking practice] Teams, teams! You want to try that? 듣기 View video TRENDY TV(트렌디 티비) : [사다드림 시즌2] 사다드림은 오늘도 도연이 하드캐리해!_12회",
+      "english": "[No worries] [Simple punching & kicking practice] Teams, teams! You want to try that?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the deceptive simplicity of her writing style 발음듣기 단순하다고 현혹되기[단순한 것으로 오해하기] 쉬운 그녀의 문체 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the deceptive simplicity of her writing style 발음"
+    },
+    {
+      "korean": "buildings that are very simple in character 발음듣기 아주 단순한 것이 특징인 건물들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "buildings that are very simple in character 발음"
+    },
+    {
+      "korean": "The poem uses simple language. 발음듣기 그 시는 단순한 언어를 사용하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The poem uses simple language. 발음"
+    },
+    {
+      "korean": "simple forms of life, for example amoebas 발음듣기 예를 들어 아메바와 같은 단순한 생명체 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "simple forms of life, for example amoebas 발음"
+    },
+    {
+      "korean": "These reforms are not merely cosmetic. 발음듣기 이 개혁들은 단순한 겉치레가 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These reforms are not merely cosmetic. 발음"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "phrases": [
+    {
+      "phrase": "HTM",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hot tranny mess"
+      ]
+    },
+    {
+      "phrase": "H.T.M.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Hot Tranny Mess. a phrase that means when someone is more then a hot mess, they are a Hot Tranny Mess. Meaning their appereance is worse then a ugly tranny. Often used by Christian Siriano of Project Runway"
+      ]
+    },
+    {
+      "phrase": ".htm/.html",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "컴퓨터/통신 HTML(hyper text markup language)를 써서 작성된 텍스트 파일을 의미하는 확장자. WWW의 홈페이지는 이 형식으로 되어 있다."
+      ]
+    },
+    {
+      "phrase": "Wilson HTM Investment Group Ltd",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ASX Symbols (Abbr.) WIG."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "heelwork to music",
+      "frequency": 0
+    },
+    {
+      "meaning": "Held To Maturity",
+      "frequency": 0
+    },
+    {
+      "meaning": "Heelwork to Music",
+      "frequency": 0
+    },
+    {
+      "meaning": "Heat Transfer Module",
+      "frequency": 0
+    },
+    {
+      "meaning": "Haagse Tramweg Maatschappij",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The folder you specified for the custom OEM files is missing Oemcust.htm. This file is required to display the custom OEM section.To continue, click OK. To return to Setup Manager, click Cancel. 듣기 Add to Wordbook 사용자 지정 OEM 파일에 지정한 폴더에 OEMCUST.HTM이 없습니다. 이 파일은 사용자 지정 OEM 구역을 표시하는 데 필요합니다.계속하려면 [확인]을 클릭하십시오 설치 관리자로 돌아가려면 [취소]를 클릭하십시오. YBM All in All English-Korean Dictionary",
+      "english": "The folder you specified for the custom OEM files is missing Oemcust.htm. This file is required to display the custom OEM section.To continue, click OK. To return to Setup Manager, click Cancel. Add to Wordbook"
+    },
+    {
+      "korean": "The folder you specified for the custom OEM files is missing OEMCUST.HTM. This file is required to display the custom OEM section.Click OK to continue or Cancel to return to this wizard page. 듣기 Add to Wordbook 사용자 지정 OEM 파일에 지정한 폴더에 OEMCUST.HTM이 없습니다. 이 파일은 사용자 지정 OEM 구역을 표시하는 데 필요합니다.[확인]을 클릭하여 계속하거나 [취소]를 클릭하여 이 마법사 페이지로 돌아가십시오. YBM All in All English-Korean Dictionary",
+      "english": "The folder you specified for the custom OEM files is missing OEMCUST.HTM. This file is required to display the custom OEM section.Click OK to continue or Cancel to return to this wizard page. Add to Wordbook"
+    },
+    {
+      "korean": "The folder you specified for the secondary ISP offers is missing DTSGNUP.HTM. The secondary ISP offers will not work correctly if this file isn't present.Click OK to continue or Cancel to return to the this wizard page. 듣기 Add to Wordbook 보조 ISP 제공에 지정한 폴더에 DTSGNUP.HTM이 없습니다. 이 파일이 없으면 보조 ISP 제공이 제대로 작동하지 않습니다.[확인]을 클릭하여 계속하거나 [취소]를 클릭하여 이 마법사 페이지로 돌아가십시오. YBM All in All English-Korean Dictionary",
+      "english": "The folder you specified for the secondary ISP offers is missing DTSGNUP.HTM. The secondary ISP offers will not work correctly if this file isn't present.Click OK to continue or Cancel to return to the this wizard page. Add to Wordbook"
+    },
+    {
+      "korean": "Page Layout (.htm file) - defines the layout of content while being read. 듣기 Add to Wordbook 페이지 레이아웃(.htm 파일) - 내용을 읽는 동안 레이아웃을 정의합니다. hansemEUG",
+      "english": "Page Layout (.htm file) - defines the layout of content while being read. Add to Wordbook"
+    },
+    {
+      "korean": "Edit Layout (.htm file) - defines the layout of content while being edited. 듣기 Add to Wordbook 레이아웃 편집(.htm 파일) - 내용이 편집되는 동안 레이아웃을 정의합니다. hansemEUG",
+      "english": "Edit Layout (.htm file) - defines the layout of content while being edited. Add to Wordbook"
+    }
+  ]
+}

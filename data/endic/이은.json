@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "잇다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(실·끈·조각 등을) join[link] (sth to sth), connect (sth with/to sth); (여러 조각을) piece (sth) together",
+        "(생계·말 등을) continue, keep[go] on (with)",
+        "(가업·전통 등을) inherit, succeed, carry on, take over"
+      ]
+    },
+    {
+      "phrase": "띠로 이은 지붕",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a thatched roof"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "splice",
+      "frequency": 0
+    },
+    {
+      "meaning": "a roof made of thatch",
+      "frequency": 0
+    },
+    {
+      "meaning": "Who succeeded Kennedy as President?",
+      "frequency": 0
+    },
+    {
+      "meaning": "unjoint",
+      "frequency": 0
+    },
+    {
+      "meaning": "butt end",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사실 그거 2개를 이은 거거든요. Actually, we connected two of them. 듣기 View video Stray Kids : 태국도 잘 마쳤습니당~!!🖤",
+      "english": "Actually, we connected two of them."
+    },
+    {
+      "korean": "OK 나나나애교에 이은 뉴앤댜이 애교까지 다 만들었어. Okay! After nanana cuteness, we also made You and I cuteness. 듣기 View video Dingo Music / 딩고뮤직 : [딩고B컷톡방 딩톡방] 스트레이 키즈 Stray Kids",
+      "english": "Okay! After nanana cuteness, we also made You and I cuteness."
+    },
+    {
+      "korean": "[모창에 이은 모션까지] 그리고 인성이 형은 제가 모션으로 할 수 있어요 모션. [Motion is so awesome!] I can use motions for Inseong. 듣기 View video V PICK! : [SF9] 이상혁의 모창박스.. 그 끝은 어디인가... (Dawon mimicking SF9)",
+      "english": "[Motion is so awesome!] I can use motions for Inseong."
+    },
+    {
+      "korean": "구지스를 이은... The next \"Gujice\". 듣기 View video DIA : [다이아]L.U.B와 함께하는 모니터",
+      "english": "The next \"Gujice\"."
+    },
+    {
+      "korean": "전지스를 이은... The next \"Gujice\"... 듣기 View video DIA : [다이아]L.U.B와 함께하는 모니터",
+      "english": "The next \"Gujice\"..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a roof made of thatch 발음듣기 짚을 얹은[짚으로 이은] 지붕 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a roof made of thatch 발음"
+    },
+    {
+      "korean": "yet another diet book 발음듣기 (지금까지 나온 것들에 이은) 또 한 권의 다이어트 책 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "yet another diet book 발음"
+    },
+    {
+      "korean": "Who succeeded Kennedy as President? 발음듣기 대통령으로 케네디 뒤를 이은 사람이 누구였어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Who succeeded Kennedy as President? 발음"
+    },
+    {
+      "korean": "Successive governments have fought shy of such measures. 발음듣기 그 뒤를 이은 정부는 그러한 조치들을 회피해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Successive governments have fought shy of such measures. 발음"
+    },
+    {
+      "korean": "The hut has an earthen floor and a thatched roof. 발음듣기 그 오두막은 흙 바닥과 짚으로 이은 지붕이 있었다. YBM All in All English-Korean Dictionary",
+      "english": "The hut has an earthen floor and a thatched roof. 발음"
+    }
+  ]
+}

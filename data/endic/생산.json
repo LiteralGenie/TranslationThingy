@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "생산",
+      "hanja": " (生産)",
+      "example": {},
+      "meanings": [
+        "production, produce, manufacture, turn (sth) out"
+      ]
+    },
+    {
+      "phrase": "생산 설비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "production[productive] facilities"
+      ]
+    },
+    {
+      "phrase": "대량생산",
+      "hanja": " (大量生産)",
+      "example": {},
+      "meanings": [
+        "mass production, large quantity production"
+      ]
+    },
+    {
+      "phrase": "생산관리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "production management"
+      ]
+    },
+    {
+      "phrase": "생산 단축",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "output reduction",
+        "a cut[cutback] in production"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "production",
+      "frequency": 3
+    },
+    {
+      "meaning": "manufacture",
+      "frequency": 3
+    },
+    {
+      "meaning": "making",
+      "frequency": 3
+    },
+    {
+      "meaning": "consignment sales[production]",
+      "frequency": 0
+    },
+    {
+      "meaning": "management oversight and risk tree",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어때 생산적인 질문 찾았어? Did you find any productive question? 듣기 View video TOMORROW X TOGETHER : 최최강한테 물어봐",
+      "english": "Did you find any productive question?"
+    },
+    {
+      "korean": "태현아 생산적인 질문 찾았니? TAEHYUN, did you find any productive question? 듣기 View video TOMORROW X TOGETHER : 최최강한테 물어봐",
+      "english": "TAEHYUN, did you find any productive question?"
+    },
+    {
+      "korean": "[등장부터 남다른 포스] 생산! [Forceful appearance] Production! 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep81_부회장님 특단의 조치! 조아제약 날개의 등장?",
+      "english": "[Forceful appearance] Production!"
+    },
+    {
+      "korean": "[폭풍처럼 휘몰아친 날개의 활약] - 생산! - 생산! [Both wings worked like a storm] - Production! - Production! 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep81_부회장님 특단의 조치! 조아제약 날개의 등장?",
+      "english": "[Both wings worked like a storm] - Production! - Production!"
+    },
+    {
+      "korean": "크로아티아가 라벤더의 주생산지에요. - 정말요? Croatia is the capital of lavender. - Really? 듣기 View video Hwang Chi Yeul : [Replay] 황치열 Chiyeul Hwang SHOWCASE",
+      "english": "Croatia is the capital of lavender. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "pottery that is datable to the second century 듣기 Add to Wordbook 생산 연대가 2세기로 추정되는 도자기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "pottery that is datable to the second century Add to Wordbook"
+    },
+    {
+      "korean": "The production process is to be streamlined. 듣기 Add to Wordbook 생산 과정이 간소화되어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The production process is to be streamlined. Add to Wordbook"
+    },
+    {
+      "korean": "Wage rates depend on levels of productivity. 듣기 Add to Wordbook 임금 지급률은 생산성 수준에 따라 달라진다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Wage rates depend on levels of productivity. Add to Wordbook"
+    },
+    {
+      "korean": "The production process is now highly mechanized. 듣기 Add to Wordbook 생산 과정은 이제 고도로 기계화되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The production process is now highly mechanized. Add to Wordbook"
+    },
+    {
+      "korean": "This year we produced quadruple the amount produced in 2002. 듣기 Add to Wordbook 올해 우리는 2002년 생산량의 네 배를 생산했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This year we produced quadruple the amount produced in 2002. Add to Wordbook"
+    }
+  ]
+}

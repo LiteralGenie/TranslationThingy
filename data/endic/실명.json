@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "실명",
+      "hanja": " (失明)",
+      "example": {},
+      "meanings": [
+        "blindness, go blind, be blinded, lose one's eyesight"
+      ]
+    },
+    {
+      "phrase": "실명",
+      "hanja": " (實名)",
+      "example": {},
+      "meanings": [
+        "(본명) one's real name"
+      ]
+    },
+    {
+      "phrase": "두 눈을 다 실명하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose the sight of both eyes"
+      ]
+    },
+    {
+      "phrase": "고객의 실명을 확인하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "verify the customer's (real) name"
+      ]
+    },
+    {
+      "phrase": "실명하다",
+      "hanja": " (失明하다)",
+      "example": {},
+      "meanings": [
+        "Verb go blind, lose one's sight"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "autonym",
+      "frequency": 0
+    },
+    {
+      "meaning": "loss of sight",
+      "frequency": 0
+    },
+    {
+      "meaning": "ablepsia",
+      "frequency": 0
+    },
+    {
+      "meaning": "real names",
+      "frequency": 0
+    },
+    {
+      "meaning": "actual name",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "민석이 형 - 실명 얘기해도 돼요? Minseok. - Can you say his name? 듣기 View video V COOKIE : [Full] NU'EST X LieV - 뉴이스트의 눕방라이브!",
+      "english": "Minseok. - Can you say his name?"
+    },
+    {
+      "korean": "그 친구가 누군지 한 분씩 돌아가면서 실명 토크를 한번 해볼까요? Okay, say their name, please. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#378. 열려라 에이티즈 (스페셜 DJ AOA 지민&찬미 with 에이티즈)",
+      "english": "Okay, say their name, please."
+    },
+    {
+      "korean": "민석이 형을 여기서 어떻게 - 실명 얘기해도 돼요? Saying Minseok's name here... - Can you say his name? 듣기 View video V COOKIE : [Full] NU'EST X LieV - 뉴이스트의 눕방라이브!",
+      "english": "Saying Minseok's name here... - Can you say his name?"
+    },
+    {
+      "korean": "실명을 말해도 되나? Can I say their names? 듣기 View video EUNBI : EUNBI✟LA VLOG+GRWM 엘에이 브이로그와 겟레디 위드미!",
+      "english": "Can I say their names?"
+    },
+    {
+      "korean": "실명 얘기해도 되죠? I can say the real name, right? 듣기 View video 우주소녀(WJSN) : [수빈] 요즘 뭐하니~? 오늘 한번 만나볼까~😘",
+      "english": "I can say the real name, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "loss of sight 듣기 Add to Wordbook 실명. Friendict Level English-Korean Dictionary",
+      "english": "loss of sight Add to Wordbook"
+    },
+    {
+      "korean": "I tried to send her to the typhlologist to check her bad eyesight. 듣기 Add to Wordbook 나는 그녀의 나쁜 시력을 살펴보기 위해 실명 전문가에게 보내려고 했다. 국제영어대학원대학교 신어사전",
+      "english": "I tried to send her to the typhlologist to check her bad eyesight. Add to Wordbook"
+    },
+    {
+      "korean": "He lost sight in his[the] right eye. 듣기 Add to Wordbook 그는 오른쪽 눈을 실명했다. Neungyule",
+      "english": "He lost sight in his[the] right eye. Add to Wordbook"
+    },
+    {
+      "korean": "The insufficient nutrition robbed him of his sight. 듣기 Add to Wordbook 영양 실조 때문에 그는 실명했다. YBM All in All English-Korean Dictionary",
+      "english": "The insufficient nutrition robbed him of his sight. Add to Wordbook"
+    },
+    {
+      "korean": "He went blind from misusing drugs. 듣기 Add to Wordbook 그는 약물 오용으로 실명했다 Neungyule",
+      "english": "He went blind from misusing drugs. Add to Wordbook"
+    }
+  ]
+}

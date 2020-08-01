@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "환영",
+      "hanja": " (歡迎)",
+      "example": {},
+      "meanings": [
+        "[명사] welcome, [동사] welcome, give a welcome (to)"
+      ]
+    },
+    {
+      "phrase": "환영",
+      "hanja": " (幻影)",
+      "example": {},
+      "meanings": [
+        "(허깨비) ghost, phantom, vision, (formal) apparition, (literary) phantasm, (literary) specter"
+      ]
+    },
+    {
+      "phrase": "열렬히 환영하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give sb an enthusiastic welcome",
+        "greet sb most enthusiastically[warmly]",
+        "welcome sb with immense enthusiasm"
+      ]
+    },
+    {
+      "phrase": "따뜻한 환영",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a warm[genial, hospitable] welcome"
+      ]
+    },
+    {
+      "phrase": "진심으로 환영하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give a hearty welcome"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "welcome",
+      "frequency": 2
+    },
+    {
+      "meaning": "vision",
+      "frequency": 2
+    },
+    {
+      "meaning": "reception",
+      "frequency": 2
+    },
+    {
+      "meaning": "shadow",
+      "frequency": 2
+    },
+    {
+      "meaning": "phantom",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'용또니 월드에 오신걸 환영합니다' 이거 아니야? \"Welcome to Solar's world.\" Isn't it this? 듣기 View video MAMAMOO : 용콩별콩 뒤집어지는 LIVE",
+      "english": "\"Welcome to Solar's world.\" Isn't it this?"
+    },
+    {
+      "korean": "환영합니다 - 웰컴! - 웰컴! Welcome. - Welcome! - Welcome! 듣기 View video NCT 127 : [FULL] NCT 127의 '영웅'본색",
+      "english": "Welcome. - Welcome! - Welcome!"
+    },
+    {
+      "korean": "이런 드립 너무 좋아요 환영 환영! These kinds of ad-libs are so good. Welcome, welcome! 듣기 View video NCT : JS🤍🖤🤍🖤",
+      "english": "These kinds of ad-libs are so good. Welcome, welcome!"
+    },
+    {
+      "korean": "언제나 뭐 저는... - 언제나 환영이에요? I'm always... - Always welcome? 듣기 View video Stray Kids : 쏟아지는 돼끼🐷🐰",
+      "english": "I'm always... - Always welcome?"
+    },
+    {
+      "korean": "여러분 시티대학교에 오신 것을 환영합니다! Welcome to the University of CT! 듣기 View video NCT 127 : [Full] NCT 127’s Punch COUNTDOWN",
+      "english": "Welcome to the University of CT!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You are most welcome to my humble abode. 발음듣기 누추한 제 집에 오신 것을 진심으로 환영합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You are most welcome to my humble abode. 발음"
+    },
+    {
+      "korean": "crowds waiting on/at the quayside to welcome them 발음듣기 그들을 환영하기 위해 부둣가에서 기다리는 사람들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "crowds waiting on/at the quayside to welcome them 발음"
+    },
+    {
+      "korean": "The team members were greeted like conquering heroes. 발음듣기 그 팀원들은 정복 영웅들 같은 환영을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team members were greeted like conquering heroes. 발음"
+    },
+    {
+      "korean": "He discerned a certain coldness in their welcome. 발음듣기 그는 그들이 자신을 환영하는 태도가 약간 냉랭한 것을 감지했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He discerned a certain coldness in their welcome. 발음"
+    },
+    {
+      "korean": "The new manager has been hailed as the saviour of the club. 발음듣기 그 새 감독은 그 클럽의 구원자로 환영 받아 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new manager has been hailed as the saviour of the club. 발음"
+    }
+  ]
+}

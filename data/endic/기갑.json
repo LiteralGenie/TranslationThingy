@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "기갑",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 armor"
+      ]
+    },
+    {
+      "phrase": "기갑사단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an armored division"
+      ]
+    },
+    {
+      "phrase": "기갑 여단",
+      "hanja": " (機甲旅團)",
+      "example": {},
+      "meanings": [
+        "an armored brigade, a panzer brigade"
+      ]
+    },
+    {
+      "phrase": "기갑 사단",
+      "hanja": " (機甲師團)",
+      "example": {},
+      "meanings": [
+        "an armored division, a panzer division"
+      ]
+    },
+    {
+      "phrase": "기갑대대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 armored battalion"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lock 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "withers",
+      "frequency": 0
+    },
+    {
+      "meaning": "air lock",
+      "frequency": 0
+    },
+    {
+      "meaning": "air look",
+      "frequency": 0
+    },
+    {
+      "meaning": "Armoured warfare",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "an attack by infantry and armour 발음듣기 보병과 기갑 부대의 공격 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an attack by infantry and armour 발음"
+    },
+    {
+      "korean": "an armoured division 발음듣기 기갑 부대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an armoured division 발음"
+    },
+    {
+      "korean": "Poland was prostrate before the advancing panzer columns. 발음듣기 폴란드는 진격하는 기갑 대열 앞에 무력했었다. 영어영작문대사전",
+      "english": "Poland was prostrate before the advancing panzer columns. 발음"
+    },
+    {
+      "korean": "proof armor 발음듣기 보증된 갑옷[기갑 장비]. Friendict Level English-Korean Dictionary",
+      "english": "proof armor 발음"
+    },
+    {
+      "korean": "French armoured division is over that hill. 발음듣기 프랑스 기갑 부대는 그 언덕 너머에 있다. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Web Collection",
+      "english": "French armoured division is over that hill. 발음"
+    }
+  ]
+}

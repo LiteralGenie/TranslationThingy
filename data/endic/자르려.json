@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "자르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(절단하다) cut (down/off/out/away); (잘게) chop (up); (두 동강 내다) sever; (가위 등으로) snip (off), clip; (톱으로) saw; (수...",
+        "(해고하다) fire, dismiss, ax(e), (Brit, inf) sack",
+        "(분명하게 말하다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cut",
+      "frequency": 2
+    },
+    {
+      "meaning": "hew",
+      "frequency": 1
+    },
+    {
+      "meaning": "chop 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "sever",
+      "frequency": 1
+    },
+    {
+      "meaning": "clip 1",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저 원래 오늘 머리 그렇게 자르려 했어. I planned to have this hair style. 듣기 View video Boys Republic : 수웅이의고민상담소!!!",
+      "english": "I planned to have this hair style."
+    },
+    {
+      "korean": "근데 이거 어떻게 잘라? How can I cut it? 듣기 View video Stray Kids : 댕냥스쿨 EP.7🐶🐱!!!",
+      "english": "How can I cut it?"
+    },
+    {
+      "korean": "칼로 잘라 먹나? Do we cut it with a knife? 듣기 View video Stray Kids : 댕냥스쿨 EP.7🐶🐱!!!",
+      "english": "Do we cut it with a knife?"
+    },
+    {
+      "korean": "머리 자르지 마요? Don't cut my hair? 듣기 View video GOT7 : 금겸🌼",
+      "english": "Don't cut my hair?"
+    },
+    {
+      "korean": "다 자른 건 아니지만 어쨌든 한... Not all but... 듣기 View video TWICE : 심야브이 샤라디오",
+      "english": "Not all but..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I went to the barber to get a haircut today. 발음듣기 나는 오늘 머리를 자르려 이발소에 갔다. Neungyule",
+      "english": "I went to the barber to get a haircut today. 발음"
+    },
+    {
+      "korean": "The wood cutter is about to cut a tree with a mechanical saw. 발음듣기 벌목공이 전기 톱으로 나무를 막 자르려 하고 있다. English Hidden Card",
+      "english": "The wood cutter is about to cut a tree with a mechanical saw. 발음"
+    },
+    {
+      "korean": "Cut the flower stems on the slant. 발음듣기 꽃의 줄기를 비스듬하게 잘라라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Cut the flower stems on the slant. 발음"
+    },
+    {
+      "korean": "He flatly refused to discuss the matter. 발음듣기 그는 그 문제에 대한 논의를 딱 잘라 거절했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He flatly refused to discuss the matter. 발음"
+    },
+    {
+      "korean": "a nifty little gadget for slicing cucumbers 발음듣기 오이 자를 때 쓰기 좋은 작은 기구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a nifty little gadget for slicing cucumbers 발음"
+    }
+  ]
+}

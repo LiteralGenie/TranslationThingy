@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "포함",
+      "hanja": " (包含)",
+      "example": {},
+      "meanings": [
+        "inclusion, comprehension, implication, (뜻을) 포함하다 imply, connote"
+      ]
+    },
+    {
+      "phrase": "포함",
+      "hanja": " (砲艦)",
+      "example": {},
+      "meanings": [
+        "a gunboat"
+      ]
+    },
+    {
+      "phrase": "포함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(민속) the inspired utterances of a shaman, 포함하다 ((a shaman)) yell (out) inspired words"
+      ]
+    },
+    {
+      "phrase": "포함하다",
+      "hanja": " (包含하다)",
+      "example": {},
+      "meanings": [
+        "include, contain, cover"
+      ]
+    },
+    {
+      "phrase": "50 이하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "and less",
+        "less than[below] 50"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "inclusion",
+      "frequency": 1
+    },
+    {
+      "meaning": "gunboat",
+      "frequency": 0
+    },
+    {
+      "meaning": "comprisal",
+      "frequency": 0
+    },
+    {
+      "meaning": "subsumption",
+      "frequency": 0
+    },
+    {
+      "meaning": "a gunboat",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다 포함해서? - 떨어진 적이 없지 않으세요? Including everything? - You never failed an audition, did you? 듣기 View video ATEEZ : 🐶 & ㄱ- 라디오",
+      "english": "Including everything? - You never failed an audition, did you?"
+    },
+    {
+      "korean": "'황인준도 포함인가요?' \"Does it also include Renjun?\" 듣기 View video NCT : 준이왔어요 ㅋㅋ",
+      "english": "\"Does it also include Renjun?\""
+    },
+    {
+      "korean": "음식 이것도 포함인가요? The food... Does it include this? 듣기 View video iKON : 코닉이들 놀러와바유❤️",
+      "english": "The food... Does it include this?"
+    },
+    {
+      "korean": "[역시 예리] 왜 너도 포함하지? [Sharp] Why do you include yourself? 듣기 View video M2 : [Full] TOMORROW X TOGETHER Comeback Show",
+      "english": "[Sharp] Why do you include yourself?"
+    },
+    {
+      "korean": "근데 하고 있는 거 제외예요? 아니면 그런 거 포함이에요? Does this include what he's doing right now? 듣기 View video OSEN : NCT 127이 직접 꼽은 가장 엉뚱한 멤버는? #스타로드 03",
+      "english": "Does this include what he's doing right now?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the incorporation of foreign words into the language 발음듣기 외래어의 언어 내 포함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the incorporation of foreign words into the language 발음"
+    },
+    {
+      "korean": "You’re not insured to drive our car. 발음듣기 네가 우리 차를 운전하는 것은 보험에 포함이 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re not insured to drive our car. 발음"
+    },
+    {
+      "korean": "Symptoms include headaches, vomiting and the shivers. 발음듣기 증상에는 두통, 구토, 오한이 포함된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Symptoms include headaches, vomiting and the shivers. 발음"
+    },
+    {
+      "korean": "His collection of plants contains many rarities. 발음듣기 그가 수집한 식물들에는 많은 희귀종들이 포함되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His collection of plants contains many rarities. 발음"
+    },
+    {
+      "korean": "There were some surprising inclusions in the list. 발음듣기 그 명단에는 뜻밖에 포함된 인물[것]들이 몇몇 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There were some surprising inclusions in the list. 발음"
+    }
+  ]
+}

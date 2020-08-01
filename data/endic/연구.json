@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "연구",
+      "hanja": " (硏究)",
+      "example": {},
+      "meanings": [
+        "study (of/into/on), research (into/on), study, research, make[conduct, carry out] a study, do[conduct, undertake] research"
+      ]
+    },
+    {
+      "phrase": "연구(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 research"
+      ]
+    },
+    {
+      "phrase": "연구 논문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "research paper"
+      ]
+    },
+    {
+      "phrase": "사례 연구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "case study"
+      ]
+    },
+    {
+      "phrase": "비교 연구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "comparative study"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "study",
+      "frequency": 3
+    },
+    {
+      "meaning": "object",
+      "frequency": 3
+    },
+    {
+      "meaning": "research",
+      "frequency": 3
+    },
+    {
+      "meaning": "investigation",
+      "frequency": 3
+    },
+    {
+      "meaning": "inquiry",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[규철의 연구실 선배님들] - 교수님이 아주... - 뭐라셨어요? [Gyuchul's lab seniors] - The professor is so... - Did he say something? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 22. 서울대의 두 동아리 츄플 & 바팩 파이널에서 만나다!",
+      "english": "[Gyuchul's lab seniors] - The professor is so... - Did he say something?"
+    },
+    {
+      "korean": "시그니처 칵테일 연구하는 거예요? Are you coming up with new signature cocktails? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "Are you coming up with new signature cocktails?"
+    },
+    {
+      "korean": "무슨 연구를 했죠? What did you study? 듣기 View video V COOKIE : [Full] 아스트로 X 우리의 밤 (Our Night with ASTRO)",
+      "english": "What did you study?"
+    },
+    {
+      "korean": "[국가 기밀 연구소?] 국가 기밀 연구소 같은... a secret national research institute. 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 8. 들어는 보았는가 뇌세포 절단랩!? 마! 이게 공대생의 랩이다! 포스텍 \"피펑크\"",
+      "english": "a secret national research institute."
+    },
+    {
+      "korean": "지금까지의 연구 결과 좀 알려주세요 - 연구 결과요? Please tell us about your research. - My research? 듣기 View video V COOKIE : [Full] 아스트로 X 우리의 밤 (Our Night with ASTRO)",
+      "english": "Please tell us about your research. - My research?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the characterization of physics as the study of simplicity 듣기 Add to Wordbook 물리학을 단순함에 대한 연구라고 보는 정의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the characterization of physics as the study of simplicity Add to Wordbook"
+    },
+    {
+      "korean": "The study of science has enriched all our lives. 듣기 Add to Wordbook 과학 연구는 우리 모두의 삶을 풍요롭게 해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The study of science has enriched all our lives. Add to Wordbook"
+    },
+    {
+      "korean": "to study behaviour in laboratory and naturalistic settings 듣기 Add to Wordbook 실험실 및 자연을 모방한 환경에서의 행동 연구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to study behaviour in laboratory and naturalistic settings Add to Wordbook"
+    },
+    {
+      "korean": "Her work was divided between tutoring and research. 듣기 Add to Wordbook 그녀가 하는 일은 학생 지도와 연구로 나눠져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her work was divided between tutoring and research. Add to Wordbook"
+    },
+    {
+      "korean": "Their claims are unsupported by research findings. 듣기 Add to Wordbook 그들의 주장은 연구 결과로 뒷받침되지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their claims are unsupported by research findings. Add to Wordbook"
+    }
+  ]
+}

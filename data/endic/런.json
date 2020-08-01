@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "런",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 run"
+      ]
+    },
+    {
+      "phrase": "learn",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 배우다, 학습하다",
+        "Verb ~을 알게 되다 (=discover)",
+        "Verb (기억하기 위해) 외우다, 암기하다 (=memorize)"
+      ]
+    },
+    {
+      "phrase": "run",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (사람동물이) 달리다[뛰다]",
+        "Verb (얼마의 거리를) 달리다[뛰다] (→mile)",
+        "Verb (운동으로) 달리기를 하다",
+        "Noun 달리기, 뛰기; 달리는 시간[거리] (→fun run)",
+        "Noun 배달, 운행, 운항 (→milk run, rat run, school run)"
+      ]
+    },
+    {
+      "phrase": "learned",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 격식 박식한 (→friend (5))",
+        "Adjective 격식 학술의; 조예 깊은, 정통한 (=scholarly)",
+        "Adjective (훈련·경험을 통해) 학습된, 후천적인"
+      ]
+    },
+    {
+      "phrase": "ski run ( run )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (스키장에서) 스키 타는 길[활강로]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "run",
+      "frequency": 2
+    },
+    {
+      "meaning": "Run",
+      "frequency": 0
+    },
+    {
+      "meaning": "end run",
+      "frequency": 0
+    },
+    {
+      "meaning": "a hit-and-run play",
+      "frequency": 0
+    },
+    {
+      "meaning": "half run",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "멋있잖아요 런웨이! So cool! The runway! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "So cool! The runway!"
+    },
+    {
+      "korean": "런웨이 공약 어때요? - 좋아요 좋아요! What do you think about a runway promise? - I like it! 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "What do you think about a runway promise? - I like it!"
+    },
+    {
+      "korean": "댓글을 조금만 더 읽어보고 시행을 할까요? - 런웨이를 시작해볼까요? Should we read some comments before we start? - Should we start the runway? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Should we read some comments before we start? - Should we start the runway?"
+    },
+    {
+      "korean": "'런' 한 소절? One verse of \"Run?\" 듣기 View video ASTRO : 따나의 퇴근길🐥",
+      "english": "One verse of \"Run?\""
+    },
+    {
+      "korean": "[런웨이를 걷듯 사뿐!] [Like he's on the runway!] View video GOT7 : GOT7(갓세븐) TOURLOG EP.18",
+      "english": "[Like he's on the runway!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "On Saturdays, I get up early to participate in the parkrun. 발음듣기 나는 토요일마다 파크 런에 참가하기 위해 일찍 일어난다. 국제영어대학원대학교 신어사전",
+      "english": "On Saturdays, I get up early to participate in the parkrun. 발음"
+    },
+    {
+      "korean": "Seoul 365 Fashion Show is back. Launched in 2016, the city-run street fashion show aims to unearth promising new designers and provide them a platform to break into new market channels. 발음듣기 서울 365 패션쇼'가 돌아온다. 서울 시내를 런웨이로 하는 이 '서울 365 패션쇼'는 유망한 신인 디자이너를 발굴하고 그들을 위한 새로운 마케팅 창구를 개척할 수 있는 발판을 마련하기 위해 2016년 시작됐다. The Korea Times",
+      "english": "Seoul 365 Fashion Show is back. Launched in 2016, the city-run street fashion show aims to unearth promising new designers and provide them a platform to break into new market channels. 발음"
+    },
+    {
+      "korean": "the team’s highest successful run chase 발음듣기 그 팀의 매우 성공적인 런 체이스 국제영어대학원대학교 신어사전",
+      "english": "the team’s highest successful run chase 발음"
+    },
+    {
+      "korean": "The first group is Run-DMC. 발음듣기 첫 번째 그룹은 런DMC이다. Neungyule",
+      "english": "The first group is Run-DMC. 발음"
+    },
+    {
+      "korean": "Run-DMC, Metallica to Enter Rock Hall of Fame 발음듣기 런 DMC, 메탈리카 로큰롤 명예의 전당 입성 Neungyule",
+      "english": "Run-DMC, Metallica to Enter Rock Hall of Fame 발음"
+    }
+  ]
+}

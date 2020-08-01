@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "중",
+      "hanja": " (中)",
+      "example": {},
+      "meanings": [
+        "(여럿 가운데), (=가운데)",
+        "(동안)",
+        "(시간의 한계를 넘지 않은 범위)"
+      ]
+    },
+    {
+      "phrase": "중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(승려) (비구니) bhikkhuni Buddhist monk[priest], (비구) bhikkhu"
+      ]
+    },
+    {
+      "phrase": "중",
+      "hanja": " (中)",
+      "example": {},
+      "meanings": [
+        "(가운데 등급)"
+      ]
+    },
+    {
+      "phrase": "중-",
+      "hanja": " (重)",
+      "example": {},
+      "meanings": [
+        "Affix jung- (↔경-1)",
+        "Affix jung- (↔경-1)"
+      ]
+    },
+    {
+      "phrase": "중-",
+      "hanja": " (重)",
+      "example": {},
+      "meanings": [
+        "Affix jung- (↔경-1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "during",
+      "frequency": 2
+    },
+    {
+      "meaning": "twin",
+      "frequency": 2
+    },
+    {
+      "meaning": "on the job",
+      "frequency": 0
+    },
+    {
+      "meaning": "latter",
+      "frequency": 2
+    },
+    {
+      "meaning": "occupied",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다이어트 중인가요? Are you on a diet? 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "Are you on a diet?"
+    },
+    {
+      "korean": "퇴근하는 중인가? Are you leaving work? 듣기 View video GOT7 : 7M!!!",
+      "english": "Are you leaving work?"
+    },
+    {
+      "korean": "둘이 뭐 썸 타는 중인가? A fling or something? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "A fling or something?"
+    },
+    {
+      "korean": "투표하는 중인가? 끝났나? Are you voting? Did you finish voting? 듣기 View video TWICE : 밥",
+      "english": "Are you voting? Did you finish voting?"
+    },
+    {
+      "korean": "대휘 포커페이스 중인가요? Daehwi, are you trying to look serious? 듣기 View video V COOKIE : [Full] AB6IX x 우리의 밤 (Our Night with AB6IX)",
+      "english": "Daehwi, are you trying to look serious?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "How long have they been at war? 발음듣기 그들이 얼마 동안 전쟁(을 벌이고 있는) 중인가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How long have they been at war? 발음"
+    },
+    {
+      "korean": "Are they an item? 발음듣기 그들이 연애 중인가? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Are they an item? 발음"
+    },
+    {
+      "korean": "Is Howard still on his break? 발음듣기 하워드는 아직도 휴가 중인가요? YBM All in All English-Korean Dictionary",
+      "english": "Is Howard still on his break? 발음"
+    },
+    {
+      "korean": "So, are you still planning on starting up your own business? 발음듣기 그래, 아직도 창업을 구상중인가? YBM All in All English-Korean Dictionary",
+      "english": "So, are you still planning on starting up your own business? 발음"
+    },
+    {
+      "korean": "Are you flirting with someone these days? 발음듣기 요즘 누군가에게 치근대고 있는 중인가? TIMES CORE",
+      "english": "Are you flirting with someone these days? 발음"
+    }
+  ]
+}

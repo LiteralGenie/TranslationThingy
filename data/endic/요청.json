@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "요청",
+      "hanja": " (要請)",
+      "example": {},
+      "meanings": [
+        "[명사] request, demand, call; (비용을) claim, [동사] request, demand, call for, ask, call (up)on"
+      ]
+    },
+    {
+      "phrase": "요청(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 request"
+      ]
+    },
+    {
+      "phrase": "긴급 요청",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an urgent request"
+      ]
+    },
+    {
+      "phrase": "요청을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make[file] a request"
+      ]
+    },
+    {
+      "phrase": "도움을 요청하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask sb for help",
+        "ask for sb's help",
+        "turn[look] to sb for help"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "request",
+      "frequency": 2
+    },
+    {
+      "meaning": "call",
+      "frequency": 2
+    },
+    {
+      "meaning": "bidding",
+      "frequency": 1
+    },
+    {
+      "meaning": "requisition",
+      "frequency": 0
+    },
+    {
+      "meaning": "NNTP",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다른 거 몬베베 요청 없었어? Is there another request? 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "Is there another request?"
+    },
+    {
+      "korean": "우리 미리 우즈에게 요청을 드렸죠? We asked you ahead of time, right? 듣기 View video WOODZ (조승연) : [full] WOODZ 1ST MINI ALBUM [EQUAL] SHOWCASE",
+      "english": "We asked you ahead of time, right?"
+    },
+    {
+      "korean": "\"지효, 미나에게 솔로 V LIVE를 해달라고 요청할 수 있습니까?\" \"JIHYO, can you tell MINA that I want her solo V LIVE\"? 듣기 View video TWICE : 입사 15주년🎂",
+      "english": "\"JIHYO, can you tell MINA that I want her solo V LIVE\"?"
+    },
+    {
+      "korean": "[앵콜 요청] 워우! [Requests an encore] Wow! 듣기 View video NU'EST : L.O.Λ.E STORY EP.21 뉴이스트의 진실 혹은 거짓 (Truth Or Dare)",
+      "english": "[Requests an encore] Wow!"
+    },
+    {
+      "korean": "[도움 요청] 형 이거 묶을 줄 알아요? [Asking for help] Do you know how to tie this? 듣기 View video Dispatch : [ⓓxV] \"고오급 TMI 티키타카\" (한결, 도현 : H&D)",
+      "english": "[Asking for help] Do you know how to tie this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the solicitation of money for election funds 발음듣기 선거 자금을 위한 금전 요청 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the solicitation of money for election funds 발음"
+    },
+    {
+      "korean": "Only genuine refugees can apply for asylum. 발음듣기 진짜 난민인 사람들만이 망명을 요청할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Only genuine refugees can apply for asylum. 발음"
+    },
+    {
+      "korean": "her obstinate refusal to comply with their request 발음듣기 그들의 요청에 응하지 않으려는 그녀의 고집 센 거부 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "her obstinate refusal to comply with their request 발음"
+    },
+    {
+      "korean": "We were overwhelmed by requests for information. 발음듣기 우리는 정보 요청들이 밀려와서 어쩔 줄을 몰랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were overwhelmed by requests for information. 발음"
+    },
+    {
+      "korean": "Historians and critics are solicited for their opinions. 발음듣기 역사학자들과 비평가들이 의견(을 내달라는) 요청을 받고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Historians and critics are solicited for their opinions. 발음"
+    }
+  ]
+}

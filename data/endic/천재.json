@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "천재",
+      "hanja": " (天才)",
+      "example": {},
+      "meanings": [
+        "(사람) genius; (특히 어린아이) prodigy; (귀재) wizard, (informal) whiz"
+      ]
+    },
+    {
+      "phrase": "천재",
+      "hanja": " (天災)",
+      "example": {},
+      "meanings": [
+        "Noun natural disaster"
+      ]
+    },
+    {
+      "phrase": "발명의 천재",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an inventive genius"
+      ]
+    },
+    {
+      "phrase": "천재 화가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a highly-gifted artist",
+        "a born artist",
+        "an artistic genius"
+      ]
+    },
+    {
+      "phrase": "숨은 천재",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a hidden genius"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "genius",
+      "frequency": 1
+    },
+    {
+      "meaning": "natural disaster",
+      "frequency": 0
+    },
+    {
+      "meaning": "natural disasters",
+      "frequency": 0
+    },
+    {
+      "meaning": "mental giant",
+      "frequency": 0
+    },
+    {
+      "meaning": "a man of genius",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "천재. I'm a genius. 듣기 View video DIA : [DIA] HAPPY CHAEYEON DAY with AID",
+      "english": "I'm a genius."
+    },
+    {
+      "korean": "5분, 10분 하니까 15분 남았대, 천잰가? I said 5, 10 minutes and it was 15 minutes. Clever, huh? 듣기 View video NCT : 🐭🐬잠깐",
+      "english": "I said 5, 10 minutes and it was 15 minutes. Clever, huh?"
+    },
+    {
+      "korean": "그러네? 천재다 - 처음에 브이로그 이렇게 하는 건 어떻게 했어? It does. Genius. - How did you to the first part? 듣기 View video IZ*ONE : 🐱🐹🐿🦋🍞🐰",
+      "english": "It does. Genius. - How did you to the first part?"
+    },
+    {
+      "korean": "얼굴 천재! 얼굴 천재! Face genius! Face genius! 듣기 View video OSEN : VICTON 빅톤, 신조어 마구 탄생시키는 고요속의 외침(ft.꿀잼)#스타로드 05",
+      "english": "Face genius! Face genius!"
+    },
+    {
+      "korean": "여러분! 천재! You guys are genius! 듣기 View video NCT : 안녕하세요 시즈니!! 제노에요진짜 잠깐 하려고 하는데.. 제노가 보고싶으면 들어오세요!! 이제 시작합니다",
+      "english": "You guys are genius!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "natural disasters 발음듣기 천재 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "natural disasters 발음"
+    },
+    {
+      "korean": "Your idea was a stroke of genius. 발음듣기 당신의 아이디어는 천재적인 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Your idea was a stroke of genius. 발음"
+    },
+    {
+      "korean": "She was extolled as a genius. 발음듣기 그녀는 천재라고 격찬을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was extolled as a genius. 발음"
+    },
+    {
+      "korean": "the creative genius of Greek epic 발음듣기 독창적인 그리스 서사시의 천재 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the creative genius of Greek epic 발음"
+    },
+    {
+      "korean": "Where do you draw the line between genius and madness? 발음듣기 천재성과 광기가 구별되는 지점은 어디인가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Where do you draw the line between genius and madness? 발음"
+    }
+  ]
+}

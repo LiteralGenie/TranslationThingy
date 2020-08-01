@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "섞다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(혼합하다) mix (sth and/with sth), blend (sth and/with sth)",
+        "(말·감정 등을)",
+        "(패 등을 뒤섞다) (카드 등의 패를) shuffle mix (up)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mixer",
+      "frequency": 0
+    },
+    {
+      "meaning": "multitrack",
+      "frequency": 0
+    },
+    {
+      "meaning": "amalgamator",
+      "frequency": 0
+    },
+    {
+      "meaning": "premixer",
+      "frequency": 0
+    },
+    {
+      "meaning": "deflocculant",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "음식 섞는 걸 별로 안 좋아해서 - 왜 그래요? I don't like mixing different foods. - Why is that? 듣기 View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "I don't like mixing different foods. - Why is that?"
+    },
+    {
+      "korean": "이거 섞는 거야? Do we mix it? 듣기 View video TWICE : TWICE UNIV. 패션동아리 동아리방",
+      "english": "Do we mix it?"
+    },
+    {
+      "korean": "[쉣킷쉣킷] 이렇게 섞는 거겠지? [Shaking it] I guess I have to shake it. 듣기 View video AB6IX : AB6IX (에이비식스) SPECIAL CLIP - 참새의 하루",
+      "english": "[Shaking it] I guess I have to shake it."
+    },
+    {
+      "korean": "근데 물은 왜 해? 섞는 거야? But why do you do it to water? You're supposed to mix it? 듣기 View video AB6IX : AB6IX 화이트데이",
+      "english": "But why do you do it to water? You're supposed to mix it?"
+    },
+    {
+      "korean": "[냄비에 섞는 아이돌도 최초...] 이걸 이렇게 돌리면 되지 않을까? [He's the first singer who mixed it in a pot] May I turn it round and round? 듣기 View video V PICK! : [AB6IX] 웅금술사와 함께라면 야 달고나.. 너두 거름 될 수 있어..🔮🍩🌱 (Woong making Dalgona coffee&Dalgona)",
+      "english": "[He's the first singer who mixed it in a pot] May I turn it round and round?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Card washing isn't a difficult technique for beginners. 발음듣기 카드 한 벌을 흩어서 섞는 기술은 초보자가 하기에도 어렵지 않아. 국제영어대학원대학교 신어사전",
+      "english": "Card washing isn't a difficult technique for beginners. 발음"
+    },
+    {
+      "korean": "I saw the man mix the date rape pill into the drink 발음듣기 나는 그 남자가 음료수에 데이트 강간 약물을 섞는 것을 봤어요. 국제영어대학원대학교 신어사전",
+      "english": "I saw the man mix the date rape pill into the drink 발음"
+    },
+    {
+      "korean": "a food mixer 발음듣기 (밀가루 등 여러 재료를 섞는) 음식 혼합기[반죽 기구] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a food mixer 발음"
+    },
+    {
+      "korean": "Mixing colors is fun. 발음듣기 색을 섞는 것은 재미있다. YBM All in All English-Korean Dictionary",
+      "english": "Mixing colors is fun. 발음"
+    },
+    {
+      "korean": "Don’t mix different types of batteries if you can help it. 발음듣기 가능하다면 다른 종류의 배터리들과 섞는 일은 하지 마십시오. YBM All in All English-Korean Dictionary",
+      "english": "Don’t mix different types of batteries if you can help it. 발음"
+    }
+  ]
+}

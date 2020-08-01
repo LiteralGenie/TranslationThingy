@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "동시",
+      "hanja": " (同時―)",
+      "example": {},
+      "meanings": [
+        "(같은 시기) at the same time, at once, simultaneously, (formal) concurrently",
+        "(어떤 사실을 겸함) as well as, at the same time, at once"
+      ]
+    },
+    {
+      "phrase": "동시",
+      "hanja": " (同時多發的)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "동시",
+      "hanja": " (童詩)",
+      "example": {},
+      "meanings": [
+        "children's poem[verse]"
+      ]
+    },
+    {
+      "phrase": "동시(성)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 simultaneity"
+      ]
+    },
+    {
+      "phrase": "동시에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at the same time",
+        "simultaneously",
+        "at a time"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "simultaneity",
+      "frequency": 0
+    },
+    {
+      "meaning": "instantaneousness",
+      "frequency": 0
+    },
+    {
+      "meaning": "Children's poetry",
+      "frequency": 0
+    },
+    {
+      "meaning": "simultaneous",
+      "frequency": 3
+    },
+    {
+      "meaning": "synchronize",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "동시에 - 또 내가 이겼다! At the same time. - I won again! 듣기 View video OSEN : Stray Kids 스트레이키즈, 재미로 보는 2020 신년 운세 #스타로드 13",
+      "english": "At the same time. - I won again!"
+    },
+    {
+      "korean": "[시작과 동시에 1초 컷 휴닝 패] 야! [In 1 second] [HUENING lost] Hey! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[In 1 second] [HUENING lost] Hey!"
+    },
+    {
+      "korean": "해볼까요? - 그렇죠 - 동시에 얘기하는 걸로? Shall we? - Okay. - At the same time? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "Shall we? - Okay. - At the same time?"
+    },
+    {
+      "korean": "가능합니다 - 25만 명이 동시 시청을 하고 있다고요? It is. - So, 250,000 people are watching now? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "It is. - So, 250,000 people are watching now?"
+    },
+    {
+      "korean": "볼륨과 컬링을 동시에 잡을 수 있는 마스카라예요! It gives eyelashes a good volume and curling, too! 듣기 View video SmileJ : 발렌타인데이 사랑스런 러블리 메이크업 튜토리얼💕(콜로썰 워터프루프 마스카라 소개)",
+      "english": "It gives eyelashes a good volume and curling, too!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There were several simultaneous attacks by the rebels. 듣기 Add to Wordbook 반군들로부터 몇 건의 동시 공격이 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There were several simultaneous attacks by the rebels. Add to Wordbook"
+    },
+    {
+      "korean": "The sound track did not synchronize with the action. 듣기 Add to Wordbook (영화의) 사운드 트랙이 동작과 동시에 이뤄지지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sound track did not synchronize with the action. Add to Wordbook"
+    },
+    {
+      "korean": "a horror double bill 듣기 Add to Wordbook 공포 영화 두 편 동시 상영 프로그램 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a horror double bill Add to Wordbook"
+    },
+    {
+      "korean": "He was imprisoned for two concurrent terms of 30 months and 18 months. 듣기 Add to Wordbook 그는 30개월과 18개월의 두 형기를 동시에 복역하도록 처해졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was imprisoned for two concurrent terms of 30 months and 18 months. Add to Wordbook"
+    },
+    {
+      "korean": "They both spoke together. 듣기 Add to Wordbook 그들이 둘 다 동시에 말했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They both spoke together. Add to Wordbook"
+    }
+  ]
+}

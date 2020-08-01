@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "사이즈",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "size, measurement"
+      ]
+    },
+    {
+      "phrase": "side",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (어떤 것의 중심을 기준으로 한 좌우 절반 중 한) 쪽[측]",
+        "Noun (위치지역을 나타내어 좌우 어느 한) 쪽[편]",
+        "Noun (아래위나 바닥이 아닌) 옆(면), 측면"
+      ]
+    },
+    {
+      "phrase": "size",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (사람사물의) 크기",
+        "Noun (양이나 정도가 상당함을 나타내는) 크기[규모]",
+        "Verb 크기[치수]를 표시[부여]하다"
+      ]
+    },
+    {
+      "phrase": "size",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [U] 크기; 치수, (형(型)의) 대소; [C] (모자·장갑 등의) 사이즈, 번수, 문수, (종이 등의) 판",
+        "Noun [폐어] 정량, 정액; (Cambridge 대학 식당에서의 음식물의) 배급 정량",
+        "Transitive verb 어떤 치수[크기]로 만들다"
+      ]
+    },
+    {
+      "phrase": "size",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 사이즈, 도사(陶砂) ((아교에 명반을 탄 풀; 종이에 글씨가 번지지 않게 함)); 옷감용 풀 ((주로 녹말))",
+        "Noun 점성 ((점토의))",
+        "Transitive verb size를 칠하다"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "size",
+      "frequency": 2
+    },
+    {
+      "meaning": "size 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "size 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "Size",
+      "frequency": 0
+    },
+    {
+      "meaning": "broadsheet",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "발 사이즈 몇이냐고요? \"What's your foot size?\" 듣기 View video ITZY : [ #채령 ] 령채의 목요일💕",
+      "english": "\"What's your foot size?\""
+    },
+    {
+      "korean": "제 키에 맞는 사이즈랄까? Should I say that it's a size that suits my height? 듣기 View video 기은세 (Ki EunSe) : 기은세) 기은세의 Kinstyle, HAGO",
+      "english": "Should I say that it's a size that suits my height?"
+    },
+    {
+      "korean": "만두 사이즈가... Wow, the size.. 듣기 View video MONSTA X : 켠셰프의 쿸쿸 with 주허니 #8",
+      "english": "Wow, the size.."
+    },
+    {
+      "korean": "내 옷 사이즈? My size for clothes? 듣기 View video NU'EST : [NU’EST] 28 ㅎㅎㅎ",
+      "english": "My size for clothes?"
+    },
+    {
+      "korean": "사이즈가 맞나? Is there enough space? 듣기 View video NCT : 태용시~~💚💚💚",
+      "english": "Is there enough space?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What’s your shoe size? 발음듣기 신발 사이즈[치수]가 어떻게 되세요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What’s your shoe size? 발음"
+    },
+    {
+      "korean": "She takes (a) size 5 in shoes. 발음듣기 그녀가 신발은 5사이즈를 신는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She takes (a) size 5 in shoes. 발음"
+    },
+    {
+      "korean": "Do you have these shoes in (a) size 5? 발음듣기 이 신발로 5사이즈짜리 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you have these shoes in (a) size 5? 발음"
+    },
+    {
+      "korean": "Larger sizes give the best value for money. 발음듣기 사이즈가 큰 것이 가격 대비 가치가 가장 낫다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Larger sizes give the best value for money. 발음"
+    },
+    {
+      "korean": "TV ads encourage kids to supersize. 발음듣기 TV 광고들이 아이들을 특대 사이즈로[비만해지도록] 만들고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "TV ads encourage kids to supersize. 발음"
+    }
+  ]
+}

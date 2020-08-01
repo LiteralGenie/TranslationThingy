@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "조력",
+      "hanja": " (助力)",
+      "example": {},
+      "meanings": [
+        "help, aid, assistance, support"
+      ]
+    },
+    {
+      "phrase": "조력",
+      "hanja": " (潮力)",
+      "example": {},
+      "meanings": [
+        "(조수 간만의 차이로 생기는 에너지) tidal energy, tidal power"
+      ]
+    },
+    {
+      "phrase": "조력발전",
+      "hanja": " (潮力發電)",
+      "example": {},
+      "meanings": [
+        "tidal power generation"
+      ]
+    },
+    {
+      "phrase": "친구의 조력을 바라다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask for a friend´s help",
+        "turn to a friend for aid[help]"
+      ]
+    },
+    {
+      "phrase": "당신의 조력에 의하여",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "with[by] your kind assistance"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "leg up",
+      "frequency": 0
+    },
+    {
+      "meaning": "hand's turn",
+      "frequency": 0
+    },
+    {
+      "meaning": "green sources",
+      "frequency": 0
+    },
+    {
+      "meaning": "tidal power",
+      "frequency": 0
+    },
+    {
+      "meaning": "tidal power generation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'영화 말고 영감을 주거나 조력이 되는 존재가 있으세요?' \"Is there something besides movies that inspires you or helps you?\" 듣기 View video Hwang Chi Yeul : #밤황치열시 #part.3 #DJ황치열",
+      "english": "\"Is there something besides movies that inspires you or helps you?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Our U.S. division has been assisting companies like you expand their businesses into Asian markets since 2003. 듣기 Add to Wordbook 저희 미국 지사는 2003년부터 귀사와 같은 기업들이 아시아 시장에 진출하는 데 조력해 오고 있습니다. DARAKWON",
+      "english": "Our U.S. division has been assisting companies like you expand their businesses into Asian markets since 2003. Add to Wordbook"
+    },
+    {
+      "korean": "I owe my success to his help. 듣기 Add to Wordbook 내 성공은 그의 조력에 힘입은 바가 크다 Dong-a's Prime English-Korean Dictionary",
+      "english": "I owe my success to his help. Add to Wordbook"
+    },
+    {
+      "korean": "I do not need assistance from outside. 듣기 Add to Wordbook 외부의 조력은 필요하지 않다 Dong-a's Prime English-Korean Dictionary",
+      "english": "I do not need assistance from outside. Add to Wordbook"
+    },
+    {
+      "korean": "I had the fortune to obtain his service. 듣기 Add to Wordbook 다행히 그의 조력을 얻을 수 있었다. Dong-a's Prime English-Korean Dictionary",
+      "english": "I had the fortune to obtain his service. Add to Wordbook"
+    },
+    {
+      "korean": "The tidal turbines create no pollution, requires no fuel, and are inexpensive to maintain. 듣기 Add to Wordbook 조력 터빈은 어떤 오염도 만들어 내지 않고, 연료를 필요로 하지도 않으며 유지보수도 저렴하다. Neungyule",
+      "english": "The tidal turbines create no pollution, requires no fuel, and are inexpensive to maintain. Add to Wordbook"
+    }
+  ]
+}

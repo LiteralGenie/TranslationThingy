@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "먹을 수 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be edible",
+        "be eatable",
+        "be good to eat"
+      ]
+    },
+    {
+      "phrase": "양이 많아서 도저히 다 먹을 수 없었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "식후의 표현 The portions were so big I couldn't eat it all.",
+        "식후의 표현 The portions were so large I couldn't finish it all."
+      ]
+    },
+    {
+      "phrase": "더는 먹을 수 없습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "식후의 표현 I can't eat any more.",
+        "식후의 표현 I can't eat another bite."
+      ]
+    },
+    {
+      "phrase": "이건 먹을 수 없어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "레스토랑 SOS I can't eat this."
+      ]
+    },
+    {
+      "phrase": "지금 저녁메뉴를 먹을 수 있습니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "주문하기 Can I eat dinner now?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stomach",
+      "frequency": 3
+    },
+    {
+      "meaning": "edible",
+      "frequency": 3
+    },
+    {
+      "meaning": "comestible",
+      "frequency": 0
+    },
+    {
+      "meaning": "inedible",
+      "frequency": 0
+    },
+    {
+      "meaning": "eatable",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아~ 이거 먹을 수 있어~ Oh. You can eat it. 듣기 View video TWICE : 트와이스 복자매 나모의 “도전! ASMR” EP.01",
+      "english": "Oh. You can eat it."
+    },
+    {
+      "korean": "최대로 몇 인분 먹을 수 있을까? How many servings do you think we can eat? 듣기 View video Stray Kids : We love Felix and Phoenix❤",
+      "english": "How many servings do you think we can eat?"
+    },
+    {
+      "korean": "아 좀 맛있게 먹을 수 있는 음악 없나? Is there any music while eating chicken? 듣기 View video VICTON : 앨리스 안녕! 보고싶다 ❤️",
+      "english": "Is there any music while eating chicken?"
+    },
+    {
+      "korean": "근데 그렇게 먹으면 다 먹을 수 있어요? Can you finish it if you eat like that? 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "Can you finish it if you eat like that?"
+    },
+    {
+      "korean": "맛있는 거? - 네, 좀 가격 있는 음식을 먹을 수 있는 거예요? Something delicious? - Something pricey? 듣기 View video ATEEZ : 티니야 맏즈 왔다🙋‍♂️",
+      "english": "Something delicious? - Something pricey?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You can still eat breakfast when you are slimming. 듣기 Add to Wordbook 살을 빼려고 할 때에라도 아침은 먹을 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can still eat breakfast when you are slimming. Add to Wordbook"
+    },
+    {
+      "korean": "Hot and cold food is available in the cafeteria. 듣기 Add to Wordbook 자율 식당에서는 따뜻한 음식과 찬 음식을 먹을 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hot and cold food is available in the cafeteria. Add to Wordbook"
+    },
+    {
+      "korean": "Can you manage another piece of cake? 듣기 Add to Wordbook 케이크 하나 더 먹을 수 있겠니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can you manage another piece of cake? Add to Wordbook"
+    },
+    {
+      "korean": "I was too nervous to eat. 듣기 Add to Wordbook 나는 너무 불안해서 밥을 먹을 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was too nervous to eat. Add to Wordbook"
+    },
+    {
+      "korean": "I couldn’t eat another thing. 듣기 Add to Wordbook 나는 (조금도) 더 먹을 수가 없을 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I couldn’t eat another thing. Add to Wordbook"
+    }
+  ]
+}

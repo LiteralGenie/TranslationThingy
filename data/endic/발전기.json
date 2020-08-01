@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "발전기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(electric) generator, dynamo"
+      ]
+    },
+    {
+      "phrase": "발전기",
+      "hanja": " (發展期)",
+      "example": {},
+      "meanings": [
+        "Noun developing period"
+      ]
+    },
+    {
+      "phrase": "교류[직류] 발전기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an alternating[a direct] current dynamo"
+      ]
+    },
+    {
+      "phrase": "원자력 발전기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a nuclear generator"
+      ]
+    },
+    {
+      "phrase": "터빈 발전기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a turbine generator"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "generator",
+      "frequency": 3
+    },
+    {
+      "meaning": "dynamo",
+      "frequency": 3
+    },
+    {
+      "meaning": "an electric generator",
+      "frequency": 0
+    },
+    {
+      "meaning": "generatrix",
+      "frequency": 0
+    },
+    {
+      "meaning": "electric generator",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "an electric generator 듣기 Add to Wordbook 발전기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an electric generator Add to Wordbook"
+    },
+    {
+      "korean": "an electrical machine 듣기 Add to Wordbook 발전기. Friendict Level English-Korean Dictionary",
+      "english": "an electrical machine Add to Wordbook"
+    },
+    {
+      "korean": "Emergency generators cut in. 듣기 Add to Wordbook 비상 발전기가 작동하기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Emergency generators cut in. Add to Wordbook"
+    },
+    {
+      "korean": "She’s a human dynamo. 듣기 Add to Wordbook 그녀는 인간 발전기 같은 사람이다[정력이 넘친다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s a human dynamo. Add to Wordbook"
+    },
+    {
+      "korean": "The factory’s emergency generators were used during the power cut. 듣기 Add to Wordbook 정전 중에는 공장의 비상 발전기를 썼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The factory’s emergency generators were used during the power cut. Add to Wordbook"
+    }
+  ]
+}

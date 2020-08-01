@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "방해",
+      "hanja": " (妨害)",
+      "example": {},
+      "meanings": [
+        "[명사] disturbance, interruption, obstruction, hindrance, [동사] disturb, (막다, 중단시키다) interrupt, interfere (with), obstruct, hinder, block, (전파를) jam"
+      ]
+    },
+    {
+      "phrase": "방해(를) 놓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cause a disturbance"
+      ]
+    },
+    {
+      "phrase": "방해가 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[stand, be] in the way",
+        "be a hindrance to",
+        "be a drag on"
+      ]
+    },
+    {
+      "phrase": "방해 공작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sabotage"
+      ]
+    },
+    {
+      "phrase": "생장을 방해하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "check[hinder, hamper] (the) growth"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hindrance",
+      "frequency": 3
+    },
+    {
+      "meaning": "block",
+      "frequency": 3
+    },
+    {
+      "meaning": "obstruction",
+      "frequency": 3
+    },
+    {
+      "meaning": "disturbance",
+      "frequency": 3
+    },
+    {
+      "meaning": "inhibition",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "비켜 방해하지 마! Don't stop me! 듣기 View video 컨스TV : 몽슈슈 글로벌하우스 E12. [사랑하면 결투하자!]",
+      "english": "Don't stop me!"
+    },
+    {
+      "korean": "방해하지 마라! Don't try to ruin it! 듣기 View video BTS : Run BTS! 2020 - EP.92",
+      "english": "Don't try to ruin it!"
+    },
+    {
+      "korean": "왜 이렇게 방해하는 거야! Why is it interfering? 듣기 View video CIX : 보고시퍼서😊",
+      "english": "Why is it interfering?"
+    },
+    {
+      "korean": "와이파이가 방해를 하네? The wi-fi is interfering. 듣기 View video CIX : 보고시퍼서😊",
+      "english": "The wi-fi is interfering."
+    },
+    {
+      "korean": "네트워크가 방해를 하네? The network is interfering. 듣기 View video CIX : 보고시퍼서😊",
+      "english": "The network is interfering."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "terrorists attempting to obstruct the peace process 듣기 Add to Wordbook 평화 진전 방해를 기도하는 테러범들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "terrorists attempting to obstruct the peace process Add to Wordbook"
+    },
+    {
+      "korean": "He was booed and heckled throughout his speech. 듣기 Add to Wordbook 그는 연설 내내 야유와 방해를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was booed and heckled throughout his speech. Add to Wordbook"
+    },
+    {
+      "korean": "Protesters failed to sabotage the peace talks. 듣기 Add to Wordbook 시위대들은 그 평화 회담을 방해하지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Protesters failed to sabotage the peace talks. Add to Wordbook"
+    },
+    {
+      "korean": "Woe betide anyone who gets in her way! 듣기 Add to Wordbook 그녀에게 방해가 되는 사람은 누구든 화를 당할지니라! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Woe betide anyone who gets in her way! Add to Wordbook"
+    },
+    {
+      "korean": "On form, the team was simply unstoppable. 듣기 Add to Wordbook 기량 면에서는 그 팀은 그저 아무것도 방해할 수 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "On form, the team was simply unstoppable. Add to Wordbook"
+    }
+  ]
+}

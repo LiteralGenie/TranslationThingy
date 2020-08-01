@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "내용",
+      "hanja": " (內容)",
+      "example": {},
+      "meanings": [
+        "content(s), substance"
+      ]
+    },
+    {
+      "phrase": "내용증명",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "certification of contents"
+      ]
+    },
+    {
+      "phrase": "책의 내용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the contents of a book"
+      ]
+    },
+    {
+      "phrase": "내용이 풍부한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "substantial",
+        "solid",
+        "rich in content"
+      ]
+    },
+    {
+      "phrase": "내용 증명 우편",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "contents-certified mail[post]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "material",
+      "frequency": 3
+    },
+    {
+      "meaning": "content 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "external[internal] application",
+      "frequency": 0
+    },
+    {
+      "meaning": "internal use",
+      "frequency": 0
+    },
+    {
+      "meaning": "croovadeer",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "잠깐만 - 내용들이... Hang on. - Contents... 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Hang on. - Contents..."
+    },
+    {
+      "korean": "꽃과 관련된 내용들 뭐... Something about flowers too. 듣기 View video WOODZ (조승연) : (진짜)조곤조곤",
+      "english": "Something about flowers too."
+    },
+    {
+      "korean": "뒤에 내용물이 보이더라고요? you can see things behind me. 듣기 View video V PICK! : [UP10TION] 방정리가 왜 필요하죠? 맑고 깨끗한 옝이가 있는데💛 (SUNYOUL showing his room)",
+      "english": "you can see things behind me."
+    },
+    {
+      "korean": "음악 좀 딥한 내용 아닌가요 음악? Music. Isn't it too deep? Music? 듣기 View video V COOKIE : [Full] KIM WOO SEOK X LieV - 김우석의 눕방라이브!",
+      "english": "Music. Isn't it too deep? Music?"
+    },
+    {
+      "korean": "[Q. 2R '자기소개서'에 어떤 내용을 담았는지?] [Q. What did you put into the song for 2R?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 18. 용인대 리퍼블릭 VS 고려대 테라 배틀에 심사위원 실화?!",
+      "english": "[Q. What did you put into the song for 2R?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Penalties are laid down in the statute. 듣기 Add to Wordbook 처벌 내용이 법규에 규정되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Penalties are laid down in the statute. Add to Wordbook"
+    },
+    {
+      "korean": "The contents of shipwrecks belong to the state. 듣기 Add to Wordbook 난파선의 내용물은 국가 소유이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The contents of shipwrecks belong to the state. Add to Wordbook"
+    },
+    {
+      "korean": "He quickly learned the ins and outs of the job. 듣기 Add to Wordbook 그는 그 일의 자세한 내용을 빨리 배웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He quickly learned the ins and outs of the job. Add to Wordbook"
+    },
+    {
+      "korean": "the prisoner’s repeated denials of the charges against him 듣기 Add to Wordbook 자신에게 부과된 기소 내용에 대한 그 죄수의 거듭된 부정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the prisoner’s repeated denials of the charges against him Add to Wordbook"
+    },
+    {
+      "korean": "Clerks transcribe everything that is said in court. 듣기 Add to Wordbook 서기들이 법정에서 진술되는 모든 내용을 기록한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Clerks transcribe everything that is said in court. Add to Wordbook"
+    }
+  ]
+}

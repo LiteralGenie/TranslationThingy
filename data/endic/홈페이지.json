@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "홈페이지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "website, home page"
+      ]
+    },
+    {
+      "phrase": "홈페이지를 운영하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "run a website"
+      ]
+    },
+    {
+      "phrase": "홈페이지에 글을 남기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "write something on a website[home page]"
+      ]
+    },
+    {
+      "phrase": "홈페이지를 폐쇄하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "close[shut down] a website"
+      ]
+    },
+    {
+      "phrase": "인터넷 홈페이지를 만들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make a website online"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "home page",
+      "frequency": 0
+    },
+    {
+      "meaning": "homepage",
+      "frequency": 0
+    },
+    {
+      "meaning": "HP",
+      "frequency": 0
+    },
+    {
+      "meaning": "Webpage",
+      "frequency": 0
+    },
+    {
+      "meaning": "HP",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 노래가 나오면 싸이월드의 홈페이지... It reminds me of the old website, Cyworld. 듣기 View video WOODZ (조승연) : 조곤조곤",
+      "english": "It reminds me of the old website, Cyworld."
+    },
+    {
+      "korean": "[매니저] 그래서 홈페이지에 올리면 확인하시는 거죠? [Manager] So if it gets posted on the homepage, you'll check it? 듣기 View video ONG SEONG WU : ONG SEONG WU 옹성우 - [diaONGlog] 더스프링홈 팬사인회 in 태국 비하인드",
+      "english": "[Manager] So if it gets posted on the homepage, you'll check it?"
+    },
+    {
+      "korean": "저 레시피 홈페이지 블로그 이런데서 봤어요. I saw it on the homepage blog... 듣기 View video DAY6 : 사탕빌더 밥성진🍭",
+      "english": "I saw it on the homepage blog..."
+    },
+    {
+      "korean": "네 스타쉽 공식 온라인... 공식 홈페이지! Yes, on Starship's official online... On the official site! 듣기 View video 우주소녀(WJSN) : [은서] 오늘의 이야기 EP.04",
+      "english": "Yes, on Starship's official online... On the official site!"
+    },
+    {
+      "korean": "['프로듀스 101 시즌 2' 온라인 투표] [Mnet 프로듀스 공식 홈페이지와] 불만있어? [\"PRODUCE 101\" season 2 online voting] [You can vote on Mnet official website] Any complaints? 듣기 View video Mnet : 프로듀스101 시즌2 9화",
+      "english": "[\"PRODUCE 101\" season 2 online voting] [You can vote on Mnet official website] Any complaints?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The program can model a typical home page for you. 듣기 Add to Wordbook 그 프로그램으로 당신 특유의 홈페이지 견본을 만들 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The program can model a typical home page for you. Add to Wordbook"
+    },
+    {
+      "korean": "Additional information is available from our website. 듣기 Add to Wordbook 추가 정보는 당사 홈페이지에 있습니다. DARAKWON",
+      "english": "Additional information is available from our website. Add to Wordbook"
+    },
+    {
+      "korean": "As indicated on your website, we expect delivery within two weeks. 듣기 Add to Wordbook 귀사 홈페이지에 나와 있는 것처럼 2주 안에 배송이 되도록 기대합니다. DARAKWON",
+      "english": "As indicated on your website, we expect delivery within two weeks. Add to Wordbook"
+    },
+    {
+      "korean": "The homepage is accessible only through dark social. 듣기 Add to Wordbook 그 홈페이지는 다크 소셜로만 접근할 수 있다. 국제영어대학원대학교 신어사전",
+      "english": "The homepage is accessible only through dark social. Add to Wordbook"
+    },
+    {
+      "korean": "Then I went to your website to determine what positions you were actively recruiting college graduates for. 듣기 Add to Wordbook 그래서 귀사의 홈페이지를 통해서 신졸자에게 열린 포지션을 알게 되었습니다. DARAKWON",
+      "english": "Then I went to your website to determine what positions you were actively recruiting college graduates for. Add to Wordbook"
+    }
+  ]
+}
