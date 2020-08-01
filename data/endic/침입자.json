@@ -1,0 +1,107 @@
+{
+  "phrases": [
+    {
+      "phrase": "침입자",
+      "hanja": " (侵入者)",
+      "example": {},
+      "meanings": [
+        "intruder invader, trespasser,"
+      ]
+    },
+    {
+      "phrase": "불법 침입자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an intruder",
+        "a trespasser"
+      ]
+    },
+    {
+      "phrase": "주거침입자",
+      "hanja": " (住居侵入者)",
+      "example": {},
+      "meanings": [
+        "a housebreaker, a trespasser."
+      ]
+    },
+    {
+      "phrase": "침입자 감지 및 경고를 위한 LED - Tiren",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "LED tile to indicate a Break-in - Tiren"
+      ]
+    },
+    {
+      "phrase": "침입자 유인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "intrusion induction"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cracker",
+      "frequency": 1
+    },
+    {
+      "meaning": "raider",
+      "frequency": 0
+    },
+    {
+      "meaning": "interloper",
+      "frequency": 0
+    },
+    {
+      "meaning": "trespasser",
+      "frequency": 0
+    },
+    {
+      "meaning": "penetrant",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[주거 침입자들] 주거 침입자들이야. They're trespassing on my property. 듣기 View video IU : [IU TV] '꽃갈피 둘(Kkot-Galpi #2)' Album Making #1",
+      "english": "They're trespassing on my property."
+    },
+    {
+      "korean": "내방에 갑자기 침입자가 들어왔어요? Where is there an intruder in my room? 듣기 View video iKON : INMYROOM 미아안 ㅜㅜ",
+      "english": "Where is there an intruder in my room?"
+    },
+    {
+      "korean": "[수상해도 너무 수상한 침입자! 누구냐 넌?] 아무도 없는 건가? [He's so suspicious! Who are you?] Nobody is here? 듣기 View video THE BOYZ : [Full] 더 보이즈 '꽃미남 분식집' 1화 '우리는 영업중' The BOYZ \"Flower Snack\" ep.1 \"We're OPEN\"",
+      "english": "[He's so suspicious! Who are you?] Nobody is here?"
+    },
+    {
+      "korean": "[일꾼 아님, 주방 침입자 1명 또 추가] 언니들 뭐 해요? [Another intruder in the kitchen] What are you all doing? 듣기 View video fromis_9 : [THE100_fromis_9] 프롬이들의 시끌벅적한 아침! (feat.노장금의 등장..!) Ep. 06",
+      "english": "[Another intruder in the kitchen] What are you all doing?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He flattened the intruder with a single punch. 발음듣기 그는 침입자를 한 방에 때려눕혔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He flattened the intruder with a single punch. 발음"
+    },
+    {
+      "korean": "He tackled a masked intruder at his home. 발음듣기 그는 자기 집에서 복면을 쓴 침입자와 맞붙었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He tackled a masked intruder at his home. 발음"
+    },
+    {
+      "korean": "The raiders snatched $100 from the cash register. 발음듣기 그 침입자들은 금전 등록기에서 100달러를 훔쳐 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The raiders snatched $100 from the cash register. 발음"
+    },
+    {
+      "korean": "The notice read: ‘Trespassers will be prosecuted’. 발음듣기 이런 안내문이 붙어 있었다. “무단 침입자는 고소함.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The notice read: ‘Trespassers will be prosecuted’. 발음"
+    },
+    {
+      "korean": "Mating blackbirds will defend their territory against intruders. 발음듣기 짝짓기 기간인 지빠귀는 침입자에 대항해서 자기 영역을 지키려 든다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mating blackbirds will defend their territory against intruders. 발음"
+    }
+  ]
+}

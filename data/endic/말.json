@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(언어) word, language, speech, (literary) tongue",
+        "(이야기) talk",
+        "expression term,, (단어) word, (구) phrase (단어, 구)"
+      ]
+    },
+    {
+      "phrase": "말",
+      "hanja": " (末)",
+      "example": {},
+      "meanings": [
+        "(마지막) end (of), close (of)",
+        "(야구) bottom"
+      ]
+    },
+    {
+      "phrase": "말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동물) horse"
+      ]
+    },
+    {
+      "phrase": "말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(분량을 재는 단위) mal (≒18 liters), Korean unit of measure"
+      ]
+    },
+    {
+      "phrase": "말",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun mal"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "word",
+      "frequency": 3
+    },
+    {
+      "meaning": "flow",
+      "frequency": 3
+    },
+    {
+      "meaning": "line",
+      "frequency": 3
+    },
+    {
+      "meaning": "mount",
+      "frequency": 3
+    },
+    {
+      "meaning": "talk",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "말 잘 들어~",
+      "english": "You listen well."
+    },
+    {
+      "korean": "이런 말은 그냥...",
+      "english": "What I say..."
+    },
+    {
+      "korean": "똑바로 말 안 해?",
+      "english": "You're not going to say?"
+    },
+    {
+      "korean": "떨어지지 말걸...",
+      "english": "I shouldn't have left them."
+    },
+    {
+      "korean": "[도대체 무슨 말이길래?] 네!",
+      "english": "[What is it?] Yes!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그가 자기 말에 올라타더니 달려갔다.",
+      "english": "He mounted his horse and rode off."
+    },
+    {
+      "korean": "그녀는 너무 답답해서 말이 안 나왔다.",
+      "english": "She was too pent-up to speak."
+    },
+    {
+      "korean": "그는 내게 말도 없이 급히 지나갔다.",
+      "english": "He hurried by without speaking to me."
+    },
+    {
+      "korean": "그 말이 몸을 들어 뒷다리로 섰다.",
+      "english": "The horse reared up on its hind legs."
+    },
+    {
+      "korean": "회의 전에 예의상 주고받는 말들",
+      "english": "an exchange of courtesies before the meeting"
+    }
+  ]
+}

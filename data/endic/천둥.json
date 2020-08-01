@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "천둥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thunder"
+      ]
+    },
+    {
+      "phrase": "천둥 치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thunder",
+        "roll",
+        "grumble(멀리서)"
+      ]
+    },
+    {
+      "phrase": "천둥소리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "clap[crack, roll, crash] of thunder"
+      ]
+    },
+    {
+      "phrase": "천둥 소리 같은 굉음이 났다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "There was a thunderous roar."
+      ]
+    },
+    {
+      "phrase": "그 경보음은 천둥소리와 같다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The alarm sounds like thunder."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thunder",
+      "frequency": 3
+    },
+    {
+      "meaning": "thundering",
+      "frequency": 0
+    },
+    {
+      "meaning": "a peal of thunder",
+      "frequency": 0
+    },
+    {
+      "meaning": "thunderclap",
+      "frequency": 0
+    },
+    {
+      "meaning": "thundery",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 잠깐만... 천둥 쳐 천둥... 아 잠깐만... Oh wait... It's coming. 듣기 View video 콬TV (WHYNOT) : 키스 KISSㅣ저 썸남이랑 키스 각이에요..❤️ [리얼:타임:러브] EP1",
+      "english": "Oh wait... It's coming."
+    },
+    {
+      "korean": "'천둥벌거숭이' 재밌죠 여러분들? Isn't \"Daredevil\" fun? 듣기 View video V COOKIE : [Full] ZICO X Eating Show - 지코 X 같이 먹어요",
+      "english": "Isn't \"Daredevil\" fun?"
+    },
+    {
+      "korean": "[4. 천둥소리] 지금 천둥치고 그 소리랑... 알겠어요? [4. Thunder] and thunder. Got it? 듣기 View video V PICK! : [ONF] Q.모기, 자동차, 천둥 소리를 각각 표현해보세요 A.꼬르륵🍗 (J-US’s V after a late night snack)",
+      "english": "[4. Thunder] and thunder. Got it?"
+    },
+    {
+      "korean": "스테이크가 '천둥벌거숭이' 같아요? Steak reminds you \"Daredevil\"? 듣기 View video V COOKIE : [Full] ZICO X Eating Show - 지코 X 같이 먹어요",
+      "english": "Steak reminds you \"Daredevil\"?"
+    },
+    {
+      "korean": "여기 보시면 이 동물 탈들이 '천둥벌거숭이'에 나왔던... You can find that these animal masks also appeared in the \"Daredevil\" MV... 듣기 View video OSEN : ZICO 지코, 'Balloon' MV 코멘터리 #스타로드 04",
+      "english": "You can find that these animal masks also appeared in the \"Daredevil\" MV..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "thunder and lightning caused by electrical discharges 듣기 Add to Wordbook (전기) 방전에 의해 생기는 천둥과 번개 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "thunder and lightning caused by electrical discharges Add to Wordbook"
+    },
+    {
+      "korean": "The first distant crash of thunder shook the air. 듣기 Add to Wordbook 멀리서 들려오는 천둥의 첫 굉음이 대기를 흔들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The first distant crash of thunder shook the air. Add to Wordbook"
+    },
+    {
+      "korean": "the thunder of hooves 듣기 Add to Wordbook 천둥이 몰아치는 것 같은 말굽 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the thunder of hooves Add to Wordbook"
+    },
+    {
+      "korean": "a distant grumble of thunder 듣기 Add to Wordbook 멀리서 천둥이 우르릉거리는 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a distant grumble of thunder Add to Wordbook"
+    },
+    {
+      "korean": "the distant roll of thunder 듣기 Add to Wordbook 멀리서 천둥이 우르릉거리는 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the distant roll of thunder Add to Wordbook"
+    }
+  ]
+}

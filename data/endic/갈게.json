@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) go, come, get, (formal) proceed",
+        "(~하러 떠나다) go",
+        "(군대·학교 등을) join, enter, go (to)"
+      ]
+    },
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb become, turn (↔오다2)",
+        "Assistant adverb do something while doing something"
+      ]
+    },
+    {
+      "phrase": "지금 바로 갈게.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm leaving right now."
+      ]
+    },
+    {
+      "phrase": "들고 갈게요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "패스트푸드 점 To go."
+      ]
+    },
+    {
+      "phrase": "제가 그쪽으로 갈게요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "약속 I'll go over there.",
+        "약속 I'll head out in your direction."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Helice tridens tientsinensis",
+      "frequency": 0
+    },
+    {
+      "meaning": "have one's shoes partly resoled",
+      "frequency": 0
+    },
+    {
+      "meaning": "go",
+      "frequency": 3
+    },
+    {
+      "meaning": "travel",
+      "frequency": 3
+    },
+    {
+      "meaning": "take",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "갈게~ I'll go now! 듣기 View video VICTON : 잠깐만..🖤-@",
+      "english": "I'll go now!"
+    },
+    {
+      "korean": "갈게요! I got to go! 듣기 View video SF9 : 🍀🍀",
+      "english": "I got to go!"
+    },
+    {
+      "korean": "갈게요~ I will go! 듣기 View video SEVENTEEN : 🦦 Happy Dino Day 🦖",
+      "english": "I will go!"
+    },
+    {
+      "korean": "갈게 안녕~ I'm going to go. Bye! 듣기 View video VICTON : 병찬이의 먹방이랑 뿅 마이 백!🐥🐶👜💕",
+      "english": "I'm going to go. Bye!"
+    },
+    {
+      "korean": "나 집에 갈게 그냥! Let me go home! 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "Let me go home!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’ll be right with you. 듣기 Add to Wordbook 내가 즉시 네게 갈게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll be right with you. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll come and see you soon. 듣기 Add to Wordbook 곧 널 보러 갈게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll come and see you soon. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll be with you in a second. 듣기 Add to Wordbook 내가 곧 네게 갈게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll be with you in a second. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll be with you in a minute. There are a couple of things I have to do first. 듣기 Add to Wordbook 곧 네게 갈게. 먼저 해야 할 일이 두어 가지 있어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll be with you in a minute. There are a couple of things I have to do first. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll be with you in a minute, Jo. 듣기 Add to Wordbook 금방 (네게) 갈게, 조. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll be with you in a minute, Jo. Add to Wordbook"
+    }
+  ]
+}

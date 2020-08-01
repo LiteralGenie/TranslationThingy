@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) go, come, get, (formal) proceed",
+        "(~하러 떠나다) go",
+        "(군대·학교 등을) join, enter, go (to)"
+      ]
+    },
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb become, turn (↔오다2)",
+        "Assistant adverb do something while doing something"
+      ]
+    },
+    {
+      "phrase": "저와 함께 가시죠.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Let me walk with you."
+      ]
+    },
+    {
+      "phrase": "갈 데까지 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go as far as one can go",
+        "go as far as one can go"
+      ]
+    },
+    {
+      "phrase": "갈수록 태산",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Higher hills are ahead after climbing over hills, from smoke into smother"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "You first.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Where to?",
+      "frequency": 0
+    },
+    {
+      "meaning": "go",
+      "frequency": 2
+    },
+    {
+      "meaning": "take",
+      "frequency": 2
+    },
+    {
+      "meaning": "travel",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가시죠 - 다시 할게요 - 시민 여러분 몰아주기 하실래요? Here we go. - Let's do it again. - Citizens, shall we pick one to do this alone? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Here we go. - Let's do it again. - Citizens, shall we pick one to do this alone?"
+    },
+    {
+      "korean": "태형이! - 가시죠! V! - Let's go! 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "V! - Let's go!"
+    },
+    {
+      "korean": "어디 가시죠? Where are you going? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#574. 오마이갓세븐 (스페셜 DJ 갓세븐 JB&영재 with 갓세븐)",
+      "english": "Where are you going?"
+    },
+    {
+      "korean": "[하트] 가시죠! [Heart] Here we go! 듣기 View video BTS : Run BTS! 2020 - EP.97",
+      "english": "[Heart] Here we go!"
+    },
+    {
+      "korean": "가시죠 - 오늘 그냥... Let's go. - Today... 듣기 View video BTS : 오늘은 내가 진짜 김밥 요리사",
+      "english": "Let's go. - Today..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’m going your way—I’ll walk with you. 발음듣기 저도 (당신이 가려는 곳과) 같은 방향으로 갑니다. 저와 함께 가시죠. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m going your way—I’ll walk with you. 발음"
+    },
+    {
+      "korean": "Where to? The hotel? Or the airport? 발음듣기 어디로 가시죠? 호텔로요? 아니면 공항으로요? YBM All in All English-Korean Dictionary",
+      "english": "Where to? The hotel? Or the airport? 발음"
+    },
+    {
+      "korean": "A group of us from work are going out to dinner on Friday. You're more than welcome to join us. 발음듣기 우리 직장 동료들끼리 금요일 저녁에 회식을 하려는데, 함께 가시죠. YBM All in All English-Korean Dictionary",
+      "english": "A group of us from work are going out to dinner on Friday. You're more than welcome to join us. 발음"
+    },
+    {
+      "korean": "If you want to talk, go in the other room. 발음듣기 만약 말을 하고 싶다면 다른 방으로 가시죠. YBM All in All English-Korean Dictionary",
+      "english": "If you want to talk, go in the other room. 발음"
+    },
+    {
+      "korean": "Let's go into the other office and I'll show you the plans. 발음듣기 옆 사무실로 가시죠, 도면을 보여 드릴게요. YBM All in All English-Korean Dictionary",
+      "english": "Let's go into the other office and I'll show you the plans. 발음"
+    }
+  ]
+}

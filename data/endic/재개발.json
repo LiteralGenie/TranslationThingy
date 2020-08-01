@@ -1,0 +1,99 @@
+{
+  "phrases": [
+    {
+      "phrase": "재개발",
+      "hanja": " (再開發)",
+      "example": {},
+      "meanings": [
+        "[명사] redevelopment, [동사] redevelop"
+      ]
+    },
+    {
+      "phrase": "재개발 지역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a redevelopment area[zone]"
+      ]
+    },
+    {
+      "phrase": "도시 재개발 계획",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "urban redevelopment projects",
+        "the[a] massive urban renewal program"
+      ]
+    },
+    {
+      "phrase": "도시 재개발",
+      "hanja": " (都市再開發)",
+      "example": {},
+      "meanings": [
+        "urban redevelopment"
+      ]
+    },
+    {
+      "phrase": "도시 재개발 사업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "urban renewal enterprise"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "renewal",
+      "frequency": 3
+    },
+    {
+      "meaning": "redevelopment",
+      "frequency": 0
+    },
+    {
+      "meaning": "redevelop",
+      "frequency": 0
+    },
+    {
+      "meaning": "inner-city redevelopment",
+      "frequency": 0
+    },
+    {
+      "meaning": "plans to further redevelop Bristol's docklands",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "맞아요 여기 곧 재개발을 할 수도 있어요. That's right. They might redevelop this place soon. 듣기 View video V Beauty : [연선 Yeonsun] 더유닛 효선 아이돌에게 배워보는 걸크러쉬 메이크업 The Unit Hyosun Girl Crush Make-up",
+      "english": "That's right. They might redevelop this place soon."
+    },
+    {
+      "korean": "재개발 중인가? Are they renovating? 듣기 View video IDOL x IDOL : WANNA.B - 워너비 '너비가 너희의 흥을 깨워주겠다'",
+      "english": "Are they renovating?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "plans to further redevelop Bristol’s docklands 듣기 Add to Wordbook 브리스톨 항만 구역 재개발 추진 진행 계획 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "plans to further redevelop Bristol’s docklands Add to Wordbook"
+    },
+    {
+      "korean": "The city has plans to redevelop the site. 듣기 Add to Wordbook 그 시에서는 그 장소를 재개발할 계획을 갖고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The city has plans to redevelop the site. Add to Wordbook"
+    },
+    {
+      "korean": "The area has been redeveloped into apartments. 듣기 Add to Wordbook 그 일대는 재개발되어 아파트가 들어섰다 Neungyule",
+      "english": "The area has been redeveloped into apartments. Add to Wordbook"
+    },
+    {
+      "korean": "There is a boom in redevelopment nationwide. 듣기 Add to Wordbook 전국적으로 재개발붐이 일고 있다 Neungyule",
+      "english": "There is a boom in redevelopment nationwide. Add to Wordbook"
+    },
+    {
+      "korean": "They were protesting the redevelopment of the area. 듣기 Add to Wordbook 그들은 이 지역의 재개발에 반대하고 있었다. Neungyule",
+      "english": "They were protesting the redevelopment of the area. Add to Wordbook"
+    }
+  ]
+}

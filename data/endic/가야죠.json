@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) go, come, get, (formal) proceed",
+        "(~하러 떠나다) go",
+        "(군대·학교 등을) join, enter, go (to)"
+      ]
+    },
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb become, turn (↔오다2)",
+        "Assistant adverb do something while doing something"
+      ]
+    },
+    {
+      "phrase": "갈 데까지 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go as far as one can go",
+        "go as far as one can go"
+      ]
+    },
+    {
+      "phrase": "갈수록 태산",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Higher hills are ahead after climbing over hills, from smoke into smother"
+      ]
+    },
+    {
+      "phrase": "가는 날이 장날",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "One's visiting day is a market day"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "go",
+      "frequency": 2
+    },
+    {
+      "meaning": "take",
+      "frequency": 2
+    },
+    {
+      "meaning": "travel",
+      "frequency": 2
+    },
+    {
+      "meaning": "trot",
+      "frequency": 1
+    },
+    {
+      "meaning": "grinder",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "역시 빙고는 센터부터 가야죠? You have to start from the center for bingo, right? 듣기 View video V COOKIE : [Full] LEE JIN HYUK X Eating Show - 이진혁 X 같이 먹어요",
+      "english": "You have to start from the center for bingo, right?"
+    },
+    {
+      "korean": "빨리 타러 가야죠 그럼 모두 타러 들어가 볼까요? Let's go now. Shall we go to have fun? 듣기 View video TOMORROW X TOGETHER : TALK X TODAY : ZERO EP.3",
+      "english": "Let's go now. Shall we go to have fun?"
+    },
+    {
+      "korean": "[주춤] - 야, 우지야 - 아이 바로 가야죠 - 그게 뭐... [Hesitant] - Come on WOOZI. - You should just go. - What... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Hesitant] - Come on WOOZI. - You should just go. - What..."
+    },
+    {
+      "korean": "어 지금 저희가 어딜 가야죠? Where are we going right now? 듣기 View video STARSHIP : [STARSHIPZ] PRODUCE X 101 나노단위 비하인드",
+      "english": "Where are we going right now?"
+    },
+    {
+      "korean": "해야죠 배틀 한번 가야죠 - 저요? We should do a battle. - Me? 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "We should do a battle. - Me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Take the penguin to the City Zoo. 발음듣기 시립 동물원으로 데리고 가야죠. YBM All in All English-Korean Dictionary",
+      "english": "Take the penguin to the City Zoo. 발음"
+    },
+    {
+      "korean": "Oh, then definitely, let's fly. 발음듣기 이런, 그렇다면 당연히 비행기 타고 가야죠. YBM All in All English-Korean Dictionary",
+      "english": "Oh, then definitely, let's fly. 발음"
+    },
+    {
+      "korean": "Of course you will go to the hospital. 발음듣기 물론 병원으로 가야죠. TIMES CORE",
+      "english": "Of course you will go to the hospital. 발음"
+    },
+    {
+      "korean": "Well traditionally, if I want to get a loan I would go to my bank. 발음듣기 관습대로, 대출을 원하면 제 은행에 가야죠. Khan Academy",
+      "english": "Well traditionally, if I want to get a loan I would go to my bank. 발음"
+    },
+    {
+      "korean": "the ebb and flow of the seasons 발음듣기 오고 가는 계절의 변화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ebb and flow of the seasons 발음"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "방비",
+      "hanja": " (房―)",
+      "example": {},
+      "meanings": [
+        "a broom for indoor use, an indoor broom"
+      ]
+    },
+    {
+      "phrase": "방비",
+      "hanja": " (防備)",
+      "example": {},
+      "meanings": [
+        "defense, fortification, defensive works, safeguard, defensive preparations, 방비하다 defend, fortify, guard"
+      ]
+    },
+    {
+      "phrase": "방비가 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "defenseless",
+        "undefended",
+        "unguarded"
+      ]
+    },
+    {
+      "phrase": "방비가 견고하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be strongly fortified"
+      ]
+    },
+    {
+      "phrase": "허술한 방비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a loose defense"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "coastal defense",
+      "frequency": 0
+    },
+    {
+      "meaning": "a loose defense",
+      "frequency": 0
+    },
+    {
+      "meaning": "a strong defense",
+      "frequency": 0
+    },
+    {
+      "meaning": "walled",
+      "frequency": 0
+    },
+    {
+      "meaning": "trenched",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "방비 상태야? Are you not ready? 듣기 View video B.A.P : 깜짝브이",
+      "english": "Are you not ready?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The town is under the shelter of a fortress. 발음듣기 그 도시는 요새로 방비되어 있다. 영어영작문대사전",
+      "english": "The town is under the shelter of a fortress. 발음"
+    },
+    {
+      "korean": "There was no real defense against attacks from the air. 발음듣기 공습에 대하여 진정한 방비란 없었다. 영어영작문대사전",
+      "english": "There was no real defense against attacks from the air. 발음"
+    },
+    {
+      "korean": "Meanwhile President Lee Myung-bak has called for the islands closest to the Northern Limit Line (NLL) to be more heavily fortified. 발음듣기 반면 이명박 대통령은 북방한계선에 가장 가까운 섬(연평도)에 더욱 더 방비를 강화할 것을 요청했다. TIMES CORE",
+      "english": "Meanwhile President Lee Myung-bak has called for the islands closest to the Northern Limit Line (NLL) to be more heavily fortified. 발음"
+    },
+    {
+      "korean": "take over the defense of the coast 발음듣기 해안방비에 임하다. 영어영작문대사전",
+      "english": "take over the defense of the coast 발음"
+    },
+    {
+      "korean": "a protection from the wind (cold, disease) 발음듣기 바람방비(防備). 영어영작문대사전",
+      "english": "a protection from the wind (cold, disease) 발음"
+    }
+  ]
+}

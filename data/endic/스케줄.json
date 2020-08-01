@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "스케줄",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "schedule"
+      ]
+    },
+    {
+      "phrase": "schedule",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (작업) 일정, 스케줄",
+        "Noun 美 (=timetable)",
+        "Verb 일정[시간 계획]을 잡다, 예정하다"
+      ]
+    },
+    {
+      "phrase": "Schedule",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "여행 여행사에서의 여행일정이나 항공사에서의 항공스케줄, 호텔에서의 숙박일의 일정을 말한다."
+      ]
+    },
+    {
+      "phrase": "스케줄을 짜다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make[map, lay] out a schedule"
+      ]
+    },
+    {
+      "phrase": "스케줄보다 늦은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "behind schedule"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "schedule",
+      "frequency": 3
+    },
+    {
+      "meaning": "a killing schedule",
+      "frequency": 0
+    },
+    {
+      "meaning": "accordion scheduling",
+      "frequency": 0
+    },
+    {
+      "meaning": "keep to the schedule",
+      "frequency": 0
+    },
+    {
+      "meaning": "a crowded[crammed, tight] schedule",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "각종 스케줄을 다 끝낸 뒤 - 네 네 네... We've done all the schedules. - Yes, yes. 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "We've done all the schedules. - Yes, yes."
+    },
+    {
+      "korean": "[거의 일주일 밤샘 전례 없던 죽음의 스케줄!] [They've never worked this hard before!] View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "[They've never worked this hard before!]"
+    },
+    {
+      "korean": "아무 스케줄 없이! 그러니까 정말 쉬러! - 갑자기 아침에 차 타는... No schedule, just to relax. - Getting in a car in the morning... 듣기 View video OSEN : Stray Kids 스트레이키즈, 서로에게 닮고 싶은 점? #스타로드 15",
+      "english": "No schedule, just to relax. - Getting in a car in the morning..."
+    },
+    {
+      "korean": "스케줄 하는데? At the schedule? 듣기 View video SF9 : 빈어스대신!🍀",
+      "english": "At the schedule?"
+    },
+    {
+      "korean": "오늘의 스케줄은 모두 끝! I am done today! 듣기 View video 슈주 리턴즈 (SJ returns) : 슈주 리턴즈3 EP7- 2년 만에 솔로앨범으로 컴백한 예성",
+      "english": "I am done today!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I have a hectic schedule for the next few days. 듣기 Add to Wordbook 내가 다음 며칠 동안은 일정이 정신없이 바쁘다[스케줄이 빡빡하게 짜여 있다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I have a hectic schedule for the next few days. Add to Wordbook"
+    },
+    {
+      "korean": "We need to draft up a schedule first. 듣기 Add to Wordbook 먼저 스케줄 초안을 만들어야 합니다. DARAKWON",
+      "english": "We need to draft up a schedule first. Add to Wordbook"
+    },
+    {
+      "korean": "We will send you the finalized delivery schedule by January 17. 듣기 Add to Wordbook 최종 배송 스케줄은 1월 17일까지 보내드리겠습니다. DARAKWON",
+      "english": "We will send you the finalized delivery schedule by January 17. Add to Wordbook"
+    },
+    {
+      "korean": "Unfortunately, with our schedule, this is quite impractical. 듣기 Add to Wordbook 불행히도 우리 스케줄로는 이것은 비현실적입니다. DARAKWON",
+      "english": "Unfortunately, with our schedule, this is quite impractical. Add to Wordbook"
+    },
+    {
+      "korean": "I am writing in response to your concern regarding the schedule. 듣기 Add to Wordbook 스케줄에 관한 귀하의 우려에 대해 답변을 하고자 메일을 드립니다. DARAKWON",
+      "english": "I am writing in response to your concern regarding the schedule. Add to Wordbook"
+    }
+  ]
+}

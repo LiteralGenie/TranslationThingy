@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "이서",
+      "hanja": " (裏書)",
+      "example": {},
+      "meanings": [
+        "[명사] endorsement, [동사] endorse"
+      ]
+    },
+    {
+      "phrase": "ether",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 에테르(용매나 마취제로 쓰이는 알코올 추출물)",
+        "Noun 옛글투 또는 문예체 높은 하늘, 창공",
+        "Noun (무선 통신의 매개체로서의) 대기"
+      ]
+    },
+    {
+      "phrase": "aether",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (=ETHER)"
+      ]
+    },
+    {
+      "phrase": "(E,E)(1-Butenyl)(1-propenyl)ether",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C7H12O. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The (E,E)(1-Butenyl)(1-propenyl)ether molecule contains of 12 Hydrogen atom(s), 7 Carbon atom(s) and 1 Oxygen atom(s) – a total of 20 atom(s)."
+      ]
+    },
+    {
+      "phrase": "(2-chloroallyl)(difluoromethyl)ether",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Chemical Formula C4H5ClF2O. A chemical structure of a molecule includes the arrangement of atoms and the chemical bonds that hold the atoms together. The (2-chloroallyl)(difluoromethyl)ether molecule contains of 5 Hydrogen atom(s), 4 Carbon atom(s), 1 Oxygen atom(s), 2 Fluorine atom(s) and 1 Chlo..."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "allograph",
+      "frequency": 0
+    },
+    {
+      "meaning": "indorsement",
+      "frequency": 0
+    },
+    {
+      "meaning": "splicer",
+      "frequency": 0
+    },
+    {
+      "meaning": "endorse",
+      "frequency": 1
+    },
+    {
+      "meaning": "consent decree",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[꿀이서까지 등장] 사랑해! 사랑한다고요, 대표님! [HONEY-Iseo is here] I love you! I love you, boss! 듣기 View video 몬스타엑스의 지금은 휴가중 : MONSTA X's on Vacation EP-1",
+      "english": "[HONEY-Iseo is here] I love you! I love you, boss!"
+    },
+    {
+      "korean": "그렇구나 - 한 다섯 분이서... - 이게 너무 죄송스럽더라고요 그래서... I see. - There were around five people.' - We felt so sorry. 듣기 View video GOT7 : [FULL] GOT7 LIVE PREMIERE",
+      "english": "I see. - There were around five people.' - We felt so sorry."
+    },
+    {
+      "korean": "저희 다섯이서 친해진 계기요? How could we 5 become close? 듣기 View video CIX : 19살 서기의 마지막 습격😗❤️",
+      "english": "How could we 5 become close?"
+    },
+    {
+      "korean": "그러니까 우리 다섯이서 딱 붙여놓는 거지, 뭔지 알아? I mean, so we five stick together. You know what I mean? 듣기 View video NCT : ㅎㅇㅎㅇ 💚",
+      "english": "I mean, so we five stick together. You know what I mean?"
+    },
+    {
+      "korean": "두 분이서 같은 방을 쓰고 다른 멤버들 네 분이서 같이 쓴다고요? You two use the same room and the rest of the members use a room? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#315. 얼음 땡! (w. 로켓펀치) / Freeze! (With Rocket Punch)",
+      "english": "You two use the same room and the rest of the members use a room?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Could you endorse this check, please? 발음듣기 이 수표에 이서해 주시겠습니까? YBM All in All English-Korean Dictionary",
+      "english": "Could you endorse this check, please? 발음"
+    },
+    {
+      "korean": "Please endorse your check. 발음듣기 당신의 수표에 이서를 해주십시오. Neungyule",
+      "english": "Please endorse your check. 발음"
+    },
+    {
+      "korean": "Please endorse the check on the back. 발음듣기 수표 뒷면에 이서해 주세요 Neungyule",
+      "english": "Please endorse the check on the back. 발음"
+    },
+    {
+      "korean": "Would you endorse it on the back? 발음듣기 (수표) 뒷면에 이서해 주시겠습니까? Neungyule",
+      "english": "Would you endorse it on the back? 발음"
+    },
+    {
+      "korean": "Would you endorse it on the back[other side]? 발음듣기 (수표) 뒷면에 이서해 주시겠습니까? Neungyule",
+      "english": "Would you endorse it on the back[other side]? 발음"
+    }
+  ]
+}

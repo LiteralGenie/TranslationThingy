@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "해체",
+      "hanja": " (解體)",
+      "example": {},
+      "meanings": [
+        "(단체·집단 등의) [명사] dissolution, breakup, [동사] dissolve, disband, break sth up",
+        "(체제·조직 등의) [명사] dissolution, [동사] dissolve",
+        "(기계·구조물 등의) [동사] dismantle, (formal) disassemble, take (sth) apart (=분해)"
+      ]
+    },
+    {
+      "phrase": "해체",
+      "hanja": " (해體)",
+      "example": {},
+      "meanings": [
+        "Noun haeche (→하게체, 합쇼체, 해라체, 해요체, 하오체)"
+      ]
+    },
+    {
+      "phrase": "해체(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 release"
+      ]
+    },
+    {
+      "phrase": "기계를 해체하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take a machine to pieces",
+        "disjoint a machine"
+      ]
+    },
+    {
+      "phrase": "정당을 해체하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disband[dissolve] a party"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dissolution",
+      "frequency": 1
+    },
+    {
+      "meaning": "break-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "decomposition",
+      "frequency": 1
+    },
+    {
+      "meaning": "disorganization",
+      "frequency": 0
+    },
+    {
+      "meaning": "teardown",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "해체 작업을 해서 여기 이거... 이거를 뭐라고 해? I will cut it into pieces and... what's this? 듣기 View video V COOKIE : IZ X Rooftop Live - 아이즈의 루프탑라이브!",
+      "english": "I will cut it into pieces and... what's this?"
+    },
+    {
+      "korean": "해체? 해체라고 해야 되나요? Disband? Is that the word? 듣기 View video THE BOYZ : 달 달 무슨달?",
+      "english": "Disband? Is that the word?"
+    },
+    {
+      "korean": "그 폭탄 해체. The bomb diffusion. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "The bomb diffusion."
+    },
+    {
+      "korean": "참치 해체요? - 괜찮죠? Tuna? - How about that? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 15회 - 난데없는 레드벨벳 생선 먹방 (feat. 꽁치&전어)",
+      "english": "Tuna? - How about that?"
+    },
+    {
+      "korean": "해체하는 게 낫지 않을까요? and dissolve all the rest? 듣기 View video 초등학생 관심거리연구소 (Super Cool Kids Lab) : [시즌4 댄스넘버피프틴]_EP.08 | 이렇게 못생길수도(예쁠수도)있나 싶어서",
+      "english": "and dissolve all the rest?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The band have reportedly decided to split up. 발음듣기 전하는 바에 따르면 그 밴드가 해체하기로 결정했다고 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The band have reportedly decided to split up. 발음"
+    },
+    {
+      "korean": "The steel mill was dismantled piece by piece. 발음듣기 그 제철소는 하나씩 하나씩 해체되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The steel mill was dismantled piece by piece. 발음"
+    },
+    {
+      "korean": "The factory is already marked down for demolition. 발음듣기 그 공장은 이미 해체 대상으로 기록되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The factory is already marked down for demolition. 발음"
+    },
+    {
+      "korean": "The government was in the process of dismantling the state-owned industries. 발음듣기 정부에서는 국영 산업체들에 대한 해체 절차를 밟고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government was in the process of dismantling the state-owned industries. 발음"
+    },
+    {
+      "korean": "The ship was broken up for scrap metal. 발음듣기 그 배는 고철용으로 해체되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The ship was broken up for scrap metal. 발음"
+    }
+  ]
+}

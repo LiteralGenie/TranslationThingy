@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "차도",
+      "hanja": " (車道)",
+      "example": {},
+      "meanings": [
+        "(도로, 찻길) street, road(way)"
+      ]
+    },
+    {
+      "phrase": "차도",
+      "hanja": " (差度)",
+      "example": {},
+      "meanings": [
+        "(병이 낫는 정도) improvement"
+      ]
+    },
+    {
+      "phrase": "chador",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 차도르(일부 이슬람권 여자들이 얼굴만 제외하고 머리와 상체를 휘감는 천)"
+      ]
+    },
+    {
+      "phrase": "chado ( sado, chanoyu )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "NOUN the Japanese tea ceremony"
+      ]
+    },
+    {
+      "phrase": "chādor",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "종교 챠도르"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "roadway",
+      "frequency": 3
+    },
+    {
+      "meaning": "remission",
+      "frequency": 0
+    },
+    {
+      "meaning": "carriageway",
+      "frequency": 0
+    },
+    {
+      "meaning": "driveway",
+      "frequency": 3
+    },
+    {
+      "meaning": "trafficway",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그러네요 차도 막히겠네요? - 우리... You're right. There's traffic. - We should... 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP28 #마지막아침 #어린종대의추억 #음악친구발각위기",
+      "english": "You're right. There's traffic. - We should..."
+    },
+    {
+      "korean": "또 2주 차도 열심히 한번 달려보도록 하겠습니다! I will work hard in my second week, too. 듣기 View video PARK JI HOON : [Wink Arcade] 박지훈 [360] 음악방송 1주차 비하인드 Lv.22",
+      "english": "I will work hard in my second week, too."
+    },
+    {
+      "korean": "차도까지 뒤로 막 막혀서 - 그러니까요 - 그 정도는... Even the driveway might be blocked by people. - I don't think... 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP10 #십첸치 #프로냄새킁킁러 #두성쓰기있어?",
+      "english": "Even the driveway might be blocked by people. - I don't think..."
+    },
+    {
+      "korean": "보리차도 좋아? Barley tea is good too? 듣기 View video NU'EST : [NU’EST] 재워줄게용",
+      "english": "Barley tea is good too?"
+    },
+    {
+      "korean": "시... - 우리 2주차도 파이팅! Be... - Fighting for second week!! 듣기 View video ITZY : 믿지 믿지 고마워요♥️♥️",
+      "english": "Be... - Fighting for second week!!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to stand at the kerbside 듣기 Add to Wordbook 차도 가에 서 있다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to stand at the kerbside Add to Wordbook"
+    },
+    {
+      "korean": "The symptoms reappeared after only a short remission. 듣기 Add to Wordbook 겨우 잠깐 동안 차도가 있는 듯하다가 증상이 다시 나타났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The symptoms reappeared after only a short remission. Add to Wordbook"
+    },
+    {
+      "korean": "A car goes with the job. 듣기 Add to Wordbook 그 직장에는 차도 나온다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A car goes with the job. Add to Wordbook"
+    },
+    {
+      "korean": "the northbound carriageway of the motorway 듣기 Add to Wordbook 그 고속도로의 북행 차도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the northbound carriageway of the motorway Add to Wordbook"
+    },
+    {
+      "korean": "The infection did not respond to the drugs. 듣기 Add to Wordbook 그 전염병은 그 약을 써도 차도가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The infection did not respond to the drugs. Add to Wordbook"
+    }
+  ]
+}

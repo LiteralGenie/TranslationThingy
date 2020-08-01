@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "사업체",
+      "hanja": " (事業體)",
+      "example": {},
+      "meanings": [
+        "company, business, enterprise"
+      ]
+    },
+    {
+      "phrase": "제 사업체 문을 닫았어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "My business had folded."
+      ]
+    },
+    {
+      "phrase": "그 여자는 합법적인 사업체를 운영한다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "She runs a legitimate business."
+      ]
+    },
+    {
+      "phrase": "사업체 건물 연면적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Floor space of establishment"
+      ]
+    },
+    {
+      "phrase": "개인사업체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Individual proprietorship"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "operation",
+      "frequency": 3
+    },
+    {
+      "meaning": "business",
+      "frequency": 3
+    },
+    {
+      "meaning": "cash flow",
+      "frequency": 0
+    },
+    {
+      "meaning": "a minor-league business",
+      "frequency": 0
+    },
+    {
+      "meaning": "hive something off (to/into something)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이왕 하는 거] - 아버지 사업체도 홍보해. - 그래. [Then...] - Promote your father's business. - Yes. 듣기 View video Big Picture : 빅픽처 ep36_낚시인가! 진짜인가! 워너원 섭외?!",
+      "english": "[Then...] - Promote your father's business. - Yes."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a business beset by price wars and market saturation 듣기 Add to Wordbook 가격 전쟁과 시장 포화 상태에 시달리는 사업(체) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a business beset by price wars and market saturation Add to Wordbook"
+    },
+    {
+      "korean": "The business has 34 retail outlets in this state alone. 듣기 Add to Wordbook 그 사업체는 이 주에만도 34개의 직판점을 두고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The business has 34 retail outlets in this state alone. Add to Wordbook"
+    },
+    {
+      "korean": "Few businesses are flourishing in the present economic climate. 듣기 Add to Wordbook 현 경제 상황에서는 번창하는 사업체가 별로 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Few businesses are flourishing in the present economic climate. Add to Wordbook"
+    },
+    {
+      "korean": "He built up his multimillion-pound music business from small beginnings. 듣기 Add to Wordbook 그는 작게 출발하여 수백만 파운드짜리 음악 관련 사업체를 세웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He built up his multimillion-pound music business from small beginnings. Add to Wordbook"
+    },
+    {
+      "korean": "They admired the smoothness and efficiency with which the business was run. 듣기 Add to Wordbook 그들은 그 사업체가 매끄럽고 효율적으로 운영되는 것에 감탄했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They admired the smoothness and efficiency with which the business was run. Add to Wordbook"
+    }
+  ]
+}

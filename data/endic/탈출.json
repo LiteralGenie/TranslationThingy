@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "탈출",
+      "hanja": " (脫出)",
+      "example": {},
+      "meanings": [
+        "(장소 등에서) [명사, 동사] escape",
+        "(시련·역경 등에서)"
+      ]
+    },
+    {
+      "phrase": "탈출(증)",
+      "hanja": " (脫出(症))",
+      "example": {},
+      "meanings": [
+        "의학 prolapsus, herniation, herniatio, prolapse, ptosis"
+      ]
+    },
+    {
+      "phrase": "낙하산으로 비행기에서 탈출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bail out",
+        "hit the silk"
+      ]
+    },
+    {
+      "phrase": "감옥을 탈출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "escape from prison",
+        "break out of jail"
+      ]
+    },
+    {
+      "phrase": "국외로 탈출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "escape to another country",
+        "flee one´s country"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "escape",
+      "frequency": 2
+    },
+    {
+      "meaning": "flight",
+      "frequency": 2
+    },
+    {
+      "meaning": "exodus",
+      "frequency": 0
+    },
+    {
+      "meaning": "prolapse",
+      "frequency": 0
+    },
+    {
+      "meaning": "flight 2",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[좁은 복도를 탈출한 세 사람] 뒤돌아... [They escaped] Go aw... 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.03",
+      "english": "[They escaped] Go aw..."
+    },
+    {
+      "korean": "모태솔로 탈출한 거 맞지? You're no longer single since birth, are you? 듣기 View video 콬TV (WHYNOT) : 벽과 벽 사이 [가두리횟집] EP07",
+      "english": "You're no longer single since birth, are you?"
+    },
+    {
+      "korean": "[RM 꼴찌 탈출 성공] 뭐야 이게 끝난 거야? [RM's not the last] What? Is that all? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[RM's not the last] What? Is that all?"
+    },
+    {
+      "korean": "[빛의 속도로 지하 1층 탈출 성공] 4층! [They left the 1st basement] To the 4th floor! 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.02",
+      "english": "[They left the 1st basement] To the 4th floor!"
+    },
+    {
+      "korean": "세상에! 탈출구 없잖아 이거봐 어떡하면 좋아? Oh my! There's no exit! Look at this! What should we do? 듣기 View video WOODZ (조승연) : [full] WOODZ 1ST MINI ALBUM [EQUAL] SHOWCASE",
+      "english": "Oh my! There's no exit! Look at this! What should we do?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They were accused of aiding him in his escape. 발음듣기 그들은 그의 탈출을 도왔다는 혐의로 고발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were accused of aiding him in his escape. 발음"
+    },
+    {
+      "korean": "the flight of refugees from the advancing forces 발음듣기 진격해 오는 군대를 피한 난민들의 탈출 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the flight of refugees from the advancing forces 발음"
+    },
+    {
+      "korean": "Plans to spring the hostages have failed. 발음듣기 인질들의 탈출을 도우려던 계획이 실패했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Plans to spring the hostages have failed. 발음"
+    },
+    {
+      "korean": "They were accused of aiding his escape. 발음듣기 그들은 그가 탈출하는 것을 도왔다는 혐의로 고발되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were accused of aiding his escape. 발음"
+    },
+    {
+      "korean": "That was the luckiest escape of my life. 발음듣기 그것은 내 인생에서 가장 다행스러운[천우신조의] 탈출이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That was the luckiest escape of my life. 발음"
+    }
+  ]
+}

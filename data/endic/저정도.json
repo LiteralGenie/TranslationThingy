@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "저는 한 달에 한 권 정도 책을 읽습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "독서 I read one book a month.",
+        "독서 I read about one book a month."
+      ]
+    },
+    {
+      "phrase": "정도",
+      "hanja": " (程度)",
+      "example": {},
+      "meanings": [
+        "(분량, 수준) degree",
+        "(일정한 한도) limit"
+      ]
+    },
+    {
+      "phrase": "정도",
+      "hanja": " (正道)",
+      "example": {},
+      "meanings": [
+        "(바른길) right path[way, track]"
+      ]
+    },
+    {
+      "phrase": "저",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(1인칭 대명사) (주격) I, (소유격) my, (목적격) me, (소유대명사) mine, (재귀대명사) myself"
+      ]
+    },
+    {
+      "phrase": "저",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(관형사) (that)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "that",
+      "frequency": 3
+    },
+    {
+      "meaning": "this",
+      "frequency": 3
+    },
+    {
+      "meaning": "in/into the distance",
+      "frequency": 0
+    },
+    {
+      "meaning": "저처럼",
+      "frequency": 0
+    },
+    {
+      "meaning": "He stinks of money.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그래서 저 정도 수준을 만나는 거야?",
+      "english": "Is that why you are cheating on me with someone of that level?"
+    },
+    {
+      "korean": "저 정도로 힘들다고?",
+      "english": "It's that hard?"
+    },
+    {
+      "korean": "저 정도까지 잘 한다고?",
+      "english": "This is how good you are?"
+    },
+    {
+      "korean": "그래서 저 나이인데 키가 저 정도야?",
+      "english": "He's so young and already that tall?"
+    },
+    {
+      "korean": "저 정도면 무난한 거예요? 아니면 없는 거예요?",
+      "english": "What do you think about me? Normal or quiet?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "전국 협회에서 발행한 급여 기준표에 의하면 저 정도의 교육 배경과 경력을 가진 사람의 연봉은 3만부터 4만 달러까지 편차가 크더군요.",
+      "english": "Based upon the salary information published by our national association, the market price for someone with my experience and educational background is in the broad range of thirty to forty thousand dollars per year."
+    },
+    {
+      "korean": "저 정도 실력이면 어디에 내놓아도 빠지지 않는다",
+      "english": "With skills like that, he lacks for nothing."
+    },
+    {
+      "korean": "저 정도 실력이면 어디에 내놓아도 빠지지 않는다",
+      "english": "With skills like that, he'll be on a par with anyone."
+    },
+    {
+      "korean": "그래서 전 아빠한테 '와, 저 정도는 저도 할 수 있겠어요.'라고 말했죠.",
+      "english": "And I said to my dad 'Wow, I could do that.'"
+    },
+    {
+      "korean": "저 정도의 에너지 수요, 태양열, 풍력과 같은 재생 가능한 자원은 대단히 한정돼 있고, 신뢰할 수 없다.",
+      "english": "With that kind of energy demand, renewable resources such as solar and wind power are simply too limited and unreliable."
+    }
+  ]
+}

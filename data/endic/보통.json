@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "보통",
+      "hanja": " (普通)",
+      "example": {},
+      "meanings": [
+        "(평범한, 흔히 있는) average, ordinary, usual, normal, regular, general, common",
+        "(일반적으로) usually, generally, normally, ordinarily (=통상)"
+      ]
+    },
+    {
+      "phrase": "보통",
+      "hanja": " (普通)",
+      "example": {},
+      "meanings": [
+        "Noun being ordinary, being average"
+      ]
+    },
+    {
+      "phrase": "보통(이) 아니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not ordinary",
+        "be not ordinary"
+      ]
+    },
+    {
+      "phrase": "보통으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "usually",
+        "commonly",
+        "generally"
+      ]
+    },
+    {
+      "phrase": "보통 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an average[ordinary] man",
+        "the man on[in] the street",
+        "a layman(전문가가 아닌)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "typically",
+      "frequency": 3
+    },
+    {
+      "meaning": "normal",
+      "frequency": 3
+    },
+    {
+      "meaning": "usually",
+      "frequency": 3
+    },
+    {
+      "meaning": "generally",
+      "frequency": 3
+    },
+    {
+      "meaning": "normally",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저 뭐라 하죠, 보통?",
+      "english": "What do I say a lot?"
+    },
+    {
+      "korean": "보통 몇 시에 자냐고요? 저...",
+      "english": "What time do I usually sleep? I..."
+    },
+    {
+      "korean": "숙소에서 보통 시켜 먹는 음식은 어떤 것들이 있어요?",
+      "english": "What do you usually order in?"
+    },
+    {
+      "korean": "'맥주 먹을 때 보통 안주는?'",
+      "english": "\"When drinking beer, what do you have as a side dish?\""
+    },
+    {
+      "korean": "근데 보통 먹방은 어떻게 마무리를 하나요?",
+      "english": "But usually, how do people finish their eating show?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "요구르트는 보통 지방 성분이 아주 적다.",
+      "english": "Yogurt is usually very low in fat."
+    },
+    {
+      "korean": "glasnost는 보통 ‘개방’으로 번역된다.",
+      "english": "The usual translation of ‘glasnost’ is ‘openness’."
+    },
+    {
+      "korean": "그들은 사람들이 보통 지니고 있는 감정이 없는 것 같다.",
+      "english": "They seem destitute of ordinary human feelings."
+    },
+    {
+      "korean": "그녀의 목소리에는 보통 때와 다른 진지함이 가득 담겨 있었다.",
+      "english": "Her voice was imbued with an unusual seriousness."
+    },
+    {
+      "korean": "그 샌드위치 가게는 보통 점심시간 때면 사람들이 넘친다.",
+      "english": "The sandwich bar is generally packed at lunchtimes."
+    }
+  ]
+}

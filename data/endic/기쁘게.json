@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "기쁘다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "glad, happy, pleased, delighted"
+      ]
+    },
+    {
+      "phrase": "기쁘게도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to one´s joy"
+      ]
+    },
+    {
+      "phrase": "기쁘게 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gladden",
+        "please",
+        "delight"
+      ]
+    },
+    {
+      "phrase": "부모를 기쁘게 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "delight one´s parents"
+      ]
+    },
+    {
+      "phrase": "귀엽게[기쁘게, 즐겁게] 미소짓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "smile sweetly[happily, cheerfully]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gladly",
+      "frequency": 2
+    },
+    {
+      "meaning": "pleasurably",
+      "frequency": 0
+    },
+    {
+      "meaning": "joyfully",
+      "frequency": 0
+    },
+    {
+      "meaning": "hummy",
+      "frequency": 0
+    },
+    {
+      "meaning": "glad of heart",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우리 스테이를 되게 기쁘게 하는 그런 것들이 있나요? What makes STAYs happy? 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 65",
+      "english": "What makes STAYs happy?"
+    },
+    {
+      "korean": "어떻게 산이를 기쁘게 해주지? How can I make San happy? 듣기 View video ATEEZ : 💚HAPPY SAN DAY D-1💚",
+      "english": "How can I make San happy?"
+    },
+    {
+      "korean": "어떻게 기쁘게 해줄 거예요? How are your going to make me happy? 듣기 View video ATEEZ : 💚HAPPY SAN DAY D-1💚",
+      "english": "How are your going to make me happy?"
+    },
+    {
+      "korean": "아 정말요? 어떻게 기쁘게 해줄 겁니까? Oh, really? How are you going to make me happy? 듣기 View video ATEEZ : 💚HAPPY SAN DAY D-1💚",
+      "english": "Oh, really? How are you going to make me happy?"
+    },
+    {
+      "korean": "그냥 하루하루 되게 기쁘게 사는 것도 약간... Make your daily life as happy as possible. 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "Make your daily life as happy as possible."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You can’t please everybody. 발음듣기 모든 사람을 기쁘게 할[모든 사람의 비위를 맞춰 줄] 수는 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can’t please everybody. 발음"
+    },
+    {
+      "korean": "I did it to please my parents. 발음듣기 나는 우리 부모님을 기쁘게 해 드리려고 그렇게 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I did it to please my parents. 발음"
+    },
+    {
+      "korean": "To his great joy, she accepted. 발음듣기 그로선 너무 기쁘게도 그녀가 받아들였다[그러겠다고 했다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "To his great joy, she accepted. 발음"
+    },
+    {
+      "korean": "I am more than happy to lend my name to this campaign. 발음듣기 저는 너무나 기쁘게 이 운동에 지지를 표하는 바입니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I am more than happy to lend my name to this campaign. 발음"
+    },
+    {
+      "korean": "There’s just no pleasing some people. 발음듣기 기쁘게 해[비위를 맞춰] 주기가 그냥 불가능한 사람들도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There’s just no pleasing some people. 발음"
+    }
+  ]
+}

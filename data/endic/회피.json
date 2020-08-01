@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "회피",
+      "hanja": " (回避)",
+      "example": {},
+      "meanings": [
+        "[명사] evasion, [동사] evade, avoid, dodge, (informal) sidestep, (의무·책임 등을) shirk, (formal) abdicate"
+      ]
+    },
+    {
+      "phrase": "책임 회피를 하는 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a buck passer"
+      ]
+    },
+    {
+      "phrase": "책임을 회피하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "avoid[evade, shirk, abdicate] one's responsibility (for)"
+      ]
+    },
+    {
+      "phrase": "답변을 회피하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "evade answering"
+      ]
+    },
+    {
+      "phrase": "납세를 회피하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "elude taxation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "avoidance",
+      "frequency": 3
+    },
+    {
+      "meaning": "miss 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "evasion",
+      "frequency": 0
+    },
+    {
+      "meaning": "elusion",
+      "frequency": 0
+    },
+    {
+      "meaning": "recusal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저는 모든 질문의 회피용 대답을 배웠어요 - 뭐예요, 뭔데요? I learned to answer avoidantly to all sorts of questions. - What is it? 듣기 View video BTS : 태태 FM 6.13 🐯",
+      "english": "I learned to answer avoidantly to all sorts of questions. - What is it?"
+    },
+    {
+      "korean": "[시선 회피] 그냥... [Looking away] I just... 듣기 View video ITZY : [ITZY? ITZY!(있지?있지!)] EP40. MAMA에 있지!",
+      "english": "[Looking away] I just..."
+    },
+    {
+      "korean": "[대답 회피] 아니 어제 티 냈어? [Avoiding to answer] Did you make it obvious? 듣기 View video 콬TV (WHYNOT) : 나를 좋아해주는 사람에게 마음이 움직일까? #고백하기_좋은_순간ㅣ[리얼하이로맨스S2] EP11",
+      "english": "[Avoiding to answer] Did you make it obvious?"
+    },
+    {
+      "korean": "이게 약간 좀 회피인가? Is this kind of avoiding it? 듣기 View video Park Bo Young : 오랜만이에요!",
+      "english": "Is this kind of avoiding it?"
+    },
+    {
+      "korean": "[시선 회피] - 몰라~ 그냥 그리는거지 - 너 왜 나 안 쳐다봐? [Avoiding eye contact] - I don't know. I'm just drawing. - Why wouldn't you look at me? 듣기 View video 콬TV (WHYNOT) : 리하이 여자 출연자 3인방 드디어 모였어요!ㅣ지효의 깜짝 등장💖ㅣ[리얼하이VLOG] #6",
+      "english": "[Avoiding eye contact] - I don't know. I'm just drawing. - Why wouldn't you look at me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Did you notice how she neatly sidestepped the question? 듣기 Add to Wordbook 그녀가 얼마나 교묘하게 그 질문을 회피하는지 봤어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Did you notice how she neatly sidestepped the question? Add to Wordbook"
+    },
+    {
+      "korean": "You’re just avoiding the issue. 듣기 Add to Wordbook 당신은 그저 그 사안을 회피하고 있어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re just avoiding the issue. Add to Wordbook"
+    },
+    {
+      "korean": "They found a way of circumventing the law. 듣기 Add to Wordbook 그들은 그 법을 회피할 방법을 찾아내었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They found a way of circumventing the law. Add to Wordbook"
+    },
+    {
+      "korean": "She never shirked her responsibilities. 듣기 Add to Wordbook 그녀는 책임을 회피하는 법이 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She never shirked her responsibilities. Add to Wordbook"
+    },
+    {
+      "korean": "Not turning up was just a cop-out. 듣기 Add to Wordbook 모습을 나타내지[그 자리에 오지] 않은 것은 그저 책임 회피였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Not turning up was just a cop-out. Add to Wordbook"
+    }
+  ]
+}

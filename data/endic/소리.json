@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "소리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음향) sound, (소음) noise, (라디오·TV 등의) volume",
+        "(목소리) voice, tone (of voice)",
+        "(말)"
+      ]
+    },
+    {
+      "phrase": "saury",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 어류 꽁치류(類)"
+      ]
+    },
+    {
+      "phrase": "소리 소문도 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without sounds or rumors"
+      ]
+    },
+    {
+      "phrase": "종소리",
+      "hanja": " (鐘소리)",
+      "example": {},
+      "meanings": [
+        "sound[peal] of a bell"
+      ]
+    },
+    {
+      "phrase": "소리치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shout (out), yell (out), cry (out), call out, (informal) holler (at), (화가 나서) bawl (out)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sound",
+      "frequency": 3
+    },
+    {
+      "meaning": "voice",
+      "frequency": 3
+    },
+    {
+      "meaning": "noise",
+      "frequency": 3
+    },
+    {
+      "meaning": "wash",
+      "frequency": 3
+    },
+    {
+      "meaning": "peep",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소리 질러! Make some noise! 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 23. 현재 1위 츄플에게 도전하는 경희대 래빈 & 용인 리퍼블릭!",
+      "english": "Make some noise!"
+    },
+    {
+      "korean": "이 소리 누구야? Who is this? 듣기 View video TWICE : ㅁㅁㄹ🧸",
+      "english": "Who is this?"
+    },
+    {
+      "korean": "뭔 소리야 이거? What was that? 듣기 View video V PICK! : [PARK JI HOON] 크레이지 방귀케이드 왕초보뉴비먕먕,, 내 물풍선에 저장😉💦 (JI HOON playing the game with MAY)",
+      "english": "What was that?"
+    },
+    {
+      "korean": "어 이 소리 봐! Did you hear that? 듣기 View video V PICK! : [PARK JI HOON] 크레이지 방귀케이드 왕초보뉴비먕먕,, 내 물풍선에 저장😉💦 (JI HOON playing the game with MAY)",
+      "english": "Did you hear that?"
+    },
+    {
+      "korean": "이게 무슨 소리야? What's all this? 듣기 View video BLACKPINK : BLACKPINK - BLACKPINK'S 2020 WELCOMING COLLECTION PREVIEW",
+      "english": "What's all this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "staccato bursts of gunfire 듣기 Add to Wordbook 짧고 날카롭게 터지는 포격 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "staccato bursts of gunfire Add to Wordbook"
+    },
+    {
+      "korean": "shrill demands / protests 듣기 Add to Wordbook 소리 높이 외치는[날카로운] 요구/항의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "shrill demands / protests Add to Wordbook"
+    },
+    {
+      "korean": "the patter of rain on the roof 듣기 Add to Wordbook 지붕에 비가 후두두 떨어지는 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the patter of rain on the roof Add to Wordbook"
+    },
+    {
+      "korean": "to pluck the strings of a violin 듣기 Add to Wordbook 바이올린의 현을 뜯어 소리를 내다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to pluck the strings of a violin Add to Wordbook"
+    },
+    {
+      "korean": "the sound of hammering from the next room 듣기 Add to Wordbook 옆집에서 나는 쾅쾅거리는 소리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the sound of hammering from the next room Add to Wordbook"
+    }
+  ]
+}

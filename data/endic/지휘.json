@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "지휘",
+      "hanja": " (指揮)",
+      "example": {},
+      "meanings": [
+        "(단체의) command, direction, command, direct, lead, head (up), (formal) superintend",
+        "(악단·합창단 등의) conduct, direct"
+      ]
+    },
+    {
+      "phrase": "지휘 하에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "under the command[direction] of"
+      ]
+    },
+    {
+      "phrase": "감독[지휘] 하에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "under the supervision[baton, direction, command]"
+      ]
+    },
+    {
+      "phrase": "진두지휘하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lead one's men",
+        "take the lead (in)"
+      ]
+    },
+    {
+      "phrase": "음악회를 지휘하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "conduct a concert"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "command",
+      "frequency": 3
+    },
+    {
+      "meaning": "direction",
+      "frequency": 3
+    },
+    {
+      "meaning": "supervision",
+      "frequency": 3
+    },
+    {
+      "meaning": "baton twirling",
+      "frequency": 0
+    },
+    {
+      "meaning": "OMT",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "형들 위해서 제가 진두진휘하는 역할로 - 진두지휘요? So I was given this role to take the lead. - Take the lead? 듣기 View video SF9 : [Full] SF9 COMEBACK SHOWCASE [RPM]",
+      "english": "So I was given this role to take the lead. - Take the lead?"
+    },
+    {
+      "korean": "약간 뭐라고 해야 할까 지휘하는 건가? Is he conducting? 듣기 View video MOMO X : [K-pop tour] 미디어 아트의 시작! 백남준아트센터 Tourist 에이티즈(ATEEZ)",
+      "english": "Is he conducting?"
+    },
+    {
+      "korean": "[세이 지휘] 왼쪽! 오른쪽! [Sei conducts] Left! Right! 듣기 View video 모해 MOHAE : [WekiMeki 위키미키 모해?] EP32",
+      "english": "[Sei conducts] Left! Right!"
+    },
+    {
+      "korean": "당신이 뭔데 자꾸 지휘하오? Who are you to keep run this meeting? 듣기 View video V COOKIE : [FULL] APRIL X SUITS KNIGHTS - 에이프릴의 정장방!",
+      "english": "Who are you to keep run this meeting?"
+    },
+    {
+      "korean": "마치 지휘자처럼. Like a conductor. 듣기 View video IDOL x IDOL : 언타이틀 - '에버브라운과 함께 하는 언타이틀'",
+      "english": "Like a conductor."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The commander had been forewarned of the attack. 듣기 Add to Wordbook 그 지휘관은 그 공격에 대한 경고를 받았었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The commander had been forewarned of the attack. Add to Wordbook"
+    },
+    {
+      "korean": "in a position of authority 듣기 Add to Wordbook 지휘권을 가진 자리에 (있는) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "in a position of authority Add to Wordbook"
+    },
+    {
+      "korean": "He has command of 1200 men. 듣기 Add to Wordbook 그는 1 200명의 사병을 지휘한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has command of 1200 men. Add to Wordbook"
+    },
+    {
+      "korean": "She now directs a large choir. 듣기 Add to Wordbook 그녀는 이제 대규모 합창단을 지휘한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She now directs a large choir. Add to Wordbook"
+    },
+    {
+      "korean": "He led the charge down the field. 듣기 Add to Wordbook 그는 돌격을 지휘하며 들판을 달려 내려갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He led the charge down the field. Add to Wordbook"
+    }
+  ]
+}

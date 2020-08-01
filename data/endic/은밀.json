@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "은밀",
+      "hanja": " (隱密)",
+      "example": {},
+      "meanings": [
+        "secrecy, covertness, 은밀하다 (be) secret, covert, confidential"
+      ]
+    },
+    {
+      "phrase": "은밀하다",
+      "hanja": " (隱密하다)",
+      "example": {},
+      "meanings": [
+        "secret, private, furtive, confidential, covert, (literary) clandestine"
+      ]
+    },
+    {
+      "phrase": "은밀한 관계를 갖다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a secret[clandestine] relationship"
+      ]
+    },
+    {
+      "phrase": "은밀한 만남을 갖다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a secret meeting"
+      ]
+    },
+    {
+      "phrase": "은밀한 행동",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 stealth ▶기도비닉"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "intimity",
+      "frequency": 0
+    },
+    {
+      "meaning": "stealthiness",
+      "frequency": 0
+    },
+    {
+      "meaning": "surreptitiousness",
+      "frequency": 0
+    },
+    {
+      "meaning": "underhandedness",
+      "frequency": 0
+    },
+    {
+      "meaning": "stealthless",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[은밀] 제가 그런 거 함부로 얘기해도 되나요? [Secretly] Can I really say it? 듣기 View video JTBC PLUS : [강태오의 취중토크] 베트남 프린스 강태오의 헤롱헤롱 취중 인터뷰",
+      "english": "[Secretly] Can I really say it?"
+    },
+    {
+      "korean": "[은밀(?)한 작전을 짜는 엘리스] 아니야 아니야. [ELRIS is coming up with a secretive plan] No, no. 듣기 View video 두근두근 엘리스 (pit-a-pat ELRIS) : <두근두근 엘리스> 2화 유경&가린의 남이 쓰는 프로필",
+      "english": "[ELRIS is coming up with a secretive plan] No, no."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That has made a huge difference to dealing with clandestines. 듣기 Add to Wordbook 그것은 은밀이 처리하는 것으로 큰 차이를 만듭니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Miraklu(kend****) Hansard",
+      "english": "That has made a huge difference to dealing with clandestines. Add to Wordbook"
+    },
+    {
+      "korean": "They expect their problem to be treated confidentially. 듣기 Add to Wordbook 그들은 그들의 문제가 은밀이 처리되기를 기대합니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 바보인척하는 바보(yunj****) Hansard",
+      "english": "They expect their problem to be treated confidentially. Add to Wordbook"
+    },
+    {
+      "korean": "I mean, I asked him confidentially and he said no. 듣기 Add to Wordbook 그러니까, 내가 그에게 은밀이 요청했는데 그가 싫다고 말했다니까. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 바보인척하는 바보(yunj****)",
+      "english": "I mean, I asked him confidentially and he said no. Add to Wordbook"
+    },
+    {
+      "korean": "For several days we have not spoken together confidentially. 듣기 Add to Wordbook 몇일간 우리는 은밀이 이야기를 나누지 않았었다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 바보인척하는 바보(yunj****)",
+      "english": "For several days we have not spoken together confidentially. Add to Wordbook"
+    },
+    {
+      "korean": "Gentleman appears to make excuses for bringing in clandestine immigrants. 듣기 Add to Wordbook 신사는 은밀이 들어온 이민자들 데려온것에대해 변병하는 것처럼 보입니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Miraklu(kend****) Hansard",
+      "english": "Gentleman appears to make excuses for bringing in clandestine immigrants. Add to Wordbook"
+    }
+  ]
+}

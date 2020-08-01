@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "활용",
+      "hanja": " (活用)",
+      "example": {},
+      "meanings": [
+        "(잘 이용함) [명사] application, practical use, [동사] use, (formal) utilize, make (good) use of, put sth to (good) use, (formal) avail ones...",
+        "(문법) [명사] (어미 변화) inflection, inflexion; (동사의) conjugation; (격변화) declension, [동사] inflect, conjugate, decline"
+      ]
+    },
+    {
+      "phrase": "최대한 활용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make the best use of",
+        "make the most (use) of"
+      ]
+    },
+    {
+      "phrase": "충분히 활용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make full use of"
+      ]
+    },
+    {
+      "phrase": "지식을 활용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put knowledge to practical use"
+      ]
+    },
+    {
+      "phrase": "시간을 최대한 활용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "optimize the time",
+        "use time as efficiently as possible",
+        "get the most out of the time"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "conjugation",
+      "frequency": 1
+    },
+    {
+      "meaning": "uptake",
+      "frequency": 0
+    },
+    {
+      "meaning": "praxis",
+      "frequency": 0
+    },
+    {
+      "meaning": "utilization",
+      "frequency": 0
+    },
+    {
+      "meaning": "desterilization",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[점프, 대시 등 기술 활용이 중요한 이번 게임] 얘들아 뭐야 이거? [Skills such as jumps and dashes] What is this? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Skills such as jumps and dashes] What is this?"
+    },
+    {
+      "korean": "[컨트롤 하려면 마우스도 활용해야 함] 마우스로 하는 거라는데요? [You need to use it for better control] Apparently, we are. 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[You need to use it for better control] Apparently, we are."
+    },
+    {
+      "korean": "그런 의상, 소품 활용해서... outfits and ornaments. 듣기 View video GOT7 : [FULL] GOT7 LIVE PREMIERE",
+      "english": "outfits and ornaments."
+    },
+    {
+      "korean": "이 기름을 활용을 어떻게 하냐? How do we use the oil? 듣기 View video NCT : 삼대삼💚",
+      "english": "How do we use the oil?"
+    },
+    {
+      "korean": "소품들 있어요? 꽃을 활용해서 만들어 보고 싶은... want to make? Using flowers... 듣기 View video BTS : Run BTS! 2020 - EP.99",
+      "english": "want to make? Using flowers..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The team failed to capitalize on their early lead. 발음듣기 그 팀은 초반의 주도권을 활용하지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team failed to capitalize on their early lead. 발음"
+    },
+    {
+      "korean": "recipes that make imaginative use of seasonal vegetables 발음듣기 계절별로 여러 야채를 써서 창의적으로 활용할 수 있는 조리법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "recipes that make imaginative use of seasonal vegetables 발음"
+    },
+    {
+      "korean": "We must harness the skill and creativity of our workforce. 발음듣기 우리는 우리 노동자들의 기술과 창의력을 활용해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We must harness the skill and creativity of our workforce. 발음"
+    },
+    {
+      "korean": "How does this verb conjugate? 발음듣기 이 동사는 어떻게 활용을 하나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How does this verb conjugate? 발음"
+    },
+    {
+      "korean": "Take advantage of low-season airfares. 발음듣기 비수기 항공 요금을 활용하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Take advantage of low-season airfares. 발음"
+    }
+  ]
+}

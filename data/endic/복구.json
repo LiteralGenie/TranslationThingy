@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "복구",
+      "hanja": " (復舊)",
+      "example": {},
+      "meanings": [
+        "[명사] restoration, [동사] restore (sth to sth)"
+      ]
+    },
+    {
+      "phrase": "복구(법)",
+      "hanja": " (復舊(法))",
+      "example": {},
+      "meanings": [
+        "의학 reconstruction"
+      ]
+    },
+    {
+      "phrase": "복구(술)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 repair"
+      ]
+    },
+    {
+      "phrase": "복구시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "restore",
+        "bring back to something´s former condition"
+      ]
+    },
+    {
+      "phrase": "원상 복구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "restore sth to its original state[its former condition]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "restoration",
+      "frequency": 3
+    },
+    {
+      "meaning": "instauration",
+      "frequency": 0
+    },
+    {
+      "meaning": "reintegration",
+      "frequency": 0
+    },
+    {
+      "meaning": "redintegration",
+      "frequency": 0
+    },
+    {
+      "meaning": "reconversion",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "복구를 했어? - 응 - 어떻게? Did you succeed? - Yes. - How? 듣기 View video V PICK! : [DAY6] 여름철 무더위도 이 팥빙수 먹방보고 멜론빙수 땡긴다고 귀가중🍧 (Sungjin&Dowoon eating patbingsu)",
+      "english": "Did you succeed? - Yes. - How?"
+    },
+    {
+      "korean": "복구를 했어? - 어 - 어떻게? You recovered it? - Yeah. - How? 듣기 View video DAY6 : 성진 & 도운의 Our V Day",
+      "english": "You recovered it? - Yeah. - How?"
+    },
+    {
+      "korean": "복구가 안 돼서. It wasn't recoverable. 듣기 View video GFRIEND : [Special Clips] 여자친구 GFRIEND - 여름여름해 (Sunny Summer) M/V Shooting Behind",
+      "english": "It wasn't recoverable."
+    },
+    {
+      "korean": "내일 운동 열심히 해서 다시 원상복구하겠습니다. I will work out hard and get back in shape tomorrow. 듣기 View video B1A4 : 신어라",
+      "english": "I will work out hard and get back in shape tomorrow."
+    },
+    {
+      "korean": "[필라테스 일주일 만에 11자 팔 라인으로 원상 복구] 바로 여기가 11자로 되는 거예요. these areas became straight lines. 듣기 View video 뷰티로그(beautylog) : [뷰티로그 10회]나르샤의 집에서 하는 셀프네일~!",
+      "english": "these areas became straight lines."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The building has been restored externally and internally. 듣기 Add to Wordbook 그 건물은 외부와 내부가 다 복구되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The building has been restored externally and internally. Add to Wordbook"
+    },
+    {
+      "korean": "to defend/restore the status quo 듣기 Add to Wordbook 현상을 옹호하다/복구하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to defend/restore the status quo Add to Wordbook"
+    },
+    {
+      "korean": "If there is anything we can do to help speed up the recovery, please let us know. 듣기 Add to Wordbook 빠른 복구를 위해 저희가 도와드릴 일이 있으면 뭐든 알려주십시오. DARAKWON",
+      "english": "If there is anything we can do to help speed up the recovery, please let us know. Add to Wordbook"
+    },
+    {
+      "korean": "Let me assure you that we will complete the repair work before the end of the business day tomorrow. 듣기 Add to Wordbook 내일 근무시간 종료 전에 복구공사를 완료할 것을 장담합니다. DARAKWON",
+      "english": "Let me assure you that we will complete the repair work before the end of the business day tomorrow. Add to Wordbook"
+    },
+    {
+      "korean": "a beta test of Facebook's delegated account recovery 듣기 Add to Wordbook 페이스북의 삭제된 암호 복구 기능에 대한 베타테스트 국제영어대학원대학교 신어사전",
+      "english": "a beta test of Facebook's delegated account recovery Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "태내",
+      "hanja": " (胎內)",
+      "example": {},
+      "meanings": [
+        "(부사적) in the womb"
+      ]
+    },
+    {
+      "phrase": "태내의 아이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a child in the mother´s womb",
+        "a fetus"
+      ]
+    },
+    {
+      "phrase": "태내에서 죽다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "die while in the womb"
+      ]
+    },
+    {
+      "phrase": "태내 전염",
+      "hanja": " (胎內傳染)",
+      "example": {},
+      "meanings": [
+        "(의학) prenatal[antenatal] infection"
+      ]
+    },
+    {
+      "phrase": "태내다",
+      "hanja": " (態 ─)",
+      "example": {},
+      "meanings": [
+        "(→태부리다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "enwomb",
+      "frequency": 0
+    },
+    {
+      "meaning": "preborn",
+      "frequency": 0
+    },
+    {
+      "meaning": "in venter",
+      "frequency": 0
+    },
+    {
+      "meaning": "semioviparous",
+      "frequency": 0
+    },
+    {
+      "meaning": "Coronis",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Her first child died in the womb. 발음듣기 그녀의 첫 아이는 태내에서 죽었다 Neungyule",
+      "english": "Her first child died in the womb. 발음"
+    },
+    {
+      "korean": "Even the child in venter can hear what you say. 발음듣기 태내에 있는 아이조차도 네가 무슨 말을 하는지 들을 수 있다. YBM All in All English-Korean Dictionary",
+      "english": "Even the child in venter can hear what you say. 발음"
+    },
+    {
+      "korean": "Since smoking may harmfully affect unborn babies, women should refrain from smoking when they are pregnant. 발음듣기 흡연은 태어나지 않은(태내에 있는) 아기에게 유해한 영향을 끼칠 수 있기 때문에 여성은 임신했을 때 흡연을 삼가해야만 한다. YBM All in All English-Korean Dictionary",
+      "english": "Since smoking may harmfully affect unborn babies, women should refrain from smoking when they are pregnant. 발음"
+    },
+    {
+      "korean": "Listening to classical music has a good effect on one's unborn baby. 발음듣기 태내의 아가에게 고전음악을 들려주는 것은 좋다. English Hidden Card",
+      "english": "Listening to classical music has a good effect on one's unborn baby. 발음"
+    },
+    {
+      "korean": "during the fetal life of a child 발음듣기 소아의 태내생활중에. 영어영작문대사전",
+      "english": "during the fetal life of a child 발음"
+    }
+  ]
+}

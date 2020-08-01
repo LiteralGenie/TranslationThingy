@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "원가",
+      "hanja": " (原價)",
+      "example": {},
+      "meanings": [
+        "production cost, prime cost, cost price"
+      ]
+    },
+    {
+      "phrase": "원가와 매가와의 차액",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "margin",
+        "difference",
+        "spread"
+      ]
+    },
+    {
+      "phrase": "원가로 팔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sell[offer] sth at its cost of production"
+      ]
+    },
+    {
+      "phrase": "원가에 팔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sell at cost (price)"
+      ]
+    },
+    {
+      "phrase": "원가 인상분을 가격에 반영하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reflect the cost increase in the price"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prime cost",
+      "frequency": 0
+    },
+    {
+      "meaning": "cost price",
+      "frequency": 0
+    },
+    {
+      "meaning": "a cost price",
+      "frequency": 0
+    },
+    {
+      "meaning": "first cost",
+      "frequency": 0
+    },
+    {
+      "meaning": "flat cost",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[종현이는 꼼꼼하게 원가를 따진 후 책정할 예정] 진짜요? [JR is carefully thinking about the costs] Really? 듣기 View video Dispatch : [ⓓxV] “JRTYLOG ③” (종현 : 태용)",
+      "english": "[JR is carefully thinking about the costs] Really?"
+    },
+    {
+      "korean": "[얘도 3,000원] 얘 3,000원에 팔면 원가가 안 되지 않아요? [This one too, 3000 won] Shouldn't we be charging more than 3000 won? 듣기 View video Dispatch : [ⓓxV] “JRTYLOG ③” (종현 : 태용)",
+      "english": "[This one too, 3000 won] Shouldn't we be charging more than 3000 won?"
+    },
+    {
+      "korean": "[진이는 노란 팀이었나...?] - 아니야, 이거 - 아니, 그냥... - 왜 원가... [Is Jin on Team Yellow?] - No. This is... - Just... - Cost price... 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "[Is Jin on Team Yellow?] - No. This is... - Just... - Cost price..."
+    },
+    {
+      "korean": "나 선글라스의 원가를 몰라요. I don't even know what the production cost is. 듣기 View video Hong Jin Young : 갓떼리언니 오랜만~♡",
+      "english": "I don't even know what the production cost is."
+    },
+    {
+      "korean": "프리마켓으로 원가에 팔겠습니다. I'll sell them at production price during the flea market. 듣기 View video Hong Jin Young : 갓떼리언니 오랜만~♡",
+      "english": "I'll sell them at production price during the flea market."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You’d better do some costings. 발음듣기 원가 계산을 좀 해 보시는 게 좋겠군요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’d better do some costings. 발음"
+    },
+    {
+      "korean": "Copies of the CD can be purchased at cost price. 발음듣기 이 시디 녹음본들을 원가에 구입할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Copies of the CD can be purchased at cost price. 발음"
+    },
+    {
+      "korean": "goods sold at cost 발음듣기 원가에 파는 상품 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "goods sold at cost 발음"
+    },
+    {
+      "korean": "PLP is expected to lower the production cost. 발음듣기 패널 레벨 패키징이 생산 원가를 낮출 것으로 기대된다. 국제영어대학원대학교 신어사전",
+      "english": "PLP is expected to lower the production cost. 발음"
+    },
+    {
+      "korean": "I had to determine which budgets should be cut within my division to yield an overall 5 percent cost reduction. 발음듣기 5%의 원가 절감을 위하여 우리 사업본부의 어떤 예산을 삭감할지 결정해야 했습니다. DARAKWON",
+      "english": "I had to determine which budgets should be cut within my division to yield an overall 5 percent cost reduction. 발음"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "phrases": [
+    {
+      "phrase": "냉담",
+      "hanja": " (冷淡)",
+      "example": {},
+      "meanings": [
+        "(무관심함) coolness, indifference, lukewarmness, lack of interest 냉담하다 (be) cool, half-hearted, indifferent, lukewarm, apathet...",
+        "(냉정함) cold-heartedness, heartlessness, callousness, 냉담하다 (be) cold, cold-hearted, heartless, callous, icy, frigid"
+      ]
+    },
+    {
+      "phrase": "냉담하다",
+      "hanja": " (冷淡하다)",
+      "example": {},
+      "meanings": [
+        "(차갑다) cold, callous, (무관심하다) indifferent, apathetic"
+      ]
+    },
+    {
+      "phrase": "냉담하게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "coldly",
+        "icily",
+        "cold-heartedly"
+      ]
+    },
+    {
+      "phrase": "냉담한 태도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a callous attitude"
+      ]
+    },
+    {
+      "phrase": "냉담해지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "grow cold"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "rigor",
+      "frequency": 3
+    },
+    {
+      "meaning": "nonchalance",
+      "frequency": 0
+    },
+    {
+      "meaning": "standoff",
+      "frequency": 0
+    },
+    {
+      "meaning": "callosity",
+      "frequency": 0
+    },
+    {
+      "meaning": "dryness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The Emperor kept himself aloof from the people. 듣기 Add to Wordbook 그 황제는 백성에게 냉담했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Emperor kept himself aloof from the people. Add to Wordbook"
+    },
+    {
+      "korean": "a callous disregard for the feelings of others 듣기 Add to Wordbook 다른 사람들의 감정을 냉담하리만치 무시함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a callous disregard for the feelings of others Add to Wordbook"
+    },
+    {
+      "korean": "She was hurt by the coldness in his voice. 듣기 Add to Wordbook 그녀는 그의 목소리에 담긴 냉담함에 상처를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was hurt by the coldness in his voice. Add to Wordbook"
+    },
+    {
+      "korean": "He watched her suffering with clinical detachment. 듣기 Add to Wordbook 그는 그녀의 고통을 냉담하게 거리를 두고 지켜보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He watched her suffering with clinical detachment. Add to Wordbook"
+    },
+    {
+      "korean": "She hid her true feelings behind a shield of cold indifference. 듣기 Add to Wordbook 그녀는 냉담한 무관심이라는 보호막 뒤로 자신의 진짜 감정을 감추었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She hid her true feelings behind a shield of cold indifference. Add to Wordbook"
+    }
+  ]
+}

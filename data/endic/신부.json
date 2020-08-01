@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "신부",
+      "hanja": " (新婦)",
+      "example": {},
+      "meanings": [
+        "bride"
+      ]
+    },
+    {
+      "phrase": "신부",
+      "hanja": " (神父)",
+      "example": {},
+      "meanings": [
+        "(천주교 성직자) Father, (Catholic) priest"
+      ]
+    },
+    {
+      "phrase": "신랑 신부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the bride and (the) (bride)groom, newlyweds, newly-married couple"
+      ]
+    },
+    {
+      "phrase": "천주교 신부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a Roman Catholic father"
+      ]
+    },
+    {
+      "phrase": "순결한 신부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a virgin bride"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "father",
+      "frequency": 3
+    },
+    {
+      "meaning": "priest",
+      "frequency": 3
+    },
+    {
+      "meaning": "bride",
+      "frequency": 3
+    },
+    {
+      "meaning": "Fr",
+      "frequency": 0
+    },
+    {
+      "meaning": "churchman",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"김해일 신부님을 만났기 때문이겠죠?\" \"That's all thanks to meeting Father Kim Haeil, right\"? 듣기 View video V COOKIE : [Full] RADIO APART X KIM NAM GIL (RADIO APART X 김남길)",
+      "english": "\"That's all thanks to meeting Father Kim Haeil, right\"?"
+    },
+    {
+      "korean": "신부 오셨습니다. The father is here. 듣기 View video ASTRO : [ASTRO DDOCA] 아스트로 또까 주말 나들이",
+      "english": "The father is here."
+    },
+    {
+      "korean": "신부 메이크업 할 일이... and bride makeup... 듣기 View video EMMA BEAUTY : [엠마뷰티 EMMA BEAUTY] 굿바이 겨울 메이크업 winter make-up",
+      "english": "and bride makeup..."
+    },
+    {
+      "korean": "신부만 조혼을 해요 원래? Only the brides marry early? 듣기 View video 모비딕(Mobidic) : 역대급 찌라시 진위여부 파악해보기 & 가짜 뉴스 구별해서 보는 법 <세젤퀴> 2회",
+      "english": "Only the brides marry early?"
+    },
+    {
+      "korean": "신부는 참 행복할 것 같아요...! I think brides are all happy. 듣기 View video 컨버전스 TV (CONS TV) : [특별영상] 넘버식스 포스터 촬영현장",
+      "english": "I think brides are all happy."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a toast to the bride and groom 듣기 Add to Wordbook 신랑 신부를 위한 건배 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a toast to the bride and groom Add to Wordbook"
+    },
+    {
+      "korean": "The bride’s dress trailed behind her. 듣기 Add to Wordbook 신부의 드레스가 뒤로 끌렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bride’s dress trailed behind her. Add to Wordbook"
+    },
+    {
+      "korean": "The bride was given away by her father. 듣기 Add to Wordbook 신부는 아버지가 신랑에게 인도했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bride was given away by her father. Add to Wordbook"
+    },
+    {
+      "korean": "Please charge your glasses and drink a toast to the bride and groom! 듣기 Add to Wordbook 술잔을 채우고 신랑, 신부를 위해 건배를 합시다! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please charge your glasses and drink a toast to the bride and groom! Add to Wordbook"
+    },
+    {
+      "korean": "The bride looked radiant. 듣기 Add to Wordbook 신부는 빛이 나는 것 같았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bride looked radiant. Add to Wordbook"
+    }
+  ]
+}

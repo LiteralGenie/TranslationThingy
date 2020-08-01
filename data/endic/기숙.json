@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기숙",
+      "hanja": " (寄宿)",
+      "example": {},
+      "meanings": [
+        "lodging, boarding(식사 포함), board and lodging, 기숙하다 lodge[board] (at, with), take up one's lodgings (in)"
+      ]
+    },
+    {
+      "phrase": "기숙사생",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "student living in a dormitory"
+      ]
+    },
+    {
+      "phrase": "삼촌 집에 기숙하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lodge at one´s uncle´s"
+      ]
+    },
+    {
+      "phrase": "기숙 제도 학교",
+      "hanja": " (寄宿制度學校)",
+      "example": {},
+      "meanings": [
+        "a boarding school"
+      ]
+    },
+    {
+      "phrase": "기숙하다",
+      "hanja": " (寄宿하다)",
+      "example": {},
+      "meanings": [
+        "Verb lodge, board"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "boarding",
+      "frequency": 1
+    },
+    {
+      "meaning": "기숙",
+      "frequency": 0
+    },
+    {
+      "meaning": "boarding school",
+      "frequency": 0
+    },
+    {
+      "meaning": "day school",
+      "frequency": 0
+    },
+    {
+      "meaning": "residential school",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "기숙사 생활 괜찮나? How is it to live in a dorm? 듣기 View video SEVENTEEN : 깜짝🦦",
+      "english": "How is it to live in a dorm?"
+    },
+    {
+      "korean": "\"승민이 호그와트 기숙사 어디 좋아해?\" \"Which Hogwarts house do you want to stay?\" 듣기 View video Stray Kids : 승민이의 소확행 EP.3 🐶",
+      "english": "\"Which Hogwarts house do you want to stay?\""
+    },
+    {
+      "korean": "[해리 포터?] 기숙사 상징 동물이 오소리인 기숙사는? [Harry Potter?] this house's mascot is a badger. What's the house? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[Harry Potter?] this house's mascot is a badger. What's the house?"
+    },
+    {
+      "korean": "호그와트에서도 떡볶이는 반입해주는데 - 기숙사에서... Even Hogwarts let their students to bring in some tteokbokki. - Dorms... 듣기 View video V COOKIE : [Full] N.Flying X Eating Show - 엔플라잉 X 같이 먹어요",
+      "english": "Even Hogwarts let their students to bring in some tteokbokki. - Dorms..."
+    },
+    {
+      "korean": "'3월달에 학교 기숙사 들어가요 있지 보고 싶을 때마다 어쩌죠?' \"I am going to school dorm in March... What should I do when I miss ITZY?\" 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "\"I am going to school dorm in March... What should I do when I miss ITZY?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was bundled off to boarding school. 발음듣기 그는 서둘러 기숙학교로 보내졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was bundled off to boarding school. 발음"
+    },
+    {
+      "korean": "a residential language course 발음듣기 기숙사가 제공되는 어학 과정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a residential language course 발음"
+    },
+    {
+      "korean": "She’s living in hall(s). 발음듣기 그녀는 기숙사에서 지내고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s living in hall(s). 발음"
+    },
+    {
+      "korean": "boarders and day pupils 발음듣기 기숙사에서 거주하는 학생들과 집에서 다니는 학생들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "boarders and day pupils 발음"
+    },
+    {
+      "korean": "Most students live in college. 발음듣기 대부분의 학생들은 대학 내에서[기숙사에서] 생활한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most students live in college. 발음"
+    }
+  ]
+}

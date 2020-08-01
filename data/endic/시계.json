@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "시계",
+      "hanja": " (時計)",
+      "example": {},
+      "meanings": [
+        "clock, (손목시계) watch"
+      ]
+    },
+    {
+      "phrase": "시계",
+      "hanja": " (視界)",
+      "example": {},
+      "meanings": [
+        "(눈으로 볼 수 있는 범위) visibility"
+      ]
+    },
+    {
+      "phrase": "해시계",
+      "hanja": " (―時計)",
+      "example": {},
+      "meanings": [
+        "sundial"
+      ]
+    },
+    {
+      "phrase": "손목시계",
+      "hanja": " (손목時計)",
+      "example": {},
+      "meanings": [
+        "(wrist)watch"
+      ]
+    },
+    {
+      "phrase": "모래시계",
+      "hanja": " (모래時計)",
+      "example": {},
+      "meanings": [
+        "sandglass, (1시간짜리) hourglass"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "clock",
+      "frequency": 2
+    },
+    {
+      "meaning": "watch",
+      "frequency": 2
+    },
+    {
+      "meaning": "sight",
+      "frequency": 2
+    },
+    {
+      "meaning": "timepiece",
+      "frequency": 0
+    },
+    {
+      "meaning": "visibility",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "시계? Is it a clock? 듣기 View video KIM TAE WOO : 김태우의 10주년 '하고 싶은 말' (KIM TAE WOO 10th Anniv. ‘Words I'd Want To Say’)",
+      "english": "Is it a clock?"
+    },
+    {
+      "korean": "제가 시계예요? I'm the clock? 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "I'm the clock?"
+    },
+    {
+      "korean": "시간을 달리는... - 형 그래서 시계 찾고 있었구나? Leapt through time... - That's why you were looking for a clock! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "Leapt through time... - That's why you were looking for a clock!"
+    },
+    {
+      "korean": "시계! - 시계는 뭐... Watch! - A watch is... 듣기 View video Golden Child : 세월이 야속할 정도로 변한 10명의 하메들?! 하지만 여전히 우당탕탕인걸★ㅣ우하동 EP.1",
+      "english": "Watch! - A watch is..."
+    },
+    {
+      "korean": "갑자기 웬 시계? A watch? Why? Suddenly? 듣기 View video 콬TV (WHYNOT) : 여사친과 학교에서 키스를 해버렸다❤️ [리얼:타임:러브2] EP2",
+      "english": "A watch? Why? Suddenly?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The hands of the clock crept slowly around. 발음듣기 시계의 바늘들이 천천히 돌아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hands of the clock crept slowly around. 발음"
+    },
+    {
+      "korean": "She kept looking anxiously at her watch. 발음듣기 그녀는 초조한 듯 계속 시계를 보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She kept looking anxiously at her watch. 발음"
+    },
+    {
+      "korean": "She sneaked a surreptitious glance at her watch. 발음듣기 그녀는 슬쩍 한번 시계를 훔쳐보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She sneaked a surreptitious glance at her watch. 발음"
+    },
+    {
+      "korean": "It was raining heavily and visibility was poor. 발음듣기 비가 심하게 내려서 시계가 좋지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was raining heavily and visibility was poor. 발음"
+    },
+    {
+      "korean": "The clock began to whirr before striking the hour. 발음듣기 시계가 시간을 알리기 전에 윙 하는 소리를 내기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The clock began to whirr before striking the hour. 발음"
+    }
+  ]
+}

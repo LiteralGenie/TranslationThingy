@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "전천후",
+      "hanja": " (全天候)",
+      "example": {},
+      "meanings": [
+        "all-weather"
+      ]
+    },
+    {
+      "phrase": "전천후 타이어를 장착하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "install all-weather tires"
+      ]
+    },
+    {
+      "phrase": "전천후 농업",
+      "hanja": " (全天候農業)",
+      "example": {},
+      "meanings": [
+        "all-weather agriculture"
+      ]
+    },
+    {
+      "phrase": "전천후 도로",
+      "hanja": " (全天候道路)",
+      "example": {},
+      "meanings": [
+        "all-weather highway"
+      ]
+    },
+    {
+      "phrase": "전천후 비행",
+      "hanja": " (全天候飛行)",
+      "example": {},
+      "meanings": [
+        "all-weather flying"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "all-weather",
+      "frequency": 0
+    },
+    {
+      "meaning": "an all-weather football pitch",
+      "frequency": 0
+    },
+    {
+      "meaning": "weather-proof",
+      "frequency": 0
+    },
+    {
+      "meaning": "해병전투공격기대대",
+      "frequency": 0
+    },
+    {
+      "meaning": "AH-64",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "an all-weather football pitch 발음듣기 전천후 축구 경기장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an all-weather football pitch 발음"
+    },
+    {
+      "korean": "He is an all-around offensive player on our team. 발음듣기 그는 우리 팀의 전천후 공격수다 Neungyule",
+      "english": "He is an all-around offensive player on our team. 발음"
+    },
+    {
+      "korean": "Thank you for your fax of January 11 requesting dealer information about our company's hip line of all-terrain vehicles. 발음듣기 저희 회사의 최신형 전천후 차량 제품에 관한 판매 정보를 요청하신 귀하의 1월 11일자 팩스는 잘 받았습니다. YBM All in All English-Korean Dictionary",
+      "english": "Thank you for your fax of January 11 requesting dealer information about our company's hip line of all-terrain vehicles. 발음"
+    },
+    {
+      "korean": "Thank you for your fax of January 11 requesting dealer information about our company s newest line of all-terrain vehicles. 발음듣기 저희 회사의 최신형 전천후 차량 제품에 관한 판매 정보를 요청하신 귀하의 1월 11일자 팩스는 잘 받았습니다. YBM All in All English-Korean Dictionary",
+      "english": "Thank you for your fax of January 11 requesting dealer information about our company s newest line of all-terrain vehicles. 발음"
+    },
+    {
+      "korean": "The new HP Home Set 250C could be the weather-proof printer for your family needs. 발음듣기 신제품 HP 홈셋 250C는 여러분이 가정에서 쓰실 수 있는 전천후 프린터입니다. YBM All in All English-Korean Dictionary",
+      "english": "The new HP Home Set 250C could be the weather-proof printer for your family needs. 발음"
+    }
+  ]
+}

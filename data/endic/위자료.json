@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "위자료",
+      "hanja": " (慰藉料)",
+      "example": {},
+      "meanings": [
+        "(이혼 시의) alimony, (피해·손해에 대한) compensation"
+      ]
+    },
+    {
+      "phrase": "근소한 위자료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a nominal solatium"
+      ]
+    },
+    {
+      "phrase": "위자료를 요구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "demand compensation"
+      ]
+    },
+    {
+      "phrase": "이혼 위자료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "divorce alimony"
+      ]
+    },
+    {
+      "phrase": "위자료 지급",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provision of alimony"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "solatium",
+      "frequency": 0
+    },
+    {
+      "meaning": "consolation money",
+      "frequency": 0
+    },
+    {
+      "meaning": "dally money",
+      "frequency": 0
+    },
+    {
+      "meaning": "consolation money",
+      "frequency": 0
+    },
+    {
+      "meaning": "Schmerzensgeld",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저는 사실 위자료도 원하지 않는다는 이혼소송은 처음인 것 같아요. I think this is my first divorce settlement without alimony. 듣기 View video 10PM : [10pm2 월] 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "I think this is my first divorce settlement without alimony."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She paid manimoney to her former husband. 듣기 Add to Wordbook 그녀는 전남편에게 위자료를 지불했다. 국제영어대학원대학교 신어사전",
+      "english": "She paid manimoney to her former husband. Add to Wordbook"
+    },
+    {
+      "korean": "She sued (her husband) for alimony. 듣기 Add to Wordbook 그녀는 남편을 상대로 위자료 청구 소송을 제기했다 Neungyule",
+      "english": "She sued (her husband) for alimony. Add to Wordbook"
+    },
+    {
+      "korean": "His ex-wife got the house in the divorce settlement. 듣기 Add to Wordbook 그는 전처에게 위자료로 살던 집을 주었다 Neungyule",
+      "english": "His ex-wife got the house in the divorce settlement. Add to Wordbook"
+    },
+    {
+      "korean": "The injured demanded compensation from the government. 듣기 Add to Wordbook 부상자들은 정부에 위자료를 청구했다 Neungyule",
+      "english": "The injured demanded compensation from the government. Add to Wordbook"
+    },
+    {
+      "korean": "I want to stop the support payments from him. 듣기 Add to Wordbook 나는 그한테서 이혼 위자료를 더 이상 받고 싶지 않습니다. Neungyule",
+      "english": "I want to stop the support payments from him. Add to Wordbook"
+    }
+  ]
+}

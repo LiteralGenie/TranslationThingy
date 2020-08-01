@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "계승자",
+      "hanja": " (繼承者)",
+      "example": {},
+      "meanings": [
+        "heir (to), successor (to), inheritor"
+      ]
+    },
+    {
+      "phrase": "왕위 계승자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a successor to the throne"
+      ]
+    },
+    {
+      "phrase": "계승자 결정",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "decision of successor"
+      ]
+    },
+    {
+      "phrase": "계승자를 표방하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "profess heir"
+      ]
+    },
+    {
+      "phrase": "계승",
+      "hanja": " (繼承)",
+      "example": {},
+      "meanings": [
+        "[명사] succession, (왕위의) (formal) accession, [동사] succeed (to), (물려받다) inherit, (왕위를) (formal) accede (to)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "heir",
+      "frequency": 3
+    },
+    {
+      "meaning": "successor",
+      "frequency": 3
+    },
+    {
+      "meaning": "continuator",
+      "frequency": 0
+    },
+    {
+      "meaning": "an heir to the throne",
+      "frequency": 0
+    },
+    {
+      "meaning": "the successor to the throne",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "He is the eldest son and thus heir to the title. 듣기 Add to Wordbook 그는 장남이고 따라서 작위 계승자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is the eldest son and thus heir to the title. Add to Wordbook"
+    },
+    {
+      "korean": "the heir to the throne 듣기 Add to Wordbook 왕위 계승자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the heir to the throne Add to Wordbook"
+    },
+    {
+      "korean": "to be next in line to the throne 듣기 Add to Wordbook 차기 왕위 계승자이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be next in line to the throne Add to Wordbook"
+    },
+    {
+      "korean": "He was the only heir[successor] to the throne. 듣기 Add to Wordbook 그는 유일한 왕위 계승자였다 Neungyule",
+      "english": "He was the only heir[successor] to the throne. Add to Wordbook"
+    },
+    {
+      "korean": "In the UK, it comes into usage for the next heir to the throne to be regent. 듣기 Add to Wordbook 영국에서는 다음 왕위 계승자가 섭정이 되는 것이 관례이다. YBM All in All English-Korean Dictionary",
+      "english": "In the UK, it comes into usage for the next heir to the throne to be regent. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "시절",
+      "hanja": " (時節)",
+      "example": {},
+      "meanings": [
+        "days, years"
+      ]
+    },
+    {
+      "phrase": "학창 시절",
+      "hanja": " (學窓時節)",
+      "example": {},
+      "meanings": [
+        "one's school[student] days"
+      ]
+    },
+    {
+      "phrase": "젊은 시절에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in one´s youth",
+        "while young"
+      ]
+    },
+    {
+      "phrase": "이런 시절에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in these times",
+        "at this time of year"
+      ]
+    },
+    {
+      "phrase": "대학 시절에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "while in college",
+        "while at university"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "life",
+      "frequency": 2
+    },
+    {
+      "meaning": "그때",
+      "frequency": 0
+    },
+    {
+      "meaning": "당시",
+      "frequency": 0
+    },
+    {
+      "meaning": "youth",
+      "frequency": 2
+    },
+    {
+      "meaning": "boyhood",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "보통 귀여울 때를 감자 시절이라고 하지 않나? Don't you call something cute a potato? 듣기 View video IZ*ONE : 🍯💧즈 왔어용~☔️",
+      "english": "Don't you call something cute a potato?"
+    },
+    {
+      "korean": "그러니까 - 혹시 토마스 에디슨이 (흐흫) 그 시절에? So. - Maybe it is Thomas Edison? At that time? 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "So. - Maybe it is Thomas Edison? At that time?"
+    },
+    {
+      "korean": "[따놓은 당상이겠네요] 감자 시절이라고 하지 않나? [of Gangwon-do, the potato production area] don't we say she's like a potato? 듣기 View video V PICK! : [IZ*ONE] 꿀물즈의 오늘도 감자한 라이브🥔❣️ (CHAEYEON&YURI talking about a story of the past)",
+      "english": "[of Gangwon-do, the potato production area] don't we say she's like a potato?"
+    },
+    {
+      "korean": "'그 시절 속에' 아니고? Isn't it \"Back then\"? 듣기 View video SMTOWN : 푸르게 빛나던 슈퍼주니어-K.R.Y.의 계절🌿",
+      "english": "Isn't it \"Back then\"?"
+    },
+    {
+      "korean": "학창시절 좋아하는 과목이요? What was my favorite school subject? 듣기 View video ATEEZ : 에이티니 마음에 탕🍬탕🍬사탕❤",
+      "english": "What was my favorite school subject?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to look back nostalgically to your childhood 발음듣기 자기 어린 시절을 향수 어린 마음으로 돌아보다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to look back nostalgically to your childhood 발음"
+    },
+    {
+      "korean": "Those were the happiest days of my life. 발음듣기 그때가 내 인생에서 가장 행복한 시절이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Those were the happiest days of my life. 발음"
+    },
+    {
+      "korean": "My memories of childhood are hazy and episodic. 발음듣기 나의 유년 시절에 대한 기억은 흐릿하고 단편적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My memories of childhood are hazy and episodic. 발음"
+    },
+    {
+      "korean": "Her unhappy childhood left an indelible mark. 발음듣기 그녀의 불행한 어린 시절은 지울 수 없는 흔적을 남겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her unhappy childhood left an indelible mark. 발음"
+    },
+    {
+      "korean": "The place was overlaid with memories of his childhood. 발음듣기 그 곳에는 그의 어린 시절 추억들이 어려 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The place was overlaid with memories of his childhood. 발음"
+    }
+  ]
+}

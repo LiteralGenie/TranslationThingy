@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "번째",
+      "hanja": " (番째)",
+      "example": {},
+      "meanings": [
+        "Bound noun beonjjae"
+      ]
+    },
+    {
+      "phrase": "첫[두] 번째",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the first[second]"
+      ]
+    },
+    {
+      "phrase": "이모작의 첫 번째[두 번째] 경작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the first[second] crop"
+      ]
+    },
+    {
+      "phrase": "이버 존슨(두 번째 모델)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Iver Johnson(Second Model)"
+      ]
+    },
+    {
+      "phrase": "이버 존슨(첫 번째 모델)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Iver Johnson(First Model)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "thousandth",
+      "frequency": 2
+    },
+    {
+      "meaning": "thirteenth",
+      "frequency": 1
+    },
+    {
+      "meaning": "Oliver's 13th birthday",
+      "frequency": 0
+    },
+    {
+      "meaning": "billionth",
+      "frequency": 0
+    },
+    {
+      "meaning": "M",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "세안 후 첫 번째는 바로 자외선케어죠. After you wash your face, the first step is UV care. 듣기 View video HANABONO : 이비자 거품파티 안가본 뷰티유튜버의 생크림 거품세안하는 법 (with #퍼펙트휩챌린지)",
+      "english": "After you wash your face, the first step is UV care."
+    },
+    {
+      "korean": "[부대찌개, 비빔면 도우미, 용가리, 스팸 등등] 사실 배고플 때 첫 번째... [Budae-jjigae, mixed noodles assistant, Younggari chicken and Spam...] When we are hungry... 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN SPIN-OFF EP.22 TTT (MT SVT REALITY) #2",
+      "english": "[Budae-jjigae, mixed noodles assistant, Younggari chicken and Spam...] When we are hungry..."
+    },
+    {
+      "korean": "이번에는 열세 번째 멤버입니다. This one is the 13th member. 듣기 View video NCT : [FULL] 웰컴 NCT 2018 (WELCOME NCT 2018)",
+      "english": "This one is the 13th member."
+    },
+    {
+      "korean": "1번은 목 뒤쪽 척추 열세 번째... #1 is behind the neck on the 13th spine. 듣기 View video V MOVIE : <국가대표2> 오연서 스팟 라이브",
+      "english": "#1 is behind the neck on the 13th spine."
+    },
+    {
+      "korean": "앨범 작업할 때 첫 번째 곡이었어요 이게. This was the first song I worked on for the album. 듣기 View video Jessica : \"Summer Storm\" party 🍾💛",
+      "english": "This was the first song I worked on for the album."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Oliver’s 13th birthday 발음듣기 올리버의 열세 번째 생일 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Oliver’s 13th birthday 발음"
+    },
+    {
+      "korean": "by the first[second] count 발음듣기 처음[두 번째] 계산에 의하면. Friendict Level English-Korean Dictionary",
+      "english": "by the first[second] count 발음"
+    },
+    {
+      "korean": "South Korea was routed 4-2 by Zambia in its first match of the year in Johannesburg, South Africa. 발음듣기 한국이 남아프리카공화국의 요하네스버그에서 치른 새해 첫 번째 경기에서 잠비아에게 4대 2로 완패했다. Neungyule",
+      "english": "South Korea was routed 4-2 by Zambia in its first match of the year in Johannesburg, South Africa. 발음"
+    },
+    {
+      "korean": "He scored the first goal of the tournament in the match against Poland. 발음듣기 그는 폴란드와의 경기에서 대회 첫 번째 골을 넣었다. Neungyule",
+      "english": "He scored the first goal of the tournament in the match against Poland. 발음"
+    },
+    {
+      "korean": "What is the first step for adding a signature to an e-mail? 발음듣기 이메일에 서명을 추가할 때 첫 번째 단계는 무엇인가? YBM All in All English-Korean Dictionary",
+      "english": "What is the first step for adding a signature to an e-mail? 발음"
+    }
+  ]
+}

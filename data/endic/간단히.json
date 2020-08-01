@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "간단히",
+      "hanja": " (簡單히)",
+      "example": {},
+      "meanings": [
+        "simply, easily, briefly"
+      ]
+    },
+    {
+      "phrase": "간단히 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in short[brief]",
+        "to put it simply[briefly]",
+        "to make a long story short"
+      ]
+    },
+    {
+      "phrase": "간단히 들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get a bite to eat",
+        "grab something to eat"
+      ]
+    },
+    {
+      "phrase": "간단히 말하자면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in short[brief]",
+        "to be brief",
+        "in a word"
+      ]
+    },
+    {
+      "phrase": "간단히 설명하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give a short[brief] account (of)",
+        "explain briefly"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "briefly",
+      "frequency": 2
+    },
+    {
+      "meaning": "simply",
+      "frequency": 2
+    },
+    {
+      "meaning": "light 2",
+      "frequency": 1
+    },
+    {
+      "meaning": "in a breeze",
+      "frequency": 0
+    },
+    {
+      "meaning": "as a duck takes to water",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저희가 이렇게 간단히 팀워크를 맞춰보았는데요 여러분 잘 맞는 것 같나요? We've checked our teamwork. Do you think we've got great teamwork? 듣기 View video OSEN : Golden Child 골든차일드, 그림 실력 대신 눈치(?)로 따낸 회식 #스타로드 05",
+      "english": "We've checked our teamwork. Do you think we've got great teamwork?"
+    },
+    {
+      "korean": "[용건만 간단히] 어디야? [Simple] Where are you? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "[Simple] Where are you?"
+    },
+    {
+      "korean": "[쿠키 재료 소개 타임] 그럼 재료를 하나씩 좀 간단히 소개해 볼까요? [Time to introduce the cookie ingredients] Shall we give a brief introduction of each ingredient? 듣기 View video Dispatch : [ⓓxV] “우리칠베이커리 OPEN ②” (태일, 도영, 정우 : NCT 127)",
+      "english": "[Time to introduce the cookie ingredients] Shall we give a brief introduction of each ingredient?"
+    },
+    {
+      "korean": "간단히 앉아서 할 수 있는 게임 없나? Is there any game to play while seated down? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.21 TTT #1 (Camping Ver.)",
+      "english": "Is there any game to play while seated down?"
+    },
+    {
+      "korean": "[선풍기 하나로 꽁냥꽁냥] 다니면서 뭐 간단히 마실까? [Looking so sweet with a fan] Shall we drink something? 듣기 View video 콬TV (WHYNOT) : 두 남자가 한 여자를 좋아한다면?ㅣ[리얼하이로맨스S2] EP9",
+      "english": "[Looking so sweet with a fan] Shall we drink something?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The professor previewed the course for us. 발음듣기 교수가 우리에게 그 강좌에 대해 간단히 소개해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The professor previewed the course for us. 발음"
+    },
+    {
+      "korean": "You can make a curry hotter simply by adding chillies. 발음듣기 간단히 고추만 더 넣으면 카레를 더 맵게 만들 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can make a curry hotter simply by adding chillies. 발음"
+    },
+    {
+      "korean": "She performed a brief mime. 발음듣기 그녀가 간단히 무언극을 해 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She performed a brief mime. 발음"
+    },
+    {
+      "korean": "Drop me a line when you get there. 발음듣기 거기 도착하면 간단히 적어서 알려 줘. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Drop me a line when you get there. 발음"
+    },
+    {
+      "korean": "Simply add hot water and stir. 발음듣기 그냥 간단히 뜨거운 물을 부어 젓기만 하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Simply add hot water and stir. 발음"
+    }
+  ]
+}

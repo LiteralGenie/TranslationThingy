@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "항",
+      "hanja": " (項)",
+      "example": {},
+      "meanings": [
+        "clause, paragraph, section"
+      ]
+    },
+    {
+      "phrase": "-항",
+      "hanja": " (港)",
+      "example": {},
+      "meanings": [
+        "a harbor, a port"
+      ]
+    },
+    {
+      "phrase": "항-",
+      "hanja": " (抗)",
+      "example": {},
+      "meanings": [
+        "Affix hang-"
+      ]
+    },
+    {
+      "phrase": "항(구)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "교통 (공항·항구) Port"
+      ]
+    },
+    {
+      "phrase": "항(법문의 조항)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_법률 paragraph"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "term",
+      "frequency": 3
+    },
+    {
+      "meaning": "harborage",
+      "frequency": 0
+    },
+    {
+      "meaning": "nape of neck",
+      "frequency": 0
+    },
+    {
+      "meaning": "factor VIII",
+      "frequency": 0
+    },
+    {
+      "meaning": "antipsychotic",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "항? 항이 뭐야 항 - 진짜로는 뭐야? Hang? Hang what is there? - What do you mean for real? 듣기 View video BLACKPINK : 불금이다🔥",
+      "english": "Hang? Hang what is there? - What do you mean for real?"
+    },
+    {
+      "korean": "목포항? 항 바위? Mokpo? - Mokpo port? 듣기 View video KNK : 크나큰(KNK) 목포 깜짝 생방송💜",
+      "english": "Mokpo? - Mokpo port?"
+    },
+    {
+      "korean": "항방. 향방 아닙니다. 항. \"Hang-bang\" It's not \"Hyang\". 듣기 View video Happy Robot Records : [THE KOXX] 빈&송 수요미식단",
+      "english": "\"Hang-bang\" It's not \"Hyang\"."
+    },
+    {
+      "korean": "항은 이거 맡아보시면 돼요. 샘플 있거든요. You can smell the samples. 듣기 View video Block B : 블락비의 언시크릿 ep3",
+      "english": "You can smell the samples."
+    },
+    {
+      "korean": "질문 응답이라는 그런 항. - 맞습니다. We have a Q&A bulletin. - That's right. 듣기 View video IDOL x IDOL : BEAT WIN - 비트윈 '멋 이라는 것이 폭발했다.'",
+      "english": "We have a Q&A bulletin. - That's right."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Unfortunately, the vessel that was scheduled to leave for Oakland port from Incheon on January 19 has been called in for repairs. 듣기 Add to Wordbook 유감스럽게도 1월 19일 인천에서 오클랜드 항으로 향할 예정이던 선박을 수리를 위해 불러들였습니다. DARAKWON",
+      "english": "Unfortunately, the vessel that was scheduled to leave for Oakland port from Incheon on January 19 has been called in for repairs. Add to Wordbook"
+    },
+    {
+      "korean": "I agree with both articles 1 and or 2 듣기 Add to Wordbook 나는 1조 항과 2조 항 모두, 또는 한 쪽에 동의한다. YBM All in All English-Korean Dictionary",
+      "english": "I agree with both articles 1 and or 2 Add to Wordbook"
+    },
+    {
+      "korean": "Which see, can you understand it? 듣기 Add to Wordbook 그 항을 봐. 이해할 수 있니? YBM All in All English-Korean Dictionary",
+      "english": "Which see, can you understand it? Add to Wordbook"
+    },
+    {
+      "korean": "She will appear as a 17-year-old niece of the dockyard worker, played by actor Liev Schreiber. 듣기 Add to Wordbook 그녀는 리브 슈라이버가 연기하는 항 만 노동자의 17살 난 조카로 출연할 것이다. Neungyule",
+      "english": "She will appear as a 17-year-old niece of the dockyard worker, played by actor Liev Schreiber. Add to Wordbook"
+    },
+    {
+      "korean": "The joint declaration is composed of five sections. 듣기 Add to Wordbook 공동선언문은 모두 5개 항으로 되어 있다 Neungyule",
+      "english": "The joint declaration is composed of five sections. Add to Wordbook"
+    }
+  ]
+}

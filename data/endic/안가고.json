@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) go, come, get, (formal) proceed",
+        "(~하러 떠나다) go",
+        "(군대·학교 등을) join, enter, go (to)"
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": " (案)",
+      "example": {},
+      "meanings": [
+        "(안건) item",
+        "(의견, 제안) suggestion, idea, proposal"
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(내부) the inside, interior",
+        "(이내), (=내)"
+      ]
+    },
+    {
+      "phrase": "잘[안] 내리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be digestible[indigestible]",
+        "be easy[hard] of digestion[to digest]"
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb not"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fine",
+      "frequency": 3
+    },
+    {
+      "meaning": "blind",
+      "frequency": 3
+    },
+    {
+      "meaning": "runaway",
+      "frequency": 3
+    },
+    {
+      "meaning": "gargle",
+      "frequency": 0
+    },
+    {
+      "meaning": "limp 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "스키장 안 가고 싶어요? - 스키장, 지금 딱 이제... You don't want to go to ski resort? - Ski resort... Right now... 듣기 View video N.Flying : 우리 얘기 좀 합시다 #35",
+      "english": "You don't want to go to ski resort? - Ski resort... Right now..."
+    },
+    {
+      "korean": "심심하길래 - 막 축구하러 안 가고 여자애들이랑 공기하고 그랬어, 쉬는 시간에? we got a bit bored... - Did you go out and play soccer while the girls played jack during breaks? 듣기 View video OSEN : WINNER 막내리더 강승윤, 반할 수밖에 없는 모먼트 #스타로드 하이라이트",
+      "english": "we got a bit bored... - Did you go out and play soccer while the girls played jack during breaks?"
+    },
+    {
+      "korean": "거기 안 가고 - 알잖아 우린 좀... instead of the beef barbecue place. - You know, we are... 듣기 View video ATEEZ : 산 VS 민기 챔피언전🏆",
+      "english": "instead of the beef barbecue place. - You know, we are..."
+    },
+    {
+      "korean": "그래 그냥 안 가고 이렇게 같이 살면? Okay, then what if I don't go and we continue to live together like this? 듣기 View video 플레이리스트 (Playlist) : 1년 동안 잠수탄 동거남 잡는 이유 [최고의 엔딩 - 최고커플 요약]",
+      "english": "Okay, then what if I don't go and we continue to live together like this?"
+    },
+    {
+      "korean": "근데 진짜 4명 다 모였을 때 왜 별로 안 가고 싶어 했던 것처럼 그러셨어요? Why did you act as if you didn't want when we gathered up? 듣기 View video N.Flying : 🏕제 2회 여름승협캠프 #1 미리보기",
+      "english": "Why did you act as if you didn't want when we gathered up?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Would you prefer me to stay? 듣기 Add to Wordbook 제가 (안 가고) 남아 있으면 좋겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Would you prefer me to stay? Add to Wordbook"
+    },
+    {
+      "korean": "The dispute was settled without acrimony. 듣기 Add to Wordbook 그 분쟁은 험악한 지경까지 안 가고 해결이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dispute was settled without acrimony. Add to Wordbook"
+    },
+    {
+      "korean": "I’ll stay around in case you need me. 듣기 Add to Wordbook 네가 날 필요로 할지도 모르니까 난 안 가고 있을게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll stay around in case you need me. Add to Wordbook"
+    },
+    {
+      "korean": "I would like to opt out of the business trip, if you don't mind. 듣기 Add to Wordbook 괜찮으시면, 저는 출장을 안 가고 싶습니다. DARAKWON",
+      "english": "I would like to opt out of the business trip, if you don't mind. Add to Wordbook"
+    },
+    {
+      "korean": "He shoots jump shots all day instead of going in the paint and even let Rajon Rondo dunk on him. 듣기 Add to Wordbook 그는 골 밑에는 안가고 하루 종일 점프 슛만 쏘면서 RajonRondo따위한테 덩크슛이나 당하지. DARAKWON",
+      "english": "He shoots jump shots all day instead of going in the paint and even let Rajon Rondo dunk on him. Add to Wordbook"
+    }
+  ]
+}

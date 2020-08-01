@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "순위",
+      "hanja": " (順位)",
+      "example": {},
+      "meanings": [
+        "ranking, (Brit) placing"
+      ]
+    },
+    {
+      "phrase": "우선순위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "order of priority"
+      ]
+    },
+    {
+      "phrase": "순위를 매기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "determine the ranking"
+      ]
+    },
+    {
+      "phrase": "메달 순위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "medal standing"
+      ]
+    },
+    {
+      "phrase": "우선순위를 정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prioritize"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "position",
+      "frequency": 3
+    },
+    {
+      "meaning": "rank 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "rating",
+      "frequency": 0
+    },
+    {
+      "meaning": "ranking",
+      "frequency": 0
+    },
+    {
+      "meaning": "billing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "서울대 바팩이 원하는 1순위 코디는? Who do you want? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "Who do you want?"
+    },
+    {
+      "korean": "여기가 2순위라고 해야 하나? and here is the next coziest place. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "and here is the next coziest place."
+    },
+    {
+      "korean": "[우리 순위] 하위권인데 5위? [Our ranking] 5th place? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[Our ranking] 5th place?"
+    },
+    {
+      "korean": "[성균관대 꾼 1R 순위는?] 성균관대 순위는? The rank of Sungkyunkwan University is? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 20. 경희대 래빈VS 서울대 츄플 리매치!? 과연 살아남을 학교는 어디?",
+      "english": "The rank of Sungkyunkwan University is?"
+    },
+    {
+      "korean": "[경희대 서울캠 예상 순위는?] 몇 등일 것 같은데요? What do you think your ranking was? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "What do you think your ranking was?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The results, ranked in ascending order are as follows: 듣기 Add to Wordbook 순위가 낮은 것부터 정리한 그 결과는 다음과 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The results, ranked in ascending order are as follows: Add to Wordbook"
+    },
+    {
+      "korean": "The results, ranked in descending order are as follows: 듣기 Add to Wordbook 최고부터 최하까지 순위를 매긴 결과는 다음과 같습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The results, ranked in descending order are as follows: Add to Wordbook"
+    },
+    {
+      "korean": "Italy’s most wanted man 듣기 Add to Wordbook 이탈리아에서 수배 대상 1순위인 자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Italy’s most wanted man Add to Wordbook"
+    },
+    {
+      "korean": "She’s had three number ones. 듣기 Add to Wordbook 그녀는 (인기 순위) 1위를 세 번 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s had three number ones. Add to Wordbook"
+    },
+    {
+      "korean": "He is second in line to the chairman. 듣기 Add to Wordbook 그는 의장 계보 2순위이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is second in line to the chairman. Add to Wordbook"
+    }
+  ]
+}

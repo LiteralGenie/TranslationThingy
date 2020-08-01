@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "미안",
+      "hanja": " (未安)",
+      "example": {},
+      "meanings": [
+        "(거북하다) (be) uneasy, uncomfortable, feel uneasy, feel oneself to be blamable",
+        "(남에게) (be) sorry, regrettable, repentant, regretted"
+      ]
+    },
+    {
+      "phrase": "미안",
+      "hanja": " (美顔)",
+      "example": {},
+      "meanings": [
+        "a beautiful[handsome] face, a fair face, good[attractive] looks, pretty features"
+      ]
+    },
+    {
+      "phrase": "미안하다",
+      "hanja": " (未安하다)",
+      "example": {},
+      "meanings": [
+        "sorry"
+      ]
+    },
+    {
+      "phrase": "끼어들어서 미안해.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Sorry to cut you off."
+      ]
+    },
+    {
+      "phrase": "미안합니다. 정전입니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Sorry, the power is out."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "soz",
+      "frequency": 0
+    },
+    {
+      "meaning": "Sorry, guys. I goofed.",
+      "frequency": 0
+    },
+    {
+      "meaning": "apologetic",
+      "frequency": 3
+    },
+    {
+      "meaning": "sorry",
+      "frequency": 3
+    },
+    {
+      "meaning": "I'm sorry",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "미안 미안해 미안해! Sorry! I'm sorry! I'm sorry. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Sorry! I'm sorry! I'm sorry."
+    },
+    {
+      "korean": "내가 미안해 미안해! I'm sorry. I'm sorry! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "I'm sorry. I'm sorry!"
+    },
+    {
+      "korean": "진짜 미안해~ I'm really sorry. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "I'm really sorry."
+    },
+    {
+      "korean": "너 안돼 미안해! I can't. I'm sorry. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "I can't. I'm sorry."
+    },
+    {
+      "korean": "진아! 진아 미안! Jin! Jin! I'm sorry. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Jin! Jin! I'm sorry."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Sorry, I’ve got to go. 듣기 Add to Wordbook 미안해, 나 가야 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sorry, I’ve got to go. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry—I burnt the toast. 듣기 Add to Wordbook 미안해. 토스트를 태워 버렸어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sorry—I burnt the toast. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry, I don’t follow. 듣기 Add to Wordbook 미안하지만, 이해가 안 돼. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sorry, I don’t follow. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry, I really have to bail. 듣기 Add to Wordbook 미안, 나 정말 빨리 가야 돼. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sorry, I really have to bail. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry I can’t be more helpful. 듣기 Add to Wordbook 더 도움이 못 돼 미안해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sorry I can’t be more helpful. Add to Wordbook"
+    }
+  ]
+}

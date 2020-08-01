@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(인간의 신체적·정신적 활동) work; (힘든 일) labor; (임무) duty, task; (직업) job, employment",
+        "(용무) business",
+        "(문제) matter, affair, concern"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (日)",
+      "example": {},
+      "meanings": [
+        "(날) day"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (一·壹)",
+      "example": {},
+      "meanings": [
+        "(숫자) one"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (一/壹)",
+      "example": {},
+      "meanings": [
+        "Number one (→하나2)"
+      ]
+    },
+    {
+      "phrase": "일",
+      "hanja": " (日)",
+      "example": {},
+      "meanings": [
+        "Bound noun il (→월3, 년)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "no more than",
+      "frequency": 0
+    },
+    {
+      "meaning": "affair",
+      "frequency": 2
+    },
+    {
+      "meaning": "엮음",
+      "frequency": 0
+    },
+    {
+      "meaning": "chore",
+      "frequency": 1
+    },
+    {
+      "meaning": "matter",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이쪽 일 뿐만 아니고 뭐 그냥 사람에 대한 그런... Not just in this line of work, but everything regarding people... 듣기 View video 모비딕(Mobidic) : 홍석천 사장님과 단둘이 점심 먹은 샤넌 <지금 홍식당으로 알바갑니다> 7회",
+      "english": "Not just in this line of work, but everything regarding people..."
+    },
+    {
+      "korean": "\"푱푱\" 안에 있다니까요. - 이건 \"푱푱\"일 뿐이고 LABOUM이 없잖아요!! It's included in \"Pyong Pyong.\" - No. LABOUM's clearly not here!! 듣기 View video IDOL x IDOL : 라붐 LABOUM - 컴백 전 특별한 데이트",
+      "english": "It's included in \"Pyong Pyong.\" - No. LABOUM's clearly not here!!"
+    },
+    {
+      "korean": "아니 일도 안 매운데? No, not at all. 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "No, not at all."
+    },
+    {
+      "korean": "일로 올래? Do you want to come over here? 듣기 View video MAMAMOO : 용콩별콩 뒤집어지는 LIVE",
+      "english": "Do you want to come over here?"
+    },
+    {
+      "korean": "뭐야? 둘이 뭔 일 있어? What? What happened? 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "What? What happened?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It has been my experience that one cannot, in any shape or form, depend on human relations for lasting reward. It is only work that truly satisfies. (Bette Davis) 발음듣기 내 경험에 따르면 사람은 지속적 보상을 얻기 위해 어떤 형태로든 인간 관계에 의존할 수는 없다. 정말로 만족감을 주는 것은 일 뿐이다. (베티 데이비스, 일명언) 명언/속담",
+      "english": "It has been my experience that one cannot, in any shape or form, depend on human relations for lasting reward. It is only work that truly satisfies. (Bette Davis) 발음"
+    },
+    {
+      "korean": "He takes no part in Senate debates and his sole function is to cast the deciding vote in case of a tie. 발음듣기 부통령은 상원 토론에도 참여하지 못하며, 유일한 기능은 찬반 동수일 경우에 한해 결정표를 던지는 일 뿐입니다. YBM All in All English-Korean Dictionary",
+      "english": "He takes no part in Senate debates and his sole function is to cast the deciding vote in case of a tie. 발음"
+    },
+    {
+      "korean": "With that as the prevailing mood, Lee's words on creating a fair society amount to nothing more than an empty slogan. 발음듣기 이런 정서(시각)가 팽배한 가운데 이 대통령이 공정한 사회를 구현하겠다는 발언은 빈 껍데기 일 뿐이다. Neungyule",
+      "english": "With that as the prevailing mood, Lee's words on creating a fair society amount to nothing more than an empty slogan. 발음"
+    },
+    {
+      "korean": "The State Department called the Iraqi proposal \"a procedural gimmick.\" 발음듣기 국무부는 이라크의 제안이 \"절차상의 술책\"일 뿐이라고 말했다. Neungyule",
+      "english": "The State Department called the Iraqi proposal \"a procedural gimmick.\" 발음"
+    },
+    {
+      "korean": "Doctors said many people also wear headphones, not just to enjoy music, but also to block out ambient noise on buses, trains or just the street. 발음듣기 의사들은 많은 사람들이 음악을 즐기기 위해서 일 뿐만 아니라, 버스, 기차 또는 단지 거리에서 들려오는 주변음을 차단하기 위해서 헤드폰을 또한 착용한다 라고 말했다. Neungyule",
+      "english": "Doctors said many people also wear headphones, not just to enjoy music, but also to block out ambient noise on buses, trains or just the street. 발음"
+    }
+  ]
+}

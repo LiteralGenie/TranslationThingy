@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "무엇",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "what, (정해지지 않은 대상) something, anything"
+      ]
+    },
+    {
+      "phrase": "무엇보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "first (of all), above all, most of all"
+      ]
+    },
+    {
+      "phrase": "무엇이나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "anything (at all)",
+        "whatever",
+        "everything"
+      ]
+    },
+    {
+      "phrase": "무엇보다도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "above all things",
+        "before everything else",
+        "first of all"
+      ]
+    },
+    {
+      "phrase": "무엇이든지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "whatever",
+        "anything(무엇이든지 하나)",
+        "anything and everything(무엇이든지 다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what",
+      "frequency": 3
+    },
+    {
+      "meaning": "anything",
+      "frequency": 3
+    },
+    {
+      "meaning": "something",
+      "frequency": 3
+    },
+    {
+      "meaning": "what 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "doofer",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무엇 때문이지? What's the reason? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "What's the reason?"
+    },
+    {
+      "korean": "무엇 때문에 그렇지? What's the reason? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "What's the reason?"
+    },
+    {
+      "korean": "여러분은 오늘 무엇을 하셨나요? What did you all do today? 듣기 View video AB6IX : 로센키🌹",
+      "english": "What did you all do today?"
+    },
+    {
+      "korean": "[ㅈㅈ] [다음에 배울 단어는 무엇일까?] [ㅈㅈ] [What would be the next word?] View video V CREW : [V CREW] 로디 알쓸덕잡 EP. 01 RGRG👌",
+      "english": "[ㅈㅈ] [What would be the next word?]"
+    },
+    {
+      "korean": "그렇습니다 - 그렇다면 저희는 오늘 무엇을 하면 되나요? That's right. - What should we do today? 듣기 View video OSEN : PENTAGON 펜타곤, 우당탕탕 'Dr.베베' 댄스 챌린지 #스타로드 01",
+      "english": "That's right. - What should we do today?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What is she rambling on about now? 듣기 Add to Wordbook 그녀가 지금은 무엇에 대해 지껄이는 거지? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What is she rambling on about now? Add to Wordbook"
+    },
+    {
+      "korean": "Nothing would tempt me to live here. 듣기 Add to Wordbook 그 무엇을 준다 해도 난 여기 살고 싶지 않겠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Nothing would tempt me to live here. Add to Wordbook"
+    },
+    {
+      "korean": "What is the active ingredient in aspirin? 듣기 Add to Wordbook 아스피린에 들어 있는 유효 성분은 무엇인가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What is the active ingredient in aspirin? Add to Wordbook"
+    },
+    {
+      "korean": "What do the shaded areas on the map represent? 듣기 Add to Wordbook 지도에서 음영 처리가 된 부분은 무엇을 나타내나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What do the shaded areas on the map represent? Add to Wordbook"
+    },
+    {
+      "korean": "It seemed that nothing could dent his confidence. 듣기 Add to Wordbook 그 무엇도 그의 자신감을 꺾지는 못할 것 같았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It seemed that nothing could dent his confidence. Add to Wordbook"
+    }
+  ]
+}

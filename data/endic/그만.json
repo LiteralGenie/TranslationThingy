@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "그만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그 정도까지만)",
+        "(그 정도로 하고)",
+        "(자기도 모르게)"
+      ]
+    },
+    {
+      "phrase": "그만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner such, like that (→저만, 이만1)"
+      ]
+    },
+    {
+      "phrase": "그만이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be no more than that, be enough, That's it",
+        "be no more than that, be enough, That's it"
+      ]
+    },
+    {
+      "phrase": "그만 둬!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Cut it off!"
+      ]
+    },
+    {
+      "phrase": "그만이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "excellent (더할 나위 없이 좋다) great",
+        "(그것으로 끝이다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "full stop",
+      "frequency": 0
+    },
+    {
+      "meaning": "avast",
+      "frequency": 0
+    },
+    {
+      "meaning": "Belay (there)!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Come, leave your play!",
+      "frequency": 0
+    },
+    {
+      "meaning": "that will do",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "간식 그만!",
+      "english": "No more snacks!"
+    },
+    {
+      "korean": "베리 그만!",
+      "english": "Berry, stop it."
+    },
+    {
+      "korean": "너 그만! 베리야!",
+      "english": "Berry, stop it."
+    },
+    {
+      "korean": "너 아니야 너 그만!",
+      "english": "Not you! Enough for you."
+    },
+    {
+      "korean": "[케이크는 그만 넣어둬] - 케이크 아니야 - 재혁!",
+      "english": "[Stop talking about a cake] - It's not included. - JAE HYUK!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그만 머무적거리고 어서 진행해.",
+      "english": "Stop dithering and get on with it."
+    },
+    {
+      "korean": "그만 노닥거리고 다시 일 해.",
+      "english": "Stop buggering about and get back to work."
+    },
+    {
+      "korean": "그만 꾸물거려! 지각하겠단 말야!",
+      "english": "Stop dawdling! We’re going to be late!"
+    },
+    {
+      "korean": "“그만 해!” 그가 이를 악물고 말했다.",
+      "english": "‘Stop it!’ he said through gritted teeth."
+    },
+    {
+      "korean": "그 만에는 장엄한 절벽이 그늘을 드리우고 있었다.",
+      "english": "The bay was shadowed by magnificent cliffs."
+    }
+  ]
+}

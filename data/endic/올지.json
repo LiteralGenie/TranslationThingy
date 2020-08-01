@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소로) come, (나타나다) turn up, show up, (방문하다) visit",
+        "(학교·군대·회사 등에)",
+        "(소식·연락·편지 등이) come"
+      ]
+    },
+    {
+      "phrase": "오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb oda (↔가다2)"
+      ]
+    },
+    {
+      "phrase": "올지 안 올지 모르겠어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "약속 I'm not sure whether she'll come.",
+        "약속 I wonder whether she will show up.",
+        "약속 I don't think he's going to make it."
+      ]
+    },
+    {
+      "phrase": "올 것이 오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Something that is supposed to come has come"
+      ]
+    },
+    {
+      "phrase": "오는 날이 장날",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "One's coming day is a market day"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "come",
+      "frequency": 3
+    },
+    {
+      "meaning": "come 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "approach",
+      "frequency": 3
+    },
+    {
+      "meaning": "follow",
+      "frequency": 3
+    },
+    {
+      "meaning": "fetch",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다음에 또 어떤 V LIVE로 올지 모르니까 여러분 조금만 기다려 주세요! You don't know what V LIVE I'll come back with. So wait just a little bit! 듣기 View video 우주소녀(WJSN) : [은서] 오늘의 이야기 EP.04",
+      "english": "You don't know what V LIVE I'll come back with. So wait just a little bit!"
+    },
+    {
+      "korean": "다음에는 언제 올지 몰라요. but I don't know when I'll be back. 듣기 View video INFINITE : 우현이 내게오나봐 잘사람자라디오 8화 우현이 내게오나봐 잘사람자라디오 8화",
+      "english": "but I don't know when I'll be back."
+    },
+    {
+      "korean": "다음에 언제 올지 알려줄까요? Do you want me to tell you when I'm coming back? 듣기 View video INFINITE : 우현이 내게오나봐 잘사람자라디오 8화 우현이 내게오나봐 잘사람자라디오 8화",
+      "english": "Do you want me to tell you when I'm coming back?"
+    },
+    {
+      "korean": "다음 주제는 언제 올지 모르고요. We don't know when the next topic will come up. 듣기 View video 우주소녀(WJSN) : [은서] 은서의 랜덤게임 🐶💃🎮 Ep.02",
+      "english": "We don't know when the next topic will come up."
+    },
+    {
+      "korean": "또 봐요! 또 언제 올지 모르니까. See you again! We don't know when we'll be back. 듣기 View video BTOB : 저녁 드셨나용🤗",
+      "english": "See you again! We don't know when we'll be back."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He said he might come tomorrow. 듣기 Add to Wordbook 그가 내일 올지도 모른다고 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He said he might come tomorrow. Add to Wordbook"
+    },
+    {
+      "korean": "Maybe he’ll come, maybe he won’t. 듣기 Add to Wordbook 어쩌면 그가 올지도 모르고 어쩌면 안 올지도 몰라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Maybe he’ll come, maybe he won’t. Add to Wordbook"
+    },
+    {
+      "korean": "‘Take an umbrella.’ ‘No, I’ll chance it’. 듣기 Add to Wordbook “우산 가져 가.” “아냐. (비가 안 올지도 모르니까) 그냥 가 볼래.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Take an umbrella.’ ‘No, I’ll chance it’. Add to Wordbook"
+    },
+    {
+      "korean": "You hang around here in case he comes, and I’ll go on ahead. 듣기 Add to Wordbook 그가 올지 모르니까 넌 여기에서 기다리고 있고 난 먼저 갈게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You hang around here in case he comes, and I’ll go on ahead. Add to Wordbook"
+    },
+    {
+      "korean": "Put a query against Jack’s name—I’m not sure if he’s coming. 듣기 Add to Wordbook 잭의 이름에는 물음표를 달아 놔. 그가 올지 확실히 모르겠어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Put a query against Jack’s name—I’m not sure if he’s coming. Add to Wordbook"
+    }
+  ]
+}

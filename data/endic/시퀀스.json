@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "시퀀스",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[영화∙교육∙트럼프] a sequence."
+      ]
+    },
+    {
+      "phrase": "sequence",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (일련의) 연속적인 사건들[행동들/숫자들 등]",
+        "Noun (사건행동 등의) 순서[차례]",
+        "Verb 전문 용어 차례로 배열하다"
+      ]
+    },
+    {
+      "phrase": "Sequence",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "카지노용어 시퀀스 (→sequence flush)"
+      ]
+    },
+    {
+      "phrase": "시퀀스제어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Sequential Control"
+      ]
+    },
+    {
+      "phrase": "시퀀스 검색",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sequence search"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sequence",
+      "frequency": 3
+    },
+    {
+      "meaning": "Sequence",
+      "frequency": 0
+    },
+    {
+      "meaning": "a movie with several split-screen sequences",
+      "frequency": 0
+    },
+    {
+      "meaning": "teaser sequence",
+      "frequency": 0
+    },
+    {
+      "meaning": "sequence code",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 하나의 시퀀스예요. This is one sequence. 듣기 View video V Beauty : Akiba Rie 리에와 요가Talk! 몸 속 태양을 깨우자 '태양예배'",
+      "english": "This is one sequence."
+    },
+    {
+      "korean": "할리우드 액션 영화 시퀀스입니다. and it's a big Hollywood action movie sequence. 듣기 View video V MOVIE : 이기홍 X 딜런 오브라이언 X 토마스 생스터 <메이즈 러너: 데스 큐어> 무비토크 라이브 ' MovieTalk LIVE'",
+      "english": "and it's a big Hollywood action movie sequence."
+    },
+    {
+      "korean": "아주 인상깊은 시퀀스라고 생각합니다. Again, I think it's the definitely the most impressive sequence in the film action-wise. 듣기 View video V MOVIE : 이기홍 X 딜런 오브라이언 X 토마스 생스터 <메이즈 러너: 데스 큐어> 무비토크 라이브 ' MovieTalk LIVE'",
+      "english": "Again, I think it's the definitely the most impressive sequence in the film action-wise."
+    },
+    {
+      "korean": "근데 소리가 나야 되는데 소리가 안 나. - 너 시퀀스 프로그램이 이게 뭐야? It should play the sound but it's not working... - What's up with this sequence program? 듣기 View video 눈덩이 프로젝트 (SNOWBALL PROJECT) : 눈덩이 프로젝트 EP.60 - 시간이 정지한 하림의 작업실",
+      "english": "It should play the sound but it's not working... - What's up with this sequence program?"
+    },
+    {
+      "korean": "우리 이렇게 리아 언니부터 차례대로 오는 게 어때? How about doing it in sequence starting from LIA? 듣기 View video V PICK! : [ITZY] 있둥이들 애교에 하이패스로 천국갔더니 세상에 여기선 천사들의 하모니가..💘🎶 (ITZY talking about their 1st place)",
+      "english": "How about doing it in sequence starting from LIA?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a time-lapse sequence of a flower opening 듣기 Add to Wordbook 개화를 저속 촬영한 시퀀스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a time-lapse sequence of a flower opening Add to Wordbook"
+    },
+    {
+      "korean": "a movie with several split-screen sequences 듣기 Add to Wordbook 몇 개의 분할 스크린 시퀀스로 된 영화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a movie with several split-screen sequences Add to Wordbook"
+    },
+    {
+      "korean": "Thus, multiple language speakers are better at remembering sequences. 듣기 Add to Wordbook 따라서, 여러 언어를 구사할 줄 아는 사람들은 연속적인 사건들 즉 시퀀스를 기억하는 능력이 뛰어나다. TIMES CORE",
+      "english": "Thus, multiple language speakers are better at remembering sequences. Add to Wordbook"
+    },
+    {
+      "korean": "Little substance beyond one or two nifty visual sequences. 듣기 Add to Wordbook 한 두개의 훌륭한 영상 시퀀스를 넘어선 하찮은 내용. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Miraklu(kend****)",
+      "english": "Little substance beyond one or two nifty visual sequences. Add to Wordbook"
+    },
+    {
+      "korean": "Mr. Tipping: Let me clarify that point by going through the sequence. 듣기 Add to Wordbook 티핑씨: 시퀀스를 따름으로써 그 점을 명확히 하겠습니다 User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Czarkwak(hmkw****) Hansard",
+      "english": "Mr. Tipping: Let me clarify that point by going through the sequence. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "필요하다",
+      "hanja": " (必要하다)",
+      "example": {},
+      "meanings": [
+        "Adjective necessary, needed"
+      ]
+    },
+    {
+      "phrase": "필요",
+      "hanja": " (必要)",
+      "example": {},
+      "meanings": [
+        "[명사] need, necessity, [형용사] necessary; (동사로 쓰여) need"
+      ]
+    },
+    {
+      "phrase": "필요조건",
+      "hanja": " (必要條件)",
+      "example": {},
+      "meanings": [
+        "necessary condition, required condition, (formal) requisite"
+      ]
+    },
+    {
+      "phrase": "필요 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unnecessary",
+        "needless",
+        "uncalled-for"
+      ]
+    },
+    {
+      "phrase": "필요할 경우",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in case of need[necessity]",
+        "if[when] necessary"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "enough",
+      "frequency": 2
+    },
+    {
+      "meaning": "requirement",
+      "frequency": 2
+    },
+    {
+      "meaning": "requisite",
+      "frequency": 1
+    },
+    {
+      "meaning": "need",
+      "frequency": 2
+    },
+    {
+      "meaning": "직업",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[Q.] 힐링이 제일 필요할 때는? [Q] When do you need rest most? 듣기 View video OSEN : Golden Child 골든차일드가 힐링이 제일 필요할 때는? #스타로드 09",
+      "english": "[Q] When do you need rest most?"
+    },
+    {
+      "korean": "필요할 때 운동하는 것 같은 느낌? They work out when they need it? 듣기 View video Stray Kids : 막내의 사생활 28 🦊",
+      "english": "They work out when they need it?"
+    },
+    {
+      "korean": "얘 그거 필요할 것 같은데 - 어떤 거? I think he needs the thing. - Which one? 듣기 View video NU'EST : [NU’EST] NU'NIVERSITY : 타자의 이해와 실습",
+      "english": "I think he needs the thing. - Which one?"
+    },
+    {
+      "korean": "응 그거 필요할 것 같아 근데 이거 먼저 붙이고... - 뭐 어떤 솔? Oh, okay. I'm going to need that. But I'm going to put this... - Which one? 듣기 View video BLACKPINK : 꾸며봅시당🖤",
+      "english": "Oh, okay. I'm going to need that. But I'm going to put this... - Which one?"
+    },
+    {
+      "korean": "힐링이 제일 필요할 때? When I need healing most? 듣기 View video OSEN : WINNER 송민호, 못하는 게 없는 MINO #스타로드 하이라이트",
+      "english": "When I need healing most?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Children should be disciplined when the need arises. 발음듣기 아이들은 필요할 때마다 훈육을 해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Children should be disciplined when the need arises. 발음"
+    },
+    {
+      "korean": "The committee will need time to assimilate this report. 발음듣기 위원회가 이 보고서를 소화하려면 시간이 필요할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The committee will need time to assimilate this report. 발음"
+    },
+    {
+      "korean": "You can preset the radiators to come on when you need them to. 발음듣기 필요할 때 난방기가 가동되도록 미리 조정해 놓을 수가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can preset the radiators to come on when you need them to. 발음"
+    },
+    {
+      "korean": "We’ll need about 20 chairs, I should think. 발음듣기 우리가 의자가 20개쯤 필요할 거야, 아마 틀림없이. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’ll need about 20 chairs, I should think. 발음"
+    },
+    {
+      "korean": "You need the services of a good lawyer. 발음듣기 당신은 훌륭한 변호사의 도움이 필요할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You need the services of a good lawyer. 발음"
+    }
+  ]
+}

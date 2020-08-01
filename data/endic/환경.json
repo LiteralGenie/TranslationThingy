@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "환경",
+      "hanja": " (環境)",
+      "example": {},
+      "meanings": [
+        "(자연조건) the (natural) environment",
+        "(주위의 상태) environment, circumstances, surroundings, climate, (formal) milieu"
+      ]
+    },
+    {
+      "phrase": "환경오염",
+      "hanja": " (環境汚染)",
+      "example": {},
+      "meanings": [
+        "environmental pollution[contamination]"
+      ]
+    },
+    {
+      "phrase": "자연환경",
+      "hanja": " (自然環境)",
+      "example": {},
+      "meanings": [
+        "natural environment"
+      ]
+    },
+    {
+      "phrase": "환경보호",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "protection of the environment"
+      ]
+    },
+    {
+      "phrase": "가정환경",
+      "hanja": " (家庭環境)",
+      "example": {},
+      "meanings": [
+        "family background, home environment"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "environment",
+      "frequency": 2
+    },
+    {
+      "meaning": "condition",
+      "frequency": 2
+    },
+    {
+      "meaning": "circumstance",
+      "frequency": 2
+    },
+    {
+      "meaning": "situation",
+      "frequency": 2
+    },
+    {
+      "meaning": "element",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'메뉴를 남기면 환경부담금 NO!' \"If you leave food behind, environmental charges, NO!\" 듣기 View video V COOKIE : [Full] MOON JONGUP X Eating Show - 문종업 X 같이 먹어요",
+      "english": "\"If you leave food behind, environmental charges, NO!\""
+    },
+    {
+      "korean": "환경부담 벌칙을 받으라는 소리죠? You want me to get the environmental penalty, right? 듣기 View video V COOKIE : [Full] LEE JIN HYUK X Eating Show - 이진혁 X 같이 먹어요",
+      "english": "You want me to get the environmental penalty, right?"
+    },
+    {
+      "korean": "돌렸어 돌렸어 - 플라스틱은 환경 오염된다고요? He heated it... - Plastic is harmful to environment? 듣기 View video ASTRO : 아로하 4살 축하해♡",
+      "english": "He heated it... - Plastic is harmful to environment?"
+    },
+    {
+      "korean": "약속대로 아까 말한 환경부담 벌칙을 받아야죠? as promised, I have to get the environmental penalty, right? 듣기 View video V COOKIE : [Full] MOON JONGUP X Eating Show - 문종업 X 같이 먹어요",
+      "english": "as promised, I have to get the environmental penalty, right?"
+    },
+    {
+      "korean": "주의할 점은 메뉴를 남기면 환경부담금 노! One thing to keep in mind, there is no environmental charge if you have left overs! 듣기 View video V COOKIE : [Full] Apink 9th Anniversary x - 에이핑크 데뷔 9주년 기념 <같이 먹어요>",
+      "english": "One thing to keep in mind, there is no environmental charge if you have left overs!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the awakening of interest in the environment 발음듣기 환경에 대한 관심을 일깨움 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the awakening of interest in the environment 발음"
+    },
+    {
+      "korean": "the interplay between politics and the environment 발음듣기 정치와 환경 사이의 상호 작용 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the interplay between politics and the environment 발음"
+    },
+    {
+      "korean": "These ferns will grow best in a humid atmosphere. 발음듣기 이 양치류들은 습한 환경에서 가장 잘 자란다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These ferns will grow best in a humid atmosphere. 발음"
+    },
+    {
+      "korean": "the debate over the effects of heredity and environment 발음듣기 유전과 환경의 영향에 대한 논쟁 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the debate over the effects of heredity and environment 발음"
+    },
+    {
+      "korean": "Bad housing, debt and poverty are interconnected. 발음듣기 열악한 주거 환경, 부채 및 빈곤은 상호 연관되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Bad housing, debt and poverty are interconnected. 발음"
+    }
+  ]
+}

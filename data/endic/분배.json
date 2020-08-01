@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "분배",
+      "hanja": " (分配)",
+      "example": {},
+      "meanings": [
+        "[명사] distribution, division, [동사] distribute (to/among), divide, share (out)"
+      ]
+    },
+    {
+      "phrase": "이익 분배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "division of profits",
+        "profit sharing"
+      ]
+    },
+    {
+      "phrase": "부의 분배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "distribution of wealth"
+      ]
+    },
+    {
+      "phrase": "양식을 분배하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "serve[give] out rations",
+        "measure out food"
+      ]
+    },
+    {
+      "phrase": "공정한 분배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a fair distribution"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "division",
+      "frequency": 3
+    },
+    {
+      "meaning": "distribution",
+      "frequency": 3
+    },
+    {
+      "meaning": "deal 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "share-out",
+      "frequency": 0
+    },
+    {
+      "meaning": "deal 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "분배? - 분배가 뭔지 알아? Bunbae? - Do you know what it means? 듣기 View video BLACKPINK : 불금이다🔥",
+      "english": "Bunbae? - Do you know what it means?"
+    },
+    {
+      "korean": "역할 분배됐으면 우리 간단하게... Since we're done with the roles... 듣기 View video BTS : Run BTS! 2019 - EP.73",
+      "english": "Since we're done with the roles..."
+    },
+    {
+      "korean": "등수별로 차등 분배된다고 미리 말씀드렸죠? will be distributed by ranking, right? 듣기 View video Mnet : 프로듀스101 시즌2 9화",
+      "english": "will be distributed by ranking, right?"
+    },
+    {
+      "korean": "각자 맡은 파트를 어울리게끔 소연 씨가 잘 분배를 했군요. Soyeon divided the parts well so that it fits the members. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#148. 아이들 라디오 (w. (여자)아이들)",
+      "english": "Soyeon divided the parts well so that it fits the members."
+    },
+    {
+      "korean": "[세상진지 파트분배.mp4] 현석이 하고 싶은 거 뭐야? [So serious about dividing parts.mp4] What do you want to do, Hyun Seok? 듣기 View video CIX : HELLO CIX BEHIND 3 :: 🌱큐티뽀짝 꾸러기캠",
+      "english": "[So serious about dividing parts.mp4] What do you want to do, Hyun Seok?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Aid workers helped distribute corn, milk and other staples. 듣기 Add to Wordbook 원조대원들이 옥수수, 우유, 다른 주식들을 분배하는 것을 도왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Aid workers helped distribute corn, milk and other staples. Add to Wordbook"
+    },
+    {
+      "korean": "The residue of the estate was divided equally among his children. 듣기 Add to Wordbook 그 재산의 잔여 유산은 그의 자녀들에게 공평하게 분배되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The residue of the estate was divided equally among his children. Add to Wordbook"
+    },
+    {
+      "korean": "an uneven distribution of resources 듣기 Add to Wordbook 균등하지 않은 자원 분배 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an uneven distribution of resources Add to Wordbook"
+    },
+    {
+      "korean": "a fair division of time and resources 듣기 Add to Wordbook 시간과 자원의 공평한 분배 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a fair division of time and resources Add to Wordbook"
+    },
+    {
+      "korean": "demands for a fairer distribution of wealth 듣기 Add to Wordbook 좀 더 공평한 부의 분배에 대한 요구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "demands for a fairer distribution of wealth Add to Wordbook"
+    }
+  ]
+}

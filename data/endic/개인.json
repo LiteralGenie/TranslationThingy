@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "개인",
+      "hanja": " (個人)",
+      "example": {},
+      "meanings": [
+        "individual"
+      ]
+    },
+    {
+      "phrase": "개인(의)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 individual"
+      ]
+    },
+    {
+      "phrase": "개인의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "individual",
+        "personal",
+        "private"
+      ]
+    },
+    {
+      "phrase": "개인주의",
+      "hanja": " (個人主義)",
+      "example": {},
+      "meanings": [
+        "individualism"
+      ]
+    },
+    {
+      "phrase": "개인 정보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personal information"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "individual",
+      "frequency": 2
+    },
+    {
+      "meaning": "player",
+      "frequency": 2
+    },
+    {
+      "meaning": "person",
+      "frequency": 2
+    },
+    {
+      "meaning": "PSHEE",
+      "frequency": 0
+    },
+    {
+      "meaning": "man jack",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "로봇 개인기 있나? Do you have any robot talents? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "Do you have any robot talents?"
+    },
+    {
+      "korean": "제 개인적인 거예요 제가 사실 그... It's my personal thing, though. 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "It's my personal thing, though."
+    },
+    {
+      "korean": "보물, 개인기 대방출! Treasure... Releasing all personal talents!! 듣기 View video ASTRO : 안 주무시면 컴온 ~ 🐮💩 방송",
+      "english": "Treasure... Releasing all personal talents!!"
+    },
+    {
+      "korean": "비 오는 날을 개인적으로는 그렇게... Personally I'm not really a fan of... 듣기 View video NCT : ASMaRk💚",
+      "english": "Personally I'm not really a fan of..."
+    },
+    {
+      "korean": "[로봇인데 로봇 개인기] 로봇 개인기요? [Robot talents from a robot] Robot talents, you say? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "[Robot talents from a robot] Robot talents, you say?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She considers the office as her own private fiefdom. 발음듣기 그녀는 사무실을 자기 개인 영지로 여긴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She considers the office as her own private fiefdom. 발음"
+    },
+    {
+      "korean": "Most of the apartments are privately owned. 발음듣기 그 아파트들은 대부분이 개인 소유이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of the apartments are privately owned. 발음"
+    },
+    {
+      "korean": "The mass media tends to personalize politics. 발음듣기 대중 매체는 정치를 개인화하는 경향이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The mass media tends to personalize politics. 발음"
+    },
+    {
+      "korean": "The author stresses the uniqueness of the individual. 발음듣기 저자는 개인의 고유성을 강조한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The author stresses the uniqueness of the individual. 발음"
+    },
+    {
+      "korean": "He was extremely reticent about his personal life. 발음듣기 그는 자기 개인적인 생활에 대해 심할 정도로 말을 잘 안 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was extremely reticent about his personal life. 발음"
+    }
+  ]
+}

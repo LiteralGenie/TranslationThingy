@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "구하다",
+      "hanja": " (求―)",
+      "example": {},
+      "meanings": [
+        "(필요한 것을) look[search] for, obtain, (formal) seek; (찾아내다) find (out); (얻다) get",
+        "(조언·양해·용서 등을) ask (for), request, (formal) seek, turn to (=청하다)",
+        "(답·수치 등을) find, (계산하다) calculate"
+      ]
+    },
+    {
+      "phrase": "구하다",
+      "hanja": " (救―)",
+      "example": {},
+      "meanings": [
+        "(위험에서) rescue[save] (sb from sth), (곤경에서) (formal) extricate (sb from sth)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "구애 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "save",
+      "frequency": 2
+    },
+    {
+      "meaning": "obtain",
+      "frequency": 2
+    },
+    {
+      "meaning": "redemption",
+      "frequency": 1
+    },
+    {
+      "meaning": "available",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "10명을 구해도 bed-wetter가 10명을 구했다고 할 거에요. People would say that the bed-wetter saved 10 people's lives if you did. 듣기 View video 10PM : [10pm2 화] 김풍의 풍기문란-김풍 demoralizing behavior",
+      "english": "People would say that the bed-wetter saved 10 people's lives if you did."
+    },
+    {
+      "korean": "찾아보니까 진짜 구하기 힘든 거더라? It's really difficult to get. 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "It's really difficult to get."
+    },
+    {
+      "korean": "상승세 - 구해줘? Upwards? - Save me? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Upwards? - Save me?"
+    },
+    {
+      "korean": "앨리스 못 구했다고 아직! - 형 사진 사진! I didn't get to save Alice yet! - Picture. Picture! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "I didn't get to save Alice yet! - Picture. Picture!"
+    },
+    {
+      "korean": "[음원 재생만이 좀비를 구할 수 있다!] 이거 USB 넣어야 해! [Only playing the album can save the zombies!] We have to connect to the USB! 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.03",
+      "english": "[Only playing the album can save the zombies!] We have to connect to the USB!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "May I now ask for your cooperation, sir? 발음듣기 선생님, 지금 제가 당신의 협조를 구해도 될까요? User translation Inaccurate information may be included due to the users' self-traslation. 인생을 재미있게(ihha****) Web Collection",
+      "english": "May I now ask for your cooperation, sir? 발음"
+    },
+    {
+      "korean": "He risked his life to save her. 발음듣기 그는 그녀를 구하기 위해 자기 목숨을 걸었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He risked his life to save her. 발음"
+    },
+    {
+      "korean": "He disdained to turn to his son for advice. 발음듣기 그는 아들에게 조언을 구하는 것을 거부했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He disdained to turn to his son for advice. 발음"
+    },
+    {
+      "korean": "to seek legal redress for unfair dismissal 발음듣기 부당 해고에 대해 법적 보상을 구하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to seek legal redress for unfair dismissal 발음"
+    },
+    {
+      "korean": "He begged forgiveness for what he had done. 발음듣기 그는 자신이 한 짓에 대해 용서를 구했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He begged forgiveness for what he had done. 발음"
+    }
+  ]
+}

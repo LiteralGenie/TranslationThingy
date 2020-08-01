@@ -1,0 +1,44 @@
+{
+  "phrases": [
+    {
+      "phrase": "착지점",
+      "hanja": " (着地點)",
+      "example": {},
+      "meanings": [
+        "Impact Point"
+      ]
+    },
+    {
+      "phrase": "착지점 선택",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "landing point selection"
+      ]
+    },
+    {
+      "phrase": "착지",
+      "hanja": " (着地)",
+      "example": {},
+      "meanings": [
+        "landing, land"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "destination point",
+      "frequency": 0
+    },
+    {
+      "meaning": "landing position",
+      "frequency": 0
+    },
+    {
+      "meaning": "Reattachment Length",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

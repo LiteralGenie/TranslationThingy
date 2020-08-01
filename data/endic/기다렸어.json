@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "기다리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wait, hold on, (informal) hang on, (예정된 일·사람 등을) expect, (formal) await, (고대하다) look forward to"
+      ]
+    },
+    {
+      "phrase": "기다렸어요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 Have you been waiting?",
+        "초대와 방문 Did you wait?"
+      ]
+    },
+    {
+      "phrase": "오래 기다렸어요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "약속 Did you have to wait long?",
+        "약속 Have you been waiting for a long time?",
+        "약속 When did you get here?"
+      ]
+    },
+    {
+      "phrase": "벌써 30분이나 기다렸어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "레스토랑 SOS I've been waiting for 30 minutes already."
+      ]
+    },
+    {
+      "phrase": "한 시간이나 기다렸어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-약속을 어겼을 때 I've been waiting for an hour."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wait",
+      "frequency": 3
+    },
+    {
+      "meaning": "await",
+      "frequency": 3
+    },
+    {
+      "meaning": "hold on",
+      "frequency": 0
+    },
+    {
+      "meaning": "pending",
+      "frequency": 3
+    },
+    {
+      "meaning": "lobby",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "기다렸어? Did you wait? 듣기 View video 콬TV (WHYNOT) : 오늘 내 마음을 전달할거야 [7일만 로맨스] EP09 고백이 실패하는 이유",
+      "english": "Did you wait?"
+    },
+    {
+      "korean": "[기다렸어요] 너네 퇴근한 거 아니야? Didn't you all go home? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "Didn't you all go home?"
+    },
+    {
+      "korean": "많이 기다렸어? Did I keep you waiting for long? 듣기 View video 플레이리스트 (Playlist) : 존잘 연하가 선배 꼬시는 법 [엑스엑스(XX)] - EP.05",
+      "english": "Did I keep you waiting for long?"
+    },
+    {
+      "korean": "오래 기다렸어? Have you been waiting long? 듣기 View video 대나무숲TV (BAMBOONETWORK) : 소꿉친구가 나를 좋아하는 것 같다 [웹드라마_어서오세요, 마녀상점] - EP.06",
+      "english": "Have you been waiting long?"
+    },
+    {
+      "korean": "다행입니다 기다렸어요? It's a relief. You waited? 듣기 View video VICTON : 찬이의 조금 늦은 생일🎉🎉",
+      "english": "It's a relief. You waited?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I waited an hour just to see you. 듣기 Add to Wordbook 난 오직 너를 만나기 위해 한 시간을 기다렸어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I waited an hour just to see you. Add to Wordbook"
+    },
+    {
+      "korean": "I've been waiting for it for quintrillion years! 듣기 Add to Wordbook 나는 이것을 굉장히 오래 기다렸어! 국제영어대학원대학교 신어사전",
+      "english": "I've been waiting for it for quintrillion years! Add to Wordbook"
+    },
+    {
+      "korean": "I really expectuated the film released. 듣기 Add to Wordbook 그 영화가 개봉되기를 정말 기대하며 기다렸어. 국제영어대학원대학교 신어사전",
+      "english": "I really expectuated the film released. Add to Wordbook"
+    },
+    {
+      "korean": "Waited an hour in line for a burger, but it was totally worth it. 듣기 Add to Wordbook 버거 하나 때문에 줄서서 한 시간을 기다렸어. 하지만 그럴 만한 가치가 충분히 있었어. DARAKWON",
+      "english": "Waited an hour in line for a burger, but it was totally worth it. Add to Wordbook"
+    },
+    {
+      "korean": "15,000 won for a burger that’s average at best and a wait of over 30 minutes. 듣기 Add to Wordbook 좋게 봐도그저 그런 버거 하나에 15,000원인데다가 30분이나 기다렸어. DARAKWON",
+      "english": "15,000 won for a burger that’s average at best and a wait of over 30 minutes. Add to Wordbook"
+    }
+  ]
+}

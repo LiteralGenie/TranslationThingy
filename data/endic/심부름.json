@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "심부름",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "errand, run[do] an errand"
+      ]
+    },
+    {
+      "phrase": "잔심부름",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "little errand, small errand"
+      ]
+    },
+    {
+      "phrase": "심부름센터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(private) detective agency"
+      ]
+    },
+    {
+      "phrase": "부엌 심부름",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "scullery work"
+      ]
+    },
+    {
+      "phrase": "물심부름하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fetch and carry water",
+        "go to fetch water"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "errand",
+      "frequency": 3
+    },
+    {
+      "meaning": "detective",
+      "frequency": 3
+    },
+    {
+      "meaning": "go (on) errands",
+      "frequency": 0
+    },
+    {
+      "meaning": "go on an errand",
+      "frequency": 0
+    },
+    {
+      "meaning": "fetch and carry water",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내가 윤호한테 - 심부름 시켰어? I told Yun Ho... - Did you make him go? 듣기 View video ATEEZ : ☂️☂️의 토크타임",
+      "english": "I told Yun Ho... - Did you make him go?"
+    },
+    {
+      "korean": "[딩동댕] 심부름이요? [You're correct] An errand? 듣기 View video 모비딕(Mobidic) : 김종민&유재환 아이들과 행복한 먹방 타임 <우리 아빠가 생겼어요3> 4회",
+      "english": "[You're correct] An errand?"
+    },
+    {
+      "korean": "[이름은 서버지만... 그냥 심부름꾼!] 말이 서버지 각종 심부름을! The name is a server but errands! 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 10부_ep.3 슬기로운 조개구이 먹방 생활",
+      "english": "The name is a server but errands!"
+    },
+    {
+      "korean": "[무사히 심부름에 성공할 수 있을까?] [Will they be able to safely succeed?] View video 모비딕(Mobidic) : 김종민&유재환 아이들과 행복한 먹방 타임 <우리 아빠가 생겼어요3> 4회",
+      "english": "[Will they be able to safely succeed?]"
+    },
+    {
+      "korean": "[빵 좀 사다 준 친구] 그냥 심부름? [He bought some bread for friends] Errands? 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep66_진땀 나는 하하의 모델 도전기",
+      "english": "[He bought some bread for friends] Errands?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He often runs errands for his grandmother. 듣기 Add to Wordbook 그는 할머니 심부름을 자주 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He often runs errands for his grandmother. Add to Wordbook"
+    },
+    {
+      "korean": "He has gone on an errand for me./심부름 좀 해다오 Can you do a little errand for me? 듣기 Add to Wordbook 그는 나의 심부름을 갔다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He has gone on an errand for me./심부름 좀 해다오 Can you do a little errand for me? Add to Wordbook"
+    },
+    {
+      "korean": "She went on an errand. Do you want me to take a message for you? 듣기 Add to Wordbook 그녀는 심부름 갔어. 메시지 남겨 줄까? 절대어휘 5100",
+      "english": "She went on an errand. Do you want me to take a message for you? Add to Wordbook"
+    },
+    {
+      "korean": "He bustled the maid off on an errand. 듣기 Add to Wordbook 그는 식모를 재촉하여 심부름을 보냈다. Friendict Level English-Korean Dictionary",
+      "english": "He bustled the maid off on an errand. Add to Wordbook"
+    },
+    {
+      "korean": "Can you do an errand for me? 듣기 Add to Wordbook 내 심부름 좀 해 줄 수 있어? Neungyule",
+      "english": "Can you do an errand for me? Add to Wordbook"
+    }
+  ]
+}

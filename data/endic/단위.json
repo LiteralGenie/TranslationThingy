@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "단위",
+      "hanja": " (單位)",
+      "example": {},
+      "meanings": [
+        "unit, (물리적인) measure"
+      ]
+    },
+    {
+      "phrase": "단위면적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "local (labor) union"
+      ]
+    },
+    {
+      "phrase": "기본 단위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a standard unit"
+      ]
+    },
+    {
+      "phrase": "단위 면적[질량] 당",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "per unit area[mass]"
+      ]
+    },
+    {
+      "phrase": "부락 단위로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "with a village as a unit"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "point",
+      "frequency": 2
+    },
+    {
+      "meaning": "unit",
+      "frequency": 2
+    },
+    {
+      "meaning": "measure",
+      "frequency": 2
+    },
+    {
+      "meaning": "block",
+      "frequency": 2
+    },
+    {
+      "meaning": "monogastric stomach",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그래서 억 단위라고? That's why it costs hundreds of millions? 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "That's why it costs hundreds of millions?"
+    },
+    {
+      "korean": "K가 천이죠? 천 단위죠? 그러면 - 천 단위, 천 단위... K is a unit of 1000 right? Then... - It's a unit of 1000. 듣기 View video NCT : 이번주 일요일에 만날까?🥰 잠깐만 들어와서 봐주때요🥺",
+      "english": "K is a unit of 1000 right? Then... - It's a unit of 1000."
+    },
+    {
+      "korean": "[(초)단위로 머리가 (딩)하게 귀엽다] 초딩 아니거든요! [They're as cute as elementary students] We're not kids! 듣기 View video V PICK! : [Stray Kids] 초딩들 맞잖아요~ (초)단위로 머리가 (딩)하게 귀여워🦊🐶 (SEUNGMIN&I.N playing with a hoodie)",
+      "english": "[They're as cute as elementary students] We're not kids!"
+    },
+    {
+      "korean": "[행성 단위로 연구 중이라네요] 부담스러웠죠? [so they're trying to figure out how to see TXT] Burdensome, right? 듣기 View video V PICK! : [TXT] 세불밤 쉿!이면 오븐 속 침묵 사우나도 즐길 수 있어요 🔥🤫 (TXT talking about 2nd teaser)",
+      "english": "[so they're trying to figure out how to see TXT] Burdensome, right?"
+    },
+    {
+      "korean": "[이 왕깜찍 모먼트 1프레임 단위로 뇌에 새겨야 되거든요] 그만해! [so that I can remember every single moment of these girls] Stop! 듣기 View video V PICK! : [ITZY] 시험 벼락치기🙅‍♀️이제 성장 벼락치기의 시대입니다🙆‍♀️ (ITZY measuring the height)",
+      "english": "[so that I can remember every single moment of these girls] Stop!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Which measure of weight do pharmacists use? 발음듣기 약사들은 어떤 무게 단위를 사용하지요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Which measure of weight do pharmacists use? 발음"
+    },
+    {
+      "korean": "to sell sth by the gross 발음듣기 …을 그로스 단위로 팔다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to sell sth by the gross 발음"
+    },
+    {
+      "korean": "a five-point pay scale 발음듣기 5 단위[단계]로 된 급여 등급 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a five-point pay scale 발음"
+    },
+    {
+      "korean": "Copper pipe is sold in lengths. 발음듣기 구리관은 일정한 길이(단위)로 팔린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Copper pipe is sold in lengths. 발음"
+    },
+    {
+      "korean": "a reduction in the weight standard of silver coins 발음듣기 은화 중량 표준 단위 축소 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a reduction in the weight standard of silver coins 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "제공",
+      "hanja": " (提供)",
+      "example": {},
+      "meanings": [
+        "offer, supply, provide, furnish (sb with sth)"
+      ]
+    },
+    {
+      "phrase": "정보를 제공하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide[give] information"
+      ]
+    },
+    {
+      "phrase": "침식을 제공하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide room and board",
+        "provide food[meals] and a place to stay",
+        "put sb up"
+      ]
+    },
+    {
+      "phrase": "의식주를 제공하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "feed, lodge, and clothe (sb)",
+        "provide food, clothing, and shelter (for)"
+      ]
+    },
+    {
+      "phrase": "빌미를 제공하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide a reason"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "supply",
+      "frequency": 3
+    },
+    {
+      "meaning": "provision",
+      "frequency": 3
+    },
+    {
+      "meaning": "holdout",
+      "frequency": 0
+    },
+    {
+      "meaning": "air control",
+      "frequency": 0
+    },
+    {
+      "meaning": "lording",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[밤 샐 기세(?)라 치킨&삼겹살 2가지 힌트 제공] 예담! [Giving 2 hints: Fried chicken and grilled pork belly meat] YE DAM! 듣기 View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[Giving 2 hints: Fried chicken and grilled pork belly meat] YE DAM!"
+    },
+    {
+      "korean": "[정보 제공] - 어디? 어디? - 위에 위에 - 여기? [Information given] - Where? - Over there? - Here? 듣기 View video BTS : Run BTS! 2019 - EP.88",
+      "english": "[Information given] - Where? - Over there? - Here?"
+    },
+    {
+      "korean": "[맞춤 서비스 제공 결정] 원하는 대로 골라줄 테니까 입어보실래요? [Recommendations] Then do you want to try on the clothes I pick out for you? 듣기 View video 컨버전스 TV (CONS TV) : [W메이트 8화]익선동 패션피플",
+      "english": "[Recommendations] Then do you want to try on the clothes I pick out for you?"
+    },
+    {
+      "korean": "[정보 제공 후 물어보는 제이홉의 행방] - 홉이 형 어디 있어? 홉이 형? - 홉이 어디 있어? [Asking about j-hope's whereabouts after giving information] - Where is j-hope? - Where is he? 듣기 View video BTS : Run BTS! 2019 - EP.88",
+      "english": "[Asking about j-hope's whereabouts after giving information] - Where is j-hope? - Where is he?"
+    },
+    {
+      "korean": "우리 막내를 제공해... provide our youngest... 듣기 View video MONSTA X : 몬스타엑스 X TWOTUCKGOM SPECIAL V LIVE",
+      "english": "provide our youngest..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Aid will be sent to the afflicted areas. 듣기 Add to Wordbook 피해 지역에는 원조가 제공될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Aid will be sent to the afflicted areas. Add to Wordbook"
+    },
+    {
+      "korean": "Hard hats and ear protectors are provided. 듣기 Add to Wordbook 단단한 모자와 귀 보호 장구가 제공된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hard hats and ear protectors are provided. Add to Wordbook"
+    },
+    {
+      "korean": "helping the poor and sheltering the homeless 듣기 Add to Wordbook 가난한 사람들을 돕고 노숙자들에게 쉴 곳을 제공하는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "helping the poor and sheltering the homeless Add to Wordbook"
+    },
+    {
+      "korean": "The state is still the main provider of welfare. 듣기 Add to Wordbook 국가가 아직 주된 복지 제공자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The state is still the main provider of welfare. Add to Wordbook"
+    },
+    {
+      "korean": "Food will be served in the hospitality tent. 듣기 Add to Wordbook 음식은 손님 접대용 천막에서 제공됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Food will be served in the hospitality tent. Add to Wordbook"
+    }
+  ]
+}

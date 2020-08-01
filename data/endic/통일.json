@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "통일",
+      "hanja": " (統一)",
+      "example": {},
+      "meanings": [
+        "(국가·조직 등의) [명사] unification, unity; (분단국가의) reunification, [동사] unify, unite; (분단국가를) reunify",
+        "(사상·체계 등의) [명사] unity; (표준화) standardization, [동사] unify; (표준화하다) standardize"
+      ]
+    },
+    {
+      "phrase": "통일된",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unified",
+        "uniform",
+        "systematic"
+      ]
+    },
+    {
+      "phrase": "남북 통일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unification of North and South (Korea)"
+      ]
+    },
+    {
+      "phrase": "통일 신라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unified Silla"
+      ]
+    },
+    {
+      "phrase": "규격을 통일하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "standardize"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unity",
+      "frequency": 1
+    },
+    {
+      "meaning": "standardization",
+      "frequency": 0
+    },
+    {
+      "meaning": "unification",
+      "frequency": 0
+    },
+    {
+      "meaning": "unitization",
+      "frequency": 0
+    },
+    {
+      "meaning": "Deutschland uber alles",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "하나로 이렇게 통일이 되면... If I have a unified one... 듣기 View video WINNER : 3분커버 이선생 -2-",
+      "english": "If I have a unified one..."
+    },
+    {
+      "korean": "이거 좀 통일이 안 된다 다들 취향이... Everyone has different tastes. 듣기 View video WINNER : 3분커버 이선생",
+      "english": "Everyone has different tastes."
+    },
+    {
+      "korean": "[형들의 의견 통일!] 얘가 더 좋아보이는데? [Consensus made!] This looks better. 듣기 View video BTS : Run BTS! 2020 - EP.96",
+      "english": "[Consensus made!] This looks better."
+    },
+    {
+      "korean": "오늘은 무슨 멘트로 통일하려나? What statement will you make the same today? 듣기 View video VICTON : 쉬는시간😁",
+      "english": "What statement will you make the same today?"
+    },
+    {
+      "korean": "댓글 그거... 댓글 통일해주는 거 왜 없지? That comment... Why is there none of the same comments? 듣기 View video VICTON : 쉬는시간😁",
+      "english": "That comment... Why is there none of the same comments?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The design lacks unity. 발음듣기 그 디자인은 통일성이 부족하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The design lacks unity. 발음"
+    },
+    {
+      "korean": "the unification of Germany 발음듣기 독일 통일 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the unification of Germany 발음"
+    },
+    {
+      "korean": "His words lack unity. 발음듣기 그의 말은 통일성이 없다. 절대어휘 5100",
+      "english": "His words lack unity. 발음"
+    },
+    {
+      "korean": "Like most Koreans, I dream of reunification between the North and South. 발음듣기 대다수 한국인과 마찬가지로 저 역시 남북 통일을 꿈꿉니다. DARAKWON",
+      "english": "Like most Koreans, I dream of reunification between the North and South. 발음"
+    },
+    {
+      "korean": "The reunification of our country doesn't look easy. 발음듣기 우리나라의 통일은 쉽지 않아 보인다. 절대어휘 5100",
+      "english": "The reunification of our country doesn't look easy. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "그녀",
+      "hanja": " (―女)",
+      "example": {},
+      "meanings": [
+        "(주격) she, (소유격, 목적격) her, (소유대명사) hers, (재귀대명사) herself"
+      ]
+    },
+    {
+      "phrase": "그녀는[가]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "she"
+      ]
+    },
+    {
+      "phrase": "그녀의 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hers"
+      ]
+    },
+    {
+      "phrase": "그녀와 비교해서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as compared with her"
+      ]
+    },
+    {
+      "phrase": "그녀 자신",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "herself"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "she",
+      "frequency": 3
+    },
+    {
+      "meaning": "in her, his, its, etc. (own) way",
+      "frequency": 0
+    },
+    {
+      "meaning": "herself",
+      "frequency": 3
+    },
+    {
+      "meaning": "her",
+      "frequency": 3
+    },
+    {
+      "meaning": "hers",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[#문별의_그녀_펀치] 타시죠~",
+      "english": "[#Moon Byul's lady, Punch] Please get on!"
+    },
+    {
+      "korean": "[#문별's onepick??] 저의 그녀! 저의 원픽!",
+      "english": "[#Moon Byul's one pick?] My lady! My one pick!"
+    },
+    {
+      "korean": "매력적인 그녀!",
+      "english": "A charming woman!"
+    },
+    {
+      "korean": "[과연, 그녀는 누구?]",
+      "english": "[Who is she?]"
+    },
+    {
+      "korean": "그녀가 돌아왔습니다!",
+      "english": "She's come back!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그녀는 머리를 올려 쪽을 찌고 있었다.",
+      "english": "She wore her hair in a bun."
+    },
+    {
+      "korean": "그녀는 짐을 풀려고 방으로 갔다.",
+      "english": "She went to her room to unpack."
+    },
+    {
+      "korean": "그녀가 망아지를 대문에 묶었다.",
+      "english": "She hitched the pony to the gate."
+    },
+    {
+      "korean": "그녀의 배우 인생의 기복",
+      "english": "the highs and lows of her acting career"
+    },
+    {
+      "korean": "그녀의 두 눈에서 반짝거리는 승리감",
+      "english": "a gleam of triumph in her eyes"
+    }
+  ]
+}

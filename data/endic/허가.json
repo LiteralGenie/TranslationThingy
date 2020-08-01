@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "허가",
+      "hanja": " (許可)",
+      "example": {},
+      "meanings": [
+        "[명사] permission, (formal) leave; (공식적) sanction, authorization; (입학·입장 등의) admission; (승인) approval; (면허) license, [동사] permit, (formal) grant, (formal) sanction, authorize; (입학·입장) admit; (승인하다) approve (of); (면허를 주다) license"
+      ]
+    },
+    {
+      "phrase": "허가를 신청하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "apply for a license",
+        "file an application"
+      ]
+    },
+    {
+      "phrase": "허가를 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[obtain] permission"
+      ]
+    },
+    {
+      "phrase": "허가 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without permission[leave]"
+      ]
+    },
+    {
+      "phrase": "사전[부모의] 허가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prior[parental] permission"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "인가 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "leave",
+      "frequency": 2
+    },
+    {
+      "meaning": "permission",
+      "frequency": 2
+    },
+    {
+      "meaning": "clearance",
+      "frequency": 1
+    },
+    {
+      "meaning": "sanction",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그거 허가 다 받아야 될 걸요? Well, you should get permission. 듣기 View video V PICK! : [SF9] 드라마짱팬 균이와 함께하는 K-DRAMA 완벽 마스터 \"이 안에 너 있다..\" (Hwi Young talking about K-Drama)",
+      "english": "Well, you should get permission."
+    },
+    {
+      "korean": "이거는 그 허가서 없으면 못 기를걸요? - 그러니까, 아니 허가 받을 수 있어? I don't think you'd be able to have a bear without a permit. - Is it even possible? 듣기 View video TOMORROW X TOGETHER : 범규&태현 : 우주뿌셔라디오🥰",
+      "english": "I don't think you'd be able to have a bear without a permit. - Is it even possible?"
+    },
+    {
+      "korean": "서울특별시 특허 허가... (Korean tongue twister)... View video V PICK! : [SF9] 카리스마가 뭔지 보여주지 철수책상철책상!!!😎(Rowoon&Chani’s fight!)",
+      "english": "(Korean tongue twister)..."
+    },
+    {
+      "korean": "안전상의 허가를 좀 받은 다음에... - 알겠습니다. We'll get a safety permit first... - All right. 듣기 View video IMFACT : [Full] IMFACT x mini CONCERT Ep 24.+1",
+      "english": "We'll get a safety permit first... - All right."
+    },
+    {
+      "korean": "[공원 관리팀의 사전 허가를 받아 촬영을 진행했습니다] 찾았어? [We shot with the approval of the park guards] Did you get it? 듣기 View video GOT7 : [Full] Mnet '갓세븐의 하드캐리2' 3화 (GOT7 'HARD CARRY 2' ep.3)",
+      "english": "[We shot with the approval of the park guards] Did you get it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She needed a special dispensation to remarry. 발음듣기 그녀는 재혼을 하려면 특별 허가가 필요했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She needed a special dispensation to remarry. 발음"
+    },
+    {
+      "korean": "Is that gun licensed? 발음듣기 저 총은 허가받은 건가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is that gun licensed? 발음"
+    },
+    {
+      "korean": "the burger concessions at the stadium 발음듣기 경기장의 버거 영업 허가 구역들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the burger concessions at the stadium 발음"
+    },
+    {
+      "korean": "a need-blind admissions policy 발음듣기 학력에만 의존하는 입학 허가 정책 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a need-blind admissions policy 발음"
+    },
+    {
+      "korean": "The work permit is not renewable. 발음듣기 그 취업 허가는 갱신이 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The work permit is not renewable. 발음"
+    }
+  ]
+}

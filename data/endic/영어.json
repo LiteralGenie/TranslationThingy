@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "영어",
+      "hanja": " (英語)",
+      "example": {},
+      "meanings": [
+        "English"
+      ]
+    },
+    {
+      "phrase": "영어다운 영어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "idiomatic English"
+      ]
+    },
+    {
+      "phrase": "영어로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in English"
+      ]
+    },
+    {
+      "phrase": "영어 원서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the original book in English",
+        "the English book in the original"
+      ]
+    },
+    {
+      "phrase": "영어의 몸",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a prisoner behind (the) bars"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "English",
+      "frequency": 3
+    },
+    {
+      "meaning": "Scots",
+      "frequency": 0
+    },
+    {
+      "meaning": "가나어",
+      "frequency": 0
+    },
+    {
+      "meaning": "Kikansha Thomas: Kokugo Sansuu Eigo",
+      "frequency": 0
+    },
+    {
+      "meaning": "I",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오케이 영어 내가 읽어줄게요! Okay, I'll read you the English. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Okay, I'll read you the English."
+    },
+    {
+      "korean": "[어머낫 영어(TEAM)를 말하고 말았지 모얌?] 태현아! [Oh my god] TAEHYUN! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Oh my god] TAEHYUN!"
+    },
+    {
+      "korean": "'광둥어나 영어 할 수 있어요?' \"Can you speak Cantonese or English?\" 듣기 View video AB6IX : 로센키🌹",
+      "english": "\"Can you speak Cantonese or English?\""
+    },
+    {
+      "korean": "굳이 나한테 영어를 배우고 싶나요? Do you really want to learn it from me? 듣기 View video AB6IX : 로센키🌹",
+      "english": "Do you really want to learn it from me?"
+    },
+    {
+      "korean": "영어회화를 굳이 야너두처럼 하고 싶은 거잖아요? You want to do it like Yah! Nuhdoo, right? 듣기 View video AB6IX : 로센키🌹",
+      "english": "You want to do it like Yah! Nuhdoo, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the English language 듣기 Add to Wordbook 영어. Friendict Level English-Korean Dictionary",
+      "english": "the English language Add to Wordbook"
+    },
+    {
+      "korean": "They’re renting a furnished flat on the third floor. 듣기 Add to Wordbook 그들은 4층(영국 영어)[3층 (미국 영어)]에 있는 설비가 갖춰진 아파트를 세 내려 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They’re renting a furnished flat on the third floor. Add to Wordbook"
+    },
+    {
+      "korean": "Do you speak English? 듣기 Add to Wordbook 영어를 할 줄 아세요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Do you speak English? Add to Wordbook"
+    },
+    {
+      "korean": "When did the word ‘bungalow’ first enter the vocabulary? 듣기 Add to Wordbook ‘방갈로’라는 단어가 언제 (영어) 어휘 속에 처음 들어왔을까요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When did the word ‘bungalow’ first enter the vocabulary? Add to Wordbook"
+    },
+    {
+      "korean": "She speaks good English. 듣기 Add to Wordbook 그녀는 영어를 잘 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She speaks good English. Add to Wordbook"
+    }
+  ]
+}

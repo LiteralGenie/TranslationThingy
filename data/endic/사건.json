@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "사건",
+      "hanja": " (事件)",
+      "example": {},
+      "meanings": [
+        "incident, affair, event, (범죄) case, (사고) accident"
+      ]
+    },
+    {
+      "phrase": "사기 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a fraud case"
+      ]
+    },
+    {
+      "phrase": "극적 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a dramatic incident"
+      ]
+    },
+    {
+      "phrase": "역사적 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a historic[historical(역사상의)] event"
+      ]
+    },
+    {
+      "phrase": "기괴한 사건",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a strange affair",
+        "a mystery"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "incident",
+      "frequency": 3
+    },
+    {
+      "meaning": "case",
+      "frequency": 3
+    },
+    {
+      "meaning": "action",
+      "frequency": 3
+    },
+    {
+      "meaning": "page",
+      "frequency": 3
+    },
+    {
+      "meaning": "business",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[총 6개의 보기와 함께 등장했던 지성 공원의 이어폰 분실 사건] 지성이 이어폰 잃어버렸어요? [It's the incident that came afloat with 6 possible answers] JISUNG lost his earphone? 듣기 View video V PICK! : [NCT] 요즘 미술학원에선 아그리파 안쓰고 런쥔이 그린답니다✨ (RENJUN talking about episode with HAECHAN)",
+      "english": "[It's the incident that came afloat with 6 possible answers] JISUNG lost his earphone?"
+    },
+    {
+      "korean": "사건이다! 사건! It's an incident! Incident! 듣기 View video IU : [IU TV] Blueming 꽃이 피었습니다.",
+      "english": "It's an incident! Incident!"
+    },
+    {
+      "korean": "[대박 사건] 진짜 미스티 님? [This is huge] MISTY? 듣기 View video World Klass (월드 클래스) : [8회] ★미스티 정체 공개★ 모든 순간 함께한 그녀! 박민영♥",
+      "english": "[This is huge] MISTY?"
+    },
+    {
+      "korean": "[사건(?)의 전말] 빈이가 단톡방에~~ In our group chatroom... 듣기 View video ASTRO : [ASTRO PLAY] in 2019 Awards🎉",
+      "english": "In our group chatroom..."
+    },
+    {
+      "korean": "제노가 벗었대 사건... - 그 사건... 사건이었어? JENO's ab incident. - Was that an incident? 듣기 View video NCT : 자기전에 부이앱💚💚💚",
+      "english": "JENO's ab incident. - Was that an incident?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "cognizant of the importance of the case 듣기 Add to Wordbook 그 사건의 중요성을 인지하고 있는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "cognizant of the importance of the case Add to Wordbook"
+    },
+    {
+      "korean": "the ascription of meaning to objects and events 듣기 Add to Wordbook 사물과 사건들에 대한 의미 부여 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ascription of meaning to objects and events Add to Wordbook"
+    },
+    {
+      "korean": "The case was remitted to the Court of Appeal. 듣기 Add to Wordbook 그 사건은 항소 법원으로 송부되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The case was remitted to the Court of Appeal. Add to Wordbook"
+    },
+    {
+      "korean": "The sex scandal finally led to his downfall. 듣기 Add to Wordbook 그 성추문 사건은 결국 그의 몰락을 가져왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sex scandal finally led to his downfall. Add to Wordbook"
+    },
+    {
+      "korean": "The police have decided to reopen the case. 듣기 Add to Wordbook 경찰이 그 사건 수사를 재개하기로 결정했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police have decided to reopen the case. Add to Wordbook"
+    }
+  ]
+}

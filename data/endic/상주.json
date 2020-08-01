@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "상주",
+      "hanja": " (常住)",
+      "example": {},
+      "meanings": [
+        "(어떤 곳에 늘 살다) reside (in/at)"
+      ]
+    },
+    {
+      "phrase": "상주",
+      "hanja": " (常駐)",
+      "example": {},
+      "meanings": [
+        "(한 곳에 늘 머무르다) stay (permanently) (at/in), be (permanently) stationed (at/in)"
+      ]
+    },
+    {
+      "phrase": "상주",
+      "hanja": " (喪主)",
+      "example": {},
+      "meanings": [
+        "(맏상제) chief mourner"
+      ]
+    },
+    {
+      "phrase": "상주",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "행정공공시설 (지명·행정·토지구역) Sangju"
+      ]
+    },
+    {
+      "phrase": "상주불멸하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live forever",
+        "be immortal and indestructible",
+        "be eternal"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "residence",
+      "frequency": 1
+    },
+    {
+      "meaning": "the chief mourner",
+      "frequency": 0
+    },
+    {
+      "meaning": "the chief mourner",
+      "frequency": 0
+    },
+    {
+      "meaning": "pipkrake",
+      "frequency": 0
+    },
+    {
+      "meaning": "frost pilar",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "상주 몰라요? 상주 국가 몰라요? You don't know Sangju? Sangju country? 듣기 View video MAP6 : MAP6 TV 복습하기 EP.002",
+      "english": "You don't know Sangju? Sangju country?"
+    },
+    {
+      "korean": "지금 여기 상주야. - 상주 곳간? We're in Sangju now. - Sangju warehouse? 듣기 View video MAP6 : MAP6 TV 복습하기 EP.002",
+      "english": "We're in Sangju now. - Sangju warehouse?"
+    },
+    {
+      "korean": "아 요즘에, MAMA에서 상주시는 거 있잖아요. Oh, you know you can get an award at MAMA. 듣기 View video DAY6 : DAY6의 Free한 라디오 with Jae, 원필",
+      "english": "Oh, you know you can get an award at MAMA."
+    },
+    {
+      "korean": "누가 보면 정글에 상주한 줄 알겠어. It's not like you lived in the jungle. 듣기 View video iKON : [FULL] iKON - COMEBACK V LIVE 'KONFIDENTIAL NIGHT'",
+      "english": "It's not like you lived in the jungle."
+    },
+    {
+      "korean": "진짜 웃겼어요. - 상주세요. You were so funny. - Give me the prize, please. 듣기 View video iKON : [KONIC TV] 4탄 '똑똑이 코니들!!!'",
+      "english": "You were so funny. - Give me the prize, please."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the chief mourner 발음듣기 상주. Friendict Level English-Korean Dictionary",
+      "english": "the chief mourner 발음"
+    },
+    {
+      "korean": "a residential home for the elderly 발음듣기 노인 상주 요양 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a residential home for the elderly 발음"
+    },
+    {
+      "korean": "residential care for children 발음듣기 숙식을 제공하는[상주] 탁아 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "residential care for children 발음"
+    },
+    {
+      "korean": "Tom’s our resident expert on foreign movies. 발음듣기 톰은 우리 전속[현지 상주] 해외 영화 전문가이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tom’s our resident expert on foreign movies. 발음"
+    },
+    {
+      "korean": "The flag flies when the Queen is in residence. 발음듣기 여왕이 (그 궁전에) 상주하고 계실 때에는 국기가 게양된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The flag flies when the Queen is in residence. 발음"
+    }
+  ]
+}

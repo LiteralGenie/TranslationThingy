@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "lick",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 핥다",
+        "Verb 핥아먹다[마시다]",
+        "Noun 한 번 핥기[핥아먹기]"
+      ]
+    },
+    {
+      "phrase": "leak",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (액체기체가) 새게 하다",
+        "Verb 새다",
+        "Noun (액체기체가) 새는 곳[구멍/틈]"
+      ]
+    },
+    {
+      "phrase": "reek",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 지독한 악취를 풍기다",
+        "Verb 못마땅함 (의심스러운) 냄새[기미]가 강하게 나다",
+        "Noun 지독한 악취 (=stench)"
+      ]
+    },
+    {
+      "phrase": "leek",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 리크(큰 부추같이 생긴 채소)"
+      ]
+    },
+    {
+      "phrase": "wreak",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 격식 (큰 피해 등을) 입히다[가하다] (→wrought)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "licks",
+      "frequency": 0
+    },
+    {
+      "meaning": "lick",
+      "frequency": 3
+    },
+    {
+      "meaning": "유출",
+      "frequency": 0
+    },
+    {
+      "meaning": "lap 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "새다 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 괜찮나? 내 이름이 왜 에~릭 이렇게 되지? Is this okay? Why does my name become \"Er-ric\"? 듣기 View video THE BOYZ : white (feat. 막내즈) #2",
+      "english": "Is this okay? Why does my name become \"Er-ric\"?"
+    },
+    {
+      "korean": "'릭이 가장 좋아하는 캐럴은?' \"What's your favorite carol, Eric?\" 듣기 View video THE BOYZ : 에릭 놀이터 ep.2🦄",
+      "english": "\"What's your favorite carol, Eric?\""
+    },
+    {
+      "korean": "여러분 뚜껑 먹어요? Everyone, do you lick the lid? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Everyone, do you lick the lid?"
+    },
+    {
+      "korean": "파 봤는데... I saw leeks. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "I saw leeks."
+    },
+    {
+      "korean": "아 쟤 파 있어... He got leeks, too. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "He got leeks, too."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Rick’s cooking was always good but this time he really excelled himself. 듣기 Add to Wordbook 릭의 요리는 항상 좋았지만 이번에는 정말 탁월했어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rick’s cooking was always good but this time he really excelled himself. Add to Wordbook"
+    },
+    {
+      "korean": "Rick is crazy about football. 듣기 Add to Wordbook 릭은 축구를 광적으로 좋아한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rick is crazy about football. Add to Wordbook"
+    },
+    {
+      "korean": "Tom is not alone in finding Rick hard to work with. 듣기 Add to Wordbook 릭과 함께 일하기 힘들다고 생각하는 사람이 톰 한 사람뿐이 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tom is not alone in finding Rick hard to work with. Add to Wordbook"
+    },
+    {
+      "korean": "Rick hasn’t changed. He looks exactly the same as he did at school. 듣기 Add to Wordbook 릭은 변하지 않았어. 그는 학교 때와 똑같애. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rick hasn’t changed. He looks exactly the same as he did at school. Add to Wordbook"
+    },
+    {
+      "korean": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. (Rick Cook) 듣기 Add to Wordbook 오늘 날 컴퓨터 프로그래밍은 더 크고 바보들도 쉽게 쓸 수 있는 프로그램을 만드려 애쓰는 소프트웨어 기술자들과 더 크고 더 심각한 바보들을 만들어내려는 세계 사이의 경쟁이다. 지금까지는 세계가 이기고 있다. (릭 쿡, 컴퓨터명언) 명언/속담",
+      "english": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. (Rick Cook) Add to Wordbook"
+    }
+  ]
+}

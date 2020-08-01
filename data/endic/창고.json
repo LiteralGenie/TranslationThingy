@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "창고",
+      "hanja": " (倉庫)",
+      "example": {},
+      "meanings": [
+        "warehouse, storage, storehouse, store, depot"
+      ]
+    },
+    {
+      "phrase": "냉동 창고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cold storage, (Brit) cold store"
+      ]
+    },
+    {
+      "phrase": "물류 창고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "warehouse"
+      ]
+    },
+    {
+      "phrase": "보세 창고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bonded warehouse"
+      ]
+    },
+    {
+      "phrase": "창고에 보관하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep sth in a storage"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "store",
+      "frequency": 3
+    },
+    {
+      "meaning": "depot",
+      "frequency": 3
+    },
+    {
+      "meaning": "storehouse",
+      "frequency": 3
+    },
+    {
+      "meaning": "warehouse",
+      "frequency": 3
+    },
+    {
+      "meaning": "shed",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[하트를 모아둘 장소가 필요한 뷔] - 창고요 - 창고요? [V needs a storage space for his hearts] - A storage place. - Storage place? 듣기 View video BTS : Run BTS! 2019 - EP.79",
+      "english": "[V needs a storage space for his hearts] - A storage place. - Storage place?"
+    },
+    {
+      "korean": "[프로의심러 전향] [실패] [보물창고 털림] [?] [?] [?] [Professional detective] [Failed] [Confiscated] [?] [?] [?] View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 4화",
+      "english": "[Professional detective] [Failed] [Confiscated] [?] [?] [?]"
+    },
+    {
+      "korean": "[모두 한이 보물창고로 집결] 여기다 왜 숨겨놔? [Everyone came to his treasure box] Why did you put them here? 듣기 View video Stray Kids : [FULL]<찾았다 스트레이 키즈> 4화",
+      "english": "[Everyone came to his treasure box] Why did you put them here?"
+    },
+    {
+      "korean": "냉동창고. Walk in freezer. 듣기 View video ASTRO : 💜0321💜 따나생일 (캐치마인드!)",
+      "english": "Walk in freezer."
+    },
+    {
+      "korean": "이쪽 창고에 한 명. One person in this storage. 듣기 View video CHOON (춘) entertainment : [#용국]용또죽의 배그방송",
+      "english": "One person in this storage."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The trucks waited at the warehouse to pick up their loads. 듣기 Add to Wordbook 그 트럭들은 짐을 싣기 위해 창고에서 기다렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The trucks waited at the warehouse to pick up their loads. Add to Wordbook"
+    },
+    {
+      "korean": "We have plenty more of them in the warehouse. 듣기 Add to Wordbook 우리에겐 그것이 창고에 더 많이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have plenty more of them in the warehouse. Add to Wordbook"
+    },
+    {
+      "korean": "The warehouse has been badly damaged by fire. 듣기 Add to Wordbook 그 창고는 화재로 심하게 탔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The warehouse has been badly damaged by fire. Add to Wordbook"
+    },
+    {
+      "korean": "The building is currently being used as a warehouse. 듣기 Add to Wordbook 그 건물은 현재 창고로 쓰이고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The building is currently being used as a warehouse. Add to Wordbook"
+    },
+    {
+      "korean": "Matters were made worse by a fire in the warehouse. 듣기 Add to Wordbook 창고에서 난 화재로 사정이 더 악화되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Matters were made worse by a fire in the warehouse. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(무엇) what, something",
+        "(놀라움) what, huh, why"
+      ]
+    },
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection what, oh my goodness, oh my gosh",
+        "Interjection what",
+        "Interjection anyway"
+      ]
+    },
+    {
+      "phrase": "뭐라 뭐라 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say what and what"
+      ]
+    },
+    {
+      "phrase": "뭐니 뭐니 해도",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "뭐가 뭔지 모르겠어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm totally lost."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "or what",
+      "frequency": 0
+    },
+    {
+      "meaning": "intangible",
+      "frequency": 3
+    },
+    {
+      "meaning": "improvise",
+      "frequency": 3
+    },
+    {
+      "meaning": "eh",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭔데? What is it? 듣기 View video OSEN : PENTAGON 펜타곤, 여동생에 소개시켜주고 싶은 멤버? #스타로드 04",
+      "english": "What is it?"
+    },
+    {
+      "korean": "[뭔데?] [Who is it?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 11. “저 사람은 랩하게 생겼네;;” 한 자리에 모인 12대학 래퍼들!! 시작된 신경전!!",
+      "english": "[Who is it?]"
+    },
+    {
+      "korean": "[널... 그게 뭔데요?] [What is that?] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[What is that?]"
+    },
+    {
+      "korean": "[아...] 뭔데? [Oh...] What's wrong? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Oh...] What's wrong?"
+    },
+    {
+      "korean": "뭐야 뭐야? - 이거 뭔데? What is it? - What is that? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "What is it? - What is that?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What's up? 듣기 Add to Wordbook 뭔데? Neungyule",
+      "english": "What's up? Add to Wordbook"
+    },
+    {
+      "korean": "How dare you sit in judgement on me? 듣기 Add to Wordbook 당신이 뭔데 나에 대해 옳으니 그르니 하는 거요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "How dare you sit in judgement on me? Add to Wordbook"
+    },
+    {
+      "korean": "Thanks. What do you recommend from there? 듣기 Add to Wordbook 고마워. 거기 추천 메뉴는 뭔데? DARAKWON",
+      "english": "Thanks. What do you recommend from there? Add to Wordbook"
+    },
+    {
+      "korean": "Don’t be such a snob. Who do you think you are? 듣기 Add to Wordbook 그렇게 고상한 척 하지마. 네가 뭔데 그래? DARAKWON",
+      "english": "Don’t be such a snob. Who do you think you are? Add to Wordbook"
+    },
+    {
+      "korean": "What is so special about these headphones? 듣기 Add to Wordbook 이 헤드폰이 뭔데 그렇지? YBM All in All English-Korean Dictionary",
+      "english": "What is so special about these headphones? Add to Wordbook"
+    }
+  ]
+}

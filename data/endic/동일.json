@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "동일",
+      "hanja": " (同一)",
+      "example": {},
+      "meanings": [
+        "[형용사] same (as), identical (to/with), equal (to)"
+      ]
+    },
+    {
+      "phrase": "동일 인물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the same person"
+      ]
+    },
+    {
+      "phrase": "마찬가지의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the same",
+        "one and the same",
+        "identical"
+      ]
+    },
+    {
+      "phrase": "작년 동일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the corresponding[same] date of last year"
+      ]
+    },
+    {
+      "phrase": "동일한 조건이면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "under the same[identical] conditions",
+        "if the conditions are the same"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ead.",
+      "frequency": 0
+    },
+    {
+      "meaning": "hom-",
+      "frequency": 0
+    },
+    {
+      "meaning": "home(o)-",
+      "frequency": 0
+    },
+    {
+      "meaning": "same",
+      "frequency": 2
+    },
+    {
+      "meaning": "equal",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "동일 인물 정말 맞으십니까? Are you really the same person? 듣기 View video 콬TV (WHYNOT) : 한 번 진상은 영원한 진상이다 [가두리횟집] EP06",
+      "english": "Are you really the same person?"
+    },
+    {
+      "korean": "어쨌든 동일한 커피가 되는데 왜 굳이 그렇게 먹죠? What's the difference between that and the coffee that we usually drink? 듣기 View video TOMORROW X TOGETHER : 해피벌쓰데이 범규❣🥰",
+      "english": "What's the difference between that and the coffee that we usually drink?"
+    },
+    {
+      "korean": "무슨 미소년 변신물도 아니고 동일인물 정말 맞으십니까? It's not some kind of boyish transformation. Is this really the same person? 듣기 View video 콬TV (WHYNOT) : 퇴근하면 180도 돌면하는 수상한 남자가 있다?! [가두리횟집] 하이라이트",
+      "english": "It's not some kind of boyish transformation. Is this really the same person?"
+    },
+    {
+      "korean": "무슨 미소년 변신물도 아니고 동일인물 정말 맞으십니까? It's not some kind of boyish transformation. Is this really the same person? 듣기 View video 콬TV (WHYNOT) : 누나 집에서 회 먹고 갈래? [가두리횟집] TEASER",
+      "english": "It's not some kind of boyish transformation. Is this really the same person?"
+    },
+    {
+      "korean": "당연히 봐야 되는 거... - SAT랑 이제 동일시 할 수 있는 그게... - 진짜? I thought it was mandatory. - There may be something that can replace SAT... - Really? 듣기 View video BTS : 슙디의 꿀 FM 06.13 with RM #0613FM_0502",
+      "english": "I thought it was mandatory. - There may be something that can replace SAT... - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "actors from the same stable 발음듣기 동일 극단[기획사] 소속 배우들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "actors from the same stable 발음"
+    },
+    {
+      "korean": "In effect, the two systems are identical. 발음듣기 사실상 그 두 시스템은 동일하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In effect, the two systems are identical. 발음"
+    },
+    {
+      "korean": "a lockstep approach to teaching 발음듣기 모두 동일한 방식으로 가르치는 교육 방법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a lockstep approach to teaching 발음"
+    },
+    {
+      "korean": "tasks carried out in the same serial order 발음듣기 동일한 순차적 순서로 실행되는 작업 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "tasks carried out in the same serial order 발음"
+    },
+    {
+      "korean": "They both said much the same thing. 발음듣기 그들은 두 사람 다 거의 동일한 말을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They both said much the same thing. 발음"
+    }
+  ]
+}

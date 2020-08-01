@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "전략",
+      "hanja": " (戰略)",
+      "example": {},
+      "meanings": [
+        "strategy, tactic, (formal) stratagem"
+      ]
+    },
+    {
+      "phrase": "전략을 세우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "establish[plan, work out, map out, devise] a strategy[plan, tactic]",
+        "strategize"
+      ]
+    },
+    {
+      "phrase": "전략무기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "strategic weapons strategic arms,"
+      ]
+    },
+    {
+      "phrase": "전략 폭격",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "strategic bombing"
+      ]
+    },
+    {
+      "phrase": "판매 전략을 세우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "produce[create] a sales strategy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "strategy",
+      "frequency": 3
+    },
+    {
+      "meaning": "tactic",
+      "frequency": 0
+    },
+    {
+      "meaning": "game plan",
+      "frequency": 0
+    },
+    {
+      "meaning": "ruse de guerre",
+      "frequency": 0
+    },
+    {
+      "meaning": "the game of war[politics]",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저 형은 왜 껴있는 거야 - 한 명만 전략... Why is he there? - He tries every time. 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "Why is he there? - He tries every time."
+    },
+    {
+      "korean": "이건 무슨 전략이야? What game are you playing now? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "What game are you playing now?"
+    },
+    {
+      "korean": "이제 다른 전략으로 미는 거야? you are going ahead with a different strategy? 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "you are going ahead with a different strategy?"
+    },
+    {
+      "korean": "[퍼포먼스를 과감히 내다 버린 꾼의 전략은?] [What's their strategy after throwing out their performance?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 15. 겉바속촉 회기파전 아님! 경희대vs한국외대의 회기파戰에 낀 성균관! 그 결과는?",
+      "english": "[What's their strategy after throwing out their performance?]"
+    },
+    {
+      "korean": "뭐지? 이 전략은? What is this? What is his strategy? 듣기 View video Dingo Story / 딩고스토리 : 좋아하는 사람이 다른 사람과 키스했다_EP19_[라이크LIKE]",
+      "english": "What is this? What is his strategy?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Confrontation is not always the best tactic. 듣기 Add to Wordbook 대결이 항상 가장 좋은 전략은 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Confrontation is not always the best tactic. Add to Wordbook"
+    },
+    {
+      "korean": "Strategic alliances are being forged with major European companies. 듣기 Add to Wordbook 유럽 주요 회사들과의 전략적 제휴가 구축되고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Strategic alliances are being forged with major European companies. Add to Wordbook"
+    },
+    {
+      "korean": "The pilots bombed strategic targets with pinpoint accuracy. 듣기 Add to Wordbook 조종사들이 전략적 목표물에 한 치의 오차도 없이 정확히 폭격을 가했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The pilots bombed strategic targets with pinpoint accuracy. Add to Wordbook"
+    },
+    {
+      "korean": "The police presented a reactive rather than preventive strategy against crime. 듣기 Add to Wordbook 경찰은 범죄에 대해 예방 전략이 아니라 사후 반작용적인 전략을 구사했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police presented a reactive rather than preventive strategy against crime. Add to Wordbook"
+    },
+    {
+      "korean": "a strategically placed microphone 듣기 Add to Wordbook 전략상 중요한 곳에 설치된 마이크 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a strategically placed microphone Add to Wordbook"
+    }
+  ]
+}

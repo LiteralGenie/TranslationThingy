@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "아니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not, no"
+      ]
+    },
+    {
+      "phrase": "아닌 말로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is nonsensical to say so, but"
+      ]
+    },
+    {
+      "phrase": "아닌 밤중에 홍두깨 (내밀듯)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(as if holding out) a wooden roller in the middle of the night, a great surprise, a bolt out of the blue"
+      ]
+    },
+    {
+      "phrase": "때 아닌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unseasonable"
+      ]
+    },
+    {
+      "phrase": "정상이 아닌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "abnormal",
+        "irregular"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "insane",
+      "frequency": 3
+    },
+    {
+      "meaning": "non-native",
+      "frequency": 0
+    },
+    {
+      "meaning": "false",
+      "frequency": 3
+    },
+    {
+      "meaning": "videshi",
+      "frequency": 0
+    },
+    {
+      "meaning": "unless",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭔가 마마무의 문별이 아닌... Not as Moonbyul of MAMAMOO... 듣기 View video MAMAMOO : 🌙달이 태양을 가릴 때🌙",
+      "english": "Not as Moonbyul of MAMAMOO..."
+    },
+    {
+      "korean": "이 빛이 아닌 거잖아요? 그 아까... It's not this light? Before... 듣기 View video MONSTA X : LIVE : 다시 🐢",
+      "english": "It's not this light? Before..."
+    },
+    {
+      "korean": "네가 할 소린 아닌 것 같은데? You are not the right person to say that I think. 듣기 View video 플레이리스트 (Playlist) : 마지막화) 5분 만에 전남친한테 최고의 복수하는 법 [엑스엑스(XX)] - EP.10",
+      "english": "You are not the right person to say that I think."
+    },
+    {
+      "korean": "[사람이 아닌 길동이의 전생은 과연?] [What is Gildong's nonhuman previous life?] View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[What is Gildong's nonhuman previous life?]"
+    },
+    {
+      "korean": "한정판이 아닌 거의 차이점이 뭐예요? between the limited edition and ordinary edition? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "between the limited edition and ordinary edition?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He acted out of expediency, not principle. 듣기 Add to Wordbook 그는 원칙이 아닌 편의성에 따라 행동을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He acted out of expediency, not principle. Add to Wordbook"
+    },
+    {
+      "korean": "not in saleable condition 듣기 Add to Wordbook 팔기에 알맞은 상태가 아닌 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "not in saleable condition Add to Wordbook"
+    },
+    {
+      "korean": "the number of live births 듣기 Add to Wordbook 정상 출산[사산이 아닌] 신생아의 수 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the number of live births Add to Wordbook"
+    },
+    {
+      "korean": "Her own problems paled into insignificance beside this terrible news. 듣기 Add to Wordbook 이 끔찍한 소식에 비하면 그녀 자신의 문제는 아무것도 아닌 것 같았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her own problems paled into insignificance beside this terrible news. Add to Wordbook"
+    },
+    {
+      "korean": "He’s losing his marbles. 듣기 Add to Wordbook 그가 제정신[정상]이 아닌 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s losing his marbles. Add to Wordbook"
+    }
+  ]
+}

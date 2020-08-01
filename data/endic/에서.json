@@ -1,0 +1,105 @@
+{
+  "phrases": [
+    {
+      "phrase": "에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(장소) in",
+        "(장소) at",
+        "(시발점) from"
+      ]
+    },
+    {
+      "phrase": "Ashur ( Asshur, Assur, Asur )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 아수르 ((Assyria의 최고신))",
+        "Noun Assyria의 구칭, 그 수도"
+      ]
+    },
+    {
+      "phrase": "Assur",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 아수르신(아시리아(Assyria) 신화의 최고 신). (또는 As(s)hur, Asur)"
+      ]
+    },
+    {
+      "phrase": "Asur ( Asurbanipal )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "⇨ ASHUR, ASHURBANIPAL"
+      ]
+    },
+    {
+      "phrase": "assur",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Adjective] (Jewish law) forbidden"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "from",
+      "frequency": 3
+    },
+    {
+      "meaning": "in",
+      "frequency": 3
+    },
+    {
+      "meaning": "off",
+      "frequency": 3
+    },
+    {
+      "meaning": "out",
+      "frequency": 3
+    },
+    {
+      "meaning": "there",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오직 V LIVE 에서만 보실 수 있죠.",
+      "english": "Exclusively on V LIVE."
+    },
+    {
+      "korean": "오직 '악탐스' 에서만 볼 수 있는 거라고 생각해.",
+      "english": "is only possible on \"Akdong Detectives.\""
+    },
+    {
+      "korean": "저희는 DAUM 이랑 MELON 에서만 1위한 줄 알았거든요.",
+      "english": "We thought we ranked 1st on DAUM and MELON."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "이 유치는 Lizard 섬 주위의 보호 연못이나 늪 그리고 대보초 에서만 발견되었지만 이 유치는 다른 장소에서 서식할 수도 있다.",
+      "english": "The infantfish has been found in only protected ponds or swamps around Lizard Island, in the Great Barrier Reef, but it may live in other places."
+    },
+    {
+      "korean": "메츠의 서에게 이것은 시즌 중 가장 편한 게임 중 하나였는데, 의 경우 이는 시즌 중 가장 편안한(쉬운) 게임이였다. 왜냐하면 첫 4이닝동안 8점을 얻고 5번째 이닝 에서만 5점을 더 보탬으로써 타자들이 오른손 투수로부터의 압박을 떨쳐냈기 때문이다.",
+      "english": "To the Mets' Seo it was one of the most comfortable games of the season, as the batters swept pressure away from the right-hander by earning eight runs over the first four innings, and five more in the fifth inning only."
+    },
+    {
+      "korean": "그것은 Oslo에 서 도난 당한 뭉크의'절규'의 또 다른 버전, 빈센트 반 고 흐 박물관에서 없어진 빈센트 반 고흐의 그림 두 점, 그리고 뉴 욕 의 한 아 파 트 에 서 없 어 진 Davidoff-Morini Stradivarius 바이올린을 포함하고 있다.",
+      "english": "The Arts Crime Team worked to create a list of the world's top ten art crimes, which includes another version of Munch's 'The Scream,' which was stolen in Oslo, two of Vincent Van Gogh's paintings removed from the Vincent Van Gogh Museum and a Davidoff-Morini Stradivarius violin taken from an apartment in New York."
+    },
+    {
+      "korean": "재건 경제 에서뿐만 아니라 치유와 화해 과정에서 진정한 진전이 이루어졌고 현재 진행되고 있습니다.",
+      "english": "Real progress has been and is being made, not just in rebuilding economies, but in the healing and reconciliation process."
+    },
+    {
+      "korean": "그들은 뭐, 석기시대 에서라도 왔나?",
+      "english": "What are they from stone age?"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "내일",
+      "hanja": " (來日)",
+      "example": {},
+      "meanings": [
+        "(오늘의 다음 날) tomorrow",
+        "(장래, 미래) tomorrow, future"
+      ]
+    },
+    {
+      "phrase": "내일",
+      "hanja": " (來日)",
+      "example": {},
+      "meanings": [
+        "Noun (Abbr.) 낼1. days to come, future (→어제1)",
+        "Noun days to come, future (→어제1)"
+      ]
+    },
+    {
+      "phrase": "내일쯤",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by tomorrow"
+      ]
+    },
+    {
+      "phrase": "지금[내일]부터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "starting from now[tomorrow]"
+      ]
+    },
+    {
+      "phrase": "내일 아침[저녁]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tomorrow morning[evening]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tomorrow",
+      "frequency": 3
+    },
+    {
+      "meaning": "morrow",
+      "frequency": 3
+    },
+    {
+      "meaning": "in the morning",
+      "frequency": 0
+    },
+    {
+      "meaning": "See you tomorrow morning.",
+      "frequency": 0
+    },
+    {
+      "meaning": "She's leaving tomorrow.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내일은? How about tomorrow? 듣기 View video NCT 127 : 시즈니가 이런 거 또 좋아하지 127 Ep.1",
+      "english": "How about tomorrow?"
+    },
+    {
+      "korean": "내일 개학이에요? School starts tomorrow? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "School starts tomorrow?"
+    },
+    {
+      "korean": "내일 뭐 하냐고요? What am I doing tomorrow? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "What am I doing tomorrow?"
+    },
+    {
+      "korean": "내일도 함께하자로 해야 돼! Translate it into Korean. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "Translate it into Korean."
+    },
+    {
+      "korean": "내일이 더 추워요? 내일이 더 춥다고? It's colder tomorrow? It's colder tomorrow? 듣기 View video ITZY : 🖤",
+      "english": "It's colder tomorrow? It's colder tomorrow?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Take no thought for the morrow: for the morrow shall take thought for the things of itself. 듣기 Add to Wordbook 생각하지마라 내일을: 내일은 그 스스로 생각을 할 것이니. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 브라우니(with****)",
+      "english": "Take no thought for the morrow: for the morrow shall take thought for the things of itself. Add to Wordbook"
+    },
+    {
+      "korean": "My job is my job, and that's it. 듣기 Add to Wordbook 내 일은 내 일이지, 그게 다야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 cielcine(ciel****)",
+      "english": "My job is my job, and that's it. Add to Wordbook"
+    },
+    {
+      "korean": "It will be a full moon tomorrow. 듣기 Add to Wordbook 내일은 보름달이 뜰 것이다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 메르베이(psys****)",
+      "english": "It will be a full moon tomorrow. Add to Wordbook"
+    },
+    {
+      "korean": "Tomorrow is the last day of camp. 듣기 Add to Wordbook 내일은 캠프 마지막 날이다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 사과향기(lees****)",
+      "english": "Tomorrow is the last day of camp. Add to Wordbook"
+    },
+    {
+      "korean": "I'll do the dishes for you tomorrow. 듣기 Add to Wordbook 내일은 내가 설거지 할게. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 허니디(hone****)",
+      "english": "I'll do the dishes for you tomorrow. Add to Wordbook"
+    }
+  ]
+}

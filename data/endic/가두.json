@@ -1,0 +1,99 @@
+{
+  "phrases": [
+    {
+      "phrase": "가두",
+      "hanja": " (街頭)",
+      "example": {},
+      "meanings": [
+        "street"
+      ]
+    },
+    {
+      "phrase": "가두서명을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "collect signatures on the street",
+        "have a petition on the street"
+      ]
+    },
+    {
+      "phrase": "견본[가두] 전시품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a floor sample"
+      ]
+    },
+    {
+      "phrase": "가두시위를 벌이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take to the streets to protest (against)"
+      ]
+    },
+    {
+      "phrase": "가두에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on[in] the street"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "varioloid",
+      "frequency": 0
+    },
+    {
+      "meaning": "parade",
+      "frequency": 1
+    },
+    {
+      "meaning": "soapbox",
+      "frequency": 0
+    },
+    {
+      "meaning": "marcher",
+      "frequency": 0
+    },
+    {
+      "meaning": "protest marches",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[둘 다 가서...] - 저는 두 개 다 가 - 두 개 다 가? [Going to both places] - I go both. - Really? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.9 JAPAN 'HARU' CONCERT #2",
+      "english": "[Going to both places] - I go both. - Really?"
+    },
+    {
+      "korean": "테스트한다고 그런 무시무시한 곳에 사람을 가두냐. She's merciless. She kept me in such a horrible place for this test. 듣기 View video 컨버전스 TV (CONS TV) : [악동탐정스 Part 3] 제3화. 황제지보 도난사건Ⅲ (최종화)",
+      "english": "She's merciless. She kept me in such a horrible place for this test."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The victorious team will parade through the city tomorrow morning. 발음듣기 우승팀은 내일 오전에 시가지를 다니며 가두 행진을 벌일 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The victorious team will parade through the city tomorrow morning. 발음"
+    },
+    {
+      "korean": "to go on a march 발음듣기 가두 시위를 벌이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to go on a march 발음"
+    },
+    {
+      "korean": "the Lord Mayor’s parade 발음듣기 시장의 가두 행진 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the Lord Mayor’s parade 발음"
+    },
+    {
+      "korean": "The authorities wavered over what punitive action to take against the participants in the street demonstration. 발음듣기 당국은 가두 시위의 참가자들에 대한 징계 조치에 대해 우왕좌왕했다. 절대어휘 5100",
+      "english": "The authorities wavered over what punitive action to take against the participants in the street demonstration. 발음"
+    },
+    {
+      "korean": "protest marches 발음듣기 항의성 가두 행진[가두 시위] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "protest marches 발음"
+    }
+  ]
+}

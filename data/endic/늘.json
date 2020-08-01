@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "늘",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "always, all the time, the whole time"
+      ]
+    },
+    {
+      "phrase": "늘 반복하는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "changeable",
+        "fickle"
+      ]
+    },
+    {
+      "phrase": "늘[매일] 사용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make constant[daily] use"
+      ]
+    },
+    {
+      "phrase": "늘 하는 농담",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "usual jokes"
+      ]
+    },
+    {
+      "phrase": "늘 자빠져 놀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "loaf away one´s time[days]",
+        "lead an idle life"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "always",
+      "frequency": 2
+    },
+    {
+      "meaning": "aye",
+      "frequency": 1
+    },
+    {
+      "meaning": "habitually",
+      "frequency": 0
+    },
+    {
+      "meaning": "ever more",
+      "frequency": 0
+    },
+    {
+      "meaning": "ever-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "늘 이런 식으로 일하십니까? Do you always work like this? 듣기 View video 콬TV (WHYNOT) : 벽과 벽 사이 [가두리횟집] EP07",
+      "english": "Do you always work like this?"
+    },
+    {
+      "korean": "늘? - 늘? Always? - Always? 듣기 View video OSEN : Stray Kids 스트레이키즈, 마지막까지 하이텐션(ft.2020년 목표) #스타로드 16",
+      "english": "Always? - Always?"
+    },
+    {
+      "korean": "'늘 그자리에 상'? \"Always There Award\"? 듣기 View video SMTOWN : SHINee 0525",
+      "english": "\"Always There Award\"?"
+    },
+    {
+      "korean": "이렇게 이렇게 늘... I'm always like this... 듣기 View video ONG SEONG WU : 위로 탄생 1주년!!",
+      "english": "I'm always like this..."
+    },
+    {
+      "korean": "저는 뭐 늘, 항상 이제... I always... Always... 듣기 View video ATEEZ : 종호의 🍏 라디오",
+      "english": "I always... Always..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The letter was written in her usual acerbic style. 발음듣기 편지는 그녀가 늘 쓰는 신랄한 어투로 쓰여 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The letter was written in her usual acerbic style. 발음"
+    },
+    {
+      "korean": "All the usual local notables were there. 발음듣기 늘 보는 지역 유지들 모두가 거기 와 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All the usual local notables were there. 발음"
+    },
+    {
+      "korean": "He was always getting into scraps at school. 발음듣기 그는 학교 다닐 때 늘 싸움을 벌였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was always getting into scraps at school. 발음"
+    },
+    {
+      "korean": "Vitamin deficiency in the diet can cause illness. 발음듣기 (늘 섭취하는) 음식에 비타민이 부족하면 병을 유발할 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Vitamin deficiency in the diet can cause illness. 발음"
+    },
+    {
+      "korean": "The government was limping along in its usual way. 발음듣기 정부는 늘 그렇듯 느릿느릿 움직이고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government was limping along in its usual way. 발음"
+    }
+  ]
+}

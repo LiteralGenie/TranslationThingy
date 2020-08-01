@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "어른",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "adult, grown-up senior (citizen), (집합적) (one's) elders"
+      ]
+    },
+    {
+      "phrase": "어른 빰치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "slap an adult in the face"
+      ]
+    },
+    {
+      "phrase": "어른 말을 들으면 자다가도 떡이 생긴다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You will get tteok, rice cake, if you listen to what elders say"
+      ]
+    },
+    {
+      "phrase": "어른스럽다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mature"
+      ]
+    },
+    {
+      "phrase": "어른의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "adult",
+        "grown-up"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "elder",
+      "frequency": 3
+    },
+    {
+      "meaning": "grown-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "adult",
+      "frequency": 3
+    },
+    {
+      "meaning": "manhood",
+      "frequency": 3
+    },
+    {
+      "meaning": "grown",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어른들은 왜 그래요? What's wrong with grownups? 듣기 View video 콬TV (WHYNOT) : 모두가 날 안믿고 의심할 때.. [일진에게 찍혔을 때] EP12",
+      "english": "What's wrong with grownups?"
+    },
+    {
+      "korean": "이게 어른들의 세계! This is the world of adults. 듣기 View video V PICK! : [VICTON] 라떼는 말이야.. 깜찍이들이 자기 종족 정체성에 대해 토론을 했어.. (VICTON discuss HANSE’s identity)",
+      "english": "This is the world of adults."
+    },
+    {
+      "korean": "이게 어른들의 세계에요 - 어른들의 세계야? That's adult's world. - Adult's world? 듣기 View video VICTON : 깜짝부이앱",
+      "english": "That's adult's world. - Adult's world?"
+    },
+    {
+      "korean": "노티는 조금 어른들 듣는 노래들? Something that goes along with old people? 듣기 View video GOT7 : 유겨미^^",
+      "english": "Something that goes along with old people?"
+    },
+    {
+      "korean": "옛날 어른들 말 틀린 거 하나도 없나봐... Today, I learned that our ancestors were right. 듣기 View video Dingo Story / 딩고스토리 : 전 썸남의 여친과 함께하는 대환장 팀플썰 [ 세상 잘 사는 지은씨2 │ EP.04 ]",
+      "english": "Today, I learned that our ancestors were right."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Children have no respect for their elders nowadays. 듣기 Add to Wordbook 요즘에는 아이들이 어른들에 대한 존경심이 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Children have no respect for their elders nowadays. Add to Wordbook"
+    },
+    {
+      "korean": "She’s very shy with adults. 듣기 Add to Wordbook 그녀는 어른들과 함께 있으면 몹시 부끄러워한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s very shy with adults. Add to Wordbook"
+    },
+    {
+      "korean": "Many adults can’t relate to children. 듣기 Add to Wordbook 많은 어른들이 아이들을 이해하지 못한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many adults can’t relate to children. Add to Wordbook"
+    },
+    {
+      "korean": "If you’re good you can eat with the grown-ups. 듣기 Add to Wordbook 네가 예의 바르게 하면 어른들과 함께 식사할 수 있어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If you’re good you can eat with the grown-ups. Add to Wordbook"
+    },
+    {
+      "korean": "The language of teenagers is often completely inaccessible to adults. 듣기 Add to Wordbook 십대들의 언어는 흔히 어른들은 전혀 알아들을 수가 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The language of teenagers is often completely inaccessible to adults. Add to Wordbook"
+    }
+  ]
+}

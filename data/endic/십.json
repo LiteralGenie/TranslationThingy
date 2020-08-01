@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "십",
+      "hanja": " (十)",
+      "example": {},
+      "meanings": [
+        "ten"
+      ]
+    },
+    {
+      "phrase": "십",
+      "hanja": " (十)",
+      "example": {},
+      "meanings": [
+        "Determiner ten",
+        "Determiner tenth"
+      ]
+    },
+    {
+      "phrase": "ship",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (큰) 배, 선박, 함선 (→airship, flagship, lightship)",
+        "Verb (배나 다른 운송 수단으로) 실어 나르다, 수송[운송]하다"
+      ]
+    },
+    {
+      "phrase": "sheep",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 양 (→ewe, lamb, ram, black sheep)"
+      ]
+    },
+    {
+      "phrase": "sip",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (음료를) 홀짝이다[거리다], 조금씩 마시다",
+        "Noun (아주 적은 양의) 한 모금"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ten",
+      "frequency": 3
+    },
+    {
+      "meaning": "decade",
+      "frequency": 3
+    },
+    {
+      "meaning": "teenager",
+      "frequency": 3
+    },
+    {
+      "meaning": "teens",
+      "frequency": 3
+    },
+    {
+      "meaning": "teenaged",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "십 며칠만... 십일만 있으면 되나?",
+      "english": "In 10 something days... Is it only 10 days?"
+    },
+    {
+      "korean": "십분 십분 정도 더 할 수 있을...",
+      "english": "Ten minutes... I can do about ten more minutes..."
+    },
+    {
+      "korean": "한 십 중 팔은 우리는 다 그냥 - 진짜?",
+      "english": "but about 8 out of 10 students wore suits. - Really?"
+    },
+    {
+      "korean": "십 얼마를 쓰는데...",
+      "english": "He spent about 100,000 won."
+    },
+    {
+      "korean": "'십센치 망해라' 어때요?",
+      "english": "How about \"10cm go down\"?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그녀는 십대 때 시를 쓰기 시작했다.",
+      "english": "She began writing poetry in her teens."
+    },
+    {
+      "korean": "대부분의 십대들은 반항할 대상을 찾아낸다.",
+      "english": "Most teenagers find something to rebel against."
+    },
+    {
+      "korean": "유명 영화배우들의 사진을 보며 침을 흘리는 십대들",
+      "english": "teenagers drooling over photos of movie stars"
+    },
+    {
+      "korean": "대부분의 십대들이 반항기를 거친다.",
+      "english": "Most teenagers go through a period of rebelling."
+    },
+    {
+      "korean": "그녀는 십대 때 정체성 위기를 겪었다.",
+      "english": "She went through an identity crisis in her teens."
+    }
+  ]
+}

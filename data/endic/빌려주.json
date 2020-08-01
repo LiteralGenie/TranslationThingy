@@ -1,0 +1,76 @@
+{
+  "phrases": [
+    {
+      "phrase": "빌리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(돈·물건 등을) borrow, (은행 등에서) take out a loan (=꾸다)",
+        "(땅·차 등을) rent (out), (Brit) hire, (장기간) lease",
+        "(명의·아이디어·힘 등을)"
+      ]
+    },
+    {
+      "phrase": "주",
+      "hanja": " (主)",
+      "example": {},
+      "meanings": [
+        "(중심이 되는 것)",
+        "(기독교의 하나님) (the) Lord"
+      ]
+    },
+    {
+      "phrase": "주",
+      "hanja": " (週)",
+      "example": {},
+      "meanings": [
+        "(주일) week"
+      ]
+    },
+    {
+      "phrase": "주",
+      "hanja": " (株)",
+      "example": {},
+      "meanings": [
+        "(주식) stock, share"
+      ]
+    },
+    {
+      "phrase": "주",
+      "hanja": " (州)",
+      "example": {},
+      "meanings": [
+        "(미국의) state, (캐나다의) province"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "borrowed stock",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Eventually they set a rule: Read one book from the library this week, receive one candy bar the next. 듣기 Add to Wordbook 결국 이들의 부모는 규칙을 정했다. 이번 주에 도서관에서 책 한 권을 빌려 읽으면 다음 주에 캔디바를 하나 받는 것이다. YBM All in All English-Korean Dictionary",
+      "english": "Eventually they set a rule: Read one book from the library this week, receive one candy bar the next. Add to Wordbook"
+    },
+    {
+      "korean": "So what he does is, he borrows a share of IBM on that day. 듣기 Add to Wordbook 그래서 그가 하는 것은, 그 날짜에 IBM주를 빌려오는 것입니다. Khan Academy",
+      "english": "So what he does is, he borrows a share of IBM on that day. Add to Wordbook"
+    },
+    {
+      "korean": "Here's the software manual I borrowed from you last week. 듣기 Add to Wordbook 지난 주에 내가 빌려 간 소프트웨어 설명서 여기 있어요. YBM All in All English-Korean Dictionary",
+      "english": "Here's the software manual I borrowed from you last week. Add to Wordbook"
+    },
+    {
+      "korean": "I'm short of money this week. Can you lend me some? 듣기 Add to Wordbook 이번 주에는 돈이 모자란다. 내게 좀 빌려 주겠니? YBM All in All English-Korean Dictionary",
+      "english": "I'm short of money this week. Can you lend me some? Add to Wordbook"
+    },
+    {
+      "korean": "I'm embarrassed to ask, but can you lend me 50 dollars until next week? 듣기 Add to Wordbook 이런 부탁해서 미안한데, 다음 주에 드릴 테니까 50달러만 빌려 주실래요? YBM All in All English-Korean Dictionary",
+      "english": "I'm embarrassed to ask, but can you lend me 50 dollars until next week? Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "관광",
+      "hanja": " (觀光)",
+      "example": {},
+      "meanings": [
+        "[명사] sightseeing, [동사] go[do] sightseeing"
+      ]
+    },
+    {
+      "phrase": "관광산업",
+      "hanja": " (觀光産業)",
+      "example": {},
+      "meanings": [
+        "tourism (industry), tourist industry[business, trade]"
+      ]
+    },
+    {
+      "phrase": "관광버스",
+      "hanja": " (觀光bus)",
+      "example": {},
+      "meanings": [
+        "tourist[tour, sightseeing] bus"
+      ]
+    },
+    {
+      "phrase": "관광 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go sightseeing"
+      ]
+    },
+    {
+      "phrase": "관광 비자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a tourist visa"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tour",
+      "frequency": 2
+    },
+    {
+      "meaning": "jolly",
+      "frequency": 1
+    },
+    {
+      "meaning": "sightseeing",
+      "frequency": 1
+    },
+    {
+      "meaning": "foray",
+      "frequency": 0
+    },
+    {
+      "meaning": "sight-seeing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "언니 관광지 좋아해요? You liked a sightseeing spot? 듣기 View video Red Velvet : 레드벨벳 - 아이린&슬기의 Monster 주식회사",
+      "english": "You liked a sightseeing spot?"
+    },
+    {
+      "korean": "'일본 관광했어요?' \"You traveled in Japan?\" 듣기 View video NCT : みんな本当にありがとう！！",
+      "english": "\"You traveled in Japan?\""
+    },
+    {
+      "korean": "관광하셨다는 거죠? You mean you went sightseeing? 듣기 View video JTBC PLUS : 김재중 \"반드시 곧 다시 올테니 기다려줘요\"",
+      "english": "You mean you went sightseeing?"
+    },
+    {
+      "korean": "[베트남 관광은 좀 했나] 관광이요? [Did you go sightseeing in Vietnam?] Sightseeing? 듣기 View video JTBC PLUS : 효민, 팬미팅으로 확장하는 베트남 내 인기",
+      "english": "[Did you go sightseeing in Vietnam?] Sightseeing?"
+    },
+    {
+      "korean": "관광 코스 맞는 것 같죠 여러분? It seems like the perfect tourist spot, right? 듣기 View video 컨버전스 TV (CONS TV) : [W메이트 8화]익선동 패션피플",
+      "english": "It seems like the perfect tourist spot, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "tourists from every corner of the globe 발음듣기 세계 곳곳에서 오는 관광객들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "tourists from every corner of the globe 발음"
+    },
+    {
+      "korean": "Tourism is the lifeblood of the city. 발음듣기 관광은 그 도시의 생명선이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tourism is the lifeblood of the city. 발음"
+    },
+    {
+      "korean": "economic benefits accruing to the country from tourism 발음듣기 관광업을 통해 국가에 축적되는 경제적 이익 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "economic benefits accruing to the country from tourism 발음"
+    },
+    {
+      "korean": "Tourism is a fountain of wealth for the city. 발음듣기 관광업은 그 도시 부의 원천이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tourism is a fountain of wealth for the city. 발음"
+    },
+    {
+      "korean": "Tourism is the country’s biggest foreign currency earner. 발음듣기 관광이 그 나라의 최대 외화 소득원이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tourism is the country’s biggest foreign currency earner. 발음"
+    }
+  ]
+}

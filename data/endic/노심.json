@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "노심",
+      "hanja": " (勞心)",
+      "example": {},
+      "meanings": [
+        "anxiety, care, worry, solicitude, 노심하다 be anxious, be worried[troubled], worry oneself, exert one's mind, rack one's brains"
+      ]
+    },
+    {
+      "phrase": "노심용융",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 core meltdown"
+      ]
+    },
+    {
+      "phrase": "전노심",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 full core"
+      ]
+    },
+    {
+      "phrase": "노심집합체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 core assembly"
+      ]
+    },
+    {
+      "phrase": "노심장전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 core loading"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "reactor core",
+      "frequency": 0
+    },
+    {
+      "meaning": "Nuclear reactor core",
+      "frequency": 0
+    },
+    {
+      "meaning": "meltdown",
+      "frequency": 0
+    },
+    {
+      "meaning": "노심",
+      "frequency": 0
+    },
+    {
+      "meaning": "China syndrome",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Now they are even dealing with a nuclear meltdown. 듣기 Add to Wordbook 이제 핵 원자로 노심 용융 문제까지 발생하고 있어. Neungyule",
+      "english": "Now they are even dealing with a nuclear meltdown. Add to Wordbook"
+    },
+    {
+      "korean": "There was a partial melting of a fuel rod, but it was nothing like a whole reactor melting down,' said Japan's ambassador to the United States Ichiro Fujisaki. 듣기 Add to Wordbook 연료봉이 부분적으로 녹아내렸다. 일부분이 녹긴 했으나 전체적인 노심 용해하고는 거리가 멀다.' 라고 후지사키 이치로 주미 일본 대사가 말했다. Neungyule",
+      "english": "There was a partial melting of a fuel rod, but it was nothing like a whole reactor melting down,' said Japan's ambassador to the United States Ichiro Fujisaki. Add to Wordbook"
+    },
+    {
+      "korean": "With thousands dead and missing due to the earthquake and tsunami in Japan, the added danger and fear of a meltdown at the Fukushima nuclear power plant has the rest of the world concerned. 듣기 Add to Wordbook 일본에서 대지진과 지진 해일로 수 천명이 죽거나 실종된 데다가, 후쿠시마 원전의 노심이 녹는 위험한 상황까지 겹치면서 전 세계 다른 나라들의 우려를 낳았다. Neungyule",
+      "english": "With thousands dead and missing due to the earthquake and tsunami in Japan, the added danger and fear of a meltdown at the Fukushima nuclear power plant has the rest of the world concerned. Add to Wordbook"
+    },
+    {
+      "korean": "I want you to muck up the reactor core. 듣기 Add to Wordbook 네가 원자로 노심을 혼란시키기 바란다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 ENO(naja****)",
+      "english": "I want you to muck up the reactor core. Add to Wordbook"
+    },
+    {
+      "korean": "It's all smoke and mirrors - and part of the reason for the meltdown in the first place. 듣기 Add to Wordbook 최초 원자로 노심 용융사고의 원인의 일부는 교묘한 속임수때문이었다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 einky(eink****)",
+      "english": "It's all smoke and mirrors - and part of the reason for the meltdown in the first place. Add to Wordbook"
+    }
+  ]
+}

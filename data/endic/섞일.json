@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "섞이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(혼합되다) mix, be mixed, blend, be blended",
+        "(말·감정 등이)",
+        "(패 등이 뒤섞이다) be[get] mixed (up), (카드 등의 패가) be[get] shuffled"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "watermiscible",
+      "frequency": 0
+    },
+    {
+      "meaning": "mix",
+      "frequency": 2
+    },
+    {
+      "meaning": "motley",
+      "frequency": 1
+    },
+    {
+      "meaning": "mingle",
+      "frequency": 1
+    },
+    {
+      "meaning": "intermingle",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근데 잘 안 섞일거야 - 왜? But it won't be mixed easily. - Why? 듣기 View video IZ*ONE : 권옌챈쌈의 요거트 먹방",
+      "english": "But it won't be mixed easily. - Why?"
+    },
+    {
+      "korean": "[흔들어 제껴 쉐낏] 잘 섞일 수 있도록 흔들어서 사용을 해줘야 됩니다. [Shake it, shake it] by thoroughly shaking the bottle. 듣기 View video HANABONO : 피부타입별로 있으니 다 드루와! 여름에 사용하기 좋은 토너 7종 추천",
+      "english": "[Shake it, shake it] by thoroughly shaking the bottle."
+    },
+    {
+      "korean": "[팀을 위해 개인감정을 숨겨야 하는 리더] 들으면서도 본인의 개인감정이 섞일 때도 많잖아요. there are many times when your own emotions get mixed in. 듣기 View video GOT YA! 공원소녀 : [GOT YA! 공원소녀/선공개] 갓띵게임이 찾아온다! Lv.1 소녀들의 캐릭터를 매칭하시오",
+      "english": "there are many times when your own emotions get mixed in."
+    },
+    {
+      "korean": "안 섞일 것 같은데. I don't think it will mix. 듣기 View video WINNER : Guess who`s back ?",
+      "english": "I don't think it will mix."
+    },
+    {
+      "korean": "이렇게 섞일 수 있게. to mix them up well like this. 듣기 View video V Beauty : [경선] 가을에 사용하기 좋은 쿠션 모음! Fall Cusion Foundation",
+      "english": "to mix them up well like this."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "\"Korean food cannot be mixed or confused. It is not like northern Italian and southern French (food) that are similar and mixed. Once you eat Korean food, it is Korean food. It is extremely sharp and there is nothing like it,\" he said. 발음듣기 그는 \"한식은 섞이거나 혼동될 수 없다. 비슷하고 섞일 수 있는 북부 이탈리아와 남부 프랑스 음식과는 다르다. 일단 한식을 먹으면, 이것은 한국 음식이다. 이것은 극도로 분명한 맛이며 이와 비슷한 것은 어디에도 없다\"고 말했다. The Korea Times",
+      "english": "\"Korean food cannot be mixed or confused. It is not like northern Italian and southern French (food) that are similar and mixed. Once you eat Korean food, it is Korean food. It is extremely sharp and there is nothing like it,\" he said. 발음"
+    },
+    {
+      "korean": "With wire whisk, stir milk mix until well blended. 발음듣기 거품기로 우유가 잘 섞일 때까지 휘저어 준다. Neungyule",
+      "english": "With wire whisk, stir milk mix until well blended. 발음"
+    },
+    {
+      "korean": "You should stir the flour and the eggs until blended. 발음듣기 밀가루와 계란이 섞일 때까지 저어야 한다. Neungyule",
+      "english": "You should stir the flour and the eggs until blended. 발음"
+    },
+    {
+      "korean": "You have to keep stirring until the flour and the eggs are thoroughly blended. 발음듣기 밀가루와 계란이 골고루 섞일 때까지 저어야 한다 Neungyule",
+      "english": "You have to keep stirring until the flour and the eggs are thoroughly blended. 발음"
+    },
+    {
+      "korean": "Water can mix with other liquids. 발음듣기 물은 다른 액체와 섞일 수 있다. Neungyule",
+      "english": "Water can mix with other liquids. 발음"
+    }
+  ]
+}

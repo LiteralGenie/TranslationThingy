@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "전투",
+      "hanja": " (戰鬪)",
+      "example": {},
+      "meanings": [
+        "combat, battle, fight (for), engagement, (작전) action"
+      ]
+    },
+    {
+      "phrase": "전투경찰",
+      "hanja": " (戰鬪警察)",
+      "example": {},
+      "meanings": [
+        "riot police, combat police (force)"
+      ]
+    },
+    {
+      "phrase": "치열한 전투",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a fierce battle",
+        "a sharp fighting"
+      ]
+    },
+    {
+      "phrase": "각개전투",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "individual battle"
+      ]
+    },
+    {
+      "phrase": "모의전투",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "mock combat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "battle",
+      "frequency": 3
+    },
+    {
+      "meaning": "fight",
+      "frequency": 3
+    },
+    {
+      "meaning": "action",
+      "frequency": 3
+    },
+    {
+      "meaning": "combat",
+      "frequency": 3
+    },
+    {
+      "meaning": "hostility",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[전투적인 마인드를 지녔지만] 우리가 간다 이런 거? [A combat mind] Like, \"here we come\". 듣기 View video V PICK! : [BTS] 닥터(겸 신인가수) 박지민선생님 존재가 이미 만병통치 불로장생 명약이네요💊 (JIMIN doing a situation play)",
+      "english": "[A combat mind] Like, \"here we come\"."
+    },
+    {
+      "korean": "뭐 되게 전투적으로 된다고 해야 하나? it feels like we're getting ready to go into combat. 듣기 View video BTS : 저 왔어요~!😉",
+      "english": "it feels like we're getting ready to go into combat."
+    },
+    {
+      "korean": "뭐라고 해야 되지? 뭔가 사람이 되게 전투적으로 된다고 해야 되나? how should I put this? Should I say we get into our fierce modes? 듣기 View video BTS : 저 왔어요~!😉",
+      "english": "how should I put this? Should I say we get into our fierce modes?"
+    },
+    {
+      "korean": "[전투 준비] - 나 맨날 같은거 내는데 - 연습게임? I always take out the same ones... - Practice game? 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 6화",
+      "english": "I always take out the same ones... - Practice game?"
+    },
+    {
+      "korean": "반지며 이거이며 - 나는 왜 저 노래도 저렇게 전투적이었지? Rings... - Why did I look so aggressive in that song? 듣기 View video T-ARA : 티아라 10살 축하해🎉 10th Anniversary!👑",
+      "english": "Rings... - Why did I look so aggressive in that song?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There was spasmodic fighting in the area yesterday. 듣기 Add to Wordbook 어제 그 지역에서 돌발 전투가 벌어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was spasmodic fighting in the area yesterday. Add to Wordbook"
+    },
+    {
+      "korean": "Messengers brought news that the battle had been lost. 듣기 Add to Wordbook 전령들이 그 전투에서 패했다는 소식을 가져왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Messengers brought news that the battle had been lost. Add to Wordbook"
+    },
+    {
+      "korean": "Fighter pilots searched out and attacked enemy aircraft. 듣기 Add to Wordbook 전투기 조종사들은 적기를 끝까지 찾아내어 공격했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fighter pilots searched out and attacked enemy aircraft. Add to Wordbook"
+    },
+    {
+      "korean": "There is growing apprehension that fighting will begin again. 듣기 Add to Wordbook 전투가 다시 시작될 것이라는 우려가 커지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is growing apprehension that fighting will begin again. Add to Wordbook"
+    },
+    {
+      "korean": "soldiers trained to fight 듣기 Add to Wordbook 전투 훈련을 받은 군인들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "soldiers trained to fight Add to Wordbook"
+    }
+  ]
+}

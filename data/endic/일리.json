@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "일리",
+      "hanja": " (一理)",
+      "example": {},
+      "meanings": [
+        "(한 가지의 이치) some reason, some truth",
+        "(같은 이치) the same reason"
+      ]
+    },
+    {
+      "phrase": "illy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb 방언 (=ILL, BADLY)"
+      ]
+    },
+    {
+      "phrase": "eely",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 뱀장어 같은(eellike); 미끈미끈한, 요리조리 잘 빠져나가는, 붙잡을 수가 없는; 몸을 비비 꼬는"
+      ]
+    },
+    {
+      "phrase": "Ely",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 일리 ((잉글랜드 동부의 Isle of Ely 지방의 도시, 유명한 성당이 있음))"
+      ]
+    },
+    {
+      "phrase": "Ely",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 이름"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sense",
+      "frequency": 2
+    },
+    {
+      "meaning": "Ely",
+      "frequency": 0
+    },
+    {
+      "meaning": "interest for a single day",
+      "frequency": 0
+    },
+    {
+      "meaning": "Ely, Iowa",
+      "frequency": 0
+    },
+    {
+      "meaning": "Ely, Nevada",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나름 일리 있죠? It's rational, right? 듣기 View video VICTON : 다글 모하나아?!",
+      "english": "It's rational, right?"
+    },
+    {
+      "korean": "나 일리 있었어 - 누군데? - 형이요 - 나? That made sense to me. - Who? - You. - Me? 듣기 View video V COOKIE : [Full] AB6IX x 우리의 밤 (Our Night with AB6IX)",
+      "english": "That made sense to me. - Who? - You. - Me?"
+    },
+    {
+      "korean": "약간 일리 있지 않나요? Doesn't it kind of have some reason? 듣기 View video SEVENTEEN : 🍚 Happy WOOZI Day 🎼",
+      "english": "Doesn't it kind of have some reason?"
+    },
+    {
+      "korean": "약간 일리가 있었어 괜찮지? It makes sense, right? Isn't it okay? 듣기 View video VICTON : 레몬2🐥🐶🍋",
+      "english": "It makes sense, right? Isn't it okay?"
+    },
+    {
+      "korean": "좋습니다 두 가지여도 뭔가 다 일리 있고 뭔가... Two are enough. They have logic and... 듣기 View video TOMORROW X TOGETHER : 강태현의 매직 아일랜드🔮",
+      "english": "Two are enough. They have logic and..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There’s a lot of sense in what Mary says. 발음듣기 메리가 하는 말에는 일리가 많다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There’s a lot of sense in what Mary says. 발음"
+    },
+    {
+      "korean": "She thinks palmistry and rumpology make sense. 발음듣기 그녀는 손금 보기와 엉덩이 모양을 통한 성격 분석에 일리가 있다고 생각한다. 국제영어대학원대학교 신어사전",
+      "english": "She thinks palmistry and rumpology make sense. 발음"
+    },
+    {
+      "korean": "There is reason in what he says. 발음듣기 그의 말에는 일리가 있다. Friendict Level English-Korean Dictionary",
+      "english": "There is reason in what he says. 발음"
+    },
+    {
+      "korean": "There is no[some] sense in doing so. 발음듣기 그렇게 하는 것은 양식 없는 짓이다[어느 정도 일리가 있다]. Friendict Level English-Korean Dictionary",
+      "english": "There is no[some] sense in doing so. 발음"
+    },
+    {
+      "korean": "He's got a point, too. 발음듣기 그 사람 생각도 일리가 있다 Neungyule",
+      "english": "He's got a point, too. 발음"
+    }
+  ]
+}

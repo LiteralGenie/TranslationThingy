@@ -1,0 +1,101 @@
+{
+  "phrases": [
+    {
+      "phrase": "타산",
+      "hanja": " (打算)",
+      "example": {},
+      "meanings": [
+        "calculation, money-mindedness, self-interest, selfishness, 타산하다 calculate, reckon, count, consult one's interest"
+      ]
+    },
+    {
+      "phrase": "이해타산",
+      "hanja": " (利害打算)",
+      "example": {},
+      "meanings": [
+        "calculation"
+      ]
+    },
+    {
+      "phrase": "이해타산에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "from selfish motives",
+        "guided by self-interest"
+      ]
+    },
+    {
+      "phrase": "수지 타산만 따지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be given to calculation",
+        "be calculative",
+        "be bent on gain"
+      ]
+    },
+    {
+      "phrase": "수지 타산을 맞춰 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weigh the profitability (of)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "calculation",
+      "frequency": 3
+    },
+    {
+      "meaning": "prudence",
+      "frequency": 3
+    },
+    {
+      "meaning": "타산",
+      "frequency": 0
+    },
+    {
+      "meaning": "guided by self-interest",
+      "frequency": 0
+    },
+    {
+      "meaning": "be bent on gain",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "수지타산이 안 맞았어 - 수지타산... The calculations were wrong. - The calculations... 듣기 View video UP10TION : 업텐션이랑 파헤치기!",
+      "english": "The calculations were wrong. - The calculations..."
+    },
+    {
+      "korean": "서로 이해관계 수지 타산이 맞아야... - 우리 다 같이 연극하면 재밌겠다. We have to all be on the same page for it. - It'll be fun if we were all in a play together. 듣기 View video 임수향 : 내아이디는강남미인ing17회",
+      "english": "We have to all be on the same page for it. - It'll be fun if we were all in a play together."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I never realized you could be so calculating. 듣기 Add to Wordbook 난 네가 그렇게 타산적일 수 있는지는 전혀 몰랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I never realized you could be so calculating. Add to Wordbook"
+    },
+    {
+      "korean": "I agree to a point, but we need to consider the effects on our bottom line. 듣기 Add to Wordbook 어느 정도는 동의합니다만, 당사 수지타산에 끼치는 영향을 고려해야 합니다. DARAKWON",
+      "english": "I agree to a point, but we need to consider the effects on our bottom line. Add to Wordbook"
+    },
+    {
+      "korean": "He did it from selfish motives. 듣기 Add to Wordbook 그는 타산적인 동기에서 그것을 했다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He did it from selfish motives. Add to Wordbook"
+    },
+    {
+      "korean": "Don't be so calculating with your relationships. 듣기 Add to Wordbook 인간관계를 너무 타산적으로 생각하지 마라 Neungyule",
+      "english": "Don't be so calculating with your relationships. Add to Wordbook"
+    },
+    {
+      "korean": "She was able to make the business pay off. 듣기 Add to Wordbook 그녀는 그 사업의 수지 타산을 맞출 수 있었다. Neungyule",
+      "english": "She was able to make the business pay off. Add to Wordbook"
+    }
+  ]
+}

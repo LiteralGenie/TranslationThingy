@@ -1,0 +1,93 @@
+{
+  "phrases": [
+    {
+      "phrase": "종전",
+      "hanja": " (從前)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "종전",
+      "hanja": " (終戰)",
+      "example": {},
+      "meanings": [
+        "(전쟁이 끝남) end[termination] of the war, (formal) cessation of hostilities[the war]"
+      ]
+    },
+    {
+      "phrase": "종전에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hitherto",
+        "heretofore",
+        "formerly"
+      ]
+    },
+    {
+      "phrase": "종전의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "previous",
+        "former",
+        "old"
+      ]
+    },
+    {
+      "phrase": "종전과 같이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as usual",
+        "as before",
+        "as in the past"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "termination of war",
+      "frequency": 0
+    },
+    {
+      "meaning": "PREV",
+      "frequency": 0
+    },
+    {
+      "meaning": "end of the war",
+      "frequency": 0
+    },
+    {
+      "meaning": "as of yore",
+      "frequency": 0
+    },
+    {
+      "meaning": "as hitherto",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "the anniversary of the ending of the Pacific War 발음듣기 태평양 전쟁 종전 기념일 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the anniversary of the ending of the Pacific War 발음"
+    },
+    {
+      "korean": "a ceremony to mark the 50th anniversary of the end of the war 발음듣기 종전 50주년을 기념하는 기념식 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a ceremony to mark the 50th anniversary of the end of the war 발음"
+    },
+    {
+      "korean": "the President’s passing reference to the end of the war 발음듣기 대통령이 그 전쟁의 종전에 대해 지나가는 말로 언급함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the President’s passing reference to the end of the war 발음"
+    },
+    {
+      "korean": "a cessation of hostilities 발음듣기 전투 종료[종전] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cessation of hostilities 발음"
+    },
+    {
+      "korean": "Two presidents signed the end-of-war declaration. 발음듣기 양국 대통령은 종전 선언에 서명했다. 국제영어대학원대학교 신어사전",
+      "english": "Two presidents signed the end-of-war declaration. 발음"
+    }
+  ]
+}

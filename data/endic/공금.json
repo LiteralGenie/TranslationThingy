@@ -1,0 +1,107 @@
+{
+  "phrases": [
+    {
+      "phrase": "공금",
+      "hanja": " (公金)",
+      "example": {},
+      "meanings": [
+        "(정부의) public[government] money[funds], (회사의) company funds"
+      ]
+    },
+    {
+      "phrase": "공금을 횡령하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "embezzle[misappropriate, pocket] public funds",
+        "line one's own pockets with public funds"
+      ]
+    },
+    {
+      "phrase": "공금을 빼돌리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pocket public money"
+      ]
+    },
+    {
+      "phrase": "공금 횡령자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a peculator"
+      ]
+    },
+    {
+      "phrase": "공금을 유용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "misappropriate[misuse] government[public] funds"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "official funds",
+      "frequency": 0
+    },
+    {
+      "meaning": "public money",
+      "frequency": 0
+    },
+    {
+      "meaning": "public funds",
+      "frequency": 0
+    },
+    {
+      "meaning": "public fund",
+      "frequency": 0
+    },
+    {
+      "meaning": "government funds",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너 공금으로 니 옷 사려고 1번 한 거지! You chose number one so that you can buy clothes with the group funds! 듣기 View video WHYNOT TV : 여자 셋이 살면 생기는 일? [미스콤플렉스] Prologue",
+      "english": "You chose number one so that you can buy clothes with the group funds!"
+    },
+    {
+      "korean": "내 생각에는 공금이 나쁘지 않은 것 같아. I think penalty is a good idea. 듣기 View video WINNER : 승승TV Ep.7 <송구영신년회>",
+      "english": "I think penalty is a good idea."
+    },
+    {
+      "korean": "안 되면 회사 공금이라도 털지, 뭐. 법인카드 긁을게요. I can borrow from the company. I'll use their credit card. 듣기 View video Park Si Hwan : birthday...thirty..day..'ㅂ'",
+      "english": "I can borrow from the company. I'll use their credit card."
+    },
+    {
+      "korean": "[공금으로 즐기는 여유로운 티타임] 산 김에 케이크이라도 하나 사 갈까? [Spent the team fund for a coffee break] Shall we get some cake for them? 듣기 View video MONSTA X : [MONSTA X] 몬스타엑스 - 출.없.방 #01",
+      "english": "[Spent the team fund for a coffee break] Shall we get some cake for them?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "official funds 듣기 Add to Wordbook 공금. Friendict Level English-Korean Dictionary",
+      "english": "official funds Add to Wordbook"
+    },
+    {
+      "korean": "He was found guilty of embezzling $150000 of public funds. 듣기 Add to Wordbook 그는 공금 15만 달러를 횡령한 것으로 유죄 선고를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was found guilty of embezzling $150000 of public funds. Add to Wordbook"
+    },
+    {
+      "korean": "I plotted with her to embezzle money. 듣기 Add to Wordbook 나는 그녀와 짜고 공금을 횡령했다 Neungyule",
+      "english": "I plotted with her to embezzle money. Add to Wordbook"
+    },
+    {
+      "korean": "I embezzled money in collusion with her. 듣기 Add to Wordbook 나는 그녀와 짜고 공금을 횡령했다 Neungyule",
+      "english": "I embezzled money in collusion with her. Add to Wordbook"
+    },
+    {
+      "korean": "The treasurer misappropriated the society's funds. 듣기 Add to Wordbook 회계 담당자가 그 회의 공금을 사용하였다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The treasurer misappropriated the society's funds. Add to Wordbook"
+    }
+  ]
+}

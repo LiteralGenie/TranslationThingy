@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(알지 못하다) do not know, (이해하지 못하다) do not understand",
+        "(경험이 없다) have no experience, be ignorant of",
+        "(느끼지 못하다) be unaware (of), be unconscious (of)"
+      ]
+    },
+    {
+      "phrase": "좋은 결과가 나타날지도 모른다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You may be onto something."
+      ]
+    },
+    {
+      "phrase": "맞을지도 모른다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It may be right."
+      ]
+    },
+    {
+      "phrase": "낫 놓고 기역자도 모른다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do not know A from B"
+      ]
+    },
+    {
+      "phrase": "아무도 그 이유는 모른다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "No one really knows why."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "may",
+      "frequency": 3
+    },
+    {
+      "meaning": "search me",
+      "frequency": 0
+    },
+    {
+      "meaning": "there's no telling",
+      "frequency": 0
+    },
+    {
+      "meaning": "who's to say (…)?",
+      "frequency": 0
+    },
+    {
+      "meaning": "anything can/might happen",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "모른다. She doesn't know it. 듣기 View video GFRIEND : GFRIEND's Broadcast",
+      "english": "She doesn't know it."
+    },
+    {
+      "korean": "[때로는 조금 멀리 떨어져서 바라봐야 하는지도 모른다 한 발 뒤로...] [Sometimes you need to take a step back and see the world ...] View video tvN D : 내신등급이 내 인생의 등급일까? [언어의 온도 : 우리의 열아홉] Ep.1",
+      "english": "[Sometimes you need to take a step back and see the world ...]"
+    },
+    {
+      "korean": "[어디로 가야 하는지 모른다] 어디로 가면 되지? [No idea where to go] Where do I need to go? 듣기 View video BTS : Run BTS! 2019 - EP.86",
+      "english": "[No idea where to go] Where do I need to go?"
+    },
+    {
+      "korean": "혹시 모른다 자신 있어? You never know. Are you sure? 듣기 View video 콬TV (WHYNOT) : 가장 친한 친구들이 날 떠났다 [일진에게 찍혔을 때] EP08",
+      "english": "You never know. Are you sure?"
+    },
+    {
+      "korean": "몰라! 모른다! I don't know! I don't know! 듣기 View video B1A4 : 벌써 1월3일!!D-2",
+      "english": "I don't know! I don't know!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "None of us can foretell what lies ahead. 듣기 Add to Wordbook 앞날에 어떤 일이 기다리고 있는지는 우리들 중 아무도 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "None of us can foretell what lies ahead. Add to Wordbook"
+    },
+    {
+      "korean": "He might have had the decency to apologize. 듣기 Add to Wordbook 그가 사과를 할 정도의 체면은 있었는지도 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He might have had the decency to apologize. Add to Wordbook"
+    },
+    {
+      "korean": "We may have to intervene militarily in the area. 듣기 Add to Wordbook 우리가 그 지역에 대해 무력 개입을 해야 할지도 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We may have to intervene militarily in the area. Add to Wordbook"
+    },
+    {
+      "korean": "The arsonist may harbour a grudge against the company. 듣기 Add to Wordbook 방화범은 그 회사에 앙심을 품고 있는지도 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The arsonist may harbour a grudge against the company. Add to Wordbook"
+    },
+    {
+      "korean": "I can’t tell jokes. 듣기 Add to Wordbook 나는 우스갯소리[농담]를 할 줄 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I can’t tell jokes. Add to Wordbook"
+    }
+  ]
+}

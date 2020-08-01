@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "직후",
+      "hanja": " (直後)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "직후에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "immediately[directly, right] after"
+      ]
+    },
+    {
+      "phrase": "종전 직후",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "directly after (the termination of) the war",
+        "in the immediate postwar days"
+      ]
+    },
+    {
+      "phrase": "유리직후의",
+      "hanja": " (遊離直後-)",
+      "example": {},
+      "meanings": [
+        "의학 nascent"
+      ]
+    },
+    {
+      "phrase": "외상직후하반신마비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 immediate traumatic paraplegia"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shortly before[after]",
+      "frequency": 0
+    },
+    {
+      "meaning": "mint-condition",
+      "frequency": 0
+    },
+    {
+      "meaning": "postvocalic",
+      "frequency": 0
+    },
+    {
+      "meaning": "soft-shell",
+      "frequency": 0
+    },
+    {
+      "meaning": "a postvocalic “r” sound",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[Q. 아이유가 자기 직전에 하는 일은?] 언니가 자기 직전과 일어난 직후에 하는 일은? What do you do right before and after you sleep? 듣기 View video IU : [IU] 아이유 없는 아이유 생일파티",
+      "english": "What do you do right before and after you sleep?"
+    },
+    {
+      "korean": "[콘서트 직후 업데이트가 되었음!] [It was updated right after their concert!] View video SMTOWN : SUPER JUNIOR 슈퍼주니어 #Ask_SUPERJUNIOR Q&A Video",
+      "english": "[It was updated right after their concert!]"
+    },
+    {
+      "korean": "직 후 부터도 수치에서 차이가 느껴지잖아요. you can feel the difference right after you put it on. 듣기 View video EMMA BEAUTY : 크림 한 통을 스킨에?! 엠마의 라네즈 크림 스킨 첫 보습 챌린지 리얼 솔직 리뷰! + vlog",
+      "english": "you can feel the difference right after you put it on."
+    },
+    {
+      "korean": "세 번째로 세안 직 후 미칠듯한 건조함 아시죠? Third, after I wash my face, you know the crazy dryness? 듣기 View video EMMA BEAUTY : 크림 한 통을 스킨에?! 엠마의 라네즈 크림 스킨 첫 보습 챌린지 리얼 솔직 리뷰! + vlog",
+      "english": "Third, after I wash my face, you know the crazy dryness?"
+    },
+    {
+      "korean": "(라네즈 크림 스킨) 도포 전과 직후 굉장히 차이가 크고요. The different before and after putting it on is really big. 듣기 View video EMMA BEAUTY : 크림 한 통을 스킨에?! 엠마의 라네즈 크림 스킨 첫 보습 챌린지 리얼 솔직 리뷰! + vlog",
+      "english": "The different before and after putting it on is really big."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The bombers skipped the country shortly after the blast. 발음듣기 폭파범들은 그 폭파 사건이 있은 직후에 그 나라를 몰래 빠져나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bombers skipped the country shortly after the blast. 발음"
+    },
+    {
+      "korean": "Immediately after fertilization, the cells of the egg divide. 발음듣기 수정 직후에 난자의 세포들은 분열을 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Immediately after fertilization, the cells of the egg divide. 발음"
+    },
+    {
+      "korean": "They arrived shortly after 5. 발음듣기 그들은 5시 직후에 도착했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They arrived shortly after 5. 발음"
+    },
+    {
+      "korean": "She died shortly after giving birth. 발음듣기 그녀는 출산 직후 사망했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She died shortly after giving birth. 발음"
+    },
+    {
+      "korean": "Turn right immediately after the church. 발음듣기 그 교회를 지난 직후에 오른쪽으로 도세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Turn right immediately after the church. 발음"
+    }
+  ]
+}

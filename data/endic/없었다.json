@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "수업이 없었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "There were no lessons."
+      ]
+    },
+    {
+      "phrase": "나에게는 승산이 없었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The chances were against me."
+      ]
+    },
+    {
+      "phrase": "이렇다 할 단서가 없었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "There were no ^solid leads^."
+      ]
+    },
+    {
+      "phrase": "계속 웃지 않을 수 없었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I couldn't stop laughing."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "there is/was no question of (something happening/somebody doing something)",
+      "frequency": 0
+    },
+    {
+      "meaning": "you cannot/could not but…",
+      "frequency": 0
+    },
+    {
+      "meaning": "there is/was nothing (else) for it (but to do something)",
+      "frequency": 0
+    },
+    {
+      "meaning": "I couldn't stop coughing.",
+      "frequency": 0
+    },
+    {
+      "meaning": "He needed no prodding.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "세상에 이런 팩은 없었다! A product unlike any other! 듣기 View video SmileJ : [갓신상] 이런 팩 봤어? 초슬림 고영양 패치│미소정 SmileJ",
+      "english": "A product unlike any other!"
+    },
+    {
+      "korean": "[아무것도 없었다...] [There was nothing...] View video Apink : [CH.RONG] ITALY Vlog #02 ROME",
+      "english": "[There was nothing...]"
+    },
+    {
+      "korean": "아~ 옛날엔 재미가 없었다? Oh, he wasn't funny before? 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 4화",
+      "english": "Oh, he wasn't funny before?"
+    },
+    {
+      "korean": "지금까지 이런 성의는 없었다 - 대표님! He has never shown such efforts. - CEO! 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.4 고잉엔터테인먼트 신입 사원들의 발표 시간",
+      "english": "He has never shown such efforts. - CEO!"
+    },
+    {
+      "korean": "[그리고 그렇게 쩨아리의 티엠아이는 영영 알 수 없었다] 왜 그래! [And we never found out JR's TMI...] Why! 듣기 View video V PICK! : [NU’EST] 우리늉 귀여워서 심야식당 지붕뿌수고 프리미엄루프탑라운지로 만들려구요❤️💘 (NU’EST talking about their TMI)",
+      "english": "[And we never found out JR's TMI...] Why!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The enemy was / were forced to retreat. 듣기 Add to Wordbook 적군은 후퇴할 수밖에 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The enemy was / were forced to retreat. Add to Wordbook"
+    },
+    {
+      "korean": "We only had six days of rehearsal. 듣기 Add to Wordbook 우리는 리허설 기간이 6일밖에 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We only had six days of rehearsal. Add to Wordbook"
+    },
+    {
+      "korean": "There were no objectors to the plan. 듣기 Add to Wordbook 그 계획에는 반대하는 사람이 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There were no objectors to the plan. Add to Wordbook"
+    },
+    {
+      "korean": "There was not a solitary shred of evidence. 듣기 Add to Wordbook 증거라고는 단 하나도 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was not a solitary shred of evidence. Add to Wordbook"
+    },
+    {
+      "korean": "The window frame had rotted away completely. 듣기 Add to Wordbook 창틀이 안전히 부식되고 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The window frame had rotted away completely. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "빚",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(갚아야 할 돈) debt, (부채) liabilities",
+        "(마음의 짐, 은혜) debt"
+      ]
+    },
+    {
+      "phrase": "빚을 지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fall[run, get, go] into debt",
+        "be in debt (to)",
+        "incur debts"
+      ]
+    },
+    {
+      "phrase": "빚을 갚다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pay[repay, settle] one's debt"
+      ]
+    },
+    {
+      "phrase": "빚이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "owe",
+        "be in debt",
+        "be overdrawn(은행에)"
+      ]
+    },
+    {
+      "phrase": "빚을 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[take out] a loan",
+        "raise a loan of money",
+        "borrow money"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "debt",
+      "frequency": 3
+    },
+    {
+      "meaning": "hock 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "scot",
+      "frequency": 0
+    },
+    {
+      "meaning": "negative capital",
+      "frequency": 0
+    },
+    {
+      "meaning": "Queer Street",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"김재덕 씨가 빚을 내요\"라고 여기... \"JAEDUCK shines\". Someone said... 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "\"JAEDUCK shines\". Someone said..."
+    },
+    {
+      "korean": "혹시 만두 빚을 때 물이 필요한가요? Do you need water when making dumplings? 듣기 View video 우주소녀(WJSN) : [다영] 다영이의 요리교실🍳 Ep.11",
+      "english": "Do you need water when making dumplings?"
+    },
+    {
+      "korean": "빚 말고 빛! Not \"debt\", but \"light\"! 듣기 View video V COOKIE : [Full] Jeong Eun Ji X Rooftop Live - 정은지의 루프탑라이브!",
+      "english": "Not \"debt\", but \"light\"!"
+    },
+    {
+      "korean": "빚 아니고 빛! 밑에 ㅊ 아시죠? Not \"debt\" but \"light\". Got it? 듣기 View video V COOKIE : [Full] Jeong Eun Ji X Rooftop Live - 정은지의 루프탑라이브!",
+      "english": "Not \"debt\" but \"light\". Got it?"
+    },
+    {
+      "korean": "저는 빚이 계속 늘어만 가고 있습니다 - 그래요? The debt keeps accumulating. - Oh, really? 듣기 View video tvN : [Full]tvN <호텔 델루나> 아이유, 여진구, 피오, 미나의 영혼힐링 드라마토크 LIVE!",
+      "english": "The debt keeps accumulating. - Oh, really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They were behindhand in settling their debts. 듣기 Add to Wordbook 그들은 빚을 청산하는 일이 밀려 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were behindhand in settling their debts. Add to Wordbook"
+    },
+    {
+      "korean": "The country owes billions of dollars to foreign creditors. 듣기 Add to Wordbook 그 나라는 해외 채권국들에 수십억 달러의 빚을 지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The country owes billions of dollars to foreign creditors. Add to Wordbook"
+    },
+    {
+      "korean": "The agreement binds her to repay the debt within six months. 듣기 Add to Wordbook 그 합의에 따르면 그녀에게 그 빚을 6개월 이내에 갚아야만 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The agreement binds her to repay the debt within six months. Add to Wordbook"
+    },
+    {
+      "korean": "an outstanding debt of ￡300 듣기 Add to Wordbook 아직 청산이 안 된 300파운드의 빚 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an outstanding debt of ￡300 Add to Wordbook"
+    },
+    {
+      "korean": "He began to slip into debt. 듣기 Add to Wordbook 그는 빚을 지기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He began to slip into debt. Add to Wordbook"
+    }
+  ]
+}

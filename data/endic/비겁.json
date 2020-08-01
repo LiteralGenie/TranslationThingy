@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "비겁",
+      "hanja": " (卑怯)",
+      "example": {},
+      "meanings": [
+        "겁이 많음 cowardice, poltroonery.",
+        "비겁하다 cowardly, craven, dastardly, sneaking.",
+        "비열 meanness."
+      ]
+    },
+    {
+      "phrase": "비겁한 자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a coward",
+        "a dastard",
+        "a sneak(er)"
+      ]
+    },
+    {
+      "phrase": "비겁한 짓을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "act cowardly[the coward]",
+        "act like a coward",
+        "behave in a cowardly way"
+      ]
+    },
+    {
+      "phrase": "비겁한 짓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "foul play"
+      ]
+    },
+    {
+      "phrase": "비겁한 행동을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "act cowardly",
+        "act deceitfully"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cowardice",
+      "frequency": 3
+    },
+    {
+      "meaning": "recreancy",
+      "frequency": 0
+    },
+    {
+      "meaning": "pusillanimity",
+      "frequency": 0
+    },
+    {
+      "meaning": "recreance",
+      "frequency": 0
+    },
+    {
+      "meaning": "gutlessness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "당장 들어와서 주먹이라도 날렸어야 되는 거 아니야 이 비겁한 자식아! You should have entered and punched him. You coward! 듣기 View video 컨스TV : 정말 난 친구인거네...[넘버식스] ep5.",
+      "english": "You should have entered and punched him. You coward!"
+    },
+    {
+      "korean": "비겁한 변명입니다! That's a lame excuse! 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "That's a lame excuse!"
+    },
+    {
+      "korean": "비겁한 변명입니다 그거는! That's a lame excuse! 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "That's a lame excuse!"
+    },
+    {
+      "korean": "[막내가 하는데 형들이 더 신남] 비겁한 변명입니다! [Elder ones are more excited] It's like firing a machine gun! 듣기 View video BTS : Run BTS! 2020 - EP.94",
+      "english": "[Elder ones are more excited] It's like firing a machine gun!"
+    },
+    {
+      "korean": "[비겁한 변명] 불편한 진실. [Excuses] Uncomfortable truth... 듣기 View video MAMAMOO : [MMMTV4] EP5 별이 빛났던 밤들 PART 1",
+      "english": "[Excuses] Uncomfortable truth..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a cowardly attack on a defenceless man 듣기 Add to Wordbook 무방비 상태의 남자에 대한 비겁한 공격 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cowardly attack on a defenceless man Add to Wordbook"
+    },
+    {
+      "korean": "Bullies are generally cowards. 듣기 Add to Wordbook 난폭한 자는 대부분 비겁한 자다. (서양속담, 용기속담) 명언/속담",
+      "english": "Bullies are generally cowards. Add to Wordbook"
+    },
+    {
+      "korean": "War is a cowardly escape from the problems of peace. (Thomas Mann) 듣기 Add to Wordbook 전쟁은 평화의 문제로부터의 비겁한 도망이다. (토마스 만, 전쟁명언) 명언/속담",
+      "english": "War is a cowardly escape from the problems of peace. (Thomas Mann) Add to Wordbook"
+    },
+    {
+      "korean": "The coward hit her below the belt. 듣기 Add to Wordbook 비겁자는 비겁한 짓을 했다. YBM All in All English-Korean Dictionary",
+      "english": "The coward hit her below the belt. Add to Wordbook"
+    },
+    {
+      "korean": "We can’t accept coward attacks on civilians. 듣기 Add to Wordbook 우리는 민간인에 대한 비겁한 공격을 용납할 수 없습니다. YBM All in All English-Korean Dictionary",
+      "english": "We can’t accept coward attacks on civilians. Add to Wordbook"
+    }
+  ]
+}

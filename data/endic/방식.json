@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "방식",
+      "hanja": " (方式)",
+      "example": {},
+      "meanings": [
+        "way, means; (이미 정해진) method"
+      ]
+    },
+    {
+      "phrase": "사고방식",
+      "hanja": " (思考方式)",
+      "example": {},
+      "meanings": [
+        "one's way of thinking"
+      ]
+    },
+    {
+      "phrase": "일정한 방식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an established[a regular, a proper] form",
+        "a definite method"
+      ]
+    },
+    {
+      "phrase": "생각[사고방식]을 바꾸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "change one's mind[way of thinking] (about/on)"
+      ]
+    },
+    {
+      "phrase": "자유분방한 생활 방식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a freewheeling lifestyle"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "way",
+      "frequency": 2
+    },
+    {
+      "meaning": "mode",
+      "frequency": 1
+    },
+    {
+      "meaning": "style",
+      "frequency": 2
+    },
+    {
+      "meaning": "arrangement",
+      "frequency": 2
+    },
+    {
+      "meaning": "manner",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다른 방식이지만 되게... It's in another way, but... 듣기 View video NCT : 또욘드👊",
+      "english": "It's in another way, but..."
+    },
+    {
+      "korean": "가장 공정한 방식이랄까? Should I say it's the fairest order? 듣기 View video AB6IX : 로센키🌹",
+      "english": "Should I say it's the fairest order?"
+    },
+    {
+      "korean": "이거를 그냥 우리 방식대로 한번 정해볼까요? Shall we just pick them in our style? 듣기 View video Dispatch : [ⓓxV] “세상에 이런 김밥은 없었다①” (오마이걸 : OH MY GIRL)",
+      "english": "Shall we just pick them in our style?"
+    },
+    {
+      "korean": "그런 방식도 있거든요, 그래서... - 맞아, 그것도... So that's one way to come up with music. - Right. 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 54",
+      "english": "So that's one way to come up with music. - Right."
+    },
+    {
+      "korean": "[오지라퍼][Q. 어떤 게 잘 안 맞죠?] 말하는 방식? [Like to meddle] [Q. In which area?] The way of talking? 듣기 View video SEVENTEEN : [SPECIAL VIDEO] SEVENTEEN 5th Anniversary '빛나는 5주년(Shining 5th Anniversary)'",
+      "english": "[Like to meddle] [Q. In which area?] The way of talking?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the simplicities of our old way of life 발음듣기 우리 옛 생활 방식의 소박한 측면들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the simplicities of our old way of life 발음"
+    },
+    {
+      "korean": "Try adjusting your grip on the racket. 발음듣기 라켓 잡는 방식을 조정하도록 해 봐. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Try adjusting your grip on the racket. 발음"
+    },
+    {
+      "korean": "the value of the rupee against a basket of currencies 발음듣기 바스켓 방식 통화 대비 루피화 가치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the value of the rupee against a basket of currencies 발음"
+    },
+    {
+      "korean": "Fashions in art and literature come and go. 발음듣기 미술과 문학에서 유행하는 방식은 생겼다가 없어졌다가 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fashions in art and literature come and go. 발음"
+    },
+    {
+      "korean": "I cannot understand the mentality of football hooligans. 발음듣기 난 광적인 축구 팬들의 사고방식을 이해할 수가 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I cannot understand the mentality of football hooligans. 발음"
+    }
+  ]
+}

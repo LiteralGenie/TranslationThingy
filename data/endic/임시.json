@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "임시",
+      "hanja": " (臨時)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "임시의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "temporary",
+        "special",
+        "extra"
+      ]
+    },
+    {
+      "phrase": "임시로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "temporarily",
+        "provisionally"
+      ]
+    },
+    {
+      "phrase": "임시정부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provisional[interim] government, (국제사회의 승인을 받지 않은) (formal) de facto government"
+      ]
+    },
+    {
+      "phrase": "임시 휴업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a special holiday"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pro hac vice",
+      "frequency": 0
+    },
+    {
+      "meaning": "temporary",
+      "frequency": 3
+    },
+    {
+      "meaning": "makeshift",
+      "frequency": 3
+    },
+    {
+      "meaning": "billet",
+      "frequency": 0
+    },
+    {
+      "meaning": "lodging",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "임시 센터? 임시 센터는 뭐예요? What is that? What do you mean by temporary? 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "What is that? What do you mean by temporary?"
+    },
+    {
+      "korean": "['Oh Little Girl' 임시 센터 후보들의] 다 같이 해줄까요? [Highlight part competition by] Shall we do that? 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "[Highlight part competition by] Shall we do that?"
+    },
+    {
+      "korean": "[임시 트레이너] 진영이 형 플로 한번 들어보실래요? [Temporary trainer] JIN YOUNG, will you hear my rap? 듣기 View video Mnet : 프로듀스101 시즌2 7화",
+      "english": "[Temporary trainer] JIN YOUNG, will you hear my rap?"
+    },
+    {
+      "korean": "[임시 센터 후보 4명] [팀원들의 투표로 결정] 투표를 그러면... [Four candidates] [Decided by vote] Let's vote. 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "[Four candidates] [Decided by vote] Let's vote."
+    },
+    {
+      "korean": "[총 2명, 임시 센터 역시 조별로 1명씩 선정] 센터도 임시 센터를 2명으로... You have to pick two who will perform at the center, one per each team. 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "You have to pick two who will perform at the center, one per each team."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A few cushions formed a makeshift bed. 듣기 Add to Wordbook 쿠션 몇 개가 임시변통으로 만든 침대가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A few cushions formed a makeshift bed. Add to Wordbook"
+    },
+    {
+      "korean": "a 4-month training attachment 듣기 Add to Wordbook 훈련을 위한 넉 달 간의 임시 근무 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a 4-month training attachment Add to Wordbook"
+    },
+    {
+      "korean": "He was sitting as a temporary judge. 듣기 Add to Wordbook 그는 임시 심사 위원을 맡고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was sitting as a temporary judge. Add to Wordbook"
+    },
+    {
+      "korean": "They built a temporary home out of zincs. 듣기 Add to Wordbook 그들은 함석으로 임시 가옥을 지었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They built a temporary home out of zincs. Add to Wordbook"
+    },
+    {
+      "korean": "I’m looking for some temporary work. 듣기 Add to Wordbook 저는 뭔가 임시로 할 수 있는 일을 찾고 있어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m looking for some temporary work. Add to Wordbook"
+    }
+  ]
+}

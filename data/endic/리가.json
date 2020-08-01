@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "리가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지명 Riga"
+      ]
+    },
+    {
+      "phrase": "Riga",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 리가 ((구소련의 Latvia 공화국의 수도)), [the Gulf of ~] 리가 만"
+      ]
+    },
+    {
+      "phrase": "…리가 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cannot be",
+        "must not be",
+        "it is hardly possible"
+      ]
+    },
+    {
+      "phrase": "-을 리가 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "-l riga eopda (→-ㄹ 리가 없다)"
+      ]
+    },
+    {
+      "phrase": "-ㄹ 리가 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "-l riga eopda (→-을 리가 있다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Riga",
+      "frequency": 0
+    },
+    {
+      "meaning": "never",
+      "frequency": 3
+    },
+    {
+      "meaning": "that'll be the day",
+      "frequency": 0
+    },
+    {
+      "meaning": "well I never (did)!",
+      "frequency": 0
+    },
+    {
+      "meaning": "no chance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그럴리가 있어? Is that possible? 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "Is that possible?"
+    },
+    {
+      "korean": "[오호 그럴 리가~?] 모른 척... [That can't happen...] You're pretending... 듣기 View video MAMAMOO : [MMMTV6] EP13 비글로 돌아온 마마무",
+      "english": "[That can't happen...] You're pretending..."
+    },
+    {
+      "korean": "[그럴 리가... 알지 알지 민기 미자 맞지] 모르셨죠? [I know, you're a minor] You didn't know it, right? 듣기 View video V PICK! : [NU'EST] 어 그래 너.. 잘 살았다..! 이날 이때까지 울 망고했으니..! (REN playing with fans)",
+      "english": "[I know, you're a minor] You didn't know it, right?"
+    },
+    {
+      "korean": "[안 날 리가...] 솔라의 25살은? Solar's 25 year old? 듣기 View video MAMAMOO : [MMMTV5] EP8.1 LET'S GO DAEGU part.2",
+      "english": "Solar's 25 year old?"
+    },
+    {
+      "korean": "[다시 돌고] [그럴 리가!] [It goes on and on] [No way!] View video World Klass (월드 클래스) : [4회] '(경건)또 가는구나..(해탈)' 롤러코스터 무한루프",
+      "english": "[It goes on and on] [No way!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Lee was ill so I went instead. 듣기 Add to Wordbook 리가 아파서 내가 대신 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Lee was ill so I went instead. Add to Wordbook"
+    },
+    {
+      "korean": "Lee got hold of the dog by its collar. 듣기 Add to Wordbook 리가 그 개의 목줄을 움켜잡았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Lee got hold of the dog by its collar. Add to Wordbook"
+    },
+    {
+      "korean": "Paul? Apologize? That’ll be the day! 듣기 Add to Wordbook 폴이? 사과를 한다구? 그럴 리가 있나! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Paul? Apologize? That’ll be the day! Add to Wordbook"
+    },
+    {
+      "korean": "It couldn’t have cost more than ￡50, tops. 듣기 Add to Wordbook 그것이 최고 50파운드보다 더 했을 리가 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It couldn’t have cost more than ￡50, tops. Add to Wordbook"
+    },
+    {
+      "korean": "That can’t be true! You’re winding me up. 듣기 Add to Wordbook 그게 사실일 리가 없어! 넌 날 약올리고 있는 거야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That can’t be true! You’re winding me up. Add to Wordbook"
+    }
+  ]
+}

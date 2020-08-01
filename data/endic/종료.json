@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "종료",
+      "hanja": " (終了)",
+      "example": {},
+      "meanings": [
+        "end, close, (formal) conclusion, end, close, come[be brought] to an end, be finished, be over, be closed"
+      ]
+    },
+    {
+      "phrase": "방송 종료",
+      "hanja": " (放送終了)",
+      "example": {},
+      "meanings": [
+        "sign-off"
+      ]
+    },
+    {
+      "phrase": "종료신호",
+      "hanja": " (終了信號)",
+      "example": {},
+      "meanings": [
+        "[방송의] a sign-off."
+      ]
+    },
+    {
+      "phrase": "종료 코드",
+      "hanja": " (終了─)",
+      "example": {},
+      "meanings": [
+        "[컴퓨터] a completion code."
+      ]
+    },
+    {
+      "phrase": "레코드 종료",
+      "hanja": " (─終了)",
+      "example": {},
+      "meanings": [
+        "the end of record."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ending",
+      "frequency": 3
+    },
+    {
+      "meaning": "end",
+      "frequency": 3
+    },
+    {
+      "meaning": "termination",
+      "frequency": 3
+    },
+    {
+      "meaning": "exit 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "closure",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여보세요? 네네 아 V LIVE 종료하라고요? Hello? Yes, end V LIVE? 듣기 View video Stray Kids : 산을 넘어 산호세로 ~~❤",
+      "english": "Hello? Yes, end V LIVE?"
+    },
+    {
+      "korean": "라이브 종료 라이브 촬영을 종료하시겠습니까? Termination of a live show. Will you finish this live broadcast? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Termination of a live show. Will you finish this live broadcast?"
+    },
+    {
+      "korean": "종료가 됩니다 - 진짜? Your turn will be over. - Really? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "Your turn will be over. - Really?"
+    },
+    {
+      "korean": "[멘탈 정지][시작 5분 만에 종료 위기] 미스터 리! [Brain freeze] [Finishing after only 5 min?] Mr. LEE! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Brain freeze] [Finishing after only 5 min?] Mr. LEE!"
+    },
+    {
+      "korean": "[투표 종료!] [Voting is over!] View video 슈주 리턴즈 (SJ returns) : [슈주 리턴즈 : 스핀오프] 특규 리턴즈 픽쿡크라운 EP02",
+      "english": "[Voting is over!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The referee blew his whistle for full time. 듣기 Add to Wordbook 심판이 호각을 불어 경기 종료를 알렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The referee blew his whistle for full time. Add to Wordbook"
+    },
+    {
+      "korean": "The agreement between us is terminated forthwith. 듣기 Add to Wordbook 우리 사이의 합의는 곧 종료된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The agreement between us is terminated forthwith. Add to Wordbook"
+    },
+    {
+      "korean": "Polls close at 9p.m. 듣기 Add to Wordbook 투표 종료 시간은 밤 9시이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Polls close at 9p.m. Add to Wordbook"
+    },
+    {
+      "korean": "The full-time score was 1-1. 듣기 Add to Wordbook 경기 종료 시 득점은 1 대 1이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The full-time score was 1-1. Add to Wordbook"
+    },
+    {
+      "korean": "The whistle went for no side. 듣기 Add to Wordbook 경기 종료를 알리는 호각 소리가 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The whistle went for no side. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "지배",
+      "hanja": " (支配)",
+      "example": {},
+      "meanings": [
+        "(집단·조직 등을) rule, domination, rule (over), dominate, govern, control",
+        "(생각·행동 등을) control, govern, (감정·상황 등을) take command (of)"
+      ]
+    },
+    {
+      "phrase": "지배를 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be (put) under the control[rule] of",
+        "be subject to"
+      ]
+    },
+    {
+      "phrase": "지배를 당하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be ruled[dominated] (by)"
+      ]
+    },
+    {
+      "phrase": "지배 종속 관계",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a dominant-subordinate relationship"
+      ]
+    },
+    {
+      "phrase": "지배 민족",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a master race",
+        "the Herrenvolk"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "control",
+      "frequency": 3
+    },
+    {
+      "meaning": "rule",
+      "frequency": 3
+    },
+    {
+      "meaning": "hold",
+      "frequency": 3
+    },
+    {
+      "meaning": "grip",
+      "frequency": 3
+    },
+    {
+      "meaning": "sway",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'아니 동물원' - 동물원을 지배했다고요? No, zoo. - You have dominated the zoo? 듣기 View video AB6IX : 고마워요❤",
+      "english": "No, zoo. - You have dominated the zoo?"
+    },
+    {
+      "korean": "연1이 메뉴를 지배합니다! Yeon 1 chooses the menu! 듣기 View video 우주소녀(WJSN) : [보나 은서] 연자매의 마음대로 EP.02 연자매의 그리운 떡볶이🍽",
+      "english": "Yeon 1 chooses the menu!"
+    },
+    {
+      "korean": "알약을 지배하는 자 - 쓸 게 있어? The ruler of pills. - You still have some left? 듣기 View video Stray Kids : [CHOISKZ(초이슼)] EP.02",
+      "english": "The ruler of pills. - You still have some left?"
+    },
+    {
+      "korean": "공간을 지배하는 자! One who rules over space! 듣기 View video Stray Kids : 스테이 만나기 전!",
+      "english": "One who rules over space!"
+    },
+    {
+      "korean": "지배하고 계시는 분? The one who manages this place? 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP78] 난생 처음 베이징덕 접해본 아이돌",
+      "english": "The one who manages this place?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The opposition party was in the ascendancy. 듣기 Add to Wordbook 야당이 지배력을 행사하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The opposition party was in the ascendancy. Add to Wordbook"
+    },
+    {
+      "korean": "Eighty million years ago, dinosaurs ruled the earth. 듣기 Add to Wordbook 8 000만 년 전에는 공룡이 지구를 지배했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Eighty million years ago, dinosaurs ruled the earth. Add to Wordbook"
+    },
+    {
+      "korean": "Politics is still dominated by the middle-class mafia. 듣기 Add to Wordbook 정치가 아직도 중산층 파벌의 지배를 받고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Politics is still dominated by the middle-class mafia. Add to Wordbook"
+    },
+    {
+      "korean": "The dominant feature of the room was the large fireplace. 듣기 Add to Wordbook 그 방의 지배적인 특징은 커다란 벽난로였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dominant feature of the room was the large fireplace. Add to Wordbook"
+    },
+    {
+      "korean": "All nuclear installations are subject to international safeguards. 듣기 Add to Wordbook 모든 핵 시설은 국제 안전 규약의 지배를 받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All nuclear installations are subject to international safeguards. Add to Wordbook"
+    }
+  ]
+}

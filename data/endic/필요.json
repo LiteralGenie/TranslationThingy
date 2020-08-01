@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "필요",
+      "hanja": " (必要)",
+      "example": {},
+      "meanings": [
+        "[명사] need, necessity, [형용사] necessary, (동사로 쓰여) need"
+      ]
+    },
+    {
+      "phrase": "필요조건",
+      "hanja": " (必要條件)",
+      "example": {},
+      "meanings": [
+        "necessary condition, required condition, (formal) requisite"
+      ]
+    },
+    {
+      "phrase": "필요 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unnecessary",
+        "needless",
+        "uncalled-for"
+      ]
+    },
+    {
+      "phrase": "필요할 경우",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in case of need[necessity]",
+        "if[when] necessary"
+      ]
+    },
+    {
+      "phrase": "필요에 따라",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as occasion demands[arises, calls]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "need",
+      "frequency": 3
+    },
+    {
+      "meaning": "necessity",
+      "frequency": 3
+    },
+    {
+      "meaning": "requirement",
+      "frequency": 3
+    },
+    {
+      "meaning": "indispensability",
+      "frequency": 0
+    },
+    {
+      "meaning": "enough",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사람은 정의가 필요하잖아 그렇지? People need bonds, right? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "People need bonds, right?"
+    },
+    {
+      "korean": "백호 어떡해? - 시간이 필요해? How about it, Baekho? - Do you need time? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "How about it, Baekho? - Do you need time?"
+    },
+    {
+      "korean": "초반에 뭐 긴장할 필요가 있어? There's no need to be nervous at the beginning. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "There's no need to be nervous at the beginning."
+    },
+    {
+      "korean": "다 했어? - 다 했어요 - 시간이 필요해? Did you finish? - I finished. - Do you need time? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "Did you finish? - I finished. - Do you need time?"
+    },
+    {
+      "korean": "당연히 필요하고... Well, if necessary.. 듣기 View video ASTRO : 차은우의 Just one 10 minutes",
+      "english": "Well, if necessary.."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Make as many photocopies as you need. 듣기 Add to Wordbook 필요한 수만큼 복사를 하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Make as many photocopies as you need. Add to Wordbook"
+    },
+    {
+      "korean": "You need to build your self-esteem. 듣기 Add to Wordbook 너는 자부심을 키울 필요가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You need to build your self-esteem. Add to Wordbook"
+    },
+    {
+      "korean": "everything you need for your summer wardrobe 듣기 Add to Wordbook 당신의 여름옷을 위해 필요한 모든 것 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "everything you need for your summer wardrobe Add to Wordbook"
+    },
+    {
+      "korean": "We need tighter security at the airport. 듣기 Add to Wordbook 우리는 공항에서 더 엄격한 보안이 필요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We need tighter security at the airport. Add to Wordbook"
+    },
+    {
+      "korean": "We need to rein back public spending. 듣기 Add to Wordbook 우리가 공공지출에 고삐를 죌 필요가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We need to rein back public spending. Add to Wordbook"
+    }
+  ]
+}

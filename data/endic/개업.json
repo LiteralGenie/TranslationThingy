@@ -1,0 +1,109 @@
+{
+  "phrases": [
+    {
+      "phrase": "개업",
+      "hanja": " (開業)",
+      "example": {},
+      "meanings": [
+        "[동사] open (up), start (up), set up, (Am, inf) hang out one's shingle"
+      ]
+    },
+    {
+      "phrase": "신장개업",
+      "hanja": " (新裝開業)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "개업 의사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a general practioner"
+      ]
+    },
+    {
+      "phrase": "개업 변호사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a practicing lawyer"
+      ]
+    },
+    {
+      "phrase": "의사로서 개업을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "practice medicine",
+        "be in medical practice"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "inauguration",
+      "frequency": 3
+    },
+    {
+      "meaning": "private practice",
+      "frequency": 0
+    },
+    {
+      "meaning": "launching",
+      "frequency": 0
+    },
+    {
+      "meaning": "private doctors",
+      "frequency": 0
+    },
+    {
+      "meaning": "a practicing physician",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[우리 분명 헤어싸롱 개업했는데...] [We opened up a hair salon...but...] View video Big Picture (빅픽처) : 빅픽처3 EP21_온 우주의 대운을 너에게 줄게",
+      "english": "[We opened up a hair salon...but...]"
+    },
+    {
+      "korean": "[고요(용진 매니저) / 개업(지수)] 고요도 했던 것 같은데? [Goyo(Yongjin manager)/Gaeup(Ji-Soo)] I think somebody said Goyo before? 듣기 View video LOVELYZ : '러블리즈 다이어리 시즌7' 7화 ('Lovelyz Diary Season 6' EP.7 )",
+      "english": "[Goyo(Yongjin manager)/Gaeup(Ji-Soo)] I think somebody said Goyo before?"
+    },
+    {
+      "korean": "[시애틀 맛집 개업] [이리 오렴~] 뷔페야 뭐야... [Opening up a good restaurant in Seattle] [Come] Is this a buffet or what? 듣기 View video WINNER : [W-LOG] EP7. EVERY MOMENT in SEATTLE",
+      "english": "[Opening up a good restaurant in Seattle] [Come] Is this a buffet or what?"
+    },
+    {
+      "korean": "축하 송 하나 해주세요 개업식인데. Sing a congratulatory song since it's the opening ceremony. 듣기 View video V Special : <진리상점> 랜선 개업식 in 설리 대표님방 LIVE",
+      "english": "Sing a congratulatory song since it's the opening ceremony."
+    },
+    {
+      "korean": "형, 형 헬스장 언제 개업해요? - 이제 조만간 오픈 할 거라고. When are you going to open up? - I'm going to open soon. 듣기 View video NCT : 💚💚💚더워도 괜찮아 사랑하기때문에💚💚💚",
+      "english": "When are you going to open up? - I'm going to open soon."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He hung out his own shingle. 듣기 Add to Wordbook 그는 자기 간판을 내걸고 개업을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hung out his own shingle. Add to Wordbook"
+    },
+    {
+      "korean": "Most solicitors in England and Wales are in private practice. 듣기 Add to Wordbook 잉글랜드와 웨일스의 사무 변호사들은 대부분이 개인 개업 변호사들이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most solicitors in England and Wales are in private practice. Add to Wordbook"
+    },
+    {
+      "korean": "My brothers are opening a garage and they want me to go in with them. 듣기 Add to Wordbook 우리 형[오빠/남동생]들이 정비소를 개업하면서 내가 동업하기를 원해요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My brothers are opening a garage and they want me to go in with them. Add to Wordbook"
+    },
+    {
+      "korean": "Did you receive my e-mail invitation to the grand opening? 듣기 Add to Wordbook 제가 이메일로 보내드린 개업식 초대장을 받으셨나요? DARAKWON",
+      "english": "Did you receive my e-mail invitation to the grand opening? Add to Wordbook"
+    },
+    {
+      "korean": "It was delivered too late for us to use for our grand opening. 듣기 Add to Wordbook 너무 늦게 배송되어 저희 개업식에서 사용할 수 없었습니다. DARAKWON",
+      "english": "It was delivered too late for us to use for our grand opening. Add to Wordbook"
+    }
+  ]
+}

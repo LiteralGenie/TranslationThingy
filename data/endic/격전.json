@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "격전",
+      "hanja": " (激戰)",
+      "example": {},
+      "meanings": [
+        "(격렬한 싸움) fierce battle, ferocious battle, hard-fought battle, heavy fighting; (선거 등의) close contest"
+      ]
+    },
+    {
+      "phrase": "격전의 용사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a seasoned soldier"
+      ]
+    },
+    {
+      "phrase": "격전을 벌이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fight a fierce battle"
+      ]
+    },
+    {
+      "phrase": "지난밤 격전 동안에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "during fierce fighting last night"
+      ]
+    },
+    {
+      "phrase": "요격전잠적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 fade prior to intercept"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dogfight",
+      "frequency": 0
+    },
+    {
+      "meaning": "a knock-down-drag-out fight",
+      "frequency": 0
+    },
+    {
+      "meaning": "a hard-fought[hard-won] field",
+      "frequency": 0
+    },
+    {
+      "meaning": "ding-dong battle[struggle]",
+      "frequency": 0
+    },
+    {
+      "meaning": "tug(-)of(-)war",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "There was heavy fighting in the capital last night. 발음듣기 지난 밤 그 수도에서 격전이 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was heavy fighting in the capital last night. 발음"
+    },
+    {
+      "korean": "a hard-fought battle/win/victory 발음듣기 격렬한 전투[격전]/격전 끝에 얻은 우승/승리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a hard-fought battle/win/victory 발음"
+    },
+    {
+      "korean": "Hard weeks of bloody fighting lay ahead. 발음듣기 피비린내 나는 격전의 힘든 몇 주가 앞에 놓여 있었다. Friendict Level English-Korean Dictionary",
+      "english": "Hard weeks of bloody fighting lay ahead. 발음"
+    },
+    {
+      "korean": "There was a ferocious battle between the government troops and the rebels. 발음듣기 정부군과 반군 사이에 격전이 벌어졌다 Neungyule",
+      "english": "There was a ferocious battle between the government troops and the rebels. 발음"
+    },
+    {
+      "korean": "A fierce battle was once fought here. 발음듣기 옛날 여기서 격전이 있었다 Dong-a's Prime English-Korean Dictionary",
+      "english": "A fierce battle was once fought here. 발음"
+    }
+  ]
+}

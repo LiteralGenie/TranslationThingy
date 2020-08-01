@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "남자",
+      "hanja": " (男子)",
+      "example": {},
+      "meanings": [
+        "man (men), (formal) male"
+      ]
+    },
+    {
+      "phrase": "남자/여자가 걔 하나뿐이냐.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "이성교제 There are plenty of fish in the sea.",
+        "이성교제 You'll meet someone else.",
+        "이성교제 I'm sure there's someone else out there."
+      ]
+    },
+    {
+      "phrase": "남자의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "male",
+        "masculine",
+        "men´s"
+      ]
+    },
+    {
+      "phrase": "남자 옷",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "man´s wear"
+      ]
+    },
+    {
+      "phrase": "남자답다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be manly",
+        "be every inch a man"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "man",
+      "frequency": 3
+    },
+    {
+      "meaning": "boy",
+      "frequency": 3
+    },
+    {
+      "meaning": "guy",
+      "frequency": 3
+    },
+    {
+      "meaning": "male",
+      "frequency": 3
+    },
+    {
+      "meaning": "digger",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "남자... proper and and appropriate manner. 듣기 View video B.I.G : B.I.G(비아이지) Back In Seoul",
+      "english": "proper and and appropriate manner."
+    },
+    {
+      "korean": "여자니 남자니? Are you a girl or boy? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Are you a girl or boy?"
+    },
+    {
+      "korean": "여잔가? 남잔가? Is Berry a girl or boy? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Is Berry a girl or boy?"
+    },
+    {
+      "korean": "커피 마시는 남자~ A man who drinks coffee! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "A man who drinks coffee!"
+    },
+    {
+      "korean": "[오!!] 성공한 남자? [Wow!!] Successful Man? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 22. 서울대의 두 동아리 츄플 & 바팩 파이널에서 만나다!",
+      "english": "[Wow!!] Successful Man?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a cowardly attack on a defenceless man 듣기 Add to Wordbook 무방비 상태의 남자에 대한 비겁한 공격 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a cowardly attack on a defenceless man Add to Wordbook"
+    },
+    {
+      "korean": "He was an exacting man to work for. 듣기 Add to Wordbook 그는 밑에서 일하기가 힘든 남자였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was an exacting man to work for. Add to Wordbook"
+    },
+    {
+      "korean": "Two men froze to death on the mountain. 듣기 Add to Wordbook 두 명의 남자가 산에서 동사했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two men froze to death on the mountain. Add to Wordbook"
+    },
+    {
+      "korean": "The boys flailed around on the floor. 듣기 Add to Wordbook 그 남자애들이 바닥에서 마구 뒹굴었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The boys flailed around on the floor. Add to Wordbook"
+    },
+    {
+      "korean": "a squat muscular man with a shaven head 듣기 Add to Wordbook 머리를 다 밀어 버린 땅딸막한 근육질의 남자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a squat muscular man with a shaven head Add to Wordbook"
+    }
+  ]
+}

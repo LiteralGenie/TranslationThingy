@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "생체",
+      "hanja": " (生體)",
+      "example": {},
+      "meanings": [
+        "(living) body"
+      ]
+    },
+    {
+      "phrase": "생체 정보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "biometrics, biometric data, bio-data"
+      ]
+    },
+    {
+      "phrase": "생체리듬",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "biorhythms"
+      ]
+    },
+    {
+      "phrase": "생체학자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a somatologist"
+      ]
+    },
+    {
+      "phrase": "생체 실험을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do[perform, conduct] a medical experiment on a living body"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "-plast",
+      "frequency": 0
+    },
+    {
+      "meaning": "-plasm",
+      "frequency": 0
+    },
+    {
+      "meaning": "living matter",
+      "frequency": 0
+    },
+    {
+      "meaning": "vivisection",
+      "frequency": 0
+    },
+    {
+      "meaning": "biological clock",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "과학 실험에서 보여드릴 쥐 생체실험. A scientific experiment on a mouse. 듣기 View video ASTRO : [ASTRO PLAY] 우리 컴백했어요 in Show Music Core",
+      "english": "A scientific experiment on a mouse."
+    },
+    {
+      "korean": "이렇게 해서 저희의 생체 실험은 끝이 났습니다. And that is how our scientific experiment ends. 듣기 View video ASTRO : [ASTRO PLAY] 우리 컴백했어요 in Show Music Core",
+      "english": "And that is how our scientific experiment ends."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "At 35, Kate’s biological clock was ticking. 듣기 Add to Wordbook 35세인 케이트의 생체 시계는 끊임없이 째깍거리고 있었다. (=그녀는 자기가 곧 너무 나이가 많아져 아이를 가지지 못할지도 모른다는 생각을 하고 있었다.) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At 35, Kate’s biological clock was ticking. Add to Wordbook"
+    },
+    {
+      "korean": "The new project is about developing bioabsorbable products. 듣기 Add to Wordbook 새 프로젝트는 생체 조직에 흡수될 수 있는 제품을 만드는 것이다. 국제영어대학원대학교 신어사전",
+      "english": "The new project is about developing bioabsorbable products. Add to Wordbook"
+    },
+    {
+      "korean": "bio-ink used in bioprinting 듣기 Add to Wordbook 생체인쇄에 사용된 바이오 잉크 국제영어대학원대학교 신어사전",
+      "english": "bio-ink used in bioprinting Add to Wordbook"
+    },
+    {
+      "korean": "to bioprint the vital organs 듣기 Add to Wordbook 주요 장기를 생체인쇄기를 사용하여 인쇄하다 국제영어대학원대학교 신어사전",
+      "english": "to bioprint the vital organs Add to Wordbook"
+    },
+    {
+      "korean": "The use of bioresorbable stents was considered. 듣기 Add to Wordbook 생체 흡수성 스텐트 사용이 고려되었다. 국제영어대학원대학교 신어사전",
+      "english": "The use of bioresorbable stents was considered. Add to Wordbook"
+    }
+  ]
+}

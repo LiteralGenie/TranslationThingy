@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "흘리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(눈물·땀·피 등을) (눈물을) cry, shed, (땀을) sweat, (formal) perspire, (피를) bleed, (침을) drool, slobber",
+        "(물·밥알 등을) spill",
+        "(물건을) drop"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ooze",
+      "frequency": 3
+    },
+    {
+      "meaning": "spill",
+      "frequency": 3
+    },
+    {
+      "meaning": "trickle",
+      "frequency": 3
+    },
+    {
+      "meaning": "drool",
+      "frequency": 0
+    },
+    {
+      "meaning": "bleed",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "흘리면... If it drips... 듣기 View video THE BOYZ : 더비 안녕?😉",
+      "english": "If it drips..."
+    },
+    {
+      "korean": "어떻게 해야 되죠? - 흘리면 안 돼! What needs to be done? - You can't spill it. 듣기 View video IZ*ONE : IZ*ONE 에너지 캠(ENOZI Cam) EP.41",
+      "english": "What needs to be done? - You can't spill it."
+    },
+    {
+      "korean": "다시 한 번 말하지만 조수가 피를 흘리면 뭐다? Let me remind you, what does it mean when the assistant bleeds while helping with the graduation exhibition? 듣기 View video 플레이리스트 (Playlist) : 내 운명이라는 남자가 날 쌩깠다 [나의 이름에게] - EP.01",
+      "english": "Let me remind you, what does it mean when the assistant bleeds while helping with the graduation exhibition?"
+    },
+    {
+      "korean": "흘리면 닦으면 되죠 뭐 그렇죠? If I drop things, I can clean it later. Right? 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "If I drop things, I can clean it later. Right?"
+    },
+    {
+      "korean": "여름에는 땀 흘리면 찝찝하잖아요. During the summer, sweat sort of makes you discomforted. 듣기 View video DAY6 : 도공공장공장장🐶🛠 Ep. 2",
+      "english": "During the summer, sweat sort of makes you discomforted."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "If you spill coffee on the carpet, it will stain. 듣기 Add to Wordbook 카펫에 커피를 흘리면 자국이 남는다 Neungyule",
+      "english": "If you spill coffee on the carpet, it will stain. Add to Wordbook"
+    },
+    {
+      "korean": "When you perspire profusely, you become thirsty soon. 듣기 Add to Wordbook 땀을 너무 많이 흘리면 목이탄다. YBM All in All English-Korean Dictionary",
+      "english": "When you perspire profusely, you become thirsty soon. Add to Wordbook"
+    },
+    {
+      "korean": "When you sweat, your body loses important vitamins and water. 듣기 Add to Wordbook 땀을 흘리면 신체가 중요 비타민과 수분을 잃어버립니다. Neungyule",
+      "english": "When you sweat, your body loses important vitamins and water. Add to Wordbook"
+    },
+    {
+      "korean": "Perspiration helps cool the body down. 듣기 Add to Wordbook 땀을 흘리면 체온이 낮아진다. Neungyule",
+      "english": "Perspiration helps cool the body down. Add to Wordbook"
+    },
+    {
+      "korean": "It feels good to work up a sweat in the morning. 듣기 Add to Wordbook 아침에 땀을 흘리면 기분이 좋다 Dong-a's Prime English-Korean Dictionary",
+      "english": "It feels good to work up a sweat in the morning. Add to Wordbook"
+    }
+  ]
+}

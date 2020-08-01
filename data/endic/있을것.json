@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이 프로그램은 재미있을 것 같다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "TV This program looks interesting."
+      ]
+    },
+    {
+      "phrase": "내일은 잔업이 있을 것 같습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "토픽 It looks like I have to work overtime tomorrow."
+      ]
+    },
+    {
+      "phrase": "조금 더 노력하면 잘 만들 수 있을 것이라고 생각해.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "음식의 맛에 관한 표현 I think you'll be good if you try a little more."
+      ]
+    },
+    {
+      "phrase": "이틀에 한 번씩은 수영을 할 수 있을 것 같았는데요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "수영 I thought I would hit the pool every other day."
+      ]
+    },
+    {
+      "phrase": "저는 조사할 것이 있을 때는 반드시 도서관에 갑니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "독서 Whenever I want to research something, I go to the library."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "probable",
+      "frequency": 3
+    },
+    {
+      "meaning": "unlikely",
+      "frequency": 3
+    },
+    {
+      "meaning": "possible",
+      "frequency": 3
+    },
+    {
+      "meaning": "private",
+      "frequency": 3
+    },
+    {
+      "meaning": "profitable",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "(오늘 촬영) 재미있을 것 같습니다! I guess we'll have a great time. 듣기 View video ASTRO : [ASTRO PLAY] 아로하 4랑해",
+      "english": "I guess we'll have a great time."
+    },
+    {
+      "korean": "서울대 트리플에이치는 지킬 수 있을 것 같아요? SNU TRIPLE H, what do you think? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 25. 내.전.힙 마지막회! 츄플과 래빈의 코디는 누구?!",
+      "english": "SNU TRIPLE H, what do you think?"
+    },
+    {
+      "korean": "저거 봐 저기 귀신 있을 것 같지 않아요? Look. Doesn't that look like there would be a ghost there? 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "Look. Doesn't that look like there would be a ghost there?"
+    },
+    {
+      "korean": "(바팩) 1위를 뺏을 수 있을 것 같습니까? (BOUNCE FACTORY) Do you think you'll be able to take the throne? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "(BOUNCE FACTORY) Do you think you'll be able to take the throne?"
+    },
+    {
+      "korean": "역시 고기의 힘은 - 정말 잘하고 있을 것만 같아! The power of the meat. - I think you're really doing well! 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "The power of the meat. - I think you're really doing well!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There will be games and prizes galore. 듣기 Add to Wordbook 푸짐한 경기와 상들이 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There will be games and prizes galore. Add to Wordbook"
+    },
+    {
+      "korean": "The volcano could erupt at any time. 듣기 Add to Wordbook 그 화산은 언제든지 분출할 수 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The volcano could erupt at any time. Add to Wordbook"
+    },
+    {
+      "korean": "The lumps will need to be surgically removed. 듣기 Add to Wordbook 그 종양들은 수술로 제거할 필요가 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The lumps will need to be surgically removed. Add to Wordbook"
+    },
+    {
+      "korean": "There will be extensive renovations to the hospital. 듣기 Add to Wordbook 그 병원에 대해 대대적인 개조 작업이 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There will be extensive renovations to the hospital. Add to Wordbook"
+    },
+    {
+      "korean": "This deal could safeguard the futures of the 2000 employees. 듣기 Add to Wordbook 이번 타결은 노동자 2 000명의 앞날을 보호해 줄 수 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This deal could safeguard the futures of the 2000 employees. Add to Wordbook"
+    }
+  ]
+}

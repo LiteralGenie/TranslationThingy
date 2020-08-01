@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "아니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not, no"
+      ]
+    },
+    {
+      "phrase": "장난 아니고?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 도중 No kidding?",
+        "대화 도중 No joke?"
+      ]
+    },
+    {
+      "phrase": "당신이 싫은 건 아니고 친구로 좋아해요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "이성교제 It's not that I don't like you. I like you as a friend.",
+        "이성교제 I think we would be better off as friends."
+      ]
+    },
+    {
+      "phrase": "오늘 아침은 빵이 아니고, 밥이야.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "아침식사 Today, it's rice, not bread.",
+        "아침식사 Today it's not bread, it's rice."
+      ]
+    },
+    {
+      "phrase": "6시가 아니고 9시에 맞춰져 있잖아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "아침의 행동을 나타내는 표현 It's not set for 6 but 9."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neither",
+      "frequency": 3
+    },
+    {
+      "meaning": "not exactly",
+      "frequency": 0
+    },
+    {
+      "meaning": "NEET",
+      "frequency": 0
+    },
+    {
+      "meaning": "no kid",
+      "frequency": 0
+    },
+    {
+      "meaning": "not…but …",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 아니고 사실... Not me, but actually... 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "Not me, but actually..."
+    },
+    {
+      "korean": "몰래 라이브는 아니고 그냥... It's not a secret live but... 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "It's not a secret live but..."
+    },
+    {
+      "korean": "'빵 인정이에요?' 인정은 아니고 그냥... \"Do you agree?\" I don't agree but... 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "\"Do you agree?\" I don't agree but..."
+    },
+    {
+      "korean": "그날, 그때, 그날 좀 여유 있었던 거 아니고요? Didn't you just have time that day? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Didn't you just have time that day?"
+    },
+    {
+      "korean": "물음표가 아니고 느낌표라고요? It was an exclamation point instead of a question mark? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "It was an exclamation point instead of a question mark?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I was in that half-and-half land where you are not completely asleep nor completely awake. 듣기 Add to Wordbook 나는 완전히 잠든 것도 아니고 완전히 깨어 있는 것도 아닌 그런 비몽사몽 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was in that half-and-half land where you are not completely asleep nor completely awake. Add to Wordbook"
+    },
+    {
+      "korean": "We’ve had one or two problems—nothing serious. 듣기 Add to Wordbook 우리에게 문제가 몇 가지 있었다. 심각한 것은 아니고. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’ve had one or two problems—nothing serious. Add to Wordbook"
+    },
+    {
+      "korean": "It’s real wood—not one of those plastic jobs. 듣기 Add to Wordbook 이건 진짜 나무에요. 플라스틱으로 된 뭐 그런 거 아니고. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s real wood—not one of those plastic jobs. Add to Wordbook"
+    },
+    {
+      "korean": "He had known her—but not in the biblical sense. 듣기 Add to Wordbook 그는 그녀를 알고 있었어. 뭐 같이 잤었다는 것은 아니고. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had known her—but not in the biblical sense. Add to Wordbook"
+    },
+    {
+      "korean": "You’re a suspect, not a detective, and don’t you forget it. 듣기 Add to Wordbook 당신은 용의자야, 형사가 아니고. 그걸 잊지 말라구. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re a suspect, not a detective, and don’t you forget it. Add to Wordbook"
+    }
+  ]
+}

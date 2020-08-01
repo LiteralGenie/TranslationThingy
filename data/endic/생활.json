@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "생활",
+      "hanja": " (生活)",
+      "example": {},
+      "meanings": [
+        "life, living, livelihood, live, (간신히) subsist on"
+      ]
+    },
+    {
+      "phrase": "집단생활",
+      "hanja": " (集團生活)",
+      "example": {},
+      "meanings": [
+        "communal living[life]"
+      ]
+    },
+    {
+      "phrase": "생활양식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a lifestyle",
+        "a style[mode] of living",
+        "a way of life[living]"
+      ]
+    },
+    {
+      "phrase": "생활필수품",
+      "hanja": " (生活必需品)",
+      "example": {},
+      "meanings": [
+        "daily necessity, , necessaries"
+      ]
+    },
+    {
+      "phrase": "생활기록부",
+      "hanja": " (生活記錄簿)",
+      "example": {},
+      "meanings": [
+        "student record"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "life",
+      "frequency": 3
+    },
+    {
+      "meaning": "existence",
+      "frequency": 3
+    },
+    {
+      "meaning": "living",
+      "frequency": 3
+    },
+    {
+      "meaning": "condition",
+      "frequency": 3
+    },
+    {
+      "meaning": "career",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "미국 생활 썰? Stories about living in America? 듣기 View video AB6IX : 로센키🌹",
+      "english": "Stories about living in America?"
+    },
+    {
+      "korean": "[또 다른 복수 전공자 의대생의 생활 훅(?)] [Another double major, med student's hook(?)] View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[Another double major, med student's hook(?)]"
+    },
+    {
+      "korean": "기숙사 생활 괜찮나? How is it to live in a dorm? 듣기 View video SEVENTEEN : 깜짝🦦",
+      "english": "How is it to live in a dorm?"
+    },
+    {
+      "korean": "근데 대학 생활을 원활하게 하기 위해서 왜 옷을 사야 하죠? But why do you need clothes for your campus life? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "But why do you need clothes for your campus life?"
+    },
+    {
+      "korean": "[사연 읽어주는 태태] \"태형 오빠의 요즘 취미생활은?\" [V is reading the message] \"What id your hobby these days\"? 듣기 View video V PICK! : [BTS] ABC.. D제이가 D지버지게 깜찍한 보이는 라디오 해요!!(~˘▾˘)~🎤🎶 (V’s first visual radio)",
+      "english": "[V is reading the message] \"What id your hobby these days\"?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the hustle and bustle of city life 듣기 Add to Wordbook 바쁘고 부산한 도시 생활 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the hustle and bustle of city life Add to Wordbook"
+    },
+    {
+      "korean": "the simplicities of our old way of life 듣기 Add to Wordbook 우리 옛 생활 방식의 소박한 측면들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the simplicities of our old way of life Add to Wordbook"
+    },
+    {
+      "korean": "everyday objects such as cups and saucers 듣기 Add to Wordbook 컵과 컵받침같이 일상생활에서 쓰는 물건들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "everyday objects such as cups and saucers Add to Wordbook"
+    },
+    {
+      "korean": "The monks lived a very ascetic life. 듣기 Add to Wordbook 그 승려[수도자]들은 매우 금욕적인 생활을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The monks lived a very ascetic life. Add to Wordbook"
+    },
+    {
+      "korean": "the peaks and troughs of married life 듣기 Add to Wordbook 결혼 생활에서 최고점[절정]과 최저점[나락]에 해당하는 일들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the peaks and troughs of married life Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "추적",
+      "hanja": " (追跡)",
+      "example": {},
+      "meanings": [
+        "(도망가는 사람을) trace, chase, pursuit, chase, pursue, track, run after",
+        "(자금·계좌 등을) trace"
+      ]
+    },
+    {
+      "phrase": "추적/위축",
+      "hanja": " (追跡/萎縮)",
+      "example": {},
+      "meanings": [
+        "tracking/withering"
+      ]
+    },
+    {
+      "phrase": "추적추적",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "…을 추적 중이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be[sit] on tail",
+        "be in pursuit",
+        "be on the track"
+      ]
+    },
+    {
+      "phrase": "추적 장치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tracking device"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "chase",
+      "frequency": 3
+    },
+    {
+      "meaning": "pursuit",
+      "frequency": 3
+    },
+    {
+      "meaning": "chase 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "pursuance",
+      "frequency": 0
+    },
+    {
+      "meaning": "chivy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[위치 추적 중] 어디 사세요? Where do you live? 듣기 View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸동맹] EP.19 서유리 연애중?! \"우리 지금 썸타고 있어요♥\" (feat. 밀당고수)",
+      "english": "Where do you live?"
+    },
+    {
+      "korean": "(개그맨 시험 볼 때) '추적 60분' 네가 했지? You did \"Pursuit 60 minutes\" for your comedian test, huh? 듣기 View video 모비딕(Mobidic) : 절친특집, 개그맨들의 리얼 술자리는? 김준현의 금수저 폭탄발언까지 <김준현의짠> 7회",
+      "english": "You did \"Pursuit 60 minutes\" for your comedian test, huh?"
+    },
+    {
+      "korean": "'추적 60분'에서 60명 들어오다가 나가라고 한 게 너지? It was you who said for 60 people to come chase each other and go out, huh? 듣기 View video 모비딕(Mobidic) : 절친특집, 개그맨들의 리얼 술자리는? 김준현의 금수저 폭탄발언까지 <김준현의짠> 7회",
+      "english": "It was you who said for 60 people to come chase each other and go out, huh?"
+    },
+    {
+      "korean": "위치 추적이라도 해서 데려오라고요! Trace her location and bring her here! 듣기 View video 브릿지TV (BRIDGE TV) : <사랑, 시간에 머물다> EP6-1",
+      "english": "Trace her location and bring her here!"
+    },
+    {
+      "korean": "[이것은 흡사 범인 추적] - 저거 예린인데? - 예린인데? [Trying to find the culprit] - That's Yerin. - I guess so. 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 35회 - 여자친구 강제 리더 재선거! 투표 스타트★",
+      "english": "[Trying to find the culprit] - That's Yerin. - I guess so."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We continued tracking the plane on our radar. 듣기 Add to Wordbook 우리는 레이더로 그 비행기를 계속 추적했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We continued tracking the plane on our radar. Add to Wordbook"
+    },
+    {
+      "korean": "She traced her family history by matrilineal descent. 듣기 Add to Wordbook 그녀는 모계 쪽으로 자기 가문의 가계를 추적했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She traced her family history by matrilineal descent. Add to Wordbook"
+    },
+    {
+      "korean": "We managed to lose our pursuers in the darkness. 듣기 Add to Wordbook 우리는 어둠 속에서 우리를 추적하던 자들을 간신히 따돌렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We managed to lose our pursuers in the darkness. Add to Wordbook"
+    },
+    {
+      "korean": "The research project involves tracking the careers of 400 graduates. 듣기 Add to Wordbook 그 연구 프로젝트에는 졸업생 400명의 사회생활을 추적하는 것이 포함된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The research project involves tracking the careers of 400 graduates. Add to Wordbook"
+    },
+    {
+      "korean": "Detectives are trying to retrace her movements on the night she disappeared. 듣기 Add to Wordbook 형사들은 그녀가 실종되던 날 밤 그녀의 움직임을 추적하고자 애를 쓰고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Detectives are trying to retrace her movements on the night she disappeared. Add to Wordbook"
+    }
+  ]
+}

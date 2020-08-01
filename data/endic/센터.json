@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "센터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(농구·배구 등의) center",
+        "(종합 시설) center"
+      ]
+    },
+    {
+      "phrase": "centre ( center )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 중심, 중앙, 가운데",
+        "Noun 특히 英 도심지, 중심가",
+        "Verb 중앙에 놓다"
+      ]
+    },
+    {
+      "phrase": "center ( centre )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [보통 the ~] (원·구·다각형의) 중심, (회전의) 중심점, [물리] 중심 (=middle)",
+        "Noun [the ~] (장소의) 중앙 , 한가운데",
+        "Transitive verb (…의) 중심[중앙]에 두다 ((in, on))"
+      ]
+    },
+    {
+      "phrase": "central",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 중심되는, 가장 중요한",
+        "Adjective 중앙의(다른 부서를 관장하는)",
+        "Adjective (지역·사물의) 중심[중앙]인"
+      ]
+    },
+    {
+      "phrase": "centre forward ( center, center forward, centre )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 센터 포워드"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "center",
+      "frequency": 2
+    },
+    {
+      "meaning": "centre",
+      "frequency": 2
+    },
+    {
+      "meaning": "center field",
+      "frequency": 0
+    },
+    {
+      "meaning": "center fielder",
+      "frequency": 0
+    },
+    {
+      "meaning": "rent-a-center",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여기가 무슨 짐 보관 센터야? Is this a place to leave their books? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Is this a place to leave their books?"
+    },
+    {
+      "korean": "여기는 교통 정보 센터에 나와 있는 뷔입니다! This is V at the traffic control center! 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "This is V at the traffic control center!"
+    },
+    {
+      "korean": "'라비앙로즈' 때 나코 센터에서 춤출 때 저희 이렇게 3명 온 거 아세요? Do you know we three come out when NAKO dances at the center for \"La Vie en Rose\"? 듣기 View video IZ*ONE : 까꿍🙈💕",
+      "english": "Do you know we three come out when NAKO dances at the center for \"La Vie en Rose\"?"
+    },
+    {
+      "korean": "센터가 어디지? Where is the center? 듣기 View video NCT 127 : [FULL] NCT 127의 '영웅'본색",
+      "english": "Where is the center?"
+    },
+    {
+      "korean": "[+ 센터 자리] 가운데요? [+ At the center] Center? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[+ At the center] Center?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the Nike outlet in the outlet mall 발음듣기 할인 전문 쇼핑센터에 있는 나이키 할인점 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the Nike outlet in the outlet mall 발음"
+    },
+    {
+      "korean": "The shopping centre is not roofed over. 발음듣기 그 쇼핑센터에는 지붕이 씌워져 있지 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shopping centre is not roofed over. 발음"
+    },
+    {
+      "korean": "The centre is well equipped for canoeing and mountaineering. 발음듣기 그 센터에는 카누 타기와 등산용 장비들이 잘 갖춰져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The centre is well equipped for canoeing and mountaineering. 발음"
+    },
+    {
+      "korean": "a day care centre 발음듣기 데이케어 센터[주간 보호 시설] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a day care centre 발음"
+    },
+    {
+      "korean": "a drug rehabilitation centre 발음듣기 마약 중독 치료 센터 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a drug rehabilitation centre 발음"
+    }
+  ]
+}

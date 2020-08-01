@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "그들",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(주격) they, (소유격) their, (목적격) them, (소유대명사) theirs, (재귀대명사) themselves"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[대명사] (주격) he; (소유격, 소유대명사) his; (목적격) him; (재귀대명사) himself",
+        "[관형사] (앞에서 언급한) the, (저것) that (those)"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner that (→저2, 이6)",
+        "Determiner that, the (→이6)",
+        "Determiner around, or such"
+      ]
+    },
+    {
+      "phrase": "그",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection uh, um, er, erm"
+      ]
+    },
+    {
+      "phrase": "그/그녀는 내 전화번호를 알고 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전화 실전표현 He/She knows my phone number."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "they",
+      "frequency": 2
+    },
+    {
+      "meaning": "those",
+      "frequency": 2
+    },
+    {
+      "meaning": "das man",
+      "frequency": 0
+    },
+    {
+      "meaning": "his",
+      "frequency": 2
+    },
+    {
+      "meaning": "meanwhile",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이랬던 그들이 드디어...!] 잠시만! 안 되지! 안 돼요 잠시만! [These guys...!] Wait! No! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[These guys...!] Wait! No!"
+    },
+    {
+      "korean": "[모두의 예상을 깬 그들의 정체는?] [Who are they?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[Who are they?]"
+    },
+    {
+      "korean": "[그들이 그린 것은 떡볶이였음을...] [They were drawing tteokbokki...] View video Dispatch : [ⓓxV] “빅망진창 Mayday 합주회 ①” (빅톤 : VICTON)",
+      "english": "[They were drawing tteokbokki...]"
+    },
+    {
+      "korean": "[그들은 호텔을 무사히 탈출할 수 있을까?] [Will they escape the hotel?] View video NU'EST : L.O.Λ.E STORY: NU'EST LAB (Teaser)",
+      "english": "[Will they escape the hotel?]"
+    },
+    {
+      "korean": "[그들의 우정은 끝까지 지켜질 수 있을까요?] [Will they keep their friendship?] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.15",
+      "english": "[Will they keep their friendship?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He hissed at them to be quiet. 발음듣기 그가 그들에게 쉿 조용히 하라고 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hissed at them to be quiet. 발음"
+    },
+    {
+      "korean": "He has to visit them on the sly. 발음듣기 그는 그들을 은밀히 방문해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has to visit them on the sly. 발음"
+    },
+    {
+      "korean": "The crowd parted in front of them. 발음듣기 그들 앞에서 군중이 갈라졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The crowd parted in front of them. 발음"
+    },
+    {
+      "korean": "They’ve gone on an excursion to York. 발음듣기 그들은 요크로 여행을 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They’ve gone on an excursion to York. 발음"
+    },
+    {
+      "korean": "Their head office is in New York. 발음듣기 그들의 본사는 뉴욕에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their head office is in New York. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "충족",
+      "hanja": " (充足)",
+      "example": {},
+      "meanings": [
+        "satisfy, (formal) gratify, meet"
+      ]
+    },
+    {
+      "phrase": "충족시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fill",
+        "fulfill",
+        "meet"
+      ]
+    },
+    {
+      "phrase": "조건을 충족시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "meet the requirements",
+        "satisfy the conditions"
+      ]
+    },
+    {
+      "phrase": "수요를 충족시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "meet the demand"
+      ]
+    },
+    {
+      "phrase": "요건을 충족시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "meet[fulfill, satisfy] the requirements"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "satisfaction",
+      "frequency": 3
+    },
+    {
+      "meaning": "implementation",
+      "frequency": 0
+    },
+    {
+      "meaning": "sate",
+      "frequency": 0
+    },
+    {
+      "meaning": "satisfy",
+      "frequency": 3
+    },
+    {
+      "meaning": "unfulfilled",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭔가 막 그 충족이 많이 돼 - 희열이 있어? There's a lot of satisfaction from it. - Do you feel happiness out of it? 듣기 View video OSEN : MAMAMOO 마마무의 선택은? 노래 vs 춤 #스타로드 06",
+      "english": "There's a lot of satisfaction from it. - Do you feel happiness out of it?"
+    },
+    {
+      "korean": "여기 계신 분들도 다 충족이 되셨나요? Was it satisfying? 듣기 View video SMTOWN : [FULL] 태민 컴백 쇼케이스 - WANT",
+      "english": "Was it satisfying?"
+    },
+    {
+      "korean": "기대를 충족시켰나요? Did we succeed in fulfilling your expectations? 듣기 View video NCT의 night night! : 미리 만나는 도요일♥ 도다제 녹음현장! with 도영",
+      "english": "Did we succeed in fulfilling your expectations?"
+    },
+    {
+      "korean": "대리 충족을 해주시는것 같아서 항상 감사드리는 마음입니다. replace that kind of need. 듣기 View video Space Girl : 진주 할머니집에서 같이 준비해요",
+      "english": "replace that kind of need."
+    },
+    {
+      "korean": "제가 좀 더 다른 걸로 충족시켜드리면 안 될까요? Can't I satisfy you in another way? 듣기 View video SF9 : 네.접니다. 다원.",
+      "english": "Can't I satisfy you in another way?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "No candidate fulfils all the criteria for this position. 듣기 Add to Wordbook 어떤 후보도 이 지위에 맞는 모든 기준을 충족시키지는 못한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No candidate fulfils all the criteria for this position. Add to Wordbook"
+    },
+    {
+      "korean": "All payments are contingent upon satisfactory completion dates. 듣기 Add to Wordbook 모든 대금 지불은 (작업) 완료 날짜 충족 여부에 따르게 됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All payments are contingent upon satisfactory completion dates. Add to Wordbook"
+    },
+    {
+      "korean": "the satisfaction of your ambitions 듣기 Add to Wordbook 자신이 가진 야망의 충족 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the satisfaction of your ambitions Add to Wordbook"
+    },
+    {
+      "korean": "enough money to satisfy all your desires 듣기 Add to Wordbook 당신의 모든 욕구를 충족시켜 줄 만한 돈 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "enough money to satisfy all your desires Add to Wordbook"
+    },
+    {
+      "korean": "to meet children’s special educational needs 듣기 Add to Wordbook 아동의 특별한 교육적 요구를 충족시켜 주다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to meet children’s special educational needs Add to Wordbook"
+    }
+  ]
+}

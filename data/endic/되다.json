@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(새로운 신분·지위 등을 갖다) be, become",
+        "(다른 것으로 변하다) turn[change] (in)to, (발전하다) develop into",
+        "(때·시기 등에 이르다) be, come, become, (나이가) reach, (formal) attain, (경과하다) pass"
+      ]
+    },
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물기가 적어 뻑뻑하다) thick, stiff"
+      ]
+    },
+    {
+      "phrase": "-되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동사적 명사에 붙어) become, get to be, be",
+        "(형용사·부사적 어근에 붙어) be"
+      ]
+    },
+    {
+      "phrase": "잘되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(일이 바라던 대로 되다) go well[right], (좋은 결과가 나오다) come[turn, work] out well",
+        "(장사·사업 등이 흥하다) prosper, thrive, flourish, go well[fine, smoothly]",
+        "(성공하다) succeed, go well[fine, smoothly]"
+      ]
+    },
+    {
+      "phrase": "오래되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "old"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "come",
+      "frequency": 3
+    },
+    {
+      "meaning": "go",
+      "frequency": 3
+    },
+    {
+      "meaning": "turn",
+      "frequency": 3
+    },
+    {
+      "meaning": "get 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "fall",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "요즘에 뭔가 스무 살이 되다 보니까 - 여리여리하고 싶었어요? Since I became 20 years old... - Did you want to be more girly? 듣기 View video OSEN : ITZY의 파우치 속에는 무엇이 들어있을까요? #스타로드 09",
+      "english": "Since I became 20 years old... - Did you want to be more girly?"
+    },
+    {
+      "korean": "클 태, 나타날 현이었어요 - 크게 되다 이런 거 아닌 건가요? Big and appearing. - Doesn't it mean that you'll become a big and important person? 듣기 View video TOMORROW X TOGETHER : 100만 + 막방 기념 라이브🎉",
+      "english": "Big and appearing. - Doesn't it mean that you'll become a big and important person?"
+    },
+    {
+      "korean": "아~ 되다. This is nice. 듣기 View video 상사세끼 시즌2 : 감정 기복이 롤러코스터급, 조현민 뺨치는 막말 폭언 레전드 과장 [상사세끼2/상사삼끼2] E",
+      "english": "This is nice."
+    },
+    {
+      "korean": "'Be Myself'는 아무래도 이제 자기 자신이 되다! \"Be Myself\" means to become yourself! 듣기 View video Hwang Chi Yeul : [Replay] 황치열 Chiyeul Hwang SHOWCASE",
+      "english": "\"Be Myself\" means to become yourself!"
+    },
+    {
+      "korean": "[만든 지 한참이라 향을 잊어버렸어요] 1~2주 되다보니까 향을 좀 잊어버렸어요. After a week or two, I forgot the fragrance. 듣기 View video 뷰티로그(beautylog) : [뷰티로그 7회]쇳독에 좋은 천연비누 만들기~!",
+      "english": "After a week or two, I forgot the fragrance."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The literal meaning of ‘petrify’ is ‘turn to stone’. 듣기 Add to Wordbook petrify의 기본적인[문자 그대로의] 뜻은 ‘돌이 되다’이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The literal meaning of ‘petrify’ is ‘turn to stone’. Add to Wordbook"
+    },
+    {
+      "korean": "to lose your sight 듣기 Add to Wordbook 시력을 잃다[앞을 못 보게 되다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to lose your sight Add to Wordbook"
+    },
+    {
+      "korean": "to be eligible for parole 듣기 Add to Wordbook 가석방 자격이 있다[대상이 되다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be eligible for parole Add to Wordbook"
+    },
+    {
+      "korean": "to act as surety for sb 듣기 Add to Wordbook …의 보증인이 되다[보증을 서다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to act as surety for sb Add to Wordbook"
+    },
+    {
+      "korean": "to be/become/get involved in politics 듣기 Add to Wordbook 정치에 관여하다/관여하게 되다/관여하게 되다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be/become/get involved in politics Add to Wordbook"
+    }
+  ]
+}

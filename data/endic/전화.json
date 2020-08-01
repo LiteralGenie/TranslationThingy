@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "전화",
+      "hanja": " (電話)",
+      "example": {},
+      "meanings": [
+        "phone call, (telephone) call, (전화기) telephone, phone, call (up), phone, (Brit) ring"
+      ]
+    },
+    {
+      "phrase": "전화",
+      "hanja": " (戰禍)",
+      "example": {},
+      "meanings": [
+        "(전쟁으로 인한 재해)"
+      ]
+    },
+    {
+      "phrase": "전화벨",
+      "hanja": " (電話bell)",
+      "example": {},
+      "meanings": [
+        "(telephone) ring"
+      ]
+    },
+    {
+      "phrase": "전화로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by telephone",
+        "over the telephone"
+      ]
+    },
+    {
+      "phrase": "휴대전화",
+      "hanja": " (携帶電話)",
+      "example": {},
+      "meanings": [
+        "cellphone, (formal) cellular phone, (Brit) mobile (phone)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "telephone",
+      "frequency": 3
+    },
+    {
+      "meaning": "call",
+      "frequency": 3
+    },
+    {
+      "meaning": "phone",
+      "frequency": 3
+    },
+    {
+      "meaning": "line",
+      "frequency": 3
+    },
+    {
+      "meaning": "tinkle",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[전화?] [A phone call?] View video 콬TV (WHYNOT) : 취향대로 고른 1:1 데이트! 우리 정말 잘 어울릴까?ㅣ[리얼하이로맨스S2] EP6",
+      "english": "[A phone call?]"
+    },
+    {
+      "korean": "웅이랑 전화... A call with Woong... 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "A call with Woong..."
+    },
+    {
+      "korean": "다시 전화해볼까? Should I call him again? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Should I call him again?"
+    },
+    {
+      "korean": "김승민 전화해볼까? Should I call SEUNGMIN? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Should I call SEUNGMIN?"
+    },
+    {
+      "korean": "오케이 전화 레츠 고! Ok, let's call him. Let's go! 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Ok, let's call him. Let's go!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He jerked the phone away from her. 듣기 Add to Wordbook 그가 그녀에게서 전화기를 홱 낚아챘다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He jerked the phone away from her. Add to Wordbook"
+    },
+    {
+      "korean": "Instructions were relayed to him by phone. 듣기 Add to Wordbook 지시 사항은 전화로 그에게 전달되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Instructions were relayed to him by phone. Add to Wordbook"
+    },
+    {
+      "korean": "When is the best time to ring New York? 듣기 Add to Wordbook 뉴욕에 전화하기에 가장 좋은 시간이 언제죠? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When is the best time to ring New York? Add to Wordbook"
+    },
+    {
+      "korean": "I was rudely awakened by the phone ringing. 듣기 Add to Wordbook 나는 전화벨 소리에 깜짝 놀라 잠이 깼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was rudely awakened by the phone ringing. Add to Wordbook"
+    },
+    {
+      "korean": "The sound of the telephone intruded into his dreams. 듣기 Add to Wordbook 전화벨 소리가 그의 꿈을 방해했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sound of the telephone intruded into his dreams. Add to Wordbook"
+    }
+  ]
+}

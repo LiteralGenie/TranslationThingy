@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "센트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a cent (c., ￠)"
+      ]
+    },
+    {
+      "phrase": "cent",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (Abbr.) c, ct. 센트(100분의 1달러나 유로) (→per cent, red cent)"
+      ]
+    },
+    {
+      "phrase": "scent",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 향기, 향내",
+        "Noun (개 등이 추적하는 데 단서가 되는) 냄새, (냄새를 통해 남아 있는) 자취 (=trail)",
+        "Verb 냄새로 찾아내다"
+      ]
+    },
+    {
+      "phrase": "century",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 100년",
+        "Noun (Abbr.) c, cent.. 세기",
+        "Noun (한 선수가 달성한) 100점"
+      ]
+    },
+    {
+      "phrase": "cent.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Abbreviation 세기(century)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "penny",
+      "frequency": 3
+    },
+    {
+      "meaning": "cent",
+      "frequency": 3
+    },
+    {
+      "meaning": "c",
+      "frequency": 0
+    },
+    {
+      "meaning": "dime",
+      "frequency": 3
+    },
+    {
+      "meaning": "nickel",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "13달러 70센트입니다. This is 13 dollars and 70 cents with tax. 듣기 View video Mnet : [ONE DREAM.TXT] Reality Ep.01 - Part.3",
+      "english": "This is 13 dollars and 70 cents with tax."
+    },
+    {
+      "korean": "오른쪽은 1유로 왼쪽은 1센트에요. This is one euro. This is one cent. 듣기 View video 컨버전스 TV (CONS TV) : Global Working Tour in Italy Extra Video 3",
+      "english": "This is one euro. This is one cent."
+    },
+    {
+      "korean": "우리 팬분들의 센트가 점점 나날이 좋아지고 있어요. My fans' fashion sense is getting better everyday. 듣기 View video AKMU : 하하하하하하하하하하하",
+      "english": "My fans' fashion sense is getting better everyday."
+    },
+    {
+      "korean": "내가 제일 좋아하는 향은? What's your favorite scent? 듣기 View video OSEN : PENTAGON 펜타곤, 귀여운 2인 1조 TMI 인터뷰 #스타로드 05",
+      "english": "What's your favorite scent?"
+    },
+    {
+      "korean": "민니 언니는 약간... MINNIE's scent is... 듣기 View video V PICK! : [(G)I-DLE] 내 비밀번호는 sjsj486이야 수진수진 사랑해..🍒 (SOOJIN talking about tattoo on her hand)",
+      "english": "MINNIE's scent is..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "dividend payments of 50 cents a share 듣기 Add to Wordbook 주당 50센트의 배당금 지불 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "dividend payments of 50 cents a share Add to Wordbook"
+    },
+    {
+      "korean": "to change a dollar bill for four quarters 듣기 Add to Wordbook 1달러짜리 지폐를 25센트짜리 동전 4개로 바꾸다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to change a dollar bill for four quarters Add to Wordbook"
+    },
+    {
+      "korean": "The dollar closed two cents down. 듣기 Add to Wordbook 달러 가치가 2센트 하락한 채 (시장이) 마감되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dollar closed two cents down. Add to Wordbook"
+    },
+    {
+      "korean": "A hundred cents make one euro. 듣기 Add to Wordbook 100센트는 1유로이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A hundred cents make one euro. Add to Wordbook"
+    },
+    {
+      "korean": "Angry Birds: the best 99 cents I’ve spent in my life. 듣기 Add to Wordbook 앵그리 버드: 내 인생에서 가장 잘 쓴 99센트. DARAKWON",
+      "english": "Angry Birds: the best 99 cents I’ve spent in my life. Add to Wordbook"
+    }
+  ]
+}

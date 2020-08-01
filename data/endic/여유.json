@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "여유",
+      "hanja": " (餘裕)",
+      "example": {},
+      "meanings": [
+        "(물질적, 공간적, 시간적)",
+        "(마음의)"
+      ]
+    },
+    {
+      "phrase": "여유를 갖다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep one´s composure"
+      ]
+    },
+    {
+      "phrase": "여유를 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose one´s composure",
+        "lose one´s presence of mind"
+      ]
+    },
+    {
+      "phrase": "여유 만만하다",
+      "hanja": " (餘裕滿滿―)",
+      "example": {},
+      "meanings": [
+        "relaxed, composed"
+      ]
+    },
+    {
+      "phrase": "여유가 있다[없다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have[have no] to spare",
+        "can(not) afford"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "margin",
+      "frequency": 1
+    },
+    {
+      "meaning": "clearance",
+      "frequency": 1
+    },
+    {
+      "meaning": "relaxed",
+      "frequency": 2
+    },
+    {
+      "meaning": "afford",
+      "frequency": 2
+    },
+    {
+      "meaning": "leisurely",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[7초의 여유] 지금 내가 제일 잘한 거 아니냐? [Proud of 7 seconds.] Am I the best player yet? 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "[Proud of 7 seconds.] Am I the best player yet?"
+    },
+    {
+      "korean": "그 무대 위에 있었던 여유라고 해야 되나? Should I saw the relaxation when he was on stage? 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 63",
+      "english": "Should I saw the relaxation when he was on stage?"
+    },
+    {
+      "korean": "아 여유롭게! Oh. I wanted to take more time! 듣기 View video V PICK! : [2년 전 오늘의 N.Flying] 승구 귀여움은 228억년이 지나도 안 변하니까👔 (Hwe Seung talking about his outfit 2years ago)",
+      "english": "Oh. I wanted to take more time!"
+    },
+    {
+      "korean": "[정국이는 여유롭게 도착] - 왜 이래 - 비켜! [Jung Kook arrived] - What's wrong? - Get out! 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[Jung Kook arrived] - What's wrong? - Get out!"
+    },
+    {
+      "korean": "살짝 여유 있죠? There's some freedom, right? 듣기 View video SMTOWN : [Full] Happy for TAEYEON",
+      "english": "There's some freedom, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can we afford a new car? 발음듣기 우리가 새 차를 살 여유가 돼요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can we afford a new car? 발음"
+    },
+    {
+      "korean": "She had a very relaxed manner. 발음듣기 그녀는 태도가 아주 여유가 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had a very relaxed manner. 발음"
+    },
+    {
+      "korean": "The director was not available for comment. 발음듣기 소장은 논평을 해 줄 여유가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The director was not available for comment. 발음"
+    },
+    {
+      "korean": "I can afford it, but only just. 발음듣기 나는 그걸 살[할] 여유가 된다. 하지만 간신히 그럴 수 있을 정도이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I can afford it, but only just. 발음"
+    },
+    {
+      "korean": "Allow three clear days for the letter to arrive. 발음듣기 편지가 도착할 때까지는 온전히 3일의 여유를 두시오. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Allow three clear days for the letter to arrive. 발음"
+    }
+  ]
+}

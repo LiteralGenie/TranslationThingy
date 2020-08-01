@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "다르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(같지 않다) different (from/to), dissimilar (to); (구별되다) distinct (from)",
+        "(예사롭지 않다)",
+        "(그 밖의)"
+      ]
+    },
+    {
+      "phrase": "다름 아닌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "none other than"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "differences in kind rather than in degree",
+      "frequency": 0
+    },
+    {
+      "meaning": "vary",
+      "frequency": 2
+    },
+    {
+      "meaning": "differ",
+      "frequency": 1
+    },
+    {
+      "meaning": "disagree",
+      "frequency": 2
+    },
+    {
+      "meaning": "unlike",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 왜 다른지 알아? Do you know why this is different? 듣기 View video KIM JAEJOONG : [J_STAGE] 꿀VoIce 재중이가 알려주는 떼창 꿀TIP🌟ㅣ김재중(KimJaeJoong)",
+      "english": "Do you know why this is different?"
+    },
+    {
+      "korean": "어떻게 이렇게 다른지. They are so different. 듣기 View video CHOON (춘) entertainment : [사부작 공작소] 꼬물꼬물 만들어 볼까요?",
+      "english": "They are so different."
+    },
+    {
+      "korean": "어제랑 뭐가 다른지. I can't see any difference from yesterday. 듣기 View video Show! Music core : 쇼! 음악중심 '5분 딜레이~' Show! Music core",
+      "english": "I can't see any difference from yesterday."
+    },
+    {
+      "korean": "뭐가 다른지 모르겠어, 나 진짜로. I can't tell the difference. 듣기 View video GOT7 : 덩어리❤",
+      "english": "I can't tell the difference."
+    },
+    {
+      "korean": "뭐가 다른지. 첫 번째 거요. Find the difference. This is the first one. 듣기 View video INFINITE : 우현이내게오나봐 잘사람자라디오",
+      "english": "Find the difference. This is the first one."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You should write about how you came to this country and how life is different in your home country. 발음듣기 어떻게 이곳에 오게 되었고 고향에서의 삶과 어떻게 다른지 쓰셔야 합니다. YBM All in All English-Korean Dictionary",
+      "english": "You should write about how you came to this country and how life is different in your home country. 발음"
+    },
+    {
+      "korean": "They also wanted to see if the answers were different for each country. 발음듣기 그들은 또한 그 답들이 각 나라에 있어서 다른지를 알고 싶었다. Neungyule",
+      "english": "They also wanted to see if the answers were different for each country. 발음"
+    },
+    {
+      "korean": "Now let’s look at two pictures and talk about how they feel different. 발음듣기 이제 두 그림을 보면서 어떻게 느낌이 다른지 이야기해 봐요. YBM All in All English-Korean Dictionary",
+      "english": "Now let’s look at two pictures and talk about how they feel different. 발음"
+    },
+    {
+      "korean": "Studying abroad is a wonderful way to make contacts in other countries and to understand how foreign economies and politics are different from your own. 발음듣기 해외 유학은, 다른 나라에서 사람들을 사귀고(문화를 접하고), 외국의 경제와 정책이 우리와 어떻게 다른지를 알 수 있는 아주 좋은 방법이다. Neungyule",
+      "english": "Studying abroad is a wonderful way to make contacts in other countries and to understand how foreign economies and politics are different from your own. 발음"
+    },
+    {
+      "korean": "Pyongyang, for instance, could explain about the exact locations of the submarines in question and how its torpedoes are different from the one Seoul presented as evidence. 발음듣기 예를 들면 북한은 공격에 사용되었을 것으로 추정되는 잠수함의 정확한 위치를 공개하며, 보유하고 있는 어뢰가 남한 측이 증거로 내놓은 것과 어떻게 다른지 설명할 수 있어야 한다. Neungyule",
+      "english": "Pyongyang, for instance, could explain about the exact locations of the submarines in question and how its torpedoes are different from the one Seoul presented as evidence. 발음"
+    }
+  ]
+}

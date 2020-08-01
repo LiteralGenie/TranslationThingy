@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(유감스럽다) sorry (that)",
+        "(얼굴이 상하다) thin, gaunt"
+      ]
+    },
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb fail, not go well, be unlucky (↔잘되다)",
+        "Verb be unsuccessful, not make it (↔잘되다)",
+        "Verb be at least (↔잘되다)"
+      ]
+    },
+    {
+      "phrase": "안 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(금지) must not, should not (do), ought not to ((do))(해서는 안 되다), shall not(안 시키다), don't(하지 마라), be forbidden[prohibi...",
+        "(필요·의무) must, have (got) to(않으면 안 되다), need(필요가 있다), be required to(요구되다)",
+        "(예방)"
+      ]
+    },
+    {
+      "phrase": "이건 정말 말도 안되지 않아?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Isn't this ridiculous?"
+      ]
+    },
+    {
+      "phrase": "안되면 조상[산소] 탓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blaming [the graves of] one's ancestors when things are not going well"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sorry",
+      "frequency": 3
+    },
+    {
+      "meaning": "no dice",
+      "frequency": 0
+    },
+    {
+      "meaning": "pity",
+      "frequency": 3
+    },
+    {
+      "meaning": "come off it",
+      "frequency": 0
+    },
+    {
+      "meaning": "hard luck/lines",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "안 되지? It's not working, is it? 듣기 View video Stray Kids : 스테이를 위한 향수 만들기🖤",
+      "english": "It's not working, is it?"
+    },
+    {
+      "korean": "안 되지. Of course, not. 듣기 View video V PICK! : [DIA] 비오는 날에도 얌순이들은 참지 않긔🌧️ (DIA’s V after their Dream concert stage)",
+      "english": "Of course, not."
+    },
+    {
+      "korean": "왜 안 되지? Why won't it work? 듣기 View video V PICK! : [BTS] 공공칠빵 소시지빵은 가라 호석오빵의 시대가 왔노라니,,🍞 (HAPPY J-HOPE DAY+1!)",
+      "english": "Why won't it work?"
+    },
+    {
+      "korean": "민현아 실례인 줄 알면 하면 안 되지 - 그렇지 그렇지 내가 왔지 그래서 - 그래~ Minhyun, you shouldn't do it if you know it's going to be excused. - Right right! - Yeah... 듣기 View video NU'EST : [NU’EST] 🍫🍫🍫🍫🍫",
+      "english": "Minhyun, you shouldn't do it if you know it's going to be excused. - Right right! - Yeah..."
+    },
+    {
+      "korean": "왜 소화가 안 되지? Why is it so hard to digest? 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "Why is it so hard to digest?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Why isn't the heat working? 듣기 Add to Wordbook 왜 난방이 안 되지? Neungyule",
+      "english": "Why isn't the heat working? Add to Wordbook"
+    },
+    {
+      "korean": "How come there's no heat? 듣기 Add to Wordbook 왜 난방이 안 되지? Neungyule",
+      "english": "How come there's no heat? Add to Wordbook"
+    },
+    {
+      "korean": "Why isn't the copier working? 듣기 Add to Wordbook 복사기가 왜 안 되지? YBM All in All English-Korean Dictionary",
+      "english": "Why isn't the copier working? Add to Wordbook"
+    },
+    {
+      "korean": "Come, come, you shouldn't speak like that! 듣기 Add to Wordbook 이봐, 이봐, 그렇게 말하면 안 되지! Friendict Level English-Korean Dictionary",
+      "english": "Come, come, you shouldn't speak like that! Add to Wordbook"
+    },
+    {
+      "korean": "You cannot leave now, at the material time. 듣기 Add to Wordbook 이런 중요한 시기에 떠나면 안되지. YBM All in All English-Korean Dictionary",
+      "english": "You cannot leave now, at the material time. Add to Wordbook"
+    }
+  ]
+}

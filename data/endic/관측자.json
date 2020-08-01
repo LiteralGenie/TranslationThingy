@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "관측자",
+      "hanja": " (觀測者)",
+      "example": {},
+      "meanings": [
+        "an observer"
+      ]
+    },
+    {
+      "phrase": "대공관측자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 air observer (AO)"
+      ]
+    },
+    {
+      "phrase": "기상관측자",
+      "hanja": " (氣象觀測者)",
+      "example": {},
+      "meanings": [
+        "군사 weather observer"
+      ]
+    },
+    {
+      "phrase": "항공관측자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 air[aerial] observer"
+      ]
+    },
+    {
+      "phrase": "관측자훈련",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 observer training (OBT)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "observer",
+      "frequency": 3
+    },
+    {
+      "meaning": "Doppler effect",
+      "frequency": 0
+    },
+    {
+      "meaning": "wishful thinker",
+      "frequency": 0
+    },
+    {
+      "meaning": "moonwatcher",
+      "frequency": 0
+    },
+    {
+      "meaning": "Piccard",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Observers cited a lack of coordination as the key reason for the debacle. 듣기 Add to Wordbook 관측자들은 실패의 주요 원인으로 협조 부족을 들었다. YBM All in All English-Korean Dictionary",
+      "english": "Observers cited a lack of coordination as the key reason for the debacle. Add to Wordbook"
+    },
+    {
+      "korean": "But critics say that the policy discriminates against foreigners as Koreans don't have to go through the process. 듣기 Add to Wordbook 하지만 관측자들이 지적하듯이, 한국의 인터넷 성공은 국경 대부에서만(한국에서만) 이루어지고 있다. Neungyule",
+      "english": "But critics say that the policy discriminates against foreigners as Koreans don't have to go through the process. Add to Wordbook"
+    },
+    {
+      "korean": "Observers say the 1990's will be a time of struggle over gay rights. 듣기 Add to Wordbook 관측자들은 1990년대가 동성애 권리를 위한 투쟁의 시기가 될 거라고 내다보고 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "Observers say the 1990's will be a time of struggle over gay rights. Add to Wordbook"
+    },
+    {
+      "korean": "Some observers have responded to Lee's push for fairness sarcastically, as many people are still suspicious of the privileged class. 듣기 Add to Wordbook 아직 많은 이들이 특권층에 대한 의혹을 버리지 못하고 있기 때문에, 일부 관측자들은 이명박 대통령의 공정한 사회를 위한 움직임을 비꼬고 있다. Neungyule",
+      "english": "Some observers have responded to Lee's push for fairness sarcastically, as many people are still suspicious of the privileged class. Add to Wordbook"
+    },
+    {
+      "korean": "Investors love clear signals, and those watching Europe got two of them last week. 듣기 Add to Wordbook 투자자들은 명확한 징후를 좋아하고 유럽 관측자들은 지난주 2개의 명확한 징후를 발견했다. YBM All in All English-Korean Dictionary",
+      "english": "Investors love clear signals, and those watching Europe got two of them last week. Add to Wordbook"
+    }
+  ]
+}

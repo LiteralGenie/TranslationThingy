@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "비밀",
+      "hanja": " (秘密)",
+      "example": {},
+      "meanings": [
+        "(숨겨야 할 일·내용) secret, confidence"
+      ]
+    },
+    {
+      "phrase": "비밀의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "secret",
+        "confidential",
+        "classified"
+      ]
+    },
+    {
+      "phrase": "비밀번호",
+      "hanja": " (秘密番號)",
+      "example": {},
+      "meanings": [
+        "password, PIN (number), personal identification number ((abb.)PIN)"
+      ]
+    },
+    {
+      "phrase": "비밀스럽다",
+      "hanja": " (祕密스럽다)",
+      "example": {},
+      "meanings": [
+        "secret",
+        "(밝혀지지 않은 내용·사실) secret"
+      ]
+    },
+    {
+      "phrase": "비밀로 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep secret[private, dark]",
+        "keep quiet",
+        "keep under wraps"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "confidence",
+      "frequency": 3
+    },
+    {
+      "meaning": "secret",
+      "frequency": 3
+    },
+    {
+      "meaning": "secrecy",
+      "frequency": 3
+    },
+    {
+      "meaning": "arcana",
+      "frequency": 0
+    },
+    {
+      "meaning": "confidentiality",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "비밀. It's a secret. 듣기 View video NU'EST : [NU'EST W] 망고 보고 힘내라구!!!🍋💪🏻",
+      "english": "It's a secret."
+    },
+    {
+      "korean": "비밀... It's a secret. 듣기 View video EXO : 안녕하세요 exo 카이입니다",
+      "english": "It's a secret."
+    },
+    {
+      "korean": "우리 러브와 뉴이스트만이 아는 비밀? A secret only between L.O.Λ.E and NU'EST? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "A secret only between L.O.Λ.E and NU'EST?"
+    },
+    {
+      "korean": "맞아요 우리 러브들과 뉴이스트만의 비밀? That's right. A secret only between L.O.Λ.E and NU'EST? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "That's right. A secret only between L.O.Λ.E and NU'EST?"
+    },
+    {
+      "korean": "비밀이라고요? It's a secret? 듣기 View video VICTON : 앨리스 안녕! 보고싶다 ❤️",
+      "english": "It's a secret?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the secret formula for the blending of the whisky 듣기 Add to Wordbook 위스키를 혼합하는 비밀 제조법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the secret formula for the blending of the whisky Add to Wordbook"
+    },
+    {
+      "korean": "He made no secret of his ambition. 듣기 Add to Wordbook 그는 자신의 야망을 전혀 비밀로 하지[감추지] 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He made no secret of his ambition. Add to Wordbook"
+    },
+    {
+      "korean": "The chairperson is chosen by secret ballot. 듣기 Add to Wordbook 의장은 비밀 무기명 투표로 선출된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The chairperson is chosen by secret ballot. Add to Wordbook"
+    },
+    {
+      "korean": "He vouchsafed to me certain family secrets. 듣기 Add to Wordbook 그가 나에게 가문의 비밀을 약간 말해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He vouchsafed to me certain family secrets. Add to Wordbook"
+    },
+    {
+      "korean": "He told me in the strictest confidence. 듣기 Add to Wordbook 그는 엄격히[절대적으로] 비밀로 하고 내게 말을 해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He told me in the strictest confidence. Add to Wordbook"
+    }
+  ]
+}

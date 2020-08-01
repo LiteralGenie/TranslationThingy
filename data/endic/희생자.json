@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "희생자",
+      "hanja": " (犧牲者)",
+      "example": {},
+      "meanings": [
+        "victim, (사상자) casualty"
+      ]
+    },
+    {
+      "phrase": "춘사의 희생자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the victims of the accident"
+      ]
+    },
+    {
+      "phrase": "다대한 희생자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a huge cost of life"
+      ]
+    },
+    {
+      "phrase": "전쟁의 희생자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a victim of war",
+        "a war victim"
+      ]
+    },
+    {
+      "phrase": "박해의 희생자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "victims of oppression"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prey",
+      "frequency": 1
+    },
+    {
+      "meaning": "receiving end",
+      "frequency": 0
+    },
+    {
+      "meaning": "The Victim",
+      "frequency": 0
+    },
+    {
+      "meaning": "victim",
+      "frequency": 2
+    },
+    {
+      "meaning": "a victim of circumstance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[다음 희생자] - 화음쪽 - 화엄? [Next victim] - harmony. - Har.. what? 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP66] 속보!! 인투잇 불협화음 단.독.공.개!!!",
+      "english": "[Next victim] - harmony. - Har.. what?"
+    },
+    {
+      "korean": "희생자가 없어요. There's no victim. 듣기 View video Amigo TV : 아미고tv I.O.I편 앙순이들의 미리 메리크리스마스 Ep.03 [3/3]",
+      "english": "There's no victim."
+    },
+    {
+      "korean": "희생자들은 말할 수 없어요. Victims can't say. 듣기 View video JTBC PLUS : [Replay][AmigoTV] Late night snack talk with I.O.I all together",
+      "english": "Victims can't say."
+    },
+    {
+      "korean": "[대박] 희생자가 없어요. [Awesome] There's no victim. 듣기 View video Amigo TV : 아미고tv I.O.I편 앙순이들의 미리 메리크리스마스 Ep.03 [3/3]",
+      "english": "[Awesome] There's no victim."
+    },
+    {
+      "korean": "희생자 분들 잠깐만 누워보실게요. Victims, please lie down. 듣기 View video JTBC PLUS : [Replay][AmigoTV] Late night snack talk with I.O.I all together",
+      "english": "Victims, please lie down."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a memorial to victims of the Holocaust 발음듣기 홀로코스트 희생자들을 위한 기념비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a memorial to victims of the Holocaust 발음"
+    },
+    {
+      "korean": "She was the innocent victim of an arson attack. 발음듣기 그녀는 방화 사건의 무고한 희생자였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was the innocent victim of an arson attack. 발음"
+    },
+    {
+      "korean": "Most of the victims were stifled by the fumes. 발음듣기 대부분의 희생자들은 연기에 질식되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of the victims were stifled by the fumes. 발음"
+    },
+    {
+      "korean": "The victim was clubbed to death with a baseball bat. 발음듣기 그 희생자는 야구 방망이에 맞아 죽었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The victim was clubbed to death with a baseball bat. 발음"
+    },
+    {
+      "korean": "All terrorist crime is detestable, whoever the victims. 발음듣기 희생자가 누구든 간에 모든 테러 범죄는 가증스러운 짓이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All terrorist crime is detestable, whoever the victims. 발음"
+    }
+  ]
+}

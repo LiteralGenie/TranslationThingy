@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기업",
+      "hanja": " (企業)",
+      "example": {},
+      "meanings": [
+        "business, enterprise, company, (법인) corporation"
+      ]
+    },
+    {
+      "phrase": "중소기업",
+      "hanja": " (中小企業)",
+      "example": {},
+      "meanings": [
+        "small businesses, small and medium-sized businesses[enterprises], smaller enterprises[businesses]"
+      ]
+    },
+    {
+      "phrase": "민간기업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "private enterprise[corporation, company]"
+      ]
+    },
+    {
+      "phrase": "부실기업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "insolvent enterprise, improperly-run enterprise"
+      ]
+    },
+    {
+      "phrase": "벤처기업",
+      "hanja": " (―企業)",
+      "example": {},
+      "meanings": [
+        "venture company, venture business"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "operation",
+      "frequency": 3
+    },
+    {
+      "meaning": "enterprise",
+      "frequency": 3
+    },
+    {
+      "meaning": "corporation",
+      "frequency": 3
+    },
+    {
+      "meaning": "pool 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "business entity",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[9만해...] 그리고 삼성전기 기업에 의해서 물가를...",
+      "english": "[Stop it] And Samsung subsidiaries..."
+    },
+    {
+      "korean": "너무 큰 기업 아니야?",
+      "english": "Isn't that such a big company?"
+    },
+    {
+      "korean": "좋은 기업이죠?",
+      "english": "It's a good company, right?"
+    },
+    {
+      "korean": "우리는 종합에너지 기업!",
+      "english": "We're a combined-energy business!"
+    },
+    {
+      "korean": "기업 가능 하신 거죠?",
+      "english": "It's possibly for it to become a company, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 기업 창립에 관한 기사들",
+      "english": "the articles of incorporation of the company"
+    },
+    {
+      "korean": "기업들은 시장에서 살아남을 수 있어야 한다.",
+      "english": "Companies must be able to survive in the marketplace."
+    },
+    {
+      "korean": "그 기업은 경쟁사들보다 완전한 우위를 확립했다.",
+      "english": "The company has established total supremacy over its rivals."
+    },
+    {
+      "korean": "그 기업은 이제 투자한 데 대한 보상을 거둬들이고 있다.",
+      "english": "The company is now reaping the rewards of their investments."
+    },
+    {
+      "korean": "최초의 그 기업에서 여러 개의 회사가 갈라져[분리되어] 나왔다.",
+      "english": "Several firms have splintered off from the original company."
+    }
+  ]
+}

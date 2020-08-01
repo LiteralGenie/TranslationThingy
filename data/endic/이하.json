@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "이하",
+      "hanja": " (以下)",
+      "example": {},
+      "meanings": [
+        "(기준보다 적거나 낮음)",
+        "(아래에서 말할 내용)",
+        "(누구를 비롯하여)"
+      ]
+    },
+    {
+      "phrase": "이하 동문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the same as above"
+      ]
+    },
+    {
+      "phrase": "기대 이하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be below expectations",
+        "fall short of expectations"
+      ]
+    },
+    {
+      "phrase": "영도 이하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "below zero"
+      ]
+    },
+    {
+      "phrase": "수준 이하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be below[lower than] average",
+        "do not reach the standard",
+        "be not up to par[standard]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hyp-",
+      "frequency": 0
+    },
+    {
+      "meaning": "sequentia",
+      "frequency": 0
+    },
+    {
+      "meaning": "not greater than",
+      "frequency": 0
+    },
+    {
+      "meaning": "subaural",
+      "frequency": 0
+    },
+    {
+      "meaning": "predicate",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이하 생략] 하트 머리를 하고 있는데 회식 자리에 가서 술을... With that hair, he was drinking at the dinner very much. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.17 늉이들의 Good Bye 2019 #1",
+      "english": "With that hair, he was drinking at the dinner very much."
+    },
+    {
+      "korean": "저는 같이 놀아주는 사람 그 이상 그 이하도 아닌가봐요. I guess I'm nothing more or less than someone that plays with her. 듣기 View video VICTON : 숩이 등장..! 앨리스 섭섭했어요?!😔",
+      "english": "I guess I'm nothing more or less than someone that plays with her."
+    },
+    {
+      "korean": "[남상효 씨 여기서 반칙 쓰다 걸리면 (이하 생략)] - 입 모양 - 탈락! [No cheating, Nam Sang Hyo!] - Mouthing. - Out! 듣기 View video LOVELYZ : '러블리즈 다이어리 시즌6' 6화 ('Lovelyz Diary Season 6' EP.6 )",
+      "english": "[No cheating, Nam Sang Hyo!] - Mouthing. - Out!"
+    },
+    {
+      "korean": "언니가 '널 사랑하지 않아' 했는데 0점 나왔는데 셋이서 '나쁜여자'했는데 60점 이하 나오면... Unnie sang \"I Don't Love You\" and got 0... If we get lower than 60 with \"Bad Girl.\" 듣기 View video V COOKIE : SINGING ROOM X LADIES' CODE - 코인노래방 X 레이디스 코드",
+      "english": "Unnie sang \"I Don't Love You\" and got 0... If we get lower than 60 with \"Bad Girl.\""
+    },
+    {
+      "korean": "[이하 동문333] 저도... [Same] Me, too. 듣기 View video YG 보석함 (YG TREASURE BOX) : YG보석함 l YG TREASURE DIARY CAM #2",
+      "english": "[Same] Me, too."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Many families are living below the level of subsistence. 듣기 Add to Wordbook 많은 가정들이 최저 생활수준 이하로 살아가고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many families are living below the level of subsistence. Add to Wordbook"
+    },
+    {
+      "korean": "to live below (the) subsistence level 듣기 Add to Wordbook 최저 생활수준 이하로 살다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to live below (the) subsistence level Add to Wordbook"
+    },
+    {
+      "korean": "The law prevented the employment of children under ten in the cotton mills. 듣기 Add to Wordbook 방적 공장에서 10세 이하 아동을 고용하는 것은 법으로 금지되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The law prevented the employment of children under ten in the cotton mills. Add to Wordbook"
+    },
+    {
+      "korean": "Two thousand—and that’s my bottom line! 듣기 Add to Wordbook 2 000요. 그 이하는 안 돼요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Two thousand—and that’s my bottom line! Add to Wordbook"
+    },
+    {
+      "korean": "They were living in subhuman conditions. 듣기 Add to Wordbook 그들은 인간 이하의 환경에서 살고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were living in subhuman conditions. Add to Wordbook"
+    }
+  ]
+}

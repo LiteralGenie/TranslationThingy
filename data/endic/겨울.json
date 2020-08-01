@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "겨울",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "winter"
+      ]
+    },
+    {
+      "phrase": "겨울의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "winter",
+        "wintry"
+      ]
+    },
+    {
+      "phrase": "겨울을 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get through winter"
+      ]
+    },
+    {
+      "phrase": "따뜻한 겨울",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a soft[mild, green] winter"
+      ]
+    },
+    {
+      "phrase": "겨울 바다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the winter sea"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "winter",
+      "frequency": 2
+    },
+    {
+      "meaning": "Winter, Charlevoix County",
+      "frequency": 0
+    },
+    {
+      "meaning": "Mornington Crescent, Winter",
+      "frequency": 0
+    },
+    {
+      "meaning": "wintry",
+      "frequency": 1
+    },
+    {
+      "meaning": "철새 도래지",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[촬영 당시 추운 겨울] 겨울철이잖아요? It's the winter time, right? 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK in USA EP10",
+      "english": "It's the winter time, right?"
+    },
+    {
+      "korean": "겨울에는 비 안 와? Doesn't it rain in winter? 듣기 View video NCT : 🐭🐬잠깐",
+      "english": "Doesn't it rain in winter?"
+    },
+    {
+      "korean": "아니 겨울에 눈 안 오고 비만 와 많이! No, it can just be rainy instead of snowy in winter! 듣기 View video NCT : 🐭🐬잠깐",
+      "english": "No, it can just be rainy instead of snowy in winter!"
+    },
+    {
+      "korean": "야 비 와도 눈이 안 올 수도 있어 겨울에 - 진짜? It can be rainy instead of snowy in winter. - Really? 듣기 View video NCT : 🐭🐬잠깐",
+      "english": "It can be rainy instead of snowy in winter. - Really?"
+    },
+    {
+      "korean": "겨울에... 아악! This winter, argh! 듣기 View video V PICK! : [THE BOYZ] 치즈 콜렉터 째짜니 모짜렐라 치즈로 돌돌말아 둥가둥가 해버려🧀 (NEW eating cheese tteokbokki set)",
+      "english": "This winter, argh!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He spends all winter on the slopes. 발음듣기 그는 겨울 내내 스키장에서 산다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He spends all winter on the slopes. 발음"
+    },
+    {
+      "korean": "Birds feed on nuts and berries in the winter. 발음듣기 새들이 겨울에는 견과류와 산딸기류를 먹고 산다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Birds feed on nuts and berries in the winter. 발음"
+    },
+    {
+      "korean": "People suffered many hardships during that long winter. 발음듣기 사람들은 그 긴 겨울 동안 많은 곤란을 겪었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "People suffered many hardships during that long winter. 발음"
+    },
+    {
+      "korean": "During the winter the seeds lie dormant in the soil. 발음듣기 겨울 동안에는 씨앗들이 성장을 하지 않고 흙 속에 그대로 있는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "During the winter the seeds lie dormant in the soil. 발음"
+    },
+    {
+      "korean": "We get heavy fogs on this coast in winter. 발음듣기 겨울에는 이쪽 해안에 안개가 많이 낀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We get heavy fogs on this coast in winter. 발음"
+    }
+  ]
+}

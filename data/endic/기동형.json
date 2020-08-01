@@ -1,0 +1,48 @@
+{
+  "phrases": [
+    {
+      "phrase": "반발기동형 유도전동기",
+      "hanja": " (反撥起動形誘導電動機)",
+      "example": {},
+      "meanings": [
+        "Noun 광물용어 repulsion start type induction motor"
+      ]
+    },
+    {
+      "phrase": "기동",
+      "hanja": " (機動)",
+      "example": {},
+      "meanings": [
+        "maneuver"
+      ]
+    },
+    {
+      "phrase": "기동(하다)",
+      "hanja": " (機動 ~)",
+      "example": {},
+      "meanings": [
+        "군사 maneuver"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "inner automorphism",
+      "frequency": 0
+    },
+    {
+      "meaning": "repulsion start type induction motor",
+      "frequency": 0
+    },
+    {
+      "meaning": "Outer automorphism group",
+      "frequency": 0
+    },
+    {
+      "meaning": "Mobile Surveillance Robot",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

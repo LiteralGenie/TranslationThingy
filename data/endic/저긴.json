@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "저기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(저쪽) (over) there, that place",
+        "(말을 꺼낼 때) say, well, um"
+      ]
+    },
+    {
+      "phrase": "저기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection um, uh, erm",
+        "Interjection um, uh, erm"
+      ]
+    },
+    {
+      "phrase": "저기에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "there",
+        "over[up, down] there",
+        "yonder"
+      ]
+    },
+    {
+      "phrase": "저기까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "there",
+        "as far as there"
+      ]
+    },
+    {
+      "phrase": "저기 좀 봐요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Look over there."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "yonder",
+      "frequency": 1
+    },
+    {
+      "meaning": "Hello, there!",
+      "frequency": 0
+    },
+    {
+      "meaning": "psst",
+      "frequency": 0
+    },
+    {
+      "meaning": "here, there and everywhere",
+      "frequency": 0
+    },
+    {
+      "meaning": "That's Peter over there.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저긴 없는데? It's not over there? 듣기 View video 전소미 : 소미 돌잔치",
+      "english": "It's not over there?"
+    },
+    {
+      "korean": "여긴 낮인데 왜 저긴 밤이야? Why is it at night while we're in daytime? 듣기 View video 컨스TV : 웹드라마 [기적 소녀 4화] 절대 뒤돌아 보지마!",
+      "english": "Why is it at night while we're in daytime?"
+    },
+    {
+      "korean": "저긴 다 맞죠? Didn't everyone get that right? 듣기 View video PENTAGON : [펜타곤 교과서 시즌5] EP. 1 - 발표 시간",
+      "english": "Didn't everyone get that right?"
+    },
+    {
+      "korean": "[저긴 뭐지?] 저기도 있어요? [What's that?] Did you hid a card even there? 듣기 View video BTS : Run BTS! 2019 - EP.79",
+      "english": "[What's that?] Did you hid a card even there?"
+    },
+    {
+      "korean": "저기는 미국이랍니다 여러분들 - 저긴 미국이에요? Everyone, it's the States over there. - It's the US over there? 듣기 View video BTS : Run BTS! 2019 - EP.69",
+      "english": "Everyone, it's the States over there. - It's the US over there?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There is no difference at all there. 발음듣기 저긴 다늘점이 하나도 없다. User translation Inaccurate information may be included due to the users' self-traslation. talkdkim(talk****) Hansard",
+      "english": "There is no difference at all there. 발음"
+    },
+    {
+      "korean": "And there's always money in land. 발음듣기 그리고 저긴 땅 자체가 돈이야. User translation Inaccurate information may be included due to the users' self-traslation. BS(smam****) Web Collection",
+      "english": "And there's always money in land. 발음"
+    },
+    {
+      "korean": "That's the last place I want to be. 발음듣기 저긴 진짜 있기 싫다 User translation Inaccurate information may be included due to the users' self-traslation. 쥬쥬(cers****) Web Collection",
+      "english": "That's the last place I want to be. 발음"
+    },
+    {
+      "korean": "Look, man, that's it, there isn't. 발음듣기 봐봐, 저게 끝이야 저긴 아니야(없어) User translation Inaccurate information may be included due to the users' self-traslation. 굴비포(gulb****) Web Collection",
+      "english": "Look, man, that's it, there isn't. 발음"
+    },
+    {
+      "korean": "That's the last place I'd ever want to be. 발음듣기 저긴 정말로 가기 싫어 User translation Inaccurate information may be included due to the users' self-traslation. 쥬쥬(cers****) Web Collection",
+      "english": "That's the last place I'd ever want to be. 발음"
+    }
+  ]
+}

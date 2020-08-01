@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "밤",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(열매) chestnut"
+      ]
+    },
+    {
+      "phrase": "밤",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "night, nighttime, evening"
+      ]
+    },
+    {
+      "phrase": "낮[밤] 당번",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a day[night] shift"
+      ]
+    },
+    {
+      "phrase": "bomb",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 폭탄 (→dirty bomb)",
+        "Noun 핵폭탄",
+        "Verb 폭탄으로 공격하다, 폭격하다"
+      ]
+    },
+    {
+      "phrase": "balm",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (식물에서 채취하는 상처 치료용) 향유",
+        "Noun (상처 치료나 피부 순화를 위한) 연고[크림]",
+        "Noun 문예체 위안[아늑함](을 안겨 주는 것)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "night",
+      "frequency": 3
+    },
+    {
+      "meaning": "evening",
+      "frequency": 3
+    },
+    {
+      "meaning": "chestnut",
+      "frequency": 3
+    },
+    {
+      "meaning": "eventide",
+      "frequency": 0
+    },
+    {
+      "meaning": "vesper",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"아직 밤이잖아?!\" \"But it's still night time\"?! 듣기 View video V PICK! : [VPICK! 주접특강] 마마무 문별 영역🐹 (MOONBYUL reading lovely comments)",
+      "english": "\"But it's still night time\"?!"
+    },
+    {
+      "korean": "밤 라테 - 밤 라테 있어요? Chestnut latte. - Is there chestnut latte? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "Chestnut latte. - Is there chestnut latte?"
+    },
+    {
+      "korean": "신나는 월요일 불타는 이 밤! Monday is exciting. Tonight is on fire! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "Monday is exciting. Tonight is on fire!"
+    },
+    {
+      "korean": "근데 밤에 이따가 밥 못 먹겠지? But then I can't eat later at night, right? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "But then I can't eat later at night, right?"
+    },
+    {
+      "korean": "[밤 샐 기세(?)라 치킨&삼겹살 2가지 힌트 제공] 예담! [Giving 2 hints: Fried chicken and grilled pork belly meat] YE DAM! 듣기 View video TREASURE (트레저) : TREASURE - [T.M.I] EP.4",
+      "english": "[Giving 2 hints: Fried chicken and grilled pork belly meat] YE DAM!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The dog was chained up for the night. 듣기 Add to Wordbook 밤에는 개를 묶어 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dog was chained up for the night. Add to Wordbook"
+    },
+    {
+      "korean": "The terrors of the night were past. 듣기 Add to Wordbook 밤의 공포는 다 지난 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The terrors of the night were past. Add to Wordbook"
+    },
+    {
+      "korean": "He spent all night at the gaming tables. 듣기 Add to Wordbook 그는 노름판에서 밤을 샜다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He spent all night at the gaming tables. Add to Wordbook"
+    },
+    {
+      "korean": "New York buzzes from dawn to dusk. 듣기 Add to Wordbook 뉴욕은 새벽부터 밤까지 활기가 넘친다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "New York buzzes from dawn to dusk. Add to Wordbook"
+    },
+    {
+      "korean": "He works at night and sleeps during the day. 듣기 Add to Wordbook 그는 밤에 일하고 낮에 잔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He works at night and sleeps during the day. Add to Wordbook"
+    }
+  ]
+}

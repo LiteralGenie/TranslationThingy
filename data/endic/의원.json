@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "의원",
+      "hanja": " (議員)",
+      "example": {},
+      "meanings": [
+        "(국회·지방의회 등의) member of a legislative body[assembly], (Am) assemblyman, assemblywoman, congressman, congresswoman, (Brit) Member of Parliament ((abb.)MP)"
+      ]
+    },
+    {
+      "phrase": "의원",
+      "hanja": " (醫院)",
+      "example": {},
+      "meanings": [
+        "(병원) clinic"
+      ]
+    },
+    {
+      "phrase": "의원",
+      "hanja": " (醫員)",
+      "example": {},
+      "meanings": [
+        "(의사) doctor ((abb.)Dr.), (S) doc; (일반 개업의) general practitioner ((abb.)GP); (전문의) specialist; (내과의) physician; (외과의) surgeon"
+      ]
+    },
+    {
+      "phrase": "국회의원",
+      "hanja": " (國會議員)",
+      "example": {},
+      "meanings": [
+        "(한국의) member of the National Assembly; (미국의) member of Congress, Congressperson; (영국의) member of Parliament ((abb.)MP)"
+      ]
+    },
+    {
+      "phrase": "상원 의원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "member of the upper house, (Am) senator, (Brit) member of the House of Lords"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "member",
+      "frequency": 2
+    },
+    {
+      "meaning": "deputy",
+      "frequency": 1
+    },
+    {
+      "meaning": "floor",
+      "frequency": 2
+    },
+    {
+      "meaning": "councilor",
+      "frequency": 1
+    },
+    {
+      "meaning": "councillor",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "국회의원인데 - 영화배우 하셨던 그 유명한... He's a senator. - He was a famous actor. 듣기 View video AB6IX : 메리 영민스마스🎅🎅❤",
+      "english": "He's a senator. - He was a famous actor."
+    },
+    {
+      "korean": "그 국회의원인데 배우하셨던 분의 하는 거 뭐지? Do you know this actor, who became a senator later? 듣기 View video AB6IX : 메리 영민스마스🎅🎅❤",
+      "english": "Do you know this actor, who became a senator later?"
+    },
+    {
+      "korean": "그 '터미네이터' 나오셨던 분이 국회의원 하지 않으셨나? - '터미네이터'가 한국 영화예요? He was on \"Terminator\" and became a senator. - Is it a Korean movie? 듣기 View video AB6IX : 메리 영민스마스🎅🎅❤",
+      "english": "He was on \"Terminator\" and became a senator. - Is it a Korean movie?"
+    },
+    {
+      "korean": "역시! 의원들이 아주... Wow! Very confident. 듣기 View video MBC 예능 : [마리텔V2] 제작발표회 라이브!",
+      "english": "Wow! Very confident."
+    },
+    {
+      "korean": "혹시 국회의원이에요? Are you a national assembly member? 듣기 View video 셀럽티비(CELUV.TV) : [I'm Celuv] Stray Kids(현진,승민,한,필릭스,아이엔), 패기 넘치는 소년들의 열정으로 (Celuv.TV)",
+      "english": "Are you a national assembly member?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the senator’s sponsorship of the job training legislation 발음듣기 그 상원의원의 취업 교육 법안 발의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the senator’s sponsorship of the job training legislation 발음"
+    },
+    {
+      "korean": "The senator pondered the question for a moment. 발음듣기 상원의원이 그 질문을 잠시 곰곰이 생각했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The senator pondered the question for a moment. 발음"
+    },
+    {
+      "korean": "The senator gave his standard stump speech. 발음듣기 그 상원 의원은 그의 모범적인 유세 연설을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The senator gave his standard stump speech. 발음"
+    },
+    {
+      "korean": "Talk to your local councillor about the problem. 발음듣기 지역 의회 의원님과 그 문제를 상의해 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Talk to your local councillor about the problem. 발음"
+    },
+    {
+      "korean": "She openly flaunted her affair with the senator. 발음듣기 그녀는 그 상원의원과의 불륜을 공공연히 과시했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She openly flaunted her affair with the senator. 발음"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "표현하다",
+      "hanja": " (表現하다)",
+      "example": {},
+      "meanings": [
+        "Verb express, represent, manifest"
+      ]
+    },
+    {
+      "phrase": "표현",
+      "hanja": " (表現)",
+      "example": {},
+      "meanings": [
+        "[명사] expression, [동사] express, show, (말로) verbalize, articulate"
+      ]
+    },
+    {
+      "phrase": "관용 표현",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "idiomatic expression"
+      ]
+    },
+    {
+      "phrase": "진부한 표현",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a cliché",
+        "a stale[trite, hackneyed] expression"
+      ]
+    },
+    {
+      "phrase": "완곡한 표현",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a euphemism",
+        "a roundabout expression"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "express",
+      "frequency": 3
+    },
+    {
+      "meaning": "expression",
+      "frequency": 3
+    },
+    {
+      "meaning": "paraphrase",
+      "frequency": 3
+    },
+    {
+      "meaning": "눈감다",
+      "frequency": 0
+    },
+    {
+      "meaning": "서거하다",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그런 거를 이렇게 표현한 것 같아요 - 그런 걸 표현했다고요? And that scene describes it well. - You think it's for that? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "And that scene describes it well. - You think it's for that?"
+    },
+    {
+      "korean": "이거 뭘 표현한 건 줄 알아? - 뭔데? You know what it is? - What is that? 듣기 View video Dispatch : [ⓓxV] “도전! 셉마인드 ②” (세븐틴 : SEVENTEEN)",
+      "english": "You know what it is? - What is that?"
+    },
+    {
+      "korean": "[쿱스 그림 이해 완료] 약간 그렇게 표현한 거야? [He got what it means] Oh, I understand what you were thinking. 듣기 View video Dispatch : [ⓓxV] “도전! 셉마인드 ②” (세븐틴 : SEVENTEEN)",
+      "english": "[He got what it means] Oh, I understand what you were thinking."
+    },
+    {
+      "korean": "첫인상이 어땠는지랑 뭘 표현한 거죠? - 뭘 표현한 거죠? What did you express with how his first expression was? - What did you express? 듣기 View video ONEUS : [Full] ONEUS SPECIAL LIVE \"FLY WITH US\" 1부",
+      "english": "What did you express with how his first expression was? - What did you express?"
+    },
+    {
+      "korean": "아 이거 아기를 발로 표현한 거야? You're expressing an infant with the foot? 듣기 View video 모비딕(Mobidic) : 저세상 텐션 자랑하는 에나스쿨(ft.황신영)에게 참교육 당하는 장기영&김태원<유아인싸>9회",
+      "english": "You're expressing an infant with the foot?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the articulation of his theory 듣기 Add to Wordbook 그의 이론을 표현한 것 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the articulation of his theory Add to Wordbook"
+    },
+    {
+      "korean": "a carefully phrased remark 듣기 Add to Wordbook 조심스럽게 표현한 말 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a carefully phrased remark Add to Wordbook"
+    },
+    {
+      "korean": "Laughing is the sensation of feeling good all over and showing it principally in one spot. (Josh Billings) 듣기 Add to Wordbook 곳곳에서 느끼는 기분 좋은 감각을 주로 한 곳에서 표현한 것이 웃음이다. (조쉬 빌링스, 행복명언) 명언/속담",
+      "english": "Laughing is the sensation of feeling good all over and showing it principally in one spot. (Josh Billings) Add to Wordbook"
+    },
+    {
+      "korean": "a refusal couched in polite terms 듣기 Add to Wordbook 정중한 말로 표현한 거절. Friendict Level English-Korean Dictionary",
+      "english": "a refusal couched in polite terms Add to Wordbook"
+    },
+    {
+      "korean": "This statue is a representation of Hercules. 듣기 Add to Wordbook 이 조각상은 헤라클레스를 표현한 것이다. YBM All in All English-Korean Dictionary",
+      "english": "This statue is a representation of Hercules. Add to Wordbook"
+    }
+  ]
+}

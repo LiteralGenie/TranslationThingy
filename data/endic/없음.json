@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "없음",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 absence"
+      ]
+    },
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "이의 없음.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "No objection!"
+      ]
+    },
+    {
+      "phrase": "아무 조건 없음.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "No strings attached."
+      ]
+    },
+    {
+      "phrase": "자식이 없음을 한탄하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regret that one is childless"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "absence",
+      "frequency": 3
+    },
+    {
+      "meaning": "nothingness",
+      "frequency": 0
+    },
+    {
+      "meaning": "nit 5",
+      "frequency": 0
+    },
+    {
+      "meaning": "n/a",
+      "frequency": 0
+    },
+    {
+      "meaning": "weakness",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[관심 없음] 까미야! 까미야, 공! [Doesn't care] Ggami! Ggami! A ball! 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "[Doesn't care] Ggami! Ggami! A ball!"
+    },
+    {
+      "korean": "없음, 없지 않아요? - 있지 않아? Nothing. There isn't anything, is there? - I'm sure there's something. 듣기 View video OSEN : LOONA 이달의 소녀, 거침없는 TMI 대방출 #연습실챌린지 04",
+      "english": "Nothing. There isn't anything, is there? - I'm sure there's something."
+    },
+    {
+      "korean": "[어이 없음] 뭐야? [No word] What? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[No word] What?"
+    },
+    {
+      "korean": "[국물이 1도 없음] 야, 죽 아니야? [No soup at all] Is it porridge? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[No soup at all] Is it porridge?"
+    },
+    {
+      "korean": "[미니 게임엔 관심 없음] 내가 볼 때는 사이드를 뽑아버리면... [Not interested in the mini game] If you move the ones on the side... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "[Not interested in the mini game] If you move the ones on the side..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "No advance booking is necessary on most departures. 듣기 Add to Wordbook 대부분의 출발 편에 대해 사전 예약이 필요 없음. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No advance booking is necessary on most departures. Add to Wordbook"
+    },
+    {
+      "korean": "No advance booking is necessary. 듣기 Add to Wordbook 사전 예약은 필요 없음. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No advance booking is necessary. Add to Wordbook"
+    },
+    {
+      "korean": "No shoulder for next 5 miles. 듣기 Add to Wordbook 다음 5마일 동안은 갓길 없음. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No shoulder for next 5 miles. Add to Wordbook"
+    },
+    {
+      "korean": "No unaccompanied children allowed. 듣기 Add to Wordbook 동행자가 없는 아동은 입장할 수 없음. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "No unaccompanied children allowed. Add to Wordbook"
+    },
+    {
+      "korean": "He was emphatic that he could not work with her. 듣기 Add to Wordbook 그는 그녀와 함께 일할 수 없음을 분명히 강조했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was emphatic that he could not work with her. Add to Wordbook"
+    }
+  ]
+}

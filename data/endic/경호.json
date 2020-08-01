@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "경호",
+      "hanja": " (警護)",
+      "example": {},
+      "meanings": [
+        "[명사] guard, [동사] guard, escort"
+      ]
+    },
+    {
+      "phrase": "경호의 임무를 맡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "act as escort",
+        "be on guard"
+      ]
+    },
+    {
+      "phrase": "군대의 경호를 받고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "under convoy of troops"
+      ]
+    },
+    {
+      "phrase": "후미 경호",
+      "hanja": " (後尾警護)",
+      "example": {},
+      "meanings": [
+        "the rear guard"
+      ]
+    },
+    {
+      "phrase": "대통령경호실장",
+      "hanja": " (大統領警護室長)",
+      "example": {},
+      "meanings": [
+        "the Chief Officer of the Presidential Security."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "guard",
+      "frequency": 3
+    },
+    {
+      "meaning": "outrider",
+      "frequency": 0
+    },
+    {
+      "meaning": "act as escort",
+      "frequency": 0
+    },
+    {
+      "meaning": "under convoy of troops",
+      "frequency": 0
+    },
+    {
+      "meaning": "assign a person for a guard",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[경호 어디 가니?] [KYUNG HO where are you going?] View video World Klass (월드 클래스) : [3회] '무언의 감탄' <도원경> & '시간 순삭' 안무 공개!",
+      "english": "[KYUNG HO where are you going?]"
+    },
+    {
+      "korean": "경호 연습생 이게 어떤 글자예요? KYUNG HO, what is this? 듣기 View video World Klass (월드 클래스) : 첫방송 D-10 \"월드 클래스를 소개합니다!\" / Premiere D-10 \"Meet WORLD KLASS!\"",
+      "english": "KYUNG HO, what is this?"
+    },
+    {
+      "korean": "경호랑 찬이 한번 가볼까? KYUNG HO and CHAN, can you try? 듣기 View video World Klass (월드 클래스) : [1회] '내'가 아닌 '우리 모두'를 위한 노력으로 성장하는 예비 TOO 연습생들",
+      "english": "KYUNG HO and CHAN, can you try?"
+    },
+    {
+      "korean": "경호 왜 이렇게 귀여워? KYUNG HO, how come you're so cute? 듣기 View video World Klass (월드 클래스) : 🌏 보고싶어서 왔클! 4인실 + 2인실 🌏",
+      "english": "KYUNG HO, how come you're so cute?"
+    },
+    {
+      "korean": "우리 경호 연습생의 매력이 뭐예요? What's the charm of Kyungho? 듣기 View video World Klass (월드 클래스) : [Full] <월드 클래스> 첫방송 카운트다운 라이브 / Countdown Live",
+      "english": "What's the charm of Kyungho?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She left the courtroom flanked by armed guards. 듣기 Add to Wordbook 그녀는 양 옆으로 무장 경호원들의 호위를 받으며 법정을 떠났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She left the courtroom flanked by armed guards. Add to Wordbook"
+    },
+    {
+      "korean": "a star surrounded by her minders 듣기 Add to Wordbook 경호원들에게 둘러싸여 있는 스타 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a star surrounded by her minders Add to Wordbook"
+    },
+    {
+      "korean": "He started work as a security guard. 듣기 Add to Wordbook 그는 경호원으로 일[직장 생활]을 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He started work as a security guard. Add to Wordbook"
+    },
+    {
+      "korean": "Armed guards wrestled with the intruder. 듣기 Add to Wordbook 무장 경호원들이 침입자와 맞붙어 싸웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Armed guards wrestled with the intruder. Add to Wordbook"
+    },
+    {
+      "korean": "The President’s bodyguard is / are armed. 듣기 Add to Wordbook 대통령 경호원들은 무장을 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The President’s bodyguard is / are armed. Add to Wordbook"
+    }
+  ]
+}

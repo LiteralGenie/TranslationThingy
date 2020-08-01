@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "산업체",
+      "hanja": " (産業體)",
+      "example": {},
+      "meanings": [
+        "business, industry"
+      ]
+    },
+    {
+      "phrase": "방위 산업체",
+      "hanja": " (防衛産業體)",
+      "example": {},
+      "meanings": [
+        "Munitions Company"
+      ]
+    },
+    {
+      "phrase": "방위 산업체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "defense industry"
+      ]
+    },
+    {
+      "phrase": "산업체 공장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "factory of industry"
+      ]
+    },
+    {
+      "phrase": "의류 산업체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "clothes industry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "collectivize",
+      "frequency": 0
+    },
+    {
+      "meaning": "Silicon Valley",
+      "frequency": 0
+    },
+    {
+      "meaning": "an attempt to green industry bosses",
+      "frequency": 0
+    },
+    {
+      "meaning": "Pentagon blues",
+      "frequency": 0
+    },
+    {
+      "meaning": "industrial sabotage",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The government was in the process of dismantling the state-owned industries. 발음듣기 정부에서는 국영 산업체들에 대한 해체 절차를 밟고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government was in the process of dismantling the state-owned industries. 발음"
+    },
+    {
+      "korean": "a plea to industries to stop pollution 발음듣기 산업체들에 대한 공해 중단 간청 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a plea to industries to stop pollution 발음"
+    },
+    {
+      "korean": "an attempt to green industry bosses 발음듣기 산업체 사장들을 환경 문제에 관심을 갖게 만들려는 시도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an attempt to green industry bosses 발음"
+    },
+    {
+      "korean": "Each year two teachers are seconded to industry for six months. 발음듣기 매년 두 명의 교사가 6개월간 산업체로 파견 근무를 나간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Each year two teachers are seconded to industry for six months. 발음"
+    },
+    {
+      "korean": "Industries had to adjust to peacetime conditions; factories had to be retooled for civilian needs. 발음듣기 산업체들은 평화시의 상태로 조정되어야 했고, 공장들은 민간의 요구에 맞춰서 재정비되어야 했다. Neungyule",
+      "english": "Industries had to adjust to peacetime conditions; factories had to be retooled for civilian needs. 발음"
+    }
+  ]
+}

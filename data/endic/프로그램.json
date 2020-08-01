@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "프로그램",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(텔레비전·라디오 등의) show, (Am) program, (Brit) programme",
+        "(계획·교육 등의) program",
+        "(컴퓨터) program"
+      ]
+    },
+    {
+      "phrase": "programme ( program )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (업무 수행전개를 위한) 계획[프로그램]",
+        "Noun (라디오텔레비전의) 프로[프로그램]",
+        "Verb (특히 일련의 계획된 일의 일부로) 계획하다"
+      ]
+    },
+    {
+      "phrase": "program",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 컴퓨터 프로그램",
+        "Noun 美 (=programme)",
+        "Verb 컴퓨터 프로그램을 짜다[설정하다] (→programme)"
+      ]
+    },
+    {
+      "phrase": "프로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "show, (Am) program, (Brit) programme"
+      ]
+    },
+    {
+      "phrase": "응용프로그램",
+      "hanja": " (應用program)",
+      "example": {},
+      "meanings": [
+        "application program"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "programme",
+      "frequency": 2
+    },
+    {
+      "meaning": "bill",
+      "frequency": 2
+    },
+    {
+      "meaning": "program",
+      "frequency": 2
+    },
+    {
+      "meaning": "magazine",
+      "frequency": 2
+    },
+    {
+      "meaning": "show",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "꿀FM 라디오국의 파일럿 프로그램 R.A.D.I.O와 지진정 DJ가 진행하는 라디오 어떠신가요? What do you think about Honey FM radio station's pilot program hosted by DJ Ji-Jin-Jung? 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "What do you think about Honey FM radio station's pilot program hosted by DJ Ji-Jin-Jung?"
+    },
+    {
+      "korean": "재밌게 본 프로.. 프로그램? A program I enjoyed? 듣기 View video GOT7 : 긋밤☕️",
+      "english": "A program I enjoyed?"
+    },
+    {
+      "korean": "저희 프로그램 없어지는 거 아닐까요...? will our show be cancelled? 듣기 View video 콬TV (WHYNOT) : 한 번 진상은 영원한 진상이다 [가두리횟집] EP06",
+      "english": "will our show be cancelled?"
+    },
+    {
+      "korean": "어떻게 우리 프로그램들은 좀 다 봤나? So, did you watch any of our shows? 듣기 View video 콬TV (WHYNOT) : 한 번 진상은 영원한 진상이다 [가두리횟집] EP06",
+      "english": "So, did you watch any of our shows?"
+    },
+    {
+      "korean": "켓치가 좋아하는 TV 프로그램 뭐예요? What TV programs do you like, Ketchy? 듣기 View video V COOKIE : [Full] Rocket Punch X CouchTalk - 로켓펀치 X 카우치토크",
+      "english": "What TV programs do you like, Ketchy?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The programme is angled towards younger viewers. 발음듣기 그 프로그램은 젊은 시청자들에게 눈높이를 맞추고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The programme is angled towards younger viewers. 발음"
+    },
+    {
+      "korean": "The company is steaming ahead with its investment programme. 발음듣기 그 회사는 투자 프로그램을 빠르게 진척시켜 나가고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company is steaming ahead with its investment programme. 발음"
+    },
+    {
+      "korean": "a horror double bill 발음듣기 공포 영화 두 편 동시 상영 프로그램 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a horror double bill 발음"
+    },
+    {
+      "korean": "The programme spotlights financial problems in the health service. 발음듣기 그 프로그램은 의료 서비스의 재정 문제를 집중 조명하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The programme spotlights financial problems in the health service. 발음"
+    },
+    {
+      "korean": "the 9 o’clock watershed 발음듣기 텔레비전 프로그램 방송 경계선인 9시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the 9 o’clock watershed 발음"
+    }
+  ]
+}

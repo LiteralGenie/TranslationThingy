@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "용기",
+      "hanja": " (勇氣)",
+      "example": {},
+      "meanings": [
+        "courage, nerve, (informal) guts, (Am, inf) spunk, (용기 있는 행동) bravery"
+      ]
+    },
+    {
+      "phrase": "용기",
+      "hanja": " (容器)",
+      "example": {},
+      "meanings": [
+        "(그릇) container"
+      ]
+    },
+    {
+      "phrase": "밀폐 용기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "airtight container"
+      ]
+    },
+    {
+      "phrase": "용기 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "courageous",
+        "brave",
+        "have courage"
+      ]
+    },
+    {
+      "phrase": "용기를 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pluck[summon, screw, muster] up one's courage",
+        "take[collect] courage[heart]",
+        "get up one's[the] nerve (to do)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bath",
+      "frequency": 3
+    },
+    {
+      "meaning": "bottle",
+      "frequency": 3
+    },
+    {
+      "meaning": "courage",
+      "frequency": 3
+    },
+    {
+      "meaning": "nerve",
+      "frequency": 3
+    },
+    {
+      "meaning": "case",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "용기... about being brave. 듣기 View video 플레이리스트 (Playlist) : [연애포차 시즌1] - 연애마스터 특강 - 그래서 헌팅포차에서는 어떻게 논다고?",
+      "english": "about being brave."
+    },
+    {
+      "korean": "[지원자 받습니다] 다른 사람을 유추하고 싶으신 분 있나요 용기 내서? Does anyone have any other guess? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.3 돈't Lie #1 (Don't Lie #1)",
+      "english": "Does anyone have any other guess?"
+    },
+    {
+      "korean": "그때는 무슨 용기로 그랬을까요? Why did I do that? 듣기 View video NU'EST : [NU’EST] 러브들보러와써요~~🍂",
+      "english": "Why did I do that?"
+    },
+    {
+      "korean": "그런 용기가 필요한가? Do you need that kind of courage? 듣기 View video VICTON : 2020",
+      "english": "Do you need that kind of courage?"
+    },
+    {
+      "korean": "5살이 용기가 필요하나? Do you need courage at 5-years old? 듣기 View video VICTON : 2020",
+      "english": "Do you need courage at 5-years old?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Store the cake in an airtight container. 듣기 Add to Wordbook 케이크를 밀폐 용기에 보관해라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Store the cake in an airtight container. Add to Wordbook"
+    },
+    {
+      "korean": "the transference of heat from the liquid to the container 듣기 Add to Wordbook 액체에서 용기로의 열의 이동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the transference of heat from the liquid to the container Add to Wordbook"
+    },
+    {
+      "korean": "The containers are graded according to size. 듣기 Add to Wordbook 그 용기들은 크기별로 나눠져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The containers are graded according to size. Add to Wordbook"
+    },
+    {
+      "korean": "Check the container for cracks or leaks. 듣기 Add to Wordbook 용기에 금이 가거나 새는 곳이 없는지 점검하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Check the container for cracks or leaks. Add to Wordbook"
+    },
+    {
+      "korean": "Food will last longer if kept in an airtight container. 듣기 Add to Wordbook 식품은 밀폐 용기에 담아 두면 더 오래 간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Food will last longer if kept in an airtight container. Add to Wordbook"
+    }
+  ]
+}

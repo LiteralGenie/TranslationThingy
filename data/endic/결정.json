@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "결정",
+      "hanja": " (結晶(體))",
+      "example": {},
+      "meanings": [
+        "(물질의 덩어리) crystal",
+        "(노력의 산물) fruit, result"
+      ]
+    },
+    {
+      "phrase": "결정",
+      "hanja": " (決定)",
+      "example": {},
+      "meanings": [
+        "[명사] decision, set, resolution, (formal) determination, [동사] decide, (formal) determine, make[come to, arrive at] a decision, make up one's mind; (날짜·장소 등을)fix"
+      ]
+    },
+    {
+      "phrase": "결정되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be decided",
+        "be settled",
+        "be fixed"
+      ]
+    },
+    {
+      "phrase": "정해지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be decided",
+        "be settled",
+        "be determined"
+      ]
+    },
+    {
+      "phrase": "스스로 결정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make one's own decision",
+        "decide for[by] oneself"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "decision",
+      "frequency": 2
+    },
+    {
+      "meaning": "determination",
+      "frequency": 2
+    },
+    {
+      "meaning": "make",
+      "frequency": 2
+    },
+    {
+      "meaning": "call",
+      "frequency": 2
+    },
+    {
+      "meaning": "decree",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이게 결정적 힌트예요? Is it the critical clue? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.19",
+      "english": "Is it the critical clue?"
+    },
+    {
+      "korean": "마지막 힌트가 정말 결정적이었나요? Was the last hint a really critical hint? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.19",
+      "english": "Was the last hint a really critical hint?"
+    },
+    {
+      "korean": "제가... - 그리고 전 오늘 하나 결정한 게 있습니다 - 무엇입니까? I... - I've made a decision today. - What's that? 듣기 View video V COOKIE : [Full] AB6IX x Rooftop Live - AB6IX의 루프탑라이브!",
+      "english": "I... - I've made a decision today. - What's that?"
+    },
+    {
+      "korean": "아니 의사가 2명일 수가 없잖아 - 결정에 따르겠습니다 - 아닌가? There can't be 2 doctors. - But I'll follow your decision. - He's not? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "There can't be 2 doctors. - But I'll follow your decision. - He's not?"
+    },
+    {
+      "korean": "드디어! 결정했어! Finally! We've decided! 듣기 View video BLACKPINK : 꾸며봅시당🖤",
+      "english": "Finally! We've decided!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We will defer to whatever the committee decides. 발음듣기 우리는 위원회의 결정이 어떻게 나오든 그 결정을 따를 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We will defer to whatever the committee decides. 발음"
+    },
+    {
+      "korean": "The factory has been earmarked for closure. 발음듣기 그 공장은 폐쇄가 결정되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The factory has been earmarked for closure. 발음"
+    },
+    {
+      "korean": "That decision came back to haunt him. 발음듣기 그 결정은 그에게 계속 문제가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That decision came back to haunt him. 발음"
+    },
+    {
+      "korean": "The court will decide our fate/fates. 발음듣기 그 법정이 우리의 운명을 결정할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The court will decide our fate/fates. 발음"
+    },
+    {
+      "korean": "The correctness of this decision may be doubted. 발음듣기 이 결정의 적절성이 의심을 받을 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The correctness of this decision may be doubted. 발음"
+    }
+  ]
+}

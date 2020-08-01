@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "소멸",
+      "hanja": " (消滅)",
+      "example": {},
+      "meanings": [
+        "extinction, become extinct, cease to exist, (계약 등이) lapse"
+      ]
+    },
+    {
+      "phrase": "자연 소멸",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "natural extinction[death]"
+      ]
+    },
+    {
+      "phrase": "자연 소멸하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "die out[go out of existence] in the course of time",
+        "cease to exist as a matter of course",
+        "become extinct automatically"
+      ]
+    },
+    {
+      "phrase": "죄의 소멸",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "expiation"
+      ]
+    },
+    {
+      "phrase": "소멸[취득] 시효",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "negative[positive] prescription",
+        "extinctive[acquisitive] prescription"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "passing",
+      "frequency": 3
+    },
+    {
+      "meaning": "dissolution",
+      "frequency": 3
+    },
+    {
+      "meaning": "extinction",
+      "frequency": 3
+    },
+    {
+      "meaning": "dissipation",
+      "frequency": 0
+    },
+    {
+      "meaning": "evaporation",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "얼굴이 소멸되는 건가요? Will my face disappear? 듣기 View video HANABONO : 작고 갸름한 얼굴 만들기 아직도 메이크업 하니? 헤어 컨투어링으로 가능해! Making a V-line? Hair contouring is possible.",
+      "english": "Will my face disappear?"
+    },
+    {
+      "korean": "민기 오빠 얼굴 소멸한다고... \"Ren's face is going to disappear.\" 듣기 View video NU'EST : [NU’EST W] 우리가 온 이유👀🤔",
+      "english": "\"Ren's face is going to disappear.\""
+    },
+    {
+      "korean": "전사들의 생명 팔찌 한개가 소멸됩니다. A life bracelet has been taken away from the warriors. 듣기 View video 그래TV : 레플:하이라이트-ep17. 이게 바로! 다크라이트 찬스!!",
+      "english": "A life bracelet has been taken away from the warriors."
+    },
+    {
+      "korean": "[전사들의 팔찌를 하나씩 소멸시킬 수 있는] 검은 팔찌! [he can take away a life bracelet from the warriors] Black bracelet! 듣기 View video 그래TV : 레플:하이라이트-ep17. 이게 바로! 다크라이트 찬스!!",
+      "english": "[he can take away a life bracelet from the warriors] Black bracelet!"
+    },
+    {
+      "korean": "거의 소두... - 소멸했어 소멸. It's almost... - It was almost extinct. 듣기 View video ASTRO : 로하하하하핳💕🐶",
+      "english": "It's almost... - It was almost extinct."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the dissolution of barriers of class and race 듣기 Add to Wordbook 계층과 인종 장벽의 소멸 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the dissolution of barriers of class and race Add to Wordbook"
+    },
+    {
+      "korean": "She had allowed her membership to lapse. 듣기 Add to Wordbook 그녀는 자신의 회원 자격이 소멸되도록 놔두었었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had allowed her membership to lapse. Add to Wordbook"
+    },
+    {
+      "korean": "Early buildings were made of wood and have perished. 듣기 Add to Wordbook 초기 건물들은 목재로 지어져서 지금은 소멸되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Early buildings were made of wood and have perished. Add to Wordbook"
+    },
+    {
+      "korean": "Her laughter soon dissipated the tension in the air. 듣기 Add to Wordbook 그녀의 웃음소리에 공기 중에 감돌던 긴장감이 곧 소멸되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her laughter soon dissipated the tension in the air. Add to Wordbook"
+    },
+    {
+      "korean": "Copyright expires seventy years after the death of the author. 듣기 Add to Wordbook 저작권은 저자 사후 70년이 지나서 소멸된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Copyright expires seventy years after the death of the author. Add to Wordbook"
+    }
+  ]
+}

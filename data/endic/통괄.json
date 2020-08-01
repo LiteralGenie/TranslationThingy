@@ -1,0 +1,78 @@
+{
+  "phrases": [
+    {
+      "phrase": "통괄",
+      "hanja": " (統括)",
+      "example": {},
+      "meanings": [
+        "generalization, summarization, recapitulation, synthesis, 통괄하다 summarize, generalize, synthesize, epitomize"
+      ]
+    },
+    {
+      "phrase": "통괄조절",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 global regulation"
+      ]
+    },
+    {
+      "phrase": "통괄계정",
+      "hanja": " (統括計定)",
+      "example": {},
+      "meanings": [
+        "경제·경영 controlling account, control account"
+      ]
+    },
+    {
+      "phrase": "통괄 기능",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "generalization function"
+      ]
+    },
+    {
+      "phrase": "통괄을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "generalize"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "통괄",
+      "frequency": 0
+    },
+    {
+      "meaning": "organize thought",
+      "frequency": 0
+    },
+    {
+      "meaning": "global regulation",
+      "frequency": 0
+    },
+    {
+      "meaning": "control or controlling account",
+      "frequency": 0
+    },
+    {
+      "meaning": "materials control account",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 온유 씨의 언어는 잘 통괄하고 있기 때문에. I understand Onew well. 듣기 View video SMTOWN : [REPLAY] 샤이니 비긴즈 \"1 of 1\" (SHINee BEGINS \"1 of 1\")",
+      "english": "I understand Onew well."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I'm in agreement about creating a special task force, but that's only if we can find the right person to head up the team. 듣기 Add to Wordbook 특별 태스크포스를 구성하는 데는 동의합니다만, 팀을 통괄할 만한 적임자를 찾을 수 있는 경우에만입니다. DARAKWON",
+      "english": "I'm in agreement about creating a special task force, but that's only if we can find the right person to head up the team. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "human",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 인간[사람]의",
+        "Adjective 인간적인, 인간이기에 갖게 되는 (약점 등)",
+        "Noun 인간, 사람"
+      ]
+    },
+    {
+      "phrase": "Human",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Proper noun] surname"
+      ]
+    },
+    {
+      "phrase": "with a human face",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "사람을 생각하는[고려한]"
+      ]
+    },
+    {
+      "phrase": "the human face of…",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 주제·쟁점 등을) 사람 냄새가 나게[현실적으로 느끼게] 해 주는 사람"
+      ]
+    },
+    {
+      "phrase": "human race",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 인류"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "인적 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "인류의",
+      "frequency": 0
+    },
+    {
+      "meaning": "인간의",
+      "frequency": 0
+    },
+    {
+      "meaning": "인간다운",
+      "frequency": 0
+    },
+    {
+      "meaning": "인생의",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그래도 인간이 되고 싶어? Do you still want to be human? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Do you still want to be human?"
+    },
+    {
+      "korean": "너는 왜 인간이 되고 싶은 거야? Why do you want to be human? 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "Why do you want to be human?"
+    },
+    {
+      "korean": "인간 기역 그 - 그거 왜 그러는 거야? Human \"K\". - Why did you do that? 듣기 View video AB6IX : 막방😭😭",
+      "english": "Human \"K\". - Why did you do that?"
+    },
+    {
+      "korean": "[그렇다면 안쪽인가?] 사람인가? [Is it inside the airbag zone?] A human being? 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "[Is it inside the airbag zone?] A human being?"
+    },
+    {
+      "korean": "열 가지 감정을 배우면 인간이 될 것이니... If you learn 10 emotions, you will be a human being. 듣기 View video 콬TV (WHYNOT) : 눈 마주친 여자와 키스했다 [키스요괴] EP01 우연의 시작",
+      "english": "If you learn 10 emotions, you will be a human being."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The housing was unfit for human habitation. 발음듣기 그 주거 시설은 사람이 살기에 부적합했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The housing was unfit for human habitation. 발음"
+    },
+    {
+      "korean": "It is beyond the confines of human knowledge. 발음듣기 그것은 인간 지식의 한계를 넘어서는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is beyond the confines of human knowledge. 발음"
+    },
+    {
+      "korean": "The human genome has now been sequenced. 발음듣기 인간 게놈은 이제 배열 순서가 밝혀졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The human genome has now been sequenced. 발음"
+    },
+    {
+      "korean": "The hostages were used as a human shield. 발음듣기 그 인질들이 인간 방패로 이용되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hostages were used as a human shield. 발음"
+    },
+    {
+      "korean": "The houses were unfit for human habitation. 발음듣기 그 집들은 사람이 거주하기에 적합하지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The houses were unfit for human habitation. 발음"
+    }
+  ]
+}

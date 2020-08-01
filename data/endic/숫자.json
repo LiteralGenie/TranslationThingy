@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "숫자",
+      "hanja": " (數字)",
+      "example": {},
+      "meanings": [
+        "number, figure, numeral"
+      ]
+    },
+    {
+      "phrase": "숫자를 세다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "count the number"
+      ]
+    },
+    {
+      "phrase": "행운의 숫자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the lucky number"
+      ]
+    },
+    {
+      "phrase": "숫자점",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "arithmancy"
+      ]
+    },
+    {
+      "phrase": "아라비아 숫자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an Arabic numeral[number]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "figure",
+      "frequency": 3
+    },
+    {
+      "meaning": "number",
+      "frequency": 3
+    },
+    {
+      "meaning": "numeral",
+      "frequency": 3
+    },
+    {
+      "meaning": "글씨",
+      "frequency": 0
+    },
+    {
+      "meaning": "글자",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "숫자가 있거든요 보이나? There are numbers here. Can you see them? 듣기 View video TOMORROW X TOGETHER : 즐거운 휴닝로직🤗",
+      "english": "There are numbers here. Can you see them?"
+    },
+    {
+      "korean": "한 대 맞을게요 - 그러니까 몇이야 숫자 - 숫자 몇 개야? - 그럼 그 숫자 어떻게 해야 돼요? I'll do that. - So, what's the number? - How many? - What should I do with the numbers? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "I'll do that. - So, what's the number? - How many? - What should I do with the numbers?"
+    },
+    {
+      "korean": "숫자 세셔야죠! You need to count! 듣기 View video V COOKIE : [Full] N.Flying X CouchTalk - 엔플라잉 X 카우치토크",
+      "english": "You need to count!"
+    },
+    {
+      "korean": "좋아하는 숫자요? A number that I like? 듣기 View video MAMAMOO : [휘인] 'soar' Making Prologue #2",
+      "english": "A number that I like?"
+    },
+    {
+      "korean": "숫자 세면서 시작! While counting. Start! 듣기 View video V COOKIE : [Full] N.Flying X CouchTalk - 엔플라잉 X 카우치토크",
+      "english": "While counting. Start!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a numeral letter[character, symbol] 듣기 Add to Wordbook 숫자. Friendict Level English-Korean Dictionary",
+      "english": "a numeral letter[character, symbol] Add to Wordbook"
+    },
+    {
+      "korean": "She lodged the number firmly in her mind. 듣기 Add to Wordbook 그녀는 그 번호[숫자]를 마음에 단단히 새겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She lodged the number firmly in her mind. Add to Wordbook"
+    },
+    {
+      "korean": "to enter figures in the purchase/sales ledger 듣기 Add to Wordbook 구입/판매 원장에 숫자를 기입하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to enter figures in the purchase/sales ledger Add to Wordbook"
+    },
+    {
+      "korean": "to add up a column of figures 듣기 Add to Wordbook 세로로 한 줄 적힌 숫자들을 합하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to add up a column of figures Add to Wordbook"
+    },
+    {
+      "korean": "My highest card is ten. 듣기 Add to Wordbook 내 카드 중 가장 높은 숫자는 10이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My highest card is ten. Add to Wordbook"
+    }
+  ]
+}

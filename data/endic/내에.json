@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "내",
+      "hanja": " (內)",
+      "example": {},
+      "meanings": [
+        "the inside, within, within the scope of (=안1)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun nae (→네)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(→네)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun smell, scent"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun creek"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "within",
+      "frequency": 2
+    },
+    {
+      "meaning": "about",
+      "frequency": 2
+    },
+    {
+      "meaning": "in the interior",
+      "frequency": 0
+    },
+    {
+      "meaning": "내입",
+      "frequency": 0
+    },
+    {
+      "meaning": "my",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내가? Am I not? 듣기 View video 플레이리스트 (Playlist) : 정신차려보니 나만 보는 잘생긴 또라이랑 썸 타는 중;; [인서울2] - 철또하림 모음.zip",
+      "english": "Am I not?"
+    },
+    {
+      "korean": "내가 왜? Why do I? 듣기 View video MAMAMOO : 용콩별콩 뒤집어지는 LIVE",
+      "english": "Why do I?"
+    },
+    {
+      "korean": "내 거야! This is mine! 듣기 View video V COOKIE : [Full] Jeong Eun Ji X CouchTalk - 정은지 X 카우치토크",
+      "english": "This is mine!"
+    },
+    {
+      "korean": "내가 할래~ I'll do it! 듣기 View video IZ*ONE : 룸메즈의 간식타임!",
+      "english": "I'll do it!"
+    },
+    {
+      "korean": "내 이름 알아? know my name? 듣기 View video 플레이리스트 (Playlist) : 에이틴 제작진 신작 드디어 나옴 [트웬티 트웬티] - 대본리딩 메이킹",
+      "english": "know my name?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "These signify the turning point from the truce to the peace in the peninsula. 발음듣기 이러한 것들은 한반도 내 에 휴전에서 평화로의 전환점을 의미합니다. Neungyule",
+      "english": "These signify the turning point from the truce to the peace in the peninsula. 발음"
+    },
+    {
+      "korean": "Be ready to move in an hour. 발음듣기 1시간내에 이사할 준비를 해라 User translation Inaccurate information may be included due to the users' self-traslation. 함박웃음(jjom****) Web Collection",
+      "english": "Be ready to move in an hour. 발음"
+    },
+    {
+      "korean": "Grace, see you in a couple of days. 발음듣기 그레이스, 2일 내에 보자. User translation Inaccurate information may be included due to the users' self-traslation. 아미버디(hian****) Web Collection",
+      "english": "Grace, see you in a couple of days. 발음"
+    },
+    {
+      "korean": "We're gonna be dead in five minutes. 발음듣기 우린 5분 내에 죽을 거야 User translation Inaccurate information may be included due to the users' self-traslation. JAKE(eng_****) Web Collection",
+      "english": "We're gonna be dead in five minutes. 발음"
+    },
+    {
+      "korean": "They die off in a month or two. 발음듣기 그들(그것들)은 한 두달내에 죽었다. User translation Inaccurate information may be included due to the users' self-traslation. vvhite(cano****) Web Collection",
+      "english": "They die off in a month or two. 발음"
+    }
+  ]
+}

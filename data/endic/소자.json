@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "소자",
+      "hanja": " (小子)",
+      "example": {},
+      "meanings": [
+        "(부모에게) I, me, myself"
+      ]
+    },
+    {
+      "phrase": "소자",
+      "hanja": " (素子)",
+      "example": {},
+      "meanings": [
+        "(전자) an element, a device, (천문) an element, data"
+      ]
+    },
+    {
+      "phrase": "소자",
+      "hanja": " (小字)",
+      "example": {},
+      "meanings": [
+        "a small letter[character]"
+      ]
+    },
+    {
+      "phrase": "소자(법)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 ignipuncture"
+      ]
+    },
+    {
+      "phrase": "발광 소자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a light emitting display"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "demagnetization",
+      "frequency": 0
+    },
+    {
+      "meaning": "ignipuncture",
+      "frequency": 0
+    },
+    {
+      "meaning": "Perilla frutescens",
+      "frequency": 0
+    },
+    {
+      "meaning": "Peltier element",
+      "frequency": 0
+    },
+    {
+      "meaning": "storage cell",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'장어덮밥 정식 소자' 는 저한테 부족하겠죠? The \"Grilled Eel over rice meal, small\" will probably be too little for me, right? 듣기 View video JBJ 상균&동한의 혼밥스타그램(JBJ Sang Kyoun & Dong Han's Honbab) : JBJ 상균&동한의 혼밥스타그램#9회(#상균#장어덮밥 한상#스태미너#꼬리)",
+      "english": "The \"Grilled Eel over rice meal, small\" will probably be too little for me, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Please send us a small sweet-and-sour pork. 듣기 Add to Wordbook 탕수육 소자 하나 배달해 주세요 Neungyule",
+      "english": "Please send us a small sweet-and-sour pork. Add to Wordbook"
+    },
+    {
+      "korean": "The small farming class have been gradually elbowed out of their holdings. 듣기 Add to Wordbook 소자작농(小自作農)들은 차츰 그 땅을 떠나가게 되었다. 영어영작문대사전",
+      "english": "The small farming class have been gradually elbowed out of their holdings. Add to Wordbook"
+    },
+    {
+      "korean": "The penguin has been visiting de Souza every year since then. 듣기 Add to Wordbook 펭귄은 드 소자를 그 이후 de Souza를 매년 방문하고 있다. TIMES CORE",
+      "english": "The penguin has been visiting de Souza every year since then. Add to Wordbook"
+    },
+    {
+      "korean": "The Wearable Thermo-Element, made with fiberglass and a thin piece of thermoelectric film, can transform thermal energy into electricity. 듣기 Add to Wordbook 섬유유리와 열전박막 조각으로 만들어진 웨어러블 열전소자는 열 에너지를 전기로 바꿀 수 있다. TIMES CORE",
+      "english": "The Wearable Thermo-Element, made with fiberglass and a thin piece of thermoelectric film, can transform thermal energy into electricity. Add to Wordbook"
+    },
+    {
+      "korean": "Those devices, and the fantastic world of electrically conducting organic polymers, will miniaturise electronic devices in the future. 듣기 Add to Wordbook 그 소자들과, 환상적인 전기전도성 유기 고분자 세상은, 미래에 전자 소자를 소형화할 것이다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 냠냥냠(ki15****) Hansard",
+      "english": "Those devices, and the fantastic world of electrically conducting organic polymers, will miniaturise electronic devices in the future. Add to Wordbook"
+    }
+  ]
+}

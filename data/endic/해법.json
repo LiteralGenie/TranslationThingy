@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "해법",
+      "hanja": " (解法)",
+      "example": {},
+      "meanings": [
+        "solution"
+      ]
+    },
+    {
+      "phrase": "대수적 해법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an algebraical solution"
+      ]
+    },
+    {
+      "phrase": "해법을 찾다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "find a solution (to)"
+      ]
+    },
+    {
+      "phrase": "해법을 제시하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "suggest a solution (to)"
+      ]
+    },
+    {
+      "phrase": "도식 해법",
+      "hanja": " (圖式解法)",
+      "example": {},
+      "meanings": [
+        "graphical solution"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "solution",
+      "frequency": 3
+    },
+    {
+      "meaning": "ki",
+      "frequency": 0
+    },
+    {
+      "meaning": "clue to solution",
+      "frequency": 0
+    },
+    {
+      "meaning": "an algebraical solution",
+      "frequency": 0
+    },
+    {
+      "meaning": "Galois theory",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "해법을 절대 알려주지 않는다 - 그렇죠!",
+      "english": "Never tell the secret. - Right!"
+    },
+    {
+      "korean": "[피라미드식 해법 전파] - 6, 26 - 아니지, 1 더하기...",
+      "english": "[Pyramid way of solving the problem] - 6, 27. - No, 1 plus..."
+    },
+    {
+      "korean": "좋아요. - 그게 참 좋은 해법이 될수 있는 거죠.",
+      "english": "That's great. - That could be a great solution."
+    },
+    {
+      "korean": "그 안에서 해법을 찾으면 돼요. - 그렇죠 그렇죠.",
+      "english": "You just need to find a solution in that. - Yes, yes."
+    },
+    {
+      "korean": "그럼 일단은 저희가 정리가 안 되니깐 해법수학 책을 보세요.",
+      "english": "Then first, since we can't sort things out, please read a good math book."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "해법을 찾으려는 시도는 실패했다.",
+      "english": "Attempts to find a solution have failed."
+    },
+    {
+      "korean": "이 책을 통해 주의 깊게 사실을 분석하면 가장 정확한 해법에 이른다는 것을 배웠습니다.",
+      "english": "From this book I learned that careful study of facts can lead to the best and most accurate solution."
+    },
+    {
+      "korean": "모든 문제에는 인내가 최고의 해법이다. (플라우투스, 인내명언)",
+      "english": "Patience is the best remedy for every trouble. (Titus Maccius Plautus)"
+    },
+    {
+      "korean": "저는 업계 선두업체들의 컨설턴트로 일해 왔기 때문에 문제점을 빠르게 분석하고 효과적인 해법을 제시하는 능력을 길렀습니다.",
+      "english": "Because I've worked as a consultant with several leading companies, I've developed the ability to quickly analyze problems and suggest effective solutions."
+    },
+    {
+      "korean": "그 일의 해법을 곰곰이 생각 중이다",
+      "english": "I am considering how to settle the matter."
+    }
+  ]
+}

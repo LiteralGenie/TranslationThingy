@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "하나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(숫자) one",
+        "one (of) (여럿 중의 하나)",
+        "(뜻·마음·생각 등의 일치)"
+      ]
+    },
+    {
+      "phrase": "하나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun one",
+        "Noun one",
+        "Noun only one"
+      ]
+    },
+    {
+      "phrase": "하나 가득",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "full in one"
+      ]
+    },
+    {
+      "phrase": "하나부터 열까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "from one to ten"
+      ]
+    },
+    {
+      "phrase": "하나만 알고 둘을 모른다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "know only one thing, and not know two things"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "one",
+      "frequency": 3
+    },
+    {
+      "meaning": "piece",
+      "frequency": 3
+    },
+    {
+      "meaning": "thing",
+      "frequency": 3
+    },
+    {
+      "meaning": "hup",
+      "frequency": 0
+    },
+    {
+      "meaning": "One, two, three, go!",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "하나 둘 셋!",
+      "english": "One, two, three!"
+    },
+    {
+      "korean": "좋아 하나, 둘, 셋!",
+      "english": "Good. 1, 2, 3!"
+    },
+    {
+      "korean": "오케이! 하나, 둘, 셋!",
+      "english": "OK! 1, 2, 3!"
+    },
+    {
+      "korean": "스포 딱 하나만?",
+      "english": "Just one spoiler?"
+    },
+    {
+      "korean": "결혼을 하나요?",
+      "english": "Do you get married?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "우유갑 하나/우유 한 갑",
+      "english": "a milk carton / a carton of milk"
+    },
+    {
+      "korean": "기록상[사상] 최악의 가뭄 중 하나",
+      "english": "one of the worst droughts on record"
+    },
+    {
+      "korean": "샴푸와 컨디셔너가 하나로 된 것",
+      "english": "an all-in-one shampoo and conditioner"
+    },
+    {
+      "korean": "그녀는 앞니 하나가 약간 부러졌다.",
+      "english": "She chipped one of her front teeth."
+    },
+    {
+      "korean": "교회의 중심 신조[교리] 중 하나",
+      "english": "one of the central dogmas of the Church"
+    }
+  ]
+}

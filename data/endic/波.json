@@ -1,0 +1,73 @@
+{
+  "phrases": [
+    {
+      "phrase": "-파",
+      "hanja": " (波)",
+      "example": {},
+      "meanings": [
+        "a wave"
+      ]
+    },
+    {
+      "phrase": "밀리파",
+      "hanja": " (─ 波)",
+      "example": {},
+      "meanings": [
+        "[전기] extremely high frequency."
+      ]
+    },
+    {
+      "phrase": "톱니파",
+      "hanja": " (─波)",
+      "example": {},
+      "meanings": [
+        "[전기] a sawtooth wave."
+      ]
+    },
+    {
+      "phrase": "센티미터파",
+      "hanja": " (─波)",
+      "example": {},
+      "meanings": [
+        "[전기] a centimeter wave, superhigh frequency(약어: SHF)."
+      ]
+    },
+    {
+      "phrase": "심전도의 P파",
+      "hanja": " (波)",
+      "example": {},
+      "meanings": [
+        "의학 atrial complex"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "electromagnetic wave",
+      "frequency": 0
+    },
+    {
+      "meaning": "sine wave",
+      "frequency": 0
+    },
+    {
+      "meaning": "elastic wave",
+      "frequency": 0
+    },
+    {
+      "meaning": "sky wave",
+      "frequency": 0
+    },
+    {
+      "meaning": "Rayleigh wave",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "곡선[파(波)선].",
+      "english": "a curved[undulating] line"
+    }
+  ]
+}

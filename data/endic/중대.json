@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "중대",
+      "hanja": " (中隊)",
+      "example": {},
+      "meanings": [
+        "(군대의 편성 단위) company, (공군·해군 등의) squadron"
+      ]
+    },
+    {
+      "phrase": "중대",
+      "hanja": " (重大)",
+      "example": {},
+      "meanings": [
+        "important (to/for), significant (for), crucial (to/for), critical, vital (to/for), weighty; (심각하다) serious, grave"
+      ]
+    },
+    {
+      "phrase": "중대한 과실",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gross negligence",
+        "a gross mistake",
+        "a vital error"
+      ]
+    },
+    {
+      "phrase": "중대한 문제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a matter of great concern",
+        "an important matter"
+      ]
+    },
+    {
+      "phrase": "보병 중대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an infantry company"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "company",
+      "frequency": 2
+    },
+    {
+      "meaning": "greatness",
+      "frequency": 1
+    },
+    {
+      "meaning": "concernment",
+      "frequency": 0
+    },
+    {
+      "meaning": "major",
+      "frequency": 2
+    },
+    {
+      "meaning": "weighty",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "중대장 동지 집에 삽이나 곡괭이 있으시지요? Do you have a shovel or a pickax at home? 듣기 View video OSEN : MONSTA X 몬스타엑스 셔누x주헌, 손예진 변신? 의외의 연기력 #스타로드 09",
+      "english": "Do you have a shovel or a pickax at home?"
+    },
+    {
+      "korean": "오늘 이 중대 발표를 통해. Through today's big announcement... 듣기 View video PENTAGON : [펜타곤 교과서 시즌5] EP. 1 - 발표 시간",
+      "english": "Through today's big announcement..."
+    },
+    {
+      "korean": "중대한 자리 다시 앉아주시길 바랍니다. Please sit back down in your important seats. 듣기 View video MBK entertainment : [Full] DIA X EATING SHOW Season 2 - 다이아 X 같이 먹어요 시즌 2",
+      "english": "Please sit back down in your important seats."
+    },
+    {
+      "korean": "팬분들께 중대발표를 하나... 할게 있습니다. There's something important I have to tell you. 듣기 View video V PICK! : [PENTAGON] 고시넌씨의 충격의 충격의 충격고백❗️ (Shinwon&Wooseok drawing each other)",
+      "english": "There's something important I have to tell you."
+    },
+    {
+      "korean": "내가 15사단 38연대 수색 중대야! I was in the reconnaissance company, 15th division, 38th regiment! 듣기 View video 모비딕(Mobidic) : 30대 남자들끼리 술 마시면 하는 얘기 \"결혼VS비혼\" <김준현의짠> 2회",
+      "english": "I was in the reconnaissance company, 15th division, 38th regiment!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The squadron flew on a reconnaissance mission. 발음듣기 그 비행 중대는 정찰 임무를 띠고 날아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The squadron flew on a reconnaissance mission. 발음"
+    },
+    {
+      "korean": "a gross violation of human rights 발음듣기 중대한 인권 침해 행위 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a gross violation of human rights 발음"
+    },
+    {
+      "korean": "a major fault in the design 발음듣기 그 디자인의 중대 결함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a major fault in the design 발음"
+    },
+    {
+      "korean": "The company only dismisses its employees in cases of gross misconduct. 발음듣기 그 회사에서는 중대한 과오가 있을 경우에만 직원을 해고한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company only dismisses its employees in cases of gross misconduct. 발음"
+    },
+    {
+      "korean": "a minor / serious offense 발음듣기 사소한 위법 행위/중대한 범죄 행위 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a minor / serious offense 발음"
+    }
+  ]
+}

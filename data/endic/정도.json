@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "정도",
+      "hanja": " (程度)",
+      "example": {},
+      "meanings": [
+        "(분량, 수준) degree",
+        "(일정한 한도) limit"
+      ]
+    },
+    {
+      "phrase": "정도",
+      "hanja": " (正道)",
+      "example": {},
+      "meanings": [
+        "(바른길) right path[way, track]"
+      ]
+    },
+    {
+      "phrase": "어느 정도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to some[a certain] degree[extent]",
+        "to a degree",
+        "somewhat"
+      ]
+    },
+    {
+      "phrase": "이틀 정도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a couple of days"
+      ]
+    },
+    {
+      "phrase": "정도를 걷다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk[follow, stay on] the straight (and narrow)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "degree",
+      "frequency": 3
+    },
+    {
+      "meaning": "grade",
+      "frequency": 3
+    },
+    {
+      "meaning": "pitch",
+      "frequency": 3
+    },
+    {
+      "meaning": "level",
+      "frequency": 3
+    },
+    {
+      "meaning": "mark",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "20분 정도...",
+      "english": "About 20 minutes..."
+    },
+    {
+      "korean": "아 그 정도로...",
+      "english": "Oh, that much..."
+    },
+    {
+      "korean": "\"떡볶이 매운 정도는?\"",
+      "english": "\"How spicy it is?\""
+    },
+    {
+      "korean": "오후 2시 정도 - 오후 2시인가요?",
+      "english": "2 pm. - 2pm?"
+    },
+    {
+      "korean": "50분 정도 했어요? 52분?",
+      "english": "50 minutes? 52 minutes?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그것은 해동하는 데 4 시간 정도가 걸린다.",
+      "english": "It will take about four hours to defrost."
+    },
+    {
+      "korean": "우리 부모님은 어느 정도 명성이 있는 화가들이셨다.",
+      "english": "My parents were artists of (some) repute ."
+    },
+    {
+      "korean": "그 드릴은 충전되는 데 3시간 정도 걸린다.",
+      "english": "The drill takes about three hours to recharge."
+    },
+    {
+      "korean": "이것에 대해 잔인하다 싶을 정도로 솔직하게 말하겠어요.",
+      "english": "Let me be brutally frank about this."
+    },
+    {
+      "korean": "그녀는 무례하다 싶을 정도로 비판적이었다.",
+      "english": "She was critical to the point of rudeness."
+    }
+  ]
+}

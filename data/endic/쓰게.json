@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건 등을) use",
+        "(사람을) employ, hire",
+        "(수단·방법 등을) use, (formal) employ"
+      ]
+    },
+    {
+      "phrase": "쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(맛이) bitter",
+        "(비유적) bitter"
+      ]
+    },
+    {
+      "phrase": "쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(글·글씨 등을) write, (시·편지 등을) compose, (적다) put[write] (sth) down, (간단히) jot sth down"
+      ]
+    },
+    {
+      "phrase": "쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(모자·안경 등을) wear, put on",
+        "(우산 등을) put up"
+      ]
+    },
+    {
+      "phrase": "쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(묘·무덤 등을)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "acridly",
+      "frequency": 0
+    },
+    {
+      "meaning": "money-saving",
+      "frequency": 0
+    },
+    {
+      "meaning": "muck about/around with something",
+      "frequency": 0
+    },
+    {
+      "meaning": "give somebody/get/have the run of something",
+      "frequency": 0
+    },
+    {
+      "meaning": "bust something up",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저희가 어떻게 하다 오늘 방을 같이 쓰게 되었죠?",
+      "english": "How did we become roommates?"
+    },
+    {
+      "korean": "왜 슬픈 가사를 쓰게 됐냐고요?",
+      "english": "Why am I writing sad lyrics?"
+    },
+    {
+      "korean": "'오빠 이 노래 쓰게 된 계기는 뭔가요?'",
+      "english": "\"How did you come to write this song?\""
+    },
+    {
+      "korean": "[멤버들은 과연 누구와 방을 쓰게 될까요?]",
+      "english": "[TOMORROW X TOGETHER] [Who will share a room with whom?]"
+    },
+    {
+      "korean": "신경쓰게 만들었잖아.",
+      "english": "I made you worry."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "이 테이프는 30초 있으면 저절로 못 쓰게 된다.",
+      "english": "This tape will self-destruct in 30 seconds."
+    },
+    {
+      "korean": "누가 내 라디오 못 쓰게 만들었어?",
+      "english": "Who’s mucking around with my radio?"
+    },
+    {
+      "korean": "사람들이 물을 덜 쓰게 하려는 비현실적인 계획",
+      "english": "a cockeyed scheme to make people use less water"
+    },
+    {
+      "korean": "닳아서 못 쓰게 된 장비의 점진적인 교체",
+      "english": "the gradual replacement of worn-out equipment"
+    },
+    {
+      "korean": "모든 편지에는 직접 답장을 쓰게 될 것이다.",
+      "english": "All letters will be answered personally."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "버리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(쓰레기 등을) throw away, throw out, dump, (informal) junk",
+        "(포기하다, 떠나다) desert, leave, abandon, (literary) forsake, give up",
+        "(망치다) spoil, mar, (formal) impair; (심하게) ruin, destroy"
+      ]
+    },
+    {
+      "phrase": "버리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb beorida"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "discard",
+      "frequency": 1
+    },
+    {
+      "meaning": "abandon",
+      "frequency": 2
+    },
+    {
+      "meaning": "forsake",
+      "frequency": 1
+    },
+    {
+      "meaning": "jettison",
+      "frequency": 0
+    },
+    {
+      "meaning": "dump",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"앗... 너무 벅차버렸나?\" \"Ah... Was it too much\"? 듣기 View video ATEEZ : [FULL] ATEEZ(에이티즈) ONLINE ATINY PARTY [Crescent]",
+      "english": "\"Ah... Was it too much\"?"
+    },
+    {
+      "korean": "[아뿔싸] 내가 여기 다 합쳐버렸나 봐! [Oops] I must have added it here! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.13",
+      "english": "[Oops] I must have added it here!"
+    },
+    {
+      "korean": "시리얼은 어떻게 됐어요? - 시리얼 버렸나요? What happened to your love toward cereal? - You don't like it any more? 듣기 View video THE BOYZ : [Replay] THE BOYZ COMEBACK SPECIAL LIVE",
+      "english": "What happened to your love toward cereal? - You don't like it any more?"
+    },
+    {
+      "korean": "너무 많이 써버렸나? Did I use too much? 듣기 View video Stray Kids : [선데이 키즈] 빼빼로데이🖤",
+      "english": "Did I use too much?"
+    },
+    {
+      "korean": "이게 더 큰 스포가 되어버렸나? Was that a bigger spoiler? 듣기 View video BTOB : 서른 즈음에",
+      "english": "Was that a bigger spoiler?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Aren't we forgeting the true meaning of Christmas? You know... the birth of Santa. (Matt Groening) 발음듣기 크리스마스의 진정한 의미를 잊어버렸나요? 그건 말이죠... 산타의 생일이죠.(만화 '심슨 가족'의 엉뚱한 대사) (매트 그로닝, 계절명언) 명언/속담",
+      "english": "Aren't we forgeting the true meaning of Christmas? You know... the birth of Santa. (Matt Groening) 발음"
+    },
+    {
+      "korean": "Maybe the zoo-keeper forgot to lock the door. 발음듣기 아마 동물원 사육사가 문을 잠그는 것을 잊어 버렸나 봐요. YBM All in All English-Korean Dictionary",
+      "english": "Maybe the zoo-keeper forgot to lock the door. 발음"
+    },
+    {
+      "korean": "The waitress seems to have forgotten about bringing us some wet towels. 발음듣기 여종업원이 물수건을 갖다주는 것을 잊어버렸나 봐. Neungyule",
+      "english": "The waitress seems to have forgotten about bringing us some wet towels. 발음"
+    },
+    {
+      "korean": "I must have forgot to input the order. 발음듣기 내가 주문 입력하는 걸 잊어버렸나 봐요. Neungyule",
+      "english": "I must have forgot to input the order. 발음"
+    },
+    {
+      "korean": "I heard your dream was to be a professional golfer. Did you completely abandon that dream? 발음듣기 프로 골퍼가 원래 꿈이었다고 들었는데 완전히 그 꿈을 버렸나요? TIMES CORE",
+      "english": "I heard your dream was to be a professional golfer. Did you completely abandon that dream? 발음"
+    }
+  ]
+}

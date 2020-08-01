@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "오른쪽",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the right, one's right"
+      ]
+    },
+    {
+      "phrase": "오른쪽에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on[at] one's right",
+        "on the right (of)",
+        "to the right"
+      ]
+    },
+    {
+      "phrase": "맨 오른쪽의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "farthest to the right"
+      ]
+    },
+    {
+      "phrase": "오른쪽 페이지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the right-hand page",
+        "the recto"
+      ]
+    },
+    {
+      "phrase": "오른쪽을 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "look to the right"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "right",
+      "frequency": 3
+    },
+    {
+      "meaning": "right hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "right-hand side",
+      "frequency": 0
+    },
+    {
+      "meaning": "right-hand",
+      "frequency": 3
+    },
+    {
+      "meaning": "dexter",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오른쪽~ To the right~ 듣기 View video MONSTA X : [몬채널][B] EP.101 '몬스타엑스레이3' 1화 part.2",
+      "english": "To the right~"
+    },
+    {
+      "korean": "어떤 거요? - 오른쪽 사진? Which one? - Right one? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Which one? - Right one?"
+    },
+    {
+      "korean": "이 면 - 되게 분위기가 있다 - 오른쪽? This one. - It has vibes. - The right one? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "This one. - It has vibes. - The right one?"
+    },
+    {
+      "korean": "[다시 시작된 고수의 코치] 지금 오른쪽에... 이쪽에 뚫렸거든? [The master starts coaching again] The right side... this side is open. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[The master starts coaching again] The right side... this side is open."
+    },
+    {
+      "korean": "너 오른쪽에... On your right side... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "On your right side..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He gets the occasional niggle in his right shoulder. 듣기 Add to Wordbook 그는 간간이 오른쪽 어깨가 약간 아프다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He gets the occasional niggle in his right shoulder. Add to Wordbook"
+    },
+    {
+      "korean": "Take the right fork. 듣기 Add to Wordbook 오른쪽 갈래[길]를 따라 가시오. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Take the right fork. Add to Wordbook"
+    },
+    {
+      "korean": "a slash across his right cheek 듣기 Add to Wordbook 그의 오른쪽 뺨에 길게 그인 상처 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a slash across his right cheek Add to Wordbook"
+    },
+    {
+      "korean": "She seated me on her right. 듣기 Add to Wordbook 그녀가 나를 자기 오른쪽에 앉혔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She seated me on her right. Add to Wordbook"
+    },
+    {
+      "korean": "a left-/right-hand drive car 듣기 Add to Wordbook 운전대가 왼쪽/오른쪽에 있는 승용차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a left-/right-hand drive car Add to Wordbook"
+    }
+  ]
+}

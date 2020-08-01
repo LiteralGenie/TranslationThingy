@@ -1,0 +1,63 @@
+{
+  "phrases": [
+    {
+      "phrase": "진",
+      "hanja": " (陣)",
+      "example": {},
+      "meanings": [
+        "(진영) camp, (진지) position",
+        "(운동경기에서의) squad",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "진치다",
+      "hanja": " (陣 ─)",
+      "example": {},
+      "meanings": [
+        "[진지] take up one's position, [진영] encamp, pitch [make] a camp, [진용] form in [make] battle array."
+      ]
+    },
+    {
+      "phrase": "-진",
+      "hanja": " (陣)",
+      "example": {},
+      "meanings": [
+        "Affix -jin"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "leaguer 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "prisoners' bars[bar, base]",
+      "frequency": 0
+    },
+    {
+      "meaning": "a puff of wind (smoke, steam)",
+      "frequency": 0
+    },
+    {
+      "meaning": "fully-staffed school",
+      "frequency": 0
+    },
+    {
+      "meaning": "formation of a strong professoriate",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "그는 정면 가까이 진(陣)을 쳤다.",
+      "english": "He took up his station near the front."
+    },
+    {
+      "korean": "문전(門前)에 진(陣)을 치다.",
+      "english": "take one's station before the outer gate"
+    }
+  ]
+}

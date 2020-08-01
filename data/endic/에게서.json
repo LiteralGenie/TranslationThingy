@@ -1,0 +1,61 @@
+{
+  "phrases": [
+    {
+      "phrase": "에게서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "from (a person)"
+      ]
+    },
+    {
+      "phrase": "…에게서[에서] 마귀를 몰아내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "exorcise a person[place] of evil spirits"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "from",
+      "frequency": 2
+    },
+    {
+      "meaning": "from out (of)",
+      "frequency": 0
+    },
+    {
+      "meaning": "a letter addressed to...",
+      "frequency": 0
+    },
+    {
+      "meaning": "receive a present of-from...",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "I do not need it from you. 발음듣기 난 너에게서 그거 필요 없어. User translation Inaccurate information may be included due to the users' self-traslation. ready(yeon****) Web Collection",
+      "english": "I do not need it from you. 발음"
+    },
+    {
+      "korean": "Keep your hands off of me, man! 발음듣기 나에게서 손떼, 이 자식아! User translation Inaccurate information may be included due to the users' self-traslation. Mendy(girr****) Web Collection",
+      "english": "Keep your hands off of me, man! 발음"
+    },
+    {
+      "korean": "Did I rob him of his freedom? 발음듣기 내가 그에게서 자유를 빼앗었니? User translation Inaccurate information may be included due to the users' self-traslation. 갱생의장스토크(9bon****) Web Collection",
+      "english": "Did I rob him of his freedom? 발음"
+    },
+    {
+      "korean": "Were you abused by a family member? 발음듣기 가족에게서 학대를 받은 적이 있니? User translation Inaccurate information may be included due to the users' self-traslation. shaslivo(shas****) Web Collection",
+      "english": "Were you abused by a family member? 발음"
+    },
+    {
+      "korean": "Don't take your eyes off me. 발음듣기 나에게서 눈을 떼지 마시오. User translation Inaccurate information may be included due to the users' self-traslation. 사과향기(lees****) Web Collection",
+      "english": "Don't take your eyes off me. 발음"
+    }
+  ]
+}

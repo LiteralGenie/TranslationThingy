@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "기류",
+      "hanja": " (氣流)",
+      "example": {},
+      "meanings": [
+        "(공기의 흐름) air current",
+        "(분위기) atmosphere"
+      ]
+    },
+    {
+      "phrase": "하강기류",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "downdraft, descending (atmospheric) current, descending current of air"
+      ]
+    },
+    {
+      "phrase": "상승기류",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "updraft, ascending (atmospheric) current, rising current of air"
+      ]
+    },
+    {
+      "phrase": "제트기류",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "jet stream"
+      ]
+    },
+    {
+      "phrase": "상승[하강]기류",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a(n) ascending[descending] air current"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "current",
+      "frequency": 2
+    },
+    {
+      "meaning": "drift",
+      "frequency": 1
+    },
+    {
+      "meaning": "airflow",
+      "frequency": 0
+    },
+    {
+      "meaning": "airstream",
+      "frequency": 0
+    },
+    {
+      "meaning": "air current",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[슬쩍][스물스물 새로운 핑크빛 기류?] [Touching] [A new romance?] View video 콬TV (WHYNOT) : 😒 남친이 여사친을 애칭으로 부른다면?? [오늘부터 찐한 사이] EP07 #오찐사 #필굿",
+      "english": "[Touching] [A new romance?]"
+    },
+    {
+      "korean": "[시작부터 흐르는 어색한 기류] 어... [Awkward vibe from the start] Hmm... 듣기 View video Dingo Freestyle / 딩고프리스타일 : [DAMOIM/★선공개★] EP.5-2 헉피, 넉살, 우원재, 김효은 합류! 사탄의 캐롤송?! 제발 들어줘! 아마두ㅣ둘도 없는 힙합 친구 : 다모임ㅣDingo Freestyle",
+      "english": "[Awkward vibe from the start] Hmm..."
+    },
+    {
+      "korean": "기류가... The mood is... 듣기 View video JTBC4 : [JTBC4] '너를 싫어하는 방법' 현장 브이라이브!! #NCT재민 #김지인 #이종원 #김유진",
+      "english": "The mood is..."
+    },
+    {
+      "korean": "[묘한 기류가 흐르는...] [A strange vibe ensues...] View video 모비딕(Mobidic) : PT의 신(神) 이상민의 에너지 넘치는 발표 그리고 한수원 사랑 <오늘만 대리> 7회",
+      "english": "[A strange vibe ensues...]"
+    },
+    {
+      "korean": "아직 어색한 기류가 은근히 있는데. This fan says we are awkward. 듣기 View video 컨버전스 TV (CONS TV) : [악동탐정스] 포스터촬영 현장 깜짝 공개!",
+      "english": "This fan says we are awkward."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "aerial currents 발음듣기 기류. Friendict Level English-Korean Dictionary",
+      "english": "aerial currents 발음"
+    },
+    {
+      "korean": "a pocket of air 발음듣기 에어 포켓, 수직 하강 기류 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a pocket of air 발음"
+    },
+    {
+      "korean": "Birds use warm air currents to help their flight. 발음듣기 새들은 따뜻한 기류를 이용하여 비행에 도움을 얻는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Birds use warm air currents to help their flight. 발음"
+    },
+    {
+      "korean": "the current economic climate 발음듣기 현 경제 기류[분위기] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the current economic climate 발음"
+    },
+    {
+      "korean": "The town was damaged by the supercell. 발음듣기 강한 회전 상승기류를 동반한 뇌우로 마을이 해를 입었다. 국제영어대학원대학교 신어사전",
+      "english": "The town was damaged by the supercell. 발음"
+    }
+  ]
+}

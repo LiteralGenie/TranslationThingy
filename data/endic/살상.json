@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "살상",
+      "hanja": " (殺傷)",
+      "example": {},
+      "meanings": [
+        "[동사] kill or wound, (literary) shed blood"
+      ]
+    },
+    {
+      "phrase": "대량 살상 무기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weapons of mass destruction ((abb.)WMD)"
+      ]
+    },
+    {
+      "phrase": "수많은 살상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "numerous casualties"
+      ]
+    },
+    {
+      "phrase": "적을 모조리 살상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "decimate[wipe out] the enemy"
+      ]
+    },
+    {
+      "phrase": "살상하다",
+      "hanja": " (殺傷하다)",
+      "example": {},
+      "meanings": [
+        "Verb kill or injure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "weapon of mass destruction",
+      "frequency": 0
+    },
+    {
+      "meaning": "anti-personnel",
+      "frequency": 0
+    },
+    {
+      "meaning": "amok",
+      "frequency": 0
+    },
+    {
+      "meaning": "numerous casualties",
+      "frequency": 0
+    },
+    {
+      "meaning": "scrapnel",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The strength of the United States is not the gold at Fort Knox or the weapons of mass destruction that we have, but the sum total of the education and the character of our people. (Claiborne Pell) 듣기 Add to Wordbook 미국의 힘은 포트 녹스 기지의 금괴나 대량살상무기가 아니라, 미국 국민의 교육과 인성의 총합이다. (클레이본 펠, 공부명언) 명언/속담",
+      "english": "The strength of the United States is not the gold at Fort Knox or the weapons of mass destruction that we have, but the sum total of the education and the character of our people. (Claiborne Pell) Add to Wordbook"
+    },
+    {
+      "korean": "A massacre took place in the troubled area. 듣기 Add to Wordbook 분쟁 지역에서 대규모의 인명 살상이 벌어졌다 Neungyule",
+      "english": "A massacre took place in the troubled area. Add to Wordbook"
+    },
+    {
+      "korean": "Hunters massacred elephants to get ivory from their tusks. 듣기 Add to Wordbook 사냥꾼들은 어금니에서 상아를 얻어내기 위해 코끼리들을 대량 살상했다. Neungyule",
+      "english": "Hunters massacred elephants to get ivory from their tusks. Add to Wordbook"
+    },
+    {
+      "korean": "They decimated the enemy. 듣기 Add to Wordbook 그들은 적을 대량 살상했다. Friendict Level English-Korean Dictionary",
+      "english": "They decimated the enemy. Add to Wordbook"
+    },
+    {
+      "korean": "However, Nobel did not want to be remembered as a person who invented things that killed people. 듣기 Add to Wordbook 하지만 노벨은 자신이 살상병기를 만든 사람으로 기억되길 원치 않았다. Neungyule",
+      "english": "However, Nobel did not want to be remembered as a person who invented things that killed people. Add to Wordbook"
+    }
+  ]
+}

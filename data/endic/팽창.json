@@ -1,0 +1,99 @@
+{
+  "phrases": [
+    {
+      "phrase": "팽창",
+      "hanja": " (膨脹)",
+      "example": {},
+      "meanings": [
+        "(부피·길이 등의) [명사] expansion, [동사] expand",
+        "(수·양의) [명사] increase, growth, [동사] increase, grow, expand, swell"
+      ]
+    },
+    {
+      "phrase": "열팽창",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thermal expansion"
+      ]
+    },
+    {
+      "phrase": "도시의 팽창",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the growth of a city"
+      ]
+    },
+    {
+      "phrase": "인구 팽창",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "갑작스러운 a population bulge"
+      ]
+    },
+    {
+      "phrase": "통화의 팽창",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "inflation of currency"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "swell",
+      "frequency": 2
+    },
+    {
+      "meaning": "expansion",
+      "frequency": 1
+    },
+    {
+      "meaning": "dilatation",
+      "frequency": 0
+    },
+    {
+      "meaning": "distension",
+      "frequency": 0
+    },
+    {
+      "meaning": "tumescence",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뜨거운 물 - 뜨거운 물에 데우면 팽창하는 거 아세요? Hot water. - Did you know that if you put it in hot water it expands? 듣기 View video HF뮤직컴퍼니 : [HNB] 소년들의 꿈의 기록 - HNB는 어린시절 어떤 아이였을까요?",
+      "english": "Hot water. - Did you know that if you put it in hot water it expands?"
+    },
+    {
+      "korean": "전체적으로 팽창되어있는 느낌을 주기 위해서 입니다. To maximize the three dimensional effect. 듣기 View video V Beauty : 하코냥, 얼굴형에 따라 다른 컨투어링 Contouring Makeup Tutorial",
+      "english": "To maximize the three dimensional effect."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "If metal gets hot it expands. 발음듣기 금속은 열을 받으면 팽창한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If metal gets hot it expands. 발음"
+    },
+    {
+      "korean": "Metals expand when they are heated. 발음듣기 금속은 열을 받으면 팽창한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Metals expand when they are heated. 발음"
+    },
+    {
+      "korean": "Student numbers are expanding rapidly. 발음듣기 학생 수가 급속히 팽창하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Student numbers are expanding rapidly. 발음"
+    },
+    {
+      "korean": "The clear inference is that the universe is expanding. 발음듣기 분명히 추론할 수 있는 것은 우주가 팽창하고 있다는 점이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The clear inference is that the universe is expanding. 발음"
+    },
+    {
+      "korean": "In the expansive 1990s bright graduates could advance rapidly. 발음듣기 경제가 팽창 중이던 1990년대에는 똑똑한 대졸자들은 빠른 승진을 할 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In the expansive 1990s bright graduates could advance rapidly. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "불가능하다",
+      "hanja": " (不可能하다)",
+      "example": {},
+      "meanings": [
+        "Adjective impossible"
+      ]
+    },
+    {
+      "phrase": "불가능",
+      "hanja": " (不可能)",
+      "example": {},
+      "meanings": [
+        "[명사] impossibility, [형용사] impossible"
+      ]
+    },
+    {
+      "phrase": "불가능한 일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the impossible",
+        "an impossible thing"
+      ]
+    },
+    {
+      "phrase": "실현 불가능한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unrealizable",
+        "infeasible"
+      ]
+    },
+    {
+      "phrase": "실행 불가능한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "impracticable",
+        "infeasible"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "impossible",
+      "frequency": 2
+    },
+    {
+      "meaning": "out of the question",
+      "frequency": 0
+    },
+    {
+      "meaning": "beyond[within] the realms of possibility",
+      "frequency": 0
+    },
+    {
+      "meaning": "uncollectible",
+      "frequency": 0
+    },
+    {
+      "meaning": "impracticable",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[한층 더 예측 불가능한 미션의 연속!] 있구나! [and the missions become more unpredictable!] There it is! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[and the missions become more unpredictable!] There it is!"
+    },
+    {
+      "korean": "'이 생에는 불가능한 일이 있다고 생각하십니까?' \"Do you think there are impossible things in this lifetime?\" 듣기 View video GOT7 : 쉼표방",
+      "english": "\"Do you think there are impossible things in this lifetime?\""
+    },
+    {
+      "korean": "전혀 불가능한 일은 아니지만... Well, it's not impossible... 듣기 View video 콬TV (WHYNOT) : 💞 고백에 성공하는 법 [김요한 이야기] EP05 해피밤",
+      "english": "Well, it's not impossible..."
+    },
+    {
+      "korean": "너 아까 뭐랬어? 더비 불가능한게 없댔지? What did you say earlier? You said nothing is impossible for The B, right? 듣기 View video THE BOYZ : white (feat. 막내즈) #2",
+      "english": "What did you say earlier? You said nothing is impossible for The B, right?"
+    },
+    {
+      "korean": "임무가 불가능한... The impossible dut... 듣기 View video BTOB : 깜짝성재입니당😊",
+      "english": "The impossible dut..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The policy was thought to be inoperable. 발음듣기 그 정책은 실행 불가능한 것으로 여겨졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The policy was thought to be inoperable. 발음"
+    },
+    {
+      "korean": "a daunting/an impossible/a formidable/an unenviable, etc. task 발음듣기 무시무시한[엄청난]/불가능한/가공할 만한/피할 수 없는 과제[일] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a daunting/an impossible/a formidable/an unenviable, etc. task 발음"
+    },
+    {
+      "korean": "the unpredictability of the English weather 발음듣기 예측이 불가능한 영국 날씨 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the unpredictability of the English weather 발음"
+    },
+    {
+      "korean": "an inherently unworkable system 발음듣기 생래적으로 작동 불가능한 시스템 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an inherently unworkable system 발음"
+    },
+    {
+      "korean": "a political move that defies explanation 발음듣기 설명이 불가능한 정치적 움직임 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a political move that defies explanation 발음"
+    }
+  ]
+}

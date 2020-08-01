@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "용건",
+      "hanja": " (用件)",
+      "example": {},
+      "meanings": [
+        "business"
+      ]
+    },
+    {
+      "phrase": "용건을 묻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask business"
+      ]
+    },
+    {
+      "phrase": "급한 용건으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on urgent[pressing] business"
+      ]
+    },
+    {
+      "phrase": "긴박한 용건으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on urgent business"
+      ]
+    },
+    {
+      "phrase": "무슨 용건이야?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 시작 What is it about?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ask a person's pleasure",
+      "frequency": 0
+    },
+    {
+      "meaning": "ask (a person's) business",
+      "frequency": 0
+    },
+    {
+      "meaning": "listee",
+      "frequency": 0
+    },
+    {
+      "meaning": "demand a person’s business",
+      "frequency": 0
+    },
+    {
+      "meaning": "pretexting",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[용건만 간단히] 어디야? [Simple] Where are you? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "[Simple] Where are you?"
+    },
+    {
+      "korean": "휴닝카이! 용건이 뭐야? HUENINGKAI! What brought you here? 듣기 View video Mnet : [ONE DREAM.TXT] Reality Ep.05 - Part.3",
+      "english": "HUENINGKAI! What brought you here?"
+    },
+    {
+      "korean": "우리를 보자고 한 용건은 무엇입니까? What is the reason you wanted to meet us? 듣기 View video 컨버전스 TV (CONS TV) : 악동탐정스 시즌2 7화 <궁궐애사 추리공방 Ⅰ>",
+      "english": "What is the reason you wanted to meet us?"
+    },
+    {
+      "korean": "그중에 하나가 용건 없는 대화더라고요. One of them is talking without reasoning. 듣기 View video MOMO X : [모모문고] 여자친구 유주 편",
+      "english": "One of them is talking without reasoning."
+    },
+    {
+      "korean": "[용건은 바로 축의금 미납!] 근데 제 결혼식에 축의금 왜 안 내셨어요? Why didn't you give a single penny for my wedding? 듣기 View video Big Picture (빅픽처) : 빅픽처3 EP28_ 가슴을 열어라2 - XX오빠~ 돈 내 놓으세요!!",
+      "english": "Why didn't you give a single penny for my wedding?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Is there anything I can do for you? 발음듣기 저한테 무슨 용건이라도 있으세요? Neungyule",
+      "english": "Is there anything I can do for you? 발음"
+    },
+    {
+      "korean": "What I'm calling about is this ... 발음듣기 전화를 건 용건은 다름이 아니고, ... Neungyule",
+      "english": "What I'm calling about is this ... 발음"
+    },
+    {
+      "korean": "rattle a piece of business through 발음듣기 용건 하나를 잽싸게 해치우다. Friendict Level English-Korean Dictionary",
+      "english": "rattle a piece of business through 발음"
+    },
+    {
+      "korean": "Please stay a moment for a matter of no moment 발음듣기 대단한 용건은 아니지만 잠깐 기다려 주십시오. YBM All in All English-Korean Dictionary",
+      "english": "Please stay a moment for a matter of no moment 발음"
+    },
+    {
+      "korean": "Yes, it is, how may I help you? 발음듣기 네, 맞습니다만, 무슨 용건이신가요? YBM All in All English-Korean Dictionary",
+      "english": "Yes, it is, how may I help you? 발음"
+    }
+  ]
+}

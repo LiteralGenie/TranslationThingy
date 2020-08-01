@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "진화",
+      "hanja": " (進化)",
+      "example": {},
+      "meanings": [
+        "(생물의) evolution, evolve (from)",
+        "(일·조직 등의) progress, evolution, evolve (into), develop (into)"
+      ]
+    },
+    {
+      "phrase": "진화",
+      "hanja": " (鎭火)",
+      "example": {},
+      "meanings": [
+        "(불을) extinguish, put out",
+        "(말썽·문제 등을)"
+      ]
+    },
+    {
+      "phrase": "인류의 진화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "human evolution"
+      ]
+    },
+    {
+      "phrase": "산불을 진화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put out a forest fire"
+      ]
+    },
+    {
+      "phrase": "불은 진화되었다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The fire was under control."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "evolution",
+      "frequency": 3
+    },
+    {
+      "meaning": "evolvement",
+      "frequency": 0
+    },
+    {
+      "meaning": "good coin",
+      "frequency": 0
+    },
+    {
+      "meaning": "evolutionary",
+      "frequency": 3
+    },
+    {
+      "meaning": "the evolution of the human species",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네 - 잉어킹 진화하면 뭔줄 알아요? Yes... - Do you know what it becomes when it evolves? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #21",
+      "english": "Yes... - Do you know what it becomes when it evolves?"
+    },
+    {
+      "korean": "있어요 있는데 - 맞아 진화시키는 게임 있잖아! I do, I do! - Yes, the one where you develop! 듣기 View video V COOKIE : [Full] NU'EST X LieV - 뉴이스트의 눕방라이브!",
+      "english": "I do, I do! - Yes, the one where you develop!"
+    },
+    {
+      "korean": "걔 그 무개념과 몰상식 뭐 진화라도 한대? Is she evolving for her ignorance and shamelessness? 듣기 View video 플레이리스트 (Playlist) : 연락 두절된 남친이 다른 여자랑 있었다 [엑스엑스(XX)] - EP.01",
+      "english": "Is she evolving for her ignorance and shamelessness?"
+    },
+    {
+      "korean": "[(나도 진화하고 싶다)] - 인류가 진화하고 - 진짜... [(I want to evolve too)] - The evolution of mankind. - Yeah... 듣기 View video JTBC PLUS : 트와이스에게 동생 있지! 괴물 신인 ITZY 데뷔 활동 Full ver.",
+      "english": "[(I want to evolve too)] - The evolution of mankind. - Yeah..."
+    },
+    {
+      "korean": "'진화하고 있다는 것을 표현했다'라고 썼는데 - 개코원숭이 아니야? That's what I wrote as description. - It's not a baboon? 듣기 View video Mnet : [FULL]프로듀스 X 101",
+      "english": "That's what I wrote as description. - It's not a baboon?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The dolphin has evolved a highly developed jaw. 듣기 Add to Wordbook 돌고래는 대단히 발달된 턱을 진화시키게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dolphin has evolved a highly developed jaw. Add to Wordbook"
+    },
+    {
+      "korean": "The three species evolved from a single ancestor. 듣기 Add to Wordbook 그 세 가지 종들은 단일 조상에게서 진화했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The three species evolved from a single ancestor. Add to Wordbook"
+    },
+    {
+      "korean": "Darwin’s theory of evolution 듣기 Add to Wordbook 다윈의 진화론 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Darwin’s theory of evolution Add to Wordbook"
+    },
+    {
+      "korean": "I read a book about the evolution of humankind. 듣기 Add to Wordbook 나는 인류의 진화에 대한 책을 읽었다. 절대어휘 5100",
+      "english": "I read a book about the evolution of humankind. Add to Wordbook"
+    },
+    {
+      "korean": "Darwin suggested the theory of the biological evolution of species. 듣기 Add to Wordbook 다윈은 종의 진화론을 제창했다. 절대어휘 5100",
+      "english": "Darwin suggested the theory of the biological evolution of species. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "제자",
+      "hanja": " (弟子)",
+      "example": {},
+      "meanings": [
+        "student, disciple, (추종자) follower"
+      ]
+    },
+    {
+      "phrase": "스승과 제자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a teacher and pupil[student]"
+      ]
+    },
+    {
+      "phrase": "제자로 삼다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make disciples"
+      ]
+    },
+    {
+      "phrase": "제자가 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become pupil",
+        "be apprenticed to"
+      ]
+    },
+    {
+      "phrase": "제자를 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take pupils[apprentices]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pupil",
+      "frequency": 3
+    },
+    {
+      "meaning": "disciple",
+      "frequency": 3
+    },
+    {
+      "meaning": "pupil 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "protégé",
+      "frequency": 0
+    },
+    {
+      "meaning": "famulus",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[제자들 말에 홀연히 사라지는 선생님] [민망하신가...?] [The teacher quietly leaves the room] [Is he embarrassed?] View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울관광고등학교 ep7(홍현희X정세운X강율)",
+      "english": "[The teacher quietly leaves the room] [Is he embarrassed?]"
+    },
+    {
+      "korean": "아니면 제자들이 너무 선생님을 좋아 하는 건 아닐까요? Or could it be that the students really love the teacher? 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.12 #DJ황치열",
+      "english": "Or could it be that the students really love the teacher?"
+    },
+    {
+      "korean": "제자는 아니고. Not my student... 듣기 View video JBJ : 일상이죠 네 환영합니다 제비제의 일상입니다 하하하 웰컴",
+      "english": "Not my student..."
+    },
+    {
+      "korean": "동한이가 제 제자인가요? Is Dong Han my student? 듣기 View video JBJ : 일상이죠 네 환영합니다 제비제의 일상입니다 하하하 웰컴",
+      "english": "Is Dong Han my student?"
+    },
+    {
+      "korean": "[흐뭇] [누구 제자들이 이렇게 잘해?] [Happy] [Whose students are this good?] View video BTS : Run BTS! 2019 - EP.63",
+      "english": "[Happy] [Whose students are this good?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "All his geese are swans. 듣기 Add to Wordbook 그의 모든 거위는 다 백조다. (제자랑만 늘어 놓는다.) (영국속담, 겸손속담) 명언/속담",
+      "english": "All his geese are swans. Add to Wordbook"
+    },
+    {
+      "korean": "One repays a teacher badly if one only remains a pupil. (Friedrich Nietzsche) 듣기 Add to Wordbook 제자가 계속 제자로만 남는다면 스승에 대한 고약한 보답이다. (프레드리히 니체, 공부명언) 명언/속담",
+      "english": "One repays a teacher badly if one only remains a pupil. (Friedrich Nietzsche) Add to Wordbook"
+    },
+    {
+      "korean": "One repays a teacher badly if one always remains nothing but a pupil. (Friedrich Nietzsche) 듣기 Add to Wordbook 언제까지나 제자로서만 머물러 있음은 스승에 대한 좋은 보답이 아니다. (프레드리히 니체, 실패명언) 명언/속담",
+      "english": "One repays a teacher badly if one always remains nothing but a pupil. (Friedrich Nietzsche) Add to Wordbook"
+    },
+    {
+      "korean": "One of my disciples had gone abroad to study more. 듣기 Add to Wordbook 내 제자들 중에 한 명이 공부를 더 하기 위해 유학을 갔다. 절대어휘 5100",
+      "english": "One of my disciples had gone abroad to study more. Add to Wordbook"
+    },
+    {
+      "korean": "The true teacher defends his pupils against his own personal influence. (Amos Bronson Alcott) 듣기 Add to Wordbook 참된 스승은 제자들이 자신의 개인적 영향을 받지 않도록 방어한다. (에이모스 브론슨 올코트, 공부명언) 명언/속담",
+      "english": "The true teacher defends his pupils against his own personal influence. (Amos Bronson Alcott) Add to Wordbook"
+    }
+  ]
+}

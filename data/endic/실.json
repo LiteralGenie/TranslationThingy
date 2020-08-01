@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "실",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "thread"
+      ]
+    },
+    {
+      "phrase": "실",
+      "hanja": " (失)",
+      "example": {},
+      "meanings": [
+        "loss"
+      ]
+    },
+    {
+      "phrase": "실",
+      "hanja": " (室)",
+      "example": {},
+      "meanings": [
+        "Bound noun room"
+      ]
+    },
+    {
+      "phrase": "총[실]소득",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gross[net] income"
+      ]
+    },
+    {
+      "phrase": "-실",
+      "hanja": " (-室)",
+      "example": {},
+      "meanings": [
+        "a room."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "chamber",
+      "frequency": 3
+    },
+    {
+      "meaning": "thread",
+      "frequency": 3
+    },
+    {
+      "meaning": "cotton",
+      "frequency": 3
+    },
+    {
+      "meaning": "seal",
+      "frequency": 3
+    },
+    {
+      "meaning": "room",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[알아서 풀려있었어야지 눈치 없이 엉켜있는 실들] 다 엉켜있네? [Bad thread!] They're all tangled up. 듣기 View video Dispatch : [ⓓxV] \"고오급 TMI 티키타카\" (한결, 도현 : H&D)",
+      "english": "[Bad thread!] They're all tangled up."
+    },
+    {
+      "korean": "실 안에 갇혀서 나오고 싶어 하는... I'm stuck between the strings and I want to come out. 듣기 View video ASTRO : ASTRO 아스트로 - Blue Flame M/V MAKING FILM",
+      "english": "I'm stuck between the strings and I want to come out."
+    },
+    {
+      "korean": "바늘에 실 꿰기? Thread a needle? 듣기 View video LOVELYZ : '러블리즈 다이어리 시즌6' 1화 ('Lovelyz Diary Season 6' EP.1 )",
+      "english": "Thread a needle?"
+    },
+    {
+      "korean": "앨범에 실... 뭐라고 하죠? and put it in... What do you call it? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#148. 아이들 라디오 (w. (여자)아이들)",
+      "english": "and put it in... What do you call it?"
+    },
+    {
+      "korean": "실밥이야? 실... - 실빱인가? 실밥이야? Sil-bab? Sil... - Sil-bap? Or Sil-bab? 듣기 View video BLACKPINK : 챙이 폰이 꺼져서 다시 돌아온 리챙 🥰",
+      "english": "Sil-bab? Sil... - Sil-bap? Or Sil-bab?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Please switch the lights off as you leave. 듣기 Add to Wordbook 떠나실[나가실] 때는 전등을 꺼 주세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please switch the lights off as you leave. Add to Wordbook"
+    },
+    {
+      "korean": "I never thought they’d put it in black and white on the front page. 듣기 Add to Wordbook 그들이 그것을 제1면에 버젓이 인쇄할[실을] 것이라고는 나는 생각지도 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I never thought they’d put it in black and white on the front page. Add to Wordbook"
+    },
+    {
+      "korean": "a spool of thread 듣기 Add to Wordbook 실 한 꾸리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a spool of thread Add to Wordbook"
+    },
+    {
+      "korean": "De Rode Draad fights for the rights and welfare of all sex workers. 듣기 Add to Wordbook 붉은 실 노동 조합은 성노동자들의 권리와 복지를 위해 싸운다. 국제영어대학원대학교 신어사전",
+      "english": "De Rode Draad fights for the rights and welfare of all sex workers. Add to Wordbook"
+    },
+    {
+      "korean": "four-ply knitting yarn 듣기 Add to Wordbook 네 가닥으로 된 뜨개실 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "four-ply knitting yarn Add to Wordbook"
+    }
+  ]
+}

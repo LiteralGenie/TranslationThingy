@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "효율",
+      "hanja": " (效率)",
+      "example": {},
+      "meanings": [
+        "efficiency, effectiveness"
+      ]
+    },
+    {
+      "phrase": "열효율",
+      "hanja": " (熱效率)",
+      "example": {},
+      "meanings": [
+        "thermal efficiency"
+      ]
+    },
+    {
+      "phrase": "에너지 효율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "energy efficiency"
+      ]
+    },
+    {
+      "phrase": "기계 효율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the modulus of a machine"
+      ]
+    },
+    {
+      "phrase": "종합 효율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "overall efficiency"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "efficiency",
+      "frequency": 3
+    },
+    {
+      "meaning": "efficiency audit",
+      "frequency": 0
+    },
+    {
+      "meaning": "efficiency percentage",
+      "frequency": 0
+    },
+    {
+      "meaning": "cost-effective",
+      "frequency": 0
+    },
+    {
+      "meaning": "Which fuel burns most efficiently?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "효율적으로 잠을 자는 방법 - 어떻게요? Sleeping efficiently. - Then, how? 듣기 View video Mnet : 프로듀스101 시즌2 8화",
+      "english": "Sleeping efficiently. - Then, how?"
+    },
+    {
+      "korean": "바쁘게 뭔가를 하고, 효율적으로 하는 겁니다. I'll just keep myself very busy. I'll just be very efficient. 듣기 View video GOT7 : GOT7 MONOGRAPH",
+      "english": "I'll just keep myself very busy. I'll just be very efficient."
+    },
+    {
+      "korean": "[카알못 효&율 자매] 뭐로 해야 되지? [They don't know camera] What should I do? 듣기 View video 소녀포레스트 - SM CCC LAB : [소녀포레스트ㅣGIRLS FOR REST] EP01. 앙티브에서 시작된 Oh!GG의 쉼표 여행",
+      "english": "[They don't know camera] What should I do?"
+    },
+    {
+      "korean": "그래서 효율성이 가장 좋아요. - 좋은 점. It's very effective. - That's the good point. 듣기 View video ASTRO : 어느 촬영장에서..♡",
+      "english": "It's very effective. - That's the good point."
+    },
+    {
+      "korean": "[효율적인 교체 구간 난코스 후 빠른 바통 터치로 시간 단축!] [Efficient touch area] [Saves time with baton touch after hard course!] View video 모해 MOHAE : [WekiMeki 위키미키 모해?] EP33",
+      "english": "[Efficient touch area] [Saves time with baton touch after hard course!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The voices of the opposition were effectively smothered. 듣기 Add to Wordbook 반대 목소리들은 효율적으로 억제되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The voices of the opposition were effectively smothered. Add to Wordbook"
+    },
+    {
+      "korean": "The two companies consolidated for greater efficiency. 듣기 Add to Wordbook 그 두 회사는 효율성을 높이기 위해 통합했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The two companies consolidated for greater efficiency. Add to Wordbook"
+    },
+    {
+      "korean": "The service at the hotel is efficient and unobtrusive. 듣기 Add to Wordbook 그 호텔의 서비스는 효율적이고 지나치게 야단스럽지 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The service at the hotel is efficient and unobtrusive. Add to Wordbook"
+    },
+    {
+      "korean": "They admired the smoothness and efficiency with which the business was run. 듣기 Add to Wordbook 그들은 그 사업체가 매끄럽고 효율적으로 운영되는 것에 감탄했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They admired the smoothness and efficiency with which the business was run. Add to Wordbook"
+    },
+    {
+      "korean": "an effective treatment for dry rot 듣기 Add to Wordbook 건조 부패에 대한 효율적인 처리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an effective treatment for dry rot Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "손대다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(건드리다) touch",
+        "(시작하다, 관여하다) start, touch, dabble in[with], take up",
+        "(처리하다) handle, deal with"
+      ]
+    },
+    {
+      "phrase": "손대지 않고 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "leave untouched[alone]"
+      ]
+    },
+    {
+      "phrase": "윗머리는 손대지 마세요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Leave the top alone."
+      ]
+    },
+    {
+      "phrase": "저금을 손대지 않고 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "leave the savings intact"
+      ]
+    },
+    {
+      "phrase": "손대지 마세요",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(안내지시문) Do Not Touch"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "undisturbed",
+      "frequency": 3
+    },
+    {
+      "meaning": "(get/take your) hands off (something/somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "stay your hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "untapped",
+      "frequency": 0
+    },
+    {
+      "meaning": "keep somebody/something off",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[내꼬야] - 아 손대지 마. - 이거 지갑에 넣고 다녀. [They're mine] - Don't touch them. - Put them in your wallet. 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.08",
+      "english": "[They're mine] - Don't touch them. - Put them in your wallet."
+    },
+    {
+      "korean": "[버럭! 감히 어디 손을 대!] 그분 거 손대지 마요 복학생 거! [Angry! How dare you set your sights on that!] They're for the returning student. Don't touch! 듣기 View video TRENDY TV(트렌디 티비) : [사다드림 시즌2] 버럭 장도연, 내 00에 손대면 가만 안있어요!_10회",
+      "english": "[Angry! How dare you set your sights on that!] They're for the returning student. Don't touch!"
+    },
+    {
+      "korean": "[아홉짤 착떡 연기] 어헛 손대지 말고 눈으로만 보라고 하지 않았느냐! [The superb acting of a nine-year-old] I told you to look with your eyes and don't touch! 듣기 View video 모비딕(Mobidic) : 드라마 <황후의 품격>의 어마어마한 세트장에서 아리를 만난 그리 <99초 리뷰> 89회",
+      "english": "[The superb acting of a nine-year-old] I told you to look with your eyes and don't touch!"
+    },
+    {
+      "korean": "내 음식에 손대지 마! Don't touch my food! 듣기 View video ASTRO : 아스트로아점😊",
+      "english": "Don't touch my food!"
+    },
+    {
+      "korean": "손 대지 마. 나는... Don't touch it. I... 듣기 View video ASTRO : 월요병퇴치LIVE #03 먼데이즈눕빵 (ASTRO MONDAY is...LIVE #03)",
+      "english": "Don't touch it. I..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The treasure had lain undisturbed for centuries. 듣기 Add to Wordbook 그 보물은 여러 세기 동안 아무도 손대지 않은 채 그대로 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The treasure had lain undisturbed for centuries. Add to Wordbook"
+    },
+    {
+      "korean": "untapped reserves of oil 듣기 Add to Wordbook 아직 손대지 않은 유전(油田) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "untapped reserves of oil Add to Wordbook"
+    },
+    {
+      "korean": "Get your hands off my wife! 듣기 Add to Wordbook 내 아내한테 손대지 마! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Get your hands off my wife! Add to Wordbook"
+    },
+    {
+      "korean": "Hey, leave my things alone! 듣기 Add to Wordbook 이 봐, 내 물건에 손대지 마! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hey, leave my things alone! Add to Wordbook"
+    },
+    {
+      "korean": "I told you not to touch my things. 듣기 Add to Wordbook 내가 너한테 내 물건에 손대지 말라고 했잖아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I told you not to touch my things. Add to Wordbook"
+    }
+  ]
+}

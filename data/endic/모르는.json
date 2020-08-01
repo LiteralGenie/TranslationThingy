@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "모르는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unknown",
+        "strange",
+        "unfamiliar"
+      ]
+    },
+    {
+      "phrase": "모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(알지 못하다) do not know, (이해하지 못하다) do not understand",
+        "(경험이 없다) have no experience, be ignorant of",
+        "(느끼지 못하다) be unaware (of), be unconscious (of)"
+      ]
+    },
+    {
+      "phrase": "모르는 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a stranger"
+      ]
+    },
+    {
+      "phrase": "모르는 사이에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "before one is aware[one knows]",
+        "without one´s knowledge"
+      ]
+    },
+    {
+      "phrase": "모르는 곳",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a strange place"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "at a loss",
+      "frequency": 0
+    },
+    {
+      "meaning": "nescient",
+      "frequency": 0
+    },
+    {
+      "meaning": "miscognizant",
+      "frequency": 0
+    },
+    {
+      "meaning": "illiterate",
+      "frequency": 3
+    },
+    {
+      "meaning": "tireless",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[모르는 척] 여기 앉고요? [Pretending he doesn't know] Sit here? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[Pretending he doesn't know] Sit here?"
+    },
+    {
+      "korean": "[영민 귀여워서 어쩔 줄 모르는 중] 난 내가 알아서 해... I will do it myself... 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 서울가요대상 BEHIND",
+      "english": "I will do it myself..."
+    },
+    {
+      "korean": "[오모나] 몇 번 부르는지를 모르는 거야? [Huh] You don't know how many times you sing? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[Huh] You don't know how many times you sing?"
+    },
+    {
+      "korean": "근데 PD님은 모르는 눈빛이지? Why does the producer look like he doesn't know anything? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "Why does the producer look like he doesn't know anything?"
+    },
+    {
+      "korean": "뭐라고 해요 보통? 얼굴 모르는 사람 이름 부를 때? What do you say when you want to call someone who you don't know? 듣기 View video V COOKIE : [Full] KIM JAEJOONG X Orgel Live - 김재중의 오르골 라이브!",
+      "english": "What do you say when you want to call someone who you don't know?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He would often strike up conversations with complete strangers. 듣기 Add to Wordbook 그는 자주 전혀 모르는 사람들과 대화[말]를 트고는 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He would often strike up conversations with complete strangers. Add to Wordbook"
+    },
+    {
+      "korean": "a tireless campaigner for human rights 듣기 Add to Wordbook 지칠 줄 모르는 인권 운동가 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a tireless campaigner for human rights Add to Wordbook"
+    },
+    {
+      "korean": "an indefatigable defender of human rights 듣기 Add to Wordbook 포기할 줄 모르는 인권 옹호자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an indefatigable defender of human rights Add to Wordbook"
+    },
+    {
+      "korean": "He’s an ungrateful so-and-so. 듣기 Add to Wordbook 그는 고마운 줄도 모르는 짜증나는 놈이야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s an ungrateful so-and-so. Add to Wordbook"
+    },
+    {
+      "korean": "her relentless pursuit of perfection 듣기 Add to Wordbook 수그러들 줄 모르는 그녀의 완벽 추구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "her relentless pursuit of perfection Add to Wordbook"
+    }
+  ]
+}

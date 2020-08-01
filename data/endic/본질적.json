@@ -1,0 +1,97 @@
+{
+  "phrases": [
+    {
+      "phrase": "본질적",
+      "hanja": " (本質的)",
+      "example": {},
+      "meanings": [
+        "essential, fundamental"
+      ]
+    },
+    {
+      "phrase": "본질적",
+      "hanja": " (本質的)",
+      "example": {},
+      "meanings": [
+        "Noun being essential, being fundamental"
+      ]
+    },
+    {
+      "phrase": "본질적(인)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "essential",
+        "substantial"
+      ]
+    },
+    {
+      "phrase": "본질적으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "essentially",
+        "intrinsically",
+        "in the nature of things"
+      ]
+    },
+    {
+      "phrase": "본질적 차이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an essential difference"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fundamental",
+      "frequency": 2
+    },
+    {
+      "meaning": "essentially",
+      "frequency": 2
+    },
+    {
+      "meaning": "intrinsic",
+      "frequency": 1
+    },
+    {
+      "meaning": "fundamentally",
+      "frequency": 1
+    },
+    {
+      "meaning": "unessential",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "인간의 본질적인 고독. Loneliness of a human being. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "Loneliness of a human being."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the innate conservatism of older people 발음듣기 나이든 사람들이 본질적으로 갖는 보수성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the innate conservatism of older people 발음"
+    },
+    {
+      "korean": "My work is very specialized in nature. 발음듣기 내 일은 본질적으로 대단히 전문적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My work is very specialized in nature. 발음"
+    },
+    {
+      "korean": "He was essentially a man of the theatre. 발음듣기 그는 본질적으로 연극 분야의 사람이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was essentially a man of the theatre. 발음"
+    },
+    {
+      "korean": "They remained fundamentally opposed to the plan. 발음듣기 그들은 본질적으로 그 계획에 계속 반대했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They remained fundamentally opposed to the plan. 발음"
+    },
+    {
+      "korean": "The course is essentially theoretical in orientation. 발음듣기 그 과정은 방향이 본질적으로 이론적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The course is essentially theoretical in orientation. 발음"
+    }
+  ]
+}

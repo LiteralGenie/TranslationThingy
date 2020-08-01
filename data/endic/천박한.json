@@ -1,0 +1,105 @@
+{
+  "phrases": [
+    {
+      "phrase": "천박하다",
+      "hanja": " (淺薄하다)",
+      "example": {},
+      "meanings": [
+        "vulgar, coarse, crude"
+      ]
+    },
+    {
+      "phrase": "천박한 생각",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a superficial way of thinking",
+        "a shallow idea",
+        "a superficial view"
+      ]
+    },
+    {
+      "phrase": "천박한 학문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a little learning",
+        "a smattering"
+      ]
+    },
+    {
+      "phrase": "천박한 사람",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a shallow-minded[-brained] person"
+      ]
+    },
+    {
+      "phrase": "천박한 지식",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "superficial knowledge"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cheap",
+      "frequency": 3
+    },
+    {
+      "meaning": "foul",
+      "frequency": 3
+    },
+    {
+      "meaning": "vulgar",
+      "frequency": 3
+    },
+    {
+      "meaning": "gaudy",
+      "frequency": 3
+    },
+    {
+      "meaning": "tasteless",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 천박한 황금만능주의자. You dirty materialist. 듣기 View video V WEB DRAMA : [긍정이 체질] 1화 - 나도 이제 영화감독이다!!!",
+      "english": "You dirty materialist."
+    },
+    {
+      "korean": "다들 천박하네요. Everyone is cheap. 듣기 View video 10PM : [10pm2 화] 김풍의 풍기문란-김풍 demoralizing behavior",
+      "english": "Everyone is cheap."
+    },
+    {
+      "korean": "개인기도 있고. - 그것봐요. 제가 천박하다고 했잖아요. He did impersonations. - I told you, he's vulgar. 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "He did impersonations. - I told you, he's vulgar."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’m sick of her foul mouth. 듣기 Add to Wordbook 난 그녀의 지저분한 입버릇[천박한 말투]에 질렸어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m sick of her foul mouth. Add to Wordbook"
+    },
+    {
+      "korean": "He made several cheap jibes at his opponent during the interview. 듣기 Add to Wordbook 그가 인터뷰 중에 상대방에 대해 천박한 험담을 좀 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He made several cheap jibes at his opponent during the interview. Add to Wordbook"
+    },
+    {
+      "korean": "gaudy clothes / colours 듣기 Add to Wordbook 천박한 옷/색깔 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "gaudy clothes / colours Add to Wordbook"
+    },
+    {
+      "korean": "Although looking wealthy, he might be a cumbucket. 듣기 Add to Wordbook 그가 부유해 보이기는 하지만 사실 천박한 사람일 수도 있지. 국제영어대학원대학교 신어사전",
+      "english": "Although looking wealthy, he might be a cumbucket. Add to Wordbook"
+    },
+    {
+      "korean": "It is the most scurrilous rag ever published. 듣기 Add to Wordbook 그것은 일찍이 유례를 찾아볼 수 없는 천박한 삼류 신문이다. Friendict Level English-Korean Dictionary",
+      "english": "It is the most scurrilous rag ever published. Add to Wordbook"
+    }
+  ]
+}

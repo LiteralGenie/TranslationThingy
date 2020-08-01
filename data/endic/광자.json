@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "광자",
+      "hanja": " (光子)",
+      "example": {},
+      "meanings": [
+        "(물리) a photon, a light quantum"
+      ]
+    },
+    {
+      "phrase": "광자흡수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 photon absorption"
+      ]
+    },
+    {
+      "phrase": "감마 광자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 gamma photon"
+      ]
+    },
+    {
+      "phrase": "단일광자방출컴퓨터단층촬영(술)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 simgle photon emission computed tomography"
+      ]
+    },
+    {
+      "phrase": "나노광자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Nano Photonics"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "photon",
+      "frequency": 0
+    },
+    {
+      "meaning": "multiphoton",
+      "frequency": 0
+    },
+    {
+      "meaning": "Compton effect",
+      "frequency": 0
+    },
+    {
+      "meaning": "photonic",
+      "frequency": 0
+    },
+    {
+      "meaning": "photon engine",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Cosmology is the study finding the relationships between the infinitesimal and the infinite, as the study of the very large such as galaxies and the very small such photons and quarks. 발음듣기 우주학은 극소와 극대의 관계를 발견하는 학문으로, 은하와 같은 거대한 물체와 광자나 쿼크와 같은 아주 작은 입자를 연구한다. YBM All in All English-Korean Dictionary",
+      "english": "Cosmology is the study finding the relationships between the infinitesimal and the infinite, as the study of the very large such as galaxies and the very small such photons and quarks. 발음"
+    },
+    {
+      "korean": "Raman scattering, which is named after its inventor, is a process involving the gain or loss of kinetic energy when light hits a molecule and the photons scatter out differently depending on the molecular identity. 발음듣기 라만 산란은, 개발자의 이름을 딴 것으로, 빛이 분자와 접촉하여 광자가 분자의 특성에 따라 다르게 산란될 때 생기는 운동 에너지가 증가 또는 감소되는 과정을 말하는 것이다. Neungyule",
+      "english": "Raman scattering, which is named after its inventor, is a process involving the gain or loss of kinetic energy when light hits a molecule and the photons scatter out differently depending on the molecular identity. 발음"
+    },
+    {
+      "korean": "The scientists accidently discovered a way to bind photons together to form a new molecule. 발음듣기 과학자들은 우연히 광자를 결합해서 새로운 분자형태를 만드는 방법을 발견했습니다. TIMES CORE",
+      "english": "The scientists accidently discovered a way to bind photons together to form a new molecule. 발음"
+    },
+    {
+      "korean": "It has been considered that photons don’t bind together because they are massless and they don’t interact with each other. 발음듣기 광자는 질량이 없고 서로 교류하지 않기 때문에 결합시킬 수 없다고 여겨졌어요. TIMES CORE",
+      "english": "It has been considered that photons don’t bind together because they are massless and they don’t interact with each other. 발음"
+    },
+    {
+      "korean": "A photon is an elementary particle or basic unit of light. 발음듣기 광자는 빛의 기본이 되는 작은 입자 또는 기본 단위이다. English Hidden Card",
+      "english": "A photon is an elementary particle or basic unit of light. 발음"
+    }
+  ]
+}

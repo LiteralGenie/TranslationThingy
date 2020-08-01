@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이사",
+      "hanja": " (理事)",
+      "example": {},
+      "meanings": [
+        "director, member of board of directors"
+      ]
+    },
+    {
+      "phrase": "이사",
+      "hanja": " (移徙)",
+      "example": {},
+      "meanings": [
+        "[명사] move, (Brit) removal, [동사] move (to/into/from)"
+      ]
+    },
+    {
+      "phrase": "ICA",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "International Communication Agency, International Cooperation Administration ((지금은 AID))"
+      ]
+    },
+    {
+      "phrase": "ICC[A]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Abbreviation Institute Cargo Clause [A]의 약칭이며, A Clauses 라고도 한다."
+      ]
+    },
+    {
+      "phrase": "I.C.A.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Abbreviation International Cooperation Administration, International Communication Agency 국제협력국(지금은 AID)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "removal",
+      "frequency": 3
+    },
+    {
+      "meaning": "move",
+      "frequency": 3
+    },
+    {
+      "meaning": "trustee",
+      "frequency": 3
+    },
+    {
+      "meaning": "syndic",
+      "frequency": 0
+    },
+    {
+      "meaning": "boardman",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이사...간대요? Friend... Is moving? 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "Friend... Is moving?"
+    },
+    {
+      "korean": "우린 사이다! 다이사! We're Saida! Daisa! 듣기 View video TWICE : 우리가 누구게",
+      "english": "We're Saida! Daisa!"
+    },
+    {
+      "korean": "이사 간다는데 이게 거절 당해도... To move... To get rejected... 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "To move... To get rejected..."
+    },
+    {
+      "korean": "대표님 계셨고 이사님 계셨고 부사장님 다 계셨... There was CEO, director and vice director... 듣기 View video VICTON : 앨리스 안녕! 보고싶다 ❤️",
+      "english": "There was CEO, director and vice director..."
+    },
+    {
+      "korean": "'좋아하는 친구가 있는데 이사간대요 어떡해야 돼요?' \"I have a friend I like but he's moving. What should I do?\" 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "\"I have a friend I like but he's moving. What should I do?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a change of the house 듣기 Add to Wordbook 이사. Friendict Level English-Korean Dictionary",
+      "english": "a change of the house Add to Wordbook"
+    },
+    {
+      "korean": "She lost her position in a boardroom coup. 듣기 Add to Wordbook 그녀는 이사회 쿠데타로 지위를 잃었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She lost her position in a boardroom coup. Add to Wordbook"
+    },
+    {
+      "korean": "The director has given her assent to the proposals. 듣기 Add to Wordbook 이사가 그 제안들을 승인했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The director has given her assent to the proposals. Add to Wordbook"
+    },
+    {
+      "korean": "We made preparations to move to new offices. 듣기 Add to Wordbook 우리는 새 사무실로 이사 갈 준비를 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We made preparations to move to new offices. Add to Wordbook"
+    },
+    {
+      "korean": "I unearthed my old diaries when we moved house. 듣기 Add to Wordbook 나는 우리 집이 이사를 갈 때 내 옛날 일기장들을 찾았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I unearthed my old diaries when we moved house. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "달인",
+      "hanja": " (達人)",
+      "example": {},
+      "meanings": [
+        "expert (at/in/on), master (of), (informal) whiz"
+      ]
+    },
+    {
+      "phrase": "…의 달인이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be a master of...",
+        "be at home in...",
+        "be clever at..."
+      ]
+    },
+    {
+      "phrase": "요리의 달인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an expert in cooking"
+      ]
+    },
+    {
+      "phrase": "첫물 달인 차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the first infusion of tea"
+      ]
+    },
+    {
+      "phrase": "당신은 요리의 달인이군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "음식의 맛에 관한 표현 You are a great cook.",
+        "음식의 맛에 관한 표현 You are a master chef."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "master",
+      "frequency": 2
+    },
+    {
+      "meaning": "dab hand",
+      "frequency": 0
+    },
+    {
+      "meaning": "shark 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "whiz",
+      "frequency": 0
+    },
+    {
+      "meaning": "mayvin",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[나?] - 편의점의 달인? - 달인이요? [Me?] - Mater of convenience store? - Master? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.14",
+      "english": "[Me?] - Mater of convenience store? - Master?"
+    },
+    {
+      "korean": "멤버들, 멤버들 하면 제가 진짜 달인이지 않을까요? That would be really difficult. 듣기 View video NU'EST : [NU’EST REN] 러브들♥️",
+      "english": "That would be really difficult."
+    },
+    {
+      "korean": "오늘 편의점의 달인 특집을 준비했는데 어떠셨나요? How did you feel about today's TO DO? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.14",
+      "english": "How did you feel about today's TO DO?"
+    },
+    {
+      "korean": "'생활의 달인'이라는... - 수염으로? 수염 붙이기로? He was on \"Master on Living\". - For putting beard? 듣기 View video BTS : RJRJ 알제알제",
+      "english": "He was on \"Master on Living\". - For putting beard?"
+    },
+    {
+      "korean": "[여기 왕깜찍 찰떡설명의 달인이 있어서 전화드렸는데요] 영화? [of explanation! Oh, he's also so cute!] Movie? 듣기 View video V PICK! : [ATEEZ] 👂고막주의!! 난리나는 에이티즈의 고요 속의 외침🗣 (ATEEZ’s Scream in Silence)",
+      "english": "[of explanation! Oh, he's also so cute!] Movie?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He’s a dab hand at cooking spaghetti. 발음듣기 그는 스파게티 요리의 달인이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s a dab hand at cooking spaghetti. 발음"
+    },
+    {
+      "korean": "He is a master of disguise. 발음듣기 그는 변장술의 달인이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is a master of disguise. 발음"
+    },
+    {
+      "korean": "The comedian is a genius in self-parodic humor. 발음듣기 그 코미디언은 자기 풍자 유머의 달인이다. 국제영어대학원대학교 신어사전",
+      "english": "The comedian is a genius in self-parodic humor. 발음"
+    },
+    {
+      "korean": "I’m the master at negotiating prices. 발음듣기 나는 가격 협상하는 데 달인이야. DARAKWON",
+      "english": "I’m the master at negotiating prices. 발음"
+    },
+    {
+      "korean": "I never knew he was so into cooking, he’s like the iron chef. 발음듣기 걔가 그렇게 요리에 관심이 많은지 몰랐어. 완전 요리의 달인 같아. DARAKWON",
+      "english": "I never knew he was so into cooking, he’s like the iron chef. 발음"
+    }
+  ]
+}

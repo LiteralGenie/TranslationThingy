@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "업로드",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun upload (→다운로드)"
+      ]
+    },
+    {
+      "phrase": "업로드/다운로드",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "upload/download"
+      ]
+    },
+    {
+      "phrase": "upload",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 컴퓨터 업로드하다(더 큰 컴퓨터 시스템으로 데이터를 보내는 것), (↔download)",
+        "Noun 컴퓨터 업로드(더 큰 컴퓨터 시스템으로 이동된 데이터), (↔download)"
+      ]
+    },
+    {
+      "phrase": "up-load",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 항공우주공학 윗방향 하중(~方向荷重)"
+      ]
+    },
+    {
+      "phrase": "Upload",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Computing (Abbr.) UL."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "upload",
+      "frequency": 0
+    },
+    {
+      "meaning": "U/L",
+      "frequency": 0
+    },
+    {
+      "meaning": "UL",
+      "frequency": 0
+    },
+    {
+      "meaning": "fetch 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "youtube creator",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 혹시 업로드해도 돼요? Can I upload this? 듣기 View video ONEUS : [Full] ONEUS SPECIAL LIVE \"FLY WITH US\" 1부",
+      "english": "Can I upload this?"
+    },
+    {
+      "korean": "'진짜 사클 업로드 해요?' \"You are really going to upload on SoundCloud?\" 듣기 View video N.Flying : 우리 얘기 좀 합시다 #33",
+      "english": "\"You are really going to upload on SoundCloud?\""
+    },
+    {
+      "korean": "\"이걸 지금 음악방송 무대라고 업로드 해놓은 거임?\" \"Did you say this is a video clip of your performance on a music show?\" 듣기 View video WINNER : 천하제일주접대회",
+      "english": "\"Did you say this is a video clip of your performance on a music show?\""
+    },
+    {
+      "korean": "아~ 맞아요 여러분 '원스원치' 알람 언제 업로드하냐고요~ Oh, that's right. When will I upload the \"One Spaghetti, One Chicken Taco\" alarm? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #38",
+      "english": "Oh, that's right. When will I upload the \"One Spaghetti, One Chicken Taco\" alarm?"
+    },
+    {
+      "korean": "동영상이요? - 그 트위터에 업로드한... The video? - The one that's uploaded on Twitter... 듣기 View video ATEEZ : 여상❤️성화💙CHICAGO 도착✈️",
+      "english": "The video? - The one that's uploaded on Twitter..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can I get a re-up please? 듣기 Add to Wordbook 다시 업로드해줄 수 있어? DARAKWON",
+      "english": "Can I get a re-up please? Add to Wordbook"
+    },
+    {
+      "korean": "New photeos will be uploaded on twitter. 듣기 Add to Wordbook 새 포테오가 트위터에 업로드될 예정이다. 국제영어대학원대학교 신어사전",
+      "english": "New photeos will be uploaded on twitter. Add to Wordbook"
+    },
+    {
+      "korean": "That link is dead. Could you re-up that song please? 듣기 Add to Wordbook 그 링크는 더 이상 안 돼. 그 노래 다시 업로드해줄 수 있어? DARAKWON",
+      "english": "That link is dead. Could you re-up that song please? Add to Wordbook"
+    },
+    {
+      "korean": "uploading thoughts using a direct cortical interface to the human brain 듣기 Add to Wordbook 피질 직결 인터페이스를 이용해 인간의 두뇌로 생각을 업로드하기 국제영어대학원대학교 신어사전",
+      "english": "uploading thoughts using a direct cortical interface to the human brain Add to Wordbook"
+    },
+    {
+      "korean": "He uploaded some images to the Morph-Thing website for members. 듣기 Add to Wordbook 그는 사진을 업로드하고 변형할 수 있는 웹사이트에 회원들을 위해 이미지를 올렸다. 국제영어대학원대학교 신어사전",
+      "english": "He uploaded some images to the Morph-Thing website for members. Add to Wordbook"
+    }
+  ]
+}

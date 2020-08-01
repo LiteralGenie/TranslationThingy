@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "계기판",
+      "hanja": " (計器板)",
+      "example": {},
+      "meanings": [
+        "gauge, (자동차 등의) dashboard, (비행기의) instrument panel"
+      ]
+    },
+    {
+      "phrase": "결함탐지계기판",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 fault location panel (FLP)"
+      ]
+    },
+    {
+      "phrase": "조종수 계기판",
+      "hanja": " (操縱手計器板)",
+      "example": {},
+      "meanings": [
+        "Driver Instrument Panel"
+      ]
+    },
+    {
+      "phrase": "가상 계기판",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "virtual instrument board"
+      ]
+    },
+    {
+      "phrase": "계기판을 달다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "install instrument panel"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "panel",
+      "frequency": 3
+    },
+    {
+      "meaning": "dashboard",
+      "frequency": 0
+    },
+    {
+      "meaning": "an instrument panel",
+      "frequency": 0
+    },
+    {
+      "meaning": "dasher",
+      "frequency": 0
+    },
+    {
+      "meaning": "instrument panel",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그 티저에 나오는 \"오토바이 계기판 무슨 의미일까?\" Thinking \" What does the panel of the motorbike mean?\" 듣기 View video EXO : [FULL] EXO COMEBACK SHOWCASE “TEMPO”",
+      "english": "Thinking \" What does the panel of the motorbike mean?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the instrument panel 듣기 Add to Wordbook 계기판 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the instrument panel Add to Wordbook"
+    },
+    {
+      "korean": "an instrument panel 듣기 Add to Wordbook 계기판 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an instrument panel Add to Wordbook"
+    },
+    {
+      "korean": "Check the tyre pressure on the dial. 듣기 Add to Wordbook 계기판을 보고 타이어 압력을 확인하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Check the tyre pressure on the dial. Add to Wordbook"
+    },
+    {
+      "korean": "The fuel gauge on the dashboard was on empty. 듣기 Add to Wordbook 계기판을 들여다보니 기름이 별로 없었다. Neungyule",
+      "english": "The fuel gauge on the dashboard was on empty. Add to Wordbook"
+    },
+    {
+      "korean": "The vibration in the dashboard is happening because the wheels are out of alignment. 듣기 Add to Wordbook 자동차 바퀴가 제대로 정렬되어 있지 않아 계기판에 진동이 일어나고 있다. YBM All in All English-Korean Dictionary",
+      "english": "The vibration in the dashboard is happening because the wheels are out of alignment. Add to Wordbook"
+    }
+  ]
+}

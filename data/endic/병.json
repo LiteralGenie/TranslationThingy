@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "병",
+      "hanja": " (病)",
+      "example": {},
+      "meanings": [
+        "(질병) disease, illness, sickness, disorder; (가벼운) ailment; (국부적인) (formal) complaint, (heart/skin) trouble",
+        "(허물, 결점) weakness, fault",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "병",
+      "hanja": " (甁)",
+      "example": {},
+      "meanings": [
+        "bottle, (주둥이가 큰) jar"
+      ]
+    },
+    {
+      "phrase": "병 주고 약 준다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give someone a disease and then medicine"
+      ]
+    },
+    {
+      "phrase": "병에는 장사 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "There is no man of great strength for a disease"
+      ]
+    },
+    {
+      "phrase": "병이 난",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sick",
+        "ill",
+        "unwell"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "illness",
+      "frequency": 2
+    },
+    {
+      "meaning": "jar",
+      "frequency": 0
+    },
+    {
+      "meaning": "bottle",
+      "frequency": 2
+    },
+    {
+      "meaning": "stress",
+      "frequency": 2
+    },
+    {
+      "meaning": "pot",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네, 초록병은... 병이요? Yes, a green bottle... Bottle? 듣기 View video V COOKIE : [Full] INFINITE X Eating Show - 인피니트 X 같이 먹어요",
+      "english": "Yes, a green bottle... Bottle?"
+    },
+    {
+      "korean": "병을 물리치려고~ To get rid (mool-li) of sickness~ 듣기 View video V PICK! : [iKON] 이 박사님들 깜찍학 박사 맞아요 무조건 맞아요 👨‍🎓 (JAY&BOBBY playing with swimming goggles)",
+      "english": "To get rid (mool-li) of sickness~"
+    },
+    {
+      "korean": "저희 엄마가 모든 병의 약간... My mom's a little bit... 듣기 View video NCT : 심심🐭",
+      "english": "My mom's a little bit..."
+    },
+    {
+      "korean": "갑자기 진행병 뭐야? What is this hosting disease you have? 듣기 View video ASTRO : 로하가 보고싶어서 ☺️",
+      "english": "What is this hosting disease you have?"
+    },
+    {
+      "korean": "병에 넣고 흔들면 된다고요? I can put it in a bottle and shake it? 듣기 View video NU'EST : [nu'est]안 녕!",
+      "english": "I can put it in a bottle and shake it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The wines are bottled after three years. 발음듣기 그 포도주는 3년 후에 병에 담는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The wines are bottled after three years. 발음"
+    },
+    {
+      "korean": "The disease has left her with permanent lameness. 발음듣기 그 병으로 그녀는 평생 다리를 절게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The disease has left her with permanent lameness. 발음"
+    },
+    {
+      "korean": "If untreated, the illness can become severe. 발음듣기 만약 치료를 안 받으면 병이 심해질 수가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "If untreated, the illness can become severe. 발음"
+    },
+    {
+      "korean": "He had a morbid fascination with blood. 발음듣기 그는 병적으로 피에 매혹을 느꼈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had a morbid fascination with blood. 발음"
+    },
+    {
+      "korean": "He sought solace in the whisky bottle. 발음듣기 그는 위스키 병[술병]에서 위안을 찾았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He sought solace in the whisky bottle. 발음"
+    }
+  ]
+}

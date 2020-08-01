@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "가증",
+      "hanja": " (可憎)",
+      "example": {},
+      "meanings": [
+        "가증하다 [스럽다] hateful, abominable, detestable, spiteful."
+      ]
+    },
+    {
+      "phrase": "가증스럽다",
+      "hanja": " (可憎스럽다)",
+      "example": {},
+      "meanings": [
+        "contemptible, despicable"
+      ]
+    },
+    {
+      "phrase": "가증하다",
+      "hanja": " (可憎―)",
+      "example": {},
+      "meanings": [
+        "(be) hateful, detestable, abominable"
+      ]
+    },
+    {
+      "phrase": "가증 방법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weighted method"
+      ]
+    },
+    {
+      "phrase": "주파수가증",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "frequency abomination"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "scandalous",
+      "frequency": 1
+    },
+    {
+      "meaning": "abomination",
+      "frequency": 1
+    },
+    {
+      "meaning": "가증",
+      "frequency": 0
+    },
+    {
+      "meaning": "detestable",
+      "frequency": 0
+    },
+    {
+      "meaning": "a scandalous waste of money",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "가증스러운 것. You're so fake. 듣기 View video V WEB DRAMA : 마스크 03화 - 유효기간 8",
+      "english": "You're so fake."
+    },
+    {
+      "korean": "가증 듣고 싶은 말? \"What do you want to hear most?\" 듣기 View video VIXX : 무엇이든 LEO에게 물어보세요!",
+      "english": "\"What do you want to hear most?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "All terrorist crime is detestable, whoever the victims. 발음듣기 희생자가 누구든 간에 모든 테러 범죄는 가증스러운 짓이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All terrorist crime is detestable, whoever the victims. 발음"
+    },
+    {
+      "korean": "a scandalous waste of money 발음듣기 가증스러운 금전 낭비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a scandalous waste of money 발음"
+    },
+    {
+      "korean": "the abomination of desolation 발음듣기 〔성서〕 성지(聖地)를 짓밟는 가증스러운 짓(〔聖〕 Matt. 24:15). Friendict Level English-Korean Dictionary",
+      "english": "the abomination of desolation 발음"
+    },
+    {
+      "korean": "What a contemptible bastard! 발음듣기 저런 가증스러운 녀석 같으니라고! Neungyule",
+      "english": "What a contemptible bastard! 발음"
+    },
+    {
+      "korean": "Her cruel treatment of others is abominable. 발음듣기 타인에 대한 그녀의 가혹한 대우는 가증스럽다. Neungyule",
+      "english": "Her cruel treatment of others is abominable. 발음"
+    }
+  ]
+}

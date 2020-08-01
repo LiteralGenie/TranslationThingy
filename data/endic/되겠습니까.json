@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(새로운 신분·지위 등을 갖다) be, become",
+        "(다른 것으로 변하다) turn[change] (in)to, (발전하다) develop into",
+        "(때·시기 등에 이르다) be, come, become; (나이가) reach, (formal) attain; (경과하다) pass"
+      ]
+    },
+    {
+      "phrase": "되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물기가 적어 뻑뻑하다) thick, stiff"
+      ]
+    },
+    {
+      "phrase": "-되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동사적 명사에 붙어) become, get to be, be",
+        "(형용사·부사적 어근에 붙어) be"
+      ]
+    },
+    {
+      "phrase": "녹색이면 되겠습니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Will a green one do?"
+      ]
+    },
+    {
+      "phrase": "뭐 좀 물어 봐도 되겠습니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "May I ask you something?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "May I be excused?",
+      "frequency": 0
+    },
+    {
+      "meaning": "proper",
+      "frequency": 2
+    },
+    {
+      "meaning": "ready",
+      "frequency": 2
+    },
+    {
+      "meaning": "written",
+      "frequency": 2
+    },
+    {
+      "meaning": "afford",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "400번으로 되겠습니까? Is 400 times enough? 듣기 View video V PICK! : [VPICK! HOW TO in V] 이션의 달고나커피☕ (HOW TO COOK E-TION’s Dalgona coffee)",
+      "english": "Is 400 times enough?"
+    },
+    {
+      "korean": "그러면 잠깐 물 좀 가져와도 되겠습니까? Then can I briefly go and get some water? 듣기 View video Park Bo Young : 연락👋🏼",
+      "english": "Then can I briefly go and get some water?"
+    },
+    {
+      "korean": "붙여드릴게요 - 거울 한 번만 받아도 되겠습니까? I will. - May I look into the mirror now? 듣기 View video V COOKIE : [Full] Apink 9th Anniversary x - 에이핑크 데뷔 9주년 기념 <같이 먹어요>",
+      "english": "I will. - May I look into the mirror now?"
+    },
+    {
+      "korean": "[양해] 여기서 스프레이 좀 뿌려도 되겠습니까? [Asking for understanding] May I use the spray here? 듣기 View video BTS : Run BTS! 2020 - EP.104",
+      "english": "[Asking for understanding] May I use the spray here?"
+    },
+    {
+      "korean": "딱 한 시간 채워도 되겠습니까? may I go for a hour? 듣기 View video V PICK! : [UP10TION] 영원히 철 안 들 샤랑둥이를 영원히 샤랑해💛 (XIAO talking about his hair style)",
+      "english": "may I go for a hour?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Can I rely on your support in the election? 발음듣기 선거에서 당신의 지지를 기대해도 되겠습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I rely on your support in the election? 발음"
+    },
+    {
+      "korean": "Can we take it as read that you want the job? 발음듣기 당신이 그 일자리를 원한다는 것을 액면 그대로 받아들여도 되겠습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can we take it as read that you want the job? 발음"
+    },
+    {
+      "korean": "Could I interest you in this model, Sir? 발음듣기 고객님, 이 모델을 한번 권해 드려도 되겠습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Could I interest you in this model, Sir? 발음"
+    },
+    {
+      "korean": "Can we deduce from your silence that you do not approve? 발음듣기 당신의 침묵을 당신이 인정하지 않는다는 뜻으로 추정해도 되겠습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can we deduce from your silence that you do not approve? 발음"
+    },
+    {
+      "korean": "Could I move my visit to the following week? 발음듣기 제가 방문하는 건 그 다음 주로 옮겨도 되겠습니까? DARAKWON",
+      "english": "Could I move my visit to the following week? 발음"
+    }
+  ]
+}

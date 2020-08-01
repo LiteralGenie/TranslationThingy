@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "G",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 지(영어 알파벳의 일곱째 글자)",
+        "Noun 음악 ‘사’음 (→G and T, G-string)",
+        "Abbreviation 美 (영화 등급에서) 전체 관람가"
+      ]
+    },
+    {
+      "phrase": "G",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 1,000달러(grand)",
+        "Noun 물리 [때로 g] 중력 가속도",
+        "Noun (연속한 것의) 제 7번째(의 것)"
+      ]
+    },
+    {
+      "phrase": "G ( G. )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gay, German(y), good, gourde(s), guilder(s), gulf"
+      ]
+    },
+    {
+      "phrase": "G",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Symbol (차례·연속된 것 중의) 일곱번째(의 것).",
+        "Symbol 음악 사음(다 장조의 제5음, 도레미 창법의 솔음), 사음의 음표[현(弦)·건(鍵) 따위]; 사조(調).",
+        "Symbol (중세 로마 숫자의) 400(<참고> Roman numerals)."
+      ]
+    },
+    {
+      "phrase": "G",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "카지노용어 지, ‘조지(george)’에 대한 약자이다."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "사음",
+      "frequency": 0
+    },
+    {
+      "meaning": "grav",
+      "frequency": 0
+    },
+    {
+      "meaning": "film rating",
+      "frequency": 0
+    },
+    {
+      "meaning": "중력정수",
+      "frequency": 0
+    },
+    {
+      "meaning": "B-Y signal",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "원우 씨예요 원우지예요? Is it Wonwoo or Wonwoo G? 듣기 View video SEVENTEEN : 헹가래의 끝은 안드로메다🚀",
+      "english": "Is it Wonwoo or Wonwoo G?"
+    },
+    {
+      "korean": "지드래곤 선배님의 '그XX'요? \"That XX by G-DRAGON?\" 듣기 View video MONSTA X : 화이트데이 선물입니당😊🍭❤️🎁",
+      "english": "\"That XX by G-DRAGON?\""
+    },
+    {
+      "korean": "ㄱㄹ 하나 둘 셋 - 기린! \"G\" \"R\". 1, 2, 3. - Gi-rin! 듣기 View video BTS : Run BTS! 2020 - EP.105",
+      "english": "\"G\" \"R\". 1, 2, 3. - Gi-rin!"
+    },
+    {
+      "korean": "그리고 어떤 코드로 할까요? F, G로 갈까요? Then what? Maybe the F and G chords? 듣기 View video TOMORROW X TOGETHER : 범규의 작업실",
+      "english": "Then what? Maybe the F and G chords?"
+    },
+    {
+      "korean": "우리 'A L R I G H T'을 한번 맞춰볼까? Should we practice \"A L R I G H T\" together? 듣기 View video Apink : 야식먹방!!!",
+      "english": "Should we practice \"A L R I G H T\" together?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Gold’ begins with (a) G / ‘G’. 발음듣기 gold 는 g 로 시작된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Gold’ begins with (a) G / ‘G’. 발음"
+    },
+    {
+      "korean": "Should I write ‘god’ with a small ‘g’ or a capital? 발음듣기 god을 소문자 g로 써야 하나요 대문자로 써야 하나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Should I write ‘god’ with a small ‘g’ or a capital? 발음"
+    },
+    {
+      "korean": "Bach’s Air on a G string 발음듣기 바흐의 ‘G 선상의 아리아’ Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Bach’s Air on a G string 발음"
+    },
+    {
+      "korean": "Ravel’s piano concerto in G 발음듣기 라벨의 피아노 협주곡 G 장조 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ravel’s piano concerto in G 발음"
+    },
+    {
+      "korean": "Spacecraft which are re-entering the earth’s atmosphere are affected by g forces. 발음듣기 지구 대기 속으로 재진입하는 우주선은 중력의 영향을 받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Spacecraft which are re-entering the earth’s atmosphere are affected by g forces. 발음"
+    }
+  ]
+}

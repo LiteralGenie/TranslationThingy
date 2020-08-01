@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "선두",
+      "hanja": " (先頭)",
+      "example": {},
+      "meanings": [
+        "(행렬·순서 등의) head",
+        "(경쟁·경주 등의) the lead"
+      ]
+    },
+    {
+      "phrase": "선두에 서다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be at the head (of)",
+        "take[gain] the lead (in)",
+        "be in the vanguard (of)"
+      ]
+    },
+    {
+      "phrase": "선두를 달리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be in the lead",
+        "be in the forefront (of)"
+      ]
+    },
+    {
+      "phrase": "선두를 탈환하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "win back first place",
+        "win back the leading position"
+      ]
+    },
+    {
+      "phrase": "선두 소대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a leading section"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "leader",
+      "frequency": 3
+    },
+    {
+      "meaning": "vanguard",
+      "frequency": 3
+    },
+    {
+      "meaning": "lead 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "forefront",
+      "frequency": 0
+    },
+    {
+      "meaning": "head of the river",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "패션의 선두주자. The leader of fashion. 듣기 View video MAMAMOO : [MMMTV4] EP18 4Season in Seoul",
+      "english": "The leader of fashion."
+    },
+    {
+      "korean": "빈주얼 형이 이제 선두로 서고 있고요. Bin-sual is taking the lead right now. 듣기 View video Stray Kids : 졸음방지 브이라이브 Zzz",
+      "english": "Bin-sual is taking the lead right now."
+    },
+    {
+      "korean": "달릴 때 제가 선두에 있을 거예요. I'll be in the lead when you guys are driving. 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 4부_ep.4 귀염뽀짝♡ 마리호&루이지현 형제",
+      "english": "I'll be in the lead when you guys are driving."
+    },
+    {
+      "korean": "성형 메이크업의 선두주자로서... I am into makeup better than plastic surgery... 듣기 View video V Beauty : [뷰스타데이] 파우치을 털어라! / Opening the pouch of creator !",
+      "english": "I am into makeup better than plastic surgery..."
+    },
+    {
+      "korean": "[헛둘 헛둘] 김남준 선두입니다. [One two, one two] Player's name is Kim Namjoon. 듣기 View video BTS : Run BTS! 2018 - EP.42",
+      "english": "[One two, one two] Player's name is Kim Namjoon."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The party now has an unassailable lead. 듣기 Add to Wordbook 그 당은 이제 난공불락의 선두를 달리고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party now has an unassailable lead. Add to Wordbook"
+    },
+    {
+      "korean": "On the last lap three runners were disputing the lead. 듣기 Add to Wordbook 마지막 한 바퀴를 돌면서 세 명의 주자가 선두 다툼을 벌이고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "On the last lap three runners were disputing the lead. Add to Wordbook"
+    },
+    {
+      "korean": "She forged into the lead. 듣기 Add to Wordbook (경주 등에서) 그녀가 서서히 선두로 나아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She forged into the lead. Add to Wordbook"
+    },
+    {
+      "korean": "She soon fell behind the leaders. 듣기 Add to Wordbook 그녀는 곧 선두 주자들보다 뒤떨어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She soon fell behind the leaders. Add to Wordbook"
+    },
+    {
+      "korean": "She took the lead in the second lap. 듣기 Add to Wordbook 그녀가 두 바퀴째에 선두가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She took the lead in the second lap. Add to Wordbook"
+    }
+  ]
+}

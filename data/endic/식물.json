@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "식물",
+      "hanja": " (植物)",
+      "example": {},
+      "meanings": [
+        "plants, plant life, vegetation, (특정 지역의) flora"
+      ]
+    },
+    {
+      "phrase": "식물의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "vegetable",
+        "plant",
+        "botanical"
+      ]
+    },
+    {
+      "phrase": "식물인간",
+      "hanja": " (植物人間)",
+      "example": {},
+      "meanings": [
+        "person in a vegetative state, (offensive) vegetable, (Brit, inf) cabbage"
+      ]
+    },
+    {
+      "phrase": "식물학자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a botanist"
+      ]
+    },
+    {
+      "phrase": "식물도감",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an illustrated plant book"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "plant",
+      "frequency": 3
+    },
+    {
+      "meaning": "vegetation",
+      "frequency": 3
+    },
+    {
+      "meaning": "Tom Thumb",
+      "frequency": 0
+    },
+    {
+      "meaning": "wildling",
+      "frequency": 0
+    },
+    {
+      "meaning": "aboriginal races[fauna, flora]",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아니면 저 식물을 하나 떼서 먹어볼래? Or should we try eating the plant? 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "Or should we try eating the plant?"
+    },
+    {
+      "korean": "애쉬 - 식물로? Ash. - A plant? 듣기 View video NU'EST : NU’EST 7th Mini Album ‘The Table’ D-1 UNBOXING V LIVE",
+      "english": "Ash. - A plant?"
+    },
+    {
+      "korean": "그러니까 보통 식물이 있지 않나요? Don't you give a plant for a gift? 듣기 View video V PICK! : [W PROJECT] 쁘띠 생일 맞이 아주 특별한 선물대잔치🥬🐼(Woollim rookie’s giving special gift for YUNSEONG)",
+      "english": "Don't you give a plant for a gift?"
+    },
+    {
+      "korean": "비유를 하자면? 어떠한 식물로? Can you compare your hair into a plant? 듣기 View video NU'EST : NU’EST 7th Mini Album ‘The Table’ D-1 UNBOXING V LIVE",
+      "english": "Can you compare your hair into a plant?"
+    },
+    {
+      "korean": "식물로 비유하자면... - 고구마? 밤? My hair looks like... - Sweet potato? Chesnut? 듣기 View video NU'EST : NU’EST 7th Mini Album ‘The Table’ D-1 UNBOXING V LIVE",
+      "english": "My hair looks like... - Sweet potato? Chesnut?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "plants that grow naturally in poor soils 듣기 Add to Wordbook 척박한 토양에서 저절로 자라는 식물 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "plants that grow naturally in poor soils Add to Wordbook"
+    },
+    {
+      "korean": "The plant can be propagated from seed. 듣기 Add to Wordbook 그 식물은 씨앗에서 번식시킬 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plant can be propagated from seed. Add to Wordbook"
+    },
+    {
+      "korean": "Well-drained soil suits the plant best. 듣기 Add to Wordbook 그 식물에는 물이 잘 빠지는 땅이 가장 알맞다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Well-drained soil suits the plant best. Add to Wordbook"
+    },
+    {
+      "korean": "These plants are peculiarly prone to disease. 듣기 Add to Wordbook 이 식물들은 특히 병에 잘 걸린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These plants are peculiarly prone to disease. Add to Wordbook"
+    },
+    {
+      "korean": "The slopes are colonized by flowering plants. 듣기 Add to Wordbook 그 비탈들에는 꽃식물들이 많이 자란다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The slopes are colonized by flowering plants. Add to Wordbook"
+    }
+  ]
+}

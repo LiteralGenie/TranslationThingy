@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "대치",
+      "hanja": " (對峙)",
+      "example": {},
+      "meanings": [
+        "[명사] confrontation, [동사] confront, stand face to face (with)"
+      ]
+    },
+    {
+      "phrase": "대치",
+      "hanja": " (代置)",
+      "example": {},
+      "meanings": [
+        "[명사] substitution, replacement, [동사] substitute (sth for sth), replace (sth with sth), (formal) supplant"
+      ]
+    },
+    {
+      "phrase": "대치하다",
+      "hanja": " (代置하다)",
+      "example": {},
+      "meanings": [
+        "Verb replace, substitute"
+      ]
+    },
+    {
+      "phrase": "대치되다",
+      "hanja": " (對峙되다)",
+      "example": {},
+      "meanings": [
+        "Verb confront"
+      ]
+    },
+    {
+      "phrase": "대치되다",
+      "hanja": " (代置되다)",
+      "example": {},
+      "meanings": [
+        "Verb be replaced, be substituted"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "confrontation",
+      "frequency": 1
+    },
+    {
+      "meaning": "contraposition",
+      "frequency": 0
+    },
+    {
+      "meaning": "confrontation between employers and unions",
+      "frequency": 0
+    },
+    {
+      "meaning": "counterpose",
+      "frequency": 0
+    },
+    {
+      "meaning": "eyeball to eyeball (with somebody)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[여전히 좀비와 대치 중인 정지미 팀] 왜 이렇게 많아! [Team JEONGxJIxMI is confronting against zombies] There are so many zombies! 듣기 View video TWICE : TWICE REALITY “TIME TO TWICE” – 대탈출 EP.02",
+      "english": "[Team JEONGxJIxMI is confronting against zombies] There are so many zombies!"
+    },
+    {
+      "korean": "넌 이번 방학 때도 대치동에 살았냐? Hey, you were like almost living at cram schools during the break, right? 듣기 View video tvN D : 내신등급이 내 인생의 등급일까? [언어의 온도 : 우리의 열아홉] Ep.1",
+      "english": "Hey, you were like almost living at cram schools during the break, right?"
+    },
+    {
+      "korean": "대치동 소! 물소! Daechi-dong Cow! Water Buffalo! 듣기 View video ASTRO : [ASTRO PLAY] I 💜 Bangkok",
+      "english": "Daechi-dong Cow! Water Buffalo!"
+    },
+    {
+      "korean": "[또다시 적과 대치 상황!] [Confrontation with an enemy again!] View video PARK JI HOON : [Wink Arcade] 박지훈 [360] 음악방송 2주차 비하인드 PART 2 Lv.24",
+      "english": "[Confrontation with an enemy again!]"
+    },
+    {
+      "korean": "그렇게 힘들게 뭔가... - 대치동? It's very difficult. - Daechidong? 듣기 View video V COOKIE : [Full] Brown Eyed Girls X Eating Show - 브라운 아이드 걸스 X 같이 먹어요",
+      "english": "It's very difficult. - Daechidong?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There were confrontations between local residents and the police. 발음듣기 지역 주민들과 경찰 사이에 대치 사태가 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There were confrontations between local residents and the police. 발음"
+    },
+    {
+      "korean": "Butter can be substituted with margarine in this recipe. 발음듣기 이 조리법에서는 버터가 마가린으로 대치될 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Butter can be substituted with margarine in this recipe. 발음"
+    },
+    {
+      "korean": "The two opposing armies faced each other across the battlefield. 발음듣기 대치 중인 두 군대가 싸움터를 사이에 두고 서로 마주했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The two opposing armies faced each other across the battlefield. 발음"
+    },
+    {
+      "korean": "The protesters and police stood eyeball to eyeball. 발음듣기 시위대들과 경찰은 바로 얼굴을 맞대고 대치 중이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The protesters and police stood eyeball to eyeball. 발음"
+    },
+    {
+      "korean": "There was a head-on confrontation between management and unions. 발음듣기 노사간에 정면 대치 사태가 벌어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was a head-on confrontation between management and unions. 발음"
+    }
+  ]
+}

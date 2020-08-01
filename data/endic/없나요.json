@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "근처에 아무도 없나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Isn't there anyone around?"
+      ]
+    },
+    {
+      "phrase": "재미가 없나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Aren't you enjoying yourself?"
+      ]
+    },
+    {
+      "phrase": "더 싼 것은 없나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Do you have anything cheaper?"
+      ]
+    },
+    {
+      "phrase": "뭐 두고 가는 것 없나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Did I leave anything?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Is this seat free?",
+      "frequency": 0
+    },
+    {
+      "meaning": "Is this an empty chair?",
+      "frequency": 0
+    },
+    {
+      "meaning": "Phone groping",
+      "frequency": 0
+    },
+    {
+      "meaning": "innocent",
+      "frequency": 3
+    },
+    {
+      "meaning": "dull",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "의자가 없나? Is there no chair? 듣기 View video NCT : みんな本当にありがとう！！",
+      "english": "Is there no chair?"
+    },
+    {
+      "korean": "눈곱 없나? Do I not have any right now? 듣기 View video V PICK! : [SF9] (우당탕) 타지야~ 미안해~ 나도 어쩔 수 없는 셒구인가봐~ (우당탕) (JAEYOON talking about newly-coined word)",
+      "english": "Do I not have any right now?"
+    },
+    {
+      "korean": "착하고 똑똑할 수는 없나? Can a person be kind and smart at the same time? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Can a person be kind and smart at the same time?"
+    },
+    {
+      "korean": "언니가 센터니까 - 그거 볼 수 없나? Since you're in the middle. - Can we check it out? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Since you're in the middle. - Can we check it out?"
+    },
+    {
+      "korean": "내가 좋아하는 강아지랑 찍은 그런 건 없나? Is there any photo of me being with the puppy? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Is there any photo of me being with the puppy?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Don't you have more to say? 듣기 Add to Wordbook 더 말할 게 없나요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 sanggum1515(sang****)",
+      "english": "Don't you have more to say? Add to Wordbook"
+    },
+    {
+      "korean": "Can we not start all this again? 듣기 Add to Wordbook 다시 시작할 수 없나요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 예진아씨(yjin****)",
+      "english": "Can we not start all this again? Add to Wordbook"
+    },
+    {
+      "korean": "Don't you have to go home? 듣기 Add to Wordbook 당신은 집에 가야할 필요가 없나요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 인생을 재미있게(ihha****)",
+      "english": "Don't you have to go home? Add to Wordbook"
+    },
+    {
+      "korean": "And no one else has a key? 듣기 Add to Wordbook 그리고 열쇠 가진 사람 아무도 없나요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 gray(orch****)",
+      "english": "And no one else has a key? Add to Wordbook"
+    },
+    {
+      "korean": "Are you gonna do this or not? 듣기 Add to Wordbook 당신은 이것을 할 수 있나요, 없나요? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 인생을 재미있게(ihha****)",
+      "english": "Are you gonna do this or not? Add to Wordbook"
+    }
+  ]
+}

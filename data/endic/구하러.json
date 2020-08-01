@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "구하다",
+      "hanja": " (求―)",
+      "example": {},
+      "meanings": [
+        "(필요한 것을) look[search] for, obtain, (formal) seek; (찾아내다) find (out); (얻다) get",
+        "(조언·양해·용서 등을) ask (for), request, (formal) seek, turn to (=청하다)",
+        "(답·수치 등을) find, (계산하다) calculate"
+      ]
+    },
+    {
+      "phrase": "구하다",
+      "hanja": " (救―)",
+      "example": {},
+      "meanings": [
+        "(위험에서) rescue[save] (sb from sth), (곤경에서) (formal) extricate (sb from sth)"
+      ]
+    },
+    {
+      "phrase": "방을 구하러 다니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "look for a room (to rent)",
+        "go around looking for a room (to rent)"
+      ]
+    },
+    {
+      "phrase": "집을 구하러[보러] 다니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go house hunting",
+        "look around for a house"
+      ]
+    },
+    {
+      "phrase": "집 구하러 다닐거에요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I will go house-hunting."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prog 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "go[come] to the rescue of a person",
+      "frequency": 0
+    },
+    {
+      "meaning": "repair to a shop for tools",
+      "frequency": 0
+    },
+    {
+      "meaning": "set out in search of something",
+      "frequency": 0
+    },
+    {
+      "meaning": "send out for",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "너네를 구하러 갈게! I'll come and rescue you! 듣기 View video EXO : 식사하러오세요💕",
+      "english": "I'll come and rescue you!"
+    },
+    {
+      "korean": "우리 하리 구하러. To save Hari. 듣기 View video 브릿지TV (BRIDGE TV) : <사랑, 시간에 머물다> EP5-1",
+      "english": "To save Hari."
+    },
+    {
+      "korean": "형님 구하러 갑니다 형님! Going to save you! 듣기 View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸동맹] EP.03 누구냐 넌?!",
+      "english": "Going to save you!"
+    },
+    {
+      "korean": "형님! 구하러 갑니다! 형님! Going to save you! 듣기 View video 핵인싸 동맹 (HACKINSSA CREW) : [핵인싸동맹] EP.03 누구냐 넌?!",
+      "english": "Going to save you!"
+    },
+    {
+      "korean": "[구하러... 와... 줄 거죠?] [Will you come to save me?] View video 1THE9(원더나인) : 원더나인(1THE9) - 원더랜드(WONDERLAND) EP.3",
+      "english": "[Will you come to save me?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Gunmen continued to snipe at people leaving their homes to find food. 발음듣기 총을 든 자들이 먹을 것을 구하러 집을 나서는 사람들을 계속 저격했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Gunmen continued to snipe at people leaving their homes to find food. 발음"
+    },
+    {
+      "korean": "We’re going house-hunting at the weekend. 발음듣기 우리는 주말에 집을 알아보러[구하러] 다닐 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re going house-hunting at the weekend. 발음"
+    },
+    {
+      "korean": "The beggar went out into the street for his food. 발음듣기 거지는 먹을 것을 구하러 거리로 나갔다. Friendict Level English-Korean Dictionary",
+      "english": "The beggar went out into the street for his food. 발음"
+    },
+    {
+      "korean": "That must be a relief. Apartment hunting can be stressful. 발음듣기 한시름 덜었겠네요. 아파트 구하러 다니는 게 여간 피곤한 게 아니죠. YBM All in All English-Korean Dictionary",
+      "english": "That must be a relief. Apartment hunting can be stressful. 발음"
+    },
+    {
+      "korean": "Did you have to walk far to get more? 발음듣기 기름 구하러 멀리까지 걸어갔다 왔어요? YBM All in All English-Korean Dictionary",
+      "english": "Did you have to walk far to get more? 발음"
+    }
+  ]
+}

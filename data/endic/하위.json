@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "하위",
+      "hanja": " (下位)",
+      "example": {},
+      "meanings": [
+        "low rank"
+      ]
+    },
+    {
+      "phrase": "하위의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "subordinate",
+        "low-ranking"
+      ]
+    },
+    {
+      "phrase": "하위에 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "rank lower than",
+        "be below[inferior to] in rank",
+        "be junior[subordinate] to"
+      ]
+    },
+    {
+      "phrase": "하위 구분하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "subdivide"
+      ]
+    },
+    {
+      "phrase": "하위 디렉터리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a subdirectory"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "down 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "hypostasis",
+      "frequency": 0
+    },
+    {
+      "meaning": "subordination",
+      "frequency": 0
+    },
+    {
+      "meaning": "juniority",
+      "frequency": 0
+    },
+    {
+      "meaning": "down 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[우리 순위] 하위권인데 5위? [Our ranking] 5th place? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[Our ranking] 5th place?"
+    },
+    {
+      "korean": "여기 하위 팀 좀 보면 안 돼? May we see other teams near the bottom? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "May we see other teams near the bottom?"
+    },
+    {
+      "korean": "[6위 대기실] - 진짜로? - 근데 하위권... [Team at 6th place] - Really? - I can't believe it. 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[Team at 6th place] - Really? - I can't believe it."
+    },
+    {
+      "korean": "[당황 당황] 하위 4팀이 왜 이렇게 세? [Bewildered] How come the lowest 4 teams are so strong? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 19. 3억 쯤은 다들 있ㅈㅕ..?? FLEX 터지는 서울대 바팩과 붙을 학교는??",
+      "english": "[Bewildered] How come the lowest 4 teams are so strong?"
+    },
+    {
+      "korean": "[하위 팀 5위 경희대 서울캠 바운스] - 5등입니다 - 5등이요? [5th place - BOUNCE] - You came in 5th place. - 5th? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[5th place - BOUNCE] - You came in 5th place. - 5th?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Our team is a prime candidate for relegation this year. 듣기 Add to Wordbook 우리 팀이 올해 하위 리그로 추락할 가능성이 가장 큰 팀이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our team is a prime candidate for relegation this year. Add to Wordbook"
+    },
+    {
+      "korean": "a nerdologist of a sub-culture 듣기 Add to Wordbook 하위문화에 대해 잘 아는 사람 국제영어대학원대학교 신어사전",
+      "english": "a nerdologist of a sub-culture Add to Wordbook"
+    },
+    {
+      "korean": "Clockpunk is one of the sub-genres of science fiction. 듣기 Add to Wordbook 클락펑크는 과학소설 하위 장르의 하나이다. 국제영어대학원대학교 신어사전",
+      "english": "Clockpunk is one of the sub-genres of science fiction. Add to Wordbook"
+    },
+    {
+      "korean": "Pinoy rock is influential as a sub-genre of the rock music. 듣기 Add to Wordbook 필리핀 사람들에 의한 락 음악은 락의 한 하위 장르로 영향력이 있다. 국제영어대학원대학교 신어사전",
+      "english": "Pinoy rock is influential as a sub-genre of the rock music. Add to Wordbook"
+    },
+    {
+      "korean": "Many compound words are listed as new sub-entries of the dictionary. 듣기 Add to Wordbook 많은 합성어들이 그 사전의 신규 하위 표제항으로 등재되었다. 국제영어대학원대학교 신어사전",
+      "english": "Many compound words are listed as new sub-entries of the dictionary. Add to Wordbook"
+    }
+  ]
+}

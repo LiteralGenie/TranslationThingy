@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "기회",
+      "hanja": " (機會)",
+      "example": {},
+      "meanings": [
+        "opportunity, chance"
+      ]
+    },
+    {
+      "phrase": "기회비용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "opportunity cost"
+      ]
+    },
+    {
+      "phrase": "기회 균등",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "equal opportunity",
+        "equality in opportunity"
+      ]
+    },
+    {
+      "phrase": "좋은 기회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a good chance[opportunity]"
+      ]
+    },
+    {
+      "phrase": "기회를 잡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seize[grab] a(n) opportunity[chance]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "chance",
+      "frequency": 3
+    },
+    {
+      "meaning": "life",
+      "frequency": 3
+    },
+    {
+      "meaning": "seize",
+      "frequency": 3
+    },
+    {
+      "meaning": "opportunity",
+      "frequency": 3
+    },
+    {
+      "meaning": "power",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[멘탈 탈탈] 한 번만 더 기회를 주시면... [Begging] Please give me another chance. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Begging] Please give me another chance."
+    },
+    {
+      "korean": "[마지막 기회] 정확히 말씀해 주셔야 해요, 하나... [Last chance] Say the correct word. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Last chance] Say the correct word."
+    },
+    {
+      "korean": "[세상][공손] 선생님... 기회를 한 번만 더 주신다면... [So][Polite] Could we please get another chance...? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[So][Polite] Could we please get another chance...?"
+    },
+    {
+      "korean": "아니 기회를 재진이한테 단독으로... Let's give him a chance. 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Let's give him a chance."
+    },
+    {
+      "korean": "[실망] 기회 한 번 더 줘? [Disappointed] Do you want another chance? 듣기 View video OSEN : Stray Kids 스트레이키즈, 게임에 정신없이 빠져버린 썰 #스타로드 12",
+      "english": "[Disappointed] Do you want another chance?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Give me one more chance,’ he begged. 듣기 Add to Wordbook “한 번만 더 기회를 주세요.” 그가 간청했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Give me one more chance,’ he begged. Add to Wordbook"
+    },
+    {
+      "korean": "It was a chance to heal the wounds in the party. 듣기 Add to Wordbook 그것은 당내의 상처를 치유할 수 있는 기회였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was a chance to heal the wounds in the party. Add to Wordbook"
+    },
+    {
+      "korean": "Illegal immigrants were given the opportunity to regularize their position. 듣기 Add to Wordbook 불법 이민자들에게 자신들의 지위를 합법화할 수 있는 기회가 주어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Illegal immigrants were given the opportunity to regularize their position. Add to Wordbook"
+    },
+    {
+      "korean": "endless opportunities for making money 듣기 Add to Wordbook 돈을 벌 무한한 기회 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "endless opportunities for making money Add to Wordbook"
+    },
+    {
+      "korean": "a chance to fulfil a childhood dream 듣기 Add to Wordbook 어릴 적 꿈을 이룰 수 있는 기회 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a chance to fulfil a childhood dream Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "자면",
+      "hanja": " (字面)",
+      "example": {},
+      "meanings": [
+        "the appearance of printed words, [활자 1개의] the face."
+      ]
+    },
+    {
+      "phrase": "-자면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -jamyeon (→-다면, -라면, -ㄴ다면, -는다면)",
+        "-jamyeon (→-다면, -라면)"
+      ]
+    },
+    {
+      "phrase": "자다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(잠을 자다) sleep, (literary) slumber, (Am, inf) catch[get] some z's",
+        "(남녀가 성 관계를 갖다) sleep with, sleep together, make love (to/with), (informal) go to bed with, have sex (with), (formal) have (sexual...",
+        "(바람·파도 등이) subside, die down"
+      ]
+    },
+    {
+      "phrase": "골성사자면(증)",
+      "hanja": " (骨性獅子面(症))",
+      "example": {},
+      "meanings": [
+        "의학 leontiasis ossea, leontiasis ossium"
+      ]
+    },
+    {
+      "phrase": "자다가 봉창 두드린다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pound on a paper window while sleeping"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "type face",
+      "frequency": 0
+    },
+    {
+      "meaning": "when the storm abates",
+      "frequency": 0
+    },
+    {
+      "meaning": "leontiasis ossea",
+      "frequency": 0
+    },
+    {
+      "meaning": "ga(u)ge of type",
+      "frequency": 0
+    },
+    {
+      "meaning": "side bearing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "정말 늦게 자면 7시? If it's very late, 7am? 듣기 View video NCT : 같이만드는 해찬캠💚",
+      "english": "If it's very late, 7am?"
+    },
+    {
+      "korean": "잠 안 자면 뭐해요? What do you do if you don't sleep? 듣기 View video SF9 : 안자는 사람끼리 20✌",
+      "english": "What do you do if you don't sleep?"
+    },
+    {
+      "korean": "집에 가서 잠 자면 끝나나? Will this be over when I sleep? 듣기 View video NCT : 태용시~~💚💚💚",
+      "english": "Will this be over when I sleep?"
+    },
+    {
+      "korean": "민주야 여기서 자면 안 돼 어? Minju, you shouldn't sleep here. 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "Minju, you shouldn't sleep here."
+    },
+    {
+      "korean": "낮잠 자면 되게 기분이 좋아지더라고 - 낮잠! It makes me feel good. - A nap! 듣기 View video BTS : 민슈가 생일 2일전💜",
+      "english": "It makes me feel good. - A nap!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You can doss down on my floor. 발음듣기 넌 우리 집[내 방] 바닥에서 자면 돼. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can doss down on my floor. 발음"
+    },
+    {
+      "korean": "He gets ratty if he doesn’t get enough sleep. 발음듣기 그는 잠을 충분히 못 자면 짜증을 잘 낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He gets ratty if he doesn’t get enough sleep. 발음"
+    },
+    {
+      "korean": "You have my room and I’ll bed down in the living room. 발음듣기 제 방을 쓰세요. 전 거실에서 자면 돼요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You have my room and I’ll bed down in the living room. 발음"
+    },
+    {
+      "korean": "Maybe a little nap after lunch would help? 발음듣기 점심 먹고 살짝 낮잠 자면 괜찮으려나? DARAKWON",
+      "english": "Maybe a little nap after lunch would help? 발음"
+    },
+    {
+      "korean": "Bout to get a cat nap in before class. I hope I don’t oversleep. 발음듣기 강의 가기 전에 토막잠 좀 자려고. 너무 오래 자면 안 되는데. DARAKWON",
+      "english": "Bout to get a cat nap in before class. I hope I don’t oversleep. 발음"
+    }
+  ]
+}

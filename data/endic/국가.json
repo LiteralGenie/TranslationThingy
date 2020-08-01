@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "국가",
+      "hanja": " (國家)",
+      "example": {},
+      "meanings": [
+        "(나라) nation, country, state"
+      ]
+    },
+    {
+      "phrase": "국가",
+      "hanja": " (國歌)",
+      "example": {},
+      "meanings": [
+        "(나라의 상징곡) national anthem"
+      ]
+    },
+    {
+      "phrase": "국가 대표",
+      "hanja": " (國家代表)",
+      "example": {},
+      "meanings": [
+        "member of the national team"
+      ]
+    },
+    {
+      "phrase": "국가기관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "state[governmental] institution[organ]"
+      ]
+    },
+    {
+      "phrase": "독재국가",
+      "hanja": " (獨裁國家)",
+      "example": {},
+      "meanings": [
+        "dictatorship, autocratic state, autocracy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "state",
+      "frequency": 3
+    },
+    {
+      "meaning": "country",
+      "frequency": 3
+    },
+    {
+      "meaning": "economy",
+      "frequency": 3
+    },
+    {
+      "meaning": "nation",
+      "frequency": 3
+    },
+    {
+      "meaning": "soil",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그 각 나라의 각 국가의 그런... From every country... 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 1ST FANMEETING BEHIND IN THAILAND",
+      "english": "From every country..."
+    },
+    {
+      "korean": "[국가 기밀 연구소?] 국가 기밀 연구소 같은... a secret national research institute. 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 8. 들어는 보았는가 뇌세포 절단랩!? 마! 이게 공대생의 랩이다! 포스텍 \"피펑크\"",
+      "english": "a secret national research institute."
+    },
+    {
+      "korean": "국가의 비밀스러운 기관에 수사... 뭐라 해야 되지? I'd be in some national secret organization... What do you call it? 듣기 View video VICTON : 2020",
+      "english": "I'd be in some national secret organization... What do you call it?"
+    },
+    {
+      "korean": "[꼬꼬마 피터박... 국가에서 유일하게 허락해준 치사량 초과 큐티 그거 맞다...] 뭔가 약간... [Little Peter Park... That's the only lethal amount of cuteness we're allowed...] It seemed like... 듣기 View video V PICK! : [NCT] 제가 지금 천지 보다가 천국가면 대박 빨라요 보여줄까요? (Chenle&Jisung's trainee years story)",
+      "english": "[Little Peter Park... That's the only lethal amount of cuteness we're allowed...] It seemed like..."
+    },
+    {
+      "korean": "인사를 해달라고 여러 국가에서 또... They're asking us to say hello to them. 듣기 View video ATEEZ : Hello Lisbon❤️",
+      "english": "They're asking us to say hello to them."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a statue in commemoration of a national hero 듣기 Add to Wordbook 국가적 영웅을 기리는 조각상 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a statue in commemoration of a national hero Add to Wordbook"
+    },
+    {
+      "korean": "A special bond unites our two countries. 듣기 Add to Wordbook 특별한 유대가 우리 두 국가를 결속시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A special bond unites our two countries. Add to Wordbook"
+    },
+    {
+      "korean": "an embargo on arms sales to certain countries 듣기 Add to Wordbook 특정 국가들에 대한 무기 금수 조치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an embargo on arms sales to certain countries Add to Wordbook"
+    },
+    {
+      "korean": "to respect the territorial integrity of the nation 듣기 Add to Wordbook 국가의 영토 보전을 존중하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to respect the territorial integrity of the nation Add to Wordbook"
+    },
+    {
+      "korean": "Malaria is endemic in many hot countries. 듣기 Add to Wordbook 말라리아는 많은 열대 국가들의 풍토병이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Malaria is endemic in many hot countries. Add to Wordbook"
+    }
+  ]
+}

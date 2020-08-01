@@ -1,0 +1,81 @@
+{
+  "phrases": [
+    {
+      "phrase": "착하",
+      "hanja": " (着荷)",
+      "example": {},
+      "meanings": [
+        "arrivals, arrival[receipt] of goods"
+      ]
+    },
+    {
+      "phrase": "신규 착하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "new arrivals"
+      ]
+    },
+    {
+      "phrase": "착하 지불",
+      "hanja": " (着荷支拂)",
+      "example": {},
+      "meanings": [
+        "payment on arrival"
+      ]
+    },
+    {
+      "phrase": "착하 인도",
+      "hanja": " (着荷引渡)",
+      "example": {},
+      "meanings": [
+        "delivery on arrival"
+      ]
+    },
+    {
+      "phrase": "착하통지",
+      "hanja": " (着荷通知)",
+      "example": {},
+      "meanings": [
+        "an advice of arrival."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Ank.",
+      "frequency": 0
+    },
+    {
+      "meaning": "delivery on arrival",
+      "frequency": 0
+    },
+    {
+      "meaning": "delivery on arrival",
+      "frequency": 0
+    },
+    {
+      "meaning": "arrival notice",
+      "frequency": 0
+    },
+    {
+      "meaning": "advice of arrival",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Arrivals of goods from the interior are very poor(heavy). 듣기 Add to Wordbook 내지(内地)로부터의 착하(着荷)는 아주 적다(많다) 영어영작문대사전",
+      "english": "Arrivals of goods from the interior are very poor(heavy). Add to Wordbook"
+    },
+    {
+      "korean": "Arrivals continue to be abundant(scarce). 듣기 Add to Wordbook 착하(着荷)가 계속 많다(적다). 영어영작문대사전",
+      "english": "Arrivals continue to be abundant(scarce). Add to Wordbook"
+    },
+    {
+      "korean": "delivery on arrival 듣기 Add to Wordbook 착하(着荷) 인도. Friendict Level English-Korean Dictionary",
+      "english": "delivery on arrival Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "phrases": [
+    {
+      "phrase": "일신",
+      "hanja": " (一身)",
+      "example": {},
+      "meanings": [
+        "(자기 한 몸) one's self[body]",
+        "(온몸) the whole body"
+      ]
+    },
+    {
+      "phrase": "면목을 일신하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "assume a new aspect",
+        "undergo a complete change"
+      ]
+    },
+    {
+      "phrase": "일신하다",
+      "hanja": " (一新하다)",
+      "example": {},
+      "meanings": [
+        "(새롭게 바꾸다)change (completely), renew"
+      ]
+    },
+    {
+      "phrase": "일신을 바치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "offer[devote] oneself"
+      ]
+    },
+    {
+      "phrase": "면모를 일신하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put on quite a new aspect",
+        "be completely changed",
+        "undergo a renewal"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "refurbishment",
+      "frequency": 0
+    },
+    {
+      "meaning": "assume a new aspect",
+      "frequency": 0
+    },
+    {
+      "meaning": "monolatry",
+      "frequency": 0
+    },
+    {
+      "meaning": "monotheist",
+      "frequency": 0
+    },
+    {
+      "meaning": "undergo a sea change",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "entrust one’s safety to a boat 발음듣기 일신의 안전을 보트에 맡기다. Friendict Level English-Korean Dictionary",
+      "english": "entrust one’s safety to a boat 발음"
+    },
+    {
+      "korean": "The stadium has freshened up the looks with a recent repair. 발음듣기 그 경기장은 최근 보수공사를 통해 면모를 일신했다 Neungyule",
+      "english": "The stadium has freshened up the looks with a recent repair. 발음"
+    },
+    {
+      "korean": "seek safely in flight 발음듣기 달아나서 일신의 안전을 꾀하다. Friendict Level English-Korean Dictionary",
+      "english": "seek safely in flight 발음"
+    },
+    {
+      "korean": "The tissues of the human body are completely renewed every seven years. 발음듣기 인체의 조직은 7년마다 완전히 일신된다 Dong-a's Prime English-Korean Dictionary",
+      "english": "The tissues of the human body are completely renewed every seven years. 발음"
+    },
+    {
+      "korean": "The stadium has freshened up its looks with the recent remodeling. 발음듣기 그 경기장은 최근 보수공사를 통해 면모를 일신했다 Neungyule",
+      "english": "The stadium has freshened up its looks with the recent remodeling. 발음"
+    }
+  ]
+}

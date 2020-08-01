@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "함포",
+      "hanja": " (艦砲)",
+      "example": {},
+      "meanings": [
+        "the guns of a warship"
+      ]
+    },
+    {
+      "phrase": "함포사격을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fire from warships",
+        "bombard sth from the sea[from a warship, by sea]"
+      ]
+    },
+    {
+      "phrase": "함포사격을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be bombarded by the warships"
+      ]
+    },
+    {
+      "phrase": "함포 사격",
+      "hanja": " (艦砲射擊)",
+      "example": {},
+      "meanings": [
+        "bombardment from a warship[by naval guns], naval bombardment"
+      ]
+    },
+    {
+      "phrase": "함포지원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 gunfire support (GFS)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Naval Projectile",
+      "frequency": 0
+    },
+    {
+      "meaning": "Naval artillery",
+      "frequency": 0
+    },
+    {
+      "meaning": "carronade",
+      "frequency": 0
+    },
+    {
+      "meaning": "call-fire",
+      "frequency": 0
+    },
+    {
+      "meaning": "GFS",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "On that day, North Korean ships crossed the NLL again and fired. 듣기 Add to Wordbook 그날, 북한 배들은 다시 NLL을 넘었고 그들은 함포사격을 하였다. EDU TIMES",
+      "english": "On that day, North Korean ships crossed the NLL again and fired. Add to Wordbook"
+    },
+    {
+      "korean": "The Choi Young’s 5-inch gun fired shells at the ship to distract the pirates’ attention. 듣기 Add to Wordbook 해적들의 시선을 흐트러뜨리기 위해 최영함의 5인치 함포가 불을 뿜었다. EDU TIMES",
+      "english": "The Choi Young’s 5-inch gun fired shells at the ship to distract the pirates’ attention. Add to Wordbook"
+    },
+    {
+      "korean": "Rear Admiral Snelson: The Naval Gunfire Support provided another way of bringing a firing effect onto the Al Faw peninsula. 듣기 Add to Wordbook 해군 소장 스넬슨: 해군의 함포 사격 지원은 알 파우프 반도에 또 다른 방법의 공격효과를 제공하였지. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 워드(jk04****) Hansard",
+      "english": "Rear Admiral Snelson: The Naval Gunfire Support provided another way of bringing a firing effect onto the Al Faw peninsula. Add to Wordbook"
+    },
+    {
+      "korean": "Holed beneath the water line, its Exocet launchers and front gun destroyed, the listing ship limped away from the island. 듣기 Add to Wordbook 흘수선 밑으로 구멍이 뚤리고 엑조세 미사일 발사장치와 선수의 함포가 파괴된 채 기울어진 함정은 느릿느릿 포크랜드섬을 떠나 갔다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 proudgray(prou****)",
+      "english": "Holed beneath the water line, its Exocet launchers and front gun destroyed, the listing ship limped away from the island. Add to Wordbook"
+    },
+    {
+      "korean": "Captain Barclay was armed with mostly long guns; Commodore Perry used mostly carronades. 듣기 Add to Wordbook 대령 Barclay는 주로 긴 총으로 무장하였다; 준장 Perry는 주로 함포를 사용하였다 User translation Inaccurate information may be included due to the users' self-traslation. 닫기 1408519(1408****)",
+      "english": "Captain Barclay was armed with mostly long guns; Commodore Perry used mostly carronades. Add to Wordbook"
+    }
+  ]
+}

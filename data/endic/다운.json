@@ -1,0 +1,119 @@
+{
+  "phrases": [
+    {
+      "phrase": "다운",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(권투 등에서) [명사] knockdown, [동사] be floored, be knocked down[out], be downed",
+        "(가격이) [동사] go down",
+        "(컴퓨터가) [동사] go down, crash"
+      ]
+    },
+    {
+      "phrase": "down",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb (더 낮은 장소나 위치에[로]의) 아래로, 아래에",
+        "Adverb <서거나 수직으로 있다가 앉거나 수평이 되도록>",
+        "Preposition (높은 데서) 아래로"
+      ]
+    },
+    {
+      "phrase": "down",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb (높은 위치에서) 낮은 쪽으로, 아래로[에]",
+        "Adverb (책상 위 등에) 내려 놓아",
+        "Adverb 바닥에, 땅바닥에, 지면에, (강·바다 등의) 밑바닥에",
+        "Preposition (높은 데서) 내려가, …의 아래쪽으로"
+      ]
+    },
+    {
+      "phrase": "down",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (새의) 솜털",
+        "Noun 부드러운 털, 잔털, (민들레·복숭아 등의) 솜털, 관모(冠毛)",
+        "Adjective 오리털이 들어 있는"
+      ]
+    },
+    {
+      "phrase": "down",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [보통 pl.] (넓은) 고원지, [the D~s, ~s] (남부 잉글랜드의 수목 없는) 언덕진 초원지(cf. DOWNS 1), [고어] 모래 언덕(dune)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "down",
+      "frequency": 3
+    },
+    {
+      "meaning": "like 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "down 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "-ly 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "clerkly",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한번 다운 받아볼까? Should I download it? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "Should I download it?"
+    },
+    {
+      "korean": "다운시키세요 네... Put your volume down. 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "Put your volume down."
+    },
+    {
+      "korean": "카운트 다운 갑니다! 하겠습니다! Let's start counting down! Here we go! 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "Let's start counting down! Here we go!"
+    },
+    {
+      "korean": "네 - 그 서버가 다운이 안 돼요 그 정도로? Yes. - The server doesn't get freeze? 듣기 View video SMTOWN : [FULL] 슈퍼주니어의 2YA2YAO! LIVE @ SJ THE STAGE",
+      "english": "Yes. - The server doesn't get freeze?"
+    },
+    {
+      "korean": "[읽지 않음 / 다운아 바빠?] [Unread / Daun, are you busy?] View video 와우티비(WAWtv) : [리얼타임] 지금 이 순간 일어나는 일_웹드라마 SPUNK(스펑크) EP9-2",
+      "english": "[Unread / Daun, are you busy?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We can excuse his behaviour as youthful exuberance. 듣기 Add to Wordbook 우리는 그의 행동을 젊은이다운 패기로 봐줄 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We can excuse his behaviour as youthful exuberance. Add to Wordbook"
+    },
+    {
+      "korean": "Thanks to her skilful handling of the affair, the problem was averted. 듣기 Add to Wordbook 그녀의 전문가다운 일 처리 덕분에 그 문제를 피할 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Thanks to her skilful handling of the affair, the problem was averted. Add to Wordbook"
+    },
+    {
+      "korean": "That sounds like my sister all over. 듣기 Add to Wordbook 저거 과연 우리 언니[누나/(여)동생]다운 소리군. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That sounds like my sister all over. Add to Wordbook"
+    },
+    {
+      "korean": "He maintained a professional demeanour throughout. 듣기 Add to Wordbook 그는 시종일관 프로다운 태도를 견지했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He maintained a professional demeanour throughout. Add to Wordbook"
+    },
+    {
+      "korean": "My computer crashes every time I disconnect from the Internet. 듣기 Add to Wordbook 내가 인터넷 접속을 끝낼 때마다 컴퓨터가 다운이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My computer crashes every time I disconnect from the Internet. Add to Wordbook"
+    }
+  ]
+}

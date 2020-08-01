@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "변상",
+      "hanja": " (辨償)",
+      "example": {},
+      "meanings": [
+        "[명사] compensation, (formal) recompense, (법률) indemnification, [동사] compensate, (formal) recompense, (법률) indemnify"
+      ]
+    },
+    {
+      "phrase": "손해를 변상하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "indemnify against damage",
+        "compensate for loss",
+        "make up for"
+      ]
+    },
+    {
+      "phrase": "변상을 요구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "claim[demand] compensation"
+      ]
+    },
+    {
+      "phrase": "(변상 따위를) 청구할 수 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "claimable"
+      ]
+    },
+    {
+      "phrase": "채무 변상의 방법을 염출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "work out a plan for financing one´s obligations"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "recoupment",
+      "frequency": 0
+    },
+    {
+      "meaning": "claim[demand] compensation (for)",
+      "frequency": 0
+    },
+    {
+      "meaning": "claim an offset to the damaged goods",
+      "frequency": 0
+    },
+    {
+      "meaning": "recoupable",
+      "frequency": 0
+    },
+    {
+      "meaning": "square oneself",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "If my baggage is damaged, will you compensate me for it? 듣기 Add to Wordbook 짐이 파손되었을 경우 변상해 주나요? Neungyule",
+      "english": "If my baggage is damaged, will you compensate me for it? Add to Wordbook"
+    },
+    {
+      "korean": "Will you pay for the damage to my baggage? 듣기 Add to Wordbook 짐이 파손되었을 경우 변상해 주나요? Neungyule",
+      "english": "Will you pay for the damage to my baggage? Add to Wordbook"
+    },
+    {
+      "korean": "Anyone who has done the damage is under obligation to pay for it. 듣기 Add to Wordbook 손상을 입힌 자는 변상할 의무가 있다 Friendict Level English-Korean Dictionary",
+      "english": "Anyone who has done the damage is under obligation to pay for it. Add to Wordbook"
+    },
+    {
+      "korean": "I will indemnify you for any expenses incurred. 듣기 Add to Wordbook 발생한 비용에 대해서는 내가 변상하겠다. Friendict Level English-Korean Dictionary",
+      "english": "I will indemnify you for any expenses incurred. Add to Wordbook"
+    },
+    {
+      "korean": "The airline paid me for the amount they had overcharged me. 듣기 Add to Wordbook 그 항공회사는 내게 부당하게 요구했던 액수를 변상했다. YBM All in All English-Korean Dictionary",
+      "english": "The airline paid me for the amount they had overcharged me. Add to Wordbook"
+    }
+  ]
+}

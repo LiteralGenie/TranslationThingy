@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "통신",
+      "hanja": " (通信)",
+      "example": {},
+      "meanings": [
+        "(우편·전화 등의) communication, correspondence",
+        "(신문·방송 등의) report, dispatch"
+      ]
+    },
+    {
+      "phrase": "통신의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "communicative",
+        "communicatory"
+      ]
+    },
+    {
+      "phrase": "통신기술",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "communications technology"
+      ]
+    },
+    {
+      "phrase": "정보통신",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Information and Communications"
+      ]
+    },
+    {
+      "phrase": "통신수단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "means of communication"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "traffic",
+      "frequency": 3
+    },
+    {
+      "meaning": "communication",
+      "frequency": 3
+    },
+    {
+      "meaning": "telecommunications",
+      "frequency": 0
+    },
+    {
+      "meaning": "line of communication(s)",
+      "frequency": 0
+    },
+    {
+      "meaning": "-gram 3",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여러분들은 통신사 어디 쓰세요? Which mobile carrier do you use? 듣기 View video NCT : 충전완료!!",
+      "english": "Which mobile carrier do you use?"
+    },
+    {
+      "korean": "이제 통신사까지 공유하는 겁니까? Are you telling them which carrier you're using? 듣기 View video NCT : 충전완료!!",
+      "english": "Are you telling them which carrier you're using?"
+    },
+    {
+      "korean": "진짜 아니 진짜 저랑 똑같은 통신사 쓰는 사람이 도영이 형 맞지? I think DOYOUNG uses the same carrier as me, right? 듣기 View video NCT : 충전완료!!",
+      "english": "I think DOYOUNG uses the same carrier as me, right?"
+    },
+    {
+      "korean": "[통신오류] 사람 한 명을 다른 데로 보내버릴 수 있는 기회인가요? [Miscommunication] Oh, is this the chance to send a person away? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.1",
+      "english": "[Miscommunication] Oh, is this the chance to send a person away?"
+    },
+    {
+      "korean": "통신사업자 업데이트? A network provider update? 듣기 View video MONSTA X : LIVE : 190718 🐰",
+      "english": "A network provider update?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the increasing complexity of modern telecommunication systems 듣기 Add to Wordbook 갈수록 복잡해지는 현대 통신 시스템 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the increasing complexity of modern telecommunication systems Add to Wordbook"
+    },
+    {
+      "korean": "At the time the telecoms bubble was at its height. 듣기 Add to Wordbook 그 당시에는 통신 분야 거품이 최고조에 달해 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At the time the telecoms bubble was at its height. Add to Wordbook"
+    },
+    {
+      "korean": "a CB radio rig 듣기 Add to Wordbook 일반인용 (주파수대의) 무선 통신 장치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a CB radio rig Add to Wordbook"
+    },
+    {
+      "korean": "an ISDN Internet connection 듣기 Add to Wordbook 종합 정보 통신 인터넷 접속망 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an ISDN Internet connection Add to Wordbook"
+    },
+    {
+      "korean": "the nomadic life of a foreign correspondent 듣기 Add to Wordbook 해외 통신원[특파원]의 유목민 같은 생활 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the nomadic life of a foreign correspondent Add to Wordbook"
+    }
+  ]
+}

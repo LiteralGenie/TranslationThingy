@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(알지 못하다) do not know, (이해하지 못하다) do not understand",
+        "(경험이 없다) have no experience, be ignorant of",
+        "(느끼지 못하다) be unaware (of), be unconscious (of)"
+      ]
+    },
+    {
+      "phrase": "모르면 몰라도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It would not matter if I didn't know, if my guess is right"
+      ]
+    },
+    {
+      "phrase": "모르면 모르되[몰라도]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(관용)if my guess is right,in all probability,in all (human) likelihood,(십중팔구)in nine cases out of ten,ten to one,most likely[probably],nine-tenths (미·속)"
+      ]
+    },
+    {
+      "phrase": "-면 몰라도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "-myeon mollado (→-으면 몰라도)"
+      ]
+    },
+    {
+      "phrase": "-으면 몰라도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "-myeon mollado (→-면 몰라도)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "give or take (something)",
+      "frequency": 0
+    },
+    {
+      "meaning": "saving correction",
+      "frequency": 0
+    },
+    {
+      "meaning": "FWIW",
+      "frequency": 0
+    },
+    {
+      "meaning": "you of all people",
+      "frequency": 0
+    },
+    {
+      "meaning": "I may lose land...but I never lose a minute.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[제가 그 알라딘은 몰라도] 알라딘 뭔지 몰라요? [I don't know that Aladdin] Don't you know it? 듣기 View video V PICK! : [Apink] 상큼발랄 인간비타민 하빵이의 큐티를 픽♡업♡ 👏👏 (HAYOUNG talking about animation&snack of memory)",
+      "english": "[I don't know that Aladdin] Don't you know it?"
+    },
+    {
+      "korean": "[요즘 사람들 1+1=2인 건 몰라도] 어떻게 그렇게 나에 대해서 잘 알죠? [I may not know what 1 plus 1 equals] How do you know me so well? 듣기 View video V PICK! : [Stray Kids] 야 너두 스테이? 야 나두! 울 학교 냥이들도 야옹 나두 한다구요🙌🖤 (Hyunjin wearing Seungmin’s glasses)",
+      "english": "[I may not know what 1 plus 1 equals] How do you know me so well?"
+    },
+    {
+      "korean": "몰라도 돼! You don't need to know! 듣기 View video Dingo Story / 딩고스토리 : 둘이 거기서 뭐해?_EP14_[라이크(Like)]",
+      "english": "You don't need to know!"
+    },
+    {
+      "korean": "[정답을 몰라도 뻔뻔하게 말해본 슈가] 땡! [SUGA answers brazenly even if he doesn't know] Wrong! 듣기 View video BTS : Run BTS! 2020 - EP.93",
+      "english": "[SUGA answers brazenly even if he doesn't know] Wrong!"
+    },
+    {
+      "korean": "[뭔진 몰라도 일단 받고 봄] 뭡니까? [They open their hands not knowing what it is] What is this? 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]해성국제컨벤션고등학교ep.2",
+      "english": "[They open their hands not knowing what it is] What is this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He may look fierce, but he means no harm. 듣기 Add to Wordbook 그가 보기에는 사나워 보일지 몰라도 전혀 악의는 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He may look fierce, but he means no harm. Add to Wordbook"
+    },
+    {
+      "korean": "I may not like him, but I wish him no ill. 듣기 Add to Wordbook 내가 그를 좋아하지 않을지는 몰라도 그가 나쁘게 되기를 바라지는 않는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I may not like him, but I wish him no ill. Add to Wordbook"
+    },
+    {
+      "korean": "She of all people should know the answer to that. 듣기 Add to Wordbook 다른 사람들은 다 몰라도 그녀는 그것에 대한 답을 알고 있을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She of all people should know the answer to that. Add to Wordbook"
+    },
+    {
+      "korean": "She may be successful now, but she has known what it is like to be poor. 듣기 Add to Wordbook 그녀가 지금은 성공했는지 몰라도 가난한 것이 어떤 것인지를 겪어 봐서 안다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She may be successful now, but she has known what it is like to be poor. Add to Wordbook"
+    },
+    {
+      "korean": "I may lose land...but I never lose a minute. (Napoleon Bonaparte) 듣기 Add to Wordbook 나는 영토는 잃을지 몰라도 결코 시간은 잃지 않을 것이다. (나폴레옹 보나파르트, 시간명언) 명언/속담",
+      "english": "I may lose land...but I never lose a minute. (Napoleon Bonaparte) Add to Wordbook"
+    }
+  ]
+}

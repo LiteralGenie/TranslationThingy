@@ -1,0 +1,107 @@
+{
+  "phrases": [
+    {
+      "phrase": "플라즈마",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 plasma"
+      ]
+    },
+    {
+      "phrase": "plasma ( plasm )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 생물또는 의학 혈장",
+        "Noun 물리 플라스마(자유로이 운동하는 음양의 하전 입자가 중성 기체와 섞여 전체적으로 전기적 중성인 상태. 별..."
+      ]
+    },
+    {
+      "phrase": "플라즈마 아크용접",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 plasma-arc welding"
+      ]
+    },
+    {
+      "phrase": "플라즈마엔진",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "항공우주공학 plasma engine"
+      ]
+    },
+    {
+      "phrase": "플라즈마디스플레이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전기공학 plasma display"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hyaloplasm",
+      "frequency": 0
+    },
+    {
+      "meaning": "piroplasm",
+      "frequency": 0
+    },
+    {
+      "meaning": "plasma frequency",
+      "frequency": 0
+    },
+    {
+      "meaning": "plasma generator",
+      "frequency": 0
+    },
+    {
+      "meaning": "plasma oscillation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여러분 플라즈마가 무엇인지 아십니까? Do you know what plasma is? 듣기 View video HANABONO : 월 24900원으로 피부관리실 안가고 뽕뽑는 방법 Skin Care Device Review",
+      "english": "Do you know what plasma is?"
+    },
+    {
+      "korean": "근데 이 드라이기에 플라즈마라고 아시죠? But in this dryer... Do you know about plasma? 듣기 View video TRENDY TV(트렌디 티비) : [사다드림시즌2] 푸껫은 처음이라_2회",
+      "english": "But in this dryer... Do you know about plasma?"
+    },
+    {
+      "korean": "[유닉스 에어샷 플라즈마 시스템] 수분을 코팅해준대요. [UNIX Airshot Plasma System] coats your hair with moisture. 듣기 View video TRENDY TV(트렌디 티비) : [사다드림시즌2] 푸껫은 처음이라_2회",
+      "english": "[UNIX Airshot Plasma System] coats your hair with moisture."
+    },
+    {
+      "korean": "[피부관리에 익숙했던 플라즈마] 그 피부관리할 때도 사용하는 건데. [Plasma is used for skin treatments] It's used for skin treatments as well. 듣기 View video TRENDY TV(트렌디 티비) : [사다드림시즌2] 푸껫은 처음이라_2회",
+      "english": "[Plasma is used for skin treatments] It's used for skin treatments as well."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Plasma arc gasification turns garbage into usable by-products by the combination of electricity and high temperatures. 듣기 Add to Wordbook 플라즈마 아크 가스화는 전기와 고온을 결합하여 폐기물을 사용 가능한 부산물로 만든다. 국제영어대학원대학교 신어사전",
+      "english": "Plasma arc gasification turns garbage into usable by-products by the combination of electricity and high temperatures. Add to Wordbook"
+    },
+    {
+      "korean": "The plasma was in liquid form, rather than hot gas, and was 250,000 times hotter than the sun's core. 듣기 Add to Wordbook 이 플라즈마는 뜨거운 기체가 아닌 액체 상태였고 태양의 표면보다 25만 배 더 뜨거웠다. Neungyule",
+      "english": "The plasma was in liquid form, rather than hot gas, and was 250,000 times hotter than the sun's core. Add to Wordbook"
+    },
+    {
+      "korean": "This high-definition plasma television has the highest resolution and color so you’ll be sure to see clearly. 듣기 Add to Wordbook 이 고화질 플라즈마 텔레비전은 최고의 해상도와 색감을 갖추었기 때문에 매우 선명하게 보입니다. YBM All in All English-Korean Dictionary",
+      "english": "This high-definition plasma television has the highest resolution and color so you’ll be sure to see clearly. Add to Wordbook"
+    },
+    {
+      "korean": "People were stunned to see a sleek, two-story lounge with plasma-screen TVs at a McDonald's chain in Oakbrook, IL. 듣기 Add to Wordbook 사람들은 시카고 오크브룩의 맥도날드 체임점의 플라즈마 스크린 TV가 있는 세련된 2층짜리 라운지를 보고 놀랐다. Neungyule",
+      "english": "People were stunned to see a sleek, two-story lounge with plasma-screen TVs at a McDonald's chain in Oakbrook, IL. Add to Wordbook"
+    },
+    {
+      "korean": "They believe that a gluon-quark plasma, similar to the 'soup' they created, filled the universe right after the big bang. 듣기 Add to Wordbook 이들은 빅뱅 이후 우주에는 자신들이 만들어낸 '수프'와 비슷한 글루온 쿼크 플라즈마로 가득 차 있을 것이라고 주장했다. Neungyule",
+      "english": "They believe that a gluon-quark plasma, similar to the 'soup' they created, filled the universe right after the big bang. Add to Wordbook"
+    }
+  ]
+}

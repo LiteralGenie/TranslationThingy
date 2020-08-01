@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "테로테크놀러지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "기술과학 tero-technology"
+      ]
+    },
+    {
+      "phrase": "그룹테크놀러지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "경제·경영 group technology"
+      ]
+    },
+    {
+      "phrase": "클린테크놀러지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "환경공학 clean-technology"
+      ]
+    },
+    {
+      "phrase": "에코테크놀러지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "생명과학·환경공학 ecotechnology"
+      ]
+    },
+    {
+      "phrase": "테크놀러지컬아트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "문화예술 technological art"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "biotechnologically",
+      "frequency": 0
+    },
+    {
+      "meaning": "emerging technology",
+      "frequency": 0
+    },
+    {
+      "meaning": "group technology",
+      "frequency": 0
+    },
+    {
+      "meaning": "sensing technology",
+      "frequency": 0
+    },
+    {
+      "meaning": "margin biotechnology",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "2016년의 신기술인 네오 컬처 테크놀러지의 약자를 딴 것이라고 하네요. was based on the acronym of Neo Culture Technology in 2016. 듣기 View video zzal TV GODAKU : [GO다쿠 시즌 3.8 / 5화] 확장형 아이돌 엔씨티",
+      "english": "was based on the acronym of Neo Culture Technology in 2016."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He had to meet with Simpson Technology. 발음듣기 심슨테크놀러지와 만날 약속이 있다고 했지. YBM All in All English-Korean Dictionary",
+      "english": "He had to meet with Simpson Technology. 발음"
+    },
+    {
+      "korean": "Phoenix-based Nimbus Technologies has developed a security system that uses fog to foil thieves. 발음듣기 피닉스市 소재의 님버스 테크놀러지社는 안개를 사용하여 도둑을 퇴치하는 보안 시스템을 개발했다. YBM All in All English-Korean Dictionary",
+      "english": "Phoenix-based Nimbus Technologies has developed a security system that uses fog to foil thieves. 발음"
+    },
+    {
+      "korean": "In the wake of the 90’s technology boom, the pay phone, like the record player, seemed to be a relic of another age. 발음듣기 90년대 테크놀러지 붐 이후 공중전화는 전축과 마찬가지로 구시대의 유물이 되는 듯 했다. YBM All in All English-Korean Dictionary",
+      "english": "In the wake of the 90’s technology boom, the pay phone, like the record player, seemed to be a relic of another age. 발음"
+    },
+    {
+      "korean": "Oh, that's right. He had to meet with Simpson Technology. I'd forgotten. 발음듣기 아, 맞다. 심슨테크놀러지와 미팅이 있다고 했지. 깜빡 했어요. YBM All in All English-Korean Dictionary",
+      "english": "Oh, that's right. He had to meet with Simpson Technology. I'd forgotten. 발음"
+    },
+    {
+      "korean": "Corcop Technology has suffered significant losses over the past nine months, after its two largest competitors merged in an effort to effort to control the market. 발음듣기 코컵 테크놀러지사(社)는 최대 경쟁업체 두 곳이 시장을 장악하기 위해 합병한 뒤 9개월 동안 큰 손실을 입었다. YBM All in All English-Korean Dictionary",
+      "english": "Corcop Technology has suffered significant losses over the past nine months, after its two largest competitors merged in an effort to effort to control the market. 발음"
+    }
+  ]
+}

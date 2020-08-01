@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(유감스럽다) sorry (that)",
+        "(얼굴이 상하다) thin, gaunt"
+      ]
+    },
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb fail, not go well, be unlucky (↔잘되다)",
+        "Verb be unsuccessful, not make it (↔잘되다)",
+        "Verb be at least (↔잘되다)"
+      ]
+    },
+    {
+      "phrase": "안 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(금지) must not, should not (do), ought not to ((do))(해서는 안 되다), shall not(안 시키다), don't(하지 마라), be forbidden[prohibi...",
+        "(필요·의무) must, have (got) to(않으면 안 되다), need(필요가 있다), be required to(요구되다)",
+        "(예방)"
+      ]
+    },
+    {
+      "phrase": "안되면 조상[산소] 탓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blaming [the graves of] one's ancestors when things are not going well"
+      ]
+    },
+    {
+      "phrase": "안되는 사람은 자빠져도 [뒤로 넘어져도] 코가 깨진다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "An unlucky person breaks his/her nose even when he/she falls on his/her back[backward], The bread never falls but on its buttered side"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sorry",
+      "frequency": 3
+    },
+    {
+      "meaning": "no dice",
+      "frequency": 0
+    },
+    {
+      "meaning": "pity",
+      "frequency": 3
+    },
+    {
+      "meaning": "come off it",
+      "frequency": 0
+    },
+    {
+      "meaning": "hard luck/lines",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "안되면... If it doesn't... 듣기 View video ATEEZ : 비가 오는 날에는 ☔️☔️",
+      "english": "If it doesn't..."
+    },
+    {
+      "korean": "안 되면... If I can't figure it out. 듣기 View video AKMU : 택배왔다아!!",
+      "english": "If I can't figure it out."
+    },
+    {
+      "korean": "영어가 안되면 승구 스쿨 닷컴! If you can't speak English, Seunggi School.com! 듣기 View video N.Flying : GOOD NIGHT RADIO PART.2",
+      "english": "If you can't speak English, Seunggi School.com!"
+    },
+    {
+      "korean": "영어가 안 되면 시원스쿨 토익이 안 되면... If you can't speak English, visit Siwon School. If you can't get a good TOEIC score... 듣기 View video 콬TV (WHYNOT) : 일진에게 반할 수 있을까?! [일진에게 찍혔을 때] 시원스쿨랩편",
+      "english": "If you can't speak English, visit Siwon School. If you can't get a good TOEIC score..."
+    },
+    {
+      "korean": "[한 번만 더 해보고 안 되면 찬스 뽑기로] 한 번만 더 해보고 희망이 보인다 그러면... [If we fail, let's pick a chance] Let's try to see if we can do well. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.2",
+      "english": "[If we fail, let's pick a chance] Let's try to see if we can do well."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I hope I’m not interrupting you. 듣기 Add to Wordbook 제가 방해가 안 되면 좋겠군요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I hope I’m not interrupting you. Add to Wordbook"
+    },
+    {
+      "korean": "Don’t be afraid to ask if you don’t understand. 듣기 Add to Wordbook 이해가 안 되면 걱정하지 말고 물어 봐. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Don’t be afraid to ask if you don’t understand. Add to Wordbook"
+    },
+    {
+      "korean": "Ask a friend to recommend a doctor or, failing that, ask for a list in your local library. 듣기 Add to Wordbook 친구에게 의사를 추천해 달라고 하거나, 그게 안 되면 지역 도서관에 명단을 부탁하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ask a friend to recommend a doctor or, failing that, ask for a list in your local library. Add to Wordbook"
+    },
+    {
+      "korean": "Feel free to ask questions if you don’t understand. 듣기 Add to Wordbook 이해가 안 되면 부담 갖지 말고 질문하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Feel free to ask questions if you don’t understand. Add to Wordbook"
+    },
+    {
+      "korean": "Files can be lost if the system suddenly crashes. 듣기 Add to Wordbook 시스템이 갑자기 작동이 안 되면 파일을 잃어버릴 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Files can be lost if the system suddenly crashes. Add to Wordbook"
+    }
+  ]
+}

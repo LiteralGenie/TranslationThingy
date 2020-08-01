@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "that",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Determiner 저(말하는 이 가까이에 있지 않은 사람이나 사물을 가리킬 때 씀)",
+        "Determiner 그(앞에서 말한 사람이나 사물·말하는 이나 듣는 이가 이미 알고 있는 사람이나 사물을 가리킬 때 씀)",
+        "Pronoun 저 사람, 저이, 저것(말하는 이 가까이에 있지 않은 사람이나 사물을 가리킴)"
+      ]
+    },
+    {
+      "phrase": "that",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 口, 方 그, 저, 저쪽의, 그쪽의",
+        "Adjective 저런, 그런, 예(例)의",
+        "Pronoun 그것, 저것, 그[저] 일, 그[저] 사람(this에 대해서 좀 떨어진 저편에 있는 것·사람, 지금 말한 일·사람, 화제에 ..."
+      ]
+    },
+    {
+      "phrase": "that",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Relative pronoun 文語, 稀 (…하는, …인) 바의"
+      ]
+    },
+    {
+      "phrase": "that",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Conjunction (…이라는, …한다는) 것"
+      ]
+    },
+    {
+      "phrase": "^that",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "When you agree with, second, or feel like stressing the genuineness of the above post on a forum or thread. Similar to \"liking\" something on facebook, but more effective."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "그것",
+      "frequency": 0
+    },
+    {
+      "meaning": "거기",
+      "frequency": 0
+    },
+    {
+      "meaning": "저 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "그렇게",
+      "frequency": 0
+    },
+    {
+      "meaning": "그다지",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "맞나? Is that right? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "Is that right?"
+    },
+    {
+      "korean": "그 뭐지? What is that? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "What is that?"
+    },
+    {
+      "korean": "맞나요? Is that right? 듣기 View video NCT : 런쥔이왔어요!!",
+      "english": "Is that right?"
+    },
+    {
+      "korean": "야 뭐냐? What was that? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "What was that?"
+    },
+    {
+      "korean": "그때도... That time too... 듣기 View video ATEEZ : 산이의 소소한 일상🥰",
+      "english": "That time too..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Try not to knock that vase over. 듣기 Add to Wordbook 그 꽃병 넘어뜨리지 않도록 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Try not to knock that vase over. Add to Wordbook"
+    },
+    {
+      "korean": "You need nimble fingers for that job. 듣기 Add to Wordbook 그 일을 하려면 손이 빨라야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You need nimble fingers for that job. Add to Wordbook"
+    },
+    {
+      "korean": "You must be boiling in that sweater! 듣기 Add to Wordbook 그 스웨터를 입었으니 너 몹시 덥겠구나! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You must be boiling in that sweater! Add to Wordbook"
+    },
+    {
+      "korean": "Careful you don’t tread in that puddle. 듣기 Add to Wordbook 그 웅덩이에 발 디디지 않게 조심해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Careful you don’t tread in that puddle. Add to Wordbook"
+    },
+    {
+      "korean": "Phew! That was close—that car nearly hit us. 듣기 Add to Wordbook 휴! 아슬아슬했네. 저 차가 우릴 받을 뻔 했어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Phew! That was close—that car nearly hit us. Add to Wordbook"
+    }
+  ]
+}

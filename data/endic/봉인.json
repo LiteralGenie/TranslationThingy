@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "봉인",
+      "hanja": " (封印)",
+      "example": {},
+      "meanings": [
+        "[명사, 동사] seal"
+      ]
+    },
+    {
+      "phrase": "봉인을 뜯다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unseal",
+        "break a seal",
+        "take off a seal"
+      ]
+    },
+    {
+      "phrase": "봉인한 편지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sealed letter"
+      ]
+    },
+    {
+      "phrase": "봉인이 풀려있네요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The seals are broken."
+      ]
+    },
+    {
+      "phrase": "봉인하다",
+      "hanja": " (封印하다)",
+      "example": {},
+      "meanings": [
+        "Verb seal"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "seal 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "seal",
+      "frequency": 3
+    },
+    {
+      "meaning": "under seal",
+      "frequency": 0
+    },
+    {
+      "meaning": "sealed",
+      "frequency": 0
+    },
+    {
+      "meaning": "unscaled",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "엑조디아 5개 - 엑조디아도 다 있었어 - 봉인해제 했어? I had 5 \"Exodia\". - I had \"Exodia\". - Did you unlock it? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "I had 5 \"Exodia\". - I had \"Exodia\". - Did you unlock it?"
+    },
+    {
+      "korean": "마법봉인 카드랑 함정 카드로 그냥 - 그냥 이러고 끝! Magic seal card and trap card will... - You do this, and the end! 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "Magic seal card and trap card will... - You do this, and the end!"
+    },
+    {
+      "korean": "봉투에 담아서 옷장에 봉인했거든요. in a bag and sealed it in my closet. 듣기 View video 우주소녀(WJSN) : [루다] Welcome LUDA's Birthday Party🎉",
+      "english": "in a bag and sealed it in my closet."
+    },
+    {
+      "korean": "봉인하겠습니다 - 벌칙 아니에요? I wouldn't use it. - Isn't that a penalty? 듣기 View video BTS : Run BTS! 2019 - EP.77",
+      "english": "I wouldn't use it. - Isn't that a penalty?"
+    },
+    {
+      "korean": "봉인해제! Let's open it! 듣기 View video BTS : Run BTS! 2018 - EP.49",
+      "english": "Let's open it!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The envelope's seal was torn open. 듣기 Add to Wordbook 편지의 봉인이 뜯겨져 열려 있었다. 절대어휘 5100",
+      "english": "The envelope's seal was torn open. Add to Wordbook"
+    },
+    {
+      "korean": "He impressed the wax with a seal [impressed a seal on the wax]. 듣기 Add to Wordbook 그가 봉랍에 봉인을 찍었다. Friendict Level English-Korean Dictionary",
+      "english": "He impressed the wax with a seal [impressed a seal on the wax]. Add to Wordbook"
+    },
+    {
+      "korean": "After voting is over, the ballot box is sealed. 듣기 Add to Wordbook 투표가 끝나면 투표함은 봉인된다 Neungyule",
+      "english": "After voting is over, the ballot box is sealed. Add to Wordbook"
+    },
+    {
+      "korean": "After the voting is over, the ballot box is sealed. 듣기 Add to Wordbook 투표가 끝나면 투표함은 봉인된다 Neungyule",
+      "english": "After the voting is over, the ballot box is sealed. Add to Wordbook"
+    },
+    {
+      "korean": "He impressed the wax with a seal.=He impressed a seal on the wax. 듣기 Add to Wordbook 그는 밀랍에 봉인을 찍었다. Dong-a's Prime English-Korean Dictionary",
+      "english": "He impressed the wax with a seal.=He impressed a seal on the wax. Add to Wordbook"
+    }
+  ]
+}

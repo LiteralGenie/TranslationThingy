@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "씨",
+      "hanja": " (氏)",
+      "example": {},
+      "meanings": [
+        "(특정 성을 가진 집안·사람) family, clan",
+        "(성·이름 뒤에 붙여서) (남성에게 붙여서 ) Mr., (여성에게 붙여서) Mrs., Miss, Ms."
+      ]
+    },
+    {
+      "phrase": "씨",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(씨앗) seed, (Brit) pip, (복숭아 등의) (Am) pit, (Brit) stone",
+        "(근원)",
+        "(혈통)"
+      ]
+    },
+    {
+      "phrase": "-씨",
+      "hanja": " (氏)",
+      "example": {},
+      "meanings": [
+        "Affix -ssi (→씨2)"
+      ]
+    },
+    {
+      "phrase": "-씨",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix -ssi"
+      ]
+    },
+    {
+      "phrase": "see",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (눈으로) 보다, (보고) 알다, 목격하다",
+        "Verb (시력을 이용하여) 앞을 보다[볼 수 있다]",
+        "Noun 격식 주교[대주교]의 관구[집무실]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "seed",
+      "frequency": 3
+    },
+    {
+      "meaning": "stone",
+      "frequency": 3
+    },
+    {
+      "meaning": "Ms",
+      "frequency": 3
+    },
+    {
+      "meaning": "Mr",
+      "frequency": 3
+    },
+    {
+      "meaning": "Mr.",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "날아가! - 슈가 씨! Fly! - SUGA! 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Fly! - SUGA!"
+    },
+    {
+      "korean": "어땠어요, 뷔 씨? How was it, V? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "How was it, V?"
+    },
+    {
+      "korean": "뭐였죠, 진 씨? What was it, Jin? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "What was it, Jin?"
+    },
+    {
+      "korean": "뭐죠 백호 씨? What is it, Baekho? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "What is it, Baekho?"
+    },
+    {
+      "korean": "어땠어요 지효 씨? How did it go, JIHYO? 듣기 View video TWICE : TWICE TV “34th Golden Disc Awards DAY 2”",
+      "english": "How did it go, JIHYO?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Scatter the grass seed over the lawn. 듣기 Add to Wordbook 잔디밭에 잔디 씨를 흩뿌려라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Scatter the grass seed over the lawn. Add to Wordbook"
+    },
+    {
+      "korean": "This planted the seeds of doubt in my mind. 듣기 Add to Wordbook 이것이 내 마음속에 의혹의 씨를 뿌렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This planted the seeds of doubt in my mind. Add to Wordbook"
+    },
+    {
+      "korean": "Ms Dale is representing the defendant in the case. 듣기 Add to Wordbook 데일 씨가 그 소송의 피고를 변호하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ms Dale is representing the defendant in the case. Add to Wordbook"
+    },
+    {
+      "korean": "Messrs Smith, Brown and Jones 듣기 Add to Wordbook 스미스 씨, 브라운 씨, 존스 씨 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Messrs Smith, Brown and Jones Add to Wordbook"
+    },
+    {
+      "korean": "Sow the seeds in rows. 듣기 Add to Wordbook 줄을 지어 씨를 뿌려라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sow the seeds in rows. Add to Wordbook"
+    }
+  ]
+}

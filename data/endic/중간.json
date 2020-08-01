@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "중간",
+      "hanja": " (中間)",
+      "example": {},
+      "meanings": [
+        "(공간·시간 등의 가운데) the middle, (공간·물체 등의) center",
+        "(등급·크기·차례 등의 가운데) medium",
+        "(이쪽도 저쪽도 아닌 그 사이)"
+      ]
+    },
+    {
+      "phrase": "중간의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "medium",
+        "average"
+      ]
+    },
+    {
+      "phrase": "중간고사",
+      "hanja": " (中間考査)",
+      "example": {},
+      "meanings": [
+        "midterm (exam)"
+      ]
+    },
+    {
+      "phrase": "중간에(서)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the middle (of)",
+        "halfway (down/between)"
+      ]
+    },
+    {
+      "phrase": "중간 숙주",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an intermediate host"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "middle",
+      "frequency": 3
+    },
+    {
+      "meaning": "mean 3",
+      "frequency": 3
+    },
+    {
+      "meaning": "borderland",
+      "frequency": 0
+    },
+    {
+      "meaning": "mid-point",
+      "frequency": 0
+    },
+    {
+      "meaning": "a/the happy medium",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[멘트 뺏음] - 뺏어봐 - 중간... [Taking out his comment] - Try to... - Interim... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "[Taking out his comment] - Try to... - Interim..."
+    },
+    {
+      "korean": "이거... - 근데 그럼 우리 중간을 뜯은 게 의미가 없어... - 혹시... It's... - Then, we didn't have to do the middle part. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "It's... - Then, we didn't have to do the middle part."
+    },
+    {
+      "korean": "아 시험 기간이에요 이때? 아 중간고사인가? 아닌가? 중간고사 이렇게 빨라? Is this exam period? Ah is it midterms?? Wait? Midterms are this fast? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Is this exam period? Ah is it midterms?? Wait? Midterms are this fast?"
+    },
+    {
+      "korean": "딱 중간에! At the center. 듣기 View video V PICK! : [V PICK! HOW TO in V] 이은상의 초코쿠키🍪 (HOW TO COOK EUNSANG’s Chocolate cookie)",
+      "english": "At the center."
+    },
+    {
+      "korean": "중간에... In the middle of it.. 듣기 View video GOT7 : 월요일 유겸이!",
+      "english": "In the middle of it.."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a house in midtown 듣기 Add to Wordbook 중간 지대에 있는 주택 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a house in midtown Add to Wordbook"
+    },
+    {
+      "korean": "the ides of March 듣기 Add to Wordbook 3월의 중간 날짜[3월 15일] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ides of March Add to Wordbook"
+    },
+    {
+      "korean": "the midterm Congressional elections 듣기 Add to Wordbook 미국 의회 중간 선거 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the midterm Congressional elections Add to Wordbook"
+    },
+    {
+      "korean": "the mid-point of the decade 듣기 Add to Wordbook 그 10년의 중간 시점 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the mid-point of the decade Add to Wordbook"
+    },
+    {
+      "korean": "students of moderate ability 듣기 Add to Wordbook 중간 정도의 능력을 지닌 학생들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "students of moderate ability Add to Wordbook"
+    }
+  ]
+}

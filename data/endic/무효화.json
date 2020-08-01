@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "무효화",
+      "hanja": " (無效化)",
+      "example": {},
+      "meanings": [
+        "(법) invalidation, defeasance"
+      ]
+    },
+    {
+      "phrase": "계약을 무효화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "annul[nullify] a contract"
+      ]
+    },
+    {
+      "phrase": "혼인을 무효화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "annul[nullify] a marriage"
+      ]
+    },
+    {
+      "phrase": "(영장을) 무효화할 수 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "abatable"
+      ]
+    },
+    {
+      "phrase": "무효화하다",
+      "hanja": " (無效化하다)",
+      "example": {},
+      "meanings": [
+        "Verb invalidate, be invalid"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cancellation",
+      "frequency": 0
+    },
+    {
+      "meaning": "defeasance",
+      "frequency": 0
+    },
+    {
+      "meaning": "neutralization",
+      "frequency": 0
+    },
+    {
+      "meaning": "rescindment",
+      "frequency": 0
+    },
+    {
+      "meaning": "nulling",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "만약 공이 O.B가 나거나 잘못 치셨을 때 무효화 시키는 거예요. The chance will reset your O.B or other mistakes. 듣기 View video SMTOWN : 전설의 초대 (CELEB CHAMPIONS TROPHY) 3편",
+      "english": "The chance will reset your O.B or other mistakes."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Judges were unwilling to nullify government decisions. 발음듣기 판사들은 정부 결정을 무효화하기를 꺼렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Judges were unwilling to nullify government decisions. 발음"
+    },
+    {
+      "korean": "the cancellation of the contract 발음듣기 계약 무효화 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the cancellation of the contract 발음"
+    },
+    {
+      "korean": "Airport officials invalidated the drug dealer's passport. 발음듣기 공항 직원들이 그 마약상의 여권을 무효화했다. Neungyule",
+      "english": "Airport officials invalidated the drug dealer's passport. 발음"
+    },
+    {
+      "korean": "The Supreme Court of Judicature nullified the results of by elections. 발음듣기 최고 법원은 보궐 선거 결과를 무효화했다. YBM All in All English-Korean Dictionary",
+      "english": "The Supreme Court of Judicature nullified the results of by elections. 발음"
+    },
+    {
+      "korean": "However, the bill should be nullified as it is full of flaws. 발음듣기 그러나 이 법안은 오점투성이이기 때문에 무효화되어야 한다. Neungyule",
+      "english": "However, the bill should be nullified as it is full of flaws. 발음"
+    }
+  ]
+}

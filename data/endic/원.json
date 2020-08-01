@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "원",
+      "hanja": " (圓)",
+      "example": {},
+      "meanings": [
+        "(동그라미)circle"
+      ]
+    },
+    {
+      "phrase": "원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(화폐단위)won (기호 ￦)"
+      ]
+    },
+    {
+      "phrase": "원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Bound noun won"
+      ]
+    },
+    {
+      "phrase": "원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection hmph, pff"
+      ]
+    },
+    {
+      "phrase": "원-",
+      "hanja": " (元/原)",
+      "example": {},
+      "meanings": [
+        "(전의) former, previous, (시초의) original, primitive, initial"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "circle",
+      "frequency": 2
+    },
+    {
+      "meaning": "chamber",
+      "frequency": 2
+    },
+    {
+      "meaning": "resignation",
+      "frequency": 1
+    },
+    {
+      "meaning": "ring 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "won 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[시-원] [우왕] 1등 1등! [Cool] [Wow]] First place! 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[Cool] [Wow]] First place!"
+    },
+    {
+      "korean": "'넘버 원 포즈를 보여줄래요?' \"Can you show your best pose?\" 듣기 View video GOT7 : Hi!!",
+      "english": "\"Can you show your best pose?\""
+    },
+    {
+      "korean": "봐봐, 원, 투, 쓰리 다음에 뭐야? Look. 1, 2, 3. Then what comes next? 듣기 View video V PICK! : [Stray Kids] 미션이 끝나도 깜찍함은 안 끝난다구요💕💦 (LEE KNOW's mission listening to I love you)",
+      "english": "Look. 1, 2, 3. Then what comes next?"
+    },
+    {
+      "korean": "이제 원 가사로 해야 되지 않아? Don't we have to sing the original lyrics now? 듣기 View video Stray Kids : 스키즈 옥상토크🍧💕",
+      "english": "Don't we have to sing the original lyrics now?"
+    },
+    {
+      "korean": "이 사이에 하트가! - 원 밀리언 맞나요? Meanwhile, the hearts! - Is it 1 million? 듣기 View video SEVENTEEN : 헹가래의 끝은 안드로메다🚀",
+      "english": "Meanwhile, the hearts! - Is it 1 million?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Many of them are descendants of the original settlers. 발음듣기 그들 중 많은 이들이 원 정착자들의 후손이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many of them are descendants of the original settlers. 발음"
+    },
+    {
+      "korean": "The shark described a circle around the shoal of fish. 발음듣기 상어가 원을 그리며 고기 떼 주위를 돌았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The shark described a circle around the shoal of fish. 발음"
+    },
+    {
+      "korean": "a Formula One Grand Prix track 발음듣기 포뮬러 원 그랑프리 트랙 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a Formula One Grand Prix track 발음"
+    },
+    {
+      "korean": "smoke wreathing into the sky 발음듣기 하늘로 원을 그리며 올라가는 연기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "smoke wreathing into the sky 발음"
+    },
+    {
+      "korean": "The axis of a circle is its diameter 발음듣기 원의 중심축은 그 지름이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The axis of a circle is its diameter 발음"
+    }
+  ]
+}

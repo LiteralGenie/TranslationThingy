@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "의심",
+      "hanja": " (疑心)",
+      "example": {},
+      "meanings": [
+        "[명사] doubt, question, suspicion, [동사] doubt (that), be doubtful (about/that/whether/if), suspect (that), be suspicious (of/about), question"
+      ]
+    },
+    {
+      "phrase": "의심 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without doubt",
+        "doubtlessly",
+        "unquestionably"
+      ]
+    },
+    {
+      "phrase": "의심스럽다",
+      "hanja": " (疑心스럽다)",
+      "example": {},
+      "meanings": [
+        "doubtful (about), suspicious (about/of), dubious (about), questionable"
+      ]
+    },
+    {
+      "phrase": "의심을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be suspected of",
+        "fall[come] under suspicion"
+      ]
+    },
+    {
+      "phrase": "의심이 많다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be distrustful",
+        "be doubting",
+        "be skeptical(회의적이다)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "question",
+      "frequency": 3
+    },
+    {
+      "meaning": "suspicion",
+      "frequency": 3
+    },
+    {
+      "meaning": "doubt",
+      "frequency": 3
+    },
+    {
+      "meaning": "the finger of suspicion",
+      "frequency": 0
+    },
+    {
+      "meaning": "swither",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[의심] 이거 맞아요? [Suspicious] Are you sure? 듣기 View video TWICE : 트와이스 복자매 나모의 “도전! ASMR” EP.01",
+      "english": "[Suspicious] Are you sure?"
+    },
+    {
+      "korean": "뭐냐... 이 의심스러운 스멜은? What is this suspiciousness? 듣기 View video 콬TV (WHYNOT) : 남사친이 진심으로 날 좋아한다고 고백했다 [리얼:타임:러브2] EP4",
+      "english": "What is this suspiciousness?"
+    },
+    {
+      "korean": "설마 아직도 오빠 의심하는 거야? Are you still doubting me? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "Are you still doubting me?"
+    },
+    {
+      "korean": "뭐냐? 이 의심스러운 스멜은? What is this? It's suspicious. 듣기 View video 콬TV (WHYNOT) : 요즘 너만 보면 자꾸 커진단 말이야 [리얼:타임:러브2] EP3",
+      "english": "What is this? It's suspicious."
+    },
+    {
+      "korean": "[의심] 뭔데 한 명씩 불러요? [Doubtful] Why do you invite one by one? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Doubtful] Why do you invite one by one?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He did his best to avert suspicion. 듣기 Add to Wordbook 그는 의심을 피하기 위해 최선을 다했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He did his best to avert suspicion. Add to Wordbook"
+    },
+    {
+      "korean": "She began to harbour doubts about the decision. 듣기 Add to Wordbook 그녀는 그 결정에 대해 의심을 품기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She began to harbour doubts about the decision. Add to Wordbook"
+    },
+    {
+      "korean": "She had niggling doubts about their relationship. 듣기 Add to Wordbook 그녀는 그들의 관계에 대해 자꾸 의심이 들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had niggling doubts about their relationship. Add to Wordbook"
+    },
+    {
+      "korean": "She has an undoubted talent as an organizer. 듣기 Add to Wordbook 그녀는 조직자로서 의심할 여지없는 재능을 지니고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She has an undoubted talent as an organizer. Add to Wordbook"
+    },
+    {
+      "korean": "The correctness of this decision may be doubted. 듣기 Add to Wordbook 이 결정의 적절성이 의심을 받을 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The correctness of this decision may be doubted. Add to Wordbook"
+    }
+  ]
+}

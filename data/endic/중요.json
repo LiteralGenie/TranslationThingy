@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "중요",
+      "hanja": " (重要)",
+      "example": {},
+      "meanings": [
+        "important, significant, crucial (for/to), critical, vital (for/to), weighty, (미래에 영향을 미치는) momentous"
+      ]
+    },
+    {
+      "phrase": "중요 임무",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an important duty",
+        "a grave task"
+      ]
+    },
+    {
+      "phrase": "더 중요한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "more important"
+      ]
+    },
+    {
+      "phrase": "가장 중요하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be most important",
+        "be of the greatest importance"
+      ]
+    },
+    {
+      "phrase": "중요하지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be of little[no] importance"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "greatness",
+      "frequency": 3
+    },
+    {
+      "meaning": "important",
+      "frequency": 3
+    },
+    {
+      "meaning": "significant",
+      "frequency": 3
+    },
+    {
+      "meaning": "notable",
+      "frequency": 3
+    },
+    {
+      "meaning": "stuff",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "원래 그런 게 중요하지 밀당! That's pretty important. Playing hard to get. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "That's pretty important. Playing hard to get."
+    },
+    {
+      "korean": "밸런타인 - 마음이 중요하죠 - 그렇죠! Valentine! - The heart is important. - Right. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Valentine! - The heart is important. - Right."
+    },
+    {
+      "korean": "이제는 항상 예방이 중요하고 면연력! Preventative measures are important. And your immune system! 듣기 View video Hwang Chi Yeul : 모두 굿나잇!!",
+      "english": "Preventative measures are important. And your immune system!"
+    },
+    {
+      "korean": "맛만 중요하면 되지 뭘... Taste is all that matters. 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "Taste is all that matters."
+    },
+    {
+      "korean": "맛이 중요하니? Do you care about what it tastes like? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "Do you care about what it tastes like?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "cognizant of the importance of the case 듣기 Add to Wordbook 그 사건의 중요성을 인지하고 있는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "cognizant of the importance of the case Add to Wordbook"
+    },
+    {
+      "korean": "We ascribe great importance to these policies. 듣기 Add to Wordbook 우리는 이들 정책에 큰 중요성을 둔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We ascribe great importance to these policies. Add to Wordbook"
+    },
+    {
+      "korean": "She stressed the importance of good teamwork. 듣기 Add to Wordbook 그녀는 훌륭한 팀워크의 중요성을 강조했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She stressed the importance of good teamwork. Add to Wordbook"
+    },
+    {
+      "korean": "He has an inflated sense of his own importance. 듣기 Add to Wordbook 그는 자신의 중요성을 과장되게 생각한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has an inflated sense of his own importance. Add to Wordbook"
+    },
+    {
+      "korean": "These thoughts were uppermost in my mind. 듣기 Add to Wordbook 이러한 생각이 내 마음에서 가장 중요한 부분을 차지하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These thoughts were uppermost in my mind. Add to Wordbook"
+    }
+  ]
+}

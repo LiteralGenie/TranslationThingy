@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "반",
+      "hanja": " (班)",
+      "example": {},
+      "meanings": [
+        "(일정한 목적으로 조직된 집단) group",
+        "(학급) class"
+      ]
+    },
+    {
+      "phrase": "반",
+      "hanja": " (半)",
+      "example": {},
+      "meanings": [
+        "(절반) half (halves)"
+      ]
+    },
+    {
+      "phrase": "정[반]비례하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be directly[inversely] proportional"
+      ]
+    },
+    {
+      "phrase": "반-",
+      "hanja": " (反)",
+      "example": {},
+      "meanings": [
+        "anti-"
+      ]
+    },
+    {
+      "phrase": "반-",
+      "hanja": " (半)",
+      "example": {},
+      "meanings": [
+        "Affix ban- (→반1)",
+        "Affix ban-"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "half",
+      "frequency": 3
+    },
+    {
+      "meaning": "squad",
+      "frequency": 3
+    },
+    {
+      "meaning": "form",
+      "frequency": 3
+    },
+    {
+      "meaning": "class",
+      "frequency": 3
+    },
+    {
+      "meaning": "crew",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "반 쪽만? Just a half? 듣기 View video ASTRO : 따나의 얼렁뚱땅 초코츄러스 만들기🐥🍫",
+      "english": "Just a half?"
+    },
+    {
+      "korean": "그때가 아침 한 7시 반? 8시였나? That was 7:30am? 8am? 듣기 View video MONSTA X : LIVE : 소통타임🐻",
+      "english": "That was 7:30am? 8am?"
+    },
+    {
+      "korean": "댓글 뭐... 반만 나올 거야? Comments... Only half of your body? 듣기 View video SF9 : 🌰🌰",
+      "english": "Comments... Only half of your body?"
+    },
+    {
+      "korean": "나는 그때 몇 시에 했더라? 9시 반인가 10시 반인가? What time was it that time? Was it 9:30 or 10:30? 듣기 View video SF9 : 🌰🌰",
+      "english": "What time was it that time? Was it 9:30 or 10:30?"
+    },
+    {
+      "korean": "\"정인이 학교 반 배정 나왔어요?\" \"I.N, did your school assign you a new class?\" 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "\"I.N, did your school assign you a new class?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She is the youngest in her class. 듣기 Add to Wordbook 그녀는 반에서 가장 어리다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She is the youngest in her class. Add to Wordbook"
+    },
+    {
+      "korean": "He lay inert with half-closed eyes. 듣기 Add to Wordbook 그는 기력이 없어 눈을 반쯤 감은 채 누워 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He lay inert with half-closed eyes. Add to Wordbook"
+    },
+    {
+      "korean": "These policies are inimical to the interests of society. 듣기 Add to Wordbook 이들 정책은 사회 이익에 반(反)한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These policies are inimical to the interests of society. Add to Wordbook"
+    },
+    {
+      "korean": "The theatre was half empty. 듣기 Add to Wordbook 극장은 반쯤 비어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The theatre was half empty. Add to Wordbook"
+    },
+    {
+      "korean": "a class for absolute beginners 듣기 Add to Wordbook 완전 초보자들을 위한 반 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a class for absolute beginners Add to Wordbook"
+    }
+  ]
+}

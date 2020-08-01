@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "orbit",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 궤도",
+        "Noun (특정 개인조직 등의) 영향권[세력권]",
+        "Verb (다른 천체의) 궤도를 돌다"
+      ]
+    },
+    {
+      "phrase": "ORBit",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "NASA (Abbr.) ORB."
+      ]
+    },
+    {
+      "phrase": "Online Retrieval of Bibliographic Information Time-shard ( ORBIT )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "컴퓨터/통신 ①미국의 SDC사가 당초에 국방부의 ARPAnet용으로 개발한 온라인 대화형 문헌·자료 검색 시스템의 이름. ②SDC사의 자회사인 SDC 검색 서비스(SDC Search Service)사가 운영하는 온라인 데이터베이스 서비스의 이름. ORBIT..."
+      ]
+    },
+    {
+      "phrase": "the earth's orbit around the sun",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "태양 주위의 지구 궤도"
+      ]
+    },
+    {
+      "phrase": "orbit motion",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "공전 운동"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Online Roleplaying Based Internet Training",
+      "frequency": 0
+    },
+    {
+      "meaning": "Online Room Booking and Integrated Timetabling",
+      "frequency": 0
+    },
+    {
+      "meaning": "궤도",
+      "frequency": 0
+    },
+    {
+      "meaning": "본궤도",
+      "frequency": 0
+    },
+    {
+      "meaning": "회전되다",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "힘을 내요 오빛! Orbit, come on! 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "Orbit, come on!"
+    },
+    {
+      "korean": "빨리! 오빛! - 오빛! - 오빛 힘을 내! Hurry, Orbit! - Orbit! - Way to go! Please, Orbit! 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "Hurry, Orbit! - Orbit! - Way to go! Please, Orbit!"
+    },
+    {
+      "korean": "뭔 소리예요 - 여기 오빛들이... What? - Orbit said ... 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "What? - Orbit said ..."
+    },
+    {
+      "korean": "오빛! 이번에 틀리면 진짜 너무... Orbit! If you get this one wrong that will be... 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "Orbit! If you get this one wrong that will be..."
+    },
+    {
+      "korean": "오빗도 모른대 - 펜 내려놓을까요? Orbit doesn't know. - Shall we put the pens down? 듣기 View video 이달의 소녀(LOONA) : [이달의소녀탐구] 500회특집! 이달의 탐구왕",
+      "english": "Orbit doesn't know. - Shall we put the pens down?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to come/fall/be within sb’s orbit 듣기 Add to Wordbook …의 영향권 속으로[에] 들어가다/떨어지다/있다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to come/fall/be within sb’s orbit Add to Wordbook"
+    },
+    {
+      "korean": "The two spacecraft will link up in orbit. 듣기 Add to Wordbook 그 두 우주선은 궤도 속에서 연결된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The two spacecraft will link up in orbit. Add to Wordbook"
+    },
+    {
+      "korean": "The earth takes a year to orbit the sun. 듣기 Add to Wordbook 지구가 태양의 궤도를 공전하는 데 1년이 걸린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The earth takes a year to orbit the sun. Add to Wordbook"
+    },
+    {
+      "korean": "The orientation of the planet’s orbit is changing continuously. 듣기 Add to Wordbook 행성 궤도의 방향은 계속해서 바뀐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The orientation of the planet’s orbit is changing continuously. Add to Wordbook"
+    },
+    {
+      "korean": "A new satellite has been put into orbit around the earth. 듣기 Add to Wordbook 새 인공위성이[을] 지구 궤도 속으로 보내졌다[쏘아 보냈다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A new satellite has been put into orbit around the earth. Add to Wordbook"
+    }
+  ]
+}

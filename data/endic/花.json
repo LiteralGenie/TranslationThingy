@@ -1,0 +1,66 @@
+{
+  "phrases": [
+    {
+      "phrase": "화반자",
+      "hanja": " (花 ─)",
+      "example": {},
+      "meanings": [
+        "(→소란반자)"
+      ]
+    },
+    {
+      "phrase": "고벨화",
+      "hanja": " (─花)",
+      "example": {},
+      "meanings": [
+        "식물 Camphire"
+      ]
+    },
+    {
+      "phrase": "4판화(花)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a flower of four petals",
+        "a four-petal(l)ed flower"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a four-petal(l)ed flower",
+      "frequency": 0
+    },
+    {
+      "meaning": "imperfect flower",
+      "frequency": 0
+    },
+    {
+      "meaning": "homomorphism",
+      "frequency": 0
+    },
+    {
+      "meaning": "flos",
+      "frequency": 0
+    },
+    {
+      "meaning": "kousso",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "a complete leaf [flower] 듣기 Add to Wordbook 완전엽(葉)[화(花)]. Friendict Level English-Korean Dictionary",
+      "english": "a complete leaf [flower] Add to Wordbook"
+    },
+    {
+      "korean": "an incomplete flower [leaf] 듣기 Add to Wordbook 불완전 화(花)[엽]. Friendict Level English-Korean Dictionary",
+      "english": "an incomplete flower [leaf] Add to Wordbook"
+    },
+    {
+      "korean": "an aggregate flower[fruit] 듣기 Add to Wordbook 집합화(花)[과(果)]. Friendict Level English-Korean Dictionary",
+      "english": "an aggregate flower[fruit] Add to Wordbook"
+    }
+  ]
+}

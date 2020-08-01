@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "재선",
+      "hanja": " (再選)",
+      "example": {},
+      "meanings": [
+        "[명사] reelection, [동사] be reelected"
+      ]
+    },
+    {
+      "phrase": "재선되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be reelected"
+      ]
+    },
+    {
+      "phrase": "재선에 실패하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fail to get reelected"
+      ]
+    },
+    {
+      "phrase": "재선 의원",
+      "hanja": " (再選議員)",
+      "example": {},
+      "meanings": [
+        "a reelected member of the National Assembly"
+      ]
+    },
+    {
+      "phrase": "재선하다",
+      "hanja": " (再選하다)",
+      "example": {},
+      "meanings": [
+        "Verb be reelected",
+        "Verb reelect"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "reelection",
+      "frequency": 3
+    },
+    {
+      "meaning": "re-election",
+      "frequency": 0
+    },
+    {
+      "meaning": "reelect",
+      "frequency": 3
+    },
+    {
+      "meaning": "to run for re-election",
+      "frequency": 0
+    },
+    {
+      "meaning": "to stand for re-election",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우리 재선이, 정은이, 경은이 너무 고마워. Jaeseon, Jungeun, Kyungeun, thanks. 듣기 View video PeekaVoo! : [Replay] MASC's -마스크의 팬미팅라이브!",
+      "english": "Jaeseon, Jungeun, Kyungeun, thanks."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The party leader was re-elected unopposed. 듣기 Add to Wordbook 그 정당의 대표는 아무 반대 없이 재선되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party leader was re-elected unopposed. Add to Wordbook"
+    },
+    {
+      "korean": "She was re-elected to parliament. 듣기 Add to Wordbook 그녀는 의회 의원으로 재선되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was re-elected to parliament. Add to Wordbook"
+    },
+    {
+      "korean": "She comes up for re-election next year. 듣기 Add to Wordbook 내년 재선을 두고 그녀가 물망에 오르고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She comes up for re-election next year. Add to Wordbook"
+    },
+    {
+      "korean": "It was surprising the government was re-elected, given that they had raised taxes so much. 듣기 Add to Wordbook 그 정부가 세금을 그렇게 많이 올린 것을 감안하면 그들이 재선된 것은 놀랄 일이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It was surprising the government was re-elected, given that they had raised taxes so much. Add to Wordbook"
+    },
+    {
+      "korean": "to run for re-election 듣기 Add to Wordbook 재선에 나서다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to run for re-election Add to Wordbook"
+    }
+  ]
+}

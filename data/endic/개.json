@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "개",
+      "hanja": " (個)",
+      "example": {},
+      "meanings": [
+        "(단위) piece, unit"
+      ]
+    },
+    {
+      "phrase": "개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동물) dog, (informal) doggy, (informal) doggie, (formal) canine",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun gae (→모2, 도1, 걸, 윷)"
+      ]
+    },
+    {
+      "phrase": "폐[개]회로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a closed[an open] circuit"
+      ]
+    },
+    {
+      "phrase": "개-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(야생 상태의) wild",
+        "(허황한) absurd, wild"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dog",
+      "frequency": 3
+    },
+    {
+      "meaning": "four",
+      "frequency": 3
+    },
+    {
+      "meaning": "canine",
+      "frequency": 0
+    },
+    {
+      "meaning": "doggy",
+      "frequency": 0
+    },
+    {
+      "meaning": "mutt",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[개 말고] 게 있다 게! [Not a dog] A crab! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연?” EP.02",
+      "english": "[Not a dog] A crab!"
+    },
+    {
+      "korean": "나 진짜 잘 개 - 원래 이렇게 개요? I am really good. - Is this how you normally fold clothes? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "I am really good. - Is this how you normally fold clothes?"
+    },
+    {
+      "korean": "반 개를, 반 개를 감사의 뜻으로 - 이렇게 반으로 드리자고요? Let's give the other half. To express our gratitude... - This half? 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "Let's give the other half. To express our gratitude... - This half?"
+    },
+    {
+      "korean": "태일이네 개! - 우리 집 개? Taeil's dog! - What? 듣기 View video 대나무숲TV (BAMBOONETWORK) : 짝남이 다른 사람과 썸을 탄다 [웹드라마_어서오세요, 마녀상점] - EP.02",
+      "english": "Taeil's dog! - What?"
+    },
+    {
+      "korean": "개? 게? - ㅐ - ㅐ! Gae? - ae? - ae! 듣기 View video BTS : Run BTS! 2019 - EP.86",
+      "english": "Gae? - ae? - ae!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The dog was chained up for the night. 듣기 Add to Wordbook 밤에는 개를 묶어 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dog was chained up for the night. Add to Wordbook"
+    },
+    {
+      "korean": "She patted the dog on the head. 듣기 Add to Wordbook 그녀가 그 개의 머리를 쓰다듬었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She patted the dog on the head. Add to Wordbook"
+    },
+    {
+      "korean": "The dog bared its teeth in a snarl. 듣기 Add to Wordbook 그 개는 이빨을 드러내며 으르렁거렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dog bared its teeth in a snarl. Add to Wordbook"
+    },
+    {
+      "korean": "The dog ran up, wagging its tail. 듣기 Add to Wordbook 그 개가 꼬리를 흔들며 뛰어 올랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dog ran up, wagging its tail. Add to Wordbook"
+    },
+    {
+      "korean": "The dog was drooling at the mouth. 듣기 Add to Wordbook 그 개는 입에서 침을 흘리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dog was drooling at the mouth. Add to Wordbook"
+    }
+  ]
+}

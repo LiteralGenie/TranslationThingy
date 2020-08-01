@@ -1,0 +1,118 @@
+{
+  "phrases": [
+    {
+      "phrase": "업자",
+      "hanja": " (業者)",
+      "example": {},
+      "meanings": [
+        "(상인) trader, (판매인) dealer, (제조업자) manufacturer, (실업가) businessman"
+      ]
+    },
+    {
+      "phrase": "광고업자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an advertising agent",
+        "an advertising man",
+        "an adman"
+      ]
+    },
+    {
+      "phrase": "증권업자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a security dealer",
+        "a stockbroker",
+        "a bill broker"
+      ]
+    },
+    {
+      "phrase": "부동산업자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a realty dealer",
+        "a real estate agent",
+        "a realtor"
+      ]
+    },
+    {
+      "phrase": "목축업자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a stock farmer[breeder]",
+        "a cattle breeder",
+        "a rancher"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "apiculturist",
+      "frequency": 0
+    },
+    {
+      "meaning": "collecting agent",
+      "frequency": 0
+    },
+    {
+      "meaning": "decorator",
+      "frequency": 3
+    },
+    {
+      "meaning": "contractor",
+      "frequency": 3
+    },
+    {
+      "meaning": "distributor",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[전문 용어 무엇] - 업자 - 업자... [Technical term] - Businessmen. - Businessmen. 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP31 #대망의마지막연습 #컨디션난조 #위기의첸",
+      "english": "[Technical term] - Businessmen. - Businessmen."
+    },
+    {
+      "korean": "이 형 비즈니스 진짜 잘해요 - 업자, 업자... He's a great businessman. - Businessman. 듣기 View video 심포유 - my SMTelevision : [심포유 #첸] EP31 #대망의마지막연습 #컨디션난조 #위기의첸",
+      "english": "He's a great businessman. - Businessman."
+    },
+    {
+      "korean": "[차OO 씨 (29세 물류업자)] 근데 건강한 나이인데 벌써 필요한가? [Cha (29, Logistics)] Such healthy age... do they need those already? 듣기 View video Dingo Story / 딩고스토리 : 이상형과 만나지 못하는 이유_EP17_[라이크LIKE]",
+      "english": "[Cha (29, Logistics)] Such healthy age... do they need those already?"
+    },
+    {
+      "korean": "업자야! He's in the business! 듣기 View video 모비딕(Mobidic) : 유재환! 달고나 만들다가 결국 스브스 건물에 불 질러... <99초 리뷰> 94회: 달고나 만들기",
+      "english": "He's in the business!"
+    },
+    {
+      "korean": "부동산 업자도 데려가야 하는 거 아니에요? Don't we need to bring a realtor? 듣기 View video Big Picture (빅픽처) : 빅픽처 스페셜시즌 EP 29_불운 왕좌의 게임 박광VS롸저!",
+      "english": "Don't we need to bring a realtor?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He works as a painter and decorator. 듣기 Add to Wordbook 그는 도장공이자 실내 장식업자로 일한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He works as a painter and decorator. Add to Wordbook"
+    },
+    {
+      "korean": "Exporters are in a strong bargaining position at the moment. 듣기 Add to Wordbook 현재는 수출국[업자]들이 협상의 유리한 위치에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Exporters are in a strong bargaining position at the moment. Add to Wordbook"
+    },
+    {
+      "korean": "a London-based importer of Italian goods 듣기 Add to Wordbook 런던에 근거를 둔 이탈리아 제품 수입업자 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a London-based importer of Italian goods Add to Wordbook"
+    },
+    {
+      "korean": "A developer bought the land and divided it into stands. 듣기 Add to Wordbook 한 개발업자가 그 땅을 사서 부지로 나누었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A developer bought the land and divided it into stands. Add to Wordbook"
+    },
+    {
+      "korean": "Developers are buying up all the land on the island. 듣기 Add to Wordbook 개발업자들이 그 섬의 땅을 있는 대로 사들이고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Developers are buying up all the land on the island. Add to Wordbook"
+    }
+  ]
+}

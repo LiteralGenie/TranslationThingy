@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "여객기",
+      "hanja": " (旅客機)",
+      "example": {},
+      "meanings": [
+        "passenger plane, airliner"
+      ]
+    },
+    {
+      "phrase": "초대형 여객기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "jumbo (jet)"
+      ]
+    },
+    {
+      "phrase": "여객기의 취항을 금하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "inhibit the operation of airliners"
+      ]
+    },
+    {
+      "phrase": "여객기의 취항을 금지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prohibit an airplane from departing[landing, operating into]"
+      ]
+    },
+    {
+      "phrase": "제트 여객기",
+      "hanja": " (―旅客機)",
+      "example": {},
+      "meanings": [
+        "a jet (air)liner"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "airliner",
+      "frequency": 3
+    },
+    {
+      "meaning": "a passenger plane",
+      "frequency": 0
+    },
+    {
+      "meaning": "commercial jet",
+      "frequency": 0
+    },
+    {
+      "meaning": "áerobùs",
+      "frequency": 0
+    },
+    {
+      "meaning": "pássenger plàne",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Passengers on long-haul flights are being warned about the risks of deep vein thrombosis. 듣기 Add to Wordbook 장거리 여객기 승객들은 심부 정맥 혈전증의 위험을 조심하라는 경고를 받고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Passengers on long-haul flights are being warned about the risks of deep vein thrombosis. Add to Wordbook"
+    },
+    {
+      "korean": "a pilot trained to fly large passenger planes 듣기 Add to Wordbook 대형 여객기 조종 훈련을 받은 조종사 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a pilot trained to fly large passenger planes Add to Wordbook"
+    },
+    {
+      "korean": "Flight BA193 for Paris is now boarding at Gate 37. 듣기 Add to Wordbook 파리행 BA193 여객기가 지금 37번 게이트에서 탑승을 실시하고 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Flight BA193 for Paris is now boarding at Gate 37. Add to Wordbook"
+    },
+    {
+      "korean": "A passenger plane was hijacked in flight. 듣기 Add to Wordbook 여객기 한 대가 공중에서 피랍되었다 Neungyule",
+      "english": "A passenger plane was hijacked in flight. Add to Wordbook"
+    },
+    {
+      "korean": "The airliner wreckage was located by sonar. 듣기 Add to Wordbook 여객기 잔해의 위치를 수중 음파 탐지기로 발견했다. YBM All in All English-Korean Dictionary",
+      "english": "The airliner wreckage was located by sonar. Add to Wordbook"
+    }
+  ]
+}

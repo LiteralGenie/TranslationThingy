@@ -1,0 +1,73 @@
+{
+  "phrases": [
+    {
+      "phrase": "복창",
+      "hanja": " (復唱)",
+      "example": {},
+      "meanings": [
+        "[동사] repeat (after)"
+      ]
+    },
+    {
+      "phrase": "복창하다",
+      "hanja": " (復唱하다)",
+      "example": {},
+      "meanings": [
+        "Verb repeat"
+      ]
+    },
+    {
+      "phrase": "복창한다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 I read back. ▶무선교신"
+      ]
+    },
+    {
+      "phrase": "복창하라!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 Read back! ▶무선교신"
+      ]
+    },
+    {
+      "phrase": "복명 복창",
+      "hanja": " (復命復唱)",
+      "example": {},
+      "meanings": [
+        "Report Repeat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "say one’s lessons",
+      "frequency": 0
+    },
+    {
+      "meaning": "rehearsable",
+      "frequency": 0
+    },
+    {
+      "meaning": "recite a prepared lesson",
+      "frequency": 0
+    },
+    {
+      "meaning": "repeat an order",
+      "frequency": 0
+    },
+    {
+      "meaning": "Read back!",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "We repeated after the teacher in unison. 발음듣기 우리는 선생님이 하는 말을 일제히 복창했다 Neungyule",
+      "english": "We repeated after the teacher in unison. 발음"
+    }
+  ]
+}

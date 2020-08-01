@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "의회",
+      "hanja": " (議會)",
+      "example": {},
+      "meanings": [
+        "(national) assembly, parliament, council, legislature"
+      ]
+    },
+    {
+      "phrase": "시의회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "city council"
+      ]
+    },
+    {
+      "phrase": "도의회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provincial assembly"
+      ]
+    },
+    {
+      "phrase": "지방의회",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a local council",
+        "a regional assembly"
+      ]
+    },
+    {
+      "phrase": "의회민주주의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "parliamentary democracy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "parliament",
+      "frequency": 3
+    },
+    {
+      "meaning": "council",
+      "frequency": 3
+    },
+    {
+      "meaning": "congress",
+      "frequency": 3
+    },
+    {
+      "meaning": "house",
+      "frequency": 3
+    },
+    {
+      "meaning": "assembly",
+      "frequency": 3
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "to dissolve Parliament and call an election 듣기 Add to Wordbook 의회를 해산하고 선거를 공표하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to dissolve Parliament and call an election Add to Wordbook"
+    },
+    {
+      "korean": "Talk to your local councillor about the problem. 듣기 Add to Wordbook 지역 의회 의원님과 그 문제를 상의해 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Talk to your local councillor about the problem. Add to Wordbook"
+    },
+    {
+      "korean": "The election was announced and parliament was dissolved. 듣기 Add to Wordbook 선거가 공표되고 의회는 해산되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The election was announced and parliament was dissolved. Add to Wordbook"
+    },
+    {
+      "korean": "The Democrats will probably lose control of Congress. 듣기 Add to Wordbook 민주당이 아마 의회 지배권을 잃게 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Democrats will probably lose control of Congress. Add to Wordbook"
+    },
+    {
+      "korean": "The spending cuts had been rammed through Congress. 듣기 Add to Wordbook 그 경비 감축안들은 의회를 힘겹게 통과했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The spending cuts had been rammed through Congress. Add to Wordbook"
+    }
+  ]
+}

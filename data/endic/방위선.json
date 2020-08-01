@@ -1,0 +1,81 @@
+{
+  "phrases": [
+    {
+      "phrase": "방위선을 뚫다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "break through defense line"
+      ]
+    },
+    {
+      "phrase": "방위선을 갖다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have defense line"
+      ]
+    },
+    {
+      "phrase": "방위선을 따르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "follow defense line"
+      ]
+    },
+    {
+      "phrase": "방위선을 공격하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "attack defense line"
+      ]
+    },
+    {
+      "phrase": "방위선을 구축하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "construct defense line"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "line of bearing",
+      "frequency": 0
+    },
+    {
+      "meaning": "perimeter defense",
+      "frequency": 0
+    },
+    {
+      "meaning": "guard a perimeter",
+      "frequency": 0
+    },
+    {
+      "meaning": "protect a perimeter",
+      "frequency": 0
+    },
+    {
+      "meaning": "perimeter defense",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "construct new defense lines along the border 발음듣기 국경에 따라 새로운 방위선을 설치하다. 영어영작문대사전",
+      "english": "construct new defense lines along the border 발음"
+    },
+    {
+      "korean": "a fight in defense of the capital 발음듣기 수도방위선. 영어영작문대사전",
+      "english": "a fight in defense of the capital 발음"
+    },
+    {
+      "korean": "And the first day goes relatively well for the Confederates, they break some of the Union lines around the edges. 발음듣기 전투 첫날에는 남부 연합군이 비교적 잘 싸워서 북부 연방군의 외곽 방위선을 일부 돌파했습니다. Khan Academy",
+      "english": "And the first day goes relatively well for the Confederates, they break some of the Union lines around the edges. 발음"
+    }
+  ]
+}

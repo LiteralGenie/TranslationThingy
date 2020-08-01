@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "엔",
+      "hanja": " (en[円])",
+      "example": {},
+      "meanings": [
+        "(일본의 화폐단위) (Japanese) yen (기호 ￥)"
+      ]
+    },
+    {
+      "phrase": "엔",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition eneun",
+        "Postposition eneun",
+        "Postposition eneun"
+      ]
+    },
+    {
+      "phrase": "north",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (방위상으로) 북쪽[북] (→east, south, west, magnetic north, true north)",
+        "Noun (한 국가지역세계의) 북부[북쪽]",
+        "Adjective (Abbr.) N, No.. 북쪽에 있는, 북쪽으로 향하는"
+      ]
+    },
+    {
+      "phrase": "northern ( Northern )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective (Abbr.) N, No.. 북쪽[북부]에 위치한, 북향의, 북부의"
+      ]
+    },
+    {
+      "phrase": "neutral",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective (언쟁경쟁 등에서) 중립적인 (=impartial, unbiased)",
+        "Adjective (전쟁에서) 중립의, 중립국의",
+        "Noun (기어 위치의) 중립"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "N",
+      "frequency": 0
+    },
+    {
+      "meaning": "yen",
+      "frequency": 0
+    },
+    {
+      "meaning": "yen 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "￥",
+      "frequency": 0
+    },
+    {
+      "meaning": "Enders",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저스틴 팀버레이크 - 엔 싱크가...",
+      "english": "Justin Timberlake. - N Sync..."
+    },
+    {
+      "korean": "엔 형은 지금쯤 자고 있겠지?",
+      "english": "I think N is sleeping now??"
+    },
+    {
+      "korean": "신났을 때... - 흥얼이라기엔 너무!",
+      "english": "When I'm excited... - To call that humming is too..."
+    },
+    {
+      "korean": "엔 - 엔?",
+      "english": "N. - N?"
+    },
+    {
+      "korean": "이번 엔 내가 이길거야 - 근데?",
+      "english": "I will win. - And?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "엔의 값이 2보다 크면 그 방정식은 불가능하다.",
+      "english": "The equation is impossible for any value of n greater than 2."
+    },
+    {
+      "korean": "엔-달러 환율이 120엔 선을 맴돌고 있다",
+      "english": "The dollar has been hovering around the 120 yen level."
+    },
+    {
+      "korean": "중국이 위안-달러 연동체제를 폐지한다면 한국의 원화와 일본의 엔(円)화에 대한 충격도 적지 않을 것이다.",
+      "english": "After a China unpegging, repercussions on the won and yen could be appreciable."
+    },
+    {
+      "korean": "그러나 이런 와중에도 엔싱크 멤버들에게 인생은 즐겁기만 하다.",
+      "english": "But still, life is good for ’NSync."
+    },
+    {
+      "korean": "난 지금도 엔싱크와 백스트리트 때문에 돈을 벌고 있는데요.",
+      "english": "I still make money from NSync and Backstreet."
+    }
+  ]
+}

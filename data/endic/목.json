@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "목",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사람·동물 등) neck, (특히 목의 앞부분) throat",
+        "throat (목구멍)",
+        "(목소리) voice"
+      ]
+    },
+    {
+      "phrase": "목",
+      "hanja": " (木)",
+      "example": {},
+      "meanings": [
+        "Noun Thursday (→목요일)"
+      ]
+    },
+    {
+      "phrase": "목(부분)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 cervix"
+      ]
+    },
+    {
+      "phrase": "moke",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (미·속어) 흑인, (경멸) 검둥이(Negro)",
+        "Noun 미·속어 멍청이",
+        "Noun 영·속어 당나귀(donkey)"
+      ]
+    },
+    {
+      "phrase": "$moke",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "someone usually in the caribbean, who is of good quality, but they always packin some kind of heat with em 24/7."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neck",
+      "frequency": 2
+    },
+    {
+      "meaning": "order",
+      "frequency": 2
+    },
+    {
+      "meaning": "throat",
+      "frequency": 2
+    },
+    {
+      "meaning": "-ida",
+      "frequency": 0
+    },
+    {
+      "meaning": "gula",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "차가운 거는 목에 상처 줄 거라고요? Cold things make your throat worse? 듣기 View video ASTRO : 엠췌이 먹방이래요✌️",
+      "english": "Cold things make your throat worse?"
+    },
+    {
+      "korean": "산하 이거 목 막히면 물 같이 먹어~ San-Ha, if you're thirsty, drink this~ 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "San-Ha, if you're thirsty, drink this~"
+    },
+    {
+      "korean": "[신나서 라디오 스케줄 얘기하는 쑤달] - 월, 화, 수, 목, 금, 토, 일 다 합니다 - 진짜요? [Otter talks about the radio show schedule] - It airs 7 days per week. - Really? 듣기 View video GOT7 : GOT7(갓세븐) OFFLINE #11",
+      "english": "[Otter talks about the radio show schedule] - It airs 7 days per week. - Really?"
+    },
+    {
+      "korean": "아 내 목이야! Oh, my neck! 듣기 View video IZ*ONE : 쫑알쫑알 해도 돼요?🦋",
+      "english": "Oh, my neck!"
+    },
+    {
+      "korean": "오늘 목이... My voice today... 듣기 View video ATEEZ : 🐶 & ㄱ- 라디오",
+      "english": "My voice today..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He may have been choked or poisoned. 발음듣기 그는 목이 졸렸거나 독살되었을 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He may have been choked or poisoned. 발음"
+    },
+    {
+      "korean": "He unwound his scarf from his neck. 발음듣기 그는 목에 감긴 목도리를 풀었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He unwound his scarf from his neck. 발음"
+    },
+    {
+      "korean": "She twined her arms around my neck. 발음듣기 그녀가 두 팔로 내 목을 휘감았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She twined her arms around my neck. 발음"
+    },
+    {
+      "korean": "My debts are a millstone around my neck. 발음듣기 내 빚이 내 목에 걸린 맷돌이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My debts are a millstone around my neck. 발음"
+    },
+    {
+      "korean": "His debts were a noose around his neck. 발음듣기 그의 빚은 그의 목을 죄는 올가미였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His debts were a noose around his neck. 발음"
+    }
+  ]
+}

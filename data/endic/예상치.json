@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "예상치",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "estimate, ballpark figure, (informal) guesstimate"
+      ]
+    },
+    {
+      "phrase": "예상하다",
+      "hanja": " (豫想하다)",
+      "example": {},
+      "meanings": [
+        "Verb forecast, expect"
+      ]
+    },
+    {
+      "phrase": "예상",
+      "hanja": " (豫想)",
+      "example": {},
+      "meanings": [
+        "[명사] expectation, anticipation, prediction; (정보에 근거한) forecast, [동사] expect, anticipate, predict, foresee; (정보에 근거해서) forecast"
+      ]
+    },
+    {
+      "phrase": "예상대로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as expected",
+        "true to one's expectations"
+      ]
+    },
+    {
+      "phrase": "예상과 달리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "against[contrary to] one's expectations"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "forecast value",
+      "frequency": 0
+    },
+    {
+      "meaning": "몰려들다",
+      "frequency": 0
+    },
+    {
+      "meaning": "몰려오다",
+      "frequency": 0
+    },
+    {
+      "meaning": "expectation",
+      "frequency": 2
+    },
+    {
+      "meaning": "anticipate",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "예상치 못 했어 - 둘 셋! I didn't expect it. - Two, three! 듣기 View video NCT 127 : [Full] NCT 127’s Spoiler Night",
+      "english": "I didn't expect it. - Two, three!"
+    },
+    {
+      "korean": "방금 예상치 못하게 - 갑자기? but unexpectedly... - Suddenly? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "but unexpectedly... - Suddenly?"
+    },
+    {
+      "korean": "전혀 예상치 못했는데 - 도련님 어쩜 이래요? I totally didn't expect that. - Young master, how can this be? 듣기 View video SMTOWN : [Full] 최강창민과 Chocolate 공장🍫 (MAX's Chocolate factory 🍫)",
+      "english": "I totally didn't expect that. - Young master, how can this be?"
+    },
+    {
+      "korean": "[자꾸 예상치 못한 게임들의 발견!] 딸기 공기는 또 뭐예요? [Discovery of unexpected games] What's strawberry jackstone game? 듣기 View video BTS : Run BTS! 2020 - EP.96",
+      "english": "[Discovery of unexpected games] What's strawberry jackstone game?"
+    },
+    {
+      "korean": "[석진어 해석] 가슴 트래핑 했는데 왜 예상치 못한 곳으로 공이 가니? [Interpretation of what Jin said] Your trapping... why does it go there? 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[Interpretation of what Jin said] Your trapping... why does it go there?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The unexpected course of events aroused considerable alarm. 발음듣기 사건들이 예상치 못한 방향으로 전개되어 상당한 불안을 불러일으켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The unexpected course of events aroused considerable alarm. 발음"
+    },
+    {
+      "korean": "What a coincidence! I wasn’t expecting to see you here. 발음듣기 정말 우연의 일치군요! 여기서 당신을 만나리라고는 예상치 못했어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What a coincidence! I wasn’t expecting to see you here. 발음"
+    },
+    {
+      "korean": "Those expecting good news will get a rude shock. 발음듣기 좋은 소식을 기다리던 사람들은 예상치 못한 충격을 받게 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Those expecting good news will get a rude shock. 발음"
+    },
+    {
+      "korean": "I never expected those few items to come to so much. 발음듣기 나는 그 몇 가지 안 되는 물품이 (값이) 그렇게 많이 나오리라고는 전혀 예상치 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I never expected those few items to come to so much. 발음"
+    },
+    {
+      "korean": "Unless something unexpected happens, I’ll see you tomorrow. 발음듣기 무슨 예상치 못한 일이 생기는 경우 외에는 내가 내일 널 만나게 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Unless something unexpected happens, I’ll see you tomorrow. 발음"
+    }
+  ]
+}

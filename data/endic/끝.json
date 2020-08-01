@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(마지막) end, finish, close",
+        "end, (물체·장소 등의 끝 부분) tip, (뾰족한 물체의) point, (가장자리) edge",
+        "('~ 끝에'의 형태로 쓰여)"
+      ]
+    },
+    {
+      "phrase": "끝을 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "see the end"
+      ]
+    },
+    {
+      "phrase": "끝이 보이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The end is seen"
+      ]
+    },
+    {
+      "phrase": "맨 끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the very end",
+        "the very last"
+      ]
+    },
+    {
+      "phrase": "끝까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to the end[last]",
+        "to a finish"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "end",
+      "frequency": 3
+    },
+    {
+      "meaning": "wing",
+      "frequency": 3
+    },
+    {
+      "meaning": "tip 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "tip",
+      "frequency": 3
+    },
+    {
+      "meaning": "point",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "끝... I was almost there. 듣기 View video BTS : BTS Live : 찐~!",
+      "english": "I was almost there."
+    },
+    {
+      "korean": "간식 끝! Finished with snacks! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Finished with snacks!"
+    },
+    {
+      "korean": "오늘의 간식 끝! End of snacks today! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "End of snacks today!"
+    },
+    {
+      "korean": "[폴라로이드 꾸미기 끝!] 끝! [Finished decoration] Done! 듣기 View video Dispatch : [Dicon] “트둥’s 귀염뽀짝 폴라로이드 꾸미기” (디아이콘 : 트와이스)",
+      "english": "[Finished decoration] Done!"
+    },
+    {
+      "korean": "간식 없어! 끝 끝! There are no snacks! Finished, finished! 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "There are no snacks! Finished, finished!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She dribbled the ball the length of the field. 듣기 Add to Wordbook 그녀가 경기장 끝에서 끝까지 공을 드리블해 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She dribbled the ball the length of the field. Add to Wordbook"
+    },
+    {
+      "korean": "She perched herself on the edge of the bed. 듣기 Add to Wordbook 그녀는 침대 끝에 걸터앉았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She perched herself on the edge of the bed. Add to Wordbook"
+    },
+    {
+      "korean": "The concert ended and the crowd disassembled. 듣기 Add to Wordbook 콘서트는 끝이 나고 사람들은 흩어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The concert ended and the crowd disassembled. Add to Wordbook"
+    },
+    {
+      "korean": "The reservoir was low after the long drought. 듣기 Add to Wordbook 긴 가뭄 끝에 저수지 물이 줄어들어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The reservoir was low after the long drought. Add to Wordbook"
+    },
+    {
+      "korean": "He confessed after four days under interrogation. 듣기 Add to Wordbook 그는 나흘간의 심문 끝에 자백을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He confessed after four days under interrogation. Add to Wordbook"
+    }
+  ]
+}

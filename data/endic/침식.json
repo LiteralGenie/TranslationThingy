@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "침식",
+      "hanja": " (浸蝕)",
+      "example": {},
+      "meanings": [
+        "(지표가 깎임) erosion, erode (away)"
+      ]
+    },
+    {
+      "phrase": "침식",
+      "hanja": " (寢食)",
+      "example": {},
+      "meanings": [
+        "(숙식) eating and sleeping, room and board, board and lodging"
+      ]
+    },
+    {
+      "phrase": "침식",
+      "hanja": " (侵蝕)",
+      "example": {},
+      "meanings": [
+        "Noun weakening, reduction"
+      ]
+    },
+    {
+      "phrase": "침식작용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "erosion (process)"
+      ]
+    },
+    {
+      "phrase": "침식을 제공하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provide room and board",
+        "provide food[meals] and a place to stay",
+        "put sb up"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "erosion",
+      "frequency": 3
+    },
+    {
+      "meaning": "fret 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "corrosiveness",
+      "frequency": 0
+    },
+    {
+      "meaning": "corrodability",
+      "frequency": 0
+    },
+    {
+      "meaning": "corrodibility",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "the erosion of the coastline by the sea 듣기 Add to Wordbook 바닷물에 의한 해안선 침식 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the erosion of the coastline by the sea Add to Wordbook"
+    },
+    {
+      "korean": "The coastline is being eaten away year by year. 듣기 Add to Wordbook 해안선이 매년 조금씩 침식되고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The coastline is being eaten away year by year. Add to Wordbook"
+    },
+    {
+      "korean": "Soil erosion was mitigated by the planting of trees. 듣기 Add to Wordbook 토양 침식은 나무를 심음으로써 완화되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Soil erosion was mitigated by the planting of trees. Add to Wordbook"
+    },
+    {
+      "korean": "The cliff face has been steadily eroded by the sea. 듣기 Add to Wordbook 그 절벽의 전면은 바닷물에 끊임없이 침식되어 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cliff face has been steadily eroded by the sea. Add to Wordbook"
+    },
+    {
+      "korean": "We didn’t have much money, but everyone just mucked in together. 듣기 Add to Wordbook 우리가 돈은 많이 없었지만 모두가 그냥 침식을 함께 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We didn’t have much money, but everyone just mucked in together. Add to Wordbook"
+    }
+  ]
+}

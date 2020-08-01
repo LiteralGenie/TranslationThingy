@@ -1,0 +1,49 @@
+{
+  "phrases": [
+    {
+      "phrase": "행성",
+      "hanja": " (行星)",
+      "example": {},
+      "meanings": [
+        "planet"
+      ]
+    },
+    {
+      "phrase": "행성 로켓",
+      "hanja": " (行星─)",
+      "example": {},
+      "meanings": [
+        "an interplanetary rocket."
+      ]
+    },
+    {
+      "phrase": "목성형 행성",
+      "hanja": " (木星型 行星)",
+      "example": {},
+      "meanings": [
+        "지구과학 Jovian Planets"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "planets",
+      "frequency": 0
+    },
+    {
+      "meaning": "planetary nucleus",
+      "frequency": 0
+    },
+    {
+      "meaning": "wandering stars",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "an error of a planet 발음듣기 행성(行星)의 관측상의 위치와 계산상의 위치와의 오차. Friendict Level English-Korean Dictionary",
+      "english": "an error of a planet 발음"
+    }
+  ]
+}

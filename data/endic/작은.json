@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "작은-",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "작다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(길이·넓이·부피 등이) small, little, (아주) tiny, (키가) short, (옷 등이) tight",
+        "(정도·범위·규모 등이) small, little, (아주) tiny",
+        "(소리 등) low"
+      ]
+    },
+    {
+      "phrase": "작은 고추가 더 맵다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "A small red pepper is more spicy"
+      ]
+    },
+    {
+      "phrase": "작은 일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a trifle",
+        "a trivial matter",
+        "a small affair"
+      ]
+    },
+    {
+      "phrase": "작은따옴표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "single quotation marks"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "small",
+      "frequency": 3
+    },
+    {
+      "meaning": "little",
+      "frequency": 3
+    },
+    {
+      "meaning": "baby",
+      "frequency": 3
+    },
+    {
+      "meaning": "minor",
+      "frequency": 3
+    },
+    {
+      "meaning": "humble",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 작은 냉장고? Oh, the small one. 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "Oh, the small one."
+    },
+    {
+      "korean": "[칭얼칭얼] 이거는 약간 작은 느낌이랄까? [Whiny] This feels a little bit small. 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "[Whiny] This feels a little bit small."
+    },
+    {
+      "korean": "[순둥도리 밥 줄려고요] 작은 냉장고? [I want to feed Soon, Doong and Dori] A small fridge? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "[I want to feed Soon, Doong and Dori] A small fridge?"
+    },
+    {
+      "korean": "근데 확실히 작은... 작게! The smaller size! 듣기 View video 카모마일T (Chamomile_T) : 인생향수 추천! 내돈내산 솔직 후기!",
+      "english": "The smaller size!"
+    },
+    {
+      "korean": "아 그때 그 작은 엄마랑 작은 아빠? That mom and dad from before? 듣기 View video Stray Kids : 산을 넘어 산호세로 ~~❤",
+      "english": "That mom and dad from before?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a nifty little gadget for slicing cucumbers 듣기 Add to Wordbook 오이 자를 때 쓰기 좋은 작은 기구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a nifty little gadget for slicing cucumbers Add to Wordbook"
+    },
+    {
+      "korean": "They banked the earth (up) into a mound. 듣기 Add to Wordbook 그들은 흙을 작은 언덕처럼 쌓아올렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They banked the earth (up) into a mound. Add to Wordbook"
+    },
+    {
+      "korean": "Eggs are graded from small to extra large 듣기 Add to Wordbook 달걀은 작은 것에서 특대까지 분류된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Eggs are graded from small to extra large Add to Wordbook"
+    },
+    {
+      "korean": "The puddles had coalesced into a small stream. 듣기 Add to Wordbook 물웅덩이들이 합쳐져 작은 냇물을 이루고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The puddles had coalesced into a small stream. Add to Wordbook"
+    },
+    {
+      "korean": "The dinghy sailed smoothly across the lake. 듣기 Add to Wordbook 그 작은 배는 호수 위를 미끄러지듯 나아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dinghy sailed smoothly across the lake. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not, do not"
+      ]
+    },
+    {
+      "phrase": "않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adjective anihada"
+      ]
+    },
+    {
+      "phrase": "않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb anihada"
+      ]
+    },
+    {
+      "phrase": "안색이 좋지 않군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You look so pale."
+      ]
+    },
+    {
+      "phrase": "답변하고 싶지 않군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "질문과 대답 I don't want to answer that.",
+        "질문과 대답 I'd rather not answer that.",
+        "질문과 대답 I don't owe you any explanations."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "raw",
+      "frequency": 2
+    },
+    {
+      "meaning": "inactive",
+      "frequency": 1
+    },
+    {
+      "meaning": "without",
+      "frequency": 2
+    },
+    {
+      "meaning": "undisturbed",
+      "frequency": 1
+    },
+    {
+      "meaning": "unknown",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[쉽지 않군] 2, 3, 4, 5... [Not easy] 2, 3, 4, 5... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Not easy] 2, 3, 4, 5..."
+    },
+    {
+      "korean": "이거 시작부터 쉽지 않군! This is not easy from the start! 듣기 View video 모비딕(Mobidic) : ※극한레시피※지금까지 이런 초밥은 없었다. 와사비 못 먹는 사람 주목! <초이가이버>10회",
+      "english": "This is not easy from the start!"
+    },
+    {
+      "korean": "나쁘지 않군. Not too bad. 듣기 View video B1A4 : [자막용] 공찬's ㅇㅇㅇㅇ만들기",
+      "english": "Not too bad."
+    },
+    {
+      "korean": "뭐 나쁘지 않군. It's not bad. 듣기 View video V Beauty : [LeoJ 레오제이 성형외과] 날카로운 인상을 청순하게 Making Clear Impressions",
+      "english": "It's not bad."
+    },
+    {
+      "korean": "정말 탐탁지 않군. 너 때문에 흥이 다 깨져버렸으니. How disappointing. You brought the party down. 듣기 View video SMTOWN : [REPLAY] 샤이니 비긴즈 \"1 of 1\" (SHINee BEGINS \"1 of 1\")",
+      "english": "How disappointing. You brought the party down."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It isn’t cheap, I can tell you! 발음듣기 그건 싸지가 않군요, 정말로요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It isn’t cheap, I can tell you! 발음"
+    },
+    {
+      "korean": "It’s not exactly beautiful, is it? 발음듣기 전혀 아름답지 않군, 안 그래? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s not exactly beautiful, is it? 발음"
+    },
+    {
+      "korean": "I can’t see him now—it isn’t convenient. 발음듣기 내가 그를 지금은 만날 수 없어요. 시간이 여의치 않군요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I can’t see him now—it isn’t convenient. 발음"
+    },
+    {
+      "korean": "I don’t think you’re being straight with me. 발음듣기 당신이 내게 정직한 것 같지가 않군요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I don’t think you’re being straight with me. 발음"
+    },
+    {
+      "korean": "You don’t sound very enthusiastic about the idea. 발음듣기 넌 그 생각에 별로 열광하는 것 같지 않군. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You don’t sound very enthusiastic about the idea. 발음"
+    }
+  ]
+}

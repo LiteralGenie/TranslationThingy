@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "용무",
+      "hanja": " (用務)",
+      "example": {},
+      "meanings": [
+        "business"
+      ]
+    },
+    {
+      "phrase": "용무가 겹치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be swamped[snowed under] with work[business]"
+      ]
+    },
+    {
+      "phrase": "상업상의 용무로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on business"
+      ]
+    },
+    {
+      "phrase": "바쁜 용무로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on urgent[pressing] business"
+      ]
+    },
+    {
+      "phrase": "용무를 띠고 여행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go on a trip for business purposes"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "nevermind",
+      "frequency": 0
+    },
+    {
+      "meaning": "private business",
+      "frequency": 0
+    },
+    {
+      "meaning": "on what business",
+      "frequency": 0
+    },
+    {
+      "meaning": "urgent[pressing] business",
+      "frequency": 0
+    },
+    {
+      "meaning": "tell one’s errand",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[용무룩] - 거짓말이었습니다 - 언니! [Sullen Yongsun] - That was a lie. - Come on! 듣기 View video V PICK! : [MAMAMOO] 맘무 팀워크 터져버린 바람꽃 응원법🌬 (MAMAMOO's freestyle cheering guide)",
+      "english": "[Sullen Yongsun] - That was a lie. - Come on!"
+    },
+    {
+      "korean": "[용무룩] 휘인이 얘기 듣고 한거야~ [Sullen] I listened to Whee In and did it~ 듣기 View video MAMAMOO : [MMMTV3] EP7 음주가마무 벌칙 수행",
+      "english": "[Sullen] I listened to Whee In and did it~"
+    },
+    {
+      "korean": "어쨌든 여러분... 네, 누나! 무슨 용무가 있으십니까? Anyways, everyone. Yes, what brought you here? 듣기 View video GOT7 : #3분갓세븐_20171013_05",
+      "english": "Anyways, everyone. Yes, what brought you here?"
+    },
+    {
+      "korean": "여러분들 중요한 용무가 있을 때 가시는 곳이죠. You know the place where you go to take care of business. 듣기 View video UP10TION : 일본 데뷔 오리콘 3위! ♥허니텐 고마워요♥",
+      "english": "You know the place where you go to take care of business."
+    },
+    {
+      "korean": "화장실에서 여러 가지 다양한 것들을... 용무를 보고 씻고. I took care of a lot of business in the bathroom, like washing up. 듣기 View video BTS : 호비랑 놀자 🎂",
+      "english": "I took care of a lot of business in the bathroom, like washing up."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He had to settle his affairs in Paris before he could return home. 발음듣기 그는 집으로 돌아가기 전에 파리에서 용무를 마쳐야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had to settle his affairs in Paris before he could return home. 발음"
+    },
+    {
+      "korean": "Business carried him to London. 발음듣기 사업상의 용무로 그는 런던에 갔다. Friendict Level English-Korean Dictionary",
+      "english": "Business carried him to London. 발음"
+    },
+    {
+      "korean": "My husband went to Busan on urgent business. 발음듣기 남편은 긴한 용무로 부산에 갔다 Dong-a's Prime English-Korean Dictionary",
+      "english": "My husband went to Busan on urgent business. 발음"
+    },
+    {
+      "korean": "Please leave if you don't have any business here. 발음듣기 특별한 용무가 없으면 돌아가십시오 Neungyule",
+      "english": "Please leave if you don't have any business here. 발음"
+    },
+    {
+      "korean": "If you have urgent business, contact Park Jiyun. 발음듣기 급한 용무가 있으시면 박지윤 씨에게 연락하세요. YBM All in All English-Korean Dictionary",
+      "english": "If you have urgent business, contact Park Jiyun. 발음"
+    }
+  ]
+}

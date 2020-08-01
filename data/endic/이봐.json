@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "이봐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Hi!, Hey!, Say!, I say!, Look here!, Yo! (미)"
+      ]
+    },
+    {
+      "phrase": "이봐, 무슨 일이야?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What's happening, man?"
+      ]
+    },
+    {
+      "phrase": "이봐, 진정하라구.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Hey, mellow out."
+      ]
+    },
+    {
+      "phrase": "이봐, 그가 또 골이 났어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Man, he was pissed."
+      ]
+    },
+    {
+      "phrase": "이봐, 젊은 친구! 진정하라구!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Look, young man! Stay cool!"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "look",
+      "frequency": 3
+    },
+    {
+      "meaning": "boy",
+      "frequency": 3
+    },
+    {
+      "meaning": "come 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "pal",
+      "frequency": 0
+    },
+    {
+      "meaning": "hallo",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 봐! Look at the teeth! 듣기 View video Apink : 뽀로로로로롱",
+      "english": "Look at the teeth!"
+    },
+    {
+      "korean": "저 표정에서... 이봐x2 이거 뭐야? Look at that face... See? See? What's that? 듣기 View video OH MY GIRL : 0502호 빈린🐰🐰",
+      "english": "Look at that face... See? See? What's that?"
+    },
+    {
+      "korean": "[용콜별콩 다이얼로그] - 이봐 솔라 - 왜 그래 친구? [ Yong Kong Byul Kong's dialogues] - Hey, Solar. - What's up, buddy? 듣기 View video MAMAMOO : [MMMTV5] EP7 무무전: 이리 오너라~! 3부",
+      "english": "[ Yong Kong Byul Kong's dialogues] - Hey, Solar. - What's up, buddy?"
+    },
+    {
+      "korean": "[이봐 출고일 너 어디쯤 오고 있니? 왜 아직도 출고일이 아닌 건데?] [When will it be released? Why is today not the release day?] View video V PICK! : [ASTRO] 아 울별둥이들로 꽉꽉 차있다는 디비디 출고일 너 어디쯤 오고있니⁉️😭 (ASTRO’s talking about their concert DVD)",
+      "english": "[When will it be released? Why is today not the release day?]"
+    },
+    {
+      "korean": "[이봐 미니모니 시작부터 귀여웠는데 무슨 소리야] 귀여운 거요? [Hey, Mini Moni, you were already so cute when you started] Something cute? 듣기 View video V PICK! : [BTS] 미니모니 마니마니마니 사랑하니까 나는 마니야! 미니모니 진짜 마니 사랑해💜(RM&JIMIN talking about their episode)",
+      "english": "[Hey, Mini Moni, you were already so cute when you started] Something cute?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I can tell you what! 듣기 Add to Wordbook 이봐! YBM All in All English-Korean Dictionary",
+      "english": "I can tell you what! Add to Wordbook"
+    },
+    {
+      "korean": "Listen, bud, enough of the wisecracks, OK? 듣기 Add to Wordbook 이봐, 자네, 농담 그만해, 알았어? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Listen, bud, enough of the wisecracks, OK? Add to Wordbook"
+    },
+    {
+      "korean": "Come on, Jo. Loosen up. 듣기 Add to Wordbook 이봐, 조. 긴장 풀어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Come on, Jo. Loosen up. Add to Wordbook"
+    },
+    {
+      "korean": "Look, that’s not fair. 듣기 Add to Wordbook 이봐, 그건 공평하지 않아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Look, that’s not fair. Add to Wordbook"
+    },
+    {
+      "korean": "Hey, leave my things alone! 듣기 Add to Wordbook 이 봐, 내 물건에 손대지 마! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hey, leave my things alone! Add to Wordbook"
+    }
+  ]
+}

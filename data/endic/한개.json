@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "한개",
+      "hanja": " (─ 個)",
+      "example": {},
+      "meanings": [
+        "one, a piece."
+      ]
+    },
+    {
+      "phrase": "각설탕 한 개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a lump (of sugar)",
+        "a (sugar) cube"
+      ]
+    },
+    {
+      "phrase": "세탁비누 한 개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bar of laundry[washing] soap"
+      ]
+    },
+    {
+      "phrase": "세숫비누 한 개",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a cake of (toilet) soap"
+      ]
+    },
+    {
+      "phrase": "한 개에 100원에 팔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sell at 100 won a piece"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unit",
+      "frequency": 2
+    },
+    {
+      "meaning": "round",
+      "frequency": 2
+    },
+    {
+      "meaning": "piece",
+      "frequency": 2
+    },
+    {
+      "meaning": "bit 2",
+      "frequency": 2
+    },
+    {
+      "meaning": "염주알",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "한 개 만사요~ Just buy one. 듣기 View video ITZY : [ #류진 ] WAWE🙈",
+      "english": "Just buy one."
+    },
+    {
+      "korean": "안경... 내가 패션 안경 한 개 줄까? Do you want my fashion glasses? 듣기 View video IZ*ONE : 까꿍🙈💕",
+      "english": "Do you want my fashion glasses?"
+    },
+    {
+      "korean": "부의 매력 포인트 한 개를 꼽자면? The most appealing thing about Boo? 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "The most appealing thing about Boo?"
+    },
+    {
+      "korean": "한 개씩? One by one? 듣기 View video Hyomstore : ep8. New사무실 출근! MD들의 제품 섬네일 촬영",
+      "english": "One by one?"
+    },
+    {
+      "korean": "발언권 한 개만 해도 될까요? May I say something? 듣기 View video ATEEZ : 에이티즈와 함께 하는 초성게임🙆‍♂️",
+      "english": "May I say something?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He won three golds and a bronze. 발음듣기 그는 금메달 세 개와 동메달 한 개를 땄다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He won three golds and a bronze. 발음"
+    },
+    {
+      "korean": "The team won two silvers and a bronze. 발음듣기 그 팀은 은메달 두 개와 동메달 한 개를 땄다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team won two silvers and a bronze. 발음"
+    },
+    {
+      "korean": "a man / horse / unit 발음듣기 한 남자/말 한 마리/한 개 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a man / horse / unit 발음"
+    },
+    {
+      "korean": "One lump or two? 발음듣기 (각설탕) 한 개 아님 두 개 (넣어 드릴까요)? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "One lump or two? 발음"
+    },
+    {
+      "korean": "a tin of pineapple chunks 발음듣기 크게 자른 파인애플 통조림 한 개 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a tin of pineapple chunks 발음"
+    }
+  ]
+}

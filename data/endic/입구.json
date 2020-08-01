@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "입구",
+      "hanja": " (入口)",
+      "example": {},
+      "meanings": [
+        "entrance (to/of), entry, (Am) entryway, (Brit) way in; (터널·항구 등의) mouth"
+      ]
+    },
+    {
+      "phrase": "입구에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at the entrance",
+        "at the door"
+      ]
+    },
+    {
+      "phrase": "항구 입구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the mouth of a harbor"
+      ]
+    },
+    {
+      "phrase": "방의 입구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the door of a room"
+      ]
+    },
+    {
+      "phrase": "동굴 입구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the inlet[mouth] of a cavern"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mouth",
+      "frequency": 2
+    },
+    {
+      "meaning": "entry",
+      "frequency": 2
+    },
+    {
+      "meaning": "gateway",
+      "frequency": 1
+    },
+    {
+      "meaning": "portal",
+      "frequency": 1
+    },
+    {
+      "meaning": "entrance 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "양말 - 입구가 어디야, 입구? - 입구 저기예요 - 저기? Socks. - Where is the entrance? - The entrance is there. - There? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "Socks. - Where is the entrance? - The entrance is there. - There?"
+    },
+    {
+      "korean": "입구에서 봐! See you at the door! 듣기 View video NCT : [STATION X] NCT U 엔시티 유 'Coming Home' 비하인더스테이션",
+      "english": "See you at the door!"
+    },
+    {
+      "korean": "여기 입구 맞아? Is this the entrance? 듣기 View video 콬TV (WHYNOT) : 20살 첫 여름방학, 썸 타러 바다로 여행을 떠났다💙ㅣ[리얼하이로맨스S2] EP1",
+      "english": "Is this the entrance?"
+    },
+    {
+      "korean": "이게 입구가 맞다고? This is the entrance? 듣기 View video 콬TV (WHYNOT) : 20살 첫 여름방학, 썸 타러 바다로 여행을 떠났다💙ㅣ[리얼하이로맨스S2] EP1",
+      "english": "This is the entrance?"
+    },
+    {
+      "korean": "진짜 옷까지 따라입구...! Followed even on the outfit! 듣기 View video IZ*ONE : IZ*ONE 에너지 캠(ENOZI Cam) EP.41",
+      "english": "Followed even on the outfit!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A lighthouse marks the entrance to the harbour. 발음듣기 등대 하나가 그 항구로 들어가는 입구를 보여준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A lighthouse marks the entrance to the harbour. 발음"
+    },
+    {
+      "korean": "We went through a stone archway into the courtyard. 발음듣기 우리는 석조로 된 아치형 입구를 지나 안뜰로 들어갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We went through a stone archway into the courtyard. 발음"
+    },
+    {
+      "korean": "This entrance is in constant use. 발음듣기 이 입구는 끊임없이 사용된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This entrance is in constant use. 발음"
+    },
+    {
+      "korean": "the rear entrance of the building 발음듣기 그 건물의 뒤쪽 입구 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the rear entrance of the building 발음"
+    },
+    {
+      "korean": "I’ll wait for you out (the) front. 발음듣기 입구 쪽에서 널 기다릴게. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll wait for you out (the) front. 발음"
+    }
+  ]
+}

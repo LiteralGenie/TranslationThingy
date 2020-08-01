@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "유",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(종류)kind (of), sort (of), type (of), variety (of)"
+      ]
+    },
+    {
+      "phrase": "유",
+      "hanja": " (有)",
+      "example": {},
+      "meanings": [
+        "(존재) existence, being",
+        "(소유) possession"
+      ]
+    },
+    {
+      "phrase": "-유",
+      "hanja": " (油)",
+      "example": {},
+      "meanings": [
+        "Affix -yu",
+        "Affix -yu (→석유)"
+      ]
+    },
+    {
+      "phrase": "유-",
+      "hanja": " (有)",
+      "example": {},
+      "meanings": [
+        "Affix yu- (→유2), (↔무-1)"
+      ]
+    },
+    {
+      "phrase": "you",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun 너, 당신, 너희(들), 당신들, 여러분(you는 동사의 주어나 목적어로 쓰이고 전치사 뒤에도 쓰임)",
+        "Pronoun <상대방에게 직접 대놓고 말을 할 때 명사, 형용사와 함께 씀>",
+        "Pronoun <일반 사람들을 가리킴>"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "kind 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "race 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "U",
+      "frequency": 0
+    },
+    {
+      "meaning": "sat 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "essence of mint",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뚜 - 유? Tu. - Yu? 듣기 View video TWICE : TWICE TV “ONCE HALLOWEEN 2”",
+      "english": "Tu. - Yu?"
+    },
+    {
+      "korean": "아이 러브 유! I love you. 듣기 View video GOT7 : 눈 덩어리💚",
+      "english": "I love you."
+    },
+    {
+      "korean": "하나, 둘, 셋 '유'! 1, 2, 3. \"You!\" 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "1, 2, 3. \"You!\""
+    },
+    {
+      "korean": "[맞다 맞어 유 알 백 맞어] 저 돌아왔어요! [That's right] I'm back! 듣기 View video V PICK! : [GOT7] 말랑콩떡이 알고보니 반짝꿀떡이었던 거예요🍡 (YUGYEOM singing PRAY)",
+      "english": "[That's right] I'm back!"
+    },
+    {
+      "korean": "그럼 해리 어때요? - 해리 유? 유해리? How about Harry? - Harry Yu? Yu Harry? 듣기 View video MONSTA X : LIVE : 그냥🐺",
+      "english": "How about Harry? - Harry Yu? Yu Harry?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They sang 'Gee', 'Kissing You' and 'Oh'. 듣기 Add to Wordbook 소녀시대는 '지', '키싱 유', '오'를 불렀다. Neungyule",
+      "english": "They sang 'Gee', 'Kissing You' and 'Oh'. Add to Wordbook"
+    },
+    {
+      "korean": "Indeed, Chung personified the rags-to-riches story of the Korean economy. 듣기 Add to Wordbook 실제로 그는 무에서 유를 창조한 한국 경제 발전의 상징적 인물입니다. YBM All in All English-Korean Dictionary",
+      "english": "Indeed, Chung personified the rags-to-riches story of the Korean economy. Add to Wordbook"
+    },
+    {
+      "korean": "He created something out of nothing. 듣기 Add to Wordbook 그는 무에서 유를 창조했다. YBM All in All English-Korean Dictionary",
+      "english": "He created something out of nothing. Add to Wordbook"
+    },
+    {
+      "korean": "Yoo said the government would use vaccinations to help prevent future outbreaks. 듣기 Add to Wordbook 유 장관에 따르면 정부는 구제역 백신을 접종하여 차후 발생을 막겠다고 한다. Neungyule",
+      "english": "Yoo said the government would use vaccinations to help prevent future outbreaks. Add to Wordbook"
+    },
+    {
+      "korean": "Jiang said China hopes tensions can be eased through diplomatic efforts. 듣기 Add to Wordbook 장 유 대변인은 중국은 외교적 노력을 통해 긴장이 완화될 수 있기를 바란다고 말했습니다. YBM All in All English-Korean Dictionary",
+      "english": "Jiang said China hopes tensions can be eased through diplomatic efforts. Add to Wordbook"
+    }
+  ]
+}

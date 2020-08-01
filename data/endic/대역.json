@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "대역",
+      "hanja": " (代役)",
+      "example": {},
+      "meanings": [
+        "(연극·영화의) stand-in (for), understudy; (위험한 연기의) (body) double"
+      ]
+    },
+    {
+      "phrase": "대역",
+      "hanja": " (大逆)",
+      "example": {},
+      "meanings": [
+        "Noun high treason, lese majesty"
+      ]
+    },
+    {
+      "phrase": "대역",
+      "hanja": " (對譯)",
+      "example": {},
+      "meanings": [
+        "Noun translation"
+      ]
+    },
+    {
+      "phrase": "영한대역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "English-Korean translation"
+      ]
+    },
+    {
+      "phrase": "영한 대역 회화 사전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an English-Korean conversation dictionary"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stand-in",
+      "frequency": 1
+    },
+    {
+      "meaning": "band 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "understudy",
+      "frequency": 0
+    },
+    {
+      "meaning": "pinch hitter",
+      "frequency": 0
+    },
+    {
+      "meaning": "paginal translation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "대역죄인입니다! He's the sinner! 듣기 View video V COOKIE : [Full] AB6IX x 우리의 밤 (Our Night with AB6IX)",
+      "english": "He's the sinner!"
+    },
+    {
+      "korean": "대역 같은 거네요? It's like playing a role? 듣기 View video 콬TV (WHYNOT) : 오늘 내 마음을 전달할거야 [7일만 로맨스] EP09 고백이 실패하는 이유",
+      "english": "It's like playing a role?"
+    },
+    {
+      "korean": "대역 죄인으로서 할 말이 없네요. As a high treason criminal, I have nothing to say. 듣기 View video VICTON : 숩이 등장..! 앨리스 섭섭했어요?!😔",
+      "english": "As a high treason criminal, I have nothing to say."
+    },
+    {
+      "korean": "[할머니 대역] 병민아~ [Stand-in for Grandma] Byungmin. 듣기 View video 스튜디오 픽또 / PICK DDO : [메이킹] 대본리딩 현장인데 대사보다 노래가 더 많은 이상한 현장",
+      "english": "[Stand-in for Grandma] Byungmin."
+    },
+    {
+      "korean": "대역죄인 같지 않아요 지금? Don't I seem like some high treason criminal? 듣기 View video GFRIEND : 점심시간 ㅎ_ㅎ",
+      "english": "Don't I seem like some high treason criminal?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She used a body double for the shower scene. 발음듣기 그녀는 샤워 장면에서 대역을 썼다. Neungyule",
+      "english": "She used a body double for the shower scene. 발음"
+    },
+    {
+      "korean": "Neither actor used stand-ins for the scene. 발음듣기 두 배우는 모두 이 장면에서 대역을 사용하지 않았다. Neungyule",
+      "english": "Neither actor used stand-ins for the scene. 발음"
+    },
+    {
+      "korean": "He has been impeached of high treason[with the error]. 발음듣기 그는 대역죄[그 과실]를 뒤집어쓰게 되었다. Friendict Level English-Korean Dictionary",
+      "english": "He has been impeached of high treason[with the error]. 발음"
+    },
+    {
+      "korean": "Think of them as stunt doubles and stand-ins for the animal stars. 발음듣기 이들은 스턴트 대역이고 스타가 된 동물의 대역 연기자라고 생각하면 됩니다. YBM All in All English-Korean Dictionary",
+      "english": "Think of them as stunt doubles and stand-ins for the animal stars. 발음"
+    },
+    {
+      "korean": "He stood in Keanu Reeves. 발음듣기 그는 키아누 리브스의 대역을 맡았다. YBM All in All English-Korean Dictionary",
+      "english": "He stood in Keanu Reeves. 발음"
+    }
+  ]
+}

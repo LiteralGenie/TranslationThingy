@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "간의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "simplified armillary sphere"
+      ]
+    },
+    {
+      "phrase": "간(성)의",
+      "hanja": " (肝(性)-)",
+      "example": {},
+      "meanings": [
+        "의학 hepatic"
+      ]
+    },
+    {
+      "phrase": "간[몸통]의",
+      "hanja": " (幹-)",
+      "example": {},
+      "meanings": [
+        "의학 truncal"
+      ]
+    },
+    {
+      "phrase": "간",
+      "hanja": " (間)",
+      "example": {},
+      "meanings": [
+        "(관계)",
+        "(기간)",
+        "(장소·거리 등의 사이)"
+      ]
+    },
+    {
+      "phrase": "간",
+      "hanja": " (肝)",
+      "example": {},
+      "meanings": [
+        "(신체 기관) liver",
+        "(비유적)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "between",
+      "frequency": 2
+    },
+    {
+      "meaning": "hepatic",
+      "frequency": 0
+    },
+    {
+      "meaning": "liver",
+      "frequency": 0
+    },
+    {
+      "meaning": "이민자",
+      "frequency": 0
+    },
+    {
+      "meaning": "협약",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아! 17일간의... 47일간의 세계 일주? Oh! Around the World in 17... 47 Days? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "Oh! Around the World in 17... 47 Days?"
+    },
+    {
+      "korean": "[발음 하나도 그냥 흘려보낼 수 없는 장꾸들] 간찰일기, 간? [Playful members start teasing the mispronunciation] Sorry? What? 듣기 View video V PICK! : [CRAVITY] 🎉훈훈말랑 우리비티 100일 기념 관찰일기 발표회🗒🔍 (CRAVITY’s member observation diary)",
+      "english": "[Playful members start teasing the mispronunciation] Sorry? What?"
+    },
+    {
+      "korean": "[해탈] 뭐가 나오든 간에 우리는 그냥 재밌고 신나게 해야 되는 거야! [Giving up] We have no choice but to do whatever is selected with joy. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[Giving up] We have no choice but to do whatever is selected with joy."
+    },
+    {
+      "korean": "간을 한번 볼까? May I taste it? 듣기 View video Stray Kids : \"네 손님\" 어서오십시오 필릭스네 식당입니다!👨‍🍳",
+      "english": "May I taste it?"
+    },
+    {
+      "korean": "약간 살짝 맛이 조금 간... I think it's kind of out of it. 듣기 View video NCT : 엥????",
+      "english": "I think it's kind of out of it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The sisters in that family are exceptionally close. 발음듣기 그 집은 자매 간의 의가 각별하다 Neungyule",
+      "english": "The sisters in that family are exceptionally close. 발음"
+    },
+    {
+      "korean": "The intergovernmental model is out of date. 발음듣기 그 정부 간의 제품은 구식이다. User translation Inaccurate information may be included due to the users' self-traslation. 희진(jjhj****) Web Collection",
+      "english": "The intergovernmental model is out of date. 발음"
+    },
+    {
+      "korean": "It seems like a war between countries. 발음듣기 나라들 간의 전쟁인 것 같네요. User translation Inaccurate information may be included due to the users' self-traslation. glvh925(glvh****) Web Collection",
+      "english": "It seems like a war between countries. 발음"
+    },
+    {
+      "korean": "Dogs train for years to be prepared. 발음듣기 대비하기 위한 수년 간의 개 훈련. User translation Inaccurate information may be included due to the users' self-traslation. KyuP(totn****) Web Collection",
+      "english": "Dogs train for years to be prepared. 발음"
+    },
+    {
+      "korean": "Do you know the difference between water and wine? 발음듣기 물과 와인 간의 차이를 아니? User translation Inaccurate information may be included due to the users' self-traslation. 메르베이(psys****) Web Collection",
+      "english": "Do you know the difference between water and wine? 발음"
+    }
+  ]
+}

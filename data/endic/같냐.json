@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "같다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동일하다, 동등하다) same, identical (to/with), equal (to), (가치가) equivalent (to), (공통된) common",
+        "(비슷하다, 유사하다) similar (to), like (※명사 앞에서만 쓰임), alike (※명사 앞에서는 쓰이지 않음)",
+        "(종류) like, such as"
+      ]
+    },
+    {
+      "phrase": "같은 물에 놀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "play in the same water, be in the same league"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "seem",
+      "frequency": 3
+    },
+    {
+      "meaning": "probable",
+      "frequency": 3
+    },
+    {
+      "meaning": "same",
+      "frequency": 3
+    },
+    {
+      "meaning": "cognate",
+      "frequency": 3
+    },
+    {
+      "meaning": "silly",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "솔직히 너한텐 잘못 없는 거 같냐? honestly, do you think you are not responsible for this at all? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "honestly, do you think you are not responsible for this at all?"
+    },
+    {
+      "korean": "누구일 것 같냐? Who do you think it is? 듣기 View video BTS : Run BTS! 2019 - EP.87",
+      "english": "Who do you think it is?"
+    },
+    {
+      "korean": "이엔이가 잘 치울 거 같냐? Do you think I.N cleans the room? 듣기 View video Stray Kids : 아기다리고기다리던공공즈😁",
+      "english": "Do you think I.N cleans the room?"
+    },
+    {
+      "korean": "어때? 천사 같냐? What do you say? Does he look like an angel? 듣기 View video NU'EST : [V ONLY] 뉴이스트 'The Table 1021' 카페 방문기",
+      "english": "What do you say? Does he look like an angel?"
+    },
+    {
+      "korean": "야 넌 내가 지금 도망치는 것 같냐? Do you think I'm running away? 듣기 View video 콬TV (WHYNOT) : 모두가 날 안믿고 의심할 때.. [일진에게 찍혔을 때] EP12",
+      "english": "Do you think I'm running away?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Is anyone gonna stop you, if you say you're going? 듣기 Add to Wordbook 네가 간다고 그러면 누가 잡을거 같냐? Neungyule",
+      "english": "Is anyone gonna stop you, if you say you're going? Add to Wordbook"
+    },
+    {
+      "korean": "You can't bully me around. 듣기 Add to Wordbook 네가 겁준다고 내가 무서워할 것 같냐? Neungyule",
+      "english": "You can't bully me around. Add to Wordbook"
+    },
+    {
+      "korean": "Where do you think that crap comes from? 듣기 Add to Wordbook 그딴 개소리는 어디서 나온 것 같냐? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 대두(kbs5****)",
+      "english": "Where do you think that crap comes from? Add to Wordbook"
+    },
+    {
+      "korean": "Why do you already look so pregnant? 듣기 Add to Wordbook 왜 너는 벌써 임신한거 같냐? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 꿀꿀이(sean****)",
+      "english": "Why do you already look so pregnant? Add to Wordbook"
+    },
+    {
+      "korean": "Do you think this is a good idea? I do. 듣기 Add to Wordbook 넌 이게 좋은 생각 같냐? 응. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 당근당근(rsh2****)",
+      "english": "Do you think this is a good idea? I do. Add to Wordbook"
+    }
+  ]
+}

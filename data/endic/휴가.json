@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "휴가",
+      "hanja": " (休暇)",
+      "example": {},
+      "meanings": [
+        "leave, break, (Am) vacation, (Brit) holiday; (군인의) furlough"
+      ]
+    },
+    {
+      "phrase": "출산휴가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "maternity leave"
+      ]
+    },
+    {
+      "phrase": "휴가철",
+      "hanja": " (休暇철)",
+      "example": {},
+      "meanings": [
+        "(Am) vacation season, (Brit) holiday season, the holidays"
+      ]
+    },
+    {
+      "phrase": "생리휴가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "menstrual leave"
+      ]
+    },
+    {
+      "phrase": "유급휴가",
+      "hanja": " (有給休暇)",
+      "example": {},
+      "meanings": [
+        "paid vacation[leave]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "holiday",
+      "frequency": 2
+    },
+    {
+      "meaning": "leave",
+      "frequency": 2
+    },
+    {
+      "meaning": "break",
+      "frequency": 2
+    },
+    {
+      "meaning": "furlough",
+      "frequency": 0
+    },
+    {
+      "meaning": "getaway",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "휴가 중 방 어떻게 나누는 거냐고? How do we separate our rooms during vacation? 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "How do we separate our rooms during vacation?"
+    },
+    {
+      "korean": "'휴가 중' 비하인드? Behind story during vacation? 듣기 View video MONSTA X : LIVE : 오랜만🐢",
+      "english": "Behind story during vacation?"
+    },
+    {
+      "korean": "'휴가 중' 그거 재밌죠? That's the most fun out the vacations, right? 듣기 View video MONSTA X : LIVE : 오랜만🐢",
+      "english": "That's the most fun out the vacations, right?"
+    },
+    {
+      "korean": "[휴가 2일차] 짜잔~ [2nd day] Ta-da. 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "[2nd day] Ta-da."
+    },
+    {
+      "korean": "다음 휴가 때요? On your next vacation? 듣기 View video Stray Kids : 찬이의 \"방\" 🐺 Ep. 54",
+      "english": "On your next vacation?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a romantic weekend getaway in New York 발음듣기 뉴욕에서 애인과 보내는 주말 휴가 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a romantic weekend getaway in New York 발음"
+    },
+    {
+      "korean": "We have holidays to suit every purse. 발음듣기 저희에게는 모든 주머니 사정에 맞는 휴가 상품들이 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have holidays to suit every purse. 발음"
+    },
+    {
+      "korean": "For me, the holiday was sheer unadulterated pleasure. 발음듣기 내게 있어서 그 휴가는 정말 완전한 기쁨이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "For me, the holiday was sheer unadulterated pleasure. 발음"
+    },
+    {
+      "korean": "Hotel costs gobbled up most of their holiday budget. 발음듣기 호텔비가 그들의 휴가 경비 대부분을 순식간에 잡아먹었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hotel costs gobbled up most of their holiday budget. 발음"
+    },
+    {
+      "korean": "to be in holiday mode 발음듣기 휴가 기분에 젖어 있다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be in holiday mode 발음"
+    }
+  ]
+}

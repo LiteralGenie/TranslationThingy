@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "코트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(외투) coat, overcoat"
+      ]
+    },
+    {
+      "phrase": "코트",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(경기장) (tennis/basketball) court"
+      ]
+    },
+    {
+      "phrase": "court",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 법정, 법원 (→courthouse, courtroom)",
+        "Noun 법정에 있는 사람들(특히 판사, 배심원같이 결정을 내리는 사람들) (→contempt of court, county court, Crown Court, High Cou...",
+        "Verb …의 환심을 사려고 하다 (=cultivate)"
+      ]
+    },
+    {
+      "phrase": "coat",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 외투, 코트 (→duffel coat, greatcoat, housecoat, overcoat, petticoat, raincoat, trench coat)",
+        "Noun 美 (정장) 상의 (→frock coat, morning coat, tailcoat, waistcoat)",
+        "Verb (막 같은 것을) 덮다[입히다] (→sugar-coated)"
+      ]
+    },
+    {
+      "phrase": "cot",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 英 아기 침대 (→carrycot)",
+        "Noun 美 (=camp bed)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "court",
+      "frequency": 3
+    },
+    {
+      "meaning": "coat",
+      "frequency": 3
+    },
+    {
+      "meaning": "mini",
+      "frequency": 0
+    },
+    {
+      "meaning": "Nehru jacket",
+      "frequency": 0
+    },
+    {
+      "meaning": "Quaker oat",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이번에는 그렇게 레오퍼드 코트를 입게 됐어요 잘 어울렸나요? That's why I was able to wear leopard coat this year. Was it good on me? 듣기 View video NU'EST : [NU’EST] 오늘은 일찍..늦지 않게! 왔어요😉",
+      "english": "That's why I was able to wear leopard coat this year. Was it good on me?"
+    },
+    {
+      "korean": "코트 입을까요? Shall I wear a coat? 듣기 View video NCT : 악동서울 퇴근길!💚",
+      "english": "Shall I wear a coat?"
+    },
+    {
+      "korean": "얼죽코는 코트, 얼어 죽어도 코트! \"I asked about wearing coat, not coffee\". 듣기 View video NU'EST : [NU’EST] 쩨-하🤗",
+      "english": "\"I asked about wearing coat, not coffee\"."
+    },
+    {
+      "korean": "[얼어 죽어도 코트!] 아 코트요! [Coat even though you freeze to death!] Ah, coat! 듣기 View video V PICK! : [THE BOYZ] 오늘부터 <얼죽코> 뜻 누가 뭐래도 얼어 죽어도 코코아☕️ (HYUNJAE talking about abbreviations)",
+      "english": "[Coat even though you freeze to death!] Ah, coat!"
+    },
+    {
+      "korean": "오빠 내일 흰색 코트 입어라고요? Wear a white coat tomorrow? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #31",
+      "english": "Wear a white coat tomorrow?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the food court at the shopping mall 듣기 Add to Wordbook 쇼핑 몰의 푸드 코트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the food court at the shopping mall Add to Wordbook"
+    },
+    {
+      "korean": "She moved with great athleticism about the court. 듣기 Add to Wordbook 그녀는 아주 탄탄한 몸놀림으로 코트를 뛰어 다녔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She moved with great athleticism about the court. Add to Wordbook"
+    },
+    {
+      "korean": "Hang your coat on that hook. 듣기 Add to Wordbook 네 코트는 저 고리에 걸어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hang your coat on that hook. Add to Wordbook"
+    },
+    {
+      "korean": "Her coat was open. 듣기 Add to Wordbook 그녀의 코트는 (단추가) 잠겨 있지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her coat was open. Add to Wordbook"
+    },
+    {
+      "korean": "I bought a coat in the sales. 듣기 Add to Wordbook 나는 세일 때 코트를 샀다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I bought a coat in the sales. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "싶다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(하고 싶다) (동사로 쓰여) want (to), would like to, wish (to), (formal) desire (to), feel like (doing)",
+        "(~한 생각이 들다) (동사로 쓰여) look, seem, appear"
+      ]
+    },
+    {
+      "phrase": "난 멋지게 보이고 싶었어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I wanted to look cool."
+      ]
+    },
+    {
+      "phrase": "고맙다는 말씀을 드리고 싶었어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "감사 I would like to thank you.",
+        "감사 I would like to express my thanks.",
+        "감사 I want to express my appreciation."
+      ]
+    },
+    {
+      "phrase": "정말 보고 싶었어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "만남 I missed you so much.",
+        "만남 I really wanted to see you.",
+        "만남 I was hoping to see you again."
+      ]
+    },
+    {
+      "phrase": "보고 싶었어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-오랜만에 만났을 때 I missed you."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "IJLS",
+      "frequency": 0
+    },
+    {
+      "meaning": "fancy",
+      "frequency": 3
+    },
+    {
+      "meaning": "free",
+      "frequency": 3
+    },
+    {
+      "meaning": "want",
+      "frequency": 3
+    },
+    {
+      "meaning": "keen",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 하고 싶었어 하고 싶었어!",
+      "english": "I wanted to do this! I wanted to do this!"
+    },
+    {
+      "korean": "보고 싶었어요?",
+      "english": "You missed me?"
+    },
+    {
+      "korean": "이거 때문에 보는구나 싶었어 - 그렇지?",
+      "english": "I thought you watch TV series because of it. - Right?"
+    },
+    {
+      "korean": "여기 내 와이프 오은경 분명 있지만 나 진짜 너랑 하고 싶었어!",
+      "english": "Even if my wife Oh Eunkyung is here. I wanted to sleep with you."
+    },
+    {
+      "korean": "안 보고싶었어요?",
+      "english": "Did you not?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "스무 명의 손님이면 충분하지 않을까 싶었어요.",
+      "english": "Twenty guests are enough, I would have thought."
+    },
+    {
+      "korean": "“보고 싶었어.” 그가 부드럽게[다정하게] 말했다.",
+      "english": "‘I missed you,’ he said softly."
+    },
+    {
+      "korean": "꽉 끼는 치마의 지퍼를 정말로 내리고 싶었어.",
+      "english": "I really wanted to unzipple the tight skirt."
+    },
+    {
+      "korean": "의대 졸업한 우리 큰형을 그냥 축하하고 싶었어.",
+      "english": "Just wanted to congratulate my big brother on graduating from medical school."
+    },
+    {
+      "korean": "나는 단지 내가 한 행동에 대해서 정말 미안하고, 나의 행동에 모든 책임을 질 거라고 말하고 싶었어.",
+      "english": "I just wanted to tell you I’m really sorry for what I did and I’ll take full responsibility for my actions."
+    }
+  ]
+}

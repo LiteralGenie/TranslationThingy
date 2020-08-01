@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "단서",
+      "hanja": " (端緖)",
+      "example": {},
+      "meanings": [
+        "(실마리) clue, lead"
+      ]
+    },
+    {
+      "phrase": "단서",
+      "hanja": " (但書)",
+      "example": {},
+      "meanings": [
+        "(조건) condition, proviso"
+      ]
+    },
+    {
+      "phrase": "dancer",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 춤을 추는 사람, 춤꾼, 무용수, 댄서"
+      ]
+    },
+    {
+      "phrase": "danseur",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 발레 댄서"
+      ]
+    },
+    {
+      "phrase": "댄서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a dancer, a dancing girl, a woman dancer"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "단서 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "qualification",
+      "frequency": 3
+    },
+    {
+      "meaning": "string",
+      "frequency": 3
+    },
+    {
+      "meaning": "clue",
+      "frequency": 3
+    },
+    {
+      "meaning": "힌트",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "단서란 게 뭐예요? What do you mean, clues? 듣기 View video Dingo Story / 딩고스토리 : 좋아하는 사람이 다른 사람과 키스했다_EP19_[라이크LIKE]",
+      "english": "What do you mean, clues?"
+    },
+    {
+      "korean": "[월드 프로듀서 단서 3, 빌보드 차트 TOP 10 20곡 배출] 그래서... [Clue no.3 of world producer. Produced 20 of Billboard Top 10 songs] So... 듣기 View video World Klass (월드 클래스) : [3회] '그의 손길이면 빌보드 안착' 미션을 평가할 월드 프로듀서는 누구?!",
+      "english": "[Clue no.3 of world producer. Produced 20 of Billboard Top 10 songs] So..."
+    },
+    {
+      "korean": "[다시 단서를 짚어보잣] 여기 자물쇠가... [Let's think of clues] This lock... 듣기 View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 6화",
+      "english": "[Let's think of clues] This lock..."
+    },
+    {
+      "korean": "[단서 키워드 글씨를 읽어야 하는데] 글씨 봐! [He has to read the keyword] Read them! 듣기 View video 1THE9(원더나인) : 원더나인(1THE9) - 원더랜드(WONDERLAND) EP.3",
+      "english": "[He has to read the keyword] Read them!"
+    },
+    {
+      "korean": "[드디어 결정적 단서를 찾은 듯한데] 2! 환000! [Did they find a decisive clue?] 2! Hwan000! 듣기 View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 6화",
+      "english": "[Did they find a decisive clue?] 2! Hwan000!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The police combed the area for clues. 듣기 Add to Wordbook 경찰이 단서를 찾아 그 지역을 이 잡듯이 뒤졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police combed the area for clues. Add to Wordbook"
+    },
+    {
+      "korean": "contextual clues to the meaning 듣기 Add to Wordbook 의미에 대한 문맥상의 단서들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "contextual clues to the meaning Add to Wordbook"
+    },
+    {
+      "korean": "Police searched the area for clues. 듣기 Add to Wordbook 경찰이 단서를 찾아 그 지역을 수색했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police searched the area for clues. Add to Wordbook"
+    },
+    {
+      "korean": "Police searched for clues in the area. 듣기 Add to Wordbook 경찰이 그 지역에서 단서를 찾아보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police searched for clues in the area. Add to Wordbook"
+    },
+    {
+      "korean": "He agreed to their visit with the proviso that they should stay no longer than one week. 듣기 Add to Wordbook 그는 그들이 일주일 이상 머물지 않는다는 단서를 달고 그들의 방문에 동의했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He agreed to their visit with the proviso that they should stay no longer than one week. Add to Wordbook"
+    }
+  ]
+}

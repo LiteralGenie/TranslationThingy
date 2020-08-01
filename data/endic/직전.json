@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "직전",
+      "hanja": " (直前)",
+      "example": {},
+      "meanings": [
+        "just[immediately, right] before, just prior to"
+      ]
+    },
+    {
+      "phrase": "시험 직전에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "just before the examination"
+      ]
+    },
+    {
+      "phrase": "파산 직전에 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be on the point[verge, brink] of bankruptcy"
+      ]
+    },
+    {
+      "phrase": "아사 직전에 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be close to starvation",
+        "be nearly dying from starvation"
+      ]
+    },
+    {
+      "phrase": "파산 직전이에요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "토픽 We are nearly broke.",
+        "토픽 The company is going into bankruptcy.",
+        "토픽 Our company is about to crash."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "brink",
+      "frequency": 3
+    },
+    {
+      "meaning": "moribund",
+      "frequency": 0
+    },
+    {
+      "meaning": "on the rocks",
+      "frequency": 0
+    },
+    {
+      "meaning": "on the ropes",
+      "frequency": 0
+    },
+    {
+      "meaning": "on/to the verge of something/of doing something",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지금 배데렐라 기절 직전이에요 기절 직전! BAE-derella is about to pass out. Just about to! 듣기 View video World Klass (월드 클래스) : 🌏 보고싶어서 왔클! 4인실 + 2인실 🌏",
+      "english": "BAE-derella is about to pass out. Just about to!"
+    },
+    {
+      "korean": "[질문] 여기 오기 직전에 한 일은? [Q] What did you do right before this interview? 듣기 View video OSEN : '스타로드' 에이핑크 오하영, 50문50답 스타트! #EP 03",
+      "english": "[Q] What did you do right before this interview?"
+    },
+    {
+      "korean": "[제한 시간 종료 직전] [노랑팀 한준 정답] 잘했어요! [Yellow team HAN JUN got it right] Great job! 듣기 View video World Klass (월드 클래스) : [4회] '이판 사판 난장판' 어푸어푸 암산 왕 대결 현장",
+      "english": "[Yellow team HAN JUN got it right] Great job!"
+    },
+    {
+      "korean": "진! - 그게 목표였었는데 - 직전이에요? Jin! - That was a goal for 2019. - Are you close to that? 듣기 View video BTS : 아미와 함께 해피뉴이어!",
+      "english": "Jin! - That was a goal for 2019. - Are you close to that?"
+    },
+    {
+      "korean": "[쇼케이스 직전, 영재의 한마디] 그냥 즐겨주세요! [YOUNGJAE's comment before the showcase] Just, enjoy! 듣기 View video GOT7 : GOT7(갓세븐) HOTLINE #2",
+      "english": "[YOUNGJAE's comment before the showcase] Just, enjoy!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an old man on the verge of senility 듣기 Add to Wordbook 망령이 들기 직전의 노인 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an old man on the verge of senility Add to Wordbook"
+    },
+    {
+      "korean": "The mountain gorilla is on the verge of extinction. 듣기 Add to Wordbook 그 산악 고릴라는 멸종 직전에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The mountain gorilla is on the verge of extinction. Add to Wordbook"
+    },
+    {
+      "korean": "He seemed to be on the verge of total derangement. 듣기 Add to Wordbook 그는 완전히 미치기 일보 직전에 있는 사람처럼 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He seemed to be on the verge of total derangement. Add to Wordbook"
+    },
+    {
+      "korean": "the years immediately before the war 듣기 Add to Wordbook 그 전쟁이 나기 직전의 몇 해 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the years immediately before the war Add to Wordbook"
+    },
+    {
+      "korean": "a country on the brink of revolution 듣기 Add to Wordbook 혁명 발발 직전에 있는 국가 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a country on the brink of revolution Add to Wordbook"
+    }
+  ]
+}

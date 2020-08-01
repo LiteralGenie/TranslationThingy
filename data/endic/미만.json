@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "미만",
+      "hanja": " (未滿)",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "미만의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "under",
+        "below",
+        "less than"
+      ]
+    },
+    {
+      "phrase": "1,000원 미만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "less than[not exceeding] 1,000 won"
+      ]
+    },
+    {
+      "phrase": "5세 미만의 아이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "children under five (years of age)"
+      ]
+    },
+    {
+      "phrase": "18세 미만은 볼 수 없습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "영화 People under 18 can't see it.",
+        "영화 Children under 18 can't get in."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "under",
+      "frequency": 3
+    },
+    {
+      "meaning": "absolute alcohol",
+      "frequency": 0
+    },
+    {
+      "meaning": "the under-fives",
+      "frequency": 0
+    },
+    {
+      "meaning": "pH",
+      "frequency": 0
+    },
+    {
+      "meaning": "a nursery for infants under two",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐야? 15세 미만이야? What? Is it PG15? 듣기 View video NCT : 오랜만도영💚💚",
+      "english": "What? Is it PG15?"
+    },
+    {
+      "korean": "그럼 15세 미만인 애들 어떻게 봐? Then how can people under 15 watch this? 듣기 View video NCT : 오랜만도영💚💚",
+      "english": "Then how can people under 15 watch this?"
+    },
+    {
+      "korean": "시간인 거죠? - 네 - 24시간 미만인 거죠 그러면? So, it's time. - Yes. - Is it fewer than 24 hours? 듣기 View video OSEN : WINNER 위너가 푸는 위너 퀴즈 #스타로드 02",
+      "english": "So, it's time. - Yes. - Is it fewer than 24 hours?"
+    },
+    {
+      "korean": "[이 프로그램은 음주 장면이 포함되어 있습니다 19세 미만 청소년들은 따라하지 마세요] 조금... [This program involves drinking. Viewers below the age of 19 shall not follow] Little... 듣기 View video 모비딕(Mobidic) : 신혼 때는 서로 눈만 맞아도 불이 붙는다던데... (with.버드와이저) <김준현의짠> 10회",
+      "english": "[This program involves drinking. Viewers below the age of 19 shall not follow] Little..."
+    },
+    {
+      "korean": "두 개... 두 개 미만. I have less than 2 now. 듣기 View video MONSTA X : [몬채널][B] EP.101 '몬스타엑스레이3' 1화 part.2",
+      "english": "I have less than 2 now."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "There has been below average rainfall this month. 듣기 Add to Wordbook 이번 달에는 강우량이 평균 미만이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There has been below average rainfall this month. Add to Wordbook"
+    },
+    {
+      "korean": "a nursery for infants under two 듣기 Add to Wordbook 2세 미만 유아를 위한 유아원 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a nursery for infants under two Add to Wordbook"
+    },
+    {
+      "korean": "an annual income of under ￡10,000 듣기 Add to Wordbook 만 파운드 미만의 연간 소득 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an annual income of under ￡10,000 Add to Wordbook"
+    },
+    {
+      "korean": "Children under five travel free. 듣기 Add to Wordbook 5세 미만 아동은 차비가 없다[차비를 내지 않아도 된다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Children under five travel free. Add to Wordbook"
+    },
+    {
+      "korean": "Inflation stayed below 4% last month. 듣기 Add to Wordbook 지난달에는 인플레이션이 계속 4% 미만을 유지했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Inflation stayed below 4% last month. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "옮기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(위치를) move, shift, take",
+        "(숙소·소속 등을) move (to/into), (직장·명의 등을) transfer",
+        "infect, (병 등을) (formal) transmit, give a disease (to)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "swingover",
+      "frequency": 0
+    },
+    {
+      "meaning": "translating",
+      "frequency": 0
+    },
+    {
+      "meaning": "bulky",
+      "frequency": 1
+    },
+    {
+      "meaning": "quota hopping",
+      "frequency": 0
+    },
+    {
+      "meaning": "transfer comb",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[천잰데?] 그래서 가구 옮기기? [You're a genius!] So moving the furniture? 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.16 JR의 왕 쿠폰 사용기 #1",
+      "english": "[You're a genius!] So moving the furniture?"
+    },
+    {
+      "korean": "자리 옮기기 있기 할 거예요? 없기 할 거예요? Do we apply the rules of changing locations? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN SPIN-OFF EP.22 TTT (MT SVT REALITY) #2",
+      "english": "Do we apply the rules of changing locations?"
+    },
+    {
+      "korean": "[그나마 큰(?) 아이엔의 빨래집게로 그릇에 옮기기] 안 돼! [I.N. moves it to a plate with his big(?) clothespin] No! 듣기 View video Stray Kids : [CHOISKZ(초이슼)] EP.02",
+      "english": "[I.N. moves it to a plate with his big(?) clothespin] No!"
+    },
+    {
+      "korean": "[학교 팀 현진&아이엔] [티포크와 빨래집게로 콩 옮기기 시작!] [Team School's HYUNJIN & I.N.] [Moving beans with a tea fork and a clothespin!] View video Stray Kids : [CHOISKZ(초이슼)] EP.02",
+      "english": "[Team School's HYUNJIN & I.N.] [Moving beans with a tea fork and a clothespin!]"
+    },
+    {
+      "korean": "입으로 휴지 옮기기. Move the issue with your mouths. 듣기 View video MONSTA X : [MONSTA X] 몬스타엑스 - 출.없.방 #07",
+      "english": "Move the issue with your mouths."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It’s a concept that is difficult to render into English. 발음듣기 그것은 영어로 옮기기 힘든 개념이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s a concept that is difficult to render into English. 발음"
+    },
+    {
+      "korean": "She’s determined to put her new ideas into practice. 발음듣기 그녀는 자신의 새 아이디어를 실행에 옮기기로 단단히 결심하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s determined to put her new ideas into practice. 발음"
+    },
+    {
+      "korean": "Firefighters formed a human chain to carry the children to safety. 발음듣기 그 아이들을 안전한 곳으로 옮기기 위해 소방관들이 인간 사슬을 형성했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Firefighters formed a human chain to carry the children to safety. 발음"
+    },
+    {
+      "korean": "Tired of carrying home heavy boxes of detergent? 발음듣기 무거운 가정용 세제 상자를 옮기기가 지겨우시죠? YBM All in All English-Korean Dictionary",
+      "english": "Tired of carrying home heavy boxes of detergent? 발음"
+    },
+    {
+      "korean": "Many ambulances were used to move the wounded. 발음듣기 부상자들을 옮기기 위해 많은 구급차가 동원되었다 Neungyule",
+      "english": "Many ambulances were used to move the wounded. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "끝나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "end, finish, close, be over, be done, be finished, be completed"
+      ]
+    },
+    {
+      "phrase": "해피 엔드로 끝나는 이야기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a story with a happy ending"
+      ]
+    },
+    {
+      "phrase": "오늘 진짜 정신 없네요. 난 정말 일이 안 끝나는 줄 알았어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "직장에서의 표현 This has been a bad day. I thought quitting time would never come."
+      ]
+    },
+    {
+      "phrase": "끝나는 것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 expire"
+      ]
+    },
+    {
+      "phrase": "끝나는 대로 그리로 가겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-약속을 어겼을 때 I'll hurry over as soon as I'm finished."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "victorious",
+      "frequency": 1
+    },
+    {
+      "meaning": "not the end of the world",
+      "frequency": 0
+    },
+    {
+      "meaning": "ill-fated",
+      "frequency": 0
+    },
+    {
+      "meaning": "an ill-fated expedition",
+      "frequency": 0
+    },
+    {
+      "meaning": "open syllable",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "저 혹시 오늘 안에 끝나는 거 맞죠? Can you finish this within today? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.23 드립 : 세븐틴 갓 탤런트 #1 (Ad-lib : Seventeen's got Talent #1)",
+      "english": "Can you finish this within today?"
+    },
+    {
+      "korean": "[다른 것으로 인정] 끝나는 거예요? [It's not recognized as a duplicate] If we write it, will it be over? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.22",
+      "english": "[It's not recognized as a duplicate] If we write it, will it be over?"
+    },
+    {
+      "korean": "사실 - 경찰이 죽으면서 누굴 알아본 건 그냥 끝나는 건가요? Actually... - Can't we find out the result of the cop's investigation after he died? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Actually... - Can't we find out the result of the cop's investigation after he died?"
+    },
+    {
+      "korean": "5개 되면 끝나는 거야? So does it end like this? 듣기 View video OSEN : Stray Kids 스트레이키즈, 게임에 정신없이 빠져버린 썰 #스타로드 12",
+      "english": "So does it end like this?"
+    },
+    {
+      "korean": "너 먹다 끝나는 거 아니야? Isn't that all you do? 듣기 View video NCT : 쟈비는 없다",
+      "english": "Isn't that all you do?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Finishing early was a welcome change. 발음듣기 일찍 끝나는 것은 반가운 변화였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Finishing early was a welcome change. 발음"
+    },
+    {
+      "korean": "Turn right at the end of the road. 발음듣기 도로가 끝나는 곳에서 우회전하세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Turn right at the end of the road. 발음"
+    },
+    {
+      "korean": "Failing one exam is not the end of the world. 발음듣기 시험 하나 망쳤다고 세상이 끝나는 것은 아냐. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Failing one exam is not the end of the world. 발음"
+    },
+    {
+      "korean": "I’ll give you £5 and then we’re quits. 발음듣기 내가 네게 5파운드를 줄게. 그러면 우린 서로 계산이 끝나는 거야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ll give you £5 and then we’re quits. 발음"
+    },
+    {
+      "korean": "civil servants who seem to think the world ends north of Watford 발음듣기 왓퍼드 북쪽에서 세상이 끝나는 줄 아는[런던 지역이 세상의 전부인 줄 아는] 공무원 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "civil servants who seem to think the world ends north of Watford 발음"
+    }
+  ]
+}

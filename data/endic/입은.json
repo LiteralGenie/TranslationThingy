@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(옷을) (동작) put on, dress, get dressed; (걸치다) slip on; (급히) throw on; (상태) wear, have (sth) on, be dressed in",
+        "(손해·피해·상처 등을) suffer, incur, (formal) sustain",
+        "(도움·은혜 등을) be indebted to, get[receive] a favor, be favored (with)"
+      ]
+    },
+    {
+      "phrase": "제복을 입은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "uniformed",
+        "in uniform"
+      ]
+    },
+    {
+      "phrase": "한복을 입은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in Korean dress[clothes]"
+      ]
+    },
+    {
+      "phrase": "평복을 입은",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(dressed) in plain clothes",
+        "in mufti"
+      ]
+    },
+    {
+      "phrase": "옷 입은 그대로 오세요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Come as you are."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "clothed",
+      "frequency": 0
+    },
+    {
+      "meaning": "arrayed",
+      "frequency": 0
+    },
+    {
+      "meaning": "habilimented",
+      "frequency": 0
+    },
+    {
+      "meaning": "dressed",
+      "frequency": 2
+    },
+    {
+      "meaning": "clad",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 거의 몇 년 만에 입은 것 같은데? I think it's been a few years since I wore this. 듣기 View video V PICK! : [GOT7] 왜요..? 제가 재채기도 말랑깜찍하게 하는 김유겸 팬처럼 생겼나요..? (YUGYEOM answering fans’ questions)",
+      "english": "I think it's been a few years since I wore this."
+    },
+    {
+      "korean": "저희가 입은 거예요 - 저희가 이걸 입게 된 이유가 뭔 줄 알아요? We wore these. - Do you know why we dress like this? 듣기 View video Stray Kids : [Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.27",
+      "english": "We wore these. - Do you know why we dress like this?"
+    },
+    {
+      "korean": "그럼 둘 중에는 라이더 재킷을 입은 친구가 조금 더 편했겠네요 연기하기? Acting out the one with the rider jacket must've been more comfortable, right? 듣기 View video WOODZ (조승연) : [full] WOODZ 1ST MINI ALBUM [EQUAL] SHOWCASE",
+      "english": "Acting out the one with the rider jacket must've been more comfortable, right?"
+    },
+    {
+      "korean": "[오늘 소원 이룬 우리즈원] 맞아요 테니스복 입은 건 처음이지 않았어요 저희? [IZ*ONE's dreams came true today] Right. Isn't it the first time we wore tennis clothes? 듣기 View video Dispatch : [DICON] 앙즈뽀짝 폴라로이드 꾸미기③ (IZ*ONE)",
+      "english": "[IZ*ONE's dreams came true today] Right. Isn't it the first time we wore tennis clothes?"
+    },
+    {
+      "korean": "[소복 입은 귀...신?] [Ghost with mourning clothes?] View video Hyomstore : ep.17 횸스토어 MD들의 숨겨진 능력 대방출!",
+      "english": "[Ghost with mourning clothes?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "expensively dressed / furnished 발음듣기 비싼 옷을 입은/가구를 들여 놓은 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "expensively dressed / furnished 발음"
+    },
+    {
+      "korean": "cardinals in scarlet robes 발음듣기 진홍색 대례복을 입은 추기경들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "cardinals in scarlet robes 발음"
+    },
+    {
+      "korean": "dressed in sombre shades of grey and black 발음듣기 칙칙한 색조의 회색과 검정색 옷을 입은 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "dressed in sombre shades of grey and black 발음"
+    },
+    {
+      "korean": "drab women, dressed in browns and greys 발음듣기 갈색과 회색 옷을 입은 생기 없는 여자들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "drab women, dressed in browns and greys 발음"
+    },
+    {
+      "korean": "She jumped fully clothed into the water. 발음듣기 그녀는 옷을 다 입은 채 물 속으로 뛰어들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She jumped fully clothed into the water. 발음"
+    }
+  ]
+}

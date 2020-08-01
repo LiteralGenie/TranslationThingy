@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "치료비",
+      "hanja": " (治療費)",
+      "example": {},
+      "meanings": [
+        "medical expenses[fee], doctor's fees[bill]"
+      ]
+    },
+    {
+      "phrase": "피해자에게 치료비를 물어주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pay for the victim's medical treatment"
+      ]
+    },
+    {
+      "phrase": "부상 치료비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "injury treatment expenses"
+      ]
+    },
+    {
+      "phrase": "병원 치료비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hospital expenses"
+      ]
+    },
+    {
+      "phrase": "입원 치료비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cost of hospitalization"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "medical bill",
+      "frequency": 0
+    },
+    {
+      "meaning": "M.I.",
+      "frequency": 0
+    },
+    {
+      "meaning": "fee-splitter",
+      "frequency": 0
+    },
+    {
+      "meaning": "disease management",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "치료비로 제가 뭐... - 치료비로? I could for medical expenses... - Medical expenses? 듣기 View video INFINITE : 인스피릿 모여라",
+      "english": "I could for medical expenses... - Medical expenses?"
+    },
+    {
+      "korean": "One two 가고, 세뱃돈 드려서 치료비 드리고. Go one, two, and give new year's day money gift for medical expenses. 듣기 View video INFINITE : 인스피릿 모여라",
+      "english": "Go one, two, and give new year's day money gift for medical expenses."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a doctor’s bill 듣기 Add to Wordbook 치료비. Friendict Level English-Korean Dictionary",
+      "english": "a doctor’s bill Add to Wordbook"
+    },
+    {
+      "korean": "Paying for hospital treatment goes against her principles. 듣기 Add to Wordbook 병원 치료비를 내는 것은 그녀의 원칙에 위배되는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Paying for hospital treatment goes against her principles. Add to Wordbook"
+    },
+    {
+      "korean": "Everyone has the right to good medical care regardless of their ability to pay. 듣기 Add to Wordbook 모든 사람은 치료비 지불 능력에 상관없이 좋은 치료를 받을 권리가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Everyone has the right to good medical care regardless of their ability to pay. Add to Wordbook"
+    },
+    {
+      "korean": "a catastrophic illness 듣기 Add to Wordbook (엄청난 치료비로) 파국을 초래하는 질병 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a catastrophic illness Add to Wordbook"
+    },
+    {
+      "korean": "Dr. Natalie Hawk believes she can cut the nation's annual price tag for diabetic care in half. 듣기 Add to Wordbook 나탈리 호크 박사는 전국의 연간 당뇨병 치료비를 절반으로 줄일 수 있다고 믿습니다. YBM All in All English-Korean Dictionary",
+      "english": "Dr. Natalie Hawk believes she can cut the nation's annual price tag for diabetic care in half. Add to Wordbook"
+    }
+  ]
+}

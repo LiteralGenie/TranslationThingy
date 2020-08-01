@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "값",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건의 가격) price",
+        "(가치, 의의) value, worth",
+        "(수학) value"
+      ]
+    },
+    {
+      "phrase": "값을 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "worth the price"
+      ]
+    },
+    {
+      "phrase": "값이 나가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be of value"
+      ]
+    },
+    {
+      "phrase": "술값",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "money paid for drinks, (술 마실 돈) money for drinking[a drink]"
+      ]
+    },
+    {
+      "phrase": "값을 깎다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "reduce a price"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "value",
+      "frequency": 3
+    },
+    {
+      "meaning": "cost",
+      "frequency": 3
+    },
+    {
+      "meaning": "price",
+      "frequency": 3
+    },
+    {
+      "meaning": "lay 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "ante",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 진짜 차 한 대 값 아니야, 이거? Doesn't this cost as much as a car? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 24. 파이널 2라운드! [코디 X 대힙래퍼] 콜라보 무대가 시작된다!",
+      "english": "Doesn't this cost as much as a car?"
+    },
+    {
+      "korean": "[SF9: 저는 잘 재울 수 있어요] 지금 V LIVE 제목 값하죠 여러분? [SF9: I can put you to sleep well] My V LIVE is true to its title, right? 듣기 View video V PICK! : [SF9] (우당탕) 타지야~ 미안해~ 나도 어쩔 수 없는 셒구인가봐~ (우당탕) (JAEYOON talking about newly-coined word)",
+      "english": "[SF9: I can put you to sleep well] My V LIVE is true to its title, right?"
+    },
+    {
+      "korean": "요즘엔 필름값이 안 들어서 괜찮아요 - 그렇죠 - 그래요? It's okay since they don't use film. - Right. - Right? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "It's okay since they don't use film. - Right. - Right?"
+    },
+    {
+      "korean": "이름값하는 남자~ Guy who fulfills his name. 듣기 View video VICTON : 깜짝부이앱",
+      "english": "Guy who fulfills his name."
+    },
+    {
+      "korean": "이거는 값을 매길 수 없죠! I can't put a price on this! 듣기 View video CIX : CIX HYUNSUK BIRTHDAY V LIVE",
+      "english": "I can't put a price on this!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We paid for the car by/in instalments. 듣기 Add to Wordbook 우리는 그 차 값을 할부로 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We paid for the car by/in instalments. Add to Wordbook"
+    },
+    {
+      "korean": "The price is payable in monthly instalments. 듣기 Add to Wordbook 그 값은 월부로 지불할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The price is payable in monthly instalments. Add to Wordbook"
+    },
+    {
+      "korean": "The paintings were sold for absurdly high prices. 듣기 Add to Wordbook 그 그림들은 터무니없이 고가[비싼 값]에 팔렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The paintings were sold for absurdly high prices. Add to Wordbook"
+    },
+    {
+      "korean": "The cost of your uniform will be deducted from your wages. 듣기 Add to Wordbook 유니폼 값은 당신 급여에서 공제될 거예요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cost of your uniform will be deducted from your wages. Add to Wordbook"
+    },
+    {
+      "korean": "All the best bargains were snapped up within hours. 듣기 Add to Wordbook 값이 싸고 아주 좋은 물건들은 몇 시간 안에 다 잡아채[사] 가고 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All the best bargains were snapped up within hours. Add to Wordbook"
+    }
+  ]
+}

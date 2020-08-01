@@ -1,0 +1,91 @@
+{
+  "phrases": [
+    {
+      "phrase": "육로",
+      "hanja": " (陸路)",
+      "example": {},
+      "meanings": [
+        "land route, overland route"
+      ]
+    },
+    {
+      "phrase": "육로로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by land",
+        "overland",
+        "by an overland route"
+      ]
+    },
+    {
+      "phrase": "육로로 여행하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "travel by land"
+      ]
+    },
+    {
+      "phrase": "육로 관광을 재개하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "restart[resume] overland tours"
+      ]
+    },
+    {
+      "phrase": "육로로 금강산에 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go to Mt. Geumgang by land"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "overland route",
+      "frequency": 0
+    },
+    {
+      "meaning": "go by rail[ship, air, land, sea]",
+      "frequency": 0
+    },
+    {
+      "meaning": "an overland route",
+      "frequency": 0
+    },
+    {
+      "meaning": "portage",
+      "frequency": 0
+    },
+    {
+      "meaning": "overland",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "It takes about five hours by road. 발음듣기 (그곳은) 육로로[차로] 약 5시간 걸린다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It takes about five hours by road. 발음"
+    },
+    {
+      "korean": "We made the journey by land, though flying would have been cheaper. 발음듣기 비행기로 가는 것이 비용이 덜 들었겠지만 우리는 육로로 여행을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We made the journey by land, though flying would have been cheaper. 발음"
+    },
+    {
+      "korean": "to travel by air/land/sea 발음듣기 항공편/육로/해로로 이동하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to travel by air/land/sea 발음"
+    },
+    {
+      "korean": "go by train [ship, rail, air, land, sea] 발음듣기 기차[배, 철도편, 항공편, 육로, 해로]로 가다. Friendict Level English-Korean Dictionary",
+      "english": "go by train [ship, rail, air, land, sea] 발음"
+    },
+    {
+      "korean": "We plan to make an overland jaunt across China. 발음듣기 우리는 육로로 중국 횡단 여행을 할 계획이다. YBM All in All English-Korean Dictionary",
+      "english": "We plan to make an overland jaunt across China. 발음"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "쉬어!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 At ease!, Carry on!, Rest!, Stand at ease!"
+      ]
+    },
+    {
+      "phrase": "sweer",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 게으른, 나태한(slothful, indolent).",
+        "Noun 본의 아닌, 마음이 내키지 않는(unwilling, reluctant)."
+      ]
+    },
+    {
+      "phrase": "sweir",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ADJ lazy",
+        "ADJ loath; disinclined"
+      ]
+    },
+    {
+      "phrase": "sweir",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "VERB a Scot word for swear"
+      ]
+    },
+    {
+      "phrase": "쉬다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(휴식을 취하다) rest, relax, have[take] a rest, take a break, take time off, (informal) kick back",
+        "(일을) be out of work,; (휴가를 얻어서) take (a day) off; (일자리가 없어서) be unemployed, be in between jobs",
+        "(가게 등이) close, do not open"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "off",
+      "frequency": 2
+    },
+    {
+      "meaning": "(stand) at ease",
+      "frequency": 0
+    },
+    {
+      "meaning": "Spell oh![ho!]",
+      "frequency": 0
+    },
+    {
+      "meaning": "At ease!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Carry on!",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "쉬어. Get some rest. 듣기 View video MONSTA X : LIVE : 셔누 [10월계획 몬베베미션]",
+      "english": "Get some rest."
+    },
+    {
+      "korean": "'점심 때 안 쉬어요?' \"Don't you rest during lunch?\"' 듣기 View video GOT7 : 🤔🤔🤔",
+      "english": "\"Don't you rest during lunch?\"'"
+    },
+    {
+      "korean": "'쉬어 매드'... 이거 맞나? Sheer mad... Is this the name? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Sheer mad... Is this the name?"
+    },
+    {
+      "korean": "아 좀 쉬자 쉬어가자! Oh! Let's rest. Let's take a break! 듣기 View video ASTRO : 로하가 보고싶어서 ☺️",
+      "english": "Oh! Let's rest. Let's take a break!"
+    },
+    {
+      "korean": "쉬어 너 또 들어가냐 촬영? See you around. Will you film it again? 듣기 View video BTS : 남준이의 7 비하인드 😂",
+      "english": "See you around. Will you film it again?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "at rest 발음듣기 쉬어. Friendict Level English-Korean Dictionary",
+      "english": "at rest 발음"
+    },
+    {
+      "korean": "Stand easy! 발음듣기 쉬어! YBM All in All English-Korean Dictionary",
+      "english": "Stand easy! 발음"
+    },
+    {
+      "korean": "Sit back and relax. 발음듣기 등을 기대고 편히 쉬어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Sit back and relax. 발음"
+    },
+    {
+      "korean": "Rest your eyes every half an hour. 발음듣기 반 시간마다 한 번씩 눈을 쉬어 주어라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rest your eyes every half an hour. 발음"
+    },
+    {
+      "korean": "When you are in times of trouble, hit the pause button. 발음듣기 힘들 때 잠시 쉬어 봐. 국제영어대학원대학교 신어사전",
+      "english": "When you are in times of trouble, hit the pause button. 발음"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "잠그다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(문·자물쇠 등을) lock (up), fasten",
+        "(수도·가스 등을) turn off",
+        "(단추 등을) fasten, button (up)"
+      ]
+    },
+    {
+      "phrase": "잠그다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb sink, submerge",
+        "Verb invest, sink"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unilock",
+      "frequency": 0
+    },
+    {
+      "meaning": "lock",
+      "frequency": 3
+    },
+    {
+      "meaning": "buckle",
+      "frequency": 3
+    },
+    {
+      "meaning": "submerge",
+      "frequency": 3
+    },
+    {
+      "meaning": "immersion",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이러고 - 잠그면 티가 나지 않을까요? Then... - Wouldn't it be obvious when you close it? 듣기 View video GFRIEND : SBS MTV <요고바라> 7화 동시생중계",
+      "english": "Then... - Wouldn't it be obvious when you close it?"
+    },
+    {
+      "korean": "문 잠그면 안 돼요. You can't lock the door. 듣기 View video V COOKIE : [Full] PENTAGON X Happiness Train - 펜타곤​​의 행복행!",
+      "english": "You can't lock the door."
+    },
+    {
+      "korean": "여러분 문 잠그면 안 돼요. Guys, you can't lock the door. 듣기 View video V COOKIE : [Full] PENTAGON X Happiness Train - 펜타곤​​의 행복행!",
+      "english": "Guys, you can't lock the door."
+    },
+    {
+      "korean": "왜 문을 안 잠가놨어? Why didn't you lock your door? 듣기 View video Stray Kids : 막내의 사생활 22 🦊🐿(다시)",
+      "english": "Why didn't you lock your door?"
+    },
+    {
+      "korean": "오지 마x6 - 빨리 잠글게! Don't come. x6 - I'll hurry up and lock it! 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Don't come. x6 - I'll hurry up and lock it!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "By configuring and locking particular user settings, you can preserve a consistent desktop environment across your organization and reduce your support costs. 듣기 Add to Wordbook 특정한 사용자 설정을 구성한 다음 이를 잠그면 조직의 일관된 데스크톱 환경을 유지하고 지원 비용을 줄일 수 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "By configuring and locking particular user settings, you can preserve a consistent desktop environment across your organization and reduce your support costs. Add to Wordbook"
+    },
+    {
+      "korean": "While we brush our teeth, using a cup and turning off the tap will save 11 liters of water a minute. 듣기 Add to Wordbook 양치질을 할 때, 컵을 사용하고 수도꼭지를 잠그면 1분에 11리터의 물이 절약됩니다. TIMES CORE",
+      "english": "While we brush our teeth, using a cup and turning off the tap will save 11 liters of water a minute. Add to Wordbook"
+    },
+    {
+      "korean": "When you lock the content document, a copy of the content document is made. 듣기 Add to Wordbook 내용 문서를 잠그면, 내용 문서의 사본이 작성됩니다. hansemEUG",
+      "english": "When you lock the content document, a copy of the content document is made. Add to Wordbook"
+    },
+    {
+      "korean": "Locking front bezel prevents unauthorized physical access. 듣기 Add to Wordbook 전면 베젤을 잠그면 물리적인 무단 액세스가 차단됩니다. hansemEUG",
+      "english": "Locking front bezel prevents unauthorized physical access. Add to Wordbook"
+    },
+    {
+      "korean": "To protect an image from this automatic removal process, you can lock it. 듣기 Add to Wordbook 이 자동 제거 프로세스로부터 이미지를 보호하려면 이미지를 잠그면 됩니다. hansemEUG",
+      "english": "To protect an image from this automatic removal process, you can lock it. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "넷",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "four"
+      ]
+    },
+    {
+      "phrase": "gnat",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 각다귀"
+      ]
+    },
+    {
+      "phrase": "nat.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "national, native, natural"
+      ]
+    },
+    {
+      "phrase": "Nat",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 이름 ((Nathan, Nathaniel의 애칭))"
+      ]
+    },
+    {
+      "phrase": "Nat.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Nathan, Nathaniel, National(ist)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "four",
+      "frequency": 3
+    },
+    {
+      "meaning": "hup",
+      "frequency": 0
+    },
+    {
+      "meaning": "Quat.",
+      "frequency": 0
+    },
+    {
+      "meaning": "intranet",
+      "frequency": 0
+    },
+    {
+      "meaning": "three-star",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "갈게요 - 네 - 하나, 둘, 셋, 넷! Let's go. - Okay. - 1, 2, 3. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Let's go. - Okay. - 1, 2, 3."
+    },
+    {
+      "korean": "넷부터 해서 다섯... Since 24, I've been doing it until now... 듣기 View video MONSTA X : LIVE : 그냥🐺",
+      "english": "Since 24, I've been doing it until now..."
+    },
+    {
+      "korean": "하나, 둘, 셋, 넷... 1, 2, 3, 4... 듣기 View video iKON : live",
+      "english": "1, 2, 3, 4..."
+    },
+    {
+      "korean": "하나, 둘, 셋, 넷, 다섯, 여섯... 1, 2, 3, 4, 5, 6... 듣기 View video iKON : live",
+      "english": "1, 2, 3, 4, 5, 6..."
+    },
+    {
+      "korean": "하나, 둘, 셋, 넷, 다섯, 여섯, 일곱... 1, 2, 3, 4, 5, 6, 7... 듣기 View video GOT7 : 월요일 유겸이!",
+      "english": "1, 2, 3, 4, 5, 6, 7..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They decided to split the money four ways. 듣기 Add to Wordbook 그들은 그 돈을 넷이서 나누기로 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They decided to split the money four ways. Add to Wordbook"
+    },
+    {
+      "korean": "All employees can access the parts of the Intranet that are not ring-fenced. 듣기 Add to Wordbook 제한이 되지 않은 인트라넷 부분들에 대해서는 모든 직원들이 접근할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All employees can access the parts of the Intranet that are not ring-fenced. Add to Wordbook"
+    },
+    {
+      "korean": "The Fortinet Security Fabric can provide a simple and manageable framework. 듣기 Add to Wordbook 포티넷 보안 패브릭은 간단하고, 운영 가능한 틀을 제공해 줄 수 있다. 국제영어대학원대학교 신어사전",
+      "english": "The Fortinet Security Fabric can provide a simple and manageable framework. Add to Wordbook"
+    },
+    {
+      "korean": "Two, three, four hop back. 듣기 Add to Wordbook 둘, 셋, 넷 뒤로 깡총. Neungyule",
+      "english": "Two, three, four hop back. Add to Wordbook"
+    },
+    {
+      "korean": "They have four children. 듣기 Add to Wordbook 그 집은 아이가 넷이다 Neungyule",
+      "english": "They have four children. Add to Wordbook"
+    }
+  ]
+}

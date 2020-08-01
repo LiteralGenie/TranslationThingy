@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "굴복",
+      "hanja": " (屈服)",
+      "example": {},
+      "meanings": [
+        "submission, surrender, 굴복하다 submit[surrender, yield, give in] (to)"
+      ]
+    },
+    {
+      "phrase": "굴복하다",
+      "hanja": " (屈服하다)",
+      "example": {},
+      "meanings": [
+        "submit (to), yield (to), (formal) succumb (to), give in (to); (항복하다) surrender (to)"
+      ]
+    },
+    {
+      "phrase": "굴복시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make give in",
+        "bring to his knees"
+      ]
+    },
+    {
+      "phrase": "권력에 굴복하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "succumb to authority"
+      ]
+    },
+    {
+      "phrase": "위협에 굴복하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "submit to threats",
+        "yield to threats"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "surrender",
+      "frequency": 1
+    },
+    {
+      "meaning": "submission",
+      "frequency": 1
+    },
+    {
+      "meaning": "humiliation",
+      "frequency": 1
+    },
+    {
+      "meaning": "foldup",
+      "frequency": 0
+    },
+    {
+      "meaning": "succumb",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "더위에 굴복하지 않아요. We don't succumb to the heat. 듣기 View video IDOL x IDOL : Various - 베리어스 '가자! 월미도로~'",
+      "english": "We don't succumb to the heat."
+    },
+    {
+      "korean": "[집요한 부름에 굴복 당할 수밖에...] [And she had to surrender...] View video 졸잼티비 (joLjamTV) : [플랜맨_북해도] 북해도의 마지막은 화려하게 _ 18회",
+      "english": "[And she had to surrender...]"
+    },
+    {
+      "korean": "상남자는 이런거에 굴복하지 않아요. A real man never gives up on something like this. 듣기 View video AKMU : [AKMU의 사춘기노트 p.7] '사랑과 우정사이'",
+      "english": "A real man never gives up on something like this."
+    },
+    {
+      "korean": "[결국 악마의 유혹에 굴복한 막내] 레츠 고. 가자, 가자. [Youngest follows the devil] Let's go, move. 듣기 View video ASTRO : [ASTRO PROJECT] 아스트로 프로젝트 : 아.시.아 2회",
+      "english": "[Youngest follows the devil] Let's go, move."
+    },
+    {
+      "korean": "[여러분 고기가 이렇게 무섭습니다] 남준이 형 고기에 굴복했다고. [The meat is so powerful] He succumbed to the meat. 듣기 View video BTS : Run BTS! 2017 - EP.28",
+      "english": "[The meat is so powerful] He succumbed to the meat."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He refused to give in to bullying and threats. 발음듣기 그는 협박과 괴롭힘에 굴복하지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He refused to give in to bullying and threats. 발음"
+    },
+    {
+      "korean": "The government eventually bowed to popular pressure. 발음듣기 마침내 정부가 대중의 압력에 굴복했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government eventually bowed to popular pressure. 발음"
+    },
+    {
+      "korean": "She would have scorned to stoop to such tactics. 발음듣기 그녀라면 그러한 술책에 굴복하는 것은 거부했을 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She would have scorned to stoop to such tactics. 발음"
+    },
+    {
+      "korean": "They were finally forced to capitulate to the terrorists’ demands. 발음듣기 그들은 마침내 테러범들의 요구에 굴복해야 하게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were finally forced to capitulate to the terrorists’ demands. 발음"
+    },
+    {
+      "korean": "He reluctantly yielded to their demands. 발음듣기 그는 마지못해 그들의 요구에 굴복했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He reluctantly yielded to their demands. 발음"
+    }
+  ]
+}

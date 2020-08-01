@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "기함",
+      "hanja": " (旗艦)",
+      "example": {},
+      "meanings": [
+        "a flagship"
+      ]
+    },
+    {
+      "phrase": "기함하다",
+      "hanja": " (氣陷하다)",
+      "example": {},
+      "meanings": [
+        "Verb enervate, debilitate",
+        "Verb pass out while screaming"
+      ]
+    },
+    {
+      "phrase": "계전기함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 relaying frame"
+      ]
+    },
+    {
+      "phrase": "축전기함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 condenser chamber"
+      ]
+    },
+    {
+      "phrase": "상륙부대기함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 amphibious force flagship (AFF)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "flagship",
+      "frequency": 0
+    },
+    {
+      "meaning": "flaghip",
+      "frequency": 0
+    },
+    {
+      "meaning": "commanding ship",
+      "frequency": 0
+    },
+    {
+      "meaning": "a flag ship",
+      "frequency": 0
+    },
+    {
+      "meaning": "flag ship",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "엄마가 알면 기함한다 기함해. If my mom knew, she would pass out. 듣기 View video Apink : [Apink] 익스트림 어드벤처 5화",
+      "english": "If my mom knew, she would pass out."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The flagship led the fleet. 듣기 Add to Wordbook 기함이 함대의 선두에 섰다. 영어영작문대사전",
+      "english": "The flagship led the fleet. Add to Wordbook"
+    },
+    {
+      "korean": "The goal was to search the contents of a sunken ship called La Lune, the flagship of King Louis XIV. 듣기 Add to Wordbook 루이 14세의 기함인 라 륀느라고 불리는 침몰선의 내용물을 수색하는 것이 목표였다. TIMES CORE",
+      "english": "The goal was to search the contents of a sunken ship called La Lune, the flagship of King Louis XIV. Add to Wordbook"
+    },
+    {
+      "korean": "Inform the flagship I'm coming aboard. 듣기 Add to Wordbook 내가 탑승하고 있다고 기함에 알려라. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 왕눈이(yuna****)",
+      "english": "Inform the flagship I'm coming aboard. Add to Wordbook"
+    },
+    {
+      "korean": "It ended up a flagship with a tattered sail. 듣기 Add to Wordbook 그것은 결국 너덜너덜해진 돛을 단 기함이 되었다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 왕눈이(yuna****)",
+      "english": "It ended up a flagship with a tattered sail. Add to Wordbook"
+    },
+    {
+      "korean": "I'm hoping you'll take command of my flagship. 듣기 Add to Wordbook 나는 당신이 내 기함의 지휘를 맡길 바라고 있습니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 왕눈이(yuna****)",
+      "english": "I'm hoping you'll take command of my flagship. Add to Wordbook"
+    }
+  ]
+}

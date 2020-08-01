@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "F",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 에프(영어 알파벳의 여섯째 글자)",
+        "Noun 음악 ‘바’ 음",
+        "Abbreviation 화씨(Fahrenheit)"
+      ]
+    },
+    {
+      "phrase": "F",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun F자 모양(의 것)",
+        "Noun 음악 F[바]음, F[바]조",
+        "Noun (학업 성적에서) 불가(不可), 낙제(failure)"
+      ]
+    },
+    {
+      "phrase": "F",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fine 심이 가는 ((연필의)), [화학] fluorine, [물리] force"
+      ]
+    },
+    {
+      "phrase": "F",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Symbol (차례·연속된 것 중의) 여섯 번째(의 것).",
+        "Symbol (학업 성적의) 낙제(failure).",
+        "Symbol 음악 바음(도레미파 창법의 파음), 바조, 바음 기호."
+      ]
+    },
+    {
+      "phrase": "F",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb =fuck."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Fahrenheit",
+      "frequency": 3
+    },
+    {
+      "meaning": "Farad",
+      "frequency": 0
+    },
+    {
+      "meaning": "F 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "프렌치",
+      "frequency": 0
+    },
+    {
+      "meaning": "패러데이정수",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "E, F 구역으로 할게요...",
+      "english": "I'll aim for areas E and F."
+    },
+    {
+      "korean": "E구역 F구역 야 이거 가자!",
+      "english": "Areas E or F! Let's go with this!"
+    },
+    {
+      "korean": "F등급이었던 애가 A등급으로 올라가고 괜찮네!",
+      "english": "A person who used to be a F grade might end up in the A grade. Not bad!"
+    },
+    {
+      "korean": "둘 다 셧 더 퍽! 다 싫어!",
+      "english": "You both, shut the f... I hate you both!"
+    },
+    {
+      "korean": "나 지금 F인데x2 다시 C로 돌아올게요 - F야?",
+      "english": "I'm at F right now. I'll come back to C. - You're at F?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "fox 는 f 로 시작된다.",
+      "english": "‘Fox’ begins with (an) F / ‘F’."
+    },
+    {
+      "korean": "그는 화학에서 낙제점을 받았다.",
+      "english": "He got (an) F/‘F’ in/for Chemistry."
+    },
+    {
+      "korean": "존 에프 케네디 암살",
+      "english": "the assassination of John F. Kennedy"
+    },
+    {
+      "korean": "플래시 사진을 찍을 때는 조리개를 f. 5. 6에 맞춰라.",
+      "english": "For flash photography, set the aperture at f.5.6."
+    },
+    {
+      "korean": "존 에프 케네디 기념 병원",
+      "english": "the John F Kennedy Memorial Hospital"
+    }
+  ]
+}

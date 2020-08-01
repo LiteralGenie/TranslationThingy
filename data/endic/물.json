@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(투명한 액체) water",
+        "(강·호수·바다 등의) water",
+        "(과즙, 수액) (과즙) juice, (수액) sap"
+      ]
+    },
+    {
+      "phrase": "물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(빛깔) dye, color"
+      ]
+    },
+    {
+      "phrase": "물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun freshness"
+      ]
+    },
+    {
+      "phrase": "-물",
+      "hanja": " (物)",
+      "example": {},
+      "meanings": [
+        "Affix -mul"
+      ]
+    },
+    {
+      "phrase": "mool",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (부드럽고 부스러지기 쉬운) 경토(耕土), 옥토, 부식토",
+        "Noun 묘토(墓土), 묘"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "water",
+      "frequency": 3
+    },
+    {
+      "meaning": "wet",
+      "frequency": 3
+    },
+    {
+      "meaning": "pillar",
+      "frequency": 3
+    },
+    {
+      "meaning": "aqua",
+      "frequency": 0
+    },
+    {
+      "meaning": "eau",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나 물 마셔 - 나는... I drink water. - I... 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "I drink water. - I..."
+    },
+    {
+      "korean": "물에 못 떠요... because I can't float on water. 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "because I can't float on water."
+    },
+    {
+      "korean": "물풍선의 경지에 다다르신 분 아닌가? Aren't you a master? 듣기 View video V PICK! : [PARK JI HOON] 크레이지 방귀케이드 왕초보뉴비먕먕,, 내 물풍선에 저장😉💦 (JI HOON playing the game with MAY)",
+      "english": "Aren't you a master?"
+    },
+    {
+      "korean": "[두리번][두리번] 물이 있나요? [Looking around] [Looking around] Is there water? 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "[Looking around] [Looking around] Is there water?"
+    },
+    {
+      "korean": "[원 없이 물에 들어갈 예정] 재밌어! [In the water as much as she wants] I'm enjoying it! 듣기 View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "[In the water as much as she wants] I'm enjoying it!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the glint of the sun on the water 듣기 Add to Wordbook 물 위에 반짝이는 햇빛 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the glint of the sun on the water Add to Wordbook"
+    },
+    {
+      "korean": "The water in the pond was stagnating. 듣기 Add to Wordbook 연못의 물이 썩고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The water in the pond was stagnating. Add to Wordbook"
+    },
+    {
+      "korean": "fatty deposits in the arteries of the heart 듣기 Add to Wordbook 심장 동맥 내의 지방 침착물 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "fatty deposits in the arteries of the heart Add to Wordbook"
+    },
+    {
+      "korean": "A dolphin leapt out of the water. 듣기 Add to Wordbook 돌고래 한 마리가 물 밖으로 뛰어올랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A dolphin leapt out of the water. Add to Wordbook"
+    },
+    {
+      "korean": "Waiter, could you bring me some water? 듣기 Add to Wordbook 웨이터, 물 좀 가져다 주시겠어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Waiter, could you bring me some water? Add to Wordbook"
+    }
+  ]
+}

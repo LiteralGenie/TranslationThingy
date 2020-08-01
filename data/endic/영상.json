@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "영상",
+      "hanja": " (映像)",
+      "example": {},
+      "meanings": [
+        "picture, image"
+      ]
+    },
+    {
+      "phrase": "영상",
+      "hanja": " (零上)",
+      "example": {},
+      "meanings": [
+        "above zero"
+      ]
+    },
+    {
+      "phrase": "흐린 영상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a blurred image",
+        "a picture out of focus"
+      ]
+    },
+    {
+      "phrase": "거울의 영상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a reflection in a mirror"
+      ]
+    },
+    {
+      "phrase": "영상 2도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "two degrees above zero"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "image",
+      "frequency": 3
+    },
+    {
+      "meaning": "vision",
+      "frequency": 3
+    },
+    {
+      "meaning": "projection",
+      "frequency": 3
+    },
+    {
+      "meaning": "above freezing",
+      "frequency": 0
+    },
+    {
+      "meaning": "pictorial image",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "커버 영상이면 어떡하지? What if it's a cover video? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "What if it's a cover video?"
+    },
+    {
+      "korean": "나 이거 영상에서 얘기했던 거 같은데 - 모모 아니야? I think I said this in the video. - Wasn't it MOMO? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "I think I said this in the video. - Wasn't it MOMO?"
+    },
+    {
+      "korean": "영상 찍었었나 그때? 찍어줬지? 매니저 언니... Did we film a video then? We filmed it, right? Maybe the manager did... 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "Did we film a video then? We filmed it, right? Maybe the manager did..."
+    },
+    {
+      "korean": "중학교 체육대회 춤 영상 봤어요?' 그거 이거 얘기 나와서... \"Did you watch the dance video from the middle school sports event?\" Since this came out... 듣기 View video ITZY : 🖤",
+      "english": "\"Did you watch the dance video from the middle school sports event?\" Since this came out..."
+    },
+    {
+      "korean": "영상이 잘려요? Video gets cut? 듣기 View video VICTON : 앨리스 안녕! 보고싶다 ❤️",
+      "english": "Video gets cut?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Images are projected onto the retina of the eye. 듣기 Add to Wordbook 영상들이 눈의 망막에 비친다[투영된다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Images are projected onto the retina of the eye. Add to Wordbook"
+    },
+    {
+      "korean": "This afternoon’s sunshine could nudge the temperature above freezing. 듣기 Add to Wordbook 오늘 오후에는 햇살 덕분에 기온이 영상으로 올라갈 수도 있을 것 같습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This afternoon’s sunshine could nudge the temperature above freezing. Add to Wordbook"
+    },
+    {
+      "korean": "a poignant image/moment/memory, etc. 듣기 Add to Wordbook 가슴 아픈 영상/순간/기억 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a poignant image/moment/memory, etc. Add to Wordbook"
+    },
+    {
+      "korean": "We apologize for the loss of vision. 듣기 Add to Wordbook 영상이 안 나오는 점에 대해 사과드립니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We apologize for the loss of vision. Add to Wordbook"
+    },
+    {
+      "korean": "the projection of three-dimensional images on a computer screen 듣기 Add to Wordbook 컴퓨터 화면에 투사된 3차원 영상 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the projection of three-dimensional images on a computer screen Add to Wordbook"
+    }
+  ]
+}

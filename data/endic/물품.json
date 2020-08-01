@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "물품",
+      "hanja": " (物品)",
+      "example": {},
+      "meanings": [
+        "(물건) article, (상품) goods, commodity"
+      ]
+    },
+    {
+      "phrase": "물품 목록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a list of articles"
+      ]
+    },
+    {
+      "phrase": "저렴한 물품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "low-priced articles[goods]"
+      ]
+    },
+    {
+      "phrase": "(물품에) 딱지를 붙이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put a label[tag] (on an article)"
+      ]
+    },
+    {
+      "phrase": "물품을 압류하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seize[distrain upon] goods"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "article",
+      "frequency": 3
+    },
+    {
+      "meaning": "investment",
+      "frequency": 3
+    },
+    {
+      "meaning": "item",
+      "frequency": 3
+    },
+    {
+      "meaning": "store",
+      "frequency": 3
+    },
+    {
+      "meaning": "merchandise",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제목? - 파티를 위해 멤버들이 준비한 물품? The question? - What? The itmes members prepared for the party? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.5",
+      "english": "The question? - What? The itmes members prepared for the party?"
+    },
+    {
+      "korean": "아무튼 설명해주세요 - 물품이요? Anyway, please explain it... - Goods? 듣기 View video Stray Kids : STAY 1기 도전!!!!!!",
+      "english": "Anyway, please explain it... - Goods?"
+    },
+    {
+      "korean": "위험할 수 있는 물품 및 음식 반입은 자제해주세요. that may block the view of others and bringing in food. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#175. 아이돌하세운 (w. 정세운)",
+      "english": "that may block the view of others and bringing in food."
+    },
+    {
+      "korean": "[다양한 구제 물품들로 가득한 동묘시장에서 수행할 퀘스트는?] [Quest that they will perform in Dongmyo Market filled with vintage products?] View video ATEEZ : ATEEZ(에이티즈) WANTED 2화",
+      "english": "[Quest that they will perform in Dongmyo Market filled with vintage products?]"
+    },
+    {
+      "korean": "공식 물품 어때요? How are the official goods? 듣기 View video ASTRO : 차은우의 Just one 10 minutes",
+      "english": "How are the official goods?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an exhibition of the salvage from the wreck 듣기 Add to Wordbook 난파선 인양 물품 전시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an exhibition of the salvage from the wreck Add to Wordbook"
+    },
+    {
+      "korean": "to send/issue/settle an invoice for the goods 듣기 Add to Wordbook 물품 대금 청구서[송장]를 보내다/발송하다/처리하다[청구서대로 계산해 주다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to send/issue/settle an invoice for the goods Add to Wordbook"
+    },
+    {
+      "korean": "Supplies are running low. 듣기 Add to Wordbook 공급 물품이 떨어지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Supplies are running low. Add to Wordbook"
+    },
+    {
+      "korean": "This clock is a collector’s item. 듣기 Add to Wordbook 이 시계는 수집가용 물품이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This clock is a collector’s item. Add to Wordbook"
+    },
+    {
+      "korean": "The sanctions ban the sale of any products excepting medical supplies and food. 듣기 Add to Wordbook 그 제재는 의약품과 식품을 제외하고는 어떤 물품의 판매도 금한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sanctions ban the sale of any products excepting medical supplies and food. Add to Wordbook"
+    }
+  ]
+}

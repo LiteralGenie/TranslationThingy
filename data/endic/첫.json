@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "첫",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "first"
+      ]
+    },
+    {
+      "phrase": "chut",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection 체!, 쯧쯧! ((혀를 차는 소리, 초조함을 나타냄))"
+      ]
+    },
+    {
+      "phrase": "첫 삽을 뜨다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "dig in the ground with the first shovel"
+      ]
+    },
+    {
+      "phrase": "첫 단추를 끼우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fasten the first button"
+      ]
+    },
+    {
+      "phrase": "첫 단추를 잘못 끼우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fasten the first button wrongly, step off on the wrong foot"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "first",
+      "frequency": 3
+    },
+    {
+      "meaning": "opening",
+      "frequency": 3
+    },
+    {
+      "meaning": "inaugural",
+      "frequency": 3
+    },
+    {
+      "meaning": "debut",
+      "frequency": 3
+    },
+    {
+      "meaning": "initial",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[드디어 첫 만세] 만세! [First hurray] Hurray! 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[First hurray] Hurray!"
+    },
+    {
+      "korean": "그리고 첫 장을 넘기면... When you flip the first page... 듣기 View video MAMAMOO : 🌙달이 태양을 가릴 때🌙",
+      "english": "When you flip the first page..."
+    },
+    {
+      "korean": "첫 녹음할 때 기분이요? How did it feel when I first recorded? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "How did it feel when I first recorded?"
+    },
+    {
+      "korean": "[첫 순서 다람쥐] 오 마이 갓! [Squirrel is up first] Oh my God! 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "[Squirrel is up first] Oh my God!"
+    },
+    {
+      "korean": "[이번이 진짜 도-전] 도전, 도전, 이제 첫 도전! [Real game] Let's go! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Real game] Let's go!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the inaugural flight of the space shuttle 듣기 Add to Wordbook 그 우주선의 첫 비행 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the inaugural flight of the space shuttle Add to Wordbook"
+    },
+    {
+      "korean": "We got creamed in the first round. 듣기 Add to Wordbook 우리는 첫 라운드에서 완패당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We got creamed in the first round. Add to Wordbook"
+    },
+    {
+      "korean": "the runaway success of her first play 듣기 Add to Wordbook 순식간에 성공을 거둔 그녀의 첫 연극 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the runaway success of her first play Add to Wordbook"
+    },
+    {
+      "korean": "a glass tankard etched with his initials 듣기 Add to Wordbook 그의 이름 첫 글자들이 식각된 큰 유리잔 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a glass tankard etched with his initials Add to Wordbook"
+    },
+    {
+      "korean": "She lived to see her first grandchild. 듣기 Add to Wordbook 그녀는 첫 손주를 볼 때까지 살았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She lived to see her first grandchild. Add to Wordbook"
+    }
+  ]
+}

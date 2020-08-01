@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "사실상",
+      "hanja": " (事實上)",
+      "example": {},
+      "meanings": [
+        "actually, in fact, in reality, as a matter of fact; (거의) practically, virtually"
+      ]
+    },
+    {
+      "phrase": "사실상",
+      "hanja": " (事實上)",
+      "example": {},
+      "meanings": [
+        "Noun being actual, being as a matter of fact, being virtual"
+      ]
+    },
+    {
+      "phrase": "사실상의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "real",
+        "actual",
+        "virtual"
+      ]
+    },
+    {
+      "phrase": "사실상의 정부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a de facto government"
+      ]
+    },
+    {
+      "phrase": "사실상의 사장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a virtual head of the company"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "virtually",
+      "frequency": 2
+    },
+    {
+      "meaning": "practically",
+      "frequency": 2
+    },
+    {
+      "meaning": "effectively",
+      "frequency": 2
+    },
+    {
+      "meaning": "in effect",
+      "frequency": 0
+    },
+    {
+      "meaning": "to all intents and purposes",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[사실상 제일 중요한 어디서] - 어디서가 제일 중요하잖아 - 그렇지 - 어떡하지? [\"Where\" is the most important] - \"Where\" is the most important. - Yes. - What should we do? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[\"Where\" is the most important] - \"Where\" is the most important. - Yes. - What should we do?"
+    },
+    {
+      "korean": "[사실상 벌칙 ROUND] 이게 벌칙이야! [In fact, it was the round for punishment] This is the punishment! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.22 네발라이더 #2 (Four Wheeled Rider #2)",
+      "english": "[In fact, it was the round for punishment] This is the punishment!"
+    },
+    {
+      "korean": "[사실상 이번 '달방'의 주인공을 발표합니다!] 하나 둘 셋! [Who will be the star of today's Run BTS?] 1, 2, 3! 듣기 View video BTS : Run BTS! 2020 - EP.105",
+      "english": "[Who will be the star of today's Run BTS?] 1, 2, 3!"
+    },
+    {
+      "korean": "[사실상 범규와 태현이의 대결] - 하나 둘 셋 - 눌렀어요! [A de facto battle only between BEOMGYU and TAEHYUN] - 1, 2, 3. - I clicked! 듣기 View video M2 : [Full] TOMORROW X TOGETHER Comeback Show",
+      "english": "[A de facto battle only between BEOMGYU and TAEHYUN] - 1, 2, 3. - I clicked!"
+    },
+    {
+      "korean": "사실상 이렇게 되면 우리간에 이제... Well, hey, you mean... 듣기 View video PARK JI HOON : 맥스야 생일 축하해🐾",
+      "english": "Well, hey, you mean..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He kept his daughters in virtual purdah. 발음듣기 그는 자기 딸들을 사실상 격리시켜 생활하게 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He kept his daughters in virtual purdah. 발음"
+    },
+    {
+      "korean": "Polio has been virtually eradicated in Brazil. 발음듣기 브라질에서 소아마비는 사실상 근절되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Polio has been virtually eradicated in Brazil. 발음"
+    },
+    {
+      "korean": "The sound is virtually undetectable to the human ear. 발음듣기 그 소리는 인간의 귀로는 사실상 감지할 수 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sound is virtually undetectable to the human ear. 발음"
+    },
+    {
+      "korean": "By 1981 the docks had, to all intents and purposes, closed. 발음듣기 1981년이 되자 그 부두는 사실상 폐쇄된 것이나 마찬가지였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "By 1981 the docks had, to all intents and purposes, closed. 발음"
+    },
+    {
+      "korean": "Hospital beds were scarce and medicines were practically non-existent. 발음듣기 병원 병상은 부족했고 의약품은 사실상 존재하지도 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hospital beds were scarce and medicines were practically non-existent. 발음"
+    }
+  ]
+}

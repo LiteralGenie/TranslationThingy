@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "아는 것이 병[탈]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Knowing too much is a disease; Where ignorance is bliss, it is folly to be wise; Ignorance is the peace of life",
+        "Knowing too much is a disease; Where ignorance is bliss, it is folly to be wise; Ignorance is the peace of life"
+      ]
+    },
+    {
+      "phrase": "알게 모르게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the manner of one being unaware of something, unwittingly"
+      ]
+    },
+    {
+      "phrase": "알 게 뭐야[뭐나]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is not of one's concern"
+      ]
+    },
+    {
+      "phrase": "알다가도 모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "think one knows something, but actually does not know it"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hurry up wait",
+      "frequency": 0
+    },
+    {
+      "meaning": "snatch defeat from the jaws of victory",
+      "frequency": 0
+    },
+    {
+      "meaning": "know",
+      "frequency": 2
+    },
+    {
+      "meaning": "understand",
+      "frequency": 2
+    },
+    {
+      "meaning": "clear",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나도 있을 줄 알았는데 - 야구공 같지 않아? Me too. - Doesn't his head look like a baseball? 듣기 View video Stray Kids : 댕냥스쿨 EP.7🐶🐱!!!",
+      "english": "Me too. - Doesn't his head look like a baseball?"
+    },
+    {
+      "korean": "뭐야 깜짝이야 렉 걸린 줄 알았는데 100만? I was surprised. I thought I was disconnected. I hit 1 million views? 듣기 View video MONSTA X : LIVE : 기오브",
+      "english": "I was surprised. I thought I was disconnected. I hit 1 million views?"
+    },
+    {
+      "korean": "이거 그건 줄 알았는데... I thought this was on, um... 듣기 View video NCT : 이마 크다",
+      "english": "I thought this was on, um..."
+    },
+    {
+      "korean": "나 연애하는 건 어떻게 알았는데? How did you know I was dating someone? 듣기 View video 콬TV (WHYNOT) : 수상한 그녀 [가두리횟집] EP10",
+      "english": "How did you know I was dating someone?"
+    },
+    {
+      "korean": "이렇게 귀엽기만 한 줄 알았는데 여기... I thought it's just being cute but it has... 듣기 View video V PICK! : [SEVENTEEN] 쫑쫑이와 깽깽이의 🐰모여봐요 호랑이의 방🐯 (Jeonghan&Hoshi showing Hoshi’s tiger dolls)",
+      "english": "I thought it's just being cute but it has..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I thought he said he was coming today, but I must have misheard. 발음듣기 나는 그가 오늘 온다고 말한 줄 알았는데 내가 잘못 들었던 모양이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I thought he said he was coming today, but I must have misheard. 발음"
+    },
+    {
+      "korean": "I thought an opera was something similar to a musical, but they are a totally different story. 발음듣기 나는 오페라가 뮤지컬이랑 비슷한 건 줄 알았는데, 완전히 다른 거더군. DARAKWON",
+      "english": "I thought an opera was something similar to a musical, but they are a totally different story. 발음"
+    },
+    {
+      "korean": "I thought I could sleep it off, but obviously not. 발음듣기 자고 나면 다 없어질 줄 알았는데, 확실히 그러지 못했나 봐. DARAKWON",
+      "english": "I thought I could sleep it off, but obviously not. 발음"
+    },
+    {
+      "korean": "Since when did you become a gym rat? I thought you hated working out. 발음듣기 너 언제부터 헬스클럽 붙박이가 되었냐? 운동하는 거 싫어하는 줄 알았는데. DARAKWON",
+      "english": "Since when did you become a gym rat? I thought you hated working out. 발음"
+    },
+    {
+      "korean": "It’s only Tuesday? I thought it was Wednesday. 발음듣기 아직도 화요일이야? 수요일인 줄 알았는데. DARAKWON",
+      "english": "It’s only Tuesday? I thought it was Wednesday. 발음"
+    }
+  ]
+}

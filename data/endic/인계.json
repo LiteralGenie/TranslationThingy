@@ -1,0 +1,107 @@
+{
+  "phrases": [
+    {
+      "phrase": "인계",
+      "hanja": " (引繼)",
+      "example": {},
+      "meanings": [
+        "[명사] transfer, [동사] transfer, turn over, hand over"
+      ]
+    },
+    {
+      "phrase": "사무를 인계하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hand[pass] over business[office work]"
+      ]
+    },
+    {
+      "phrase": "후임자에게 업무를 인계하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "transfer[turn over] one's business to one's successor",
+        "pass on the duties and responsibilities onto the successor"
+      ]
+    },
+    {
+      "phrase": "당직을 인계하다[받다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hand[take] over a duty"
+      ]
+    },
+    {
+      "phrase": "사무를 인계받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take over business"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "handover",
+      "frequency": 0
+    },
+    {
+      "meaning": "take-over",
+      "frequency": 0
+    },
+    {
+      "meaning": "take over (from somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "hand something in (to somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "the handover of the hostages",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[엑시팀 보나팀 서빙 업무 인수인계 완료] 인수인계 완료! All duties transferred! 듣기 View video 우주소녀(WJSN) : 우주소녀 이미지 증발 버라이어티 <우소보쇼> 7화",
+      "english": "All duties transferred!"
+    },
+    {
+      "korean": "인수인계 합시다. - 너였구나. Let's transfer the jobs over then. 듣기 View video 우주소녀(WJSN) : 우주소녀 이미지 증발 버라이어티 <우소보쇼> 7화",
+      "english": "Let's transfer the jobs over then."
+    },
+    {
+      "korean": "[엑시팀 보나팀 인수인계하러 Let's Go!] 갑시다! Let's do it! [Exy Team and Bona Team switches!] 듣기 View video 우주소녀(WJSN) : 우주소녀 이미지 증발 버라이어티 <우소보쇼> 7화",
+      "english": "Let's do it! [Exy Team and Bona Team switches!]"
+    },
+    {
+      "korean": "[캐셔 김 총무에게 인수인계하는 수빈봇] 여기가 1, 2, 3 끝에가 5번. This is 1, 2, 3... The one over there is 5. 듣기 View video 우주소녀(WJSN) : 우주소녀 이미지 증발 버라이어티 <우소보쇼> 7화",
+      "english": "This is 1, 2, 3... The one over there is 5."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I handed the watch in to the police. 듣기 Add to Wordbook 나는 그 시계를 경찰에 인계했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I handed the watch in to the police. Add to Wordbook"
+    },
+    {
+      "korean": "the handover of the hostages 듣기 Add to Wordbook 인질 인계 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the handover of the hostages Add to Wordbook"
+    },
+    {
+      "korean": "Thomas Kim will assume my duties. 듣기 Add to Wordbook Thomas Kim 씨가 제 업무를 인계받을 예정입니다. DARAKWON",
+      "english": "Thomas Kim will assume my duties. Add to Wordbook"
+    },
+    {
+      "korean": "I'll be temporarily taking over John's duties. 듣기 Add to Wordbook 임시로 John의 업무를 인계받게 되었습니다. DARAKWON",
+      "english": "I'll be temporarily taking over John's duties. Add to Wordbook"
+    },
+    {
+      "korean": "Tammy Song, a highly-experienced and capable sales specialist, will be assuming my duties. 듣기 Add to Wordbook 경험이 풍부하고 능력 있는 영업 전문가인 Tammy Song 씨가 저의 업무를 인계하게 됩니다. DARAKWON",
+      "english": "Tammy Song, a highly-experienced and capable sales specialist, will be assuming my duties. Add to Wordbook"
+    }
+  ]
+}

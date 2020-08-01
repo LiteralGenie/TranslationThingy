@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "넓이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "area, extent"
+      ]
+    },
+    {
+      "phrase": "넓이뛰기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the long jump"
+      ]
+    },
+    {
+      "phrase": "넓이가 여섯 자다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a width of 6 feet",
+        "be 6 feet wide"
+      ]
+    },
+    {
+      "phrase": "정원의 넓이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the area of the garden"
+      ]
+    },
+    {
+      "phrase": "다리를 어깨 넓이로 벌리고 서다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stand with one's feet at shoulder width"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tract 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "scope 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "wideness",
+      "frequency": 0
+    },
+    {
+      "meaning": "extensity",
+      "frequency": 0
+    },
+    {
+      "meaning": "spatiality",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[질문을 이해하는 것부터가 난관...] - 평... 그러니까 넓다고? - 넓이가? 강 중에? Pyeong... So, you mean it's big? - The length? Out of the rivers? 듣기 View video ASTRO : [ASTRO PLAY] 이곳은 가평💜",
+      "english": "Pyeong... So, you mean it's big? - The length? Out of the rivers?"
+    },
+    {
+      "korean": "이 넓이에? At this width? 듣기 View video BTOB : 비투비 - 비트콤 #72 ('아름답고도 아프구나' M/V 촬영 현장 비하인드)",
+      "english": "At this width?"
+    },
+    {
+      "korean": "장소의 넓이의 제곱은? of the showcase venue where we met you first? 듣기 View video EXO : [Full] !t Live(잇라이브): The 12th MUGI-BOX(뮤기박스) “EXO”",
+      "english": "of the showcase venue where we met you first?"
+    },
+    {
+      "korean": "[실화냐...?] 그런데 이분 어깨넓이가 60cm나 되요? [For real?] His shoulder is 60cm wide? 듣기 View video JTBC PLUS : 워너원 컴백 기념 스페셜 2탄! 워(너원).입(덕).뽀(인트) 얼속덩잊 강뎰 ♡ 고막남친 염깅이",
+      "english": "[For real?] His shoulder is 60cm wide?"
+    },
+    {
+      "korean": "그럼 여기가 자기가 할 수 있는 각도인 거예요 넓이. Then this is the angle that you can do. The width. 듣기 View video 컨버전스 TV (CONS TV) : [예쁨전공] 서울 예술 대학교 VS 한성 대학교 2-3회",
+      "english": "Then this is the angle that you can do. The width."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "How big[wide] is that room? 발음듣기 그 방은 넓이가 얼마나 됩니까? Neungyule",
+      "english": "How big[wide] is that room? 발음"
+    },
+    {
+      "korean": "The base of the statue was about 6.5 meters wide and 1 meter high. 발음듣기 동상의 주춧돌은 넓이가 6.5m 였고 높이가 1m 였다. Neungyule",
+      "english": "The base of the statue was about 6.5 meters wide and 1 meter high. 발음"
+    },
+    {
+      "korean": "Find the area of the rectangle below. 발음듣기 다음 직사각형의 넓이를 구하시오 Neungyule",
+      "english": "Find the area of the rectangle below. 발음"
+    },
+    {
+      "korean": "The new Seal of State is 10.4 centimeters long and wide. 발음듣기 새 국새의 길이와 넓이는 10.4 센티미터이다. Neungyule",
+      "english": "The new Seal of State is 10.4 centimeters long and wide. 발음"
+    },
+    {
+      "korean": "The rink has been divided into three separate areas - the largest of which is 25 meters wide and 50 meters long. 발음듣기 스케이트장은 세 구역으로 나눠져 있으며 가장 큰 구역은 넓이가 25미터, 길이가 50미터이다. Neungyule",
+      "english": "The rink has been divided into three separate areas - the largest of which is 25 meters wide and 50 meters long. 발음"
+    }
+  ]
+}

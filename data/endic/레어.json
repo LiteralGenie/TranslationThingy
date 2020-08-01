@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "layer",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (하나의 표면이나 여러 표면 사이를 덮고 있는) 막[층/겹/켜]",
+        "Noun (시스템 등의 일부를 이루는) 층[단계]",
+        "Verb 켜켜로[층층이/겹겹이] 놓다[쌓다]"
+      ]
+    },
+    {
+      "phrase": "rare",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective (자주 있는 일이 아니어서) 드문[보기 힘든/희귀한]",
+        "Adjective (존재하는 수가 많지 않아서) 진귀한[희귀한]",
+        "Adjective 살짝 익힌 (→rarity)"
+      ]
+    },
+    {
+      "phrase": "rarely",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb 드물게, 좀처럼 …하지 않는"
+      ]
+    },
+    {
+      "phrase": "lair",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (야생 동물의) 집[굴]",
+        "Noun (사람이 숨거나 혼자 있기 위해 가는) 은신처 (=den, hideout)"
+      ]
+    },
+    {
+      "phrase": "rare",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 드문, 진기한, 희한한, 귀한",
+        "Adjective <공기 등이> 희박한(thin)",
+        "Adverb 매우, 극히"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lehr",
+      "frequency": 0
+    },
+    {
+      "meaning": "Rare Ltd.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Ler",
+      "frequency": 0
+    },
+    {
+      "meaning": "eclair-sandwiches",
+      "frequency": 0
+    },
+    {
+      "meaning": "Medium Rare",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "레어를 시킨 거야 미디움레어에요? Did you order it rare or medium rare? 듣기 View video Apink : 야식먹방!!!",
+      "english": "Did you order it rare or medium rare?"
+    },
+    {
+      "korean": "레어가 아예 거의 안 구운 거 아니야? Rare means it's almost raw, right? 듣기 View video Stray Kids : SKZ에게 불어온 \"바람\"💨",
+      "english": "Rare means it's almost raw, right?"
+    },
+    {
+      "korean": "응? - 미디엄 웰던, 웰던... - 저는 레어... 레어 미디엄 - 진짜? Huh? - Medium well-done, well-done... - I like rare.. Rare medium. - Really? 듣기 View video Stray Kids : SKZ에게 불어온 \"바람\"💨",
+      "english": "Huh? - Medium well-done, well-done... - I like rare.. Rare medium. - Really?"
+    },
+    {
+      "korean": "미디움 레어로요? You want it medium rare? 듣기 View video 모비딕(Mobidic) : '극복'하는 요리사 최현석, 크림 없이 크림파스타를 만들다? <초이가이버>12회",
+      "english": "You want it medium rare?"
+    },
+    {
+      "korean": "혹시 미디엄, 미디엄 레어 어떻게 해? Medium? Medium rare? 듣기 View video V COOKIE : [Full] MONSTA X x Eating Show - 몬스타엑스 X 같이 먹어요",
+      "english": "Medium? Medium rare?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I’ll take the steak dinner, medium rare, please. 듣기 Add to Wordbook 전 스테이크 요리로 하고, 미디엄레어로 해주세요. YBM All in All English-Korean Dictionary",
+      "english": "I’ll take the steak dinner, medium rare, please. Add to Wordbook"
+    },
+    {
+      "korean": "Add 2 pieces of steak and cook 1 to 1 minutes per side, until browned for medium rare. 듣기 Add to Wordbook 스테이크 두 조각을 넣고 양쪽이 갈색을 띨 때까지 1분∼1분 30초 동안 미디엄 레어로 굽는다. YBM All in All English-Korean Dictionary",
+      "english": "Add 2 pieces of steak and cook 1 to 1 minutes per side, until browned for medium rare. Add to Wordbook"
+    },
+    {
+      "korean": "Beef related stocks took a big hit as well as investor’s dumped shares of McDonald’s, Wendy’s, Tyson Foods, Outback Steakhouse and restaurant operator Rare Hospitality. 듣기 Add to Wordbook 육류 관련 주식들은 큰 타격을 받았을 뿐만 아니라 투자자들은 맥도널드, 웬디스, 타이슨 푸드, 아웃백 스테이크하우스, 레스토랑 운영기업인 레어 호스피탈리티의 주식들을 헐값에 내놓았습니다. YBM All in All English-Korean Dictionary",
+      "english": "Beef related stocks took a big hit as well as investor’s dumped shares of McDonald’s, Wendy’s, Tyson Foods, Outback Steakhouse and restaurant operator Rare Hospitality. Add to Wordbook"
+    },
+    {
+      "korean": "Upton Sinclair is among our most prolific writers. 듣기 Add to Wordbook 업턴 싱크레어는 우리의 가장 다작인 작가 중에 든다. 영어영작문대사전",
+      "english": "Upton Sinclair is among our most prolific writers. Add to Wordbook"
+    },
+    {
+      "korean": "Medium rare, please. 듣기 Add to Wordbook 미디엄 레어요. YBM All in All English-Korean Dictionary",
+      "english": "Medium rare, please. Add to Wordbook"
+    }
+  ]
+}

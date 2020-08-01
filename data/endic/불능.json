@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "불능",
+      "hanja": " (不能)",
+      "example": {},
+      "meanings": [
+        "(무능력) incapacity, inability, incompetence, impotence, ―하다 (be) incapable, unable, incompetent, impotent(성적으로)",
+        "(불가능) impossibility, ―하다 (be) impossible"
+      ]
+    },
+    {
+      "phrase": "양도 불능의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "untransferable",
+        "unassignable",
+        "unnegotiable(어음)"
+      ]
+    },
+    {
+      "phrase": "생식 불능의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "neuter"
+      ]
+    },
+    {
+      "phrase": "조종 불능이 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose control of",
+        "get out of control",
+        "become uncontrollable[unmanageable]"
+      ]
+    },
+    {
+      "phrase": "재기 불능이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be beyond recovery"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "inability",
+      "frequency": 3
+    },
+    {
+      "meaning": "incapability",
+      "frequency": 0
+    },
+    {
+      "meaning": "nonability",
+      "frequency": 0
+    },
+    {
+      "meaning": "incapableness",
+      "frequency": 0
+    },
+    {
+      "meaning": "akinesia",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사실 이게 조금 불능이야. Can't control it. 듣기 View video GFRIEND : 리얼 기습방송",
+      "english": "Can't control it."
+    },
+    {
+      "korean": "난 구제불능인가 봐. I guess I'm hopeless. 듣기 View video 아이돌 드라마 공작단 (Idol Drama Operation Team) : [13-2] 시험날 교실 분위기와 흡사? 본격 대본리딩 현장",
+      "english": "I guess I'm hopeless."
+    },
+    {
+      "korean": "[인식 불능] - [ID 읽음] \"너무 예뻐\". [Inaudible] - [Reading an ID] \"You guys are so pretty\". 듣기 View video IDOL x IDOL : TOP SECRET - 일급비밀 'V앱 생존의 비밀'",
+      "english": "[Inaudible] - [Reading an ID] \"You guys are so pretty\"."
+    },
+    {
+      "korean": "아니 너무... - 구제불능이야 진짜. - 진짜. Not, but... - I'm seriously hopeless. - Seriously. 듣기 View video 아이돌 드라마 공작단 (Idol Drama Operation Team) : [13-2] 시험날 교실 분위기와 흡사? 본격 대본리딩 현장",
+      "english": "Not, but... - I'm seriously hopeless. - Seriously."
+    },
+    {
+      "korean": "그거 힘들죠. - 그래서 연애불능 남자 캐릭터에요. I guess it's difficult then. - That's why he is single. 듣기 View video V WEB DRAMA : OCN <멜로홀릭> 제작발표회 비하인드 LIVE",
+      "english": "I guess it's difficult then. - That's why he is single."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "incurably ill / romantic 듣기 Add to Wordbook 불치병을 앓고 있는/구제 불능일 정도로 로맨틱한 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "incurably ill / romantic Add to Wordbook"
+    },
+    {
+      "korean": "She’s an incurable optimist. 듣기 Add to Wordbook 그녀는 구제 불능의 낙관주의자이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s an incurable optimist. Add to Wordbook"
+    },
+    {
+      "korean": "The boy is wild and completely out of control. 듣기 Add to Wordbook 그 남자 아이는 제멋대로에다 완전히 통제 불능이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The boy is wild and completely out of control. Add to Wordbook"
+    },
+    {
+      "korean": "We can ship within two weeks of receiving an irrevocable L/C. 듣기 Add to Wordbook 취소 불능 신용장을 받은 후 2주 내로 발송할 수 있습니다. DARAKWON",
+      "english": "We can ship within two weeks of receiving an irrevocable L/C. Add to Wordbook"
+    },
+    {
+      "korean": "Upon receiving an irrevocable L/C, we will process your order immediately. 듣기 Add to Wordbook 취소 불능 신용장을 받는 대로 즉시 귀사의 주문을 처리할 것입니다. DARAKWON",
+      "english": "Upon receiving an irrevocable L/C, we will process your order immediately. Add to Wordbook"
+    }
+  ]
+}

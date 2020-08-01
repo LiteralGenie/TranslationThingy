@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "위하다",
+      "hanja": " (爲―)",
+      "example": {},
+      "meanings": [
+        "('위한', '위해'의 형태로 쓰여)",
+        "(소중히 여기다) care for, take (good) care of"
+      ]
+    },
+    {
+      "phrase": "학문을 위한 학문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "learning for learning´s sake"
+      ]
+    },
+    {
+      "phrase": "집수리를 위한 견적을 내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "estimate[give a quotation] for the repair of a house",
+        "give an estimate for house repair"
+      ]
+    },
+    {
+      "phrase": "어린이를 위한 책",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a book for children"
+      ]
+    },
+    {
+      "phrase": "초보자를 위한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for beginners"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "for",
+      "frequency": 3
+    },
+    {
+      "meaning": "preventive",
+      "frequency": 3
+    },
+    {
+      "meaning": "preparatory",
+      "frequency": 3
+    },
+    {
+      "meaning": "trick",
+      "frequency": 3
+    },
+    {
+      "meaning": "campaign",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[날 위한 선물인가?] 선물인가? [A gift for me?] Is it a gift? 듣기 View video Dispatch : [Dicon] “트둥’s 귀염뽀짝 폴라로이드 꾸미기” (디아이콘 : 트와이스)",
+      "english": "[A gift for me?] Is it a gift?"
+    },
+    {
+      "korean": "널 위한 거야... it's for you. 듣기 View video V PICK! : [1년 전 오늘의 YOO SEONHO] 선호 눈썹에서 파도 타려고 서핑 배웠습니다🏄‍♂️ 🌊(SEONHO’s aegyo time a year ago)",
+      "english": "it's for you."
+    },
+    {
+      "korean": "너를 위한 포즈! Pose for you! 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "Pose for you!"
+    },
+    {
+      "korean": "['원스를 위한 새해 부적' 만드는 중...] [Making \"new year's charm for ONCE\"...] View video Dispatch : [Dicon] \"채영’s Special Day\" (디아이콘 : 트와이스)",
+      "english": "[Making \"new year's charm for ONCE\"...]"
+    },
+    {
+      "korean": "[3. 원스를 위한 부적 멘트 고민] 뭐 쓰지? [3. Thinking about what to write for ONCE] What should I write? 듣기 View video Dispatch : [Dicon] “쯔위’s Special Day” (디아이콘 : 트와이스)",
+      "english": "[3. Thinking about what to write for ONCE] What should I write?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a toast to the bride and groom 듣기 Add to Wordbook 신랑 신부를 위한 건배 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a toast to the bride and groom Add to Wordbook"
+    },
+    {
+      "korean": "a coroner’s inquest into his death 듣기 Add to Wordbook 그의 사인을 밝히기 위한 검시 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a coroner’s inquest into his death Add to Wordbook"
+    },
+    {
+      "korean": "the solicitation of money for election funds 듣기 Add to Wordbook 선거 자금을 위한 금전 요청 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the solicitation of money for election funds Add to Wordbook"
+    },
+    {
+      "korean": "a memorial to victims of the Holocaust 듣기 Add to Wordbook 홀로코스트 희생자들을 위한 기념비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a memorial to victims of the Holocaust Add to Wordbook"
+    },
+    {
+      "korean": "the battle for supremacy in the region 듣기 Add to Wordbook 그 지역의 패권을 차지하기 위한 싸움 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the battle for supremacy in the region Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "같다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동일하다, 동등하다) same, identical (to/with), equal (to), (가치가) equivalent (to), (공통된) common",
+        "(비슷하다, 유사하다) similar (to), like (※명사 앞에서만 쓰임), alike (※명사 앞에서는 쓰이지 않음)",
+        "(종류) like, such as"
+      ]
+    },
+    {
+      "phrase": "좀 짧은 것 같지 않나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "헤어샵에서 Don't you think it's a little short?",
+        "헤어샵에서 I think it's somewhat short."
+      ]
+    },
+    {
+      "phrase": "그 사람은 올 것 같지 않군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의견 말하기 I doubt he'll show up.",
+        "의견 말하기 I don't think he'll turn up.",
+        "의견 말하기 He's probably not going to come."
+      ]
+    },
+    {
+      "phrase": "우리 사이는 전과 같지 않아.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "이성교제 Things are not working out between us."
+      ]
+    },
+    {
+      "phrase": "꼴 같지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is not like a look"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unlikely",
+      "frequency": 3
+    },
+    {
+      "meaning": "improbable",
+      "frequency": 3
+    },
+    {
+      "meaning": "unreal",
+      "frequency": 3
+    },
+    {
+      "meaning": "improbability",
+      "frequency": 0
+    },
+    {
+      "meaning": "dissimilar",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이거 그거 같지 않아? Isn't like that? 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "Isn't like that?"
+    },
+    {
+      "korean": "하나가 왜 이렇게 큰 거 같지? Why does it look so big? 듣기 View video TWICE : 트와이스 복자매 나모의 “도전! ASMR” EP.01",
+      "english": "Why does it look so big?"
+    },
+    {
+      "korean": "U지만 이렇게 하면 C 같지 않아요? It looks like C, right? 듣기 View video Dispatch : [Dicon] “트둥’s 귀염뽀짝 폴라로이드 꾸미기” (디아이콘 : 트와이스)",
+      "english": "It looks like C, right?"
+    },
+    {
+      "korean": "뭔가 봄눈 같지 않았어요, 봄눈? Wasn't it like spring snow? 듣기 View video V PICK! : [THE BOYZ] 치즈 콜렉터 째짜니 모짜렐라 치즈로 돌돌말아 둥가둥가 해버려🧀 (NEW eating cheese tteokbokki set)",
+      "english": "Wasn't it like spring snow?"
+    },
+    {
+      "korean": "[요래][조래] 1번 될 거 같지 않아? [Looking around] Won't #1 work? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Looking around] Won't #1 work?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I don't think he even blinked. 듣기 Add to Wordbook 그가 심지어 눈을 깜박거린 것 같지도 않아. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 glvh925(glvh****)",
+      "english": "I don't think he even blinked. Add to Wordbook"
+    },
+    {
+      "korean": "This entire saga is neither silly nor sad. 듣기 Add to Wordbook 이 전설은 바보같지도, 슬프지도 않다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 고쨩(yeou****)",
+      "english": "This entire saga is neither silly nor sad. Add to Wordbook"
+    },
+    {
+      "korean": "I do not and will not want to know. 듣기 Add to Wordbook 알고싶지도 않고 알고싶을 것 같지도 않아요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Soosanna(sten****)",
+      "english": "I do not and will not want to know. Add to Wordbook"
+    },
+    {
+      "korean": "It is not, and is not likely to be. 듣기 Add to Wordbook 그것은 아니고, 그렇게 될 것 같지도 않습니다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 dkdntjr97(cles****) Hansard",
+      "english": "It is not, and is not likely to be. Add to Wordbook"
+    },
+    {
+      "korean": "The party room is either dumb or gullible. 듣기 Add to Wordbook 그 파티룸은 바보같지도 순진해보이지도 않았다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 홍올리(amit****)",
+      "english": "The party room is either dumb or gullible. Add to Wordbook"
+    }
+  ]
+}

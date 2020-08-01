@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "안이",
+      "hanja": " (安易)",
+      "example": {},
+      "meanings": [
+        "안이하다 easy, easygoing."
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": " (案)",
+      "example": {},
+      "meanings": [
+        "(안건) item",
+        "(의견, 제안) suggestion, idea, proposal"
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(내부) the inside, interior",
+        "(이내), (=내)"
+      ]
+    },
+    {
+      "phrase": "안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adverb not"
+      ]
+    },
+    {
+      "phrase": "잘[안] 내리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be digestible[indigestible]",
+        "be easy[hard] of digestion[to digest]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "within",
+      "frequency": 2
+    },
+    {
+      "meaning": "inside",
+      "frequency": 2
+    },
+    {
+      "meaning": "안 되다",
+      "frequency": 0
+    },
+    {
+      "meaning": "unprepared",
+      "frequency": 1
+    },
+    {
+      "meaning": "no",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "네 5% 안. - 이 정도 실력자들이거든요. - 그렇죠. Yes, within 5%. - That's about the skill level. - Yes. 듣기 View video IDOL RADIO : [Full] 'IDOL RADIO' ep#2. 우리는 최강 아이돌 (with B.A.P영재, 권현빈)",
+      "english": "Yes, within 5%. - That's about the skill level. - Yes."
+    },
+    {
+      "korean": "지금 이 안이 덥긴 하네요. It's hot in here. 듣기 View video V Animal Family : 케이윌이 고양이를 사랑하는 법, 해리&테리의 건강검진 w/ 박정윤수의사 Cat health checkup & massage",
+      "english": "It's hot in here."
+    },
+    {
+      "korean": "너무 가렵고. - 그렇죠. 이 안이 가렵죠. It was so itchy. - Yes, it's itchy inside. 듣기 View video MAMAMOO : 용콩별콩의 숨겨진 보물을 찾아라!",
+      "english": "It was so itchy. - Yes, it's itchy inside."
+    },
+    {
+      "korean": "이 가방안에서 자꾸 이상한게 나와요. 【그 가방 안이 궁굼하다!】 Weird things keep coming out of this bag. [We're curious about what's inside!] 듣기 View video 구구단(gugudan) : gugudan(구구단) - What's in gugudan's Bag?",
+      "english": "Weird things keep coming out of this bag. [We're curious about what's inside!]"
+    },
+    {
+      "korean": "이 패딩은 속과 안이 모두 번지르르하다라고 말씀드리고 싶네요. This jacket is perfect both inside and out. 듣기 View video 슈주 리턴즈 : [FULL] 앨범 20만장 판매 기념! 홈쇼핑 공약 완판 신화 기록!",
+      "english": "This jacket is perfect both inside and out."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The Opposition failed in a censure motion against the Government. 발음듣기 야당의 대정부 견책안이 실패했다 User translation Inaccurate information may be included due to the users' self-traslation. Czarkwak(hmkw****) Web Collection",
+      "english": "The Opposition failed in a censure motion against the Government. 발음"
+    },
+    {
+      "korean": "This apple seems good but was rotten inside. 발음듣기 이 사과는 겉은 좋아보이지만 안이 썩었다. User translation Inaccurate information may be included due to the users' self-traslation. 헵번공주(yuli****) Web Collection",
+      "english": "This apple seems good but was rotten inside. 발음"
+    },
+    {
+      "korean": "I woke up, and the room was full of smoke. 발음듣기 난 잠에서 깼는데,방 안이 온통 연기로 가득했다. User translation Inaccurate information may be included due to the users' self-traslation. 헵번공주(yuli****) Web Collection",
+      "english": "I woke up, and the room was full of smoke. 발음"
+    },
+    {
+      "korean": "We desperately need an alternative to the current situation. 발음듣기 우리는 이 상황에서 정말로 대체안이 필요하다. User translation Inaccurate information may be included due to the users' self-traslation. ywj2027(ywj2****) Web Collection",
+      "english": "We desperately need an alternative to the current situation. 발음"
+    },
+    {
+      "korean": "In view of that, I hope that the motion will be withdrawn. 발음듣기 그것을 감안해 나는 그 안이 철회되기를 바란다 User translation Inaccurate information may be included due to the users' self-traslation. Czarkwak(hmkw****) Hansard",
+      "english": "In view of that, I hope that the motion will be withdrawn. 발음"
+    }
+  ]
+}

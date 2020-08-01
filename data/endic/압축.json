@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "압축",
+      "hanja": " (壓縮)",
+      "example": {},
+      "meanings": [
+        "(부피의) compression, compress, compact",
+        "(내용의) summarization, condensation, compression, summarize, condense, compress, boil down",
+        "(파일·프로그램 등의) compress"
+      ]
+    },
+    {
+      "phrase": "파일을 압축하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "compress[zip] a file"
+      ]
+    },
+    {
+      "phrase": "공기를 압축하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "compress air"
+      ]
+    },
+    {
+      "phrase": "파일의 압축을 풀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unzip[decompress] a file"
+      ]
+    },
+    {
+      "phrase": "자신의 주장을 몇 문장으로 압축하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "summarize one's argument into a few sentences"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "compression",
+      "frequency": 3
+    },
+    {
+      "meaning": "condensation",
+      "frequency": 3
+    },
+    {
+      "meaning": "constriction",
+      "frequency": 0
+    },
+    {
+      "meaning": "striction",
+      "frequency": 0
+    },
+    {
+      "meaning": "compress",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나의 캐릭터를 두 글자로 압축한다면? If I had to compress my character into two letters? 듣기 View video V COOKIE : [Full]우리가 만난 기적 X 앞터V (The miracle we met X Early Interview)",
+      "english": "If I had to compress my character into two letters?"
+    },
+    {
+      "korean": "그리고 이렇게 동그랗게 압축된 느낌이거든요. And it looks like it's round and compressed. 듣기 View video PENTAGON : HuShin say something about musictalk",
+      "english": "And it looks like it's round and compressed."
+    },
+    {
+      "korean": "[압축 포장 기념 싸인 이벤트] - 경리 씨 - 네. [They sign to celebrate the shrink packaging] - Kyungri? - Yes. 듣기 View video TRENDY TV(트렌디 티비) : [사다드림 시즌2] 눈앞에서 작당모의는 망했지! 요녀석아!_7회",
+      "english": "[They sign to celebrate the shrink packaging] - Kyungri? - Yes."
+    },
+    {
+      "korean": "파우더는 이 루즈 파우더랑 압축형 타입을 소개해 드렸어요. and for the powders, I introduced you to loose powder and compressed types. 듣기 View video V Beauty : [Yeonsun 연선] 금방 무너지는 피부화장! 도와주세요~ | 뷰티상담소",
+      "english": "and for the powders, I introduced you to loose powder and compressed types."
+    },
+    {
+      "korean": "2D냐 3D냐 이것의 차이를 굉장히 시간을 압축해서 지금 배운 거야. Is it two or three dimensional? You learned this in a very short amount of time. 듣기 View video 포토피플(PHOTO PEOPLE) : Ep.01 사진작가가 되기로 마음먹다",
+      "english": "Is it two or three dimensional? You learned this in a very short amount of time."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The article was condensed into just two pages. 듣기 Add to Wordbook 그 글은 단 두 페이지로 압축되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The article was condensed into just two pages. Add to Wordbook"
+    },
+    {
+      "korean": "Totally lazy—that just about sums him up. 듣기 Add to Wordbook 완전히 게을러. 그게 그냥 그를 압축적으로 말해 주는 거야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Totally lazy—that just about sums him up. Add to Wordbook"
+    },
+    {
+      "korean": "The main arguments were compressed into one chapter. 듣기 Add to Wordbook 주된 주장들이 하나의 장(章) 속에 압축되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The main arguments were compressed into one chapter. Add to Wordbook"
+    },
+    {
+      "korean": "The poem encapsulates many of the central themes of her writing. 듣기 Add to Wordbook 그 시는 그녀가 쓰는 글의 많은 중심 주제들을 압축하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The poem encapsulates many of the central themes of her writing. Add to Wordbook"
+    },
+    {
+      "korean": "The author has condensed a great deal of material into just 100 pages. 듣기 Add to Wordbook 저자가 방대한 양의 자료를 단 100쪽으로 압축해 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The author has condensed a great deal of material into just 100 pages. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "호",
+      "hanja": " (號)",
+      "example": {},
+      "meanings": [
+        "nom de plume (본명 이외에 쓰는 이름) (별명) nickname; (필명) pseudonym, pen name,",
+        "(번호) number ((abb.)No.), (잡지 등의) issue",
+        "(주소) unit"
+      ]
+    },
+    {
+      "phrase": "호",
+      "hanja": " (戶)",
+      "example": {},
+      "meanings": [
+        "(가구) household, family"
+      ]
+    },
+    {
+      "phrase": "호",
+      "hanja": " (弧)",
+      "example": {},
+      "meanings": [
+        "arc"
+      ]
+    },
+    {
+      "phrase": "호",
+      "hanja": " (號)",
+      "example": {},
+      "meanings": [
+        "Bound noun ho",
+        "Bound noun issue",
+        "Bound noun room number"
+      ]
+    },
+    {
+      "phrase": "호",
+      "hanja": " (湖)",
+      "example": {},
+      "meanings": [
+        "Noun lake"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "issue",
+      "frequency": 2
+    },
+    {
+      "meaning": "number",
+      "frequency": 2
+    },
+    {
+      "meaning": "edition",
+      "frequency": 2
+    },
+    {
+      "meaning": "arc",
+      "frequency": 1
+    },
+    {
+      "meaning": "moat",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[월간 6월 호 정한] 정한! [Monthly SEVENTEEN June Issue Jeonghan] Jeonghan! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "[Monthly SEVENTEEN June Issue Jeonghan] Jeonghan!"
+    },
+    {
+      "korean": "[발음 틀림 6월 유월] - 6월 호 - 6월이에요 6월? [Mispronounces] - June issue. - Is it June? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.21 네발라이더 #1 (Four Wheeled Rider #1)",
+      "english": "[Mispronounces] - June issue. - Is it June?"
+    },
+    {
+      "korean": "호! 떡! Oh! It's flying! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.15 딜리버리 푸드 파이터 下 (Delivery Food Fighter #2)",
+      "english": "Oh! It's flying!"
+    },
+    {
+      "korean": "호! 그다음에... Ho! And then... 듣기 View video SMTOWN : SHINee 0525",
+      "english": "Ho! And then..."
+    },
+    {
+      "korean": "그게 뭐야? 막 호! 하! 이거 아니야? 웃음소리? What was it? Wasn't it \"HO! HA!\" His laughter? 듣기 View video ASTRO : 아로하 따나잇🌙",
+      "english": "What was it? Wasn't it \"HO! HA!\" His laughter?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The Titanic sank on its maiden voyage. 발음듣기 타이타닉 호는 처녀 항해에서 침몰했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Titanic sank on its maiden voyage. 발음"
+    },
+    {
+      "korean": "Ho, ho! What have we here? 발음듣기 호, 호! 이게 다 뭐야? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ho, ho! What have we here? 발음"
+    },
+    {
+      "korean": "the July issue of ‘What Car?’ 발음듣기 ‘What Car? ’ 7월 호 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the July issue of ‘What Car?’ 발음"
+    },
+    {
+      "korean": "Don’t miss next week’s issue! 발음듣기 다음 주 호를 놓치지 마세요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Don’t miss next week’s issue! 발음"
+    },
+    {
+      "korean": "The story continues in our next issue. 발음듣기 이 이야기는 다음 호에 계속됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The story continues in our next issue. 발음"
+    }
+  ]
+}

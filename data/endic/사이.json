@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "사이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(공간적인 거리) gap (between), space (between)",
+        "(시간적인 겨를), (=동안)",
+        "(사람과의 관계) relationship (with/between), relations (with/between)"
+      ]
+    },
+    {
+      "phrase": "sigh",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 한숨을 쉬다, 한숨짓다",
+        "Verb 한숨을 쉬며[탄식하듯] 말하다",
+        "Noun 한숨, 한숨 소리"
+      ]
+    },
+    {
+      "phrase": "thigh",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 넓적다리",
+        "Noun (닭 등의) 넓적다리 고기"
+      ]
+    },
+    {
+      "phrase": "xi",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 크시(Ξ, ξ: 그리스 알파벳의 열넷째 글자)"
+      ]
+    },
+    {
+      "phrase": "X.i. ( x.i., x-i. )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "증권 ex interest 이자락(利子落)(without interest)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "interval",
+      "frequency": 3
+    },
+    {
+      "meaning": "interlude",
+      "frequency": 3
+    },
+    {
+      "meaning": "hiatus",
+      "frequency": 0
+    },
+    {
+      "meaning": "betweenness",
+      "frequency": 0
+    },
+    {
+      "meaning": "Siyi",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "1990년대 청소년들 사이에서 - 진짜요? In the 1990s, between teenagers... - Oh really? 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "In the 1990s, between teenagers... - Oh really?"
+    },
+    {
+      "korean": "[이 둘 사이에는 무슨 일이?] [What happened between the two?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[What happened between the two?]"
+    },
+    {
+      "korean": "나 나갔다 온 사이에 없어진 건가? - 야! Did it disappear while I went outside? - Hey! 듣기 View video 렛스튜디오 (LETstudio) : [겨울방학] Ep 05 내 비밀이 모두에게 알려졌다",
+      "english": "Did it disappear while I went outside? - Hey!"
+    },
+    {
+      "korean": "우린 아무 사이도 아니라서! Because there's nothing going on between me and Minju. 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "Because there's nothing going on between me and Minju."
+    },
+    {
+      "korean": "그럼 넌 우리가 민주랑 자는 사이로 알았던 거야? You thought we were sleeping with her? 듣기 View video 컨스TV : 니들 나한테 용사따윈 바라지 마라![넘버식스]ep8.",
+      "english": "You thought we were sleeping with her?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the close dependence of soil and landforms 듣기 Add to Wordbook 토양과 지형 사이의 밀접한 상관성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the close dependence of soil and landforms Add to Wordbook"
+    },
+    {
+      "korean": "It weighed between nine and ten kilos. 듣기 Add to Wordbook 그것은 무게가 9에서 10킬로 사이였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It weighed between nine and ten kilos. Add to Wordbook"
+    },
+    {
+      "korean": "We were burgled while we were away. 듣기 Add to Wordbook 우리가 집을 비운 사이에 도둑이 들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were burgled while we were away. Add to Wordbook"
+    },
+    {
+      "korean": "the strange, hermetic world of the theatre 듣기 Add to Wordbook 이상하고 사이가 긴밀한 연극계 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the strange, hermetic world of the theatre Add to Wordbook"
+    },
+    {
+      "korean": "the interplay between politics and the environment 듣기 Add to Wordbook 정치와 환경 사이의 상호 작용 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the interplay between politics and the environment Add to Wordbook"
+    }
+  ]
+}

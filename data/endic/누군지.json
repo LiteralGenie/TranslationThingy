@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "누군지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "who, someone or other, so-and-so"
+      ]
+    },
+    {
+      "phrase": "누구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(의문문에 쓰여) (주격) who, (목적격) whom, (소유격) whose",
+        "somebody, (불특정 인물) someone, anybody, anyone, everybody, everyone, (부정문에 쓰여) no one, nobody",
+        "(나) I"
+      ]
+    },
+    {
+      "phrase": "누구 할 것 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regardless of anyone"
+      ]
+    },
+    {
+      "phrase": "누구 입에 붙이겠는가",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "To whose lip is it attached?"
+      ]
+    },
+    {
+      "phrase": "누구를 막론하고[물론하고]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "regardless of anyone"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "undisturbed",
+      "frequency": 3
+    },
+    {
+      "meaning": "anyone",
+      "frequency": 3
+    },
+    {
+      "meaning": "everybody",
+      "frequency": 3
+    },
+    {
+      "meaning": "비탄",
+      "frequency": 0
+    },
+    {
+      "meaning": "who",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'누군지 알아요?' \"Do you know who it is?\" 듣기 View video NCT : 런쥔이의 퇴근길 오분브이앱~",
+      "english": "\"Do you know who it is?\""
+    },
+    {
+      "korean": "\"누군지 알아요?\" \"Do you know who it is\"? 듣기 View video V PICK! : [NCT] 요즘 미술학원에선 아그리파 안쓰고 런쥔이 그린답니다✨ (RENJUN talking about episode with HAECHAN)",
+      "english": "\"Do you know who it is\"?"
+    },
+    {
+      "korean": "제가 누군지 아시겠습니까? Can you guess who I am? 듣기 View video ASTRO : 차은우의 Just one 10 minutes",
+      "english": "Can you guess who I am?"
+    },
+    {
+      "korean": "아 오케이 누군지 알아 - 그렇죠? Oh okay! I know who it is. - Right? 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Oh okay! I know who it is. - Right?"
+    },
+    {
+      "korean": "진짜 그런 얘기 제일 많이 하는 사람 누군지 알죠? You know who talks like that the most. 듣기 View video V PICK! : [MONSTA X] 턱선조심‼️ 거기에 베여서 평생 몬엑한테 배여들었잖아요 (I.M&KIHYUN talking about their face&exercise)",
+      "english": "You know who talks like that the most."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I wonder who she is. 듣기 Add to Wordbook (난) 그녀가 누군지 궁금하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I wonder who she is. Add to Wordbook"
+    },
+    {
+      "korean": "‘Don’t you know who I am?’ she stormed. 듣기 Add to Wordbook “내가 누군지 몰라?” 그녀가 호통을 쳤다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Don’t you know who I am?’ she stormed. Add to Wordbook"
+    },
+    {
+      "korean": "I recognize you. Aren’t you on television? 듣기 Add to Wordbook 난 당신 (누군지) 알아요. 텔레비전에 나오는 분 아니세요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I recognize you. Aren’t you on television? Add to Wordbook"
+    },
+    {
+      "korean": "He explained who each person in the photo was. 듣기 Add to Wordbook 그는 사진 속의 한 사람 한 사람이 누군지를 설명했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He explained who each person in the photo was. Add to Wordbook"
+    },
+    {
+      "korean": "We only learned who the new teacher was a few days ago. 듣기 Add to Wordbook 우리는 며칠 전에야 새 선생님이 누군지 알게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We only learned who the new teacher was a few days ago. Add to Wordbook"
+    }
+  ]
+}

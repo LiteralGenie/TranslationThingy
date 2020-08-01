@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "내",
+      "hanja": " (內)",
+      "example": {},
+      "meanings": [
+        "the inside, within, within the scope of (=안1)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Pronoun nae (→네)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(→네)"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun smell, scent"
+      ]
+    },
+    {
+      "phrase": "내",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun creek"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "my",
+      "frequency": 3
+    },
+    {
+      "meaning": "내입",
+      "frequency": 0
+    },
+    {
+      "meaning": "rapid",
+      "frequency": 3
+    },
+    {
+      "meaning": "rung",
+      "frequency": 3
+    },
+    {
+      "meaning": "cathedral",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내 생각에 내 게...",
+      "english": "I think that..."
+    },
+    {
+      "korean": "내 게 더 긴가?",
+      "english": "Does my charger have longer wire?"
+    },
+    {
+      "korean": "내 게 소리가 크네 - 지금 몇 시지?",
+      "english": "Mine is quite loud. - What time is it now?"
+    },
+    {
+      "korean": "[사건의 발단, 내가 쓴 게 세 개 뽑혔네...!] 내 게 3개 뽑혔네!",
+      "english": "[Reason of this fiasco] Three of mine got picked!"
+    },
+    {
+      "korean": "내 게 느린 건가?",
+      "english": "Is mine slow?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그럼 내게 말해주는 게 어때?",
+      "english": "Then why don't you tell me?"
+    },
+    {
+      "korean": "단지 내게 화만 내지마.",
+      "english": "Just don't be mad at me."
+    },
+    {
+      "korean": "내게 그는 형과 같다.",
+      "english": "For me he is like a brother."
+    },
+    {
+      "korean": "너 내게 왜 그랬어?.",
+      "english": "Why did you do that to me?."
+    },
+    {
+      "korean": "이게 뭔지 내게 묻지 마.",
+      "english": "Don't ask me what it is."
+    }
+  ]
+}

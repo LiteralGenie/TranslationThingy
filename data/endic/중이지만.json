@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "중",
+      "hanja": " (中)",
+      "example": {},
+      "meanings": [
+        "(여럿 가운데), (=가운데)",
+        "(동안)",
+        "(시간의 한계를 넘지 않은 범위)"
+      ]
+    },
+    {
+      "phrase": "중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(승려) (비구니) bhikkhuni Buddhist monk[priest], (비구) bhikkhu"
+      ]
+    },
+    {
+      "phrase": "중",
+      "hanja": " (中)",
+      "example": {},
+      "meanings": [
+        "(가운데 등급)"
+      ]
+    },
+    {
+      "phrase": "중-",
+      "hanja": " (重)",
+      "example": {},
+      "meanings": [
+        "Affix jung- (↔경-1)",
+        "Affix jung- (↔경-1)"
+      ]
+    },
+    {
+      "phrase": "중-",
+      "hanja": " (重)",
+      "example": {},
+      "meanings": [
+        "Affix jung- (↔경-1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "during",
+      "frequency": 3
+    },
+    {
+      "meaning": "twin",
+      "frequency": 3
+    },
+    {
+      "meaning": "latter",
+      "frequency": 3
+    },
+    {
+      "meaning": "on the job",
+      "frequency": 0
+    },
+    {
+      "meaning": "occupied",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지금 스튜디오 가는 중이지만... I'm on my way to the studio right now... 듣기 View video AFGAN : Macet bareng!",
+      "english": "I'm on my way to the studio right now..."
+    },
+    {
+      "korean": "다이어트 중이지만 부대찌개를 먹었어요. We're on a diet, but we ate army stew. 듣기 View video MOMO X : [모모문고] 엘리스 유경 편",
+      "english": "We're on a diet, but we ate army stew."
+    },
+    {
+      "korean": "다이어트 중이지만 조금 먹는 걸로. Even though I am on a diet, I will eat a little bit. 듣기 View video V Beauty : [룡이 Ryeong] Lancome New Product Launch Event",
+      "english": "Even though I am on a diet, I will eat a little bit."
+    },
+    {
+      "korean": "\"일하는 중이지만 이건 봐야지\". \"I'm working but I have to watch this\". 듣기 View video JOHN PARK : [REPLAY] 존박 LIVE PLAY",
+      "english": "\"I'm working but I have to watch this\"."
+    },
+    {
+      "korean": "연습 중! I've been practicing. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "I've been practicing."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We are still working out the kinks in the contract but should get the final draft by next week. 듣기 Add to Wordbook 아직 계약서 상의 사소한 문제를 해결하는 중이지만 다음 주까지는 최종안을 받을 수 있을 겁니다. DARAKWON",
+      "english": "We are still working out the kinks in the contract but should get the final draft by next week. Add to Wordbook"
+    },
+    {
+      "korean": "Although the study is still being conducted, researchers are tracing their methods to ensure results are accurate. 듣기 Add to Wordbook 연구는 아직 진행 중이지만, 연구원들은 결과가 정확하다는 것을 확실히 하는 쪽으로 방향을 잡아가고 있다. YBM All in All English-Korean Dictionary",
+      "english": "Although the study is still being conducted, researchers are tracing their methods to ensure results are accurate. Add to Wordbook"
+    },
+    {
+      "korean": "So far, The New York Times is not distributed by NewpaperDirect, although The Times is in discussions with the company. 듣기 Add to Wordbook 영국의 더 타임스도 뉴스페이퍼디렉트에 참여할 지를 협의하고 있는 중이지만 뉴욕 타임스 만큼은 아직 이 컴퓨터 인쇄 서비스로 배포되지 않고 있다. YBM All in All English-Korean Dictionary",
+      "english": "So far, The New York Times is not distributed by NewpaperDirect, although The Times is in discussions with the company. Add to Wordbook"
+    },
+    {
+      "korean": "The cause of the accident is under investigation, but a spokesman said investigators are focusing on mechanical failure, rather than human error. 듣기 Add to Wordbook 현재 사고 원인을 조사중이지만, 한 대변인은 조사자들이 작동자의 실수보다는 기계 고장에 초점을 맞추고 있다고 말했다. YBM All in All English-Korean Dictionary",
+      "english": "The cause of the accident is under investigation, but a spokesman said investigators are focusing on mechanical failure, rather than human error. Add to Wordbook"
+    },
+    {
+      "korean": "We're still gathering data on costs, but expect to set the price by September 15. 듣기 Add to Wordbook 개발비에 대한 자료는 아직 뽑고 있는 중이지만, 9월 15일까지는 가격을 책정 할 수 있을 것으로 보입니다. YBM All in All English-Korean Dictionary",
+      "english": "We're still gathering data on costs, but expect to set the price by September 15. Add to Wordbook"
+    }
+  ]
+}

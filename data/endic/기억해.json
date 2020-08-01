@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "기억하다",
+      "hanja": " (記憶하다)",
+      "example": {},
+      "meanings": [
+        "Verb remember, recall"
+      ]
+    },
+    {
+      "phrase": "기억",
+      "hanja": " (記憶)",
+      "example": {},
+      "meanings": [
+        "[명사] memory, recollection, (formal) remembrance, [동사] remember; (생각해 내다) recall, recollect; (마음에 담아 두다) bear[keep] (sth) in mind"
+      ]
+    },
+    {
+      "phrase": "기억에 남다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remain[be, live, be retained] in one's memory",
+        "be impressed on one's memory",
+        "be kept in one's memory"
+      ]
+    },
+    {
+      "phrase": "기억상실증",
+      "hanja": " (記憶喪失症)",
+      "example": {},
+      "meanings": [
+        "amnesia"
+      ]
+    },
+    {
+      "phrase": "기억을 더듬다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "search one's memory",
+        "go over again in memory",
+        "go back in one's mind[head]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "memory",
+      "frequency": 2
+    },
+    {
+      "meaning": "remember",
+      "frequency": 2
+    },
+    {
+      "meaning": "recollection",
+      "frequency": 1
+    },
+    {
+      "meaning": "뇌리",
+      "frequency": 0
+    },
+    {
+      "meaning": "recall",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "기억해? Do you remember that? 듣기 View video TWICE : 모사 8주년🍑🐹",
+      "english": "Do you remember that?"
+    },
+    {
+      "korean": "그것만 기억해? You only remember that? 듣기 View video MAMAMOO : 용콩별콩 뒤집어지는 LIVE",
+      "english": "You only remember that?"
+    },
+    {
+      "korean": "그런 걸 기억해? You remember that? 듣기 View video NCT : VOICE ONLY ㅋ",
+      "english": "You remember that?"
+    },
+    {
+      "korean": "기억해 이 시간! Remember, the time! 듣기 View video ALL THE K-POP : [주간아이돌] 기습 라이브 with 몬스타엑스",
+      "english": "Remember, the time!"
+    },
+    {
+      "korean": "기억해요 형? - 뭘? Do you remember? - What? 듣기 View video ASTRO : MC 달콩따나의 첫방송 잘 보셨나용 뿌뿌🐱🐥💜",
+      "english": "Do you remember? - What?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She only remembered details of the accident under hypnosis. 발음듣기 그녀는 최면 상태에서만 그 사건의 세부 내용을 기억해 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She only remembered details of the accident under hypnosis. 발음"
+    },
+    {
+      "korean": "She committed the instructions to memory. 발음듣기 그녀는 그 지시 사항들을 기억해 두었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She committed the instructions to memory. 발음"
+    },
+    {
+      "korean": "I definitely remember sending the letter. 발음듣기 난 그 편지를 보낸 걸 분명히 기억해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I definitely remember sending the letter. 발음"
+    },
+    {
+      "korean": "Remember that we’re going out tonight. 발음듣기 우리 오늘 밤에 외출하기로 한 거 기억해[잊지 마]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Remember that we’re going out tonight. 발음"
+    },
+    {
+      "korean": "Remember—not a word to Peter about any of this. 발음듣기 기억해[잊지 마]. 이것에 대해 피터에게는 한 마디도 하지 마. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Remember—not a word to Peter about any of this. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "영리",
+      "hanja": " (營利)",
+      "example": {},
+      "meanings": [
+        "profit"
+      ]
+    },
+    {
+      "phrase": "영리하다",
+      "hanja": " (怜悧―)",
+      "example": {},
+      "meanings": [
+        "smart, clever, bright, intelligent"
+      ]
+    },
+    {
+      "phrase": "영리단체",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "profit-making organization, for-profit organization"
+      ]
+    },
+    {
+      "phrase": "현명한[영리한] 선택",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a wise[an intelligent] choice"
+      ]
+    },
+    {
+      "phrase": "영리한 아이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bright child"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sharpness",
+      "frequency": 0
+    },
+    {
+      "meaning": "money-making",
+      "frequency": 0
+    },
+    {
+      "meaning": "clever",
+      "frequency": 3
+    },
+    {
+      "meaning": "canny",
+      "frequency": 0
+    },
+    {
+      "meaning": "cleverness",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "애가 영리해가지고 - 이거 맞나? So clever. - Is it right? 듣기 View video 플레이리스트 (Playlist) : 에이틴 멤버들의 졸업식에 따라가봤다 [에이틴2] - 마지막 비하인드",
+      "english": "So clever. - Is it right?"
+    },
+    {
+      "korean": "[휘인's pick MALANDRA = 영리한 개구쟁이] 영리한 개구쟁이. [MALANDRA] Clever rascal. 듣기 View video MAMAMOO : [MMMTV4] EP21 MMM in Brazil",
+      "english": "[MALANDRA] Clever rascal."
+    },
+    {
+      "korean": "영리하게 플레이해도 되죠? Can we make a clever play? 듣기 View video BTS : Run BTS! S3 - EP.57",
+      "english": "Can we make a clever play?"
+    },
+    {
+      "korean": "그럼 또 다른 부분은 어떤 게 영리해요? Then what makes him smart? 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "Then what makes him smart?"
+    },
+    {
+      "korean": "또 다른 부분은 어떤 게 영리해요? In what other way is he clever? 듣기 View video V PICK! : [B1A4] 조금 멀리 나가는(?) 연캉스에 등장한 곤이&망고 사람설🏕 (B1A4’s vacation in the practice room)",
+      "english": "In what other way is he clever?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Politicians are often very clever at fudging the issue. 듣기 Add to Wordbook 정치인들은 흔히 쟁점을 얼버무리는 데 아주 영리하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Politicians are often very clever at fudging the issue. Add to Wordbook"
+    },
+    {
+      "korean": "She’s a bright kid. 듣기 Add to Wordbook 그녀[그 애]는 영리한 아이이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s a bright kid. Add to Wordbook"
+    },
+    {
+      "korean": "He cleverly sidestepped the tackle. 듣기 Add to Wordbook 그는 영리하게 태클을 피했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He cleverly sidestepped the tackle. Add to Wordbook"
+    },
+    {
+      "korean": "His lawyer’s a sharp operator. 듣기 Add to Wordbook 그의 변호사는 영리한 수완가이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His lawyer’s a sharp operator. Add to Wordbook"
+    },
+    {
+      "korean": "That was a smart career move. 듣기 Add to Wordbook 그것은 사회적 경력을 위해 영리한 조치였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That was a smart career move. Add to Wordbook"
+    }
+  ]
+}

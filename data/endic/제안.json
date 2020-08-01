@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "제안",
+      "hanja": " (提案)",
+      "example": {},
+      "meanings": [
+        "suggestion, offer; (공식적인) proposal; (특히 사업·정치 등의) proposition, suggest, (formal) propose, make a suggestion[proposal, proposition]; (회의 등에서) move"
+      ]
+    },
+    {
+      "phrase": "반대 제안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a counterproposal",
+        "a counteroffer"
+      ]
+    },
+    {
+      "phrase": "제안을 받아들이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "accept a(n) proposal[suggestion, offer]",
+        "take (up) an offer"
+      ]
+    },
+    {
+      "phrase": "건설적[구체적] 제안",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a constructive[concrete] proposal[suggestion]"
+      ]
+    },
+    {
+      "phrase": "제안을 제출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make[put forward] a proposal[suggestion, motion]",
+        "offer a suggestion",
+        "move"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "suggestion",
+      "frequency": 2
+    },
+    {
+      "meaning": "proposal",
+      "frequency": 2
+    },
+    {
+      "meaning": "offer",
+      "frequency": 2
+    },
+    {
+      "meaning": "overture",
+      "frequency": 1
+    },
+    {
+      "meaning": "tender 3",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "눕방에서 제안하고 싶은 거? Something to suggest for LieV? 듣기 View video V COOKIE : [Full] CRAVITY X LieV - 크래비티의 눕방라이브!",
+      "english": "Something to suggest for LieV?"
+    },
+    {
+      "korean": "[번호 제안] 6번 어때요? [Number suggestion] How about number 6? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.20 재료 없는 떡볶이 만들기 (뉴이스트의 2020 왁자지껄 운수대통 #2)",
+      "english": "[Number suggestion] How about number 6?"
+    },
+    {
+      "korean": "[서로에게 포즈 제안하는 트둥이들!] [TWICE recommending poses to each other!] View video TWICE : TWICE TV “MORE & MORE” EP.02",
+      "english": "[TWICE recommending poses to each other!]"
+    },
+    {
+      "korean": "[협상][제안] 저기 뭐야, 히트곡 말고 다른 걸로 한번 해볼 수 있나요? [Negotiating] Can we try another category? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Negotiating] Can we try another category?"
+    },
+    {
+      "korean": "[파격 제안 이번 점수는 10점!] - 10점! - 10점! [An exceptional suggestion: 10 points!] - 10 points! - 10 points! 듣기 View video BTS : Run BTS! 2020 - EP.101",
+      "english": "[An exceptional suggestion: 10 points!] - 10 points! - 10 points!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We all weighed in with our suggestions. 발음듣기 우리는 모두 제안을 하며 거들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We all weighed in with our suggestions. 발음"
+    },
+    {
+      "korean": "She is emphatically opposed to the proposals. 발음듣기 그녀는 그 제안들에 강력히 반대한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She is emphatically opposed to the proposals. 발음"
+    },
+    {
+      "korean": "They were browbeaten into accepting the offer. 발음듣기 그들은 협박을 받고 그 제안을 받아 들였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were browbeaten into accepting the offer. 발음"
+    },
+    {
+      "korean": "He shrugged aside suggestions that he resign. 발음듣기 그는 자기더러 사직하라는 제안을 하찮게 여겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He shrugged aside suggestions that he resign. 발음"
+    },
+    {
+      "korean": "His proposal was outvoted by 10 votes to 8. 발음듣기 그의 제안은 10표 대 8표로 부결되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His proposal was outvoted by 10 votes to 8. 발음"
+    }
+  ]
+}

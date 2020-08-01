@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "틀리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(답·계산·사실 등이) (잘못되다) be wrong, be incorrect, be mistaken; (잘못하다) make a mistake (in), commit[make] an error (in)",
+        "(일·계획 등이) be hopeless"
+      ]
+    },
+    {
+      "phrase": "틀리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb be wrong, be incorrect",
+        "Verb be frustrated, be baffled",
+        "Verb be warped, be twisted"
+      ]
+    },
+    {
+      "phrase": "틀린 판단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "misjudgment",
+        "miscalculation"
+      ]
+    },
+    {
+      "phrase": "틀린 생각",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mistaken[an erroneous] idea",
+        "a wrong opinion"
+      ]
+    },
+    {
+      "phrase": "틀린 번역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mistranslation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wrong",
+      "frequency": 2
+    },
+    {
+      "meaning": "false",
+      "frequency": 2
+    },
+    {
+      "meaning": "out",
+      "frequency": 2
+    },
+    {
+      "meaning": "mistaken",
+      "frequency": 2
+    },
+    {
+      "meaning": "improper",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "틀린 사람은 누구로 뽑을 건가요? Who got it wrong? 듣기 View video OSEN : NCT 127이 직접 꼽은 가장 엉뚱한 멤버는? #스타로드 03",
+      "english": "Who got it wrong?"
+    },
+    {
+      "korean": "자리 틀린 순간... If you mess up with the position... 듣기 View video TWICE : TWICE UNIV. 패션동아리 동아리방",
+      "english": "If you mess up with the position..."
+    },
+    {
+      "korean": "이렇게 되면 은비 씨가 틀린 거죠? Eunbi got it wrong, right? 듣기 View video OSEN : IZ*ONE 아이즈원 멤버들이 꼽은 최고 집순이는 #스타로드 09",
+      "english": "Eunbi got it wrong, right?"
+    },
+    {
+      "korean": "그냥 틀린 사람을... - 틀린 사람? Just pick the wrong answer... - The wrong answer? 듣기 View video OSEN : PENTAGON 펜타곤, 여동생에 소개시켜주고 싶은 멤버? #스타로드 04",
+      "english": "Just pick the wrong answer... - The wrong answer?"
+    },
+    {
+      "korean": "나코 씨와 예나 씨가 틀린 것으로... Nako and Yena got it wrong. 듣기 View video OSEN : IZ*ONE 아이즈원, 멤버들도 사로잡은 나코의 매력 #스타로드 11",
+      "english": "Nako and Yena got it wrong."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a misconceived education policy 발음듣기 계획이 틀린 교육 정책 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a misconceived education policy 발음"
+    },
+    {
+      "korean": "That’s where you’re wrong. 발음듣기 그것이 당신이 틀린 부분이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That’s where you’re wrong. 발음"
+    },
+    {
+      "korean": "Ten points will be deducted for a wrong answer. 발음듣기 틀린 답에 대해서는 10점이 감점된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Ten points will be deducted for a wrong answer. 발음"
+    },
+    {
+      "korean": "In my humble opinion, you were in the wrong. 발음듣기 제 변변찮은 생각으로는 당신이 틀린 것 같습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In my humble opinion, you were in the wrong. 발음"
+    },
+    {
+      "korean": "The essay contains a number of factual errors. 발음듣기 그 리포트[과제물]에는 사실이 틀린 부분이 여러 군데 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The essay contains a number of factual errors. 발음"
+    }
+  ]
+}

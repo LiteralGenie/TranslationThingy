@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "마킹",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "marking"
+      ]
+    },
+    {
+      "phrase": "mocking",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 비웃는[조롱/조소하는] (듯한), (=contemptuous)"
+      ]
+    },
+    {
+      "phrase": "mock",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (특히 흉내를 내며) 놀리다[조롱하다] (=make fun of)",
+        "Verb 격식 무시[경시]하다",
+        "Adjective 거짓된, 가짜의 (=sham)"
+      ]
+    },
+    {
+      "phrase": "marking",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (동물·새·목재의) 무늬[반점]",
+        "Noun (도로·차량 등에 그려진) 표시",
+        "Noun 특히 英 성적 채점, 과제물 검사"
+      ]
+    },
+    {
+      "phrase": "mark",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb (표기호 등으로) 표시하다",
+        "Verb (외관을 망치는) 흔적[자국]을[이] 내다[나다]",
+        "Noun (외관을 망치는) 자국[흔적]",
+        "Noun (피부의) 점[반점] (→birthmark, marking)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "marking",
+      "frequency": 0
+    },
+    {
+      "meaning": "marking",
+      "frequency": 0
+    },
+    {
+      "meaning": "telemarking",
+      "frequency": 0
+    },
+    {
+      "meaning": "Watermarking",
+      "frequency": 0
+    },
+    {
+      "meaning": "Marking equipment",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마킹 끝~ Marking is over! 듣기 View video 우주소녀(WJSN) : [UZZU TAPE] EP.76 착플리 'Alligator' 커버 비하인드!",
+      "english": "Marking is over!"
+    },
+    {
+      "korean": "두릅은 이제 본인의 이미지 마킹을 이용해서... - 이미지 마킹이요? Dooreup wanted to mark his image... - Mark his image? 듣기 View video V COOKIE : [Full] SF9 X CouchTalk - SF9 X 카우치토크",
+      "english": "Dooreup wanted to mark his image... - Mark his image?"
+    },
+    {
+      "korean": "나 모르겠어 - 한번 마킹해도 되나? I don't know. - Can I mark the spot? 듣기 View video GOT7 : GOT7 \"Look\" Dance Practice (Part Switch Ver.)",
+      "english": "I don't know. - Can I mark the spot?"
+    },
+    {
+      "korean": "중앙이 저희가 마킹해 놓은 부분입니다. The center is marked on the floor. 듣기 View video JTBC PLUS : 골든디스크 시상식 백스테이지 인터뷰1st DAY / The 32nd Golden Disc Awards Backstage Interview 1st DAY",
+      "english": "The center is marked on the floor."
+    },
+    {
+      "korean": "여기에 보시면 저희가 마킹이 돼 있습니다. There's a line marked on the floor. 듣기 View video JTBC PLUS : 골든디스크 시상식 백스테이지 인터뷰1st DAY / The 32nd Golden Disc Awards Backstage Interview 1st DAY",
+      "english": "There's a line marked on the floor."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Telemarking is named after the place where it was first created, Telemark, Norway. 발음듣기 텔레마킹은 이것이 처음 생긴 곳인 노르웨이의 텔레마크에서 명명되었다. 국제영어대학원대학교 신어사전",
+      "english": "Telemarking is named after the place where it was first created, Telemark, Norway. 발음"
+    },
+    {
+      "korean": "Do you have marking pens for the white board? 발음듣기 화이트 보드에 쓰는 마킹 펜 있어요? Neungyule",
+      "english": "Do you have marking pens for the white board? 발음"
+    },
+    {
+      "korean": "The most popular was an alarm marking sounds over 100 decibels. 발음듣기 가장 인기 있는 것은 100 데시벨이 넘는 알람 마킹 소리입니다. TIMES CORE",
+      "english": "The most popular was an alarm marking sounds over 100 decibels. 발음"
+    },
+    {
+      "korean": "You are marking your own exam here, are you not? 발음듣기 넌 여기서 너의 시험을 마킹했어, 안 그래? User translation Inaccurate information may be included due to the users' self-traslation. 겨울(tjdm****) Hansard",
+      "english": "You are marking your own exam here, are you not? 발음"
+    },
+    {
+      "korean": "There are quite a lot of difficulties, I think, in benchmarking. 발음듣기 밴치마킹하는 부분에서는 상당한 어려움이 있어요 User translation Inaccurate information may be included due to the users' self-traslation. Mendy(girr****) Hansard",
+      "english": "There are quite a lot of difficulties, I think, in benchmarking. 발음"
+    }
+  ]
+}

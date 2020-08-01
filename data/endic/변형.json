@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "변형",
+      "hanja": " (變形)",
+      "example": {},
+      "meanings": [
+        "[동사] modify, (외형 등이 완전히 바뀌다) transform (into)"
+      ]
+    },
+    {
+      "phrase": "변형(성)",
+      "hanja": " (變形(性))",
+      "example": {},
+      "meanings": [
+        "의학 deformans"
+      ]
+    },
+    {
+      "phrase": "정사변형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a regular tetragon"
+      ]
+    },
+    {
+      "phrase": "유전자 변형 농산물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "genetically modified produce"
+      ]
+    },
+    {
+      "phrase": "변형 생성 문법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "transformational generative grammar"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "variation",
+      "frequency": 2
+    },
+    {
+      "meaning": "translation",
+      "frequency": 2
+    },
+    {
+      "meaning": "corruption",
+      "frequency": 1
+    },
+    {
+      "meaning": "deformation",
+      "frequency": 1
+    },
+    {
+      "meaning": "mutation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "게임을 좀 변형시켜서 - 약간 그 게임을 묻고 더블로 가에 연결을 시켜서 하면... So it's like making our own games. - Okay. 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.27 세봉이의 상상은 현실이 된다 #1",
+      "english": "So it's like making our own games. - Okay."
+    },
+    {
+      "korean": "변형이 됐어요. It was modified. 듣기 View video V PICK! : [IZ*ONE] 아이즈원 굿즈 놓치지 내꺼야~~~💓 (IZ*ONE introducing their MD)",
+      "english": "It was modified."
+    },
+    {
+      "korean": "굉장히 변형돼서 나와있어요. the standard design of trench coats. 듣기 View video Fairy Tina : UNIQUE TRENCH COATS INTRODUCING! APPROVED ITEMS ONLY | FAIRY TINA",
+      "english": "the standard design of trench coats."
+    },
+    {
+      "korean": "변형이 많이 되었나봐... It changed a lot. 듣기 View video IDOL x IDOL : WANNA.B - 워너비 '뇌섹녀가 대세! 문제적 너비'",
+      "english": "It changed a lot."
+    },
+    {
+      "korean": "좀 변형해볼까요? - 변형이 있어야죠. Should we give it a change? - Yes, you must. 듣기 View video ASTRO : 아스트로 in 평창",
+      "english": "Should we give it a change? - Yes, you must."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Rhythm and blues mutated into rock and roll. 발음듣기 리듬 앤 블루스는 로큰롤로 변형되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Rhythm and blues mutated into rock and roll. 발음"
+    },
+    {
+      "korean": "The photochemical reactions transform the light into electrical impulses. 발음듣기 광화학 반응이 빛을 전기 충격으로 변형시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The photochemical reactions transform the light into electrical impulses. 발음"
+    },
+    {
+      "korean": "The word ‘holiday’ is a corruption of ‘holy day’. 발음듣기 holiday는 holy day의 변형이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The word ‘holiday’ is a corruption of ‘holy day’. 발음"
+    },
+    {
+      "korean": "That blouse shouldn’t look like that after only two washes. 발음듣기 저 블라우스는 세탁을 두 번만 하고 나면 저런 모습이 아닐 것이다[변형이 될 것이다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That blouse shouldn’t look like that after only two washes. 발음"
+    },
+    {
+      "korean": "This soup is a spicy variation on a traditional favourite. 발음듣기 이 수프는 사람들이 좋아하는 전통 수프를 매콤하게 변형시킨 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This soup is a spicy variation on a traditional favourite. 발음"
+    }
+  ]
+}

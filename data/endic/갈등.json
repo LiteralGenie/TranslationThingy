@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "갈등",
+      "hanja": " (葛藤)",
+      "example": {},
+      "meanings": [
+        "[명사] conflict, (formal) strife, (formal) discord, (formal) dissension, (반목) feud"
+      ]
+    },
+    {
+      "phrase": "갈등을 빚다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "come into conflict (with)",
+        "be in conflict (with)"
+      ]
+    },
+    {
+      "phrase": "심리적 갈등",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mental conflict"
+      ]
+    },
+    {
+      "phrase": "갈등을 해결하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "settle[resolve] a conflict"
+      ]
+    },
+    {
+      "phrase": "갈등이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a feud",
+        "be in discord",
+        "be at enmity"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "conflict",
+      "frequency": 3
+    },
+    {
+      "meaning": "tension",
+      "frequency": 3
+    },
+    {
+      "meaning": "strife",
+      "frequency": 3
+    },
+    {
+      "meaning": "agon",
+      "frequency": 0
+    },
+    {
+      "meaning": "balancing act",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그거 둘 중을 이제 갈등을 하고 있습니다 그 두 친구가... These two songs are very conflicting. These two songs... 듣기 View video MONSTA X : LIVE : 소통타임🐻",
+      "english": "These two songs are very conflicting. These two songs..."
+    },
+    {
+      "korean": "[갈등] 내가 이쪽... [Thinking hard] I should be.... 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.17 노래방탈출 #1 (Escape Singing Room #1)",
+      "english": "[Thinking hard] I should be...."
+    },
+    {
+      "korean": "[작은 오해에서 시작된 갈등] 근데... [Conflict that starts with misunderstanding] But... 듣기 View video Mnet : 프로듀스101 시즌2 7화",
+      "english": "[Conflict that starts with misunderstanding] But..."
+    },
+    {
+      "korean": "[갈등 때리네... 다 이뻐] 토스트 바를까 앤티크로즈 바를까? Should I put on Toast or Antique Rose? 듣기 View video HANABONO : 면세쇼핑에도 기술이 필요해! 면세쇼핑꿀팁,여름휴가아이템",
+      "english": "Should I put on Toast or Antique Rose?"
+    },
+    {
+      "korean": "갈등 중이에요 머리를 묶을까요? I am pondering... Should I tie my hair? 듣기 View video Apink : Apink Diary 2018 EP.13 (2018 연말 무대 비하인드)",
+      "english": "I am pondering... Should I tie my hair?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The country was torn apart by strife. 듣기 Add to Wordbook 그 나라는 갈등으로 분열되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The country was torn apart by strife. Add to Wordbook"
+    },
+    {
+      "korean": "conflicts and frictions that have still to be resolved 듣기 Add to Wordbook 아직 해결되지 않은 갈등과 알력들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "conflicts and frictions that have still to be resolved Add to Wordbook"
+    },
+    {
+      "korean": "Racial tension finally boiled over in the inner city riots. 듣기 Add to Wordbook 인종간 갈등이 마침내 도심지 폭동으로 폭발했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Racial tension finally boiled over in the inner city riots. Add to Wordbook"
+    },
+    {
+      "korean": "In analysis the individual resolves difficult emotional conflicts. 듣기 Add to Wordbook 정신분석을 통해 그 개인은 힘든 정서적 갈등을 푼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In analysis the individual resolves difficult emotional conflicts. Add to Wordbook"
+    },
+    {
+      "korean": "Military intervention will only aggravate the conflict even further. 듣기 Add to Wordbook 군사적 개입은 그 갈등을 훨씬 더 악화시킬 뿐이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Military intervention will only aggravate the conflict even further. Add to Wordbook"
+    }
+  ]
+}

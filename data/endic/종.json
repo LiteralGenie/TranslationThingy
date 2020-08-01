@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "종",
+      "hanja": " (種)",
+      "example": {},
+      "meanings": [
+        "(생물의 분류 단위) species",
+        "(종류) sort, kind, type"
+      ]
+    },
+    {
+      "phrase": "종",
+      "hanja": " (鐘)",
+      "example": {},
+      "meanings": [
+        "bell"
+      ]
+    },
+    {
+      "phrase": "종",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(노예) slave, (하인) servant"
+      ]
+    },
+    {
+      "phrase": "정[종]2품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the senior[junior] grade of the second (court) rank"
+      ]
+    },
+    {
+      "phrase": "-종",
+      "hanja": " (種)",
+      "example": {},
+      "meanings": [
+        "(종파) a religious sect[denomination]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bell",
+      "frequency": 3
+    },
+    {
+      "meaning": "servant",
+      "frequency": 3
+    },
+    {
+      "meaning": "service",
+      "frequency": 3
+    },
+    {
+      "meaning": "peal",
+      "frequency": 3
+    },
+    {
+      "meaning": "species",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[이래도 토루가 존재하는 않는 종인가요?] 노끼! [Are you sure that a rabbit deer isn't a species?] Deer rabbit! 듣기 View video V PICK! : [ONF] 토루 얼굴에 별자리는 내가 누울 자리...⭐️ (HYOJIN talking about the mole on his face)",
+      "english": "[Are you sure that a rabbit deer isn't a species?] Deer rabbit!"
+    },
+    {
+      "korean": "제야의 종 울려라! Ring the Watch-Night bell! 듣기 View video BTS : 아미와 함께 해피뉴이어!",
+      "english": "Ring the Watch-Night bell!"
+    },
+    {
+      "korean": "강아지 무슨 종 키우고 싶어요? What kind of dog? 듣기 View video GOT7 : 추석 라이브🐍🐍",
+      "english": "What kind of dog?"
+    },
+    {
+      "korean": "여러분 방금 종소리 들렸죠? Did you hear the bell sound? 듣기 View video V COOKIE : [Full] KIM JUNSU X Eating Show - 김준수 X 같이 먹어요",
+      "english": "Did you hear the bell sound?"
+    },
+    {
+      "korean": "종료를 알리는 종소리인가요 지금? Does it mean that it ends? 듣기 View video V COOKIE : [Full] ZICO X Eating Show - 지코 X 같이 먹어요",
+      "english": "Does it mean that it ends?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the yellow-breasted male of the species 듣기 Add to Wordbook 가슴이 노란색인 그 종의 수컷 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the yellow-breasted male of the species Add to Wordbook"
+    },
+    {
+      "korean": "The bells of the city began to peal out. 듣기 Add to Wordbook 그 도시에서 종소리들이 울려 퍼지기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bells of the city began to peal out. Add to Wordbook"
+    },
+    {
+      "korean": "Many species have diverged from a single ancestor. 듣기 Add to Wordbook 많은 종들이 단 하나의 조상에서 갈라져 나왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many species have diverged from a single ancestor. Add to Wordbook"
+    },
+    {
+      "korean": "The list of endangered species includes nearly 600 fishes. 듣기 Add to Wordbook 멸종 위기에 처한 종의 목록에는 거의 600종의 어류가 포함되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The list of endangered species includes nearly 600 fishes. Add to Wordbook"
+    },
+    {
+      "korean": "a protected area / species 듣기 Add to Wordbook 보호 구역/(생물) 보호 종 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a protected area / species Add to Wordbook"
+    }
+  ]
+}

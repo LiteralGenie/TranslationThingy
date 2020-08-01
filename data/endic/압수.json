@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "압수",
+      "hanja": " (押收)",
+      "example": {},
+      "meanings": [
+        "confiscation, seizure, impound, confiscate, seize"
+      ]
+    },
+    {
+      "phrase": "압수수색영장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "confiscation warrant, search and seizure warrant"
+      ]
+    },
+    {
+      "phrase": "서류를 압수하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "capture[retain] papers"
+      ]
+    },
+    {
+      "phrase": "면허증을 압수하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "forfeit a license"
+      ]
+    },
+    {
+      "phrase": "밀수품을 압수하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "confiscate smuggled goods"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "seizure",
+      "frequency": 0
+    },
+    {
+      "meaning": "confiscation",
+      "frequency": 0
+    },
+    {
+      "meaning": "impoundment",
+      "frequency": 0
+    },
+    {
+      "meaning": "confiscate",
+      "frequency": 3
+    },
+    {
+      "meaning": "impound",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "압수. I'll take it. 듣기 View video IMFACT : [TAEHO] 태호의 랜선 데이트2 \"너는 펫\"",
+      "english": "I'll take it."
+    },
+    {
+      "korean": "[압수...?] 그러면... [Take them...?] Then... 듣기 View video Dispatch : [ⓓxV] “IT'Z TRAVEL ①” (있지 : ITZY)",
+      "english": "[Take them...?] Then..."
+    },
+    {
+      "korean": "[압수에 제한시간 5분?!] - 5분? - 5분? [Take the food and 5-minute time limit] - 5 minutes? 듣기 View video Dispatch : [ⓓxV] “IT'Z TRAVEL ①” (있지 : ITZY)",
+      "english": "[Take the food and 5-minute time limit] - 5 minutes?"
+    },
+    {
+      "korean": "\"음식 재료가 겹치면 디스패치가 압수!\" \"If your food items overlap, Dispatch will take them away from you\". 듣기 View video Dispatch : [ⓓxV] “IT'Z TRAVEL ①” (있지 : ITZY)",
+      "english": "\"If your food items overlap, Dispatch will take them away from you\"."
+    },
+    {
+      "korean": "[같은 걸 샀을 경우에만 압수랍니다] 과일이면 괜찮은 거예요? 다른 거지? [They have to give up the same ingredients only] Is it OK that we both got fruit? 듣기 View video Dispatch : [ⓓxV] “IT'Z TRAVEL ③” (있지 : ITZY)",
+      "english": "[They have to give up the same ingredients only] Is it OK that we both got fruit?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The Customs have seized large quantities of smuggled heroin. 듣기 Add to Wordbook 세관에서 다량의 밀수 헤로인을 압수했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Customs have seized large quantities of smuggled heroin. Add to Wordbook"
+    },
+    {
+      "korean": "A swoop by customs officers netted a large quantity of drugs. 듣기 Add to Wordbook 세관 직원들이 급습하여 많은 양의 마약을 압수했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A swoop by customs officers netted a large quantity of drugs. Add to Wordbook"
+    },
+    {
+      "korean": "Police seized various books and tapes. 듣기 Add to Wordbook 경찰이 여러 가지 책과 테이프들을 압수했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Police seized various books and tapes. Add to Wordbook"
+    },
+    {
+      "korean": "The car was impounded by the police after the accident. 듣기 Add to Wordbook 그 자동차는 사고 후에 경찰에 압수되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The car was impounded by the police after the accident. Add to Wordbook"
+    },
+    {
+      "korean": "A large quantity of drugs was seized during the raid. 듣기 Add to Wordbook 그 불시 단속으로 다량의 마약이 압수되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A large quantity of drugs was seized during the raid. Add to Wordbook"
+    }
+  ]
+}

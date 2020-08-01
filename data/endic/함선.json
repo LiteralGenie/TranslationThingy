@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "함선",
+      "hanja": " (艦船)",
+      "example": {},
+      "meanings": [
+        "(navy/naval) vessel, (집합적) fleet"
+      ]
+    },
+    {
+      "phrase": "총원 명부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a muster roll"
+      ]
+    },
+    {
+      "phrase": "해군 함선",
+      "hanja": " (海軍艦船)",
+      "example": {},
+      "meanings": [
+        "naval vessels"
+      ]
+    },
+    {
+      "phrase": "돌격함선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 assault shipping"
+      ]
+    },
+    {
+      "phrase": "상륙함선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 landing ship"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "ship",
+      "frequency": 3
+    },
+    {
+      "meaning": "mothballed ships",
+      "frequency": 0
+    },
+    {
+      "meaning": "ASV",
+      "frequency": 0
+    },
+    {
+      "meaning": "decker",
+      "frequency": 0
+    },
+    {
+      "meaning": "vessels of all kinds and sizes",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Admiral Yi Sunsin ordered all the warships to fire. 듣기 Add to Wordbook 이순신 장군은 모든 함선에 발포를 명령했다. 절대어휘 5100",
+      "english": "Admiral Yi Sunsin ordered all the warships to fire. Add to Wordbook"
+    },
+    {
+      "korean": "Captain screamed that “ Up the anchor ” , Warship processed to the sea. 듣기 Add to Wordbook 선장은 닻을 올리라 소리쳤고, 함선은 바다로 나아갔다. YBM All in All English-Korean Dictionary",
+      "english": "Captain screamed that “ Up the anchor ” , Warship processed to the sea. Add to Wordbook"
+    },
+    {
+      "korean": "Warships could keep direction properly, though it gave enemy the stem. 듣기 Add to Wordbook 함선은 다른 배와 부딪혀 갔으나 제대로 방향을 유지할 수 있었다. YBM All in All English-Korean Dictionary",
+      "english": "Warships could keep direction properly, though it gave enemy the stem. Add to Wordbook"
+    },
+    {
+      "korean": "During the 2002 World Cup, a North Korean boat sank a South Korean patrol vessel. 듣기 Add to Wordbook 2002년 월드컵이 열렸던 기간에는 북한 함선이 남한의 경비정을 침몰시킨 바가 있다. Neungyule",
+      "english": "During the 2002 World Cup, a North Korean boat sank a South Korean patrol vessel. Add to Wordbook"
+    },
+    {
+      "korean": "vessels that have seen long war service 듣기 Add to Wordbook 다년 실전(實戰)을 겪은 함선(艦船). 영어영작문대사전",
+      "english": "vessels that have seen long war service Add to Wordbook"
+    }
+  ]
+}

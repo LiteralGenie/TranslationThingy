@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "통과",
+      "hanja": " (通過)",
+      "example": {},
+      "meanings": [
+        "(지나가다) [동사] pass (through)",
+        "(시험·검사 등을) [동사] pass, get through",
+        "(안건 등이) [명사] passage, [동사] pass, go through"
+      ]
+    },
+    {
+      "phrase": "통과(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 transit"
+      ]
+    },
+    {
+      "phrase": "통과의례",
+      "hanja": " (通過儀禮)",
+      "example": {},
+      "meanings": [
+        "rite of passage"
+      ]
+    },
+    {
+      "phrase": "예선을 통과하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get through the preliminaries",
+        "qualify (for the next round)"
+      ]
+    },
+    {
+      "phrase": "세관을 통과하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go[pass] through customs"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "passage",
+      "frequency": 3
+    },
+    {
+      "meaning": "pass",
+      "frequency": 3
+    },
+    {
+      "meaning": "passing",
+      "frequency": 3
+    },
+    {
+      "meaning": "transit",
+      "frequency": 3
+    },
+    {
+      "meaning": "pass 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "유나가 통과했었나? Did Yuna pass? 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "Did Yuna pass?"
+    },
+    {
+      "korean": "'멤버들 중에서 기본 안무 통과한 사람?' \"Who passed the basic dance among the members?\" 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "\"Who passed the basic dance among the members?\""
+    },
+    {
+      "korean": "[서울대 트리플에이치 2라운드를 통과할 수 있을지?!] [Will they be able to get past Round 2?!] View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[Will they be able to get past Round 2?!]"
+    },
+    {
+      "korean": "\"큰일났다, 2차 평가는 우리가 통과할 수 있을까?\" \"Oh no, can we pass the 2nd test like this?\" 듣기 View video TOMORROW X TOGETHER : 수빈입니다!",
+      "english": "\"Oh no, can we pass the 2nd test like this?\""
+    },
+    {
+      "korean": "[마지막 순서][태현->휴닝카이 구간 무사 통과!] - 제발 - 이걸... 방송에 쓸 수 있을까? [Last section] [TAEHYUN -> HUENINGKAI] - Please. - Will it be on the show? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[Last section] [TAEHYUN -> HUENINGKAI] - Please. - Will it be on the show?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to go through customs and passport control 듣기 Add to Wordbook 세관과 여권 검색대를 통과하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to go through customs and passport control Add to Wordbook"
+    },
+    {
+      "korean": "Light is refracted when passed through a prism. 듣기 Add to Wordbook 빛은 프리즘을 통과할 때 굴절이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Light is refracted when passed through a prism. Add to Wordbook"
+    },
+    {
+      "korean": "The spending cuts had been rammed through Congress. 듣기 Add to Wordbook 그 경비 감축안들은 의회를 힘겹게 통과했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The spending cuts had been rammed through Congress. Add to Wordbook"
+    },
+    {
+      "korean": "to pass/fail the MOT 듣기 Add to Wordbook 자동차 안전 검사에 통과하다/통과하지 못하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to pass/fail the MOT Add to Wordbook"
+    },
+    {
+      "korean": "He failed to qualify. 듣기 Add to Wordbook 그는 예선 통과에 실패했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He failed to qualify. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "관리",
+      "hanja": " (管理)",
+      "example": {},
+      "meanings": [
+        "[명사] (조직·사업 등에 대한) administration, (경영) management, (감독) supervision, (formal) superintendence [동사] (조직·사업 등을) administer, (경영하다) manage, run, (감독하다) supervise, (formal) superintend, (유지하다) maintain, (보호·보존하다) ca..."
+      ]
+    },
+    {
+      "phrase": "관리",
+      "hanja": " (官吏)",
+      "example": {},
+      "meanings": [
+        "(관직에 있는 사람) government official"
+      ]
+    },
+    {
+      "phrase": "품질관리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "quality assurance ((abb.)QA), quality control ((abb.)QC)"
+      ]
+    },
+    {
+      "phrase": "인사관리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personnel management[administration]"
+      ]
+    },
+    {
+      "phrase": "법정관리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(court) receivership"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "official",
+      "frequency": 3
+    },
+    {
+      "meaning": "management",
+      "frequency": 3
+    },
+    {
+      "meaning": "conservation",
+      "frequency": 3
+    },
+    {
+      "meaning": "moderation",
+      "frequency": 3
+    },
+    {
+      "meaning": "administration",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "관리? My skincare routine? 듣기 View video MONSTA X : LIVE : 와따시가 킷타",
+      "english": "My skincare routine?"
+    },
+    {
+      "korean": "손 관리를 못 갔네? I didn't go for my nails... 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "I didn't go for my nails..."
+    },
+    {
+      "korean": "평소 식단 관리는 어떻게 하고 있는지? How do you control your diet? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "How do you control your diet?"
+    },
+    {
+      "korean": "그냥 기본적인 체력 관리라 해야 되나? but I think it's just taking care of the basic things on my body? 듣기 View video MONSTA X : LIVE : 다시 🐢",
+      "english": "but I think it's just taking care of the basic things on my body?"
+    },
+    {
+      "korean": "피부 관리법은 없습니다! I don't have one! 듣기 View video V PICK! : [GOT7] 말랑콩떡이 알고보니 반짝꿀떡이었던 거예요🍡 (YUGYEOM singing PRAY)",
+      "english": "I don't have one!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "His[Her] Majesty’s servants=the king’s[queen’s] servants 듣기 Add to Wordbook 관리 Dong-a's Prime English-Korean Dictionary",
+      "english": "His[Her] Majesty’s servants=the king’s[queen’s] servants Add to Wordbook"
+    },
+    {
+      "korean": "governmental officials 듣기 Add to Wordbook 관리. Friendict Level English-Korean Dictionary",
+      "english": "governmental officials Add to Wordbook"
+    },
+    {
+      "korean": "regulations governing the sale of alcoholic beverages 듣기 Add to Wordbook 주류 판매 관리 규정 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "regulations governing the sale of alcoholic beverages Add to Wordbook"
+    },
+    {
+      "korean": "He was kept in custody for his own safety. 듣기 Add to Wordbook 그는 그 자신의 안전을 위해 보호관리를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was kept in custody for his own safety. Add to Wordbook"
+    },
+    {
+      "korean": "Fitness has become an obsession with him. 듣기 Add to Wordbook 건강 관리가 그에게는 강박 관념이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fitness has become an obsession with him. Add to Wordbook"
+    }
+  ]
+}

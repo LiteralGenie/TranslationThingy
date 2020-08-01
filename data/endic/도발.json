@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "도발",
+      "hanja": " (挑發)",
+      "example": {},
+      "meanings": [
+        "[명사] provocation, [동사] provoke"
+      ]
+    },
+    {
+      "phrase": "색정을 도발하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "excite[stimulate] one´s sexual desire"
+      ]
+    },
+    {
+      "phrase": "호기심을 도발하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "excite curiosity"
+      ]
+    },
+    {
+      "phrase": "전쟁[폭동]을 도발하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provoke a war[riot]"
+      ]
+    },
+    {
+      "phrase": "오판으로 전쟁을 도발하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "provoke a war by miscalculation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "provocation",
+      "frequency": 1
+    },
+    {
+      "meaning": "aggravation",
+      "frequency": 0
+    },
+    {
+      "meaning": "coat-trailing",
+      "frequency": 0
+    },
+    {
+      "meaning": "warmongering",
+      "frequency": 0
+    },
+    {
+      "meaning": "provoke",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "도발인가요? Are you challenging us? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.9",
+      "english": "Are you challenging us?"
+    },
+    {
+      "korean": "[발칙! 도발!] 그렇지! [Provocative! Sassy!] There you go! 듣기 View video TWICE : TWICE TV “MORE & MORE” EP.01",
+      "english": "[Provocative! Sassy!] There you go!"
+    },
+    {
+      "korean": "[도발22] 콘셉트 아니냐, 저거? [Provocation 2] Are they acting? 듣기 View video BTS : Run BTS! 2020 - EP.102",
+      "english": "[Provocation 2] Are they acting?"
+    },
+    {
+      "korean": "[최강자의 도발] 우유 많이 먹어! [The tallest says:] Drink more milk! 듣기 View video V PICK! : [ITZY] 시험 벼락치기🙅‍♀️이제 성장 벼락치기의 시대입니다🙆‍♀️ (ITZY measuring the height)",
+      "english": "[The tallest says:] Drink more milk!"
+    },
+    {
+      "korean": "오른쪽 발칙! 왼쪽 도발! Provocative on your right side! Sassy on your left side! 듣기 View video TWICE : TWICE TV “MORE & MORE” EP.01",
+      "english": "Provocative on your right side! Sassy on your left side!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He reacted violently only under provocation. 발음듣기 그는 도발을 당할 경우에만 폭력적인 반응을 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He reacted violently only under provocation. 발음"
+    },
+    {
+      "korean": "So far the police have refused to respond to their provocations. 발음듣기 지금까지 경찰은 그들의 도발에 반응을 보이지 않아 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "So far the police have refused to respond to their provocations. 발음"
+    },
+    {
+      "korean": "The lawyer claimed his client was provoked into acts of violence by the defendant. 발음듣기 그 변호사는 피고가 도발을 해서 자기 의뢰인이 폭력적인 행동을 하게 되었다고 주장했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The lawyer claimed his client was provoked into acts of violence by the defendant. 발음"
+    },
+    {
+      "korean": "The prime minister has made some provocative speeches recently. 발음듣기 최근 수상은 약간 도발적인 연설을 했다. 절대어휘 5100",
+      "english": "The prime minister has made some provocative speeches recently. 발음"
+    },
+    {
+      "korean": "The artist expressed his provocativity in his works. 발음듣기 그 예술가는 자신의 도발적인 기질을 작품으로 표현했다. 국제영어대학원대학교 신어사전",
+      "english": "The artist expressed his provocativity in his works. 발음"
+    }
+  ]
+}

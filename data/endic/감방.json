@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "감방",
+      "hanja": " (監房)",
+      "example": {},
+      "meanings": [
+        "prison, jail, lockup, (Brit) gaol"
+      ]
+    },
+    {
+      "phrase": "사형수 감방",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a condemned ward[cell]"
+      ]
+    },
+    {
+      "phrase": "감방에 가두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "throw into prison",
+        "put behind bars",
+        "lock in"
+      ]
+    },
+    {
+      "phrase": "감방에 처넣다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "throw[cast] into a cell"
+      ]
+    },
+    {
+      "phrase": "사형수 감방[독방]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a death[condemned] cell",
+        "a condemned ward",
+        "a death row"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "cell",
+      "frequency": 3
+    },
+    {
+      "meaning": "can 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "slammer",
+      "frequency": 0
+    },
+    {
+      "meaning": "clink",
+      "frequency": 0
+    },
+    {
+      "meaning": "penitentiary",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오~ 그러면 감방에서... Oh... Then in jail... 듣기 View video Apink : 야식먹방!!!",
+      "english": "Oh... Then in jail..."
+    },
+    {
+      "korean": "니 감방 안에 있다. It's in your jail cell. 듣기 View video 홍익슈퍼 (HONG IK SUPER) : [홍익슈퍼]EP14_ 연희야, 내가 구해줄게",
+      "english": "It's in your jail cell."
+    },
+    {
+      "korean": "어둡고 습한 감방에서 콩밥을 먹든가. Or do you want to have prison food somewhere dark and humid? 듣기 View video 아이엠 (I am) : <사랑, 기억에 머물다> 3-2화 [시작]",
+      "english": "Or do you want to have prison food somewhere dark and humid?"
+    },
+    {
+      "korean": "[아직 드라마 촬영이 끝나지 않은 승유니] 승윤이는 아직 감방에 더 있어야 돼요. [Yoon has not finished shooting drama] Yoon still needs to be in jail. 듣기 View video WINNER : [자막용] 퇴근길~^_^",
+      "english": "[Yoon has not finished shooting drama] Yoon still needs to be in jail."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an anguished letter from her prison cell 듣기 Add to Wordbook 그녀가 교도소 감방에서 괴로움에 겨워 쓴 편지 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an anguished letter from her prison cell Add to Wordbook"
+    },
+    {
+      "korean": "prisoners thrown in jail and left to rot 듣기 Add to Wordbook 감방에 처넣어진 채 썩어 가도록 방치되는 죄수들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "prisoners thrown in jail and left to rot Add to Wordbook"
+    },
+    {
+      "korean": "He was stripped naked and left in a cell. 듣기 Add to Wordbook 그는 옷을 발가벗기운 채 감방에 남겨졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was stripped naked and left in a cell. Add to Wordbook"
+    },
+    {
+      "korean": "At 9 p.m. the prisoners are locked in for the night. 듣기 Add to Wordbook 재소자들은 오후 9시가 되면 밤 시간을 보내도록 감방에 갇힌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At 9 p.m. the prisoners are locked in for the night. Add to Wordbook"
+    },
+    {
+      "korean": "Over twenty prisoners were crushed into a small dark cell. 듣기 Add to Wordbook 스무 명이 넘는 죄수들이 작고 어두운 감방 안에 쑤셔 넣어져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Over twenty prisoners were crushed into a small dark cell. Add to Wordbook"
+    }
+  ]
+}

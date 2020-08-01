@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "확정",
+      "hanja": " (確定)",
+      "example": {},
+      "meanings": [
+        "[동사] decide (on/upon), determine, settle, set, fix, confirm, finalize"
+      ]
+    },
+    {
+      "phrase": "확정되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be decided",
+        "be settled",
+        "be fixed"
+      ]
+    },
+    {
+      "phrase": "확정판결",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "final ruling"
+      ]
+    },
+    {
+      "phrase": "확정 신고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a final return"
+      ]
+    },
+    {
+      "phrase": "회사채[은행, 확정] 이자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "debenture[bank, fixed] interest"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "confirmation",
+      "frequency": 1
+    },
+    {
+      "meaning": "firm up something",
+      "frequency": 0
+    },
+    {
+      "meaning": "decree absolute",
+      "frequency": 0
+    },
+    {
+      "meaning": "signed and sealed",
+      "frequency": 0
+    },
+    {
+      "meaning": "defined contribution",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "석백 얘들아 석백 확정이야? Seok 100. Will you go with that? 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "Seok 100. Will you go with that?"
+    },
+    {
+      "korean": "그때는 뭔가 팀이 확정이... Our team wasn't formed back then... 듣기 View video ATEEZ : 성화랑 얘기해욥🤗 오늘은 성화 Time~",
+      "english": "Our team wasn't formed back then..."
+    },
+    {
+      "korean": "[2라운드 진출 최종 8팀 확정!] [8 teams confirmed to enter the 2nd round!] View video 내 전공은 힙합(My major is HIPHOP) : Ep 17. 2라운드 진출 전! 갑분 멤버 교체 위기? 새롭게 영입된 멤버는 누구?",
+      "english": "[8 teams confirmed to enter the 2nd round!]"
+    },
+    {
+      "korean": "[옛날 도시락 최종 짝꿍 확정] 레츠 고! [They were decided as final partners] Let's go! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.7 부승관의 전생연분 #3 (SeungKwan Boo's Past Life Destiny #3)",
+      "english": "[They were decided as final partners] Let's go!"
+    },
+    {
+      "korean": "[첫판부터 결승 확정 가나요~?] 진짜 가냐? [Will he go to the final round?] Will he win? 듣기 View video BTS : Run BTS! 2020 - EP.95",
+      "english": "[Will he go to the final round?] Will he win?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The inquiry is by no means cut and dried. 발음듣기 그 조사는 결코 확정적인 것이 아니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The inquiry is by no means cut and dried. 발음"
+    },
+    {
+      "korean": "The precise details still have to be firmed up. 발음듣기 정확한 세부 사항들은 아직 확정을 지어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The precise details still have to be firmed up. 발음"
+    },
+    {
+      "korean": "The period between the decree nisi and the decree absolute was six weeks. 발음듣기 이혼 가판결과 이혼 확정 판결 사이의 기간은 6주였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The period between the decree nisi and the decree absolute was six weeks. 발음"
+    },
+    {
+      "korean": "The support (act) has yet to be confirmed. 발음듣기 지원 밴드[가수]가 아직 확정되지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The support (act) has yet to be confirmed. 발음"
+    },
+    {
+      "korean": "The race is still wide open. 발음듣기 그 경주에서 누가 우승할지는 아직 전혀 확정적이지 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The race is still wide open. 발음"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "phrases": [
+    {
+      "phrase": "현용정보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 current intelligence"
+      ]
+    },
+    {
+      "phrase": "현용첩보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 current information"
+      ]
+    },
+    {
+      "phrase": "현용정보운영처",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 current intelligence operations division (CIOD)"
+      ]
+    },
+    {
+      "phrase": "현용정보보고목록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 current intelligence requirement list (CIRL)"
+      ]
+    },
+    {
+      "phrase": "현용정보(첩보)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "항공우주 CI (Current Intelligence(Information))"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a living language",
+      "frequency": 0
+    },
+    {
+      "meaning": "archlute",
+      "frequency": 0
+    },
+    {
+      "meaning": "current information",
+      "frequency": 0
+    },
+    {
+      "meaning": "current intelligence",
+      "frequency": 0
+    },
+    {
+      "meaning": "active runway",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

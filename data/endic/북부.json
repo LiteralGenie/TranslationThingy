@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "북부",
+      "hanja": " (北部)",
+      "example": {},
+      "meanings": [
+        "the north, northern part"
+      ]
+    },
+    {
+      "phrase": "북부의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "northern"
+      ]
+    },
+    {
+      "phrase": "북부 파출소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "행정공공시설 (공공기관·단체) Bukbu Police Substation"
+      ]
+    },
+    {
+      "phrase": "북부 지방의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Northen"
+      ]
+    },
+    {
+      "phrase": "북부 해수욕장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "관광지 (자연관광) Bukbu Beach"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "north",
+      "frequency": 3
+    },
+    {
+      "meaning": "septentrion",
+      "frequency": 0
+    },
+    {
+      "meaning": "the north side",
+      "frequency": 0
+    },
+    {
+      "meaning": "northern",
+      "frequency": 3
+    },
+    {
+      "meaning": "Yankee",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 장대한 원시림은 제주 동부, 서부, 북부에 넓게 펼쳐져 있는데요. This primeval forest stretches out to the east, west, and north part of Jeju Island. 듣기 View video V WEB DRAMA : 하늘에서 만난 대한민국 7부",
+      "english": "This primeval forest stretches out to the east, west, and north part of Jeju Island."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the North York moors 듣기 Add to Wordbook 요크 북부의 황야 지대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the North York moors Add to Wordbook"
+    },
+    {
+      "korean": "The party campaigned vigorously in the north of the country. 듣기 Add to Wordbook 그 당은 국가의 북부 지역에서 열띤 선거 운동을 펼쳤다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party campaigned vigorously in the north of the country. Add to Wordbook"
+    },
+    {
+      "korean": "the northern part of the country 듣기 Add to Wordbook 그 나라의 북부 지역 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the northern part of the country Add to Wordbook"
+    },
+    {
+      "korean": "They’ve moved up north. 듣기 Add to Wordbook 그들은 북부로 이사를 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They’ve moved up north. Add to Wordbook"
+    },
+    {
+      "korean": "They’ve gone to live up north. 듣기 Add to Wordbook 그들은 북부로 살러 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They’ve gone to live up north. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "누구도 생각해낼 수 없었을 것이다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Who could have thought?"
+      ]
+    },
+    {
+      "phrase": "없는 것이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack nothing, soup-to-nuts"
+      ]
+    },
+    {
+      "phrase": "없는 놈이 찬밥 더운 밥을 가리랴",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Would a man in need discriminate cold rice from hot rice?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "in the pre-automobile(pre-railway)days",
+      "frequency": 0
+    },
+    {
+      "meaning": "innocent",
+      "frequency": 3
+    },
+    {
+      "meaning": "dull",
+      "frequency": 3
+    },
+    {
+      "meaning": "constant",
+      "frequency": 3
+    },
+    {
+      "meaning": "hardly",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"연습생 때 시간이 없었을 텐데 언제 연습했어요?\"",
+      "english": "\"You didn't have much time when you were a trainee. How did you practice?\""
+    },
+    {
+      "korean": "그런 거 없었을 거 같은데?",
+      "english": "I don't think that was there."
+    },
+    {
+      "korean": "꿈이 없었을 거 같아요.",
+      "english": "I probably wouldn't have had dreams."
+    },
+    {
+      "korean": "저희가 지금 이 자리에 없었을 것 같아요.",
+      "english": "I don't think we would be here."
+    },
+    {
+      "korean": "그러면은 아무튼 오늘 재미가 없었을 지도 몰라요.",
+      "english": "Then, I'm not sure if you had fun but..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "“잠자리에 드셨는데 전화 드려서 죄송해요.” “걱정 말아요. 그런 줄 알 수가 없었을 테니까.”",
+      "english": "‘I’m sorry, I called when you were in bed.’ ‘Don’t worry—you weren’t to know.’"
+    },
+    {
+      "korean": "피해 규모는 예견할 수가 없었을 것이다.",
+      "english": "The extent of the damage could not have been foreseen."
+    },
+    {
+      "korean": "당신이 없었으면 우리가 해낼 수 없었을 거예요.",
+      "english": "We couldn’t have managed without you."
+    },
+    {
+      "korean": "어느 누구도 그런 최종 결과를 예측할 수 없었을 것이다.",
+      "english": "No one could have predicted the final outcome."
+    },
+    {
+      "korean": "당연히 내가 그들을 돕는 것을 거부할 수는 없었을 거잖아, 안 그래?",
+      "english": "I couldn’t very well refuse to help them, could I?"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "연줄",
+      "hanja": " (緣―)",
+      "example": {},
+      "meanings": [
+        "connections"
+      ]
+    },
+    {
+      "phrase": "연줄",
+      "hanja": " (鳶줄)",
+      "example": {},
+      "meanings": [
+        "Noun kite string"
+      ]
+    },
+    {
+      "phrase": "좋은 연줄이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a strong[good] pull",
+        "have good connections"
+      ]
+    },
+    {
+      "phrase": "연줄을 맺다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "form[establish] one´s connections"
+      ]
+    },
+    {
+      "phrase": "…의 연줄로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "through interset with"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "contact",
+      "frequency": 2
+    },
+    {
+      "meaning": "well connected",
+      "frequency": 0
+    },
+    {
+      "meaning": "through interest with (a person)",
+      "frequency": 0
+    },
+    {
+      "meaning": "have a strong[good] pull",
+      "frequency": 0
+    },
+    {
+      "meaning": "form[establish] one's connections (with)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "연줄, 끈. a connection, a bond. 듣기 View video 10PM : 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "a connection, a bond."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Given his political connections, he thought he was untouchable. 발음듣기 자신이 가진 정치적 연줄이 있으니 자기를 건드리지는 못하리라고 그는 생각했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Given his political connections, he thought he was untouchable. 발음"
+    },
+    {
+      "korean": "I’ve made some useful contacts in journalism. 발음듣기 나는 언론계 사람들 몇 명과 유용한 연줄을 맺어 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ve made some useful contacts in journalism. 발음"
+    },
+    {
+      "korean": "I need contacts that could help in finding a job. 발음듣기 나는 취직을 하는 데 도움이 될 연줄이 필요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I need contacts that could help in finding a job. 발음"
+    },
+    {
+      "korean": "One of my business connections gave them my name. 발음듣기 나와 사업상 연줄이 있는 곳 한 군데서 그들에게 내 이름을 알려주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "One of my business connections gave them my name. 발음"
+    },
+    {
+      "korean": "I would like to help you with locating a real estate agent here, but I really don't have any contacts in that area. 발음듣기 이곳에서 부동산중개인을 찾는 데 도움을 드리고는 싶지만, 저는 사실 그 분야에 연줄이 없습니다. DARAKWON",
+      "english": "I would like to help you with locating a real estate agent here, but I really don't have any contacts in that area. 발음"
+    }
+  ]
+}

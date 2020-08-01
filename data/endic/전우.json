@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "전우",
+      "hanja": " (戰友)",
+      "example": {},
+      "meanings": [
+        "(formal) comrade in arms, fellow soldier"
+      ]
+    },
+    {
+      "phrase": "불우 전우",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unfortunate soldier"
+      ]
+    },
+    {
+      "phrase": "동료 전우",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fellow soldier"
+      ]
+    },
+    {
+      "phrase": "전우를 돕다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "help comrade"
+      ]
+    },
+    {
+      "phrase": "전우를 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose fellow soldier"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "comrade",
+      "frequency": 1
+    },
+    {
+      "meaning": "comrade in arms",
+      "frequency": 0
+    },
+    {
+      "meaning": "a companion in arms[crime]",
+      "frequency": 0
+    },
+    {
+      "meaning": "a fellow soldier",
+      "frequency": 0
+    },
+    {
+      "meaning": "a war brother",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[위올라이] 전우가... [We alright] \"Legend of the Patriots\"... 듣기 View video V PICK! : [GFRIEND] 겁나고 각박한 세상 고갤들어 여치니들을 보라 나라 세울 미모 오늘도 살아갈 이유✨✨ (GFRIEND's Fever 4th Win!)",
+      "english": "[We alright] \"Legend of the Patriots\"..."
+    },
+    {
+      "korean": "[휴전선 정중앙을 사수하던 전우야!] [My comrade, who defended truce line!] View video 모비딕(Mobidic) : 김준현, 포차에서 처음 만난 20대와 술 마시며 고민 상담 해줌 <김준현의짠> 1회",
+      "english": "[My comrade, who defended truce line!]"
+    },
+    {
+      "korean": "[그는 에이스로 다시 태어난다] 전우야, 파이팅! [He is reborn as the ace] Comrades, fighting! 듣기 View video V Special : [Full] MBC <진짜 사나이 300> 제작발표회 생중계",
+      "english": "[He is reborn as the ace] Comrades, fighting!"
+    },
+    {
+      "korean": "전우이자 좋은 형이 되겠습니다. a good colleague and older brother to you. 듣기 View video C-JeS : 샤엘의 뮤지컬 <데스노트> 출근길~",
+      "english": "a good colleague and older brother to you."
+    },
+    {
+      "korean": "이젠 약간 전우들 같아, 그렇죠? I feel like we're all fellow soldiers, right? 듣기 View video PENTAGON : 펜타곤 - 'Gorilla' 첫방 비하인드 영상 (Debut week behind)",
+      "english": "I feel like we're all fellow soldiers, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "fellows in arms 발음듣기 전우. Friendict Level English-Korean Dictionary",
+      "english": "fellows in arms 발음"
+    },
+    {
+      "korean": "They were old army comrades. 발음듣기 그들은 예전에 전우였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were old army comrades. 발음"
+    },
+    {
+      "korean": "During the war, he fought with his comrades. 발음듣기 그 전쟁에서 그는 전우와 함께 싸웠다. Neungyule",
+      "english": "During the war, he fought with his comrades. 발음"
+    },
+    {
+      "korean": "He lost many comrades in this battle. 발음듣기 그는 이번 전투에서 많은 전우를 잃었다 Neungyule",
+      "english": "He lost many comrades in this battle. 발음"
+    },
+    {
+      "korean": "He rallied to the side of his wounded comrade. 발음듣기 그는 부상당한 전우의 곁으로 달려갔다. Friendict Level English-Korean Dictionary",
+      "english": "He rallied to the side of his wounded comrade. 발음"
+    }
+  ]
+}

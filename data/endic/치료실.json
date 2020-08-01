@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "치료실",
+      "hanja": " (治療室)",
+      "example": {},
+      "meanings": [
+        "Noun treatment room"
+      ]
+    },
+    {
+      "phrase": "치료실",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 infirmary"
+      ]
+    },
+    {
+      "phrase": "집중 치료실",
+      "hanja": " (集中治療室)",
+      "example": {},
+      "meanings": [
+        "an intensive care unit (ICU)"
+      ]
+    },
+    {
+      "phrase": "집중치료실",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 intensive care unit"
+      ]
+    },
+    {
+      "phrase": "신생아집중치료실",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 neonatal intensive care center"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "a unit for rehabilitating drug addicts",
+      "frequency": 0
+    },
+    {
+      "meaning": "sweatbox",
+      "frequency": 0
+    },
+    {
+      "meaning": "intensive care",
+      "frequency": 0
+    },
+    {
+      "meaning": "SICU",
+      "frequency": 0
+    },
+    {
+      "meaning": "intensive care ward",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "a unit for rehabilitating drug addicts 듣기 Add to Wordbook 마약 중독자 갱생 치료실 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a unit for rehabilitating drug addicts Add to Wordbook"
+    },
+    {
+      "korean": "The baby was in intensive care for 48 hours. 듣기 Add to Wordbook 그 아기는 48시간 동안 집중 치료실에 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The baby was in intensive care for 48 hours. Add to Wordbook"
+    },
+    {
+      "korean": "There was no doctors in a treatment room. 듣기 Add to Wordbook 치료실에는 의사들이 하나도 없었다. YBM All in All English-Korean Dictionary",
+      "english": "There was no doctors in a treatment room. Add to Wordbook"
+    },
+    {
+      "korean": "In a treatment room, another doctor gently wrapped his leg in a bandage and covered it with wet plaster. 듣기 Add to Wordbook 치료실에서 다른 의사 선생님이 부드럽게 그의 다리를 붕대로 감아 젖은 석고로 그것에 덮었다. YBM All in All English-Korean Dictionary",
+      "english": "In a treatment room, another doctor gently wrapped his leg in a bandage and covered it with wet plaster. Add to Wordbook"
+    },
+    {
+      "korean": "In a treatment room, another doctor put his leg in a cast. 듣기 Add to Wordbook 치료실에서, 다른 의사 선생님은 그의 다리를 깁스로 고정했다. YBM All in All English-Korean Dictionary",
+      "english": "In a treatment room, another doctor put his leg in a cast. Add to Wordbook"
+    }
+  ]
+}

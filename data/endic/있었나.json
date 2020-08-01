@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소에) be, (건물 등이) stand, be located (in/at), be situated, (도시 등이) lie",
+        "(시설·장치 등이) have, (시설이) be equipped with, be provided with",
+        "(존재하다) be, exist, (발견되다) be found"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective existent, existing (↔없다)",
+        "Adjective (↔없다)",
+        "Adjective (↔없다)"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb itda",
+        "Assistant adverb itda",
+        "Assistant adverb itda"
+      ]
+    },
+    {
+      "phrase": "계획은 성과가 있었나?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Did your plan pay off?"
+      ]
+    },
+    {
+      "phrase": "제가 놓친 칼럼이 있었나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Did I miss a column?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Has there been an accident?",
+      "frequency": 0
+    },
+    {
+      "meaning": "What happened at yesterday's meeting?",
+      "frequency": 0
+    },
+    {
+      "meaning": "Was the vehicle insured?",
+      "frequency": 0
+    },
+    {
+      "meaning": "HIB__",
+      "frequency": 0
+    },
+    {
+      "meaning": "Has there been a time when~",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이런 거 있었나요? Was this included? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Was this included?"
+    },
+    {
+      "korean": "뭔일 있었나요? Did something happen? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Did something happen?"
+    },
+    {
+      "korean": "뭔 일이 있었나? Did something happen? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Did something happen?"
+    },
+    {
+      "korean": "무슨 일이 있었나? Did something happen? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Did something happen?"
+    },
+    {
+      "korean": "가리는 사람이 있었나? Was there a person who hid their face? 듣기 View video NCT : みんな本当にありがとう！！",
+      "english": "Was there a person who hid their face?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Was the vehicle insured? 듣기 Add to Wordbook 그 차량이 보험에 가입되어 있었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Was the vehicle insured? Add to Wordbook"
+    },
+    {
+      "korean": "Was she wearing a seat belt? 듣기 Add to Wordbook 그녀가 안전벨트를 착용하고 있었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Was she wearing a seat belt? Add to Wordbook"
+    },
+    {
+      "korean": "Need you have paid so much? 듣기 Add to Wordbook 그렇게 많은 돈을 낼 필요가 있었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Need you have paid so much? Add to Wordbook"
+    },
+    {
+      "korean": "Was his advice ever any good? 듣기 Add to Wordbook 그의 충고가 조금이라도 무슨 쓸모가 있었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Was his advice ever any good? Add to Wordbook"
+    },
+    {
+      "korean": "What happened at yesterday’s meeting? 듣기 Add to Wordbook 어제 회의에서 무슨 일이 있었나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What happened at yesterday’s meeting? Add to Wordbook"
+    }
+  ]
+}

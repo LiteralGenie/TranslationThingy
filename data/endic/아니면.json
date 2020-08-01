@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "아니면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "or, either"
+      ]
+    },
+    {
+      "phrase": "아니다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be not, no"
+      ]
+    },
+    {
+      "phrase": "죽기 아니면 살기다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Do or die."
+      ]
+    },
+    {
+      "phrase": "운전해서 갈 건가요, 아니면?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Are we driving or what?"
+      ]
+    },
+    {
+      "phrase": "생방송이에요 아니면 녹음된 것이에요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is it live or recorded?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "or",
+      "frequency": 3
+    },
+    {
+      "meaning": "if not",
+      "frequency": 0
+    },
+    {
+      "meaning": "or else",
+      "frequency": 0
+    },
+    {
+      "meaning": "whether",
+      "frequency": 3
+    },
+    {
+      "meaning": "… or bust",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아니면은 그거 그... Or it's that... 듣기 View video NU'EST : [NU’EST] 🍫🍫🍫🍫🍫",
+      "english": "Or it's that..."
+    },
+    {
+      "korean": "아니면은 뭐 초코 케익? Or, chocolate cake? 듣기 View video MONSTA X : LIVE : 다시 🐢",
+      "english": "Or, chocolate cake?"
+    },
+    {
+      "korean": "너무 높은 거 아니면... If it's not too high... 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "If it's not too high..."
+    },
+    {
+      "korean": "요새 아니면 뭐... If it's not recent, then what... 듣기 View video OSEN : PENTAGON 펜타곤이 꼽은 가장 힘이 센 멤버는? #스타로드 03",
+      "english": "If it's not recent, then what..."
+    },
+    {
+      "korean": "아니면 딱 한 시간만 채워볼까? Or shall we do 1 hour of V LIVE? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Or shall we do 1 hour of V LIVE?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Is the movie dubbed or are there subtitles? 듣기 Add to Wordbook 그 영화는 더빙이 되어 있나요 아니면 자막이 나오나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Is the movie dubbed or are there subtitles? Add to Wordbook"
+    },
+    {
+      "korean": "Should promotion be based on merit or seniority? 듣기 Add to Wordbook 승진이 근무 실적을 기준으로 해야 하는가 아니면 연공서열을 기준으로 해야 하는가? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Should promotion be based on merit or seniority? Add to Wordbook"
+    },
+    {
+      "korean": "Are you coming or not? 듣기 Add to Wordbook 너 올 거니 (아니면) 안 올 거니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Are you coming or not? Add to Wordbook"
+    },
+    {
+      "korean": "You can shut up or get out! 듣기 Add to Wordbook 너 입 다물거나 아니면 나가! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can shut up or get out! Add to Wordbook"
+    },
+    {
+      "korean": "Shall we drive or go by train? 듣기 Add to Wordbook 차를 갖고 갈까 아니면 기차로 갈까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Shall we drive or go by train? Add to Wordbook"
+    }
+  ]
+}

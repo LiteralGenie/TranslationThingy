@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "체취",
+      "hanja": " (體臭)",
+      "example": {},
+      "meanings": [
+        "(몸에서 나는 냄새) body odor ((abb.)BO)",
+        "(특유의 느낌)"
+      ]
+    },
+    {
+      "phrase": "체취가 심하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have strong body odor"
+      ]
+    },
+    {
+      "phrase": "플로리다의 특이한 체취",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a distinctive flavor of Florida"
+      ]
+    },
+    {
+      "phrase": "사고후 시료체취 계통",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 post-accident sampling system"
+      ]
+    },
+    {
+      "phrase": "인간 체취",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "smell of human body"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "body odor",
+      "frequency": 0
+    },
+    {
+      "meaning": "deodorant",
+      "frequency": 0
+    },
+    {
+      "meaning": "have strong body odor",
+      "frequency": 0
+    },
+    {
+      "meaning": "gapo",
+      "frequency": 0
+    },
+    {
+      "meaning": "odortype",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "체취. 정답이 나왔어. Odor. We have the answer. 듣기 View video CRAYONPOP : 크레용팝의 첫 라이브방송 \"아는 용팝\" 나를 맞혀봐",
+      "english": "Odor. We have the answer."
+    },
+    {
+      "korean": "체취를 느낄 수 있나요? Fans may smell the scent. 듣기 View video WINNER : [REPLYA] WINNER 'FATE NUMBER FOR' COUNTDOWN LIVE",
+      "english": "Fans may smell the scent."
+    },
+    {
+      "korean": "그런 체취 때문에? - 응. Because of the smell? - Yes. 듣기 View video V COOKIE : [Full]SPECIAL WEEK - EP.3 OH MY GIRL (오마이걸)",
+      "english": "Because of the smell? - Yes."
+    },
+    {
+      "korean": "사인 CD를 조금 더 뭔가 체취가 느껴지게 해 주시겠어요? Can you add more affection? 듣기 View video DIA : [DIA] 매거진 VIEW와 함께 하는 정채연 화보현장 기습공개",
+      "english": "Can you add more affection?"
+    },
+    {
+      "korean": "원래 강아지 체취가 묻어있던 담요를 사용하시거나. Use a blanket that is covered with the dog's odor. 듣기 View video MADTOWN : 대원이의 동물농장 시즌2",
+      "english": "Use a blanket that is covered with the dog's odor."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It reeks of BO in here. 발음듣기 여기 체취가 정말 지독해. DARAKWON",
+      "english": "It reeks of BO in here. 발음"
+    },
+    {
+      "korean": "The smell of her pervaded the room. 발음듣기 방에서 그녀의 체취가 풍겼다 Neungyule",
+      "english": "The smell of her pervaded the room. 발음"
+    },
+    {
+      "korean": "He has an unusual odor. 발음듣기 그에게서는 독특한 체취가 난다 Neungyule",
+      "english": "He has an unusual odor. 발음"
+    },
+    {
+      "korean": "It’s supposed to neutralize body odor. 발음듣기 단지 체취를 완화시켜 줍니다. YBM All in All English-Korean Dictionary",
+      "english": "It’s supposed to neutralize body odor. 발음"
+    },
+    {
+      "korean": "His work reveals his idiosyncrasy. 발음듣기 그의 작품에는 그의 체취가 풍긴다 Dong-a's Prime English-Korean Dictionary",
+      "english": "His work reveals his idiosyncrasy. 발음"
+    }
+  ]
+}

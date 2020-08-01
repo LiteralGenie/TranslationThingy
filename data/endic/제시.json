@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "제시",
+      "hanja": " (提示)",
+      "example": {},
+      "meanings": [
+        "(의견을) suggestion, suggest, (formal) propose",
+        "(문서·표 등을) presentation, present, show, (증거 등을) produce",
+        "(가격을) quote (sth for sth)"
+      ]
+    },
+    {
+      "phrase": "jessie ( jessy )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 英, 구식, 모욕적 계집애[여자] 같은 사내(애)"
+      ]
+    },
+    {
+      "phrase": "Jesse",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 이름",
+        "Noun 성서 이새 ((다윗왕의 아버지))",
+        "Noun = JESSE TREE"
+      ]
+    },
+    {
+      "phrase": "Jessie",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 여자 이름 ((Jessica의 애칭))",
+        "Noun [종종 j~] 나약한 사내, 남자 동성애자"
+      ]
+    },
+    {
+      "phrase": "반증을 제시하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "produce contrary evidence",
+        "prove the contrary"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "presentation",
+      "frequency": 3
+    },
+    {
+      "meaning": "presentment",
+      "frequency": 0
+    },
+    {
+      "meaning": "Microsoft office",
+      "frequency": 0
+    },
+    {
+      "meaning": "bidding",
+      "frequency": 3
+    },
+    {
+      "meaning": "show",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[의견 제시] 끓는 물에 잠깐 넣어두고 물기를 빼야 되는 거 아니야? [Suggestion] Shall we boil it in water and drain it? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Suggestion] Shall we boil it in water and drain it?"
+    },
+    {
+      "korean": "제시해주기 위한 그런 오디오 북을! to find a right job. 듣기 View video V PICK! : [3년 전 오늘의 KIM DONG WAN] 낭랑하고 듣기 좋은 목소리를 가진 역대급 홍보대사 ✨김동완✨ (Dongwan’s V 3years ago)",
+      "english": "to find a right job."
+    },
+    {
+      "korean": "[상장계의 새로운 패러다임을 제시한 천재만재억재지니어스 닝닝] 뭐라고? [Another brilliant naming] What? 듣기 View video V PICK! : [TXT] 평생 상이라곤 툽 미모에 치여 다녀온 저세상뿐일 줄 알았는데..(왈칵)🏆💦 (TXT giving awards to MOA)",
+      "english": "[Another brilliant naming] What?"
+    },
+    {
+      "korean": "[제시 노래 '고민보다 Go', 제시 춤 'MIC Drop'] - 춤은 'MIC Drop' - 'MIC Drop!' [Song \"Go Go\", choreography \"MIC Drop\"] - The choreography for \"MIC Drop\". - \"MIC Drop\". 듣기 View video BTS : Run BTS! 2019 - EP.90",
+      "english": "[Song \"Go Go\", choreography \"MIC Drop\"] - The choreography for \"MIC Drop\". - \"MIC Drop\"."
+    },
+    {
+      "korean": "의견을 왜 제시해? Why did you make that suggestion? 듣기 View video BTS : Run BTS! 2019 - EP.74",
+      "english": "Why did you make that suggestion?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The results are represented in fig.3 below. 듣기 Add to Wordbook 그 결과는 아래 도표 3에 제시되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The results are represented in fig.3 below. Add to Wordbook"
+    },
+    {
+      "korean": "The results are presented in tabular form. 듣기 Add to Wordbook 그 결과는 표의 형식으로 제시되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The results are presented in tabular form. Add to Wordbook"
+    },
+    {
+      "korean": "He had unfairly presented a caricature of my views. 듣기 Add to Wordbook 그는 내 의견을 부당하게 희화하여 제시했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had unfairly presented a caricature of my views. Add to Wordbook"
+    },
+    {
+      "korean": "The party is offering low taxation as its main enticement. 듣기 Add to Wordbook 그 당에서는 주된 유도책으로 낮은 세금을 제시하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The party is offering low taxation as its main enticement. Add to Wordbook"
+    },
+    {
+      "korean": "This dictionary gives phonetic transcriptions of all headwords. 듣기 Add to Wordbook 이 사전에는 모든 표제어에 대해 음성 표기가 제시되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This dictionary gives phonetic transcriptions of all headwords. Add to Wordbook"
+    }
+  ]
+}

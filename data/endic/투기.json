@@ -1,0 +1,102 @@
+{
+  "phrases": [
+    {
+      "phrase": "투기",
+      "hanja": " (投機)",
+      "example": {},
+      "meanings": [
+        "[명사] speculation, [동사] speculate (in/on)"
+      ]
+    },
+    {
+      "phrase": "투기",
+      "hanja": " (鬪技)",
+      "example": {},
+      "meanings": [
+        "(맞붙어 싸우는 경기) one-on-one physical match"
+      ]
+    },
+    {
+      "phrase": "투기",
+      "hanja": " (投棄)",
+      "example": {},
+      "meanings": [
+        "[동사] (버리다) dump, throw away[out], dispose of"
+      ]
+    },
+    {
+      "phrase": "투기",
+      "hanja": " (妬忌)",
+      "example": {},
+      "meanings": [
+        "Noun jealousy"
+      ]
+    },
+    {
+      "phrase": "투기 지역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "speculative zone[area], speculation-prone zone[area]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "speculation",
+      "frequency": 3
+    },
+    {
+      "meaning": "flier",
+      "frequency": 3
+    },
+    {
+      "meaning": "dumping",
+      "frequency": 0
+    },
+    {
+      "meaning": "spec 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "stockjobbing",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "투기린즈, 순위발표식 입장 퍼포먼스는 누구의 아이디어인가요? To Girinz. Who's idea it was to enter the ranking announcement ceremony like that? 듣기 View video PLEDIS : [가은/윤진] 기린즈와 함께해요! 🦒",
+      "english": "To Girinz. Who's idea it was to enter the ranking announcement ceremony like that?"
+    },
+    {
+      "korean": "투기린즈, 명랑 운동회 코끼리코 립스틱 바르기에서 있었던 일은? To Girinz, what happened during \"putting on lipstick\" on the sport competition show? 듣기 View video PLEDIS : [가은/윤진] 기린즈와 함께해요! 🦒",
+      "english": "To Girinz, what happened during \"putting on lipstick\" on the sport competition show?"
+    },
+    {
+      "korean": "태권도 그러면 투기 종목을 싫어하시나요? Taekwondo. You don't like martial arts? 듣기 View video JTBC PLUS : 골든 포춘 쿠키 in 대기실 1st DAY / Backstage Golden Fortune Cookie Live 1st DAY",
+      "english": "Taekwondo. You don't like martial arts?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "uncontrolled dumping of toxic wastes 듣기 Add to Wordbook 단속을 받지 않는 유독성 폐기물 투기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "uncontrolled dumping of toxic wastes Add to Wordbook"
+    },
+    {
+      "korean": "a ban on the dumping of raw sewage at sea 듣기 Add to Wordbook 미처리 하수 해양 투기 금지법 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a ban on the dumping of raw sewage at sea Add to Wordbook"
+    },
+    {
+      "korean": "a ban on the dumping of radioactive waste at sea 듣기 Add to Wordbook 방사능 폐기물 해양 투기 금지 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a ban on the dumping of radioactive waste at sea Add to Wordbook"
+    },
+    {
+      "korean": "He likes to speculate on the stock market. 듣기 Add to Wordbook 그는 주식 시장에서 투기하기를 좋아한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He likes to speculate on the stock market. Add to Wordbook"
+    },
+    {
+      "korean": "He overspeculated and became bankrupt. 듣기 Add to Wordbook 그는 과잉투기를 해서 파산했다. 국제영어대학원대학교 신어사전",
+      "english": "He overspeculated and became bankrupt. Add to Wordbook"
+    }
+  ]
+}

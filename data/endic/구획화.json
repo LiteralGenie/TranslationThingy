@@ -1,0 +1,77 @@
+{
+  "phrases": [
+    {
+      "phrase": "구획화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 compartmentation"
+      ]
+    },
+    {
+      "phrase": "구획화모형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 compartmentalization model"
+      ]
+    },
+    {
+      "phrase": "구획화 현상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blocking artifact"
+      ]
+    },
+    {
+      "phrase": "구획",
+      "hanja": " (區劃)",
+      "example": {},
+      "meanings": [
+        "[명사] (구분) division; (한 구획) section; (시가지 등의) block, [동사] divide"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "compartmentation",
+      "frequency": 0
+    },
+    {
+      "meaning": "sectionalization",
+      "frequency": 0
+    },
+    {
+      "meaning": "compartmentalization",
+      "frequency": 0
+    },
+    {
+      "meaning": "zoned housing land",
+      "frequency": 0
+    },
+    {
+      "meaning": "compartmentalization model",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "zoned housing land 발음듣기 구획화된 주택 건설부지 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "zoned housing land 발음"
+    },
+    {
+      "korean": "Things are fenced, seem to be zoned off, but you're not really sure why it's zoned off. It seems an odd space. 발음듣기 울타리가 쳐져있어서 구획화 된 것 같지만 왜 공간이 나뉘어있는지는 잘 모릅니다. 이상한 공간처럼 보입니다. User translation Inaccurate information may be included due to the users' self-traslation. ccu(ssio****) Khan Academy",
+      "english": "Things are fenced, seem to be zoned off, but you're not really sure why it's zoned off. It seems an odd space. 발음"
+    },
+    {
+      "korean": "If the structure is still non-demarcated, whoever is responsible should go. 발음듣기 그 구조가 여전히 구획화되어있지 않다면, 책임자가 누구든 가야 한다. User translation Inaccurate information may be included due to the users' self-traslation. ENO(naja****) Web Collection",
+      "english": "If the structure is still non-demarcated, whoever is responsible should go. 발음"
+    },
+    {
+      "korean": "To date 34 million hectares have been demarcated, with over 27 million registered. 발음듣기 오늘날까지 34백만 헥타르가 구획화되었고, 27백만이넘는 헥타르가 등록되었다. User translation Inaccurate information may be included due to the users' self-traslation. ENO(naja****) Hansard",
+      "english": "To date 34 million hectares have been demarcated, with over 27 million registered. 발음"
+    }
+  ]
+}

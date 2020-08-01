@@ -1,0 +1,99 @@
+{
+  "types": {
+    "noun": {
+      "name_english": "Noun",
+      "name_korean": "명사",
+      "abbreviations_kkma": ["nng", "nnp", "nnb", "nnm", "nr", "np"]
+    },
+    "verb": {
+      "name_english": "Verb",
+      "name_korean": "동사",
+      "abbreviations_kkma": ["vv", "vxv"]
+    },
+    "adjective": {
+      "name_english": "Adjective",
+      "name_korean": "형용사",
+      "abbreviations_kkma": ["va", "vxa"]
+    },
+    "copula": {
+      "name_english": "Copula",
+      "name_korean": "지정사",
+      "abbreviations_kkma": ["vcp", "vcn"]
+    },
+    "determiner": {
+      "name_english": "Determiner",
+      "name_korean": "관형사",
+      "abbreviations_kkma": ["mdn", "mdt"]
+    },
+    "adverb": {
+      "name_english": "Adverb",
+      "name_korean": "부사",
+      "abbreviations_kkma": ["mag"]
+    },
+    "conjunction": {
+      "name_english": "Conjunction",
+      "name_korean": "접속사",
+      "abbreviations_kkma": ["mac"]
+    },
+    "exclamation": {
+      "name_english": "Exclamation",
+      "name_korean": "감탄사",
+      "abbreviations_kkma": ["ic"]
+    },
+    "particle": {
+      "name_english": "Particle",
+      "name_korean": "조사",
+      "abbreviations_kkma": ["jks", "jkc", "jkg", "jko", "jkm", "jki", "jkq", "jc", "jx"]
+    },
+    "eomi": {
+      "name_english": "Ending",
+      "name_korean": "어미",
+      "abbreviations_kkma": ["efn", "efq", "efo", "efa", "efi", "efr", "ece", "ecs", "ecd", "etn", "etd"]
+    },
+    "preeomi": {
+      "name_english": "Pre-final Ending",
+      "name_korean": "선어말어미",
+      "abbreviations_kkma": ["eph", "ept", "epp"]
+    },
+    "suffix": {
+      "name_english": "Suffix",
+      "name_korean": "접미사",
+      "abbreviations_kkma": ["xsn", "xsv", "xsa"]
+    },
+    "root": {
+      "name_english": "Root",
+      "name_korean": "어근",
+      "abbreviations_kkma": ["xr"]
+    },
+    "punctuation": {
+      "name_english": "Punctuation",
+      "name_korean": "구두점",
+      "abbreviations_kkma": ["sf", "se", "ss", "sp", "so"]
+    },
+    "loan": {
+      "name_english": "Loan Word",
+      "name_korean": "외국어",
+      "abbreviations_kkma": ["ol"]
+    },
+    "hanja": {
+      "name_english": "Hanja",
+      "name_korean": "한자",
+      "abbreviations_kkma": ["oh"]
+    },
+    "symbol": {
+      "name_english": "Symbol",
+      "name_korean": "기호",
+      "abbreviations_kkma": ["sw"]
+    },
+    "number": {
+      "name_english": "Number",
+      "name_korean": "숫자",
+      "abbreviations_kkma": ["on"]
+    },
+    "unknown": {
+      "name_english": "Unknown",
+      "name_korean": "미등록어",
+      "abbreviations_kkma": ["un"]
+    }
+  }
+}

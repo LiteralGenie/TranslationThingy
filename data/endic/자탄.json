@@ -1,0 +1,68 @@
+{
+  "phrases": [
+    {
+      "phrase": "자탄",
+      "hanja": " (自歎/自嘆)",
+      "example": {},
+      "meanings": [
+        "자탄하다 complain[grieve] to oneself, feel grief for oneself"
+      ]
+    },
+    {
+      "phrase": "종말유도자탄",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 terminally guided submissile (TGSM)"
+      ]
+    },
+    {
+      "phrase": "자탄 정",
+      "hanja": " (北谷町(북곡정))",
+      "example": {},
+      "meanings": [
+        "지명 Chatan"
+      ]
+    },
+    {
+      "phrase": "지능자탄",
+      "hanja": " (知能子彈)",
+      "example": {},
+      "meanings": [
+        "(약어: BAT) Brilliant Antitank Munition"
+      ]
+    },
+    {
+      "phrase": "자탄 장입 분산 폭탄",
+      "hanja": " (子彈裝入分散爆彈)",
+      "example": {},
+      "meanings": [
+        "(약어: CBU) Cluster Bomb Unit"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bomblet unit",
+      "frequency": 0
+    },
+    {
+      "meaning": "blackout bomb",
+      "frequency": 0
+    },
+    {
+      "meaning": "terminally guided sub-missile",
+      "frequency": 0
+    },
+    {
+      "meaning": "GATOR MINE",
+      "frequency": 0
+    },
+    {
+      "meaning": "Sensor Fuzed Munition For Artillery",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

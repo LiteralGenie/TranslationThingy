@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "출연",
+      "hanja": " (出演)",
+      "example": {},
+      "meanings": [
+        "appearance, appear, make an appearance"
+      ]
+    },
+    {
+      "phrase": "출연",
+      "hanja": " (出捐)",
+      "example": {},
+      "meanings": [
+        "Noun donation, contribution"
+      ]
+    },
+    {
+      "phrase": "찬조 출연",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "guest appearance"
+      ]
+    },
+    {
+      "phrase": "영화에 출연하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be[appear, act] in a movie[film]"
+      ]
+    },
+    {
+      "phrase": "드라마에 출연하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "appear in a TV series[drama]",
+        "play a role in a TV series[drama]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "appearance",
+      "frequency": 2
+    },
+    {
+      "meaning": "gig",
+      "frequency": 0
+    },
+    {
+      "meaning": "a TV appearance TV",
+      "frequency": 0
+    },
+    {
+      "meaning": "debut",
+      "frequency": 1
+    },
+    {
+      "meaning": "star-studded",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 노래 진짜 민주 지금 출연 안돼요? This song is really... Min Ju, you can't appear? 듣기 View video IZ*ONE : 룸메즈의 간식타임!",
+      "english": "This song is really... Min Ju, you can't appear?"
+    },
+    {
+      "korean": "이거 스피커폰으로 해서 목소리 출연 해 주실 수 있어요? I'll put you on speakerphone. Will you say hi to fans? 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "I'll put you on speakerphone. Will you say hi to fans?"
+    },
+    {
+      "korean": "형! - 응 - 나랑 도겸이 형 지금 V LIVE 중인데 잠깐 출연할래? Hey. - Yes. - DK and I are on V LIVE. Do you want to be on it, too? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "Hey. - Yes. - DK and I are on V LIVE. Do you want to be on it, too?"
+    },
+    {
+      "korean": "그럼 만약에 스피커 하면 V LIVE 중인데 출연해 주실 수 있어요? I'll put you on the speakerphone. We're on V LIVE. Will you say hi to fans? 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "I'll put you on the speakerphone. We're on V LIVE. Will you say hi to fans?"
+    },
+    {
+      "korean": "형 나오신 김에 아예 출연을 하시죠? Will you appear on our V LIVE? 듣기 View video Stray Kids : \"네 손님\" 어서오십시오 필릭스네 식당입니다!👨‍🍳",
+      "english": "Will you appear on our V LIVE?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Most of the cast act well. 발음듣기 출연진 대부분이 연기를 잘 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of the cast act well. 발음"
+    },
+    {
+      "korean": "She regularly appears on TV. 발음듣기 그녀는 정기적으로 TV에 출연한다[나온다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She regularly appears on TV. 발음"
+    },
+    {
+      "korean": "He made a guest appearance on the show. 발음듣기 그는 그 프로에 게스트로 출연했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He made a guest appearance on the show. 발음"
+    },
+    {
+      "korean": "The cast must all be on (the) set by 7 in the morning. 발음듣기 출연진은 모두 아침 7시까지 촬영장에 나와야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cast must all be on (the) set by 7 in the morning. 발음"
+    },
+    {
+      "korean": "There was a mystery guest on the programme. 발음듣기 그 프로에 좀 신비스러운 출연자가 한 명 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was a mystery guest on the programme. 발음"
+    }
+  ]
+}

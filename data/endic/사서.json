@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "사서",
+      "hanja": " (司書)",
+      "example": {},
+      "meanings": [
+        "librarian"
+      ]
+    },
+    {
+      "phrase": "sarsa",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (=SARSAPARILLA)"
+      ]
+    },
+    {
+      "phrase": "사다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(돈을 주고) buy, get, (formal) purchase",
+        "(미움·환심·부러움 등을)",
+        "(태도·가치 등을 인정하다) praise, value, recognize, acknowledge"
+      ]
+    },
+    {
+      "phrase": "사서 고생(을) 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pay the price to go through hardships"
+      ]
+    },
+    {
+      "phrase": "사서 고생하지 말자.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Let's not borrow trouble."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "librarian",
+      "frequency": 1
+    },
+    {
+      "meaning": "wordbook",
+      "frequency": 0
+    },
+    {
+      "meaning": "bibliothecary",
+      "frequency": 0
+    },
+    {
+      "meaning": "so to speak Sasu",
+      "frequency": 0
+    },
+    {
+      "meaning": "stock up (on/with something)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "몇 개 샀어? - 3 개 - 3개 사서 2개 먹었어? How many did you buy? - 3. - You had 2 out of 3? 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "How many did you buy? - 3. - You had 2 out of 3?"
+    },
+    {
+      "korean": "사서 드세요! Buy and eat it! 듣기 View video AB6IX : AB6IX 화이트데이",
+      "english": "Buy and eat it!"
+    },
+    {
+      "korean": "항상 사서... - 드려? They buy it... - You give it? 듣기 View video TWICE : DAHYUN Happy Birthday V LIVE",
+      "english": "They buy it... - You give it?"
+    },
+    {
+      "korean": "이런 걸 사서 - 진짜요? at the store and... - Really? 듣기 View video Dispatch : [ⓓxV] “여친이들의 달콤쌉싸름한 초콜릿 만들기” (여자친구 : GFRIEND)",
+      "english": "at the store and... - Really?"
+    },
+    {
+      "korean": "치킨 사서 온다고요? Are you going to come here with a chicken? 듣기 View video BTS : 심심하면 보세요(답답함 주의!)",
+      "english": "Are you going to come here with a chicken?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She is a librarian. 발음듣기 사서 YBM All in All English-Korean Dictionary",
+      "english": "She is a librarian. 발음"
+    },
+    {
+      "korean": "to buy cheap and sell dear 발음듣기 싸게 사서 비싸게 팔다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to buy cheap and sell dear 발음"
+    },
+    {
+      "korean": "Let’s get a carry-out. 발음듣기 포장(해 주는) 음식을 사서 먹자. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let’s get a carry-out. 발음"
+    },
+    {
+      "korean": "They pay someone to do the cleaning. 발음듣기 그들은 사람을 사서 청소를 시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They pay someone to do the cleaning. 발음"
+    },
+    {
+      "korean": "Radio Netherlands, PO Box 222, Hilversum 발음듣기 힐베르숨, 사서함 222번, 라디오 네덜란드 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Radio Netherlands, PO Box 222, Hilversum 발음"
+    }
+  ]
+}

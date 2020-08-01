@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "밖",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(바깥) the outside, the open, exterior",
+        "(어떤 범위·한도 등을 넘어선 것)"
+      ]
+    },
+    {
+      "phrase": "밖에",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "밖의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "outside",
+        "outdoor",
+        "external"
+      ]
+    },
+    {
+      "phrase": "그밖의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "other",
+        "additional"
+      ]
+    },
+    {
+      "phrase": "이 밖에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "besides",
+        "above this"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "outside",
+      "frequency": 2
+    },
+    {
+      "meaning": "forth",
+      "frequency": 2
+    },
+    {
+      "meaning": "else",
+      "frequency": 2
+    },
+    {
+      "meaning": "근로자의 날",
+      "frequency": 0
+    },
+    {
+      "meaning": "overboard",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "인, 인앤밖? In and Outside? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "In and Outside?"
+    },
+    {
+      "korean": "왜 이렇게 비가, 밖에 비가 와서 그런가? Is it because it's raining outside? 듣기 View video ITZY : [ #채령 ] 령채의 목요일💕",
+      "english": "Is it because it's raining outside?"
+    },
+    {
+      "korean": "용 근데 지금 밖에 있을 수도 있어 - 그렇지? But Yong may be outside. - Right? 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "But Yong may be outside. - Right?"
+    },
+    {
+      "korean": "오늘 같이 예쁜 날에 밖에 나가야 되는데 그렇죠? On a pretty day like this, we need to go out right? 듣기 View video ASTRO : 딴콩 두두등장🥜",
+      "english": "On a pretty day like this, we need to go out right?"
+    },
+    {
+      "korean": "밖에서 자요 저? I sleep outside? 듣기 View video GOT7 : 달밤의 달디🌙🌙",
+      "english": "I sleep outside?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He went to the window and peered out. 발음듣기 그가 창문으로 가더니 밖을 응시했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He went to the window and peered out. 발음"
+    },
+    {
+      "korean": "He donned his jacket and went out. 발음듣기 그는 윗도리를 입고 밖으로 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He donned his jacket and went out. 발음"
+    },
+    {
+      "korean": "A dolphin leapt out of the water. 발음듣기 돌고래 한 마리가 물 밖으로 뛰어올랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A dolphin leapt out of the water. 발음"
+    },
+    {
+      "korean": "She paced up and down outside the room. 발음듣기 그녀는 방 밖에서 이리저리 서성거렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She paced up and down outside the room. 발음"
+    },
+    {
+      "korean": "beyond/outside/within the bounds of decency 발음듣기 예의의 한도를 넘어선/한도 밖의/한도 내의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "beyond/outside/within the bounds of decency 발음"
+    }
+  ]
+}

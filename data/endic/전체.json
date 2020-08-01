@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "전체",
+      "hanja": " (全體)",
+      "example": {},
+      "meanings": [
+        "the whole (of)"
+      ]
+    },
+    {
+      "phrase": "전체의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "whole",
+        "entire",
+        "general"
+      ]
+    },
+    {
+      "phrase": "전체로서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as a whole",
+        "collectively",
+        "in the aggregate"
+      ]
+    },
+    {
+      "phrase": "전체주의",
+      "hanja": " (全體主義)",
+      "example": {},
+      "meanings": [
+        "totalitarianism"
+      ]
+    },
+    {
+      "phrase": "전체에 걸쳐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "all over",
+        "throughout"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "whole",
+      "frequency": 3
+    },
+    {
+      "meaning": "gamut",
+      "frequency": 0
+    },
+    {
+      "meaning": "entirety",
+      "frequency": 0
+    },
+    {
+      "meaning": "totality",
+      "frequency": 0
+    },
+    {
+      "meaning": "wholeness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "약간 얼굴 전체적으로 잿빛 올라오는 거 느끼세요?",
+      "english": "Also, your face looks grayish now."
+    },
+    {
+      "korean": "우리가 B조에서는 1등을 했지만 전체에서는...",
+      "english": "We did 1st place in Group B but in the entire group..."
+    },
+    {
+      "korean": "[All, 이 프로그램은 모든 연령의 시청자가 시청할 수 있습...] 마마무TV는 전체 이용가!",
+      "english": "[ALL][This show's available to viewers of all ages...] MAMAMOO TV is for everyone!"
+    },
+    {
+      "korean": "전체적인 거로?",
+      "english": "As a whole?"
+    },
+    {
+      "korean": "오늘 방송 전체적으로 저...",
+      "english": "throughout the show."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 소도시 전체가 축제 분위기이다.",
+      "english": "The whole town is in festive mood."
+    },
+    {
+      "korean": "안개가 곧 계곡 전체를 에워쌌다.",
+      "english": "The fog soon encompassed the whole valley."
+    },
+    {
+      "korean": "홍수로 그 지역 전체가 완전 파괴되었다.",
+      "english": "The floods caused havoc throughout the area."
+    },
+    {
+      "korean": "테라스는 그 집의 폭 전체를 따라 나 있다.",
+      "english": "The terrace runs the full width of the house."
+    },
+    {
+      "korean": "집 안 전체에 시큼한 냄새가 배어 있었다.",
+      "english": "The entire house was pervaded by a sour smell."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "범위",
+      "hanja": " (範圍)",
+      "example": {},
+      "meanings": [
+        "scope, range, scale; (한계) limit, bounds"
+      ]
+    },
+    {
+      "phrase": "가능한 범위에서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as much[far] as possible",
+        "within the limits of the possible[possibility]"
+      ]
+    },
+    {
+      "phrase": "활동 범위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the sphere of activity"
+      ]
+    },
+    {
+      "phrase": "적용의 범위",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the limit of application"
+      ]
+    },
+    {
+      "phrase": "범위를 한정하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "set limits[bounds] to"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "range",
+      "frequency": 2
+    },
+    {
+      "meaning": "reach",
+      "frequency": 2
+    },
+    {
+      "meaning": "sweep",
+      "frequency": 2
+    },
+    {
+      "meaning": "scale",
+      "frequency": 2
+    },
+    {
+      "meaning": "scope",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "시험 범위야 뭐야? Is he studying for an exam or what? 듣기 View video 콬TV (WHYNOT) : 난 너를 믿었던 만큼 내 친구도 믿었기에 [가두리횟집] EP03",
+      "english": "Is he studying for an exam or what?"
+    },
+    {
+      "korean": "범위가 넓어지긴 하거든요? I mean of course my big hands help me pick up the chords. 듣기 View video ATEEZ : 호화롭게 기습라이브 시작🐶⭐️",
+      "english": "I mean of course my big hands help me pick up the chords."
+    },
+    {
+      "korean": "슈퍼 히어로가 되면 뭔가 할 수 있는 범위가 넓어지지 않을까? I think superheroes can do more! 듣기 View video V COOKIE : [Full] UP10TION X LieV - 업텐션의 눕방라이브!",
+      "english": "I think superheroes can do more!"
+    },
+    {
+      "korean": "가동 범위라고 하지? It's called the range of motion, right? 듣기 View video MONSTA X : LIVE : 190718 🐰",
+      "english": "It's called the range of motion, right?"
+    },
+    {
+      "korean": "바람 피지 마요 - 저희 팬들 범위가... Don't cheat on us. - We range our fans... 듣기 View video NCT : goodnight & good morning💚NEO CITY💚",
+      "english": "Don't cheat on us. - We range our fans..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "These forests cover a broad span of latitudes. 발음듣기 이들 숲은 아주 넓은 범위의 위도에 걸쳐 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These forests cover a broad span of latitudes. 발음"
+    },
+    {
+      "korean": "outside sb’s area of competence 발음듣기 …의 권한 범위를 넘어서는 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "outside sb’s area of competence 발음"
+    },
+    {
+      "korean": "She has a wide circle of friends. 발음듣기 그녀는 교제 범위가 넓다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She has a wide circle of friends. 발음"
+    },
+    {
+      "korean": "Our powers are limited in scope. 발음듣기 우리의 힘[세력]은 범위가 한정적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our powers are limited in scope. 발음"
+    },
+    {
+      "korean": "This was outside the range of his experience. 발음듣기 이것은 그의 경험 범위 밖에 있는 일이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This was outside the range of his experience. 발음"
+    }
+  ]
+}

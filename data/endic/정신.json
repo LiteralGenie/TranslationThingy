@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "정신",
+      "hanja": " (精神)",
+      "example": {},
+      "meanings": [
+        "(마음, 영혼) (마음) mind, spirit, (영혼) soul",
+        "(의식) consciousness"
+      ]
+    },
+    {
+      "phrase": "정신(이) 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "come to one's senses",
+        "come to one's senses",
+        "to become conscious"
+      ]
+    },
+    {
+      "phrase": "정신(이) 들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to become conscious",
+        "come to one's senses"
+      ]
+    },
+    {
+      "phrase": "정신(을) 뽑다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pull out someone's mind"
+      ]
+    },
+    {
+      "phrase": "정신(이) 빠지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "One's senses fall out",
+        "One's mind falls out",
+        "One's mind indulges in something"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "spirit",
+      "frequency": 3
+    },
+    {
+      "meaning": "mind",
+      "frequency": 3
+    },
+    {
+      "meaning": "soul",
+      "frequency": 3
+    },
+    {
+      "meaning": "sense",
+      "frequency": 3
+    },
+    {
+      "meaning": "Psyche",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "정신 붙들어매자! Get it together! 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "Get it together!"
+    },
+    {
+      "korean": "제정신이야 다들? Are you out of your mind? 듣기 View video IU : [IU TV] 투 머치 토커 아이유",
+      "english": "Are you out of your mind?"
+    },
+    {
+      "korean": "네가 지금 제정신이야? Are you out of your mind? 듣기 View video 플레이리스트 (Playlist) : 존잘 연하가 선배 꼬시는 법 [엑스엑스(XX)] - EP.05",
+      "english": "Are you out of your mind?"
+    },
+    {
+      "korean": "정신 없어, 다 나가요 다 나가! - 나도 한 입만, 이거 뭐야? It's chaos here. Everyone, out! - Let me try. What's this? 듣기 View video TOMORROW X TOGETHER : 태현 탄신일❣",
+      "english": "It's chaos here. Everyone, out! - Let me try. What's this?"
+    },
+    {
+      "korean": "젝키의 꽃 - 갑자기... - 갑자기... 정신 못 차렸다가? Flower of SECHSKIES. - Suddenly? - After forgetting all things? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Flower of SECHSKIES. - Suddenly? - After forgetting all things?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The children were making an awful din. 듣기 Add to Wordbook 아이들이 정신없이 떠들어대고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The children were making an awful din. Add to Wordbook"
+    },
+    {
+      "korean": "He advised his client to plead insanity. 듣기 Add to Wordbook 그는 의뢰인에게 정신 이상이라는 답변을 하도록 조언했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He advised his client to plead insanity. Add to Wordbook"
+    },
+    {
+      "korean": "They worked frantically to finish on time. 듣기 Add to Wordbook 그들은 시간에 맞춰 끝마치기 위해 정신없이 일을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They worked frantically to finish on time. Add to Wordbook"
+    },
+    {
+      "korean": "The exhibition captures the spirit of the age/times. 듣기 Add to Wordbook 그 전시회는 시대정신을 포착해 놓고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The exhibition captures the spirit of the age/times. Add to Wordbook"
+    },
+    {
+      "korean": "He was suffering from some form of psychiatric disorder. 듣기 Add to Wordbook 그는 일종의 정신 장애를 앓고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was suffering from some form of psychiatric disorder. Add to Wordbook"
+    }
+  ]
+}

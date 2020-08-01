@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "지원금",
+      "hanja": " (支援金)",
+      "example": {},
+      "meanings": [
+        "support fund"
+      ]
+    },
+    {
+      "phrase": "지원금을 끊다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cut off funding"
+      ]
+    },
+    {
+      "phrase": "군목지원금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 chaplain fund"
+      ]
+    },
+    {
+      "phrase": "지역고용촉진지원금",
+      "hanja": " (地域雇傭促進支援金)",
+      "example": {},
+      "meanings": [
+        "법률 local employment promotion support fund, local employment promotion subsidy"
+      ]
+    },
+    {
+      "phrase": "지원금을 주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "give supporting fund"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "handout",
+      "frequency": 0
+    },
+    {
+      "meaning": "subvention",
+      "frequency": 0
+    },
+    {
+      "meaning": "side payment",
+      "frequency": 0
+    },
+    {
+      "meaning": "Application fee",
+      "frequency": 0
+    },
+    {
+      "meaning": "subsidy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[지원금 없이 100만 뷰?] [Without any support?] View video Hyomstore : ep.7 제품선정 완료! MD들의 바이럴영상 도전기!",
+      "english": "[Without any support?]"
+    },
+    {
+      "korean": "그런데 지원금은 없어. There is no funding. 듣기 View video V WEB DRAMA : [긍정이 체질] 1화 - 나도 이제 영화감독이다!!!",
+      "english": "There is no funding."
+    },
+    {
+      "korean": "아니, 지원작으로 뽑혔는데 지원금이 없다는 게 그게 말이 맞나? We were chosen to receive funding, but there's no funding? 듣기 View video V WEB DRAMA : [긍정이 체질] 1화 - 나도 이제 영화감독이다!!!",
+      "english": "We were chosen to receive funding, but there's no funding?"
+    },
+    {
+      "korean": "작년까지 유지되던 지원금이 통보도 없이 사라지다니요? How can the grant just disappear when it was fine last year? 듣기 View video V WEB DRAMA : [긍정이 체질] 1화 - 나도 이제 영화감독이다!!!",
+      "english": "How can the grant just disappear when it was fine last year?"
+    },
+    {
+      "korean": "엄청 신기하네. - 이제 약속대로 지원금 받아 주시죠. That's impressive. - Now, collect the funding like you promised. 듣기 View video V WEB DRAMA : [긍정이 체질] 3화",
+      "english": "That's impressive. - Now, collect the funding like you promised."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Japan has pledged $100 million in humanitarian aid. 발음듣기 일본이 인도주의적 지원금으로 1억 달러를 약속했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Japan has pledged $100 million in humanitarian aid. 발음"
+    },
+    {
+      "korean": "Some $10 million in aid was funnelled into the country through government agencies. 발음듣기 약 천만 달러의 지원금이 정부 기관들을 통해 그 나라로 전달되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some $10 million in aid was funnelled into the country through government agencies. 발음"
+    },
+    {
+      "korean": "The infant care support fund is throwing childbearing women a lifeline. 발음듣기 육아지원금은 출산 여성들을 돕는 정책이다. 국제영어대학원대학교 신어사전",
+      "english": "The infant care support fund is throwing childbearing women a lifeline. 발음"
+    },
+    {
+      "korean": "Soforthilfe for small businesses 발음듣기 자영업자를 위한 즉시 지원금 국제영어대학원대학교 신어사전",
+      "english": "Soforthilfe for small businesses 발음"
+    },
+    {
+      "korean": "\"We consider injecting the remaining amount is better, but the plan may be scrapped if protests continue,\" he said at the National Assembly audit of state-run banks at the Industrial Bank of Korea headquarters in Seoul. 발음듣기 그는 서울 기업은행 본사에서 열린 국책은행 국정감사에서 \"남은 액수의 지원금을 투입하는 게 더 낫다고 생각하지만, 시위가 계속된다면 이를 폐기할 수도 있다\"고 말했다. The Korea Times",
+      "english": "\"We consider injecting the remaining amount is better, but the plan may be scrapped if protests continue,\" he said at the National Assembly audit of state-run banks at the Industrial Bank of Korea headquarters in Seoul. 발음"
+    }
+  ]
+}

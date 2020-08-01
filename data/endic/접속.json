@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "접속",
+      "hanja": " (接續)",
+      "example": {},
+      "meanings": [
+        "access"
+      ]
+    },
+    {
+      "phrase": "접속/상호연결(장치)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 interface and interconnect (I&I)"
+      ]
+    },
+    {
+      "phrase": "인터넷에 접속하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get on the Internet",
+        "get online",
+        "connect to the Internet"
+      ]
+    },
+    {
+      "phrase": "접속 코드",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "access code (for)"
+      ]
+    },
+    {
+      "phrase": "웹 사이트에 접속하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "connect to a website"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "connection",
+      "frequency": 3
+    },
+    {
+      "meaning": "hookup",
+      "frequency": 0
+    },
+    {
+      "meaning": "transshipment 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "connecting",
+      "frequency": 0
+    },
+    {
+      "meaning": "terminating",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "접속 - 손가락질 아니에요? Access (in Korean). - Are you pointing fingers at him? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "Access (in Korean). - Are you pointing fingers at him?"
+    },
+    {
+      "korean": "긁어보고 싶은데 - 이거 접속해서 보는 건가? I want to scratch it. - Is it an url link to access? 듣기 View video SECHSKIES : [Replay] SECHSKIES - COMEBACK LIVE '젝다방 포 유 (SECHDABANG FOR YOU)'",
+      "english": "I want to scratch it. - Is it an url link to access?"
+    },
+    {
+      "korean": "제일 먼저 네이버 OGQ마켓 접속! First go to Naver OGQ Market! 듣기 View video V CREW : [V CREW] 로디 어나운스‼️ - 뭐 빠지는 거 하나 없이 전부 러블리한 내 스티커..🤭 보라💜귀여워하라💛다운받으라❤️",
+      "english": "First go to Naver OGQ Market!"
+    },
+    {
+      "korean": "아니~ 어제 동시 접속 2백 명 실화야? Can you believe 200 people watched it? 듣기 View video 콬TV (WHYNOT) : 10년된 남사친과 공개연애를 시작했다 #공개고백 #거짓말 [리얼:타임:러브2] EP1",
+      "english": "Can you believe 200 people watched it?"
+    },
+    {
+      "korean": "지금 깜짝 V LIVE 켰는데 과연 10초 안에 얼마나 접속... We just started V LIVE without a notice. Let's see how many will tune in within 10 seconds. 듣기 View video NCT : we need your love💚💚 그리고 또 다른 이야기 하면서 또 한번 다시",
+      "english": "We just started V LIVE without a notice. Let's see how many will tune in within 10 seconds."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Here are some live links to other aviation-related web pages. 듣기 Add to Wordbook 다른 비행 관련 웹페이지들에 접속 기능이 되는 링크가 여기 몇 가지 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Here are some live links to other aviation-related web pages. Add to Wordbook"
+    },
+    {
+      "korean": "I’m jacking into the Internet now. 듣기 Add to Wordbook 난 지금 인터넷 접속 중이야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m jacking into the Internet now. Add to Wordbook"
+    },
+    {
+      "korean": "the interface between computer and printer 듣기 Add to Wordbook 컴퓨터와 프린터 사이의 접속기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the interface between computer and printer Add to Wordbook"
+    },
+    {
+      "korean": "I’m having problems with my Internet connection. 듣기 Add to Wordbook 내 인터넷 접속에 문제가 있어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’m having problems with my Internet connection. Add to Wordbook"
+    },
+    {
+      "korean": "I keep getting disconnected when I’m online. 듣기 Add to Wordbook 내가 온라인 이용 중에 계속 접속이 끊긴다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I keep getting disconnected when I’m online. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "현상",
+      "hanja": " (現像)",
+      "example": {},
+      "meanings": [
+        "[동사] (사진) develop, have[get] sth developed"
+      ]
+    },
+    {
+      "phrase": "현상",
+      "hanja": " (現狀)",
+      "example": {},
+      "meanings": [
+        "(현재의 상태) the status quo, present[current] state[situation], present[actual, existing] condition, existing state[circumstances]"
+      ]
+    },
+    {
+      "phrase": "현상",
+      "hanja": " (現象)",
+      "example": {},
+      "meanings": [
+        "(사물의 모양·상태) phenomenon (phenomena)"
+      ]
+    },
+    {
+      "phrase": "현상",
+      "hanja": " (懸賞)",
+      "example": {},
+      "meanings": [
+        "(상품·상금 등을 거는 것)"
+      ]
+    },
+    {
+      "phrase": "병목현상",
+      "hanja": " (甁목現象)",
+      "example": {},
+      "meanings": [
+        "bottleneck phenomenon"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "phenomenon",
+      "frequency": 1
+    },
+    {
+      "meaning": "status quo",
+      "frequency": 0
+    },
+    {
+      "meaning": "prize 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "the actual state",
+      "frequency": 0
+    },
+    {
+      "meaning": "state of affairs",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[좀처럼 보기 힘든 오디오 기근 현상...] [Silence like this is not easy to come by in this V LIVE...] View video M2 : [Full] TOMORROW X TOGETHER Comeback Show",
+      "english": "[Silence like this is not easy to come by in this V LIVE...]"
+    },
+    {
+      "korean": "['물먹는 하마' 아보카도, 물 부족 현상 불러일으켜] [진짜였음] 이제 가뭄이... [Avocado triggers water shortage...] So it leads to draught. 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.14 딜리버리 푸드 파이터 上 (Delivery Food Fighter #1)",
+      "english": "[Avocado triggers water shortage...] So it leads to draught."
+    },
+    {
+      "korean": "너무 좋은 현상 아니에요? Isn't that a good sign? 듣기 View video V COOKIE : [Full] Brown Eyed Girls X Eating Show - 브라운 아이드 걸스 X 같이 먹어요",
+      "english": "Isn't that a good sign?"
+    },
+    {
+      "korean": "더비 현상 - 나름 재밌지 않아요? Deobi phenomenon. - Isn't it cool? 듣기 View video THE BOYZ : Halo Berlin",
+      "english": "Deobi phenomenon. - Isn't it cool?"
+    },
+    {
+      "korean": "신기한 것 같아 무슨 현상일까, 이게? It's amazing. What kind of phenomenon is this? 듣기 View video THE BOYZ : Halo Berlin",
+      "english": "It's amazing. What kind of phenomenon is this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The moon exerts a force on the earth that causes the tides. 발음듣기 달은 지구에 조수 간만 현상을 가져오는 인력을 가한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The moon exerts a force on the earth that causes the tides. 발음"
+    },
+    {
+      "korean": "The causes of the phenomenon are still incompletely understood. 발음듣기 그 현상의 원인들에 대한 이해가 아직 불완전하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The causes of the phenomenon are still incompletely understood. 발음"
+    },
+    {
+      "korean": "a belief in the supernatural 발음듣기 초자연적 현상에 대한 믿음 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a belief in the supernatural 발음"
+    },
+    {
+      "korean": "The handlebars developed a wobble. 발음듣기 핸들 바가 흔들리는 현상이 생겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The handlebars developed a wobble. 발음"
+    },
+    {
+      "korean": "I had the film developed yesterday. 발음듣기 나는 그 필름을 어제 현상시켰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I had the film developed yesterday. 발음"
+    }
+  ]
+}

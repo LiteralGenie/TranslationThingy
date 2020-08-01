@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "짓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "act"
+      ]
+    },
+    {
+      "phrase": "짓-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Affix jit-",
+        "Affix jung-"
+      ]
+    },
+    {
+      "phrase": "나쁜 짓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a wrong",
+        "an evil deed",
+        "a misdeed"
+      ]
+    },
+    {
+      "phrase": "못된 짓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an evil deed",
+        "a misdeed",
+        "a wrong act"
+      ]
+    },
+    {
+      "phrase": "몹쓸 짓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an evil deed",
+        "a misdeed",
+        "a vice"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "장난",
+      "frequency": 0
+    },
+    {
+      "meaning": "act",
+      "frequency": 3
+    },
+    {
+      "meaning": "mischief",
+      "frequency": 3
+    },
+    {
+      "meaning": "stupidity",
+      "frequency": 3
+    },
+    {
+      "meaning": "frivolity",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "또 뭔 짓 했어? What did you do? 듣기 View video MAMAMOO : [MMMTV6] EP13 비글로 돌아온 마마무",
+      "english": "What did you do?"
+    },
+    {
+      "korean": "이게 지금 뭐 하는 짓이야? What are you doing? 듣기 View video 플레이리스트 (Playlist) : 여자 둘이 손잡고 X레기 족치는 법[엑스엑스(XX)] - EP.08",
+      "english": "What are you doing?"
+    },
+    {
+      "korean": "이거 네가 한 짓이지? You did this, didn't you? 듣기 View video 플레이리스트 (Playlist) : 너무 좋아해서 짝사랑만 하는 거 이해됨? [엑스엑스(XX)] - EP.04",
+      "english": "You did this, didn't you?"
+    },
+    {
+      "korean": "어떻게 친구라면서 그런 짓을 할 수가 있지? They're my friends but how could they do that to her? 듣기 View video 컨스TV : 정말 난 친구인거네...[넘버식스] ep5.",
+      "english": "They're my friends but how could they do that to her?"
+    },
+    {
+      "korean": "너네 둘 통영 갔을 때부터 원탁이랑 무슨 짓 했는지 내가 모를 줄 알아? I know what happened between you guys and Wontak at Tongyong. 듣기 View video 컨스TV : 그날 밤 일 죽어도 얘기 안하려고...[넘버식스]ep7.",
+      "english": "I know what happened between you guys and Wontak at Tongyong."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "What did you go and do that for? 듣기 Add to Wordbook 그런 멍청한 짓은 왜 한 거야? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 전위적인 쓰레기(park****)",
+      "english": "What did you go and do that for? Add to Wordbook"
+    },
+    {
+      "korean": "Now why'd you go and do that? 듣기 Add to Wordbook 그런 멍청한 짓은 왜 하겠다는 거야? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 전위적인 쓰레기(park****)",
+      "english": "Now why'd you go and do that? Add to Wordbook"
+    },
+    {
+      "korean": "You're not gonna do anything rash? 듣기 Add to Wordbook 무모한 짓은 하지 않겠다는거야? User translation Inaccurate information may be included due to the users' self-traslation. 닫기 ida20046(ida2****)",
+      "english": "You're not gonna do anything rash? Add to Wordbook"
+    },
+    {
+      "korean": "What you're doing is hurting you. 듣기 Add to Wordbook 네가 하는 짓은 널 다치게 하는 거야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Reina(jjyr****)",
+      "english": "What you're doing is hurting you. Add to Wordbook"
+    },
+    {
+      "korean": "He won't do anything like that again. 듣기 Add to Wordbook 그는 이런짓은 다시는 안할꺼야 User translation Inaccurate information may be included due to the users' self-traslation. 닫기 플뢰르(mikh****)",
+      "english": "He won't do anything like that again. Add to Wordbook"
+    }
+  ]
+}

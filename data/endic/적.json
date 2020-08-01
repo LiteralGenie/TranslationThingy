@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "적",
+      "hanja": " (敵)",
+      "example": {},
+      "meanings": [
+        "(원수) (the) enemy, (literary) foe",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(때)",
+        "(경험) experience"
+      ]
+    },
+    {
+      "phrase": "적",
+      "hanja": " (籍)",
+      "example": {},
+      "meanings": [
+        "(호적·병적·학적 등의 문서)"
+      ]
+    },
+    {
+      "phrase": "적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Bound noun jeok"
+      ]
+    },
+    {
+      "phrase": "-적",
+      "hanja": " (的)",
+      "example": {},
+      "meanings": [
+        "(접미어) -ic, -ical, -like, a sort of"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "enemy",
+      "frequency": 3
+    },
+    {
+      "meaning": "foe",
+      "frequency": 3
+    },
+    {
+      "meaning": "buddy-buddy",
+      "frequency": 0
+    },
+    {
+      "meaning": "foeman",
+      "frequency": 0
+    },
+    {
+      "meaning": "erythr-",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뮤지컬 본 적 있냐고요? Have I ever watched a musical? 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "Have I ever watched a musical?"
+    },
+    {
+      "korean": "저는 복근이란 게 있어본 적이없는데? I've never had those. 듣기 View video V PICK! : [ONF] 토루 얼굴에 별자리는 내가 누울 자리...⭐️ (HYOJIN talking about the mole on his face)",
+      "english": "I've never had those."
+    },
+    {
+      "korean": "다들 누구 좋아해 본 적 있지? You've liked someone, right? 듣기 View video 콬TV (WHYNOT) : 적어도 난 진짜 연애중이야 #남사친이_불편해졌다 #삼각관계 [리얼:타임:러브2] EP5",
+      "english": "You've liked someone, right?"
+    },
+    {
+      "korean": "나 원래 그렇게 생각한 적이... 있었나? 없었나? I've never thought it like that... Or have I? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "I've never thought it like that... Or have I?"
+    },
+    {
+      "korean": "가끔 그런 거 본 적 있죠? - 어떤 거? You've seen that from time to time, right? - Which one? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "You've seen that from time to time, right? - Which one?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Heavy casualties were inflicted on the enemy. 듣기 Add to Wordbook 적에게 심한 사상이 가해졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Heavy casualties were inflicted on the enemy. Add to Wordbook"
+    },
+    {
+      "korean": "Have you ever been unfaithful to him? 듣기 Add to Wordbook 그를 두고 외도를 한 적이 한 번이라도 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you ever been unfaithful to him? Add to Wordbook"
+    },
+    {
+      "korean": "The country was arming against the enemy. 듣기 Add to Wordbook 그 나라는 적에 맞설 무장을 하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The country was arming against the enemy. Add to Wordbook"
+    },
+    {
+      "korean": "The team are unbeaten in their last four games. 듣기 Add to Wordbook 그 팀은 마지막 네 경기에서 진 적이 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team are unbeaten in their last four games. Add to Wordbook"
+    },
+    {
+      "korean": "The land around here has never been cultivated. 듣기 Add to Wordbook 이 인근 지역의 땅은 경작된 적이 한 번도 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The land around here has never been cultivated. Add to Wordbook"
+    }
+  ]
+}

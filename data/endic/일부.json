@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "일부",
+      "hanja": " (一部)",
+      "example": {},
+      "meanings": [
+        "(명사) part, portion, section",
+        "(부사) partly, partially"
+      ]
+    },
+    {
+      "phrase": "일부",
+      "hanja": " (一夫)",
+      "example": {},
+      "meanings": [
+        "one man, one husband"
+      ]
+    },
+    {
+      "phrase": "일부의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "partial",
+        "divisional",
+        "sectional"
+      ]
+    },
+    {
+      "phrase": "일부다처제",
+      "hanja": " (一夫多妻制)",
+      "example": {},
+      "meanings": [
+        "polygamy"
+      ]
+    },
+    {
+      "phrase": "일부[전액] 입금",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "part[full] payment"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "part",
+      "frequency": 3
+    },
+    {
+      "meaning": "some",
+      "frequency": 3
+    },
+    {
+      "meaning": "bit",
+      "frequency": 3
+    },
+    {
+      "meaning": "description",
+      "frequency": 3
+    },
+    {
+      "meaning": "portion",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "일부 지역에서는 되게 어느 정도 상용화가 돼있고 - 그래?",
+      "english": "used in the commercial areas in some regions. - Really?"
+    },
+    {
+      "korean": "일부는 맞습니다.",
+      "english": "Part of it is correct."
+    },
+    {
+      "korean": "일부만 좀 보여드리겠습니다.",
+      "english": "We will show you a part of it."
+    },
+    {
+      "korean": "좋아요 일부 정치인이라고 할게요 일부 정치인...",
+      "english": "Fine! I'll say some politicians..."
+    },
+    {
+      "korean": "스모키는 일부에 불과합니다.",
+      "english": "The smokey-eye is only a part of it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "일부 현대 도시의 인간미 없는 차가움",
+      "english": "the cold impersonality of some modern cities"
+    },
+    {
+      "korean": "그는 치료의 일부로 최면술을 쓴다.",
+      "english": "He uses hypnosis as part of the treatment."
+    },
+    {
+      "korean": "그녀는 훈련의 일부로 역기를 든다.",
+      "english": "She lifts weights as part of her training."
+    },
+    {
+      "korean": "페인트 일부가 깡통 밖으로 철벅 튀어 나왔다.",
+      "english": "Some of the paint sloshed out of the can."
+    },
+    {
+      "korean": "그 책에서 일부 부분들이 삭제되었다.",
+      "english": "Certain passages were excised from the book."
+    }
+  ]
+}

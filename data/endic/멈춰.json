@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "멈추다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그치다) stop, halt",
+        "(그치게 하다) stop, halt"
+      ]
+    },
+    {
+      "phrase": "피가 안 멈춰요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I can't stop bleeding."
+      ]
+    },
+    {
+      "phrase": "모터가 멈춰 있니?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is the motor off?"
+      ]
+    },
+    {
+      "phrase": "차를 멈춰.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "운전 중의 지시 Stop the car."
+      ]
+    },
+    {
+      "phrase": "자명종 좀 멈춰줘.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "아침의 행동을 나타내는 표현 Turn off the alarm.",
+        "아침의 행동을 나타내는 표현 Shut off the alarm."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hold on",
+      "frequency": 0
+    },
+    {
+      "meaning": "Hold hard!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Halt there!",
+      "frequency": 0
+    },
+    {
+      "meaning": "come to rest",
+      "frequency": 0
+    },
+    {
+      "meaning": "conk out",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[초조] 언제 멈춰? [Nervous] When will it stop? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[Nervous] When will it stop?"
+    },
+    {
+      "korean": "[룰렛이 멈춰 선 곳에는...] 그... [Where the roulette stops] That... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[Where the roulette stops] That..."
+    },
+    {
+      "korean": "우진 씨가 말해주세요 - 왜냐면 없는 것 같아가지고 왜 멈춰요? Please say it, Woo Jin. - It seems like you have none. Why are you stopping? 듣기 View video AB6IX : 막방😭😭",
+      "english": "Please say it, Woo Jin. - It seems like you have none. Why are you stopping?"
+    },
+    {
+      "korean": "[또 멈춰버린 진의 캐릭터] 왜 멈춰 얘가? [Jin's character stopped again] Why does he stop? 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Jin's character stopped again] Why does he stop?"
+    },
+    {
+      "korean": "나도 모르겠어, 얘 왜 달리다가 자꾸 멈춰? Me neither. My character stops running. 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "Me neither. My character stops running."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The car coasted along until it stopped. 발음듣기 그 승용차는 관성으로 계속 달리다가 멈춰 섰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The car coasted along until it stopped. 발음"
+    },
+    {
+      "korean": "He stopped in the doorway, too timid to go in. 발음듣기 그는 문간에서 멈춰 섰다. 너무 용기가 없어서 들어가지는 못하고. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He stopped in the doorway, too timid to go in. 발음"
+    },
+    {
+      "korean": "He slammed on the brakes and the car juddered to a halt. 발음듣기 그가 브레이크를 탁 밟자 차가 요동을 치다가 멈춰 섰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He slammed on the brakes and the car juddered to a halt. 발음"
+    },
+    {
+      "korean": "The truck braked to a halt. 발음듣기 트럭이 속도를 줄이며 멈춰 섰다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The truck braked to a halt. 발음"
+    },
+    {
+      "korean": "Hold on! This isn’t the right road. 발음듣기 멈춰! 이 길이 맞는 길이 아냐. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hold on! This isn’t the right road. 발음"
+    }
+  ]
+}

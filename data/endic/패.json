@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "패",
+      "hanja": " (牌)",
+      "example": {},
+      "meanings": [
+        "(무리) group, party",
+        "(카드·화투 등의) card, hand",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "패",
+      "hanja": " (敗)",
+      "example": {},
+      "meanings": [
+        "loss"
+      ]
+    },
+    {
+      "phrase": "패",
+      "hanja": " (敗)",
+      "example": {},
+      "meanings": [
+        "Bound noun number of losses (↔승5)"
+      ]
+    },
+    {
+      "phrase": "패",
+      "hanja": " (牌)",
+      "example": {},
+      "meanings": [
+        "Noun tag, label",
+        "Noun nickname, bad reputation",
+        "Noun card, tile"
+      ]
+    },
+    {
+      "phrase": "패",
+      "hanja": " (霸)",
+      "example": {},
+      "meanings": [
+        "Noun wit, trick"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hand",
+      "frequency": 3
+    },
+    {
+      "meaning": "card 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "counter",
+      "frequency": 3
+    },
+    {
+      "meaning": "plate",
+      "frequency": 3
+    },
+    {
+      "meaning": "tile",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[연준 승, 태현 패] 오케이! [YEONJUN won, TAEHYUN lost] Okay! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[YEONJUN won, TAEHYUN lost] Okay!"
+    },
+    {
+      "korean": "[시작과 동시에 1초 컷 휴닝 패] 야! [In 1 second] [HUENING lost] Hey! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[In 1 second] [HUENING lost] Hey!"
+    },
+    {
+      "korean": "[승 - 패 결과를 먼저 듣게 될 팀은?] [Who's going to hear the result first?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 18. 용인대 리퍼블릭 VS 고려대 테라 배틀에 심사위원 실화?!",
+      "english": "[Who's going to hear the result first?]"
+    },
+    {
+      "korean": "패 잘 섞어... Mix them well. 듣기 View video TOMORROW X TOGETHER : 연준 : 게임의 정석",
+      "english": "Mix them well."
+    },
+    {
+      "korean": "[승, 패] 안 내면 진다 가위바위보! [Won, lost] Rock paper scissors! 듣기 View video V PICK! : [UP10TION] 🏠허니하우스 입주민 모집합니다! 외풍&누수 주의하세요💛 (RASAMONG making a cookie house)",
+      "english": "[Won, lost] Rock paper scissors!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Let’s cut for dealer. 듣기 Add to Wordbook 패를 들쳐 카드 돌릴 사람을 정하자. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Let’s cut for dealer. Add to Wordbook"
+    },
+    {
+      "korean": "to lead the ten of clubs 듣기 Add to Wordbook 첫 패로 클럽 10을 내다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to lead the ten of clubs Add to Wordbook"
+    },
+    {
+      "korean": "to be dealt a good/bad hand 듣기 Add to Wordbook 패가 잘/잘 안 들어오다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be dealt a good/bad hand Add to Wordbook"
+    },
+    {
+      "korean": "He played out of turn! 듣기 Add to Wordbook 그가 자기 차례도 아닌데 패를 냈어! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He played out of turn! Add to Wordbook"
+    },
+    {
+      "korean": "You must play a diamond if you have one. 듣기 Add to Wordbook 다이아몬드 패를 가지고 있으면 내야 해. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You must play a diamond if you have one. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(유감스럽다) sorry (that)",
+        "(얼굴이 상하다) thin, gaunt"
+      ]
+    },
+    {
+      "phrase": "안되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb fail, not go well, be unlucky (↔잘되다)",
+        "Verb be unsuccessful, not make it (↔잘되다)",
+        "Verb be at least (↔잘되다)"
+      ]
+    },
+    {
+      "phrase": "안 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(금지) must not, should not (do), ought not to ((do))(해서는 안 되다), shall not(안 시키다), don't(하지 마라), be forbidden[prohibi...",
+        "(필요·의무) must, have (got) to(않으면 안 되다), need(필요가 있다), be required to(요구되다)",
+        "(예방)"
+      ]
+    },
+    {
+      "phrase": "안되면 조상[산소] 탓",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "blaming [the graves of] one's ancestors when things are not going well"
+      ]
+    },
+    {
+      "phrase": "안되는 사람은 자빠져도 [뒤로 넘어져도] 코가 깨진다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "An unlucky person breaks his/her nose even when he/she falls on his/her back[backward], The bread never falls but on its buttered side"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sorry",
+      "frequency": 3
+    },
+    {
+      "meaning": "no dice",
+      "frequency": 0
+    },
+    {
+      "meaning": "pity",
+      "frequency": 3
+    },
+    {
+      "meaning": "come off it",
+      "frequency": 0
+    },
+    {
+      "meaning": "hard luck/lines",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "안 되는데. It's not working. 듣기 View video JBJ95 : [#지금하95] GUAM에서 먹바앙 ~~",
+      "english": "It's not working."
+    },
+    {
+      "korean": "안되는데? It's not working? 듣기 View video MONSTA X : [몬채널][B] EP.75 'DRAMARAMA' JACKET",
+      "english": "It's not working?"
+    },
+    {
+      "korean": "안되는데... That's no good... 듣기 View video Plan A Entertainment : VICTON Broadcast (병찬이 생일!)",
+      "english": "That's no good..."
+    },
+    {
+      "korean": "나 이러면 안 되는데 왜 이렇게 많이 먹어? I shouldn't do this. Why do I eat so much? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "I shouldn't do this. Why do I eat so much?"
+    },
+    {
+      "korean": "'이거 안되는데?' \"This doesn't work?\" 듣기 View video VICTON : 연휴의 마지막 승식",
+      "english": "\"This doesn't work?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Whoops, you weren’t supposed to hear that. 듣기 Add to Wordbook 어머나, 너는 그 얘기를 들으면 안 되는데. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Whoops, you weren’t supposed to hear that. Add to Wordbook"
+    },
+    {
+      "korean": "Bout to get a cat nap in before class. I hope I don’t oversleep. 듣기 Add to Wordbook 강의 가기 전에 토막잠 좀 자려고. 너무 오래 자면 안 되는데. DARAKWON",
+      "english": "Bout to get a cat nap in before class. I hope I don’t oversleep. Add to Wordbook"
+    },
+    {
+      "korean": "I’m not supposed to eat fast food on my diet, but I couldn’t resist. 듣기 Add to Wordbook 다이어트 중에는 패스트푸드를 먹으면 안 되는데, 참을 수가 없어. DARAKWON",
+      "english": "I’m not supposed to eat fast food on my diet, but I couldn’t resist. Add to Wordbook"
+    },
+    {
+      "korean": "Oh, that won't do. 듣기 Add to Wordbook 아, 그럼 안 되는데. YBM All in All English-Korean Dictionary",
+      "english": "Oh, that won't do. Add to Wordbook"
+    },
+    {
+      "korean": "Oh, gosh. Not again. 듣기 Add to Wordbook 이런, 또 오면 안되는데 YBM All in All English-Korean Dictionary",
+      "english": "Oh, gosh. Not again. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "기간",
+      "hanja": " (期間)",
+      "example": {},
+      "meanings": [
+        "period (of time), (계약·임무 등의) term"
+      ]
+    },
+    {
+      "phrase": "기간",
+      "hanja": " (基幹)",
+      "example": {},
+      "meanings": [
+        "(중심이 되는 부분) mainstay, backbone"
+      ]
+    },
+    {
+      "phrase": "유효기간",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(Am) expiration date, (Brit) expiry date"
+      ]
+    },
+    {
+      "phrase": "수습 기간",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "probation (period)"
+      ]
+    },
+    {
+      "phrase": "기간산업",
+      "hanja": " (基幹産業)",
+      "example": {},
+      "meanings": [
+        "basic industries, key industries"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "term",
+      "frequency": 3
+    },
+    {
+      "meaning": "space",
+      "frequency": 3
+    },
+    {
+      "meaning": "period",
+      "frequency": 3
+    },
+    {
+      "meaning": "stretch",
+      "frequency": 3
+    },
+    {
+      "meaning": "life",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 시험 기간이에요 이때? 아 중간고사인가? 아닌가? 중간고사 이렇게 빨라? Is this exam period? Ah is it midterms?? Wait? Midterms are this fast? 듣기 View video VICTON : 월요일밤!!병찬이랑",
+      "english": "Is this exam period? Ah is it midterms?? Wait? Midterms are this fast?"
+    },
+    {
+      "korean": "유효 기간이 지나... The file is expired. 듣기 View video Stray Kids : 리노리방😺야식시간",
+      "english": "The file is expired."
+    },
+    {
+      "korean": "중간고사 있을 수 있는 기간인가? Is it time to have midterms? 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "Is it time to have midterms?"
+    },
+    {
+      "korean": "'이 기간에 어떤 TV를 시청하십니까?' \"During this time, what kind of TV do you watch?\" 듣기 View video GOT7 : 쉼표방",
+      "english": "\"During this time, what kind of TV do you watch?\""
+    },
+    {
+      "korean": "[만능 클리너 사용 기간은?] 사용 기간은 어느 정도 사용하면 좋을까요? [How long can we use the multi-use cleaner?] how long can I use it? 듣기 View video SEOUL EONNI : [아로마테라피] 레몬오일 만능 클리너 DIY 만들기 +레몬디톡스",
+      "english": "[How long can we use the multi-use cleaner?] how long can I use it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We only had six days of rehearsal. 듣기 Add to Wordbook 우리는 리허설 기간이 6일밖에 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We only had six days of rehearsal. Add to Wordbook"
+    },
+    {
+      "korean": "Earnings are averaged over the whole period. 듣기 Add to Wordbook 소득은 전 기간에 걸쳐 평균을 낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Earnings are averaged over the whole period. Add to Wordbook"
+    },
+    {
+      "korean": "We were given only two weeks to rehearse. 듣기 Add to Wordbook 우리에게는 리허설 기간이 2주밖에 주어지지 않았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were given only two weeks to rehearse. Add to Wordbook"
+    },
+    {
+      "korean": "He had served his apprenticeship as a plumber. 듣기 Add to Wordbook 그는 배관공으로 견습 기간을 거쳤었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He had served his apprenticeship as a plumber. Add to Wordbook"
+    },
+    {
+      "korean": "You need four to six weeks’ convalescence. 듣기 Add to Wordbook 4주에서 6주까지의 회복 기간이 필요합니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You need four to six weeks’ convalescence. Add to Wordbook"
+    }
+  ]
+}

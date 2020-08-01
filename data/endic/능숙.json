@@ -1,0 +1,108 @@
+{
+  "phrases": [
+    {
+      "phrase": "능숙",
+      "hanja": " (能熟)",
+      "example": {},
+      "meanings": [
+        "skill, skillfulness, dexterity, expertness, cleverness, proficiency, adeptness.",
+        "능숙하다 skilled, skillful, expert, proficient, good, clever, dexterous, deft, adroit, adept."
+      ]
+    },
+    {
+      "phrase": "능숙해지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become skillful",
+        "become expert"
+      ]
+    },
+    {
+      "phrase": "능숙하지 못하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be unskilled[inexperienced]"
+      ]
+    },
+    {
+      "phrase": "외국어를 능숙하게 구사하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have an excellent command of a foreign language"
+      ]
+    },
+    {
+      "phrase": "젓가락을 능숙하게 사용하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "use[handle] chopsticks well[skillfully]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "proficiency",
+      "frequency": 3
+    },
+    {
+      "meaning": "proficientness",
+      "frequency": 0
+    },
+    {
+      "meaning": "ambilevous",
+      "frequency": 0
+    },
+    {
+      "meaning": "excision-repair-proficient",
+      "frequency": 0
+    },
+    {
+      "meaning": "repair-proficient strain",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[능숙] 어떤 스타일 원하십니까? [Skilled] What kind of style would you like? 듣기 View video 1THE9(원더나인) : [독점] 원더랜드 A to Z BEHIND",
+      "english": "[Skilled] What kind of style would you like?"
+    },
+    {
+      "korean": "[능숙] 음주방송인가요? [Looks like she has this down] Are we going to drink while we shoot? 듣기 View video SM CCC LAB : [진리상점│Jinri Market]EP10. 진리상점입니다.",
+      "english": "[Looks like she has this down] Are we going to drink while we shoot?"
+    },
+    {
+      "korean": "언변능숙형! 말을 너무 잘해. Eloquent-type. He's such an eloquent speaker. 듣기 View video MONSTA X : [REPLAY] MONSTA X-RAY (몬스타엑스레이) _6화",
+      "english": "Eloquent-type. He's such an eloquent speaker."
+    },
+    {
+      "korean": "[언변능숙형 민혁] 이런 부분들이 보기 좋았어요, 개인적으로. [Eloquent-type, Minhyuk] I personally liked to see that side of him. 듣기 View video MONSTA X : [REPLAY] MONSTA X-RAY (몬스타엑스레이) _6화",
+      "english": "[Eloquent-type, Minhyuk] I personally liked to see that side of him."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The team lacked fluency during the first half. 듣기 Add to Wordbook 그 팀은 전반전에 능숙도가 부족했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The team lacked fluency during the first half. Add to Wordbook"
+    },
+    {
+      "korean": "to gain a high level of competence in English 듣기 Add to Wordbook 높은 영어 능숙도를 달성하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to gain a high level of competence in English Add to Wordbook"
+    },
+    {
+      "korean": "a high level of oral proficiency in English 듣기 Add to Wordbook 높은 수준의 영어 구두 표현 능숙도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a high level of oral proficiency in English Add to Wordbook"
+    },
+    {
+      "korean": "a certificate of language proficiency 듣기 Add to Wordbook 언어 능숙도 인증서 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a certificate of language proficiency Add to Wordbook"
+    },
+    {
+      "korean": "professional / technical competence 듣기 Add to Wordbook 직업적/기술적 능숙도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "professional / technical competence Add to Wordbook"
+    }
+  ]
+}

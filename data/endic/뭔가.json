@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(무엇) what, something",
+        "(놀라움) what, huh, why"
+      ]
+    },
+    {
+      "phrase": "뭐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection what, oh my goodness, oh my gosh",
+        "Interjection what",
+        "Interjection anyway"
+      ]
+    },
+    {
+      "phrase": "뭐라 뭐라 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say what and what"
+      ]
+    },
+    {
+      "phrase": "뭐니 뭐니 해도",
+      "hanja": "",
+      "example": {},
+      "meanings": []
+    },
+    {
+      "phrase": "뭐가 뭔지 모르겠어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm totally lost."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "what?",
+      "frequency": 0
+    },
+    {
+      "meaning": "or what",
+      "frequency": 0
+    },
+    {
+      "meaning": "intangible",
+      "frequency": 3
+    },
+    {
+      "meaning": "improvise",
+      "frequency": 3
+    },
+    {
+      "meaning": "eh",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭔가!",
+      "english": "It's kind of!"
+    },
+    {
+      "korean": "이게 뭔가요?",
+      "english": "What is this?"
+    },
+    {
+      "korean": "그냥 몸에 뭔가...",
+      "english": "On my body.."
+    },
+    {
+      "korean": "그래... 뭔가 지금 이...",
+      "english": "to do that..."
+    },
+    {
+      "korean": "그래서 되게 뭔가...",
+      "english": "And so it was like..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그녀는 뭔가가 크게 잘못됐다는 것을 직감했다.",
+      "english": "She intuited that something was badly wrong."
+    },
+    {
+      "korean": "그가 웃는 태도에 뭔가 이상한 데가 있었다.",
+      "english": "There was something peculiar in the way he smiled."
+    },
+    {
+      "korean": "그는 직감적으로 뭔가가 잘못됐다는 것을 알았다.",
+      "english": "He knew instinctively that something was wrong."
+    },
+    {
+      "korean": "법석 그만 떨고 뭔가 좀 유용한 일거리를 찾아 봐!",
+      "english": "Stop fussing around and find something useful to do!"
+    },
+    {
+      "korean": "그들 사이에는 무언의 뭔가가 대기 중에 맴돌고 있었다.",
+      "english": "Something unspoken hung in the air between them."
+    }
+  ]
+}

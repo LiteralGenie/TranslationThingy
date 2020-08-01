@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "재료",
+      "hanja": " (材料)",
+      "example": {},
+      "meanings": [
+        "material, (원료) raw material, (음식의) ingredient"
+      ]
+    },
+    {
+      "phrase": "기제 재료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "manufactured materials"
+      ]
+    },
+    {
+      "phrase": "건축 재료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "building[construction] materials"
+      ]
+    },
+    {
+      "phrase": "낙관 재료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an encouraging element[factor]"
+      ]
+    },
+    {
+      "phrase": "재료를 공급하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "supply[furnish] with materials",
+        "afford data"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "material",
+      "frequency": 3
+    },
+    {
+      "meaning": "resource",
+      "frequency": 3
+    },
+    {
+      "meaning": "ingredient",
+      "frequency": 3
+    },
+    {
+      "meaning": "stuff",
+      "frequency": 3
+    },
+    {
+      "meaning": "staple 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "각자 이 재료들로 - 꺼내는 거 아니야? Use these. - We don't have to take it out? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Use these. - We don't have to take it out?"
+    },
+    {
+      "korean": "[재료를 꺼내던 중 다현이의 눈을 사로잡은 것은?] 이거 뭐예요? [Something drew DAHYUN's attention] What's this? 듣기 View video Dispatch : [Dicon] “트둥’s 귀염뽀짝 폴라로이드 꾸미기” (디아이콘 : 트와이스)",
+      "english": "[Something drew DAHYUN's attention] What's this?"
+    },
+    {
+      "korean": "[저는 쌈 채소 중에서 배추를 제-일 좋아해요!] - 배추! - 재료를 넣을 게 없나? [He loves this cabbage the best!] - Napa cabbage! - Anything else? 듣기 View video Stray Kids : [SKZ VLOG] 현진 : 현이, 지독한 짝사랑",
+      "english": "[He loves this cabbage the best!] - Napa cabbage! - Anything else?"
+    },
+    {
+      "korean": "혹시 더 필요한 재료가 있나요? Is there any ingredient you need? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "Is there any ingredient you need?"
+    },
+    {
+      "korean": "재료들이... 무엇이 있죠? The ingredients... What ingredients are there? 듣기 View video Dispatch : [ⓓxV] “여친이들의 달콤쌉싸름한 초콜릿 만들기” (여자친구 : GFRIEND)",
+      "english": "The ingredients... What ingredients are there?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Add an egg yolk to make the mixture bind. 듣기 Add to Wordbook 달걀노른자를 넣어서 혼합한 재료가 뭉치게 하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Add an egg yolk to make the mixture bind. Add to Wordbook"
+    },
+    {
+      "korean": "The house was built using salvaged materials. 듣기 Add to Wordbook 그 집은 화재[재난]에서 회수된 재료들로 지어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The house was built using salvaged materials. Add to Wordbook"
+    },
+    {
+      "korean": "Add an egg yolk to bind the mixture together. 듣기 Add to Wordbook 달걀노른자를 넣어서 혼합한 재료가 뭉치게 하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Add an egg yolk to bind the mixture together. Add to Wordbook"
+    },
+    {
+      "korean": "Unsold copies of the novel had to be pulped. 듣기 Add to Wordbook 그 소설의 팔리지 않은 책들은 재생지 재료가 되어야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Unsold copies of the novel had to be pulped. Add to Wordbook"
+    },
+    {
+      "korean": "We package our products in recyclable materials. 듣기 Add to Wordbook 우리는 상품을 재활용 가능 재료들로 포장한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We package our products in recyclable materials. Add to Wordbook"
+    }
+  ]
+}

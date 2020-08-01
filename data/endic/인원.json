@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "인원",
+      "hanja": " (人員)",
+      "example": {},
+      "meanings": [
+        "the number of people[persons]"
+      ]
+    },
+    {
+      "phrase": "in one",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "…이자 …인 (것이 하나로 된) (→all-in-one)"
+      ]
+    },
+    {
+      "phrase": "인원 구성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personnel organization",
+        "lineup"
+      ]
+    },
+    {
+      "phrase": "가동 인원",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "available hands"
+      ]
+    },
+    {
+      "phrase": "인원 초과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an excessive number of people"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "strength",
+      "frequency": 3
+    },
+    {
+      "meaning": "personnel",
+      "frequency": 3
+    },
+    {
+      "meaning": "PS&ER",
+      "frequency": 0
+    },
+    {
+      "meaning": "personnel, supplies, and equipment report",
+      "frequency": 0
+    },
+    {
+      "meaning": "보충",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[성공 인원 5명] [남은 자리는 단 3자리] 나이스! [5 succeeded] [3 left] Nice! 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.23 TTT #3 (Camping Ver.)",
+      "english": "[5 succeeded] [3 left] Nice!"
+    },
+    {
+      "korean": "이걸 진짜 다 하겠다고요? 그 인원으로? Are you serious? With that few people? 듣기 View video 플레이리스트 (Playlist) : 이상형과 존잘남을 동시에 만났을 때, 네 선택은? [크네유] - EP.01",
+      "english": "Are you serious? With that few people?"
+    },
+    {
+      "korean": "[게임 인원이 6명!] 마피아도 둘이에요? [6 people in the game] Is there 2 mafias? 듣기 View video Dispatch : [ⓓxV] “환상의 대똥촉파티(Feat. 마피아게임)” (갓세븐 : GOT7)",
+      "english": "[6 people in the game] Is there 2 mafias?"
+    },
+    {
+      "korean": "야 김연두 귀신팀 인원 모자라다는데? Hey Kim Yeondoo, they need more people on the ghost team. 듣기 View video 콬TV (WHYNOT) : 좋아하는 사람에게 고백하러간다 [일진에게 찍혔을 때] EP15, 마지막회",
+      "english": "Hey Kim Yeondoo, they need more people on the ghost team."
+    },
+    {
+      "korean": "[과연 'ㅁㅊㄷㅁㅊㅇ'의 최종 선발 인원은?] [Final contestant that will be chosen for \"Crazy & Crazy\"?] View video ONEUS : [Full] ONEUS SPECIAL LIVE \"FLY WITH US\" 1부",
+      "english": "[Final contestant that will be chosen for \"Crazy & Crazy\"?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to cut staff to an irreducible minimum 듣기 Add to Wordbook 직원을 더 이상 줄일 수 없게 최소 인원으로 축소하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cut staff to an irreducible minimum Add to Wordbook"
+    },
+    {
+      "korean": "We were eight in number 듣기 Add to Wordbook 우리는 (인원) 수가 8명이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were eight in number Add to Wordbook"
+    },
+    {
+      "korean": "The government aims to make British industry leaner and fitter. 듣기 Add to Wordbook 정부는 영국의 산업을 군살을 더 빼고 더 탄탄하게 만들려고[불필요한 인원과 경비를 줄이려고] 하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government aims to make British industry leaner and fitter. Add to Wordbook"
+    },
+    {
+      "korean": "The theatre has a seating capacity of 2000. 듣기 Add to Wordbook 그 극장은 수용 인원이 2천 명이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The theatre has a seating capacity of 2000. Add to Wordbook"
+    },
+    {
+      "korean": "The match attracted a capacity crowd of 80000. 듣기 Add to Wordbook 그 시합은 8만 명의 최대 수용 인원을 끌어들였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The match attracted a capacity crowd of 80000. Add to Wordbook"
+    }
+  ]
+}

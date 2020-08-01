@@ -1,0 +1,104 @@
+{
+  "phrases": [
+    {
+      "phrase": "바꾸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(변경하다) change, switch, turn, alter",
+        "(교체·교환하다) change (sth for sth); (맞바꾸다) exchange (sth for sth), trade[swap] (sth for sth); (오래된 것을) replace (sth with...",
+        "(전화에서)"
+      ]
+    },
+    {
+      "phrase": "저 자리를 바꿔도 될까요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-기본대화 Excuse me, may I change my seat?"
+      ]
+    },
+    {
+      "phrase": "주문을 바꿔도 되겠습니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화- 음식주문 May I change my order?"
+      ]
+    },
+    {
+      "phrase": "다른 사이즈로 바꿔도 됩니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-교환 및 반품 May I change the size?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "paraphrase",
+      "frequency": 1
+    },
+    {
+      "meaning": "shift",
+      "frequency": 2
+    },
+    {
+      "meaning": "전향",
+      "frequency": 0
+    },
+    {
+      "meaning": "diversion",
+      "frequency": 1
+    },
+    {
+      "meaning": "modulate",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[상큼] 바꿔도 되나요? [Cute] Can I change rooms? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[Cute] Can I change rooms?"
+    },
+    {
+      "korean": "[주황방] 아니다, 저 방 바꿔도 되나요? [Orange room] Oh no. Can I change rooms? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[Orange room] Oh no. Can I change rooms?"
+    },
+    {
+      "korean": "아니야 바꿔도 된대 - 바꿔도 된대? No. We can change. - Can we? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.16 인간 체스 #1 (Human Chess #1)",
+      "english": "No. We can change. - Can we?"
+    },
+    {
+      "korean": "그게 언어 바꿔도 돼? Can we change the language? 듣기 View video TWICE : 나모사",
+      "english": "Can we change the language?"
+    },
+    {
+      "korean": "형! 스피커로 바꿔도 돼요? Can I change it to speakerphone? 듣기 View video ATEEZ : 티니와 함께하는 여상이 생일 점심🎂",
+      "english": "Can I change it to speakerphone?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "If it's not too much of an inconvenience, could we move the meeting to August 2? 발음듣기 크게 번거롭지 않으시면, 회의 일정을 8월 2일로 바꿔도 되겠습니까? DARAKWON",
+      "english": "If it's not too much of an inconvenience, could we move the meeting to August 2? 발음"
+    },
+    {
+      "korean": "Can I change my seat to an aisle seat? 발음듣기 복도 쪽 자리로 바꿔도 되나요? Neungyule",
+      "english": "Can I change my seat to an aisle seat? 발음"
+    },
+    {
+      "korean": "So if you went over to CD, you'd still need an ordinary player or deck for your existing record collection. 발음듣기 그래서 CD로 바꿔도 이전부터 갖고 있던 레코드를 감상하려면 여전히 그 플레이어가 필요하다. YBM All in All English-Korean Dictionary",
+      "english": "So if you went over to CD, you'd still need an ordinary player or deck for your existing record collection. 발음"
+    },
+    {
+      "korean": "Can I change the channel? 발음듣기 채널을 바꿔도 돼? YBM All in All English-Korean Dictionary",
+      "english": "Can I change the channel? 발음"
+    },
+    {
+      "korean": "May I change the size? 발음듣기 다른 사이즈로 바꿔도 됩니까? Practical English Conversation Dictionary",
+      "english": "May I change the size? 발음"
+    }
+  ]
+}

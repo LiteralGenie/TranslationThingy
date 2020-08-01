@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "갈수록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in process of time, as time goes by"
+      ]
+    },
+    {
+      "phrase": "날이 갈수록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as days go by"
+      ]
+    },
+    {
+      "phrase": "해가 갈수록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "as years go by"
+      ]
+    },
+    {
+      "phrase": "끝으로 갈수록 좁아지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become narrow toward the end",
+        "taper (off)"
+      ]
+    },
+    {
+      "phrase": "이 자식들 갈수록 문제네.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You guys are getting worse."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "increasingly",
+      "frequency": 2
+    },
+    {
+      "meaning": "more and more 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "go from bad to worse",
+      "frequency": 0
+    },
+    {
+      "meaning": "year by year",
+      "frequency": 0
+    },
+    {
+      "meaning": "remorseless",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "갈수록 느는 게 보일 거 아니에요? and how I improve with time, right? 듣기 View video ITZY : 오랜만에 유나V😎",
+      "english": "and how I improve with time, right?"
+    },
+    {
+      "korean": "오케이 - 이게 뒤로 갈수록 - 누가 1등이에요? OK. - The further back you go... - Who is first? 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "OK. - The further back you go... - Who is first?"
+    },
+    {
+      "korean": "근데... - 근데 갈수록 짧아질수록... 뭐지? 회색인가? But... - As it got shorter... Is this grey? 듣기 View video Stray Kids : 공공즈!!!!!",
+      "english": "But... - As it got shorter... Is this grey?"
+    },
+    {
+      "korean": "이거... 늦게 갈수록 좋은 게 아니라 - 넌 은박인데? It doesn't go as we expected. - Yours is a foil mat. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "It doesn't go as we expected. - Yours is a foil mat."
+    },
+    {
+      "korean": "진짜 갈수록 답이 없네? - 오늘 놀 때... Wow, I can barely guess it. - Today, we're going to spend time... 듣기 View video BTS : 슙디의 꿀 FM 06.13 with JIMIN #0613FM_0530",
+      "english": "Wow, I can barely guess it. - Today, we're going to spend time..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the increasing tempo of life in Western society 발음듣기 서구 사회에서 갈수록 더 빨라지는 삶의 속도 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the increasing tempo of life in Western society 발음"
+    },
+    {
+      "korean": "Competition is getting hotter day by day. 발음듣기 경쟁이 날이 갈수록 치열해지고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Competition is getting hotter day by day. 발음"
+    },
+    {
+      "korean": "The farther north they went, the colder it became. 발음듣기 그들이 북쪽으로 더 멀리 갈수록 날씨가 더 추워졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The farther north they went, the colder it became. 발음"
+    },
+    {
+      "korean": "the increasing complexity of modern telecommunication systems 발음듣기 갈수록 복잡해지는 현대 통신 시스템 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the increasing complexity of modern telecommunication systems 발음"
+    },
+    {
+      "korean": "the remorseless increase in crime 발음듣기 갈수록 심해지는 듯한 범죄 증가 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the remorseless increase in crime 발음"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "phrases": [
+    {
+      "phrase": "마하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음속) Mach"
+      ]
+    },
+    {
+      "phrase": "마하 (인명)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "E. Mach"
+      ]
+    },
+    {
+      "phrase": "Mach",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 마하(속도의 단위)"
+      ]
+    },
+    {
+      "phrase": "mach.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "machine, machinery, machinist"
+      ]
+    },
+    {
+      "phrase": "mach",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (종종 M-) =mach number."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Mach",
+      "frequency": 0
+    },
+    {
+      "meaning": "Mácha, Karel Hynek",
+      "frequency": 0
+    },
+    {
+      "meaning": "Maja",
+      "frequency": 0
+    },
+    {
+      "meaning": "camber sheet",
+      "frequency": 0
+    },
+    {
+      "meaning": "Karel´ Hynek Má´cha",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "3초. - 마하 속도인가요? Three seconds. - Are we driving at the speed of Mach? 듣기 View video STAREMPIRE : 임팩트 자체제작 리얼리티 I`M FACT 10화 - 임팩트 오다이바에 가다 #3",
+      "english": "Three seconds. - Are we driving at the speed of Mach?"
+    },
+    {
+      "korean": "'마하켄타 프펠도문' 이런 것도 있어요. There's also \"Mahaken da pepeldomoon\". 듣기 View video V COOKIE : KASSY X Orgel Live - 케이시의 오르골라이브",
+      "english": "There's also \"Mahaken da pepeldomoon\"."
+    },
+    {
+      "korean": "후이 형 진짜 잘 한다. - 지금 랠리가 어머어마합니다. Hui is really good at playing. - The rally is insane right now. 듣기 View video PENTAGON : <펜타곤 교과서> 3교시 - 핑퐁의 길",
+      "english": "Hui is really good at playing. - The rally is insane right now."
+    },
+    {
+      "korean": "1:1 데스매치! 1:1 Death Mach! 듣기 View video MOMOLAND : [모모랜드를 찾아서] Welcome to MOMOLAND~!",
+      "english": "1:1 Death Mach!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a fighter plane with a top speed of Mach 3 발음듣기 마하 3의 최고 속도를 내는 전투기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a fighter plane with a top speed of Mach 3 발음"
+    },
+    {
+      "korean": "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed. (Jef Mallett) 발음듣기 스트레스가 버틸 수 없는 속도인 마하 S는 단순한 전진 운동이야. 그러나 마하 S는 자체 추진되어야 하지. 차에 탄 사람들이 여전히 스트레스를 받고 있음을 생각해봐. (역주: 차에 탄 사람들이 전진 운동을 하긴 하지만 자체 추진한 전진운동이 아니기 때문에 스트레스를 여전히 받고 있다는 뜻) (제프 말렛, 노력명언) 명언/속담",
+      "english": "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed. (Jef Mallett) 발음"
+    },
+    {
+      "korean": "Operated by Air France and British Airways, the Concorde travels at more than 2,160 km per hour -- a speed known as Mach 2, or twice the speed of sound. 발음듣기 에어 프랑스와 브리티쉬 에어웨이즈가 운영하는 콩코드 여객기는 시속 2,160 킬로--마하 2, 즉 음속의 2배--로 운항한다. YBM All in All English-Korean Dictionary",
+      "english": "Operated by Air France and British Airways, the Concorde travels at more than 2,160 km per hour -- a speed known as Mach 2, or twice the speed of sound. 발음"
+    },
+    {
+      "korean": "Simply bring your Meteor to the nearest Mach dealer and allow twenty-four hours for installation. 발음듣기 갖고 계신 미티어르를 가까운 마하 판매상에게 갖다 주시고 설치에 필요한 24시간만 할애해 주십시오. YBM All in All English-Korean Dictionary",
+      "english": "Simply bring your Meteor to the nearest Mach dealer and allow twenty-four hours for installation. 발음"
+    },
+    {
+      "korean": "Being developed by NASA in a joint venture with Lockheed-Martin, the X-33 will take off vertically from a launch pad, fly at speeds beyond Mach-13 and land on a runway. 발음듣기 NASA가 록히드-마틴社와 공동으로 개발 중인 X-33은 발사대에서 수직 이륙해 마하 13이 넘는 속도로 비행한 후 활주로에 착륙하게 될 텐데요. YBM All in All English-Korean Dictionary",
+      "english": "Being developed by NASA in a joint venture with Lockheed-Martin, the X-33 will take off vertically from a launch pad, fly at speeds beyond Mach-13 and land on a runway. 발음"
+    }
+  ]
+}

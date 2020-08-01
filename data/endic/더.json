@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "더",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(수량, 정도) more, (정도) further, (거리) farther, (하나 더) another, (다시) again, (조금 더) some[a few, a little] more"
+      ]
+    },
+    {
+      "phrase": "-더-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -deo-"
+      ]
+    },
+    {
+      "phrase": "the",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Definite article <이미 언급되었거나 쉽게 알 수 있는 사람·사물 앞에 붙임>",
+        "Definite article <유일한 존재·해당 유형 중 일반적이거나 두드러지는 사람·사물 앞에 붙임>",
+        "Definite article <어떤 사람·사물을 설명할 때 씀>"
+      ]
+    },
+    {
+      "phrase": "de-",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Prefix <‘…의 반대의, 반[역]–’의 뜻을 나타냄>",
+        "Prefix <‘분리·제거’의 뜻을 나타냄>"
+      ]
+    },
+    {
+      "phrase": "duh(h)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection 미·속어 이런, 설마, 쯧쯧, 에계계, 어마 ((불찬성·불쾌·경멸 등을 나타냄))"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "more",
+      "frequency": 3
+    },
+    {
+      "meaning": "further",
+      "frequency": 3
+    },
+    {
+      "meaning": "extra",
+      "frequency": 3
+    },
+    {
+      "meaning": "another",
+      "frequency": 3
+    },
+    {
+      "meaning": "all the more",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "더 입었나? Did you wear it more? 듣기 View video TWICE : 30분보다 더 기다렸낭..?ㅜㅡㅜ❤️",
+      "english": "Did you wear it more?"
+    },
+    {
+      "korean": "눈 더 커졌어요? My eyes got bigger? 듣기 View video TOMORROW X TOGETHER : 연준이와 소통먹방",
+      "english": "My eyes got bigger?"
+    },
+    {
+      "korean": "하나 더 먹을래? Do you want one more? 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "Do you want one more?"
+    },
+    {
+      "korean": "이게 더 이상해! This is even weirder! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "This is even weirder!"
+    },
+    {
+      "korean": "뒤에 좀 더 읽어볼까? Should I read more? 듣기 View video Stray Kids : 막내의 사생활 25 🦊",
+      "english": "Should I read more?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Soft water is kinder to your hair. 듣기 Add to Wordbook 연수가 머리카락에 더 좋다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Soft water is kinder to your hair. Add to Wordbook"
+    },
+    {
+      "korean": "He outlived his wife by three years. 듣기 Add to Wordbook 그는 아내보다 3년 더 살았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He outlived his wife by three years. Add to Wordbook"
+    },
+    {
+      "korean": "The cello is lower than the violin. 듣기 Add to Wordbook 첼로는 바이올린보다 음이 더 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cello is lower than the violin. Add to Wordbook"
+    },
+    {
+      "korean": "She tightened her belt an extra notch. 듣기 Add to Wordbook 그녀는 벨트를 한 칸 더 조였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She tightened her belt an extra notch. Add to Wordbook"
+    },
+    {
+      "korean": "to tighten a lid / screw / rope / knot 듣기 Add to Wordbook 뚜껑을 (더) 꽉 닫다/나사를 더 조이다/밧줄을 (더) 팽팽하게 하다/매듭을 (더) 단단히 조이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to tighten a lid / screw / rope / knot Add to Wordbook"
+    }
+  ]
+}

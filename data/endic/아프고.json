@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "아프다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(몸이) (상처 등이) painful, sore, (병으로) sick, ill, (동사로 쓰여) hurt, ache",
+        "(마음이) painful",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "아픈 곳을[데를] 건드리다[찌르다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "touch[poke] someone's sore spot"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pain and stiffness in her legs",
+      "frequency": 0
+    },
+    {
+      "meaning": "phantom limb pain",
+      "frequency": 0
+    },
+    {
+      "meaning": "McMurray test",
+      "frequency": 0
+    },
+    {
+      "meaning": "hurt",
+      "frequency": 3
+    },
+    {
+      "meaning": "painful",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "응 - 아이언맨이 조금 아프고 이제 눈 감을 때... Yeah. - When the Iron Man is hurt and he closes his eyes... 듣기 View video NCT : D-5💚💚💚💚💚💚",
+      "english": "Yeah. - When the Iron Man is hurt and he closes his eyes..."
+    },
+    {
+      "korean": "코 뚫을 때요? 잠깐 아프고 말아요 한 0.1초? When I pierced my nose? It stops hurting after a second. About 0.1 seconds? 듣기 View video VICTON : 쉬는시간😁",
+      "english": "When I pierced my nose? It stops hurting after a second. About 0.1 seconds?"
+    },
+    {
+      "korean": "\"언니도 정말 아프고 힘든 성장통을 겪었고 지금도 겪고 있겠죠?\" \"You went through a painful and hard growing pain and you are right now, too, right?\" 듣기 View video Park Bo Young : 오랜만이에요!",
+      "english": "\"You went through a painful and hard growing pain and you are right now, too, right?\""
+    },
+    {
+      "korean": "진짜 팔만 아프고 진짜. My arm is hurting. 듣기 View video BTOB : 저녁 드셨나용🤗",
+      "english": "My arm is hurting."
+    },
+    {
+      "korean": "귀가 아프고 무겁다고. His ears hurt and are heavy. 듣기 View video EMMA BEAUTY : [엠마뷰티 EMMA BEAUTY] 굿바이 겨울 메이크업 winter make-up",
+      "english": "His ears hurt and are heavy."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "pain and stiffness in her legs 듣기 Add to Wordbook 그녀의 다리가 아프고 결림 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "pain and stiffness in her legs Add to Wordbook"
+    },
+    {
+      "korean": "She was aching and feverish. 듣기 Add to Wordbook 그녀는 몸이 아프고 열이 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was aching and feverish. Add to Wordbook"
+    },
+    {
+      "korean": "She is still weak after her illness. 듣기 Add to Wordbook 그녀는 아프고 난 후로 아직도 몸이 약하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She is still weak after her illness. Add to Wordbook"
+    },
+    {
+      "korean": "He’s up and about again after his illness. 듣기 Add to Wordbook 그는 아프고 난 뒤에 다시 일어나 다닌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s up and about again after his illness. Add to Wordbook"
+    },
+    {
+      "korean": "She’s very thin after her illness—but we’ll soon fatten her up. 듣기 Add to Wordbook 그 녀석은 아프고 난 뒤 살이 많이 빠졌소. 하지만 우리가 곧 살을 찌울 거요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s very thin after her illness—but we’ll soon fatten her up. Add to Wordbook"
+    }
+  ]
+}

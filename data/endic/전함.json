@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "전함",
+      "hanja": " (戰艦)",
+      "example": {},
+      "meanings": [
+        "warship, battleship"
+      ]
+    },
+    {
+      "phrase": "막강한 전함",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mighty battleship"
+      ]
+    },
+    {
+      "phrase": "전함을 증파하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "send[dispatch] more warships (to)"
+      ]
+    },
+    {
+      "phrase": "순양 전함",
+      "hanja": " (巡洋戰艦)",
+      "example": {},
+      "meanings": [
+        "a battle cruiser"
+      ]
+    },
+    {
+      "phrase": "소형전함",
+      "hanja": " (小型戰艦)",
+      "example": {},
+      "meanings": [
+        "a pocket battleship."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "warship",
+      "frequency": 3
+    },
+    {
+      "meaning": "battleship",
+      "frequency": 3
+    },
+    {
+      "meaning": "battle wagon",
+      "frequency": 0
+    },
+    {
+      "meaning": "ship of the line",
+      "frequency": 0
+    },
+    {
+      "meaning": "war vessel",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[모전여전 '명사' 어머니가 딸에게 대대로 전함] 근데 나 진짜 이렇게 얘기해. [Mother handed down her skills to daughter] That's how I always talk though. 듣기 View video 모비딕(Mobidic) : <쎈마이웨이> 여자가 먼저 고백해도 되나요?",
+      "english": "[Mother handed down her skills to daughter] That's how I always talk though."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Warships were sent in as the crisis deepened. 듣기 Add to Wordbook 위기가 악화되자 전함이 투입되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Warships were sent in as the crisis deepened. Add to Wordbook"
+    },
+    {
+      "korean": "The navy is / are considering buying six new warships. 듣기 Add to Wordbook 해군이 6척의 새 전함 구입을 고려 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The navy is / are considering buying six new warships. Add to Wordbook"
+    },
+    {
+      "korean": "a battleship sunk by a torpedo 듣기 Add to Wordbook 어뢰를 맞고 침몰된 전함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a battleship sunk by a torpedo Add to Wordbook"
+    },
+    {
+      "korean": "The submarine had had time to submerge before the warship could approach. 듣기 Add to Wordbook 그 잠수함은 전함이 접근하기 전에 물 속으로 들어갈[잠수할] 시간이 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The submarine had had time to submerge before the warship could approach. Add to Wordbook"
+    },
+    {
+      "korean": "The Turtle Boat is an ironclad warship. 듣기 Add to Wordbook 거북선은 철갑을 두른 전함이다. YBM All in All English-Korean Dictionary",
+      "english": "The Turtle Boat is an ironclad warship. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "일단",
+      "hanja": " (一旦)",
+      "example": {},
+      "meanings": [
+        "(우선, 먼저) first",
+        "(잠깐) for now, for the moment, for the time being, for the present",
+        "(한번) once"
+      ]
+    },
+    {
+      "phrase": "일단",
+      "hanja": " (一段)",
+      "example": {},
+      "meanings": [
+        "(기어의 첫 단계) first gear",
+        "(태권도·바둑 등의) first level, first degree"
+      ]
+    },
+    {
+      "phrase": "일단",
+      "hanja": " (一團)",
+      "example": {},
+      "meanings": [
+        "(한 무리)"
+      ]
+    },
+    {
+      "phrase": "일단",
+      "hanja": " (一端)",
+      "example": {},
+      "meanings": [
+        "Noun one end",
+        "Noun part (→편린)"
+      ]
+    },
+    {
+      "phrase": "일장일단",
+      "hanja": " (一長一短)",
+      "example": {},
+      "meanings": [
+        "strength and weakness"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "once",
+      "frequency": 3
+    },
+    {
+      "meaning": "bundle",
+      "frequency": 3
+    },
+    {
+      "meaning": "band 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "clutch 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "covey",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "일단 모여볼게요 여러분! Let's gather up. 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Let's gather up."
+    },
+    {
+      "korean": "일단 아이템 드릴까요? Do you want an item? 듣기 View video OSEN : PENTAGON 펜타곤, 여동생에 소개시켜주고 싶은 멤버? #스타로드 04",
+      "english": "Do you want an item?"
+    },
+    {
+      "korean": "뭐야~ - 일단 모여보세요~ Oh what? - Gather close! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Oh what? - Gather close!"
+    },
+    {
+      "korean": "[그리고!] 일단 저희 점수 획득한 거죠? [Also!] We got points, right? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Also!] We got points, right?"
+    },
+    {
+      "korean": "일단 거북목 먼저 - 이렇게? First, the turtle neck first... - Like this? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "First, the turtle neck first... - Like this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Once destroyed, brain cells do not regenerate. 듣기 Add to Wordbook 뇌세포는 일단 파괴되면 재생이 안 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Once destroyed, brain cells do not regenerate. Add to Wordbook"
+    },
+    {
+      "korean": "Once opened, this product should be kept refrigerated. 듣기 Add to Wordbook 이 상품은 일단 개봉한 후에는 냉장고에 보관해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Once opened, this product should be kept refrigerated. Add to Wordbook"
+    },
+    {
+      "korean": "Her nervousness quickly disappeared once she was on stage. 듣기 Add to Wordbook 일단 무대 위에 올라가자 그녀는 초조감이 곧 없어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her nervousness quickly disappeared once she was on stage. Add to Wordbook"
+    },
+    {
+      "korean": "Once in the bloodstream, the bacteria adhere to the surface of the red cells. 듣기 Add to Wordbook 그 박테리아는 일단 혈액 속에 들어가면 적혈구 표면에 들러붙는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Once in the bloodstream, the bacteria adhere to the surface of the red cells. Add to Wordbook"
+    },
+    {
+      "korean": "The water is fine once you’re in! 듣기 Add to Wordbook 일단 물 속에 들어오면 괜찮아! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The water is fine once you’re in! Add to Wordbook"
+    }
+  ]
+}

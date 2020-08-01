@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "파편",
+      "hanja": " (破片)",
+      "example": {},
+      "meanings": [
+        "fragment, chip, splinter, debris, (폭발로 인한) shrapnel, (유리·금속 등의) shard"
+      ]
+    },
+    {
+      "phrase": "유리 파편",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pieces of broken glass",
+        "fragments of glass"
+      ]
+    },
+    {
+      "phrase": "포탄의 파편",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "splinters of a shell"
+      ]
+    },
+    {
+      "phrase": "파편을 이어 붙이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put the broken pieces together"
+      ]
+    },
+    {
+      "phrase": "상대적 파편효과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 relative effectiveness ▶TNT에 대비한 효과"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fragment",
+      "frequency": 3
+    },
+    {
+      "meaning": "shrapnel",
+      "frequency": 0
+    },
+    {
+      "meaning": "scrap 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "shard",
+      "frequency": 0
+    },
+    {
+      "meaning": "brash 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "승관이가 모기를 잡았는데 그 파편이... Seungkwan hit a mosquito and the pieces of it... 듣기 View video SEVENTEEN : [SEVENTEEN RADIO] 캐럿들 귀대귀대#31",
+      "english": "Seungkwan hit a mosquito and the pieces of it..."
+    },
+    {
+      "korean": "파편이 제가 이제 별명입니다. - 그래그래 Memory 을 작곡한 파편. Fragment is my nickname. - The person who wrote \"Memory\". 듣기 View video Happy Robot Records : 소란 작업중",
+      "english": "Fragment is my nickname. - The person who wrote \"Memory\"."
+    },
+    {
+      "korean": "저는 그때 그 상처, 꽂혀있는 유리 파편이랑 상처를 보고... When I saw his scar, the scattered glass and his wound... 듣기 View video V MOVIE : 이병헌+강동원+김우빈 <마스터> 무비토크 라이브 ' Movie Talk Live'",
+      "english": "When I saw his scar, the scattered glass and his wound..."
+    },
+    {
+      "korean": "깨진 충격에 의해 힘의 원인이 된 곳으로도 파편이 날아가거든. The glass splinters fly to the direction where it was thrown. 듣기 View video 컨버전스 TV (CONS TV) : [악동탐정스 Part 3] 제1화. 황제지보 도난사건Ⅰ",
+      "english": "The glass splinters fly to the direction where it was thrown."
+    },
+    {
+      "korean": "이건 변경가능성이 많으니까. - Instagram 보시는분들은 파편이 뭔지 아세요? This has high possibility of changing. - Do guys know Fragment? 듣기 View video Happy Robot Records : 소란 작업중",
+      "english": "This has high possibility of changing. - Do guys know Fragment?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Falling debris rained on us from above. 듣기 Add to Wordbook 위에서 낙하하는 파편들이 우리에게 비처럼 쏟아졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Falling debris rained on us from above. Add to Wordbook"
+    },
+    {
+      "korean": "A tiny fraction was found in her house. 듣기 Add to Wordbook 그녀의 집에서 작은 파편이 발견되었다. 절대어휘 5100",
+      "english": "A tiny fraction was found in her house. Add to Wordbook"
+    },
+    {
+      "korean": "Be careful not to step on any fragments. 듣기 Add to Wordbook 파편을 밟지 않도록 조심해라. 절대어휘 5100",
+      "english": "Be careful not to step on any fragments. Add to Wordbook"
+    },
+    {
+      "korean": "Shards of (broken) glass still remain on the ground. 듣기 Add to Wordbook 유리 파편이 아직도 바닥에 남아 있다 Neungyule",
+      "english": "Shards of (broken) glass still remain on the ground. Add to Wordbook"
+    },
+    {
+      "korean": "Tiny pieces of shrapnel were delicately removed. 듣기 Add to Wordbook 정교한 솜씨로 작은 파편들이 제거되었다. Neungyule",
+      "english": "Tiny pieces of shrapnel were delicately removed. Add to Wordbook"
+    }
+  ]
+}

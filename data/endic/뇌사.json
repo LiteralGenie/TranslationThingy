@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "뇌사",
+      "hanja": " (腦死)",
+      "example": {},
+      "meanings": [
+        "brain death"
+      ]
+    },
+    {
+      "phrase": "뇌사의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "brain dead"
+      ]
+    },
+    {
+      "phrase": "뇌사 상태에 빠지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have brain death",
+        "be brain-dead"
+      ]
+    },
+    {
+      "phrase": "뇌사증후군",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 brain death syndrome"
+      ]
+    },
+    {
+      "phrase": "뇌사 모델",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "brain-dead model"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "brain death",
+      "frequency": 0
+    },
+    {
+      "meaning": "cerebral death",
+      "frequency": 0
+    },
+    {
+      "meaning": "brain sand",
+      "frequency": 0
+    },
+    {
+      "meaning": "human death",
+      "frequency": 0
+    },
+    {
+      "meaning": "Hirntod",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "He was pronounced brain-dead. 발음듣기 그는 뇌사 판정을 받았다 Neungyule",
+      "english": "He was pronounced brain-dead. 발음"
+    },
+    {
+      "korean": "My father has been brain dead since the traffic accident. 발음듣기 아버지는 교통사고 후 줄곧 뇌사 상태에 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "My father has been brain dead since the traffic accident. 발음"
+    },
+    {
+      "korean": "The nose, lip and chin donated for the face transplant in France came from a woman who had been declared brain-dead. 발음듣기 프랑스에서의 안면이식을 위해 기증된 코, 입술, 턱은 뇌 사 상태로 판명된 한 여성으로부터 왔다. Neungyule",
+      "english": "The nose, lip and chin donated for the face transplant in France came from a woman who had been declared brain-dead. 발음"
+    },
+    {
+      "korean": "If a healthy baby is born, the case could be longest of the world's few such treatments of brain-dead women. 발음듣기 만약에 건강한 아기가 태어난다면, 이 경우는 뇌사한 여인이 세계적으로 드문 가장 긴 기간동안 치료를 받은 경우가 될 것이다. YBM All in All English-Korean Dictionary",
+      "english": "If a healthy baby is born, the case could be longest of the world's few such treatments of brain-dead women. 발음"
+    },
+    {
+      "korean": "Kim's doctors added that she had some very limited brain activity about once a day that kept her from being declared brain dead. 발음듣기 김씨의 의사들은, 그녀가 하루에 한 번 정도 아주 제한된 약간의 뇌 활동을 하고 있는데, 이것 때문에 뇌사 판정을 하지 못하고 있다고 덧붙였다. Neungyule",
+      "english": "Kim's doctors added that she had some very limited brain activity about once a day that kept her from being declared brain dead. 발음"
+    }
+  ]
+}

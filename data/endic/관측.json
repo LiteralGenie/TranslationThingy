@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "관측",
+      "hanja": " (觀測)",
+      "example": {},
+      "meanings": [
+        "(자연현상·천체 등을) [명사] observation, [동사] observe",
+        "(전망, 예측) [명사] prediction, [동사] predict"
+      ]
+    },
+    {
+      "phrase": "나의 관측으로는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in my opinion",
+        "to my mind"
+      ]
+    },
+    {
+      "phrase": "별을 관측하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "observe the stars"
+      ]
+    },
+    {
+      "phrase": "관측 기구",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an observation balloon"
+      ]
+    },
+    {
+      "phrase": "관측 오차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an observational error"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "observation",
+      "frequency": 2
+    },
+    {
+      "meaning": "SUROB",
+      "frequency": 0
+    },
+    {
+      "meaning": "Obsn",
+      "frequency": 0
+    },
+    {
+      "meaning": "min observation",
+      "frequency": 0
+    },
+    {
+      "meaning": "weather balloon",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "비오는 날 천체관측이 가능한가? How can you do that when it rains? 듣기 View video KIM JUNSU : 김준수 - 뮤지컬 <데스노트> 샤엘의 추리력 점검",
+      "english": "How can you do that when it rains?"
+    },
+    {
+      "korean": "그 어떤 상황에서도 관측이 된다고 하는데. exuding from his perfectly sculpted face. 듣기 View video V WEB DRAMA : [존잘러] 갓세븐 진영 편",
+      "english": "exuding from his perfectly sculpted face."
+    },
+    {
+      "korean": "비오는 날 천체관측이 불가능하므로 철수가 범인이다. It's impossible in the rain, so Cheolsu is the killer. 듣기 View video KIM JUNSU : 김준수 - 뮤지컬 <데스노트> 샤엘의 추리력 점검",
+      "english": "It's impossible in the rain, so Cheolsu is the killer."
+    },
+    {
+      "korean": "그래, 천체관측을 하고 있었다라는 게 거짓말일 확률이 높다. So it's probable that he was lying about astronomy observation. 듣기 View video KIM JUNSU : 김준수 - 뮤지컬 <데스노트> 샤엘의 추리력 점검",
+      "english": "So it's probable that he was lying about astronomy observation."
+    },
+    {
+      "korean": "드디어 5일 뒤면 10년 만에 찾아온 개기일식을 관측할 수 있는 날입니다. 5 days later, we will witness solar and lunar eclipse after 10 years. 듣기 View video Golden Child : 골든차일드(Golden Child) Golden Movie \"奇跡(기적)\"",
+      "english": "5 days later, we will witness solar and lunar eclipse after 10 years."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the mildest winter since records began 발음듣기 기상 기록[관측]이 시작된 이래 가장 포근한 겨울 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the mildest winter since records began 발음"
+    },
+    {
+      "korean": "The GOCI observes the Korean peninsula. 발음듣기 천리안 해양관측위성은 한반도를 관찰 중이다. 국제영어대학원대학교 신어사전",
+      "english": "The GOCI observes the Korean peninsula. 발음"
+    },
+    {
+      "korean": "We could see a sycygy in the sky. 발음듣기 우리는 세 개의 행성이 결합하는 현상을 하늘에서 관측할 수 있습니다. 국제영어대학원대학교 신어사전",
+      "english": "We could see a sycygy in the sky. 발음"
+    },
+    {
+      "korean": "If Mitag lands on the Korean Peninsula, it will be the seventh typhoon to hit the country this year, equaling the record set in 1959. The nation started observing typhoons in 1951. 발음듣기 미탁이 한반도에 상륙하면 올해 들어 7번째 태풍이 된다. 이는 1959년과 동일한 기록이다. 한국은 1951년에 태풍 관측을 시작했다. The Korea Times",
+      "english": "If Mitag lands on the Korean Peninsula, it will be the seventh typhoon to hit the country this year, equaling the record set in 1959. The nation started observing typhoons in 1951. 발음"
+    },
+    {
+      "korean": "Astronomers use this equipment to observe orbital motion on a regular basis. 발음듣기 천문학자는 이 장비를 사용해서 정기적으로 궤도의 운행을 관측한다. 절대어휘 5100",
+      "english": "Astronomers use this equipment to observe orbital motion on a regular basis. 발음"
+    }
+  ]
+}

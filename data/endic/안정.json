@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "안정",
+      "hanja": " (安靜)",
+      "example": {},
+      "meanings": [
+        "(몸과 마음의 평정) stability, calm, calm (down)",
+        "(휴식) rest, rest, take a rest, have a rest"
+      ]
+    },
+    {
+      "phrase": "안정",
+      "hanja": " (安定)",
+      "example": {},
+      "meanings": [
+        "stability, stabilization, be stabilized, become stable[steady]"
+      ]
+    },
+    {
+      "phrase": "안정시키다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "set at ease",
+        "quiet",
+        "relieve"
+      ]
+    },
+    {
+      "phrase": "마음의 안정",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a state of balance"
+      ]
+    },
+    {
+      "phrase": "생활의 안정",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stabilization of living",
+        "settlement"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "stability",
+      "frequency": 3
+    },
+    {
+      "meaning": "rest 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "stabilization",
+      "frequency": 3
+    },
+    {
+      "meaning": "counterpoise",
+      "frequency": 0
+    },
+    {
+      "meaning": "tranquilization",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[생각보다 안정적인 자세] 1, 2, 3, 4, 5... [Better than expected] 1, 2, 3, 4, 5... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Better than expected] 1, 2, 3, 4, 5..."
+    },
+    {
+      "korean": "[안정감을 찾은 삼인방] - 나 지금 느낌이 좋아 - 제발! [Three players feel secured] - I guess I'm so lucky. - Please. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Three players feel secured] - I guess I'm so lucky. - Please."
+    },
+    {
+      "korean": "시작! - 우기 너무 안정적이야 - 미연이 옛날에 했었어 이거! Start! - Yuqi is too safe. - Miyeon did this a long time ago! 듣기 View video (G)I-DLE : 유부초밥 🦄♥️",
+      "english": "Start! - Yuqi is too safe. - Miyeon did this a long time ago!"
+    },
+    {
+      "korean": "그게 조금 무겁고 약간 안정감 있고 - 진짜? Because they're heavier and more stable. - Really? 듣기 View video TWICE : 모쯔♡",
+      "english": "Because they're heavier and more stable. - Really?"
+    },
+    {
+      "korean": "조금 안정감이 들었어요 - 내 믿지들... 인정! I felt comfortable when I saw them. - Our MIDZYs... I agree! 듣기 View video ITZY : 저희 왔어요~~~~",
+      "english": "I felt comfortable when I saw them. - Our MIDZYs... I agree!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He gave her a drink spiked with tranquillizers. 듣기 Add to Wordbook 그가 그녀에게 신경 안정제를 탄 술을 한 잔 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He gave her a drink spiked with tranquillizers. Add to Wordbook"
+    },
+    {
+      "korean": "It is anticipated that inflation will stabilize at 3%. 듣기 Add to Wordbook 물가상승률이 3%에서 안정될 것으로 예상된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is anticipated that inflation will stabilize at 3%. Add to Wordbook"
+    },
+    {
+      "korean": "Terrorist attacks were threatening to destabilize the government. 듣기 Add to Wordbook 테러범들의 공격이 그 정부의 안정을 위협하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Terrorist attacks were threatening to destabilize the government. Add to Wordbook"
+    },
+    {
+      "korean": "Married life made him feel hedged in and restless. 듣기 Add to Wordbook 결혼 생활은 그에게 꼼짝 없이 갇혀서 안정감을 느낄 수 없다는 기분이 들게 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Married life made him feel hedged in and restless. Add to Wordbook"
+    },
+    {
+      "korean": "government measures to stabilize prices 듣기 Add to Wordbook 물가를 안정시키려는 정부의 조치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "government measures to stabilize prices Add to Wordbook"
+    }
+  ]
+}

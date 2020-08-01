@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "학",
+      "hanja": " (鶴)",
+      "example": {},
+      "meanings": [
+        "crane"
+      ]
+    },
+    {
+      "phrase": "-학",
+      "hanja": " (學)",
+      "example": {},
+      "meanings": [
+        "Affix -hak"
+      ]
+    },
+    {
+      "phrase": "hark",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb 옛글투 (명령문으로만 쓰여) 잘 들어라"
+      ]
+    },
+    {
+      "phrase": "hock",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비절(짐승의 뒷다리 가운데 부분 관절)",
+        "Noun 英 혹(독일산 백포도주)",
+        "Verb 비격식 전당 잡히다 (=pawn)"
+      ]
+    },
+    {
+      "phrase": "haugh",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [스코·북잉글] 강변 저지(低地)의 (목)초지, 평탄한 충적지(沖積地)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "study",
+      "frequency": 3
+    },
+    {
+      "meaning": "science",
+      "frequency": 3
+    },
+    {
+      "meaning": "crane",
+      "frequency": 3
+    },
+    {
+      "meaning": "rhetoric",
+      "frequency": 3
+    },
+    {
+      "meaning": "astrology",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "반 배정... 저도 이제 학... Right. At the beginning of a semester... 듣기 View video AB6IX : 짹🐦",
+      "english": "Right. At the beginning of a semester..."
+    },
+    {
+      "korean": "옆모습 보시면 한마리의 학 같죠? The side profile. It looks like a crane, right? 듣기 View video 우주소녀(WJSN) : [다영] 다영이의 요리교실🍳 Ep.11",
+      "english": "The side profile. It looks like a crane, right?"
+    },
+    {
+      "korean": "이 옷 입고 학... Wearing this and going to school... 듣기 View video PARK JI HOON : [Wink Arcade] 박지훈 VOGUE 촬영 현장 비하인드 Lv.3",
+      "english": "Wearing this and going to school..."
+    },
+    {
+      "korean": "그래서 그 학 모형이라고 해야 되나요? So that crane replica... Do I call it that? 듣기 View video PENTAGON : 후이의 뮤직토크 #12",
+      "english": "So that crane replica... Do I call it that?"
+    },
+    {
+      "korean": "이렇게 제가 직접 만든 휴닝카이는 중간에 중도 포기한 학 그리고... This is the crane I made, the one HUENINGKAI gave up on. 듣기 View video V PICK! : [V PICK! HOW TO in V] 수빈휴닝카이의 종이풍선접기💖💛 (HOW TO MAKE SOOBIN&HUENINGKAI's Balloon Origami)",
+      "english": "This is the crane I made, the one HUENINGKAI gave up on."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The kids folded paper to make cranes. 듣기 Add to Wordbook 아이들은 종이로 학을 접었다 Neungyule",
+      "english": "The kids folded paper to make cranes. Add to Wordbook"
+    },
+    {
+      "korean": "The children made cranes out of paper. 듣기 Add to Wordbook 아이들은 종이로 학을 접었다 Neungyule",
+      "english": "The children made cranes out of paper. Add to Wordbook"
+    },
+    {
+      "korean": "The ten traditional Symbols of Longevity are the sun, mountains, water, rocks, pine trees, clouds, the bulaocao, the tortoise, the crane, and deer. 듣기 Add to Wordbook 장생불사를 표상한 10가지 물상으로 해, 산, 물, 돌, 소나무, 구름, 불로초, 거북, 학, 사슴을 뜻한다. Neungyule",
+      "english": "The ten traditional Symbols of Longevity are the sun, mountains, water, rocks, pine trees, clouds, the bulaocao, the tortoise, the crane, and deer. Add to Wordbook"
+    },
+    {
+      "korean": "Before Empire High opened, officials looked at the use of laptops in other schools. 듣기 Add to Wordbook 엠파이어 고등학교가 개교하기 전, 교육당국은 다른 학 교에서 노트북의 사용을 지켜봤습니다. Neungyule",
+      "english": "Before Empire High opened, officials looked at the use of laptops in other schools. Add to Wordbook"
+    },
+    {
+      "korean": "With academic morals in decline, the students exempt from such behavior slowly find themselves at a disadvantage. 듣기 Add to Wordbook 학교도덕의 하락과 함께 이러한 행동에 속하지 않는 학 생들은 서서히 자신들이 불리함을 깨닫는다. Neungyule",
+      "english": "With academic morals in decline, the students exempt from such behavior slowly find themselves at a disadvantage. Add to Wordbook"
+    }
+  ]
+}

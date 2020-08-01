@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "자물쇠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(door) lock, (맹꽁이자물쇠) padlock, (번호를 맞춰서 여는) combination lock, (자전거 등에 채우는) bicycle lock"
+      ]
+    },
+    {
+      "phrase": "자물쇠를 채우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lock (up)"
+      ]
+    },
+    {
+      "phrase": "자물쇠가 잠겨 있지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be off the lock",
+        "be unlocked"
+      ]
+    },
+    {
+      "phrase": "자물쇠를 열다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unlock (a door)"
+      ]
+    },
+    {
+      "phrase": "자물쇠를 잠가 놓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep locked"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lock",
+      "frequency": 2
+    },
+    {
+      "meaning": "catch",
+      "frequency": 2
+    },
+    {
+      "meaning": "latch",
+      "frequency": 1
+    },
+    {
+      "meaning": "lock 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "Locks",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[그대로 당기기만 하면 열리는 자물쇠?] BTB13? [Lock that can be open by pulling it down?] BTB13? 듣기 View video BTS : Run BTS! 2020 - EP.110",
+      "english": "[Lock that can be open by pulling it down?] BTB13?"
+    },
+    {
+      "korean": "[자물쇠] 이걸 어떻게 열까? [A lock] How do we open this? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.12 SVT ESCAPE ROOM #1",
+      "english": "[A lock] How do we open this?"
+    },
+    {
+      "korean": "이걸... - 자물쇠가... - 또 자물쇠 또 있어? This... - Another lock? - Do we have a lock, too? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.13 SVT ESCAPE ROOM #2",
+      "english": "This... - Another lock? - Do we have a lock, too?"
+    },
+    {
+      "korean": "자 여기 하나 자물쇠도 있고요 - 맞지? There's another lock here. - Right? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.12 SVT ESCAPE ROOM #1",
+      "english": "There's another lock here. - Right?"
+    },
+    {
+      "korean": "[아무도 안 들음] 여기 자물쇠가 뭐야? [Nobody's listening] What's the lock here? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.12 SVT ESCAPE ROOM #1",
+      "english": "[Nobody's listening] What's the lock here?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She rammed the key into the lock. 발음듣기 그녀는 열쇠를 자물쇠 안으로 쑤셔 넣었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She rammed the key into the lock. 발음"
+    },
+    {
+      "korean": "She listened for his key in the latch. 발음듣기 그녀는 그가 열쇠로 자물쇠를 여는 소리를 들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She listened for his key in the latch. 발음"
+    },
+    {
+      "korean": "She always padlocked her bike to the railings. 발음듣기 그녀는 항상 자전거를 맹꽁이자물쇠로 난간에 잠가 놓았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She always padlocked her bike to the railings. 발음"
+    },
+    {
+      "korean": "She jiggled with the lock. 발음듣기 그녀가 자물쇠를 흔들어 댔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She jiggled with the lock. 발음"
+    },
+    {
+      "korean": "The key doesn’t fit the lock. 발음듣기 열쇠가 자물쇠에 안 맞는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The key doesn’t fit the lock. 발음"
+    }
+  ]
+}

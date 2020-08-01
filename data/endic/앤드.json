@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "and",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Conjunction -와/과, -고, 그리고",
+        "Conjunction … 더하기 (=plus)",
+        "Conjunction …하더니, 그리고는"
+      ]
+    },
+    {
+      "phrase": "AND",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun [컴퓨터] 앤드, 논리곱 ((논리곱을 만드는 논리 연산자(論理演算子), cf. OR))"
+      ]
+    },
+    {
+      "phrase": "and.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "andante"
+      ]
+    },
+    {
+      "phrase": "And.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Andorra"
+      ]
+    },
+    {
+      "phrase": "AND",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(약어) Asia Democracy Network, 아시아 민주주의 네트워크"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "AND",
+      "frequency": 0
+    },
+    {
+      "meaning": "&",
+      "frequency": 0
+    },
+    {
+      "meaning": "rhythm and blues",
+      "frequency": 0
+    },
+    {
+      "meaning": "Plug and Play",
+      "frequency": 0
+    },
+    {
+      "meaning": "City and Guilds Institute",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "조금 감동? 앤드 설렘? 다시 보게 되는 전환점?",
+      "english": "It was really touching and exciting. I started to see him in a different way."
+    },
+    {
+      "korean": "앤드 게임 애들 게임?",
+      "english": "End game? Kids game?"
+    },
+    {
+      "korean": "앤드 우리의 색동옷.",
+      "english": "And, this is our colorful dresses."
+    },
+    {
+      "korean": "'믹스 앤드 매치' 를 다시 봤는데 - 그런데?",
+      "english": "I watched it again... - And?"
+    },
+    {
+      "korean": "오늘 블랙 앤드 화이트예요.",
+      "english": "My concept today is black and white."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "라르센 앤드 토브로는 뭄바이에 본사를 두고 있다.",
+      "english": "L & T is headquartered in Mumbai."
+    },
+    {
+      "korean": "그는 또한 발라드, 리듬 앤드 블루스, 컨트리 음악, 복음성가도 불렀다.",
+      "english": "He also sang ballads, rhythm and blues, country music, and gospel."
+    },
+    {
+      "korean": "시들러 앤드 선스 사는 몇 층에 있습니까?",
+      "english": "What floor is Siddler and Sons on?"
+    },
+    {
+      "korean": "하버는 블랙 앤드 탄 쿤하운드 종이다.",
+      "english": "Harbor is a black-and-tan coonhound."
+    },
+    {
+      "korean": "카운트는 원 앤드 원이다",
+      "english": "The count is one ball, one strike. or The count is one and one."
+    }
+  ]
+}

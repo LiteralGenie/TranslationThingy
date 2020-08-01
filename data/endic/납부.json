@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "납부",
+      "hanja": " (納付)",
+      "example": {},
+      "meanings": [
+        "[명사] payment, [동사] pay, make a payment"
+      ]
+    },
+    {
+      "phrase": "분할 납부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "divided payments",
+        "payment on an installment basis"
+      ]
+    },
+    {
+      "phrase": "납부 고지서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bill, notice"
+      ]
+    },
+    {
+      "phrase": "납부 기한",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "due date for payment"
+      ]
+    },
+    {
+      "phrase": "세금을 내다[납부하다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pay taxes[duties] (on)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tax payment",
+      "frequency": 0
+    },
+    {
+      "meaning": "paid-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "pay",
+      "frequency": 3
+    },
+    {
+      "meaning": "be in arrears",
+      "frequency": 0
+    },
+    {
+      "meaning": "frank",
+      "frequency": 3
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "people who are tardy in paying their bills 듣기 Add to Wordbook 공과금 납부를 질질 끄는 사람들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "people who are tardy in paying their bills Add to Wordbook"
+    },
+    {
+      "korean": "We pay all our bills by direct debit. 듣기 Add to Wordbook 우리는 모든 공과금을 자동 이체로 납부한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We pay all our bills by direct debit. Add to Wordbook"
+    },
+    {
+      "korean": "A returnable deposit is payable on arrival. 듣기 Add to Wordbook 나중에 환불되는 예치금은 도착해서 납부하면 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A returnable deposit is payable on arrival. Add to Wordbook"
+    },
+    {
+      "korean": "Are the monthly repayments within your means? 듣기 Add to Wordbook 당신의 수입으로 그 납부금을 낼 수가 있습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Are the monthly repayments within your means? Add to Wordbook"
+    },
+    {
+      "korean": "a TV licence stamp 듣기 Add to Wordbook TV 시청료 납부 증지 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a TV licence stamp Add to Wordbook"
+    }
+  ]
+}

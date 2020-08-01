@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "발견하다",
+      "hanja": " (發見하다)",
+      "example": {},
+      "meanings": [
+        "Verb discover, find"
+      ]
+    },
+    {
+      "phrase": "발견하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 locate"
+      ]
+    },
+    {
+      "phrase": "발견",
+      "hanja": " (發見)",
+      "example": {},
+      "meanings": [
+        "[명사] discovery, detection, [동사] discover, find (out), detect, spot, (formal) sight, (우연히) stumble on[across, upon], chance (up)on, light (up)on, come across"
+      ]
+    },
+    {
+      "phrase": "우연히 발견하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "light upon",
+        "stumble on"
+      ]
+    },
+    {
+      "phrase": "획기적 발견",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an epoch-making discovery"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "discover",
+      "frequency": 3
+    },
+    {
+      "meaning": "discovery",
+      "frequency": 3
+    },
+    {
+      "meaning": "find",
+      "frequency": 3
+    },
+    {
+      "meaning": "detect",
+      "frequency": 3
+    },
+    {
+      "meaning": "find out",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[막내의 능력을 또 하나 발견해낸 프로칭찬러 웅] 너 근데 이것도 능력이다! But even this is your skill! 듣기 View video AB6IX : [예삐소드] AB6IX (에이비식스) 2019 AWARDS BEHIND #2",
+      "english": "But even this is your skill!"
+    },
+    {
+      "korean": "[(누군가 발견해붐)] 괜찮아요? [Found someone] Okay? 듣기 View video 방판소년단-SBS Plus : [방판소년단 EP57] 처음본 女에게 무릎꿇은 男",
+      "english": "[Found someone] Okay?"
+    },
+    {
+      "korean": "또 다른 운동신경을 발견해낸 것 같아요. I've discovered my athletic side. 듣기 View video BTS : Run BTS! 2018 - EP.42",
+      "english": "I've discovered my athletic side."
+    },
+    {
+      "korean": "모든 돈이 자신에게로 입금되고 있는 것을 발견해. and he realizes that all the money are coming into his account. 듣기 View video 컨버전스 TV (CONS TV) : 악동탐정스 시즌2 14화 <스나이퍼 예매사건 Ⅱ>",
+      "english": "and he realizes that all the money are coming into his account."
+    },
+    {
+      "korean": "새로운 음식을 발견해 내고 발굴해 내고... To discover a new food. 듣기 View video V COOKIE : [Full] Red Velvet X EATING SHOW - 레드벨벳의 같이먹어요!",
+      "english": "To discover a new food."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "A sharp-eyed reader spotted the mistake in yesterday’s paper. 듣기 Add to Wordbook 눈이 예리한 한 독자가 어제 신문에서 그 실수를 발견해 냈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A sharp-eyed reader spotted the mistake in yesterday’s paper. Add to Wordbook"
+    },
+    {
+      "korean": "Education is a progressive discovery of our own ignorance. (Will Durant) 듣기 Add to Wordbook 교육은 우리 자신의 무지를 점차 발견해 가는 과정이다. (윌 듀란트, 공부명언) 명언/속담",
+      "english": "Education is a progressive discovery of our own ignorance. (Will Durant) Add to Wordbook"
+    },
+    {
+      "korean": "In preparing for battle I have always found that plans are useless, but planning is indispensable. (Dwight D. Eisenhower) 듣기 Add to Wordbook 나는 전투를 준비하면서 계획은 무용하나 계획하는 것은 꼭 필요함을 항상 발견해왔다. (드와이트 데이비드 아이젠하워, 노력명언) 명언/속담",
+      "english": "In preparing for battle I have always found that plans are useless, but planning is indispensable. (Dwight D. Eisenhower) Add to Wordbook"
+    },
+    {
+      "korean": "He finds a spear point on the altar and uses it to hunt. 듣기 Add to Wordbook 그는 제단에서 창 끝을 발견해, 이것을 사냥하는 데 사용한다. Neungyule",
+      "english": "He finds a spear point on the altar and uses it to hunt. Add to Wordbook"
+    },
+    {
+      "korean": "They find their old books. 듣기 Add to Wordbook 그들은 그들의 낡은 책들을 발견해요. YBM All in All English-Korean Dictionary",
+      "english": "They find their old books. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "하인",
+      "hanja": " (下人)",
+      "example": {},
+      "meanings": [
+        "servant"
+      ]
+    },
+    {
+      "phrase": "하인을 내쫓다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "dismiss[fire] a servant",
+        "send a servant packing"
+      ]
+    },
+    {
+      "phrase": "하인을 부리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "keep a servant",
+        "work a servant"
+      ]
+    },
+    {
+      "phrase": "하인을 두다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have[keep] a servant"
+      ]
+    },
+    {
+      "phrase": "주인과 하인",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "master and servant"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "servant",
+      "frequency": 2
+    },
+    {
+      "meaning": "man",
+      "frequency": 2
+    },
+    {
+      "meaning": "service",
+      "frequency": 2
+    },
+    {
+      "meaning": "footman",
+      "frequency": 1
+    },
+    {
+      "meaning": "retainer",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[내가 혹시 하인 콘셉트?] 나는 하인이냐? but am I a servant? 듣기 View video V WEB DRAMA : [캐남] 고객님을 찾습니다_2회",
+      "english": "but am I a servant?"
+    },
+    {
+      "korean": "이건 하인인데? This is slavery? 듣기 View video MAP6 : MAP6 TV 복습하기 EP.004 부채홍보타임",
+      "english": "This is slavery?"
+    },
+    {
+      "korean": "난이도 하인가요? Is this beginner difficulty? 듣기 View video Apink : Apink 초롱이의 특별한 생일파티에 초대합니다!",
+      "english": "Is this beginner difficulty?"
+    },
+    {
+      "korean": "이게 하인가요 난이도? This level of difficulty is low? 듣기 View video Apink : Apink 초롱이의 특별한 생일파티에 초대합니다!",
+      "english": "This level of difficulty is low?"
+    },
+    {
+      "korean": "그때부터 저의 하인이 된거죠. So you became my servant. 듣기 View video AKMU : [AKMU의 사춘기노트 p.8] '10년 뒤의 나에게'",
+      "english": "So you became my servant."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a menial servant 발음듣기 하인. Friendict Level English-Korean Dictionary",
+      "english": "a menial servant 발음"
+    },
+    {
+      "korean": "domestic servants 발음듣기 하인. Friendict Level English-Korean Dictionary",
+      "english": "domestic servants 발음"
+    },
+    {
+      "korean": "My man will drive you home. 발음듣기 제 하인이 댁까지 모셔다 드릴 겁니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My man will drive you home. 발음"
+    },
+    {
+      "korean": "Servants are now almost extinct in modern society. 발음듣기 하인은 이제 현대 사회에서는 거의 없어졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Servants are now almost extinct in modern society. 발음"
+    },
+    {
+      "korean": "The servant of a king is a king. 발음듣기 왕의 하인은 왕이다. (서양속담, 명예속담) 명언/속담",
+      "english": "The servant of a king is a king. 발음"
+    }
+  ]
+}

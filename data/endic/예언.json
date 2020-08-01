@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "예언",
+      "hanja": " (豫言)",
+      "example": {},
+      "meanings": [
+        "[명사] prophecy, prediction, [동사] foretell, prophesy, predict"
+      ]
+    },
+    {
+      "phrase": "예언할 수 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "predictable",
+        "foreseeable"
+      ]
+    },
+    {
+      "phrase": "앞일을 예언하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "make predictions of coming events"
+      ]
+    },
+    {
+      "phrase": "예언이 틀리다[맞다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a prophecy fails[comes true]"
+      ]
+    },
+    {
+      "phrase": "장래를 예언하다[예측하다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "predict[forecast, foretell] the future"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "prophecy",
+      "frequency": 1
+    },
+    {
+      "meaning": "prognostication",
+      "frequency": 0
+    },
+    {
+      "meaning": "prognostic",
+      "frequency": 0
+    },
+    {
+      "meaning": "soothsay",
+      "frequency": 0
+    },
+    {
+      "meaning": "bodement",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나 예언한 거 얘기해도 되나? Can I talk about my prediction? 듣기 View video TOMORROW X TOGETHER : 🐥🐸🍨",
+      "english": "Can I talk about my prediction?"
+    },
+    {
+      "korean": "떡볶이가 세상을 구한다는 예언가가 나타났다! There's a Tteokbokki prophet! 듣기 View video WINNER : 숙제도우미(숙제 도와드립니다)",
+      "english": "There's a Tteokbokki prophet!"
+    },
+    {
+      "korean": "[머쓱해진 예언자(?)] - 고생하셨습니다 - 다음으로 가볼까요? [Awkward prophet] - Good job. - Shall we move on? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.8",
+      "english": "[Awkward prophet] - Good job. - Shall we move on?"
+    },
+    {
+      "korean": "[뭐지...? 본인 얘기 예언한 건가...?] - 다음 거는... - 이거는... [What? Did you predict yours?] - The next one... - This... 듣기 View video BTS : Run BTS! 2020 - EP.100",
+      "english": "[What? Did you predict yours?] - The next one... - This..."
+    },
+    {
+      "korean": "[아아... RM의 예언이 현실이 되었습니다] 내가 말했잖아, 아까 떼라고! [And RM's prediction came true] I told you to take it off quickly! 듣기 View video BTS : Run BTS! 2020 - EP.95",
+      "english": "[And RM's prediction came true] I told you to take it off quickly!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "prophetic utterances 발음듣기 예언. Friendict Level English-Korean Dictionary",
+      "english": "prophetic utterances 발음"
+    },
+    {
+      "korean": "She prophesied that she would win a gold medal. 발음듣기 그녀는 자기가 금메달을 탈 것이라고 예언했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She prophesied that she would win a gold medal. 발음"
+    },
+    {
+      "korean": "The witch foretold that she would marry a prince. 발음듣기 그녀가 왕자와 결혼을 할 것이라고 마녀가 예언했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The witch foretold that she would marry a prince. 발음"
+    },
+    {
+      "korean": "Many of his warnings proved prophetic. 발음듣기 그의 경고들 중 많은 것들이 예언이었음이 입증되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many of his warnings proved prophetic. 발음"
+    },
+    {
+      "korean": "Officials concerned with environmental policy predict that a day of reckoning will come. 발음듣기 환경 정책을 염려하는 공직자들은 심판의 날이 올 것이라고 예언한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Officials concerned with environmental policy predict that a day of reckoning will come. 발음"
+    }
+  ]
+}

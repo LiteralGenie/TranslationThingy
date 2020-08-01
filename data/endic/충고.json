@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "충고",
+      "hanja": " (忠告)",
+      "example": {},
+      "meanings": [
+        "advice, recommendation, (formal) counsel, advise, give (sb) advice (on/about), recommend, (formal) counsel"
+      ]
+    },
+    {
+      "phrase": "충고를 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be advised (to)"
+      ]
+    },
+    {
+      "phrase": "간절한 충고",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sincere advice"
+      ]
+    },
+    {
+      "phrase": "충고를 무시하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disregard[ignore] sb's advice",
+        "turn a deaf ear to sb's advice",
+        "take[pay] no heed to sb's advice"
+      ]
+    },
+    {
+      "phrase": "충고를 듣다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "listen to one's advice"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "advice",
+      "frequency": 3
+    },
+    {
+      "meaning": "pointer",
+      "frequency": 3
+    },
+    {
+      "meaning": "counsel",
+      "frequency": 3
+    },
+    {
+      "meaning": "steer 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "advisement",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[충고 좀] [아는 학교 입학 예정인 두 분] - 저희 곧 나가야 되거든요 - 그래요? [Some advice] [The two will attend Knowing School soon] - We're going on the show soon. - Really? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 41회 - (여자)아이들 아이돌룸 오프닝",
+      "english": "[Some advice] [The two will attend Knowing School soon] - We're going on the show soon. - Really?"
+    },
+    {
+      "korean": "[막내 윤공듀의 충고] 품위를 지키세요. [Advice from the youngest] Keep your dignity. 듣기 View video V PICK! : [April] 내일 없이 하루만 사는 에이프릴(막내라인) (April's Yajatime!)",
+      "english": "[Advice from the youngest] Keep your dignity."
+    },
+    {
+      "korean": "충고 하나 할게요. I have an advice. 듣기 View video 우주소녀(WJSN) : 우주소녀의 지구별 여행기 부산 깜짝 라이브!",
+      "english": "I have an advice."
+    },
+    {
+      "korean": "이런 충고이셨던 것 같아요. He gave me such advices. 듣기 View video RYU JUNYEOL : [FULL] 류준열의 덕후수업 LIVE",
+      "english": "He gave me such advices."
+    },
+    {
+      "korean": "내가 지금 진짜 충고하는데. Let me give you some advice. 듣기 View video NU'EST : [NU`EST W] ARON&REN 'COOKING STAR'",
+      "english": "Let me give you some advice."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "They had been primed with good advice. 듣기 Add to Wordbook 그들은 좋은 충고들을 듣고 대비가 되어 있는 상태였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They had been primed with good advice. Add to Wordbook"
+    },
+    {
+      "korean": "She had discharged herself against medical advice. 듣기 Add to Wordbook 그녀는 의사의 충고를 따르지 않고 퇴원을 했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had discharged herself against medical advice. Add to Wordbook"
+    },
+    {
+      "korean": "Doctors now advise only sparing use of such creams. 듣기 Add to Wordbook 의사들은 이제 그러한 크림은 조금만 쓰라고 충고한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Doctors now advise only sparing use of such creams. Add to Wordbook"
+    },
+    {
+      "korean": "The guidebook warns against walking alone at night. 듣기 Add to Wordbook 여행 안내서에서는 밤에 혼자 걸어다니지 말라고 강력히 충고하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The guidebook warns against walking alone at night. Add to Wordbook"
+    },
+    {
+      "korean": "to be open to reason 듣기 Add to Wordbook 기꺼이 사리에[타당한 충고를] 따르다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to be open to reason Add to Wordbook"
+    }
+  ]
+}

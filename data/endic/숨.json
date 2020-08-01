@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "숨",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(호흡) breath, breathing, (formal) respiration",
+        "(채소 등의)",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "숨을 끊다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "cut off breath"
+      ]
+    },
+    {
+      "phrase": "숨이 죽다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The stiffness of something dies"
+      ]
+    },
+    {
+      "phrase": "숨이 트이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "open one's breath",
+        "open one's breath"
+      ]
+    },
+    {
+      "phrase": "숨을 넘기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pass one's breath"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "breath",
+      "frequency": 2
+    },
+    {
+      "meaning": "puff",
+      "frequency": 1
+    },
+    {
+      "meaning": "wind 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "breathless",
+      "frequency": 1
+    },
+    {
+      "meaning": "gasp",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "숨 안 쉬세요? Don't you breathe? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "Don't you breathe?"
+    },
+    {
+      "korean": "그래서 거기서 이렇게 숨 쉬면 돼요! Then I can breathe then. 듣기 View video IZ*ONE : 룸메즈의 간식타임!",
+      "english": "Then I can breathe then."
+    },
+    {
+      "korean": "언젠 불편하다며! 숨 막혀서 못 참겠다며! You said it was uncomfortable! You said you couldn't breathe! 듣기 View video 콬TV (WHYNOT) : 수상한 그녀 [가두리횟집] EP10",
+      "english": "You said it was uncomfortable! You said you couldn't breathe!"
+    },
+    {
+      "korean": "[숨 막히는 눈치 추적 귀욤 순발력 기타 등등.. 게임!] [This game contains all the suspense, chasing, cuteness, quick responses and everything!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[This game contains all the suspense, chasing, cuteness, quick responses and everything!]"
+    },
+    {
+      "korean": "내 숨도 아~ And my breathing goes, Ah~ 듣기 View video V COOKIE : [Full] OH MY GIRL X LieV - 오마이걸의 눕방라이브!",
+      "english": "And my breathing goes, Ah~"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She closed her eyes and inhaled deeply. 발음듣기 그녀는 눈을 감고 숨을 깊이 들이마셨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She closed her eyes and inhaled deeply. 발음"
+    },
+    {
+      "korean": "the breathless excitement of seeing each other again 발음듣기 서로를 다시 보게 된 흥분감에 숨이 막힐 듯함 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the breathless excitement of seeing each other again 발음"
+    },
+    {
+      "korean": "They gasped in astonishment at the news. 발음듣기 그들은 그 소식에 놀라서 숨이 턱 막혔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They gasped in astonishment at the news. 발음"
+    },
+    {
+      "korean": "She gasped and her hand flew to her mouth. 발음듣기 그녀가 헉 하고 숨을 들이쉬더니 급히 손으로 입을 막았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She gasped and her hand flew to her mouth. 발음"
+    },
+    {
+      "korean": "The scene was one of breathtaking beauty. 발음듣기 그 장면은 숨 막히게 아름다운 모습이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The scene was one of breathtaking beauty. 발음"
+    }
+  ]
+}

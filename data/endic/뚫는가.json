@@ -1,0 +1,80 @@
+{
+  "phrases": [
+    {
+      "phrase": "뚫다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(구멍·터널 등을) dig, bore; (드릴로) drill; (날카로운 물건으로) pierce",
+        "(포위망 등을) evade, slip (past)",
+        "(어둠·장애물 등을)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "penetrate",
+      "frequency": 1
+    },
+    {
+      "meaning": "pierce",
+      "frequency": 2
+    },
+    {
+      "meaning": "punch 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "unblock",
+      "frequency": 0
+    },
+    {
+      "meaning": "bore 1",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우리가 비를 뚫고 달려가고 있어요! We are going through rain! 듣기 View video ITZY : ITZY(있지) IT'z TOURBOOK in USA EP11",
+      "english": "We are going through rain!"
+    },
+    {
+      "korean": "아니멀쩡히 여기 구멍 뚫어놓고 왜 여기... You put holes right here... 듣기 View video V PICK! : [TXT] 최가네의 깡총 깡총 깜찍 과다로 껑충 탈출한 내 심장🐰❣️ (BEOMGYU&YEONJUN copying MC SOOBIN)",
+      "english": "You put holes right here..."
+    },
+    {
+      "korean": "피어싱 몇 개 뚫었냐고? How many piercings do I have? 듣기 View video iKON : ㄱㄱ",
+      "english": "How many piercings do I have?"
+    },
+    {
+      "korean": "귀 뚫는 거 안 아프냐고요? Does getting ears pierced not hurt? 듣기 View video GOT7 : 🌞🌞🌞",
+      "english": "Does getting ears pierced not hurt?"
+    },
+    {
+      "korean": "뚫는 거니까 아프죠.아픈데... Since it's pierced, it does... It does hurt... 듣기 View video ITZY : [ #류진 ] WAWE🙈",
+      "english": "Since it's pierced, it does... It does hurt..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He drilled through the wall by mistake. 발음듣기 그가 실수로 벽에 구멍을 뚫었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He drilled through the wall by mistake. 발음"
+    },
+    {
+      "korean": "These fine particles penetrate deep into the lungs. 발음듣기 이들 미세 입자는 폐 깊숙이 뚫고 들어간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "These fine particles penetrate deep into the lungs. 발음"
+    },
+    {
+      "korean": "We fought our way through the dense vegetation. 발음듣기 우리는 울창한 초목을 힘겹게 뚫고 길을 나아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We fought our way through the dense vegetation. 발음"
+    },
+    {
+      "korean": "We had to call in a plumber to unblock the drain. 발음듣기 우리는 배수관을 뚫기 위해 배관공을 불러야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We had to call in a plumber to unblock the drain. 발음"
+    },
+    {
+      "korean": "We pushed our way through the throng. 발음듣기 우리는 인파 사이를 뚫고 길을 나아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We pushed our way through the throng. 발음"
+    }
+  ]
+}

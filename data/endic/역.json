@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "역",
+      "hanja": " (驛)",
+      "example": {},
+      "meanings": [
+        "(기차역) (train) station, railroad[railway] station, stop; (규모가 작은) (Am) (railroad) depot"
+      ]
+    },
+    {
+      "phrase": "역",
+      "hanja": " (役)",
+      "example": {},
+      "meanings": [
+        "(역할) role, part"
+      ]
+    },
+    {
+      "phrase": "역",
+      "hanja": " (逆)",
+      "example": {},
+      "meanings": [
+        "Noun opposite, converse, reverse (→역-)"
+      ]
+    },
+    {
+      "phrase": "역-",
+      "hanja": " (逆)",
+      "example": {},
+      "meanings": [
+        "Affix yeok- (→역2)"
+      ]
+    },
+    {
+      "phrase": "역[힘]",
+      "hanja": " (力)",
+      "example": {},
+      "meanings": [
+        "의학 F"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "station",
+      "frequency": 2
+    },
+    {
+      "meaning": "reverse",
+      "frequency": 2
+    },
+    {
+      "meaning": "depot",
+      "frequency": 1
+    },
+    {
+      "meaning": "domain",
+      "frequency": 1
+    },
+    {
+      "meaning": "post 3",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'로데오역'은 진짜 연습생 때부터 지금까지의 심정... \"Rodeo Station\" is about when I was a trainee and up until now. 듣기 View video EXO : EXO-SC 세훈&찬열 '10억뷰' 인터뷰 with 개코 (Ơ3Ơ)👍🏻 (⊼⌔⊼)👍🏻",
+      "english": "\"Rodeo Station\" is about when I was a trainee and up until now."
+    },
+    {
+      "korean": "또 1인 2역 해야 되나? Do I have to play two roles? 듣기 View video V COOKIE : [Full] LEE JIN HYUK X Eating Show - 이진혁 X 같이 먹어요",
+      "english": "Do I have to play two roles?"
+    },
+    {
+      "korean": "[완벽한 최보민 역 연기!] [BO MIN's perfect acting!] View video Golden Child : 세월이 야속할 정도로 변한 10명의 하메들?! 하지만 여전히 우당탕탕인걸★ㅣ우하동 EP.1",
+      "english": "[BO MIN's perfect acting!]"
+    },
+    {
+      "korean": "지하철역 이름이죠? It's a name of a subway station, right? 듣기 View video SMTOWN : 푸르게 빛나던 슈퍼주니어-K.R.Y.의 계절🌿",
+      "english": "It's a name of a subway station, right?"
+    },
+    {
+      "korean": "그 전철역 샌드위치 있잖아요? You know the Subway sandwiches? 듣기 View video VICTON : 잠깐만..🖤-@",
+      "english": "You know the Subway sandwiches?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Commuters came pouring out of the station. 발음듣기 역에서 통근자들이 쏟아져 나오고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Commuters came pouring out of the station. 발음"
+    },
+    {
+      "korean": "We’re handily placed for the train station. 발음듣기 우리는 그 기차역을 이용하기에 편리한 위치에 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’re handily placed for the train station. 발음"
+    },
+    {
+      "korean": "I get off at the next station. 발음듣기 저는 다음 역에서 내려요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I get off at the next station. 발음"
+    },
+    {
+      "korean": "He won a BAFTA for the role. 발음듣기 그는 그 역으로 바프타 상을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He won a BAFTA for the role. 발음"
+    },
+    {
+      "korean": "Can I give you a ride to the station? 발음듣기 내가 역까지 태워다 줄까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I give you a ride to the station? 발음"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "든",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition deun (→이든)"
+      ]
+    },
+    {
+      "phrase": "-든",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(→- 든지)"
+      ]
+    },
+    {
+      "phrase": "-든",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -deun",
+        "Ending -deun"
+      ]
+    },
+    {
+      "phrase": "들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(밖에서 안으로) enter, go[get, come] in(to), walk[step] in(to)",
+        "(안에 담겨 있다) have, contain, hold",
+        "(햇볕 등이)"
+      ]
+    },
+    {
+      "phrase": "들다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(손에 잡다) hold, take, (집어 올리다) pick up, (몸에 지니고 다니다) carry",
+        "(위로 올리다) raise, lift (up), put up",
+        "(예·이유 등을) give, quote, cite"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "든지",
+      "frequency": 0
+    },
+    {
+      "meaning": "alcoholic",
+      "frequency": 3
+    },
+    {
+      "meaning": "asleep",
+      "frequency": 3
+    },
+    {
+      "meaning": "salty",
+      "frequency": 3
+    },
+    {
+      "meaning": "voluminous",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "야 왕정든 너 뭐해? What are you doing Jeongdeun? 듣기 View video 플레이리스트 (Playlist) : 친구 남친 바람 말한다 VS 모른척 한다 [엑스엑스(XX)] - EP.06",
+      "english": "What are you doing Jeongdeun?"
+    },
+    {
+      "korean": "일단 (어제) 잠 든 시간부터... I'll start with the time I went to bed... 듣기 View video Dispatch : [Dicon] \"사나’s Special Day\" (디아이콘 : 트와이스)",
+      "english": "I'll start with the time I went to bed..."
+    },
+    {
+      "korean": "아 왕정든! Hey Wang Jungdeun! 듣기 View video 플레이리스트 (Playlist) : 연락 두절된 남친이 다른 여자랑 있었다 [엑스엑스(XX)] - EP.01",
+      "english": "Hey Wang Jungdeun!"
+    },
+    {
+      "korean": "[주섬주섬] 겉멋만 든 거야~ I just look cool. 듣기 View video MAMAMOO : [MMMTV5] EP8.1 LET'S GO DAEGU part.2",
+      "english": "I just look cool."
+    },
+    {
+      "korean": "너를 처음 보자마자 든 생각은? What was my first impression of you? 듣기 View video V COOKIE : Stray Kids X VANILLA STAGE - 스트레이 키즈 X 바닐라 스테이지",
+      "english": "What was my first impression of you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the reds and yellows of the trees 듣기 Add to Wordbook 울긋불긋 단풍이 든 나무들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the reds and yellows of the trees Add to Wordbook"
+    },
+    {
+      "korean": "We must have been burgled while we were asleep. 듣기 Add to Wordbook 우리가 잠이 든 사이에 도둑이 든 게 틀림없어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We must have been burgled while we were asleep. Add to Wordbook"
+    },
+    {
+      "korean": "foods that are high in polyunsaturated fats 듣기 Add to Wordbook 다가 불포화 지방이 많이 든 식품 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "foods that are high in polyunsaturated fats Add to Wordbook"
+    },
+    {
+      "korean": "an ageing pop star trying to stage a comeback 듣기 Add to Wordbook 컴백을 시도하고 있는 한 나이 든 팝 스타 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an ageing pop star trying to stage a comeback Add to Wordbook"
+    },
+    {
+      "korean": "He jangled the keys in his pocket. 듣기 Add to Wordbook 그가 호주머니 속에 든 열쇠들을 쨍그렁거렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He jangled the keys in his pocket. Add to Wordbook"
+    }
+  ]
+}

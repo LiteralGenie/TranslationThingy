@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "고문",
+      "hanja": " (顧問)",
+      "example": {},
+      "meanings": [
+        "adviser, advisor"
+      ]
+    },
+    {
+      "phrase": "고문",
+      "hanja": " (拷問)",
+      "example": {},
+      "meanings": [
+        "[명사, 동사] (육체적 고통을 가하는 것) torture"
+      ]
+    },
+    {
+      "phrase": "고문",
+      "hanja": " (古文)",
+      "example": {},
+      "meanings": [
+        "Noun ancient text (→현대문)"
+      ]
+    },
+    {
+      "phrase": "기술 고문",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a technical adviser"
+      ]
+    },
+    {
+      "phrase": "고문 변호사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(회사의) corporation lawyer[attorney], (가정의) family lawyer"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "torture",
+      "frequency": 3
+    },
+    {
+      "meaning": "adviser",
+      "frequency": 3
+    },
+    {
+      "meaning": "rack 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "counselor",
+      "frequency": 3
+    },
+    {
+      "meaning": "excruciation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이건 고문이야 - 너 왜 부끄러워해? It's like torturing. - Why are you so shy? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "It's like torturing. - Why are you so shy?"
+    },
+    {
+      "korean": "너무 고문이야. This is such torture. 듣기 View video MONSTA X : [몬채널][B] EP.89 C-Festival 2018",
+      "english": "This is such torture."
+    },
+    {
+      "korean": "아~ 이거 약간 고문이야. This is sort of like torture. 듣기 View video MONSTA X : [몬채널][B] EP.89 C-Festival 2018",
+      "english": "This is sort of like torture."
+    },
+    {
+      "korean": "[그건 좀 아닌 듯] 그건 고문 아니야? [I don't think so] Isn't that a torture? 듣기 View video GOT7 : [FULL] Mnet '갓세븐의 하드캐리2' 4화 (GOT7 'HARD CARRY 2' ep.4)",
+      "english": "[I don't think so] Isn't that a torture?"
+    },
+    {
+      "korean": "소리.. 아 소리 고문이라고요? 이것 때문에? The sound... The sound is so torturous? Because of this? 듣기 View video DAY6 : 성진의 목요미식회🍽",
+      "english": "The sound... The sound is so torturous? Because of this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Many of the refugees have suffered torture. 듣기 Add to Wordbook 그 난민들 중 많은 이들이 고문을 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many of the refugees have suffered torture. Add to Wordbook"
+    },
+    {
+      "korean": "allegations of torture and detention without trial 듣기 Add to Wordbook 재판 없이 고문과 구금을 행했다는 주장들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "allegations of torture and detention without trial Add to Wordbook"
+    },
+    {
+      "korean": "The prisoner was subjected to systematic torture. 듣기 Add to Wordbook 그 죄수는 조직적인 고문을 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The prisoner was subjected to systematic torture. Add to Wordbook"
+    },
+    {
+      "korean": "She advises the government on environmental issues. 듣기 Add to Wordbook 그녀는 환경 문제에 대한 정부 고문을 하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She advises the government on environmental issues. Add to Wordbook"
+    },
+    {
+      "korean": "I heard stories of gruesome tortures in prisons. 듣기 Add to Wordbook 나는 교도소 내의 소름끼치는 고문 이야기들을 들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I heard stories of gruesome tortures in prisons. Add to Wordbook"
+    }
+  ]
+}

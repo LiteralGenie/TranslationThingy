@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "글쎄",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(주저할 때) well",
+        "(강조할 때)"
+      ]
+    },
+    {
+      "phrase": "글쎄 말이야",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "What I mean to say is...",
+        "Here's what I'm talking about..."
+      ]
+    },
+    {
+      "phrase": "글쎄, 지금 말하고 싶지 않아요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-의심 · 농담 Well, I'd rather not say right now."
+      ]
+    },
+    {
+      "phrase": "글쎄, 제 말의 취지는.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-말이 막혔을 때 Well, I mean a."
+      ]
+    },
+    {
+      "phrase": "글쎄, 없는데. 약속이 있거든.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-초대-기본대화 Well, no. I've got an appointment."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "well 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "well",
+      "frequency": 3
+    },
+    {
+      "meaning": "indeed",
+      "frequency": 3
+    },
+    {
+      "meaning": "maybe",
+      "frequency": 3
+    },
+    {
+      "meaning": "come 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "글쎄... You know what... 듣기 View video THE BOYZ : 달 달 무슨달?",
+      "english": "You know what..."
+    },
+    {
+      "korean": "글쎄~ I don't know. 듣기 View video (G)I-DLE : 우기와 함께하는 힐링타임💜",
+      "english": "I don't know."
+    },
+    {
+      "korean": "글쎄. I'm not sure... 듣기 View video MONSTA X : LIVE : Everything is OK",
+      "english": "I'm not sure..."
+    },
+    {
+      "korean": "글쎄.. I don't know. 듣기 View video KIM DONG WAN : 뎅포우만의 시간",
+      "english": "I don't know."
+    },
+    {
+      "korean": "글쎄! I wonder when! 듣기 View video SMTOWN : 효연의 Wanna V LIVE (HYOYEON's Wanna V LIVE)",
+      "english": "I wonder when!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘Well what did you expect?’ she said crossly. 듣기 Add to Wordbook “글쎄 넌 뭘 바란 거니?” 그녀가 화를 내며 말했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Well what did you expect?’ she said crossly. Add to Wordbook"
+    },
+    {
+      "korean": "Well, at least they weren’t bored. 듣기 Add to Wordbook 글쎄, 그들이 적어도 지루해하지는 않았어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Well, at least they weren’t bored. Add to Wordbook"
+    },
+    {
+      "korean": "Well, you can’t have it, so there! 듣기 Add to Wordbook 글쎄, 넌 그걸 가질 수 없어. 그러니 그만해! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Well, you can’t have it, so there! Add to Wordbook"
+    },
+    {
+      "korean": "‘Why did he do it?’ ‘Why indeed?’ 듣기 Add to Wordbook “그가 왜 그랬지?” “글쎄 왜일까?” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Why did he do it?’ ‘Why indeed?’ Add to Wordbook"
+    },
+    {
+      "korean": "Well I’m not going, and that’s that. 듣기 Add to Wordbook 글쎄 난 안 갈 거야, 더 이상 뭐라고 하지 마. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Well I’m not going, and that’s that. Add to Wordbook"
+    }
+  ]
+}

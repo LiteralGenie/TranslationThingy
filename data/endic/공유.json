@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "공유",
+      "hanja": " (共有)",
+      "example": {},
+      "meanings": [
+        "[명사] (함께 나눔) sharing, [동사] share (with)"
+      ]
+    },
+    {
+      "phrase": "공유",
+      "hanja": " (公有)",
+      "example": {},
+      "meanings": [
+        "(국가·공공단체의 소유) public ownership"
+      ]
+    },
+    {
+      "phrase": "공유의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "public",
+        "publicly owned"
+      ]
+    },
+    {
+      "phrase": "정보를 공유하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "share information"
+      ]
+    },
+    {
+      "phrase": "회의 내용을 팀원들과 공유하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "share the agenda of meeting with the team"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "share 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "-share",
+      "frequency": 0
+    },
+    {
+      "meaning": "public domain",
+      "frequency": 0
+    },
+    {
+      "meaning": "intercommunity",
+      "frequency": 0
+    },
+    {
+      "meaning": "public ownership",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "여러분들과 아쉽게도 공유를 할 수는 없겠죠 그렇죠? this tasty fruit punch with fans. Right? 듣기 View video V COOKIE : [Full] AB6IX x Rooftop Live - AB6IX의 루프탑라이브!",
+      "english": "this tasty fruit punch with fans. Right?"
+    },
+    {
+      "korean": "한 소절만 좀 공유해 주시면 안 될까요? Can you tell us just one line? 듣기 View video MONSTA X : [Replay] MONSTA X COMEBACK SHOWCASE < FANTASIA X >",
+      "english": "Can you tell us just one line?"
+    },
+    {
+      "korean": "'향이라도 공유합시다' 향은... \"Please share the scent.\" The scent... 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "\"Please share the scent.\" The scent..."
+    },
+    {
+      "korean": "[방법 공유] 이게 그냥, 봐봐! 잡고! [This is how we do this] Look. You first hold this! 듣기 View video TWICE : TWICE REALITY \"TIME TO TWICE\" EP.03",
+      "english": "[This is how we do this] Look. You first hold this!"
+    },
+    {
+      "korean": "[정국의 위치 팀원에게 공유] 왼쪽! 가운데, 가운데! [Sharing Jung Kook's location] Left! At the center! 듣기 View video BTS : Run BTS! 2020 - EP.101",
+      "english": "[Sharing Jung Kook's location] Left! At the center!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a view that is widely shared 발음듣기 널리 공유되고 있는 견해 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a view that is widely shared 발음"
+    },
+    {
+      "korean": "The land was enclosed in the seventeenth century. 발음듣기 그 땅은 17세기에 사유화되었다. (영국에서 공유지를 울타리로 나눠 사유지 표시를 한 데서 비롯) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The land was enclosed in the seventeenth century. 발음"
+    },
+    {
+      "korean": "the cohesive power of shared suffering 발음듣기 고통을 공유하는 데서 오는 화합력 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the cohesive power of shared suffering 발음"
+    },
+    {
+      "korean": "The information has been placed in the public domain. 발음듣기 그 정보는 공유 부문에 들어가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The information has been placed in the public domain. 발음"
+    },
+    {
+      "korean": "Children like to share interests and enjoyments with their parents. 발음듣기 아이들은 관심거리와 흥밋거리를 부모와 공유하기를 좋아한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Children like to share interests and enjoyments with their parents. 발음"
+    }
+  ]
+}

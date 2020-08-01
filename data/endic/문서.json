@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "문서",
+      "hanja": " (文書)",
+      "example": {},
+      "meanings": [
+        "document, papers"
+      ]
+    },
+    {
+      "phrase": "기밀문서",
+      "hanja": " (機密文書)",
+      "example": {},
+      "meanings": [
+        "confidential[secret, classified] documents[papers]"
+      ]
+    },
+    {
+      "phrase": "문서로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in written form",
+        "in writing"
+      ]
+    },
+    {
+      "phrase": "극비 문서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "top-secret documents, classified documents, strictly confidential documents"
+      ]
+    },
+    {
+      "phrase": "땅문서",
+      "hanja": " (땅文書)",
+      "example": {},
+      "meanings": [
+        "land registry certificate"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "document",
+      "frequency": 2
+    },
+    {
+      "meaning": "note",
+      "frequency": 2
+    },
+    {
+      "meaning": "paper",
+      "frequency": 2
+    },
+    {
+      "meaning": "text",
+      "frequency": 2
+    },
+    {
+      "meaning": "buck slip",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[컴퓨터 50만 원짜리면 멋진 문서 작업 가능] - 안 받습니다 - 게임 아무것도 못할걸요? [You can only use it for documentation] - I won't receive it. - You won't be able to play games. 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[You can only use it for documentation] - I won't receive it. - You won't be able to play games."
+    },
+    {
+      "korean": "형 - 너 왜 누가 문서 위조하래? Minho! - Who told you that you can forge documents? 듣기 View video SMTOWN : SHINee 0525",
+      "english": "Minho! - Who told you that you can forge documents?"
+    },
+    {
+      "korean": "이야 서울대학교 문서위조학과 뭐 이런 거 없나? Oh my~ Doesn't the SNU have a forgery major? 듣기 View video OSEN : OHMYGIRL 오마이걸, '응팔'→'기생충' 연기 열정 폭발 #스타로드 05",
+      "english": "Oh my~ Doesn't the SNU have a forgery major?"
+    },
+    {
+      "korean": "[영화 '기생충'] [대사A] 이야~ 서울대학교 문서위조학과 뭐 이런 거 없나? [\"Parasite\"][Line A] Oh my~ Doesn't the SNU have a forgery major? 듣기 View video OSEN : OHMYGIRL 오마이걸, '응팔'→'기생충' 연기 열정 폭발 #스타로드 05",
+      "english": "[\"Parasite\"][Line A] Oh my~ Doesn't the SNU have a forgery major?"
+    },
+    {
+      "korean": "[엄마 혹시 땅문서 어디있어?] [Mom, where are all our savings accounts?] View video V PICK! : [TWICE] 뽀짝이는 모챙TV 귀욤 폭발에 지구촌 눈물 폭발,, 저 수중마을에 살게 됐어요🍑🍓💦 (MOMO&CHAEYOUNG’s V before stage)",
+      "english": "[Mom, where are all our savings accounts?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a document in Cyrillic script 발음듣기 키릴 문자로 된 문서 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a document in Cyrillic script 발음"
+    },
+    {
+      "korean": "a computer that can process text 발음듣기 문서를 처리할 수 있는 컴퓨터 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a computer that can process text 발음"
+    },
+    {
+      "korean": "a block of text in a document 발음듣기 문서 속 본문 한 파트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a block of text in a document 발음"
+    },
+    {
+      "korean": "documents from the sixteenth century 발음듣기 16세기 (때부터 전해 오는) 문서 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "documents from the sixteenth century 발음"
+    },
+    {
+      "korean": "He was a shrewd lawyer with a talent for uncovering paper trails of fraud. 발음듣기 그는 사기의 증거가 되는 일련의 문서를 캐내는 데 재능이 있는 노련한 변호사였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was a shrewd lawyer with a talent for uncovering paper trails of fraud. 발음"
+    }
+  ]
+}

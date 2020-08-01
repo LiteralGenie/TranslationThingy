@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "느려.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "운전 중의 지시 You're slow.",
+        "운전 중의 지시 That's slow."
+      ]
+    },
+    {
+      "phrase": "느리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "slow"
+      ]
+    },
+    {
+      "phrase": "느려 터지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be very slow"
+      ]
+    },
+    {
+      "phrase": "이 우회도로는 정말 느려요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "This detour looks really slow."
+      ]
+    },
+    {
+      "phrase": "가긴 가는데 하루에 3분씩 느려요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-시계점 It runs all right, but it loses about three minutes a day."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "be very slow",
+      "frequency": 0
+    },
+    {
+      "meaning": "PEST",
+      "frequency": 0
+    },
+    {
+      "meaning": "snail mail",
+      "frequency": 1
+    },
+    {
+      "meaning": "slow",
+      "frequency": 2
+    },
+    {
+      "meaning": "largo",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'저 수염이 느려? 아니면 항상 긁어?' \"Is your mustache slow? Or do you always scratch it?\" 듣기 View video GOT7 : 금겸🌼",
+      "english": "\"Is your mustache slow? Or do you always scratch it?\""
+    },
+    {
+      "korean": "[준비 운동] - 내가 타자 속도가 느려 - 이거 어떻게 해야 되지? [Warming up] - I'm too slow at typing. - How can I describe it? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[Warming up] - I'm too slow at typing. - How can I describe it?"
+    },
+    {
+      "korean": "오케이! 느려 느려 - 그만하라고! OK! Slow, so slow. - Stop! 듣기 View video TOMORROW X TOGETHER : 연준 : 게임의 정석",
+      "english": "OK! Slow, so slow. - Stop!"
+    },
+    {
+      "korean": "움직임이 느려, 뭔가 - 느리지? He's slow. - Slow, right? 듣기 View video TWICE : 부의세계...",
+      "english": "He's slow. - Slow, right?"
+    },
+    {
+      "korean": "\"찬희vs재윤 누가 더 느려요?\" \"CHA NI vs JAE YOON, who talks more slowly?\" 듣기 View video V PICK! : [SF9] 그래서 하고 싶은 말이 뭔데?! 셒구가.. 귀여워요..😭 (JAEYOON&YOUNGBIN talking about JAEYOON’s way of speaking)",
+      "english": "\"CHA NI vs JAE YOON, who talks more slowly?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "My internet connection has been lagging all day. 발음듣기 오늘 인터넷 연결이 너무 느려. DARAKWON",
+      "english": "My internet connection has been lagging all day. 발음"
+    },
+    {
+      "korean": "The Strathspey dance looks slow but watching it relaxes me.. 발음듣기 스트라스스페이 춤은 느려 보이지만 보고 있으면 마음이 편하다. 국제영어대학원대학교 신어사전",
+      "english": "The Strathspey dance looks slow but watching it relaxes me.. 발음"
+    },
+    {
+      "korean": "My comouter is really slow. It must be infected with a virus. 발음듣기 바이러스에 걸렸는지 컴퓨터가 너무 느려요. Neungyule",
+      "english": "My comouter is really slow. It must be infected with a virus. 발음"
+    },
+    {
+      "korean": "My computer is slow today. 발음듣기 오늘 제 컴퓨터가 느려요. YBM All in All English-Korean Dictionary",
+      "english": "My computer is slow today. 발음"
+    },
+    {
+      "korean": "This printer is so slow! 발음듣기 이 프린터는 너무 느려요! YBM All in All English-Korean Dictionary",
+      "english": "This printer is so slow! 발음"
+    }
+  ]
+}

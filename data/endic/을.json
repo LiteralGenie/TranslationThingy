@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(목적격 조사)",
+        "(목표·방향)",
+        "(움직임의 위치)"
+      ]
+    },
+    {
+      "phrase": "을",
+      "hanja": " (乙)",
+      "example": {},
+      "meanings": [
+        "(십간의) the 2nd of the 10 celestial stems, (등급의) the second(둘째), B(성적), the latter(후자)"
+      ]
+    },
+    {
+      "phrase": "-을",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -l (→-던2, -는2, -ㄹ, -ㄴ3, -은1)",
+        "Ending -l (→-던2, -는2, -ㄹ, -ㄴ3, -은1)"
+      ]
+    },
+    {
+      "phrase": "골탕(을) 먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "손해·피해를 보다 lose out"
+      ]
+    },
+    {
+      "phrase": "고함(을) 치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shout (out)",
+        "cry out",
+        "scream (out)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "at",
+      "frequency": 3
+    },
+    {
+      "meaning": "them",
+      "frequency": 3
+    },
+    {
+      "meaning": "along",
+      "frequency": 3
+    },
+    {
+      "meaning": "regard",
+      "frequency": 3
+    },
+    {
+      "meaning": "mean",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "짜요! 파이팅! 을 다 같이 해볼까요? 하나, 둘, 셋!",
+      "english": "Shall we say \"jiayou, go for it\" together? 1, 2, 3!"
+    },
+    {
+      "korean": "근데.. 연애에 무슨 갑과 을이 있어?",
+      "english": "But... How is there a top and bottom to relationships?"
+    },
+    {
+      "korean": "사귀는 사이에도 갑과 을이 있다는 거 알아?",
+      "english": "Did you know there's a top and bottom in relationships?"
+    },
+    {
+      "korean": "나머지를 다 넣고 예약을 해볼까 봐 - 여러분 '갑과 을' 어때요?",
+      "english": "all the coins and just reserve the songs? - Everyone, how about \"No no no\"?"
+    },
+    {
+      "korean": "[#4. 푸껫 여행, 출바-을!]",
+      "english": "[#4. Phuket trip, let's go!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 책들은 대중의 의식 고양을 위해 기획된 것이었다.",
+      "english": "The books were intended for the edification of the masses."
+    },
+    {
+      "korean": "메인 페이지 오른쪽 맨 위에 있는 ‘새 회원 등록' 을 클릭하십시오.",
+      "english": "Click on the ‘New Member Sign-up' on the top right side of the main page."
+    },
+    {
+      "korean": "로빈 훗은 갑에게서 빼앗아 을에게 주었다.",
+      "english": "Robin Hood robbed Peter to pay Paul."
+    },
+    {
+      "korean": "((속담)) 갑에게 적용되는 것은 을에게도 적용된다.",
+      "english": "What’s sauce for the goose is sauce for the gander."
+    },
+    {
+      "korean": "기압계 속의 화살표는 ‘폭풍’ 을 가리키고 있었다.",
+      "english": "The arrow on the barometer was pointing to ‘Stormy.’"
+    }
+  ]
+}

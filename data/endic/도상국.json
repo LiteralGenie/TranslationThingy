@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "개발 도상국",
+      "hanja": " (開發途上國)",
+      "example": {},
+      "meanings": [
+        "developing country"
+      ]
+    },
+    {
+      "phrase": "후발 개발 도상국",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "least developed among developing countries"
+      ]
+    },
+    {
+      "phrase": "후발도상국",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 least (less)-developed country (LLDC)"
+      ]
+    },
+    {
+      "phrase": "개발도상국졸업",
+      "hanja": " (開發途上國卒業)",
+      "example": {},
+      "meanings": [
+        "경제·경영 developing country graduation"
+      ]
+    },
+    {
+      "phrase": "개발도상국 추격",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pursuit of developing country"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "south",
+      "frequency": 3
+    },
+    {
+      "meaning": "intermediate technology",
+      "frequency": 0
+    },
+    {
+      "meaning": "a developing country",
+      "frequency": 0
+    },
+    {
+      "meaning": "the so-called developing nations",
+      "frequency": 0
+    },
+    {
+      "meaning": "a developing nation’s entry into the UN",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "the extension of new technology into developing countries 듣기 Add to Wordbook 개발도상국들로의 신기술 확대 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the extension of new technology into developing countries Add to Wordbook"
+    },
+    {
+      "korean": "Hyperlocalism kept us ignorant of news from developing countries. 듣기 Add to Wordbook 미디어 보도의 지역 국한으로 인해 우리는 개발도상국의 소식에는 무지하다. 국제영어대학원대학교 신어사전",
+      "english": "Hyperlocalism kept us ignorant of news from developing countries. Add to Wordbook"
+    },
+    {
+      "korean": "High barriers to developing country exports like rice. 듣기 Add to Wordbook 쌀과 같은 개발도상국의 수출 면에서도 높은 장벽을 지니고 있습니다. Neungyule",
+      "english": "High barriers to developing country exports like rice. Add to Wordbook"
+    },
+    {
+      "korean": "Day trading magnified market losses in the developing country. 듣기 Add to Wordbook 당일치기 매매로 개발도상국에서의 거래 손실은 더욱 커졌다. YBM All in All English-Korean Dictionary",
+      "english": "Day trading magnified market losses in the developing country. Add to Wordbook"
+    },
+    {
+      "korean": "Developing countries are suffering an epidemic in highway fatalities and injuries. 듣기 Add to Wordbook 개발도상국들은 고속도로 사상자들이 유행처럼 번져 진통을 겪고 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "Developing countries are suffering an epidemic in highway fatalities and injuries. Add to Wordbook"
+    }
+  ]
+}

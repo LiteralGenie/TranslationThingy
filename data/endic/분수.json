@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "분수",
+      "hanja": " (分數)",
+      "example": {},
+      "meanings": [
+        "(자기의 처지에 맞는 한도)",
+        "(사람으로서 일정하게 이를 수 있는 한계)"
+      ]
+    },
+    {
+      "phrase": "분수",
+      "hanja": " (分數)",
+      "example": {},
+      "meanings": [
+        "(수학) fraction, fractional number"
+      ]
+    },
+    {
+      "phrase": "분수",
+      "hanja": " (噴水)",
+      "example": {},
+      "meanings": [
+        "(물을 내뿜는 장치) fountain"
+      ]
+    },
+    {
+      "phrase": "분수의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fractional",
+        "fractionary"
+      ]
+    },
+    {
+      "phrase": "분수에 맞게 살다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live within one´s means",
+        "cut one´s coat according to the cloth"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fountain",
+      "frequency": 1
+    },
+    {
+      "meaning": "fraction",
+      "frequency": 1
+    },
+    {
+      "meaning": "vulgar fraction",
+      "frequency": 0
+    },
+    {
+      "meaning": "shoot 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "waterjet",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오케이 좋은데? 이거 이거 - 이거 분수는? That's so nice. - How long? 듣기 View video NU'EST : [NU’EST] NU'NIVERSITY : 타자의 이해와 실습",
+      "english": "That's so nice. - How long?"
+    },
+    {
+      "korean": "분 수? - 둘, 셋 - 데뷔 앨범 말하는 거죠? The length? - 2, 3. - It's our debut album, right? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "The length? - 2, 3. - It's our debut album, right?"
+    },
+    {
+      "korean": "[계산 못 해] - 이건 진짜 찍으라고 낸 문제다 - 분 수를 구하라는 거야? [can't calculate] - No choice but to guess. - The length of all the songs combined? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[can't calculate] - No choice but to guess. - The length of all the songs combined?"
+    },
+    {
+      "korean": "분수쇼? - 흘렸어? A fountain show? - Did it spill? 듣기 View video THE BOYZ : [Replay] THE BOYZ COMEBACK SPECIAL LIVE",
+      "english": "A fountain show? - Did it spill?"
+    },
+    {
+      "korean": "[분수를 보고 그냥 지나칠 수 없는 장난꾸러기들] - 가위바위보 해! - 진짜? [Mischevious GOT7 can't miss the fountain] - Play rock paper scissors. - Really? 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.22",
+      "english": "[Mischevious GOT7 can't miss the fountain] - Play rock paper scissors. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "fractional numbers 발음듣기 분수. Friendict Level English-Korean Dictionary",
+      "english": "fractional numbers 발음"
+    },
+    {
+      "korean": "The amplifier exploded in a fountain of sparks. 발음듣기 앰프가 분수처럼 불꽃을 내뿜으며 터져 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The amplifier exploded in a fountain of sparks. 발음"
+    },
+    {
+      "korean": "Clear water spouted from the fountains. 발음듣기 분수에서 깨끗한 물이 분출되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Clear water spouted from the fountains. 발음"
+    },
+    {
+      "korean": "Throw some money in the fountain and make a wish. 발음듣기 그 분수 안에 돈을 좀 던지고 소원을 빌어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Throw some money in the fountain and make a wish. 발음"
+    },
+    {
+      "korean": "The question asks you to decimalize the fraction 7/8. 발음듣기 그 문제는 분수 7/8을 십진법으로 쓰라는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The question asks you to decimalize the fraction 7/8. 발음"
+    }
+  ]
+}

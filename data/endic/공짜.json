@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "공짜",
+      "hanja": " (空―)",
+      "example": {},
+      "meanings": [
+        "a thing got for nothing, free charge, gratuitousness"
+      ]
+    },
+    {
+      "phrase": "공짜라면 양잿물이라도 먹는다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "One would drink lye if it is free of charge"
+      ]
+    },
+    {
+      "phrase": "공짜로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for nothing",
+        "free of charge"
+      ]
+    },
+    {
+      "phrase": "공짜로 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[receive] for nothing[as a gift]"
+      ]
+    },
+    {
+      "phrase": "공짜 표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "free ticket"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "for nothing",
+      "frequency": 0
+    },
+    {
+      "meaning": "there's no such thing as a free lunch",
+      "frequency": 0
+    },
+    {
+      "meaning": "freeload",
+      "frequency": 0
+    },
+    {
+      "meaning": "look a gift horse in the mouth",
+      "frequency": 0
+    },
+    {
+      "meaning": "freebie",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[공짜 좋아하는 편] - 커피 사주세요~ - 저도요~ Please buy coffee... - Me too. 듣기 View video Hyomstore : ep.16 바쁘다 바빠 효민본부장! 달려라 달려 횸스토어 MD들!",
+      "english": "Please buy coffee... - Me too."
+    },
+    {
+      "korean": "'연주로 공짜로 들어도 될까?' \"Can we listen to the performance for free?\" 듣기 View video NCT : 오랜만이다아아 js💚",
+      "english": "\"Can we listen to the performance for free?\""
+    },
+    {
+      "korean": "굳이 이해 안 해도 돼 - 공짜라고! You don't need to try to understand. - It's free! 듣기 View video TOMORROW X TOGETHER : [Full] TXT COMEBACK! TALK X TOGETHER",
+      "english": "You don't need to try to understand. - It's free!"
+    },
+    {
+      "korean": "뭐라 소개해야 되지? - 배달시키신 분? - 저요 공짜죠? How should I introduce him? - Who ordered this? - Me? It's free, right? 듣기 View video NCT : 오랜만이다아아 js💚",
+      "english": "How should I introduce him? - Who ordered this? - Me? It's free, right?"
+    },
+    {
+      "korean": "공짜라는 말은 왜 빼요? For free, I presume? 듣기 View video 플레이리스트 (Playlist) : 내 운명이라는 남자가 날 쌩깠다 [나의 이름에게] - EP.01",
+      "english": "For free, I presume?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He’s always scrounging free meals off us. 발음듣기 그는 항상 우리에게서 공짜로 밥을 얻어먹는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He’s always scrounging free meals off us. 발음"
+    },
+    {
+      "korean": "He took all the freebies that were on offer. 발음듣기 그는 제공되는 모든 공짜 물품들을 다 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He took all the freebies that were on offer. 발음"
+    },
+    {
+      "korean": "You can hardly expect her to do it for free. 발음듣기 그녀가 공짜로 그것을 해 주리라고는 결코 기대할 수 없을 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can hardly expect her to do it for free. 발음"
+    },
+    {
+      "korean": "You’re not doing yourself any favours, working for nothing. 발음듣기 넌 네게 전혀 득이 안 될 일을 하고 있어. 공짜로 일이나 해 주고 말이야. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You’re not doing yourself any favours, working for nothing. 발음"
+    },
+    {
+      "korean": "There is no such thing as a free lunch. 발음듣기 세상에 공짜란 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is no such thing as a free lunch. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "기념",
+      "hanja": " (記念·紀念)",
+      "example": {},
+      "meanings": [
+        "[명사] commemoration, [동사] commemorate; (축하하다) celebrate"
+      ]
+    },
+    {
+      "phrase": "기념하는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "commemorative",
+        "memorial"
+      ]
+    },
+    {
+      "phrase": "기념으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in remembrance of",
+        "as a memento[keepsake]",
+        "in token of"
+      ]
+    },
+    {
+      "phrase": "전쟁 기념",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "war commemoration"
+      ]
+    },
+    {
+      "phrase": "기념 축전",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a commemoration festival"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "celebration",
+      "frequency": 2
+    },
+    {
+      "meaning": "commemoration",
+      "frequency": 1
+    },
+    {
+      "meaning": "observance",
+      "frequency": 1
+    },
+    {
+      "meaning": "recordation",
+      "frequency": 0
+    },
+    {
+      "meaning": "celebrate",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "1위 기념! \"To celebrate winning no.1!\" 듣기 View video NCT : 죄송합니다2ㅎㅎㅎㅎ💚💚",
+      "english": "\"To celebrate winning no.1!\""
+    },
+    {
+      "korean": "그런 기념으로 클로즈업! On that note, a close-up! 듣기 View video ITZY : 🖤",
+      "english": "On that note, a close-up!"
+    },
+    {
+      "korean": "생일 기념인가? Did they made this for my birthday? 듣기 View video NCT : 🎂🎂🎂",
+      "english": "Did they made this for my birthday?"
+    },
+    {
+      "korean": "오늘 어린이날 기념으로... To celebrate Children's Day... 듣기 View video TWICE : 밥",
+      "english": "To celebrate Children's Day..."
+    },
+    {
+      "korean": "1000만을 기념해서 나이스 샷! Nice shot to commemorate 10 million. 듣기 View video VICTON : 오랜만입니다..🖤-@",
+      "english": "Nice shot to commemorate 10 million."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a memorial to victims of the Holocaust 발음듣기 홀로코스트 희생자들을 위한 기념비 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a memorial to victims of the Holocaust 발음"
+    },
+    {
+      "korean": "the silver jubilee of the Queen’s accession 발음듣기 여왕 즉위 25주년 기념 해 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the silver jubilee of the Queen’s accession 발음"
+    },
+    {
+      "korean": "the anniversary of the ending of the Pacific War 발음듣기 태평양 전쟁 종전 기념일 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the anniversary of the ending of the Pacific War 발음"
+    },
+    {
+      "korean": "The monument was moved bodily to a new site. 발음듣기 그 기념비는 온전히 새 장소로 이전되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The monument was moved bodily to a new site. 발음"
+    },
+    {
+      "korean": "The college celebrated its silver jubilee last year. 발음듣기 그 대학은 작년에 25주년 기념행사를 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The college celebrated its silver jubilee last year. 발음"
+    }
+  ]
+}

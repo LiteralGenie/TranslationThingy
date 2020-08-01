@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "고장",
+      "hanja": " (故障)",
+      "example": {},
+      "meanings": [
+        "(기계의) trouble (with), (기계·차 등의) breakdown (in), (결함) failure (in)"
+      ]
+    },
+    {
+      "phrase": "고장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(지역) region, area, (마을) town, (산지) home"
+      ]
+    },
+    {
+      "phrase": "고장(증)",
+      "hanja": " (鼓腸(症))",
+      "example": {},
+      "meanings": [
+        "의학 bloat"
+      ]
+    },
+    {
+      "phrase": "고장이 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "기계·차 등이 break down",
+        "기계·차 등이 have a breakdown",
+        "기계·차 등이 go wrong"
+      ]
+    },
+    {
+      "phrase": "기관 고장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "malfunctioning of an engine",
+        "an engine trouble"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "crash",
+      "frequency": 3
+    },
+    {
+      "meaning": "failure",
+      "frequency": 3
+    },
+    {
+      "meaning": "trouble",
+      "frequency": 3
+    },
+    {
+      "meaning": "town",
+      "frequency": 3
+    },
+    {
+      "meaning": "country",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "고장났나? Is this broken? 듣기 View video SF9 : 🍀🍀",
+      "english": "Is this broken?"
+    },
+    {
+      "korean": "고장 난 거야? Is it out of order? 듣기 View video Stray Kids : [SKZ VLOG] 리노 : 리노, 하고 싶은 거 다 하지 마",
+      "english": "Is it out of order?"
+    },
+    {
+      "korean": "고장났어요~ - 아 고장났어? It's broken! - It's broken?? 듣기 View video iKON : 아이콘 4주년 !! 사랑해 아이코닉!!",
+      "english": "It's broken! - It's broken??"
+    },
+    {
+      "korean": "고장 나면 내가 물어줄게! Then I'll buy you one! 듣기 View video 콬TV (WHYNOT) : 저희 오늘부터 1일이에요❤️[리얼:타임:러브] EP2 New Love",
+      "english": "Then I'll buy you one!"
+    },
+    {
+      "korean": "[드론.. 고장 난 거 아닐까?] [Drone... Is it broken?] View video GOT7 : GOT7(갓세븐) TOURLOG EP.15",
+      "english": "[Drone... Is it broken?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I bust my camera. 듣기 Add to Wordbook 내가 카메라를 고장 냈어. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I bust my camera. Add to Wordbook"
+    },
+    {
+      "korean": "a breakdown on the motorway 듣기 Add to Wordbook 고속도로 상에서 난 자동차 고장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a breakdown on the motorway Add to Wordbook"
+    },
+    {
+      "korean": "My watch keeps going wrong. 듣기 Add to Wordbook 내 시계가 자꾸 고장이 난다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "My watch keeps going wrong. Add to Wordbook"
+    },
+    {
+      "korean": "The breakdown was due to a mechanical failure. 듣기 Add to Wordbook 그 고장은 엔진 고장 때문에 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The breakdown was due to a mechanical failure. Add to Wordbook"
+    },
+    {
+      "korean": "Explore Thomas Hardy country. 듣기 Add to Wordbook 토머스 하디의 고장을 탐사해 보세요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Explore Thomas Hardy country. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "지진",
+      "hanja": " (地震)",
+      "example": {},
+      "meanings": [
+        "earthquake, (informal) quake, seismic tremor"
+      ]
+    },
+    {
+      "phrase": "지진의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "earthquake",
+        "seismic",
+        "seismal"
+      ]
+    },
+    {
+      "phrase": "지진해일",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tsunami"
+      ]
+    },
+    {
+      "phrase": "지진의 강도",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seismic intensity"
+      ]
+    },
+    {
+      "phrase": "지진의 중심",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the epicenter",
+        "the seismic center"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "earthquake",
+      "frequency": 1
+    },
+    {
+      "meaning": "temblor",
+      "frequency": 0
+    },
+    {
+      "meaning": "shock 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "seism",
+      "frequency": 0
+    },
+    {
+      "meaning": "earthquake shock",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우리는 지 - 진 - 정! We are Ji, - Jin, - Jung! 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "We are Ji, - Jin, - Jung!"
+    },
+    {
+      "korean": "우리는 지 - 진 - 정 - 지진정입니다! We are Ji, - Jin, - Jung, - Ji-Jin-Jung! 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "We are Ji, - Jin, - Jung, - Ji-Jin-Jung!"
+    },
+    {
+      "korean": "[거의 지진급] 책상 너무 흔들리는 거 아니야? [Like an earthquake] You're moving the desk back and forth. 듣기 View video Dispatch : [ⓓxV] “셉카소를 찾아라” ① (힙합팀 : SEVENTEEN)",
+      "english": "[Like an earthquake] You're moving the desk back and forth."
+    },
+    {
+      "korean": "[동공 지진] 싫어하는 사람 한 명밖에 없죠? [His eyes are shaking] There's only one person who doesn't like it, right? 듣기 View video OSEN : NCT DREAM, 노는 것만 봐도 힐링이다 #스타로드 05",
+      "english": "[His eyes are shaking] There's only one person who doesn't like it, right?"
+    },
+    {
+      "korean": "[동공 지진] 하나... [Thinking hard] One... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.16",
+      "english": "[Thinking hard] One..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was buried alive in the earthquake. 발음듣기 그는 그 지진으로 생매장되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was buried alive in the earthquake. 발음"
+    },
+    {
+      "korean": "The town was rocked by an earthquake. 발음듣기 그 도시는 지진으로 마구 뒤흔들렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The town was rocked by an earthquake. 발음"
+    },
+    {
+      "korean": "After the earthquake, the people set about rebuilding their homes. 발음듣기 지진이 끝난 후에 사람들은 집을 다시 짓기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "After the earthquake, the people set about rebuilding their homes. 발음"
+    },
+    {
+      "korean": "Whole villages were wiped out by the earthquake. 발음듣기 그 지진으로 마을들 전체가 완전히 파괴되어 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Whole villages were wiped out by the earthquake. 발음"
+    },
+    {
+      "korean": "Hundreds of people were rendered homeless by the earthquake. 발음듣기 수백 명의 사람들이 그 지진으로 집을 잃게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Hundreds of people were rendered homeless by the earthquake. 발음"
+    }
+  ]
+}

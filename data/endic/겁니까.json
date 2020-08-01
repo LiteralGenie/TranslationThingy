@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "걸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(그림·옷 등을) hang (up)",
+        "(돈 등을) (내기 등에) bet; (계약금·보증금 등을) deposit; (현상금을) offer (a prize for sth); (사업·도박 등에) risk, stake",
+        "(목숨·명예 등을) risk (one's life), stake (sth on sth)"
+      ]
+    },
+    {
+      "phrase": "걸다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(입이 험하다) foul-mouthed"
+      ]
+    },
+    {
+      "phrase": "올라가실 겁니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Are you going up?"
+      ]
+    },
+    {
+      "phrase": "이 옷 파는 겁니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Is this clothing for sale?"
+      ]
+    },
+    {
+      "phrase": "왜 절 미행하는 겁니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Why are you following me?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gamble",
+      "frequency": 2
+    },
+    {
+      "meaning": "hang",
+      "frequency": 2
+    },
+    {
+      "meaning": "bet",
+      "frequency": 2
+    },
+    {
+      "meaning": "사수 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "suspend",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "무엇을 할 겁니까? what will you do? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "what will you do?"
+    },
+    {
+      "korean": "주변에서 볼 수 있는 겁니까? Can we see this around us? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Can we see this around us?"
+    },
+    {
+      "korean": "끝난 건가요? 아니면 계속하는 겁니까? Is it over? Shall we continue? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "Is it over? Shall we continue?"
+    },
+    {
+      "korean": "다들 벌써부터 시작된 겁니까, 눈치 싸움이? Is this fight already started? 듣기 View video V COOKIE : [Full] SF9 x 우리의 밤 (Our Night with SF9)",
+      "english": "Is this fight already started?"
+    },
+    {
+      "korean": "와~ 벌써부터 이렇게 비밀 만드시는 겁니까? Wow. You're being secretive already? 듣기 View video 콬TV (WHYNOT) : 수상한 그녀 [가두리횟집] EP10",
+      "english": "Wow. You're being secretive already?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Who is going to take the minutes? 발음듣기 의사록 작성은 누가 할 겁니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Who is going to take the minutes? 발음"
+    },
+    {
+      "korean": "When did this supposed accident happen? 발음듣기 이 소위 사고라는 것은 언제 발생한 겁니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When did this supposed accident happen? 발음"
+    },
+    {
+      "korean": "Does he know to come here first? 발음듣기 먼저 그가 (자신이) 여기 와야 한다는 걸 알고 있는 겁니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Does he know to come here first? 발음"
+    },
+    {
+      "korean": "‘Will you resign, sir?’ ‘No comment!’ 발음듣기 “ (장관님,) 사직하실 겁니까?” “드릴 말씀 없습니다!” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘Will you resign, sir?’ ‘No comment!’ 발음"
+    },
+    {
+      "korean": "Are you being square with me? 발음듣기 당신 나를 정직하게 대하고 있는 겁니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Are you being square with me? 발음"
+    }
+  ]
+}

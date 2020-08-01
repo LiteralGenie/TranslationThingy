@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "과열",
+      "hanja": " (過熱)",
+      "example": {},
+      "meanings": [
+        "(기계·엔진 등의) [명사] overheating, [동사] overheat",
+        "(경기·경쟁 등의) [동사] overheat"
+      ]
+    },
+    {
+      "phrase": "과열된 엔진",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an overheated engine"
+      ]
+    },
+    {
+      "phrase": "경기과열을 막기 위한 방안을 찾다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "seek ways to prevent the economy from overheating"
+      ]
+    },
+    {
+      "phrase": "과열도",
+      "hanja": " (過熱度)",
+      "example": {},
+      "meanings": [
+        "the degree of superheat"
+      ]
+    },
+    {
+      "phrase": "과열 증기",
+      "hanja": " (過熱蒸氣)",
+      "example": {},
+      "meanings": [
+        "superheated steam, a superhot gas"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fever",
+      "frequency": 3
+    },
+    {
+      "meaning": "superheat",
+      "frequency": 0
+    },
+    {
+      "meaning": "overheating",
+      "frequency": 0
+    },
+    {
+      "meaning": "superheating",
+      "frequency": 0
+    },
+    {
+      "meaning": "fruit crack(ing)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[과열 양상의 이유] - 기운만 느끼는 거잖아요 - 잡았잖아! [This was why there was too much heat] - I was feeling it. - You grabbed it! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[This was why there was too much heat] - I was feeling it. - You grabbed it!"
+    },
+    {
+      "korean": "[과열] 지금... [Too heated up] Now... 듣기 View video 심포유 - my SMTelevision : [심포유 #시우민] EP16 #파자마파티 #시우민도어려운 #시우민TMI퀴즈",
+      "english": "[Too heated up] Now..."
+    },
+    {
+      "korean": "[점점 과열되는 자랑] 나는 사진도 같이~ [The bragging heats up] A photo with me... 듣기 View video IZ*ONE : IZ*ONE 에너지 캠 플러스(ENOZI Cam +) 뮤직뱅크 상반기 결산 비하인드",
+      "english": "[The bragging heats up] A photo with me..."
+    },
+    {
+      "korean": "내가 과열되지 말라 그랬잖아! I told you not to overheat! 듣기 View video ASTRO : [ASTRO DDOCA] 아스트로 또까 ASTROAD II in Japan",
+      "english": "I told you not to overheat!"
+    },
+    {
+      "korean": "[카메라가 과열되었습니다 카메라를 식혀 주십시오] 과열 됐다. Hey, the camera is overheating. 듣기 View video ASTRO : [ASTRO DDOCA] 아스트로 또까 주말 나들이",
+      "english": "Hey, the camera is overheating."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Friction between moving parts had caused the engine to overheat. 듣기 Add to Wordbook 움직이는 부품들 간의 마찰로 엔진이 과열된 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Friction between moving parts had caused the engine to overheat. Add to Wordbook"
+    },
+    {
+      "korean": "It’s vital not to overheat the liquid. 듣기 Add to Wordbook 그 액체를 과열하지 않는 것이 제일 중요하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s vital not to overheat the liquid. Add to Wordbook"
+    },
+    {
+      "korean": "The engine is overheating. 듣기 Add to Wordbook 엔진이 과열되고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The engine is overheating. Add to Wordbook"
+    },
+    {
+      "korean": "Fires started because of overheated electric heaters. 듣기 Add to Wordbook 전열기 과열로 화재가 발생했다 Neungyule",
+      "english": "Fires started because of overheated electric heaters. Add to Wordbook"
+    },
+    {
+      "korean": "However, the system sparked a heated controversy. 듣기 Add to Wordbook 그러나 이 제도는 과열 논쟁을 불러 일으켰다. Neungyule",
+      "english": "However, the system sparked a heated controversy. Add to Wordbook"
+    }
+  ]
+}

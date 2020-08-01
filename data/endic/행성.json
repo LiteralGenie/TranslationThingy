@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "행성",
+      "hanja": " (行星)",
+      "example": {},
+      "meanings": [
+        "planet"
+      ]
+    },
+    {
+      "phrase": "행성의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "planetary"
+      ]
+    },
+    {
+      "phrase": "행성의 주기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the period of a planet"
+      ]
+    },
+    {
+      "phrase": "행성 궤도",
+      "hanja": " (行星軌道)",
+      "example": {},
+      "meanings": [
+        "a planetary orbit"
+      ]
+    },
+    {
+      "phrase": "지구형 행성",
+      "hanja": " (地球型行星)",
+      "example": {},
+      "meanings": [
+        "a terrestrial planet"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "planet",
+      "frequency": 3
+    },
+    {
+      "meaning": "primary planet",
+      "frequency": 0
+    },
+    {
+      "meaning": "primary planets",
+      "frequency": 0
+    },
+    {
+      "meaning": "wandering stars",
+      "frequency": 0
+    },
+    {
+      "meaning": "planets",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지구? 외계행성? The earth? Alien planets? 듣기 View video V CREW : [V CREW] 로디 어나운스‼️ 나도 해봤다 (셀프) 2020 ver. Q&A 👀✌️ (내가 귀엽다고 생각하는 사람 다 드루와🙃)",
+      "english": "The earth? Alien planets?"
+    },
+    {
+      "korean": "여기는 이제 새로운 행성에 도착한 느낌? It's kind of like arriving on a new planet? 듣기 View video BTOB : 비투비 - 비트콤 #99 (임현식 'DEAR LOVE' M/V 비하인드)",
+      "english": "It's kind of like arriving on a new planet?"
+    },
+    {
+      "korean": "마치 외계 행성에 와 있는 눈이 네 개인 것 같은 그런 느낌이 있죠? It feels like we're in an alien planet and I have four eyes, huh? 듣기 View video WINNER : 불금",
+      "english": "It feels like we're in an alien planet and I have four eyes, huh?"
+    },
+    {
+      "korean": "행성을 먹는 느낌이야. It feels like I'm eating a planet. 듣기 View video 모비딕(Mobidic) : 최현석의 짠내나는 분자요리 쿡방 (feat. 유세윤) <초이가이버> 4회",
+      "english": "It feels like I'm eating a planet."
+    },
+    {
+      "korean": "저기 이제 행성이 es63이라고 새로운 행성이에요. That is a planet named ES63. It's a new planet. 듣기 View video ASTRO : ASTRO Special Mini Album ALBUM UNBOXING",
+      "english": "That is a planet named ES63. It's a new planet."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "distant stars / planets 듣기 Add to Wordbook 먼 곳에 있는 별들/행성들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "distant stars / planets Add to Wordbook"
+    },
+    {
+      "korean": "a strange being from another planet 듣기 Add to Wordbook 다른 행성에서 온 낯선 생명체 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a strange being from another planet Add to Wordbook"
+    },
+    {
+      "korean": "close-up pictures of the planet 듣기 Add to Wordbook 그 행성을 근접 촬영한 사진들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "close-up pictures of the planet Add to Wordbook"
+    },
+    {
+      "korean": "Which planets can sustain life? 듣기 Add to Wordbook 어떤 행성들에서 생명체가 살 수 있을까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Which planets can sustain life? Add to Wordbook"
+    },
+    {
+      "korean": "Does life exist on other planets? 듣기 Add to Wordbook 다른 행성들에도 생명체가 존재할까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Does life exist on other planets? Add to Wordbook"
+    }
+  ]
+}

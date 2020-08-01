@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "효과",
+      "hanja": " (效果)",
+      "example": {},
+      "meanings": [
+        "effect, effectiveness, (formal) efficacy"
+      ]
+    },
+    {
+      "phrase": "파급효과",
+      "hanja": " (波及效果)",
+      "example": {},
+      "meanings": [
+        "ripple effect"
+      ]
+    },
+    {
+      "phrase": "상승효과",
+      "hanja": " (相乘效果)",
+      "example": {},
+      "meanings": [
+        "synergy effect, synergistic effect"
+      ]
+    },
+    {
+      "phrase": "효과 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "effective",
+        "fruitful",
+        "efficacious"
+      ]
+    },
+    {
+      "phrase": "특수효과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "special effects"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "effect",
+      "frequency": 3
+    },
+    {
+      "meaning": "conceit",
+      "frequency": 3
+    },
+    {
+      "meaning": "use 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "punch 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "bang for your buck",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[특수 효과(?) 뿌리는 타이밍 얘기 중...] 두우울에 해야 되지? [Talking about when to throw confetti] At two, right? 듣기 View video ASTRO : [ASTRO PLAY] 아로하 4랑해",
+      "english": "[Talking about when to throw confetti] At two, right?"
+    },
+    {
+      "korean": "그 디톡스 효과가? The effect of the detox? 듣기 View video AB6IX : 로센키🌹",
+      "english": "The effect of the detox?"
+    },
+    {
+      "korean": "윤광효과 실화입니까? Is the lustrous effect real? 듣기 View video HANABONO : 1일 1팩 하기 좋은 마스크팩 소개 고상 골드&퓨어 마스크팩2종 One a day Face Mask",
+      "english": "Is the lustrous effect real?"
+    },
+    {
+      "korean": "[휴닝카이 효과(?)로 승리] 짜증나! [Thanks to HUENINGKAI's help] Annoyed! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[Thanks to HUENINGKAI's help] Annoyed!"
+    },
+    {
+      "korean": "별 효과 없는 것 같은데? - 저도... It doesn't seem like it's working. - I'm not... 듣기 View video NU'EST : [NU'EST] 뉴이스트의 심야식당 - 오늘을 읽어주는 남자들 part.6",
+      "english": "It doesn't seem like it's working. - I'm not..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the deadening effect of alcohol on your reactions 듣기 Add to Wordbook 알코올의 반응 둔화 효과 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the deadening effect of alcohol on your reactions Add to Wordbook"
+    },
+    {
+      "korean": "Alcohol negates the effects of the drug. 듣기 Add to Wordbook 술을 마시면 그 약이 효과가 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Alcohol negates the effects of the drug. Add to Wordbook"
+    },
+    {
+      "korean": "His voice had an almost hypnotic effect. 듣기 Add to Wordbook 그의 목소리는 거의 최면 효과가 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "His voice had an almost hypnotic effect. Add to Wordbook"
+    },
+    {
+      "korean": "drugs that effectively modulate the disease process 듣기 Add to Wordbook 그 병의 진행을 효과적으로 조절하는 약들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "drugs that effectively modulate the disease process Add to Wordbook"
+    },
+    {
+      "korean": "the stultifying effects of work that never varies 듣기 Add to Wordbook 결코 변화가 없는 일의, 사람을 멍청하게 만드는 효과 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the stultifying effects of work that never varies Add to Wordbook"
+    }
+  ]
+}

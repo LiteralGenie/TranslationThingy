@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "마중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[동사] meet"
+      ]
+    },
+    {
+      "phrase": "마중 나가다[나오다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "come to meet[fetch]"
+      ]
+    },
+    {
+      "phrase": "마중을 받다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be met[greeted]"
+      ]
+    },
+    {
+      "phrase": "역에서 사람을 배웅[마중]하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "see off[meet] at the station"
+      ]
+    },
+    {
+      "phrase": "친히 마중을 나오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "come out to meet sb in person[personally]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "meet",
+      "frequency": 2
+    },
+    {
+      "meaning": "meet a person halfway",
+      "frequency": 0
+    },
+    {
+      "meaning": "hail the rising of the sun",
+      "frequency": 0
+    },
+    {
+      "meaning": "send a servant for...",
+      "frequency": 0
+    },
+    {
+      "meaning": "welcomed on the threshold",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마중 나오실 거예요? Are you going to come pick me up? 듣기 View video IZ*ONE : 쫑알쫑알 해도 돼요?🦋",
+      "english": "Are you going to come pick me up?"
+    },
+    {
+      "korean": "내가 마중을 가야 돼? 내 케이크를 가지러? Do I need to go out? To get my own cake? 듣기 View video IU : [IU TV] 엉망진창 아이유 11주년 파티",
+      "english": "Do I need to go out? To get my own cake?"
+    },
+    {
+      "korean": "여러분들 많이 공항에 또 마중 나와주시고 또... Many of you came to greet me at the airport. 듣기 View video Hwang Chi Yeul : 캐나다 콘서트 마치고 한국도착^^",
+      "english": "Many of you came to greet me at the airport."
+    },
+    {
+      "korean": "마중 가줄게 - 정말? I will walk you to the door. - Really? 듣기 View video V PICK! : [BLACKPINK] 굿나잇굿나잇 젠츄즈 굿나잇굿나잇 잘자요🎶(Jisoo and Jennie’s hotel V)",
+      "english": "I will walk you to the door. - Really?"
+    },
+    {
+      "korean": "내가 마중 가줄게 - 정말? I will walk you to the door. - Really? 듣기 View video BLACKPINK : 츄의 심야방송💖",
+      "english": "I will walk you to the door. - Really?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Will you meet me at the airport? 발음듣기 공항에 날 마중 나올 거니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Will you meet me at the airport? 발음"
+    },
+    {
+      "korean": "I met him off the plane. 발음듣기 나는 그를 공항까지 마중 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I met him off the plane. 발음"
+    },
+    {
+      "korean": "The hotel bus meets all incoming flights. 발음듣기 호텔 버스가 모든 입국 항공편에 맞춰 마중을 나간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hotel bus meets all incoming flights. 발음"
+    },
+    {
+      "korean": "Jean is going to meet me at the other end. 발음듣기 (여정의) 저쪽 편에 가면 진이 나를 마중 나오기로 되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Jean is going to meet me at the other end. 발음"
+    },
+    {
+      "korean": "He was met by his brother on his return from Italy. 발음듣기 그는 이탈리아에서 돌아왔을 때 형[남동생]의 마중을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was met by his brother on his return from Italy. 발음"
+    }
+  ]
+}

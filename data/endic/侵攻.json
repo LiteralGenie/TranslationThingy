@@ -1,0 +1,32 @@
+{
+  "phrases": [
+    {
+      "phrase": "침공",
+      "hanja": " (侵攻)",
+      "example": {},
+      "meanings": [
+        "invasion, attack, aggression, incursion, invade, attack"
+      ]
+    },
+    {
+      "phrase": "침공하다",
+      "hanja": " (侵攻하다)",
+      "example": {},
+      "meanings": [
+        "Verb invade, attack"
+      ]
+    }
+  ],
+  "meanings": [],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "push the war into the enemy's country 발음듣기 적국(敵國)에 침공(侵攻)하다. 영어영작문대사전",
+      "english": "push the war into the enemy's country 발음"
+    },
+    {
+      "korean": "Maybe it was some type of an invasion. 발음듣기 일종의 侵攻(침공)이었을 수도 있습니다. Khan Academy",
+      "english": "Maybe it was some type of an invasion. 발음"
+    }
+  ]
+}

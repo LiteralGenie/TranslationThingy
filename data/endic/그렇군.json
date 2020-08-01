@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "그렇다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(대답) yes, (부정문에 대한 대답) no",
+        "(기타)"
+      ]
+    },
+    {
+      "phrase": "아, 그렇군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 도중 Oh, I see.",
+        "대화 도중 I read you loud and clear.",
+        "대화 도중 I understand you perfectly."
+      ]
+    },
+    {
+      "phrase": "그렇고 그렇다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "That is so-so",
+        "That is so and so"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "I see.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Quite so.",
+      "frequency": 0
+    },
+    {
+      "meaning": "That listens.",
+      "frequency": 0
+    },
+    {
+      "meaning": "I hear what you are saying",
+      "frequency": 0
+    },
+    {
+      "meaning": "OIC",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇군요 - 저희가 이제... Right. - We... 듣기 View video V PICK! : [The Rose] 더로즈 사전에 아재력은 곧 큐트력의 동의어랬습니다 🙌반.박.불.가🙌 (The Rose talking about their Europe Tour)",
+      "english": "Right. - We..."
+    },
+    {
+      "korean": "그렇군요 - 밥 먹자, 승민아 뭐 먹을래? Right. - Let's eat. SEUNGMIN, what do you want to eat? 듣기 View video Stray Kids : SKZ에게 불어온 \"바람\"💨",
+      "english": "Right. - Let's eat. SEUNGMIN, what do you want to eat?"
+    },
+    {
+      "korean": "아 그렇군요~ - 네! Oh, I see! - Yes! 듣기 View video JBJ95 : JBJ95 Showcase 'AWAKE'",
+      "english": "Oh, I see! - Yes!"
+    },
+    {
+      "korean": "그렇군요 그렇다면! All right, then! 듣기 View video V PICK! : [MAMAMOO] 다들 가슴 한 편에 맘무콘서트용 제빙기 하나쯤은 품고 사는거 아니었나요?☀️❄️ (MAMAMOO’s concert spoiler)",
+      "english": "All right, then!"
+    },
+    {
+      "korean": "그렇군, 어? 누가... I see... Oh? Someone... 듣기 View video OH MY GIRL : 0502호 빈린🐰🐰",
+      "english": "I see... Oh? Someone..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "‘There’s another one.’ ‘So there is.’ 듣기 Add to Wordbook “하나가 더 있어.” “정말 그렇군.” Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "‘There’s another one.’ ‘So there is.’ Add to Wordbook"
+    },
+    {
+      "korean": "That is true. What did you do to handle the situation? 듣기 Add to Wordbook 그건 정말 그렇군요. 그 상황을 어떻게 처리하셨나요? DARAKWON",
+      "english": "That is true. What did you do to handle the situation? Add to Wordbook"
+    },
+    {
+      "korean": "Oh, well. Thanks anyway. 듣기 Add to Wordbook 아, 그렇군요. 어쨌든 고마워요. YBM All in All English-Korean Dictionary",
+      "english": "Oh, well. Thanks anyway. Add to Wordbook"
+    },
+    {
+      "korean": "I guess you're right. I'm new at this, but I'll get used to it. 듣기 Add to Wordbook 그렇군요. 이 일은 처음 해보는 거라서요, 하지만 익숙해지겠지요. YBM All in All English-Korean Dictionary",
+      "english": "I guess you're right. I'm new at this, but I'll get used to it. Add to Wordbook"
+    },
+    {
+      "korean": "I see. If I use my dividends to buy more stock, do I have to pay a broker's fee? 듣기 Add to Wordbook 그렇군요. 배당금으로 주식을 매입할 경우 수수료를 지불해야 하나요? YBM All in All English-Korean Dictionary",
+      "english": "I see. If I use my dividends to buy more stock, do I have to pay a broker's fee? Add to Wordbook"
+    }
+  ]
+}

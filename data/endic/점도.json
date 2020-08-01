@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "점도",
+      "hanja": " (粘度)",
+      "example": {},
+      "meanings": [
+        "(점성(粘性)) viscosity, (점성률) a coefficient of viscosity,"
+      ]
+    },
+    {
+      "phrase": "좋은 점도 있고 나쁜 점도 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have both merits and demerits"
+      ]
+    },
+    {
+      "phrase": "점도측정법",
+      "hanja": " (粘度測定法)",
+      "example": {},
+      "meanings": [
+        "viscometry."
+      ]
+    },
+    {
+      "phrase": "점도지수",
+      "hanja": " (粘度指數)",
+      "example": {},
+      "meanings": [
+        "a viscosity index."
+      ]
+    },
+    {
+      "phrase": "점도탄력모형",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 viscoelastic model"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "viscosity",
+      "frequency": 0
+    },
+    {
+      "meaning": "kurtous",
+      "frequency": 0
+    },
+    {
+      "meaning": "take the bad with the good",
+      "frequency": 0
+    },
+    {
+      "meaning": "viscosity index",
+      "frequency": 0
+    },
+    {
+      "meaning": "SAE number",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "점도 찍어야 되지? Do I have to put dots, too? 듣기 View video NU'EST : [NU’EST] NU'NIVERSITY : 타자의 이해와 실습",
+      "english": "Do I have to put dots, too?"
+    },
+    {
+      "korean": "되게 배울 점도 많고요. I have so many things to learn. 듣기 View video THE BOYZ : 화리왔습니다@",
+      "english": "I have so many things to learn."
+    },
+    {
+      "korean": "좋은 점도 있고 안 좋은 점도 있었어? There was good and not good at the same time? 듣기 View video Stray Kids : [Two Kids Room(투키즈룸)] VOL.3 Ep.01 리노 X 필릭스",
+      "english": "There was good and not good at the same time?"
+    },
+    {
+      "korean": "[TMI] 왜냐하면 주스는 점도... [TMI] Because of its viscosity. 듣기 View video 한뼘TV : [방판소년단 EP38] 나경이 애교 뿜뿜? 덕에 유재환 촬영 중단?!",
+      "english": "[TMI] Because of its viscosity."
+    },
+    {
+      "korean": "아무튼 뭐 나은 점도 있다. Anyway. There is a positive side to it. 듣기 View video V PICK! : [BTS] 행복전도사 전정국선생님🐰의 행복학개론 덕분에 아침부터 행복💜(Jungkook’s Introduction of Happiness)",
+      "english": "Anyway. There is a positive side to it."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She is gorgeous and has a lot going for her, but we have nothing in common and absolutely no chemistry. 발음듣기 그녀는 매력적이고 좋은 점도 많았지만, 우리는 공통 관심사도 없고 끌리는 것도 없어. DARAKWON",
+      "english": "She is gorgeous and has a lot going for her, but we have nothing in common and absolutely no chemistry. 발음"
+    },
+    {
+      "korean": "There are pluses and minuses to living in a city. 발음듣기 도시에 살면 좋은 점도 있고 나쁜 점도 있다 Neungyule",
+      "english": "There are pluses and minuses to living in a city. 발음"
+    },
+    {
+      "korean": "It is allowed to have some merits. 발음듣기 얼마간 좋은 점도 있다[인정할 수 있다]. Friendict Level English-Korean Dictionary",
+      "english": "It is allowed to have some merits. 발음"
+    },
+    {
+      "korean": "Fullham likes that he is only 23 years old. 발음듣기 풀햄은 그가 아직 23살밖에 되지 않은 점도 좋아한다. Neungyule",
+      "english": "Fullham likes that he is only 23 years old. 발음"
+    },
+    {
+      "korean": "There are good points on the sunny side of the story. 발음듣기 이야기의 긍정적인 면을 보면 좋은 점도 있다. YBM All in All English-Korean Dictionary",
+      "english": "There are good points on the sunny side of the story. 발음"
+    }
+  ]
+}

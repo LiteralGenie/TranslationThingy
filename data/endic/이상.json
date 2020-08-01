@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "이상",
+      "hanja": " (理想)",
+      "example": {},
+      "meanings": [
+        "(가장 완전한 상태) ideal"
+      ]
+    },
+    {
+      "phrase": "이상",
+      "hanja": " (以上)",
+      "example": {},
+      "meanings": [
+        "(수량이 기준을 포함하면서 그 위인 경우)",
+        "(정도가 기준보다 높음)",
+        "(앞에서 말한 내용)"
+      ]
+    },
+    {
+      "phrase": "이상",
+      "hanja": " (異常·異狀)",
+      "example": {},
+      "meanings": [
+        "[명사] abnormality, disorder, [형용사] strange, odd, weird, bizarre, peculiar, (정상이 아니다) abnormal, (유별나다) unusual, uncommon"
+      ]
+    },
+    {
+      "phrase": "이상",
+      "hanja": " (異常)",
+      "example": {},
+      "meanings": [
+        "Noun abnormality",
+        "Noun uncommonness, extraordinariness, singularity",
+        "Noun strangeness"
+      ]
+    },
+    {
+      "phrase": "이상",
+      "hanja": " (異狀)",
+      "example": {},
+      "meanings": [
+        "Noun abnormality (→정상1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "over",
+      "frequency": 3
+    },
+    {
+      "meaning": "beyond",
+      "frequency": 3
+    },
+    {
+      "meaning": "ideal",
+      "frequency": 3
+    },
+    {
+      "meaning": "disorder",
+      "frequency": 3
+    },
+    {
+      "meaning": "irregularity",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이상. That is all. 듣기 View video PENTAGON : [펜타곤 교과서 시즌5] EP. 1 - 발표 시간",
+      "english": "That is all."
+    },
+    {
+      "korean": "텐션이 이상해! His energy is weird! 듣기 View video Stray Kids : 산을 넘어 산호세로 ~~❤",
+      "english": "His energy is weird!"
+    },
+    {
+      "korean": "좀 이상한데... It's kind of strange. 듣기 View video 콬TV (WHYNOT) : 전생 체험하다가 죽음을 경험한 로켓펀치 연희 #아이돌 #리얼리티 ┃로켓펀치 [펀치타임",
+      "english": "It's kind of strange."
+    },
+    {
+      "korean": "이게 더 이상해! This is even weirder! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "This is even weirder!"
+    },
+    {
+      "korean": "휴대폰이 이상한 건가? Is my cell phone weird? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #49",
+      "english": "Is my cell phone weird?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was more sinned against than sinning. 듣기 Add to Wordbook 그는 지은 죄 이상으로 벌[비난]을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was more sinned against than sinning. Add to Wordbook"
+    },
+    {
+      "korean": "It is tempting to idealize the past. 듣기 Add to Wordbook 과거를 이상화하는 것은 솔깃한 일이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is tempting to idealize the past. Add to Wordbook"
+    },
+    {
+      "korean": "She forbore to ask any further questions. 듣기 Add to Wordbook 그녀는 더 이상의 질문을 삼갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She forbore to ask any further questions. Add to Wordbook"
+    },
+    {
+      "korean": "the strange, hermetic world of the theatre 듣기 Add to Wordbook 이상하고 사이가 긴밀한 연극계 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the strange, hermetic world of the theatre Add to Wordbook"
+    },
+    {
+      "korean": "to cut staff to an irreducible minimum 듣기 Add to Wordbook 직원을 더 이상 줄일 수 없게 최소 인원으로 축소하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to cut staff to an irreducible minimum Add to Wordbook"
+    }
+  ]
+}

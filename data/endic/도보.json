@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "도보",
+      "hanja": " (徒步)",
+      "example": {},
+      "meanings": [
+        "walking, going on foot, pedestrianism"
+      ]
+    },
+    {
+      "phrase": "도보로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on foot",
+        "afoot",
+        "heel and toe"
+      ]
+    },
+    {
+      "phrase": "도보로 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk",
+        "go on foot",
+        "go afoot"
+      ]
+    },
+    {
+      "phrase": "도보 여행",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a walking tour",
+        "a hike"
+      ]
+    },
+    {
+      "phrase": "도보로 통학하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk to school",
+        "go to school on foot"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shanks' mare",
+      "frequency": 0
+    },
+    {
+      "meaning": "pedestrianism",
+      "frequency": 0
+    },
+    {
+      "meaning": "shank’s pony[mare]",
+      "frequency": 0
+    },
+    {
+      "meaning": "shanks'[shank's] mare[pony]",
+      "frequency": 0
+    },
+    {
+      "meaning": "hike",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "\"만나고 싶습니다\" 도보로요? \"going to the U.S. from Japan by walk\". By walk? 듣기 View video ATEEZ : 호홍 먹방 in ATLANTA🍕",
+      "english": "\"going to the U.S. from Japan by walk\". By walk?"
+    },
+    {
+      "korean": "이건 웃겼다 - 잠실역에서 여기서 도보로 몇 걸음? It was funny. - How far is it from here? 듣기 View video EXO : [Full] !t Live(잇라이브): The 12th MUGI-BOX(뮤기박스) “EXO”",
+      "english": "It was funny. - How far is it from here?"
+    },
+    {
+      "korean": "우리 집에서 헬스장까지 도보로 몇 분이 걸릴까요? How long does it take to the gym from my house on foot? 듣기 View video V COOKIE : [Full] HIGHLIGHT X LieV - 하이라이트의 눕방라이브!",
+      "english": "How long does it take to the gym from my house on foot?"
+    },
+    {
+      "korean": "조금, 이제는 도보로도 가깝고요. It's in walking distance from there. 듣기 View video V BOOKS : <난처한 미술이야기> 양정무 교수의 '유럽 여행 제대로 즐기는 법' 생중계",
+      "english": "It's in walking distance from there."
+    },
+    {
+      "korean": "걷는 거 되게 좋아해서... - 걷기, 도보 운동. I love walking. - Yeah, walk exercises. 듣기 View video 구구단(gugudan) : 구구단의 아홉가지 이야기 - 구구단이랑 운동할까요?!",
+      "english": "I love walking. - Yeah, walk exercises."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a camping/skiing/walking, etc. holiday 발음듣기 캠핑/스키/도보 여행 휴가 등 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a camping/skiing/walking, etc. holiday 발음"
+    },
+    {
+      "korean": "a high-level walk in the hills 발음듣기 산악 고지대 도보 여행 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a high-level walk in the hills 발음"
+    },
+    {
+      "korean": "Observant walkers may see red deer along this stretch of the road. 발음듣기 이 도로를 따라 가다 보면 관찰력 있는 도보 여행자들은 고라니도 볼 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Observant walkers may see red deer along this stretch of the road. 발음"
+    },
+    {
+      "korean": "I walked across Scotland with a friend. 발음듣기 나는 친구 한 명과 스코틀랜드를 도보로 횡단했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I walked across Scotland with a friend. 발음"
+    },
+    {
+      "korean": "We passed a group of walkers, carrying huge packs. 발음듣기 우리는 커다란 배낭을 맨 한 무리의 도보 여행자들을 스쳐 지나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We passed a group of walkers, carrying huge packs. 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "제기",
+      "hanja": " (提起)",
+      "example": {},
+      "meanings": [
+        "(의문·문제 등을) raise, bring up",
+        "(소송 등을) file, lodge, (formal) institute"
+      ]
+    },
+    {
+      "phrase": "제기",
+      "hanja": " (祭器)",
+      "example": {},
+      "meanings": [
+        "(제사에 쓰는 그릇) utensils used in ancestral rites"
+      ]
+    },
+    {
+      "phrase": "제기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(민속놀이) jegi"
+      ]
+    },
+    {
+      "phrase": "jaggy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective (=JAGGED)"
+      ]
+    },
+    {
+      "phrase": "소송을 제기하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sue (sb for sth)",
+        "file a lawsuit (against)",
+        "take legal action[proceedings] (against)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "sheesh",
+      "frequency": 0
+    },
+    {
+      "meaning": "sblood",
+      "frequency": 0
+    },
+    {
+      "meaning": "pose",
+      "frequency": 2
+    },
+    {
+      "meaning": "demur",
+      "frequency": 1
+    },
+    {
+      "meaning": "accuse",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[일반 제기 연준 34개 성공] 34! [YEONJUN did 34] 34! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[YEONJUN did 34] 34!"
+    },
+    {
+      "korean": "[제기 신 강림] 16, 17, 18... [God of jegichagi!] 16, 17, 18... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[God of jegichagi!] 16, 17, 18..."
+    },
+    {
+      "korean": "[제기와는 인연이 아닌 듯하오] 22... [Not good with Jegichagi] 22... 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Not good with Jegichagi] 22..."
+    },
+    {
+      "korean": "[슈퍼 제기 꼴찌 수빈 30개 성공] 30~ [SOOBIN is the last place with 30] 30! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[SOOBIN is the last place with 30] 30!"
+    },
+    {
+      "korean": "[배드민턴공 제기 태현 46개 성공] 잘한다! [TAEHYUN did 46 with birdie] He's good. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[TAEHYUN did 46 with birdie] He's good."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Damn it! or Go and hang it! 발음듣기 제기! Dong-a's Prime English-Korean Dictionary",
+      "english": "Damn it! or Go and hang it! 발음"
+    },
+    {
+      "korean": "They questioned the constitutionality of the law. 발음듣기 그들은 그 법률의 합헌성에 의문을 제기했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They questioned the constitutionality of the law. 발음"
+    },
+    {
+      "korean": "At first she demurred, but then finally agreed. 발음듣기 처음에는 그녀가 이의를 제기했지만 결국 동의했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At first she demurred, but then finally agreed. 발음"
+    },
+    {
+      "korean": "It is alleged that he mistreated the prisoners. 발음듣기 그가 죄수들을 학대했다는 주장이 제기되었다[혐의가 있다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is alleged that he mistreated the prisoners. 발음"
+    },
+    {
+      "korean": "He made the allegation under the protection of parliamentary privilege. 발음듣기 그는 의회 의원의 면책 특권 보호하에 그 혐의를 제기했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He made the allegation under the protection of parliamentary privilege. 발음"
+    }
+  ]
+}

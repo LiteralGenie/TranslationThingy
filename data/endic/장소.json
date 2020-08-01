@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "장소",
+      "hanja": " (場所)",
+      "example": {},
+      "meanings": [
+        "place; (특정한) spot; (정확한 지점) point; (현장) scene; (위치) position, location; (터) site; (모임이 열리는 곳) venue"
+      ]
+    },
+    {
+      "phrase": "트인 장소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an open place"
+      ]
+    },
+    {
+      "phrase": "조인 장소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the place of signature"
+      ]
+    },
+    {
+      "phrase": "안전한 장소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a place[zone] of safety"
+      ]
+    },
+    {
+      "phrase": "협소한 장소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a limited space"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "place",
+      "frequency": 2
+    },
+    {
+      "meaning": "site",
+      "frequency": 2
+    },
+    {
+      "meaning": "bed",
+      "frequency": 2
+    },
+    {
+      "meaning": "location",
+      "frequency": 2
+    },
+    {
+      "meaning": "point",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[다른 장소, 같은 순위] 아니 왜 계속 얘네 둘만 그... [Different place, same rankings] Why do these two keep... 듣기 View video BTS : Run BTS! 2020 - EP.108",
+      "english": "[Different place, same rankings] Why do these two keep..."
+    },
+    {
+      "korean": "쏟아지는! - 여기가 또 저희 스테이한테 익숙한 장소 아닙니까? - 왜죠? Falling! - This is a familiar place for us. - Why? 듣기 View video Stray Kids : 스키즈 옥상토크🍧💕",
+      "english": "Falling! - This is a familiar place for us. - Why?"
+    },
+    {
+      "korean": "[미션 장소 곳곳에 숨겨진 폭탄 이동권과 색깔 힌트권을 찾아 사용해야 한다!] [Find and use the bomb moving cards and the hint for color cards hidden in various places!] View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.20",
+      "english": "[Find and use the bomb moving cards and the hint for color cards hidden in various places!]"
+    },
+    {
+      "korean": "다음 장소가 어디죠? What is the next location? 듣기 View video Stray Kids : First UNLOCK in Chicago❤",
+      "english": "What is the next location?"
+    },
+    {
+      "korean": "(그리고 장소는) 산! (And the location) A mountain! 듣기 View video TWICE : Yes, I am Tzuyu. ASMR Interview",
+      "english": "(And the location) A mountain!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The place smelled of decay and neglect. 발음듣기 그 장소에서는 부패와 방치의 냄새가 났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The place smelled of decay and neglect. 발음"
+    },
+    {
+      "korean": "The city has plans to redevelop the site. 발음듣기 그 시에서는 그 장소를 재개발할 계획을 갖고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The city has plans to redevelop the site. 발음"
+    },
+    {
+      "korean": "the unities of action, time and place 발음듣기 행동, 시간, 장소의 일치 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the unities of action, time and place 발음"
+    },
+    {
+      "korean": "The monument was moved bodily to a new site. 발음듣기 그 기념비는 온전히 새 장소로 이전되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The monument was moved bodily to a new site. 발음"
+    },
+    {
+      "korean": "They have built hotels in the most unlikely places. 발음듣기 그들은 대단히 예상 밖의 장소들에 호텔을 건설해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They have built hotels in the most unlikely places. 발음"
+    }
+  ]
+}

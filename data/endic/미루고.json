@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "미루다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(날짜·일정 등을) delay, postpone, put off, put back, hold off (on), defer, (formal) procrastinate (=연기하다)",
+        "(책임·잘못 등을) shift blame[responsibility], lay[put, place] blame on (=전가하다)",
+        "(짐작·추측하다) guess, judge by[from], infer (sth from sth), (formal) surmise"
+      ]
+    },
+    {
+      "phrase": "차일피일 미루고 지불하지 않다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "delay payment time and again on one pretext or another"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "subordinate temporal to spiritual things",
+      "frequency": 0
+    },
+    {
+      "meaning": "procrastibaking",
+      "frequency": 0
+    },
+    {
+      "meaning": "defer",
+      "frequency": 3
+    },
+    {
+      "meaning": "postpone",
+      "frequency": 3
+    },
+    {
+      "meaning": "hold something over",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내가 더 미루고 미루다 보면 이거 그래비티콘 끝날... I thought the \"Gravity\" concert would be over if I postpone again. 듣기 View video DAY6 : Young K in BangKok",
+      "english": "I thought the \"Gravity\" concert would be over if I postpone again."
+    },
+    {
+      "korean": "[늦었으니 걱정은 잠시 미루고! 잘 준비합시다~] 이제 씻고 준비하면서 생각을 해서... Let's think about it while getting ready to wash up... 듣기 View video 포토피플(PHOTO PEOPLE) : 포토피플 in TOKYO 9부_ep.1 아침을 깨우는 모닝엔젤의 정체?! (ft.벌칙)",
+      "english": "Let's think about it while getting ready to wash up..."
+    },
+    {
+      "korean": "조금 미루고 있네요. So, I'm postponing it. 듣기 View video INFINITE : 호야 뜻밖의 꿈방♣",
+      "english": "So, I'm postponing it."
+    },
+    {
+      "korean": "잠시 밥시간을 미루고 있습니다. so I can chat with you. 듣기 View video wellmade yedang : [이선빈] 드라마 '38사기동대' 촬영 현장!! ('조미주'가 궁금하다면 함께해요~:D)",
+      "english": "so I can chat with you."
+    },
+    {
+      "korean": "지금 다 미루고 계세요. They're pointing out each other. 듣기 View video V Beauty : 홍주연의 스타일핏 엑서사이즈: 뒤태 완전 정복, 등 & 팔 운동Luna Hong Stylefit Exercise",
+      "english": "They're pointing out each other."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "[+ -ing] He keeps putting off going to the dentist. 듣기 Add to Wordbook 그는 치과에 가는 일을 계속 미루고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "[+ -ing] He keeps putting off going to the dentist. Add to Wordbook"
+    },
+    {
+      "korean": "Tell me the main points now; leave the details till later. 듣기 Add to Wordbook 지금은 주요 사항들만 말씀해 주세요. 세부적인 것들은 나중으로 미루고. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tell me the main points now; leave the details till later. Add to Wordbook"
+    },
+    {
+      "korean": "He delayed telling her the news, waiting for the right moment. 듣기 Add to Wordbook 그는 그녀에게 그 소식을 전하는 것을 뒤로 미루고 적절한 때를 기다렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He delayed telling her the news, waiting for the right moment. Add to Wordbook"
+    },
+    {
+      "korean": "Regarding the MOU, did you mean that you would like to hold off on it? 듣기 Add to Wordbook MOU말인데요, 그것을 미루고 싶다는 것이 귀하의 뜻이었나요? DARAKWON",
+      "english": "Regarding the MOU, did you mean that you would like to hold off on it? Add to Wordbook"
+    },
+    {
+      "korean": "Procrastibaking is a habit of mine. 듣기 Add to Wordbook 할 일을 미루고 빵을 굽는 것은 내 습관이다. 국제영어대학원대학교 신어사전",
+      "english": "Procrastibaking is a habit of mine. Add to Wordbook"
+    }
+  ]
+}

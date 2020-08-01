@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "중립적",
+      "hanja": " (中立的)",
+      "example": {},
+      "meanings": [
+        "Determiner neutral"
+      ]
+    },
+    {
+      "phrase": "중립적",
+      "hanja": " (中立的)",
+      "example": {},
+      "meanings": [
+        "Noun being neutral"
+      ]
+    },
+    {
+      "phrase": "심각한[중립적] 입장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a serious[neutral] position"
+      ]
+    },
+    {
+      "phrase": "중립적인 태도를 취하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take a neutral attitude"
+      ]
+    },
+    {
+      "phrase": "벤더 중립적",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "vendor neutral"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "neutral",
+      "frequency": 3
+    },
+    {
+      "meaning": "carbon neutral",
+      "frequency": 0
+    },
+    {
+      "meaning": "sit on the fence",
+      "frequency": 0
+    },
+    {
+      "meaning": "a litmusless position",
+      "frequency": 0
+    },
+    {
+      "meaning": "litmusless",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그런 걸 저희가 중립적으로 보도합니다. We try to report that in a neutral way. 듣기 View video 10PM : 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "We try to report that in a neutral way."
+    },
+    {
+      "korean": "처묵파가 사실 양쪽 뭔가 중립적인 역할을 하잖아요. - 괜찮네요. Whatever Eaters are neutral. - Good. 듣기 View video AKMU : [AKMU의 사춘기노트 p.01]",
+      "english": "Whatever Eaters are neutral. - Good."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He tends to sit on the fence at meetings. 듣기 Add to Wordbook 그는 회의 때 중립적인 태도를 취하는 경향이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He tends to sit on the fence at meetings. Add to Wordbook"
+    },
+    {
+      "korean": "Journalists are supposed to be politically neutral. 듣기 Add to Wordbook 언론인은 정치적으로 중립적이어야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Journalists are supposed to be politically neutral. Add to Wordbook"
+    },
+    {
+      "korean": "I don't like him taking a neutral attitude. 듣기 Add to Wordbook 나는 그가 중립적인 태도를 취하는 것이 싫다. 절대어휘 5100",
+      "english": "I don't like him taking a neutral attitude. Add to Wordbook"
+    },
+    {
+      "korean": "The announcement came after consult with a neutral federal negotiator. 듣기 Add to Wordbook 이러한 발표는 중립적인 연방 중재자와의 협의 후에 나왔습니다. YBM All in All English-Korean Dictionary",
+      "english": "The announcement came after consult with a neutral federal negotiator. Add to Wordbook"
+    },
+    {
+      "korean": "That politician is a fence sitter on the subject of the administrative capital relocation. 듣기 Add to Wordbook 그 정치인은 행정수도 이전에 대해 중립적인 입장이다. Neungyule",
+      "english": "That politician is a fence sitter on the subject of the administrative capital relocation. Add to Wordbook"
+    }
+  ]
+}

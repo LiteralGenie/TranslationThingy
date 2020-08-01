@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "화물",
+      "hanja": " (貨物)",
+      "example": {},
+      "meanings": [
+        "freight, cargo, goods"
+      ]
+    },
+    {
+      "phrase": "화물 운송",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "carriage of goods[freight]",
+        "goods[freight] traffic"
+      ]
+    },
+    {
+      "phrase": "화물열차",
+      "hanja": " (貨物列車)",
+      "example": {},
+      "meanings": [
+        "freight train[car], goods train"
+      ]
+    },
+    {
+      "phrase": "화물수송료",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "carriage",
+        "freight(age)"
+      ]
+    },
+    {
+      "phrase": "침수된 화물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "wet[sea-damaged] goods"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "goods",
+      "frequency": 3
+    },
+    {
+      "meaning": "load",
+      "frequency": 3
+    },
+    {
+      "meaning": "cargo",
+      "frequency": 3
+    },
+    {
+      "meaning": "freight",
+      "frequency": 3
+    },
+    {
+      "meaning": "bale 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[화물 엘리베이터?] 화물? [A freight elevator?] A freight? 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]성동공업고등학교 ep11(홍현희X정세운X강민아)",
+      "english": "[A freight elevator?] A freight?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The cargo was hoisted aboard by crane. 듣기 Add to Wordbook 그 화물은 크레인을 이용하여 선적했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cargo was hoisted aboard by crane. Add to Wordbook"
+    },
+    {
+      "korean": "to send goods by air freight 듣기 Add to Wordbook 물건을 항공 화물로 보내다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to send goods by air freight Add to Wordbook"
+    },
+    {
+      "korean": "the conveyance of goods by rail 듣기 Add to Wordbook 철도를 통한 화물 수송 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the conveyance of goods by rail Add to Wordbook"
+    },
+    {
+      "korean": "It is a proven fact that fluoride strengthens growing teeth. 듣기 Add to Wordbook 플루오르화물이 성장 중인 치아를 튼튼하게 만들어 준다는 것은 입증된 사실이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It is a proven fact that fluoride strengthens growing teeth. Add to Wordbook"
+    },
+    {
+      "korean": "passenger and freight transportation services 듣기 Add to Wordbook 승객 및 화물 운송 서비스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "passenger and freight transportation services Add to Wordbook"
+    }
+  ]
+}

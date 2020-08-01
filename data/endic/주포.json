@@ -1,0 +1,77 @@
+{
+  "phrases": [
+    {
+      "phrase": "주포",
+      "hanja": " (主砲)",
+      "example": {},
+      "meanings": [
+        "the principal battery, the main armament"
+      ]
+    },
+    {
+      "phrase": "주포역",
+      "hanja": " (周浦驛)",
+      "example": {},
+      "meanings": [
+        "교통 Jupo Station"
+      ]
+    },
+    {
+      "phrase": "주포 기술",
+      "hanja": " (主砲技術)",
+      "example": {},
+      "meanings": [
+        "Main Armament Technology"
+      ]
+    },
+    {
+      "phrase": "주포 조준선",
+      "hanja": " (主砲照準線)",
+      "example": {},
+      "meanings": [
+        "Line Of Gun"
+      ]
+    },
+    {
+      "phrase": "주포초등학교",
+      "hanja": " (周浦初等學校)",
+      "example": {},
+      "meanings": [
+        "기관·단체 Jupo Elementary School"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "main[secondary] armament",
+      "frequency": 0
+    },
+    {
+      "meaning": "main armament",
+      "frequency": 0
+    },
+    {
+      "meaning": "main gun",
+      "frequency": 0
+    },
+    {
+      "meaning": "primary gun",
+      "frequency": 0
+    },
+    {
+      "meaning": "main bang",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "a ship with more metal in its main battery 듣기 Add to Wordbook 다른 군함보다 주포(主砲)의 총 위력이 큰 군함. Friendict Level English-Korean Dictionary",
+      "english": "a ship with more metal in its main battery Add to Wordbook"
+    },
+    {
+      "korean": "main[secondary] armament 듣기 Add to Wordbook 주포[부포]. Friendict Level English-Korean Dictionary",
+      "english": "main[secondary] armament Add to Wordbook"
+    }
+  ]
+}

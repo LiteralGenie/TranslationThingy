@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "레이더",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "radar"
+      ]
+    },
+    {
+      "phrase": "radar",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 레이더, 전파 탐지기 (→sonar)"
+      ]
+    },
+    {
+      "phrase": "raid",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 습격, 급습 (→air raid)",
+        "Noun (경찰의) 현장 급습[불시 단속]",
+        "Verb (용의자 체포마약 현장 확보 등을 위해) 불시에 들이닥치다[불시 단속을 벌이다]"
+      ]
+    },
+    {
+      "phrase": "raider",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (범행을 저지르기 위해 어떤 장소에 들어온) 침입자"
+      ]
+    },
+    {
+      "phrase": "lader",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 짐을 싣는 사람, (책임 따위를) ··· 에게 지우는 사람."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "radar",
+      "frequency": 1
+    },
+    {
+      "meaning": "locater",
+      "frequency": 0
+    },
+    {
+      "meaning": "Rdr",
+      "frequency": 0
+    },
+    {
+      "meaning": "radio detection and ranging",
+      "frequency": 0
+    },
+    {
+      "meaning": "Radio Detection And RangeRadar",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[임나봉 레이더 피셜] [쯔위의 편안한 잠자리 스텝] 쯔위 스텝 있는 거? [NAYEON's comment] Do you know she has her steps? 듣기 View video TWICE : TWICE REALITY \"TIME TO TWICE\" EP.02",
+      "english": "[NAYEON's comment] Do you know she has her steps?"
+    },
+    {
+      "korean": "[레이더망 포착] - 아! 잭슨이 형! - 왜? 왜? 왜? [Got on his radar] - Gosh, JACKSON!- Why? 듣기 View video GOT7 : GOT7(갓세븐) HOTLINE #19 (Awards Ver.)",
+      "english": "[Got on his radar] - Gosh, JACKSON!- Why?"
+    },
+    {
+      "korean": "[큰 복 레이더망 1. 코코넛 커피] 코코넛 커피 저거 맛있겠다. [Nayeon's radar 1. Coconut coffee] Coconut coffee sounds good. 듣기 View video TWICE : 나연 TV EP.01",
+      "english": "[Nayeon's radar 1. Coconut coffee] Coconut coffee sounds good."
+    },
+    {
+      "korean": "[윤형의 레이더망에 걸려든 지나니] - 오늘의 콘셉트는 뭐죠? - 저는 친구가 없어요. What's your concept today? - I have no friends. 듣기 View video Dingo Music / 딩고뮤직 : [딩고B컷톡방 딩톡방] 아이콘 iKON",
+      "english": "What's your concept today? - I have no friends."
+    },
+    {
+      "korean": "[MC신영의 레이더에 딱 걸린 보민] 보민! [MC caught Bo Min] Bo Min! 듣기 View video Golden Child : '울려라! 골든차일드' 5화 ('Ring it! Golden Child' ep.5)",
+      "english": "[MC caught Bo Min] Bo Min!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We continued tracking the plane on our radar. 발음듣기 우리는 레이더로 그 비행기를 계속 추적했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We continued tracking the plane on our radar. 발음"
+    },
+    {
+      "korean": "They located the ship by radar. 발음듣기 그들은 레이더로 그 배의 위치를 찾았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They located the ship by radar. 발음"
+    },
+    {
+      "korean": "Just open the refrigerator. Clem would be right beside you because she is such a refrigeradar. 발음듣기 그냥 냉장고를 열어봐. 냉장고 레이더인 클램이 바로 옆에 올걸. 국제영어대학원대학교 신어사전",
+      "english": "Just open the refrigerator. Clem would be right beside you because she is such a refrigeradar. 발음"
+    },
+    {
+      "korean": "I'm sorry that we have to have a Washington presence. We thrived during our first 16 years without any of this. I never made a political visit to Washington and we had no people here. It wasn't on our radar screen. We were just making great software. (Bill Gates) 발음듣기 우리가 워싱턴에 (로비 할) 사람을 두어야 한다는 사실이 유감입니다. 우리는 지난 16년 동안 이런 일을 겪지 않고도 번창했습니다. 저는 단 한번도 워싱턴을 정치적 목적으로 방문하지 않았고 이곳에 사람을 두지 않았습니다. 이 곳은 우리 레이더망 밖에 있었습니다. 우린 그냥 훌륭한 소프트웨어를 개발하고 있었을 뿐입니다. (빌 게이츠, 컴퓨터명언) 명언/속담",
+      "english": "I'm sorry that we have to have a Washington presence. We thrived during our first 16 years without any of this. I never made a political visit to Washington and we had no people here. It wasn't on our radar screen. We were just making great software. (Bill Gates) 발음"
+    },
+    {
+      "korean": "Radar is an important tool for weather forecasting. 발음듣기 레이더는 기상 예측에 이용되는 중요한 도구다. YBM All in All English-Korean Dictionary",
+      "english": "Radar is an important tool for weather forecasting. 발음"
+    }
+  ]
+}

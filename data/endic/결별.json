@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "결별",
+      "hanja": " (訣別)",
+      "example": {},
+      "meanings": [
+        "[동사] separate, break up, split (up), part company (with)"
+      ]
+    },
+    {
+      "phrase": "결별을 선언하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "declare a separation from"
+      ]
+    },
+    {
+      "phrase": "여자 친구와 결별하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "break up with one´s girlfriend"
+      ]
+    },
+    {
+      "phrase": "결별의 인사",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a farewell address",
+        "parting words"
+      ]
+    },
+    {
+      "phrase": "과거와 결별하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "break with the past"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bust-up",
+      "frequency": 0
+    },
+    {
+      "meaning": "part company (with/from somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "split up (with somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "break with tradition",
+      "frequency": 0
+    },
+    {
+      "meaning": "parting words",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나오코와 결별했어요. I broke up with Naoko. 듣기 View video EXO : 카이브이앱",
+      "english": "I broke up with Naoko."
+    },
+    {
+      "korean": "결별을 택했다. they finanly broke up. 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 with 다이아 A night's entertainment news with DIA",
+      "english": "they finanly broke up."
+    },
+    {
+      "korean": "그런 사람이랑 결별한 이후에... After splitting up... 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 with 매드타운 A night's entertainment news with MADTOWN",
+      "english": "After splitting up..."
+    },
+    {
+      "korean": "결별이요? - 결혼인가요? 뭐죠? Split up? - What did it mean? 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 with 매드타운 A night's entertainment news with MADTOWN",
+      "english": "Split up? - What did it mean?"
+    },
+    {
+      "korean": "사실 결별 얘기는 여러번 나왔어요. There were a lot of rumors about their break up. 듣기 View video 10PM : [10pm2 월] 하지영의 한밤의 연예뉴스 A night's entertainment news",
+      "english": "There were a lot of rumors about their break up."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The band have parted company with their manager. 발음듣기 그 밴드는 자기들 매니저와 헤어졌다[결별했다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The band have parted company with their manager. 발음"
+    },
+    {
+      "korean": "The band and their manager have parted company. 발음듣기 그 밴드와 그들의 매니저는 헤어졌다[결별했다]. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The band and their manager have parted company. 발음"
+    },
+    {
+      "korean": "They split up after ten years together. 발음듣기 그들은 10년을 함께 지낸 후에 결별했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They split up after ten years together. 발음"
+    },
+    {
+      "korean": "This decision represents a significant departure from previous policy. 발음듣기 이번 결정은 이전 정책과의 의미심장한 결별에 해당한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This decision represents a significant departure from previous policy. 발음"
+    },
+    {
+      "korean": "She intends to split from the band at the end of the tour. 발음듣기 그녀는 이번 순회공연이 끝나면 밴드와 결별하려고 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She intends to split from the band at the end of the tour. 발음"
+    }
+  ]
+}

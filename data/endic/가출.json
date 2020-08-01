@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "가출",
+      "hanja": " (家出)",
+      "example": {},
+      "meanings": [
+        "[동사] run away from home"
+      ]
+    },
+    {
+      "phrase": "가출 청소년",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "teenage runaway"
+      ]
+    },
+    {
+      "phrase": "가출 소녀[소년]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a runaway girl[boy]",
+        "a girl[boy] who has run away from home"
+      ]
+    },
+    {
+      "phrase": "무단가출하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "run away from home",
+        "leave home without notice"
+      ]
+    },
+    {
+      "phrase": "무단가출",
+      "hanja": " (無斷家出)",
+      "example": {},
+      "meanings": []
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "elopement",
+      "frequency": 0
+    },
+    {
+      "meaning": "disappearance from home",
+      "frequency": 0
+    },
+    {
+      "meaning": "a disappearance from home",
+      "frequency": 0
+    },
+    {
+      "meaning": "abscondence from home",
+      "frequency": 0
+    },
+    {
+      "meaning": "running away from home",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[박자 가출] 아니지! [Not with the tempo] That's not it! 듣기 View video BTS : Run BTS! 2019 - EP.90",
+      "english": "[Not with the tempo] That's not it!"
+    },
+    {
+      "korean": "[복근 잠시 가출... 곧 돌아올 계획...] - 지금... - 이게... Right now... - This... 듣기 View video MAMAMOO : [MMMTV5] EP8.1 LET'S GO DAEGU part.2",
+      "english": "Right now... - This..."
+    },
+    {
+      "korean": "[영혼 가출] 괜찮아? [Out of mind] You okay? 듣기 View video 콬TV (WHYNOT) : 친구보다 가깝고, 연인보다 먼 사이ㅣ[리얼하이로맨스(Real Highschool Romance)] EP 13",
+      "english": "[Out of mind] You okay?"
+    },
+    {
+      "korean": "[연이은 실패에 다들 정신 가출] - 내가 이리로 갈게 - 모르겠다~ I will go over here. - I don't know. 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 5화",
+      "english": "I will go over here. - I don't know."
+    },
+    {
+      "korean": "[민현이 미모에 놀라 가출한 카메라 초점...] - 대만족! - 대만족? [Minhyun's visual made the camera out of focus] - Satisfied! - Satisfied? 듣기 View video Dispatch : [ⓓxV] “쩨알이 선물 받으러가욧!” (뉴이스트:NU’EST)",
+      "english": "[Minhyun's visual made the camera out of focus] - Satisfied! - Satisfied?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "teenage runaways living on the streets 듣기 Add to Wordbook 길거리에서 생활하는 가출 청소년 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "teenage runaways living on the streets Add to Wordbook"
+    },
+    {
+      "korean": "He ran away from home at the age of thirteen. 듣기 Add to Wordbook 그는 13살 때 가출했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He ran away from home at the age of thirteen. Add to Wordbook"
+    },
+    {
+      "korean": "Their son ran away from home and joined a cult. 듣기 Add to Wordbook 그들의 아들은 가출을 해서 사이비 종교 집단에 들어갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their son ran away from home and joined a cult. Add to Wordbook"
+    },
+    {
+      "korean": "She related how he had run away from home as a boy. 듣기 Add to Wordbook 그녀는 그가 어릴 때 어떻게 가출했는지를 들려주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She related how he had run away from home as a boy. Add to Wordbook"
+    },
+    {
+      "korean": "He egged her on to run away from home. 듣기 Add to Wordbook 그가 그녀를 충동질해서 가출하게 만들었다 Neungyule",
+      "english": "He egged her on to run away from home. Add to Wordbook"
+    }
+  ]
+}

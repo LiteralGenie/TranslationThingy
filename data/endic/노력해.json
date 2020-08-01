@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "노력하다",
+      "hanja": " (努力하다)",
+      "example": {},
+      "meanings": [
+        "Verb make effort, endeavor, work hard"
+      ]
+    },
+    {
+      "phrase": "노력",
+      "hanja": " (努力)",
+      "example": {},
+      "meanings": [
+        "[명사] effort, exertion, (formal) endeavor, [동사] try, make an effort[endeavor], work hard, strive (for), (formal) endeavor, (formal) exert oneself"
+      ]
+    },
+    {
+      "phrase": "노력(하다)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 endeavor"
+      ]
+    },
+    {
+      "phrase": "부단한 노력",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "constant exertions",
+        "a sustained[perpetual] effort"
+      ]
+    },
+    {
+      "phrase": "기껏 노력하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "do one´s best",
+        "exert oneself as hard as possible"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "endeavor",
+      "frequency": 1
+    },
+    {
+      "meaning": "endeavour",
+      "frequency": 0
+    },
+    {
+      "meaning": "할애하다",
+      "frequency": 0
+    },
+    {
+      "meaning": "exertion",
+      "frequency": 1
+    },
+    {
+      "meaning": "to make an effort",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[보고만 있어도 재밌는데 거기다가 노력까지 하는 우리 아기빵] 노력해볼게요! [This bay bread always does his best for fans] I'll do my best! 듣기 View video V PICK! : [Stray Kids] 아기빵 주먹이면 보호장비 없이도 UFC 가능이야👊🏻🦊 (I.N calling with HAN)",
+      "english": "[This bay bread always does his best for fans] I'll do my best!"
+    },
+    {
+      "korean": "노력해보신대요 감사합니다! They said they would try. Thank you! 듣기 View video THE BOYZ : white (feat. 막내즈) #2",
+      "english": "They said they would try. Thank you!"
+    },
+    {
+      "korean": "앞으로 더 좋은 엄마가 되기 위해 노력해볼게. I'll work hard to be a better mom. 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.17 #DJ황치열",
+      "english": "I'll work hard to be a better mom."
+    },
+    {
+      "korean": "이거는 노력해볼게 그거 다... I'll try to finish this up. You have the rest... 듣기 View video Stray Kids : 🐶🐱스쿨 유학 후 개학하다...!",
+      "english": "I'll try to finish this up. You have the rest..."
+    },
+    {
+      "korean": "[당신의 노래 점수는?? 63 조금만 더 노력해주세요...] [Your score? 63 Please try a bit harder...] View video BTS : Run BTS! 2020 - EP.92",
+      "english": "[Your score? 63 Please try a bit harder...]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Just try your hardest. 발음듣기 그저 최대한 노력해 보아라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Just try your hardest. 발음"
+    },
+    {
+      "korean": "She has tried to lead a good life. 발음듣기 그녀는 착하게 살려고 노력해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She has tried to lead a good life. 발음"
+    },
+    {
+      "korean": "Have you tried patching things up with her? 발음듣기 그녀와의 일[관계]을 수습하려고 노력해 보셨어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you tried patching things up with her? 발음"
+    },
+    {
+      "korean": "Successive governments have tried to tackle the problem. 발음듣기 연이은 정부들이 이 문제를 해결하려고 노력해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Successive governments have tried to tackle the problem. 발음"
+    },
+    {
+      "korean": "We have tried to pursue a policy of neutrality. 발음듣기 우리는 중립 정책을 밀고 나가려고 노력해 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We have tried to pursue a policy of neutrality. 발음"
+    }
+  ]
+}

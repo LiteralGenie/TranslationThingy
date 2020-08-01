@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "사망자",
+      "hanja": " (死亡者)",
+      "example": {},
+      "meanings": [
+        "the dead"
+      ]
+    },
+    {
+      "phrase": "사망자 수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the death toll",
+        "the number of deaths"
+      ]
+    },
+    {
+      "phrase": "사망자 명단",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "death-roll"
+      ]
+    },
+    {
+      "phrase": "사망자 통계",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "statistics of mortality returns"
+      ]
+    },
+    {
+      "phrase": "사망자 명부",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a death roll"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fatality",
+      "frequency": 1
+    },
+    {
+      "meaning": "death rate",
+      "frequency": 0
+    },
+    {
+      "meaning": "deceased person",
+      "frequency": 0
+    },
+    {
+      "meaning": "Death Tool",
+      "frequency": 0
+    },
+    {
+      "meaning": "death toll",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사망자 기억 삭제합니다. I will erase your memory. 듣기 View video V WEB DRAMA : 텔레씨네 <아이리시어퍼컷> 3화",
+      "english": "I will erase your memory."
+    },
+    {
+      "korean": "사망자 하나가 배에서 뛰어내렸대. A dead person jumped off the boat. 듣기 View video V WEB DRAMA : 텔레씨네 <아이리시어퍼컷> 3화",
+      "english": "A dead person jumped off the boat."
+    },
+    {
+      "korean": "그럼 일단 저 사망자 임시숙소로 그... Let's go to the dead's temporary dorm... 듣기 View video V WEB DRAMA : 텔레씨네 <아이리시어퍼컷> 3화",
+      "english": "Let's go to the dead's temporary dorm..."
+    },
+    {
+      "korean": "사망자 기억이 안 지워지는 이유는 딱 하나야. There's only one reason why a dead person doesn't lose their memory. 듣기 View video V WEB DRAMA : 텔레씨네 <아이리시어퍼컷> 4화",
+      "english": "There's only one reason why a dead person doesn't lose their memory."
+    },
+    {
+      "korean": "저승사자 도해나 비사망자 살해 혐의로 제명 처리한다. Grim reaper, Do Haena, you are being charged of murdering a person who wasn't supposed to die. 듣기 View video V WEB DRAMA : 텔레씨네 <아이리시어퍼컷> 8회",
+      "english": "Grim reaper, Do Haena, you are being charged of murdering a person who wasn't supposed to die."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Mortality from lung cancer is still increasing. 발음듣기 폐암으로 인한 사망자 수가 아직도 증가하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Mortality from lung cancer is still increasing. 발음"
+    },
+    {
+      "korean": "Several people were injured, but there were no fatalities. 발음듣기 몇몇 사람이 다쳤으나 사망자는 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Several people were injured, but there were no fatalities. 발음"
+    },
+    {
+      "korean": "The death toll continues to mount. 발음듣기 사망자 수가 계속 증가하고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The death toll continues to mount. 발음"
+    },
+    {
+      "korean": "The official death toll has now reached 7000. 발음듣기 공식 사망자 수가 이제 7 000명에 달했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The official death toll has now reached 7000. 발음"
+    },
+    {
+      "korean": "a two-minute silence in honour of those who had died 발음듣기 사망자들을 추모하는 2분간의 묵념 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a two-minute silence in honour of those who had died 발음"
+    }
+  ]
+}

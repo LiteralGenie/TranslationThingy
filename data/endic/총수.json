@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "총수",
+      "hanja": " (總帥)",
+      "example": {},
+      "meanings": [
+        "(우두머리) head, leader"
+      ]
+    },
+    {
+      "phrase": "대기업 총수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the head of a large[big] company"
+      ]
+    },
+    {
+      "phrase": "사상자 총수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the total casualties"
+      ]
+    },
+    {
+      "phrase": "S그룹의 총수",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the head of the S group"
+      ]
+    },
+    {
+      "phrase": "총수꽃차례",
+      "hanja": " (總穗─次例)",
+      "example": {},
+      "meanings": [
+        "[식물] a botryose inflorescence."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "total",
+      "frequency": 3
+    },
+    {
+      "meaning": "count",
+      "frequency": 3
+    },
+    {
+      "meaning": "count 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "totality",
+      "frequency": 0
+    },
+    {
+      "meaning": "a total number",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "총 수를 말하는 거비다. - 총이요? We are talking about the total numbers. - The total? 듣기 View video IDOL x IDOL : Underdog - 언더독 ' 언더독한테 집중해 봐봐'",
+      "english": "We are talking about the total numbers. - The total?"
+    },
+    {
+      "korean": "우리가 지금 총수가 1, 2, 3, 4, 5. - 근데 마피아는 한 명하는 게 재미있어. We have a total of five people. - It's fun when there's one mafia. 듣기 View video iKON : [KONIC TV] 코니들의 신나는 여름밤",
+      "english": "We have a total of five people. - It's fun when there's one mafia."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The body count stands at 24. 듣기 Add to Wordbook 시신의 총수가 24구에 달한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The body count stands at 24. Add to Wordbook"
+    },
+    {
+      "korean": "This brought the total number of accidents so far this year to 113. 듣기 Add to Wordbook 이것으로 올해 지금까지 있은 사고의 총수는 113건이 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This brought the total number of accidents so far this year to 113. Add to Wordbook"
+    },
+    {
+      "korean": "The labor force of the country is estimated at 5,000,000. 듣기 Add to Wordbook 그 나라의 노동자 총수는 500만으로 추산된다. Friendict Level English-Korean Dictionary",
+      "english": "The labor force of the country is estimated at 5,000,000. Add to Wordbook"
+    },
+    {
+      "korean": "He is the head of a prominent conglomerate. 듣기 Add to Wordbook 그는 유명 재벌 기업의 총수다 Neungyule",
+      "english": "He is the head of a prominent conglomerate. Add to Wordbook"
+    },
+    {
+      "korean": "Practically a corporate chairperson has the absolute power over the corporate management. 듣기 Add to Wordbook 사실상 그룹 총수가 기업 경영의 전권을 쥐고 있다 Neungyule",
+      "english": "Practically a corporate chairperson has the absolute power over the corporate management. Add to Wordbook"
+    }
+  ]
+}

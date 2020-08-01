@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "경비",
+      "hanja": " (經費)",
+      "example": {},
+      "meanings": [
+        "(비용) expense, cost, charge"
+      ]
+    },
+    {
+      "phrase": "경비",
+      "hanja": " (警備)",
+      "example": {},
+      "meanings": [
+        "guard, security"
+      ]
+    },
+    {
+      "phrase": "제경비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "overhead expenses[charges]"
+      ]
+    },
+    {
+      "phrase": "여행 경비",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "travelling expenses"
+      ]
+    },
+    {
+      "phrase": "제 비용[경비]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "expenses",
+        "costs",
+        "charges"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "expense",
+      "frequency": 3
+    },
+    {
+      "meaning": "cost",
+      "frequency": 3
+    },
+    {
+      "meaning": "security",
+      "frequency": 3
+    },
+    {
+      "meaning": "spend",
+      "frequency": 3
+    },
+    {
+      "meaning": "guard",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이도 형 경비원 아니시죠? Lee Do, are you a security guard? 듣기 View video V COOKIE : [Full]ONEUS X LieV - 원어스의 눕방라이브!",
+      "english": "Lee Do, are you a security guard?"
+    },
+    {
+      "korean": "총 여행 경비요? The total amount of expenses? 듣기 View video DAY6 : 걸어서 세케여행🦊🗺",
+      "english": "The total amount of expenses?"
+    },
+    {
+      "korean": "그 경비 아저씨한테 너무 감사했어요. I was so thankful to my security guard. 듣기 View video V Beauty : [Ssongyang 쏭냥] 2주동안 도착한 뷰티박스 같이 개봉해요! | Unboxing",
+      "english": "I was so thankful to my security guard."
+    },
+    {
+      "korean": "[최면보다 중요한 택!배!] 경비실에 맡겨주세요. Please leave it in the security office. 듣기 View video MAMAMOO : [MMMTV4] EP16 옥탑방 마마무 PART 2",
+      "english": "Please leave it in the security office."
+    },
+    {
+      "korean": "잠깐만, 여러분 다 쏘스뮤직 경비로... Hold on, let's say it's an all expense paid trip by Source Music... 듣기 View video GFRIEND : [Replay] 여자친구 The 2nd ALBUM 발매 쇼케이스",
+      "english": "Hold on, let's say it's an all expense paid trip by Source Music..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Guards patrol the perimeter of the estate. 듣기 Add to Wordbook 경비원들이 그 사유지 주위를 순찰한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Guards patrol the perimeter of the estate. Add to Wordbook"
+    },
+    {
+      "korean": "The visit took place amidst tight security. 듣기 Add to Wordbook 그 방문은 철통같은 경비 속에서 이뤄졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The visit took place amidst tight security. Add to Wordbook"
+    },
+    {
+      "korean": "He throttled the guard with his bare hands. 듣기 Add to Wordbook 그는 맨손으로 경비원의 목을 졸라 죽였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He throttled the guard with his bare hands. Add to Wordbook"
+    },
+    {
+      "korean": "Security guards make regular patrols at night. 듣기 Add to Wordbook 밤에는 경비원들이 정기적으로 순찰을 돈다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Security guards make regular patrols at night. Add to Wordbook"
+    },
+    {
+      "korean": "The spending cuts had been rammed through Congress. 듣기 Add to Wordbook 그 경비 감축안들은 의회를 힘겹게 통과했었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The spending cuts had been rammed through Congress. Add to Wordbook"
+    }
+  ]
+}

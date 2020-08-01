@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "솔직히",
+      "hanja": " (率直히)",
+      "example": {},
+      "meanings": [
+        "honestly, frankly, plainly, truthfully"
+      ]
+    },
+    {
+      "phrase": "솔직히 말하면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to be frank[honest] with you",
+        "frankly speaking",
+        "to tell (you) the truth"
+      ]
+    },
+    {
+      "phrase": "솔직히 말하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "say[speak, talk] frankly[candidly]"
+      ]
+    },
+    {
+      "phrase": "솔직히 말하자면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "frankly speaking",
+        "to speak honestly",
+        "to be honest"
+      ]
+    },
+    {
+      "phrase": "자유롭게[솔직히] 이야기하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "talk freely[candidly, frankly]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "honestly",
+      "frequency": 3
+    },
+    {
+      "meaning": "frankly",
+      "frequency": 3
+    },
+    {
+      "meaning": "candidly",
+      "frequency": 0
+    },
+    {
+      "meaning": "foursquare",
+      "frequency": 0
+    },
+    {
+      "meaning": "without reserve",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "예뻤죠 솔직히? It looked pretty good, didn't it? 듣기 View video NCT : 해벌",
+      "english": "It looked pretty good, didn't it?"
+    },
+    {
+      "korean": "솔직히 못 먹겠다 이 생각하죠? You think you can't eat this, right? 듣기 View video OSEN : Golden Child 골든차일드, 치킨 100마리도 먹을 것 같은 식성 #스타로드 09",
+      "english": "You think you can't eat this, right?"
+    },
+    {
+      "korean": "이건 너무 하지 않아요, 솔직히? Isn't it too terrible, to be honest? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Isn't it too terrible, to be honest?"
+    },
+    {
+      "korean": "[한 번만 봐줘요] 솔직히 어제까지... [Please cut us some slack] To be honest... We had it yesterday. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Please cut us some slack] To be honest... We had it yesterday."
+    },
+    {
+      "korean": "솔직히 여기에 신발만 신고 이것만 없으면 - 근데 신어야 돼 감기 걸려~ Honestly, if he wears shoes and this wasn't here.. - Wear shoes! You'll catch a cold! 듣기 View video ASTRO : 초콜릿스트로🍫",
+      "english": "Honestly, if he wears shoes and this wasn't here.. - Wear shoes! You'll catch a cold!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I tackled him about the money he owed me. 듣기 Add to Wordbook 나는 그가 내게 빌린 돈에 대해 그에게 솔직히 말을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I tackled him about the money he owed me. Add to Wordbook"
+    },
+    {
+      "korean": "To put it plainly, he’s a crook. 듣기 Add to Wordbook 솔직히 말한다면 그는 사기꾼이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "To put it plainly, he’s a crook. Add to Wordbook"
+    },
+    {
+      "korean": "I didn’t honestly think he’d pass the exam but he came up trumps on the day. 듣기 Add to Wordbook 난 솔직히 그가 시험에 합격할 거라고 생각하지 않았는데, 그가 그날 예상 외로 잘 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I didn’t honestly think he’d pass the exam but he came up trumps on the day. Add to Wordbook"
+    },
+    {
+      "korean": "They frankly admitted their responsibility. 듣기 Add to Wordbook 그들은 솔직히 자신들의 책임을 인정했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They frankly admitted their responsibility. Add to Wordbook"
+    },
+    {
+      "korean": "Honestly, you’re impossible at times! 듣기 Add to Wordbook 솔직히 말해서 넌 가끔 정말 난감할 때가 있어! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Honestly, you’re impossible at times! Add to Wordbook"
+    }
+  ]
+}

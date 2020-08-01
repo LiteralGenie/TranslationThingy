@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "짐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건) load, burden, (화물) freight, cargo, (수하물) (Am) baggage, (Brit) luggage",
+        "(부담, 책임) burden, load, (귀찮은 존재) nuisance"
+      ]
+    },
+    {
+      "phrase": "gym",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (학교 등의) 체육관",
+        "Noun (특히 학교에서 하는) 운동",
+        "Noun (=health club)"
+      ]
+    },
+    {
+      "phrase": "health club ( gym )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 헬스클럽"
+      ]
+    },
+    {
+      "phrase": "Jim",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 남자 이름 ((James의 애칭))"
+      ]
+    },
+    {
+      "phrase": "gym.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gymnasium, gymnastics"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "burden",
+      "frequency": 3
+    },
+    {
+      "meaning": "load",
+      "frequency": 3
+    },
+    {
+      "meaning": "weight",
+      "frequency": 3
+    },
+    {
+      "meaning": "luggage",
+      "frequency": 3
+    },
+    {
+      "meaning": "encumbrance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "짐 싸라 짐싸! Just go home! 듣기 View video Dispatch : [ⓓxV] “셉마인드1” (세븐틴 : SEVENTEEN)",
+      "english": "Just go home!"
+    },
+    {
+      "korean": "짐 왔어요? Is my luggage here? 듣기 View video Apink : Jakarta⭐️",
+      "english": "Is my luggage here?"
+    },
+    {
+      "korean": "짐 싸는 거 보여달라고요? Show the packing?? 듣기 View video NU'EST : 너무 늦었죠🙈",
+      "english": "Show the packing??"
+    },
+    {
+      "korean": "짐을 다 쌌는데 어떡하지? We packed everything... Oh no... 듣기 View video NU'EST : 너무 늦었죠🙈",
+      "english": "We packed everything... Oh no..."
+    },
+    {
+      "korean": "숙소의 짐 빼야겠다. I should remove my stuff from the dorms. 듣기 View video VICTON : 숩이 등장..! 앨리스 섭섭했어요?!😔",
+      "english": "I should remove my stuff from the dorms."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We loaded our baggage into the car. 듣기 Add to Wordbook 우리는 짐을 차에 실었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We loaded our baggage into the car. Add to Wordbook"
+    },
+    {
+      "korean": "All exits must be kept clear of baggage. 듣기 Add to Wordbook 모든 비상구 앞에는 짐을 놓으면 안 됩니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "All exits must be kept clear of baggage. Add to Wordbook"
+    },
+    {
+      "korean": "She went to her room to unpack. 듣기 Add to Wordbook 그녀는 짐을 풀려고 방으로 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She went to her room to unpack. Add to Wordbook"
+    },
+    {
+      "korean": "The truck driver was waiting to unload. 듣기 Add to Wordbook 그 트럭 운전사는 짐을 내리기 위해 기다리고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The truck driver was waiting to unload. Add to Wordbook"
+    },
+    {
+      "korean": "The trucks waited at the warehouse to pick up their loads. 듣기 Add to Wordbook 그 트럭들은 짐을 싣기 위해 창고에서 기다렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The trucks waited at the warehouse to pick up their loads. Add to Wordbook"
+    }
+  ]
+}

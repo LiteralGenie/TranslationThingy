@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "시설",
+      "hanja": " (施設)",
+      "example": {},
+      "meanings": [
+        "facilities, (공업·군사 등의) installation"
+      ]
+    },
+    {
+      "phrase": "scissile",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 자를 수 있는, 분리되기[잘라지기] 쉬운"
+      ]
+    },
+    {
+      "phrase": "scissel",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 야금 [집합적] 철판을 잘라낸 부스러기"
+      ]
+    },
+    {
+      "phrase": "부대시설",
+      "hanja": " (附帶施設)",
+      "example": {},
+      "meanings": [
+        "additional facilities, subsidiary facilities"
+      ]
+    },
+    {
+      "phrase": "기반시설",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "infrastructure"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "facility",
+      "frequency": 3
+    },
+    {
+      "meaning": "plant",
+      "frequency": 3
+    },
+    {
+      "meaning": "home",
+      "frequency": 3
+    },
+    {
+      "meaning": "accommodation",
+      "frequency": 3
+    },
+    {
+      "meaning": "installation",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "(선배님 멋져) 오늘은 다른 곳에선 쉽게 찾아 볼 수 없는 저희 학교의 특별한 시설을 소개하려 합니다. (Cool) Today I'm going to talk about our school facilities which is hard to find in any other schools. 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]해성국제컨벤션고등학교 ep.1",
+      "english": "(Cool) Today I'm going to talk about our school facilities which is hard to find in any other schools."
+    },
+    {
+      "korean": "[고민 중] 시설? 시아? [Thinking] Xy-seol? Xya? 듣기 View video V PICK! : [WJSN] 쓰앵님... 우리 엑떨 너무 귀여운데 어떡하죠? (Exy&SeolA talking about WJ STAY?)",
+      "english": "[Thinking] Xy-seol? Xya?"
+    },
+    {
+      "korean": "거기에는 놀이시설이 있어요. The restaurant had a playground. 듣기 View video V PICK! : [SF9] 감자탕집에서 백초딩(11살, 미래의 SF9 래퍼)에게 일어난 일🥔 (ZUHO talking about his childhood)",
+      "english": "The restaurant had a playground."
+    },
+    {
+      "korean": "여러분 가지 마세요 놀이시설. Everyone, don't go to playgrounds. 듣기 View video V PICK! : [SF9] 감자탕집에서 백초딩(11살, 미래의 SF9 래퍼)에게 일어난 일🥔 (ZUHO talking about his childhood)",
+      "english": "Everyone, don't go to playgrounds."
+    },
+    {
+      "korean": "약간 나는... - 엑설, 엑시, 시설? It's like... - Ex-sol? Exy, Xyseol? 듣기 View video 우주소녀(WJSN) : [설아 엑시] 설아와 엑시의 STAY TIME⏰🧡",
+      "english": "It's like... - Ex-sol? Exy, Xyseol?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the ramparts and fortifications of the Old Town 듣기 Add to Wordbook 구 시가지의 성벽과 방어 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the ramparts and fortifications of the Old Town Add to Wordbook"
+    },
+    {
+      "korean": "The hut had no cooking or sanitary facilities. 듣기 Add to Wordbook 그 오두막에는 조리 시설도 위생 시설도 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hut had no cooking or sanitary facilities. Add to Wordbook"
+    },
+    {
+      "korean": "the radial pattern of public transport facilities 듣기 Add to Wordbook 방사상 패턴의 대중교통 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the radial pattern of public transport facilities Add to Wordbook"
+    },
+    {
+      "korean": "The housing was unfit for human habitation. 듣기 Add to Wordbook 그 주거 시설은 사람이 살기에 부적합했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The housing was unfit for human habitation. Add to Wordbook"
+    },
+    {
+      "korean": "the need to improve facilities for leisure and recreation 듣기 Add to Wordbook 레저와 레크리에이션 시설을 개선할 필요 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the need to improve facilities for leisure and recreation Add to Wordbook"
+    }
+  ]
+}

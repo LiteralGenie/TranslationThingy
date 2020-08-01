@@ -1,0 +1,105 @@
+{
+  "phrases": [
+    {
+      "phrase": "편의",
+      "hanja": " (便宜)",
+      "example": {},
+      "meanings": [
+        "convenience"
+      ]
+    },
+    {
+      "phrase": "편의 시설",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "amenities, accommodation, comforts, convenience"
+      ]
+    },
+    {
+      "phrase": "편의를 봐주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "accommodate"
+      ]
+    },
+    {
+      "phrase": "편의를 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "obtain facilities",
+        "get many advantages"
+      ]
+    },
+    {
+      "phrase": "편의를 도모하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "consult convenience",
+        "accommodate",
+        "consider advantage"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "convenience",
+      "frequency": 1
+    },
+    {
+      "meaning": "expediency",
+      "frequency": 0
+    },
+    {
+      "meaning": "convenance",
+      "frequency": 0
+    },
+    {
+      "meaning": "polarization",
+      "frequency": 0
+    },
+    {
+      "meaning": "베넷핏",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 다 편의를 봐드리고 있습니다. so I am conveniently letting him slide. 듣기 View video IU : [IU TV] 2018 IU Tour Concert ‘dlwlrma.’ VCR Behind",
+      "english": "so I am conveniently letting him slide."
+    },
+    {
+      "korean": "'형이 편의를 봐줄게'라고 얘기해 줬는데요. 저기요, 형. \"but I will help you out\". Excuse me. 듣기 View video iKON : [KONIC TV] 2탄 '코니의 장보기미션!!'",
+      "english": "\"but I will help you out\". Excuse me."
+    },
+    {
+      "korean": "여러분의 편의가 아니에요. It's not for their convenience. It's for our convenience. 듣기 View video EXID : [EXID(이엑스아이디)] 2배속 안무 영상",
+      "english": "It's not for their convenience. It's for our convenience."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Say hi to your folks for me. 발음듣기 네 가족들에게 내 편의 안부를 전해라. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Web Collection",
+      "english": "Say hi to your folks for me. 발음"
+    },
+    {
+      "korean": "Say hello to the sea for me. 발음듣기 그 바다에 내 편의 안부를 전해줘. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Web Collection",
+      "english": "Say hello to the sea for me. 발음"
+    },
+    {
+      "korean": "I do not want to be directed by a German-French axis. 발음듣기 나는 프랑스-독일 편의 지도 받는 것을 원치 않는다. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Hansard",
+      "english": "I do not want to be directed by a German-French axis. 발음"
+    },
+    {
+      "korean": "Say hi to your father for me, huh. 발음듣기 네 아버지께 내 편의 안부를 전해드려, 응? User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Web Collection",
+      "english": "Say hi to your father for me, huh. 발음"
+    },
+    {
+      "korean": "Say goodbye to your father for me. 발음듣기 네 아버지께 내 편의 작별 인사를 대신 드려라. User translation Inaccurate information may be included due to the users' self-traslation. cielcine(ciel****) Web Collection",
+      "english": "Say goodbye to your father for me. 발음"
+    }
+  ]
+}

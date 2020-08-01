@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "봉쇄",
+      "hanja": " (封鎖)",
+      "example": {},
+      "meanings": [
+        "[명사] blockade, [동사] block (up), seal off, blockade"
+      ]
+    },
+    {
+      "phrase": "해상 봉쇄",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a naval[sea] blockade"
+      ]
+    },
+    {
+      "phrase": "경제 봉쇄",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an economic blockade[boycott]"
+      ]
+    },
+    {
+      "phrase": "봉쇄를 풀다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lift[raise, remove] a blockade"
+      ]
+    },
+    {
+      "phrase": "봉쇄가 풀리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a blockade is lifted[raised, removed]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "blockade",
+      "frequency": 3
+    },
+    {
+      "meaning": "grouped bee chain",
+      "frequency": 0
+    },
+    {
+      "meaning": "seal something off",
+      "frequency": 0
+    },
+    {
+      "meaning": "block something up",
+      "frequency": 0
+    },
+    {
+      "meaning": "an economic blockade",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[출구봉쇄, 빠져나갈 길 없는 후니몰이] - 승훈이가 발표로 한번 해봅시다 - 그래요? [No, there's no exit for you, HOONY] - You're the representative of WINNER. - Oh, I am? 듣기 View video 아이돌룸(IDOL ROOM) : 아이돌룸(IDOL ROOM) 33회 - 위너 '운동바보설'에 강리다 발끈!",
+      "english": "[No, there's no exit for you, HOONY] - You're the representative of WINNER. - Oh, I am?"
+    },
+    {
+      "korean": "[사전 원천봉쇄] 저흰 이미 얘기했어요 둘이. [Blocking] We already talked. 듣기 View video Amigo TV : 본격 아이돌 혜자방송 <아이돌에 미치고, 아미고TV> 빅스 편(1/7)",
+      "english": "[Blocking] We already talked."
+    },
+    {
+      "korean": "물 봉쇄해주세요. - 주세요. Please take away the water. - Give it to me. 듣기 View video ASTRO : Astro in san francisco 💜💜",
+      "english": "Please take away the water. - Give it to me."
+    },
+    {
+      "korean": "혹시 여기까지 다 올리는... [목까지 원천 봉쇄(?)] Do you zip up your jacket until here? 듣기 View video 졸잼티비 (joLjamTV) : [beauty's code2] 낮 타입? 밤 타입? _ep11",
+      "english": "Do you zip up your jacket until here?"
+    },
+    {
+      "korean": "[출구 원천 봉쇄] 소풍 한번 해볼까? [Lost fan exit completely sealed] Shall we have a picnic? 듣기 View video MOMO X : [개이득2] 중고 직거래에서 펼쳐진 느닷없는 피크닉? 여자친구 편",
+      "english": "[Lost fan exit completely sealed] Shall we have a picnic?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "One door had been blocked up. 듣기 Add to Wordbook 문 하나는 봉쇄되어 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "One door had been blocked up. Add to Wordbook"
+    },
+    {
+      "korean": "The police covered the exits to the building. 듣기 Add to Wordbook 경찰이 총을 들고 건물 비상구들을 봉쇄하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The police covered the exits to the building. Add to Wordbook"
+    },
+    {
+      "korean": "Troops have sealed the borders between the countries. 듣기 Add to Wordbook 군대가 그 국가들 사이의 국경을 봉쇄했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Troops have sealed the borders between the countries. Add to Wordbook"
+    },
+    {
+      "korean": "to raise a blockade/a ban/an embargo/a siege 듣기 Add to Wordbook 봉쇄/금지령/통상 금지/포위를 풀다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to raise a blockade/a ban/an embargo/a siege Add to Wordbook"
+    },
+    {
+      "korean": "America imposed an economic blockade on China. 듣기 Add to Wordbook 미국은 중국에 경제적인 봉쇄를 부과했다. 절대어휘 5100",
+      "english": "America imposed an economic blockade on China. Add to Wordbook"
+    }
+  ]
+}

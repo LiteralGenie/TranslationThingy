@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "등록",
+      "hanja": " (登錄)",
+      "example": {},
+      "meanings": [
+        "[명사] registration, (수업 등에) enrollment, [동사] register, (수업 등에) enroll, sign up (for)"
+      ]
+    },
+    {
+      "phrase": "등록/등기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지식재산권_특허 registration"
+      ]
+    },
+    {
+      "phrase": "주민등록번호",
+      "hanja": " (住民登錄番號)",
+      "example": {},
+      "meanings": [
+        "resident registration number, (Am) Social Security number, (Brit) ID card number"
+      ]
+    },
+    {
+      "phrase": "등록상표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "registered trademark"
+      ]
+    },
+    {
+      "phrase": "저작권 등록",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "copyright registration"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "registration",
+      "frequency": 3
+    },
+    {
+      "meaning": "record 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "enrollment",
+      "frequency": 3
+    },
+    {
+      "meaning": "enrolment",
+      "frequency": 0
+    },
+    {
+      "meaning": "rego",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "주민등록번호... 아니, 주민등록증 좀 확인해봐도 될까요? By any chance check your ID? 듣기 View video NCT : 안녕하세요 시즈니!! 제노에요진짜 잠깐 하려고 하는데.. 제노가 보고싶으면 들어오세요!! 이제 시작합니다",
+      "english": "By any chance check your ID?"
+    },
+    {
+      "korean": "등록금 끊기고! They don't pay my tuition. 듣기 View video 컨버전스티비 (CONS TV) : 몽슈슈 글로벌하우스 Ep2. [니가 왜 거기서 나와?]",
+      "english": "They don't pay my tuition."
+    },
+    {
+      "korean": "먹는 음식이잖아요 - 아점이 등록이 됐다고요? We eat that then. - Ah-juhm was registered? 듣기 View video BTS : Run BTS! 2019 - EP.86",
+      "english": "We eat that then. - Ah-juhm was registered?"
+    },
+    {
+      "korean": "등록한 것까지 다 알고 계시더라고요. You even already knew that the song was registered. 듣기 View video Hwang Chi Yeul : #2019 #밤황치열시 #part.17 #DJ황치열",
+      "english": "You even already knew that the song was registered."
+    },
+    {
+      "korean": "등록금이 너무 비싸! Tuition is so expensive! 듣기 View video V COOKIE : [Full] RADIO APART X KIM NAM GIL (RADIO APART X 김남길)",
+      "english": "Tuition is so expensive!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Currently, over 500 students are enrolled on the course. 듣기 Add to Wordbook 현재 그 과정에는 500명이 넘는 학생이 등록되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Currently, over 500 students are enrolled on the course. Add to Wordbook"
+    },
+    {
+      "korean": "a V reg car 듣기 Add to Wordbook 등록 번호에 V가 들어 있는 승용차(알파벳은 등록 연도를 표시함) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a V reg car Add to Wordbook"
+    },
+    {
+      "korean": "I’ve joined an aerobics class. 듣기 Add to Wordbook 나는 에어로빅 강습반에 등록했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’ve joined an aerobics class. Add to Wordbook"
+    },
+    {
+      "korean": "to register with a doctor 듣기 Add to Wordbook 의사의 환자로 등록하다[진료 카드를 작성하다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to register with a doctor Add to Wordbook"
+    },
+    {
+      "korean": "Enrolment is the first week of September. 듣기 Add to Wordbook 등록은 9월 첫째 주이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Enrolment is the first week of September. Add to Wordbook"
+    }
+  ]
+}

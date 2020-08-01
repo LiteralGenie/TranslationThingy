@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "검다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(빛깔이) black, dark, (까무잡잡하다) swarthy",
+        "(마음이) wicked, evil-minded, black-hearted"
+      ]
+    },
+    {
+      "phrase": "검은 구름",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a bleak cloud"
+      ]
+    },
+    {
+      "phrase": "검은 뱃속을 채우다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fill one's black stomach"
+      ]
+    },
+    {
+      "phrase": "검은 마수를[손을] 뻗치다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stretch out one's evil hand[hand]"
+      ]
+    },
+    {
+      "phrase": "검은 머리 가진 짐승은 구제 말란다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is advised not to save an animal with black hair"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dark",
+      "frequency": 3
+    },
+    {
+      "meaning": "black",
+      "frequency": 3
+    },
+    {
+      "meaning": "somber",
+      "frequency": 3
+    },
+    {
+      "meaning": "melano-",
+      "frequency": 0
+    },
+    {
+      "meaning": "piceous",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "검은 하트면 저예요 알았죠?",
+      "english": "It's me if it's a black heart. Okay?"
+    },
+    {
+      "korean": "검은 머리예요!",
+      "english": "Dark hair. Yeah!"
+    },
+    {
+      "korean": "우리 검은 십자가 여기에 서주실래요?",
+      "english": "First, can you stand on this black cross?"
+    },
+    {
+      "korean": "검은 봉지에서 나오는 패션 아이템이 있어요?",
+      "english": "There are fashion items that come out of black plastic bags?"
+    },
+    {
+      "korean": "[검은 손 시도 중] - 우리 둘은... - 형이랑 나랑 걸렸어야 돼요 - 대박!",
+      "english": "[Trying to cheat] - We are... - We should've changed... - Wow!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "타조 깃털을 꽂은 검은 모자",
+      "english": "a black hat with an ostrich plume"
+    },
+    {
+      "korean": "검은 실크 소재의, 어깨 끈이 없는 대담한 드레스",
+      "english": "a daring strapless dress in black silk"
+    },
+    {
+      "korean": "느릿느릿 흐르는 운하의 검은 물",
+      "english": "the sluggish black waters of the canal"
+    },
+    {
+      "korean": "그녀의 긴 검은 머리는 그녀의 가장 큰 자랑거리이다.",
+      "english": "Her long black hair is her crowning glory."
+    },
+    {
+      "korean": "그녀는 유심히 살피는 듯한 그의 검은 눈을 피해 눈길을 돌렸다.",
+      "english": "She looked away from his dark probing eyes."
+    }
+  ]
+}

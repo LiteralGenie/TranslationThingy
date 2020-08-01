@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "회장",
+      "hanja": " (會長)",
+      "example": {},
+      "meanings": [
+        "(모임의) president, chairman",
+        "(회사의) chairman, president"
+      ]
+    },
+    {
+      "phrase": "회장",
+      "hanja": " (會場)",
+      "example": {},
+      "meanings": [
+        "(모임을 갖는 곳) hall, venue",
+        "(회의장) conference hall, conference center"
+      ]
+    },
+    {
+      "phrase": "명예 회장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "honorary president"
+      ]
+    },
+    {
+      "phrase": "전시회장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an exhibit hall[room]"
+      ]
+    },
+    {
+      "phrase": "대한체육회장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the chairman of the Korea Sports Council"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "president",
+      "frequency": 2
+    },
+    {
+      "meaning": "chairman",
+      "frequency": 2
+    },
+    {
+      "meaning": "chairwoman",
+      "frequency": 2
+    },
+    {
+      "meaning": "facing",
+      "frequency": 1
+    },
+    {
+      "meaning": "chairperson",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'회장 아들 누구예요? 궁금해' 회장 아들은... \"Who is son of CEO? I am curious.\" 듣기 View video SF9 : 저는 잘재울수있어요",
+      "english": "\"Who is son of CEO? I am curious.\""
+    },
+    {
+      "korean": "어떻게 하면 회장이 될 수 있을까... How to be elected... 듣기 View video V PICK! : [WINNER] 혼약뭉강! 숙도남과 함께라면 어떤 문제도 문제 없다🤓👍 (HOONY talking about elementary school episode)",
+      "english": "How to be elected..."
+    },
+    {
+      "korean": "진짜 회장님 나오시냐고요? Is the CEO really coming out?? 듣기 View video SF9 : 🌰🌰",
+      "english": "Is the CEO really coming out??"
+    },
+    {
+      "korean": "어떻게 하면 회장이 될 수 있을까? So how can we be elected? 듣기 View video WINNER : 숙제도우미(숙제 도와드립니다)",
+      "english": "So how can we be elected?"
+    },
+    {
+      "korean": "\"회장 선거에서 어떻게 해?\" \"What should I do to win a presidential election?\" 듣기 View video WINNER : 숙제도우미(숙제 도와드립니다)",
+      "english": "\"What should I do to win a presidential election?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The visiting president was jostled by angry demonstrators. 발음듣기 방문 중인 회장이 성난 시위자들에게 거칠게 떠밀렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The visiting president was jostled by angry demonstrators. 발음"
+    },
+    {
+      "korean": "The elevator doors parted and out stepped the President. 발음듣기 엘리베이터 문이 갈라지더니[열리더니] 대통령[회장]이 걸어 나왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The elevator doors parted and out stepped the President. 발음"
+    },
+    {
+      "korean": "He was ousted as chairman. 발음듣기 그는 의장[회장] 자리에서 쫓겨났다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was ousted as chairman. 발음"
+    },
+    {
+      "korean": "the man designated to succeed the president 발음듣기 회장 뒤를 이을 사람으로 지명된 남성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the man designated to succeed the president 발음"
+    },
+    {
+      "korean": "the founder and president of the company 발음듣기 그 회사의 창립자이자 회장 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the founder and president of the company 발음"
+    }
+  ]
+}

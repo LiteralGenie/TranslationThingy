@@ -1,0 +1,94 @@
+{
+  "phrases": [
+    {
+      "phrase": "난자",
+      "hanja": " (卵子)",
+      "example": {},
+      "meanings": [
+        "egg, ovum (ova)"
+      ]
+    },
+    {
+      "phrase": "난자",
+      "hanja": " (亂刺)",
+      "example": {},
+      "meanings": [
+        "[동사] stab sb repeatedly[ruthlessly]"
+      ]
+    },
+    {
+      "phrase": "난자은행",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "egg bank"
+      ]
+    },
+    {
+      "phrase": "난자를 기증하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "donate eggs"
+      ]
+    },
+    {
+      "phrase": "단도로 난자하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "stab sb all over with a dagger"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "egg",
+      "frequency": 2
+    },
+    {
+      "meaning": "ovum",
+      "frequency": 0
+    },
+    {
+      "meaning": "egg cell",
+      "frequency": 0
+    },
+    {
+      "meaning": "an egg cell",
+      "frequency": 0
+    },
+    {
+      "meaning": "human eggs",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "난 자다 일어나면 배고파서 먹고 싶던데? But I still feel hungry after waking up? 듣기 View video V COOKIE : [Full] LOVELYZ’s 러블리즈 X 같이먹어요",
+      "english": "But I still feel hungry after waking up?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The male sperm fertilizes the female egg. 발음듣기 남성의 정자가 여성의 난자를 수정시킨다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The male sperm fertilizes the female egg. 발음"
+    },
+    {
+      "korean": "Immediately after fertilization, the cells of the egg divide. 발음듣기 수정 직후에 난자의 세포들은 분열을 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Immediately after fertilization, the cells of the egg divide. 발음"
+    },
+    {
+      "korean": "The sperm fuses with the egg to begin the process of fertilization. 발음듣기 정자가 난자와 결합하면서 수정 과정이 시작되게 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The sperm fuses with the egg to begin the process of fertilization. 발음"
+    },
+    {
+      "korean": "She had her eggs harvested and frozen for her own future use. 발음듣기 그녀는 자신의 난자를 채취하여 나중에 이용하기 위해 냉동시켜 두었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She had her eggs harvested and frozen for her own future use. 발음"
+    },
+    {
+      "korean": "She wanted extended fertility because of her current lifestyle. 발음듣기 그녀는 현재의 생활방식 때문에 냉동 난자로 연장된 출산 능력을 갖기를 원했다. 국제영어대학원대학교 신어사전",
+      "english": "She wanted extended fertility because of her current lifestyle. 발음"
+    }
+  ]
+}

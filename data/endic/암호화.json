@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "암호화",
+      "hanja": " (暗號化)",
+      "example": {},
+      "meanings": [
+        "Noun encoding, enciphering"
+      ]
+    },
+    {
+      "phrase": "암호화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 encipherment, encryption"
+      ]
+    },
+    {
+      "phrase": "암호화하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "code",
+        "encode"
+      ]
+    },
+    {
+      "phrase": "스파이가 메시지를 암호화했다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "A spy coded a message."
+      ]
+    },
+    {
+      "phrase": "데이터 암호화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 data encryption"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "outbound contents compliance",
+      "frequency": 0
+    },
+    {
+      "meaning": "encrypt",
+      "frequency": 0
+    },
+    {
+      "meaning": "data encryption standard",
+      "frequency": 0
+    },
+    {
+      "meaning": "uncoded",
+      "frequency": 0
+    },
+    {
+      "meaning": "encoded",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Account details are encrypted for privacy reasons. 발음듣기 계좌 정보는 사생활보호의 이유로 암호화되어 있다. 절대어휘 5100",
+      "english": "Account details are encrypted for privacy reasons. 발음"
+    },
+    {
+      "korean": "This layer is also used for encryption and decryption. 발음듣기 이 계층은 암호화 및 암호 해독에도 사용됩니다. YBM All in All English-Korean Dictionary",
+      "english": "This layer is also used for encryption and decryption. 발음"
+    },
+    {
+      "korean": "Click Encryption Certificate to view the Certificate used to encrypt this message. 발음듣기 암호화 인증서를 클릭하면 이 메시지를 암호화할 때 사용한 인증서를 볼 수 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "Click Encryption Certificate to view the Certificate used to encrypt this message. 발음"
+    },
+    {
+      "korean": "All cryptographic keys will be deleted and should be exported before continuing. 발음듣기 모든 암호화 키가 삭제될 것이므로 계속하기 전에 내보내십시오. YBM All in All English-Korean Dictionary",
+      "english": "All cryptographic keys will be deleted and should be exported before continuing. 발음"
+    },
+    {
+      "korean": "Two genes that encode eye-pigment proteins have been found on this chromosome. 발음듣기 눈 색소단백질을 암호화하는 두 개의 유전자가 이 염색체에서 발견되었다. YBM All in All English-Korean Dictionary",
+      "english": "Two genes that encode eye-pigment proteins have been found on this chromosome. 발음"
+    }
+  ]
+}

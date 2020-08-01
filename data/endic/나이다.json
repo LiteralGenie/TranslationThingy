@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "나이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "age"
+      ]
+    },
+    {
+      "phrase": "나이(가) 아깝다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is a waste of one's age",
+        "It is a waste of one's age"
+      ]
+    },
+    {
+      "phrase": "나이는 못 속인다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "One cannot hide one's age"
+      ]
+    },
+    {
+      "phrase": "나이를 먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "grow old"
+      ]
+    },
+    {
+      "phrase": "내 나이에",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "at my age",
+        "at my time of life"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "eldest",
+      "frequency": 1
+    },
+    {
+      "meaning": "old",
+      "frequency": 2
+    },
+    {
+      "meaning": "성년",
+      "frequency": 0
+    },
+    {
+      "meaning": "이순",
+      "frequency": 0
+    },
+    {
+      "meaning": "age",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나이다? - 니다? Naida? - Needa? 듣기 View video KKOSISTERS : 워너원 부메랑 MV 메이크업 Wanna One Boomerang Makeup",
+      "english": "Naida? - Needa?"
+    },
+    {
+      "korean": "나이 다 아는데요? 숨길 필요 없어요. Everyone knows my age. There's no need to hide it. 듣기 View video V Beauty : [연두콩의 이지뷰티] 요즘 하는 밤,낮 스킨케어 Recommended skin care",
+      "english": "Everyone knows my age. There's no need to hide it."
+    },
+    {
+      "korean": "이 분위기에서 사실 잘하기가 쉽지 않은데 - 탈골됐사옵나이다. It's not easy to do well in this atmosphere but... - I've been dislodged. 듣기 View video 셀럽티비(Celuv.TV) : 모모랜드, '흥 여신들의 뿜뿜~",
+      "english": "It's not easy to do well in this atmosphere but... - I've been dislodged."
+    },
+    {
+      "korean": "뮤지컬 나이 때문에 못 봐요? You can't watch the musical because of your age? 듣기 View video ASTRO : 엠췌이 먹방이래요✌️",
+      "english": "You can't watch the musical because of your age?"
+    },
+    {
+      "korean": "나이? How old are you? 듣기 View video OSEN : Weeekly 위클리, 상큼 발랄 소녀들이 왔다 #연습실챌린지 01",
+      "english": "How old are you?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He is old enough to know better. 발음듣기 그는 좀 더 분별이 있어야 할 나이다. Friendict Level English-Korean Dictionary",
+      "english": "He is old enough to know better. 발음"
+    },
+    {
+      "korean": "My son has keen appetite at his age. 발음듣기 우리 아들은 한창 먹을 나이다 Dong-a's Prime English-Korean Dictionary",
+      "english": "My son has keen appetite at his age. 발음"
+    },
+    {
+      "korean": "Now you're old enough to fend for yourself. 발음듣기 너도 이제 네 밥벌이를 할 나이다 Neungyule",
+      "english": "Now you're old enough to fend for yourself. 발음"
+    },
+    {
+      "korean": "He's still in his frisky twenties. 발음듣기 그는 아직 이십 대의 팔팔한 나이다 Neungyule",
+      "english": "He's still in his frisky twenties. 발음"
+    },
+    {
+      "korean": "He is of an age to smoke. 발음듣기 그는 흡연할 수 있는 나이다. YBM All in All English-Korean Dictionary",
+      "english": "He is of an age to smoke. 발음"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "교정",
+      "hanja": " (校正)",
+      "example": {},
+      "meanings": [
+        "[명사] (원고의) proofreading, [동사] proofread, read proofs"
+      ]
+    },
+    {
+      "phrase": "교정",
+      "hanja": " (矯正)",
+      "example": {},
+      "meanings": [
+        "[명사] (잘못된 것을 바로잡음) correction, [동사] correct, (formal) rectify"
+      ]
+    },
+    {
+      "phrase": "교정",
+      "hanja": " (校庭)",
+      "example": {},
+      "meanings": [
+        "(학교) school grounds, (대학의) campus"
+      ]
+    },
+    {
+      "phrase": "교정",
+      "hanja": " (校訂)",
+      "example": {},
+      "meanings": [
+        "Noun proofreading"
+      ]
+    },
+    {
+      "phrase": "교정(술)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 revision"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "correction",
+      "frequency": 1
+    },
+    {
+      "meaning": "campus",
+      "frequency": 1
+    },
+    {
+      "meaning": "remediation",
+      "frequency": 0
+    },
+    {
+      "meaning": "emendation",
+      "frequency": 0
+    },
+    {
+      "meaning": "proofreading",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'언니들은 교정하셨어요?' \"Did you guys get braces?\" 듣기 View video MAMAMOO : 용콩별콩 뒤집어지는 LIVE",
+      "english": "\"Did you guys get braces?\""
+    },
+    {
+      "korean": "[교정기 때문에 발음이 불편한 무지] 아 발음이 안 돼 지...탱... [Hard to pronounce due to her braces] Oh, my bad pronunciation. 듣기 View video V PICK! : [GFRIEND] 저희 집 앵무새도 엄지레몬 엄지레몬 하고 울어요🍋 (UMJI playing her cover song ‘Lemon’)",
+      "english": "[Hard to pronounce due to her braces] Oh, my bad pronunciation."
+    },
+    {
+      "korean": "종현이 자세 교정이요? JR's gesture correction? 듣기 View video NU'EST : [NU’EST REN] 러브들♥️",
+      "english": "JR's gesture correction?"
+    },
+    {
+      "korean": "'교정기 불편해요?' \"Are the braces uncomfortable?\" 듣기 View video (G)I-DLE : ㅇㄱ",
+      "english": "\"Are the braces uncomfortable?\""
+    },
+    {
+      "korean": "그때까지 교정기 끼고 있었나? Did you have braces until then? 듣기 View video ASTRO : 아로하 4살 축하해♡",
+      "english": "Did you have braces until then?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the correction of proofs 발음듣기 교정. Friendict Level English-Korean Dictionary",
+      "english": "the correction of proofs 발음"
+    },
+    {
+      "korean": "Has this document been proofread? 발음듣기 이 문서는 교정을 봤나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Has this document been proofread? 발음"
+    },
+    {
+      "korean": "He has to wear a brace to correct his bite. 발음듣기 그는 치아의 맞물림을 교정하기 위해서 치열 교정기를 해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has to wear a brace to correct his bite. 발음"
+    },
+    {
+      "korean": "Their eyesight can be corrected in just a few minutes by the use of a laser. 발음듣기 레이저를 써서 그들의 시력을 단 몇 분 만에 교정할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their eyesight can be corrected in just a few minutes by the use of a laser. 발음"
+    },
+    {
+      "korean": "to mark up a manuscript 발음듣기 원고를 교정 보다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to mark up a manuscript 발음"
+    }
+  ]
+}

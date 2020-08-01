@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "그렇지만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "but, though, however, nevertheless"
+      ]
+    },
+    {
+      "phrase": "그것은 그렇지만",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "it may be so, but..."
+      ]
+    },
+    {
+      "phrase": "그렇지만, 그분이 전화번호를 남겨 놨어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "He left his number, though."
+      ]
+    },
+    {
+      "phrase": "그렇지만 시원시원한 성격의 사람입니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "B형에 관련된 표현 Nevertheless, you are a cool person."
+      ]
+    },
+    {
+      "phrase": "밥만 먹고 일어나는 건 좀 그렇지만.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "초대와 방문 I hate to eat and run.",
+        "초대와 방문 I don't like to eat and run."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "but",
+      "frequency": 3
+    },
+    {
+      "meaning": "yet",
+      "frequency": 3
+    },
+    {
+      "meaning": "though",
+      "frequency": 3
+    },
+    {
+      "meaning": "algate(s)",
+      "frequency": 0
+    },
+    {
+      "meaning": "그렇지마는",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그렇지만 요즘은 또... But... These days... 듣기 View video 우주소녀(WJSN) : [엑시 설아] 엑떨의 우쥬크박스🎧 Ep.10",
+      "english": "But... These days..."
+    },
+    {
+      "korean": "[#그렇지만... 바다도...] [#But beach is also great...] View video TWICE : 나연 TV “나연이 하와이 갔나연? (Feat. 코스모폴리탄 3월호)” EP.03",
+      "english": "[#But beach is also great...]"
+    },
+    {
+      "korean": "아무튼 - 그렇지만! Anyways. - But! 듣기 View video Stray Kids : 스테이~! 메리방찬마스~! ㅋㅋㅋ",
+      "english": "Anyways. - But!"
+    },
+    {
+      "korean": "그렇지만 나는 개의치 않고! But I don't care! 듣기 View video TWICE : [AutoCut_JIHYO] TWICE First Half Highlight",
+      "english": "But I don't care!"
+    },
+    {
+      "korean": "미안해요~ 그렇지만 저보다 아가일거 아닙니까? Sorry! But aren't you going to be a baby than me? 듣기 View video VICTON : 앨리스 다녀왔어요💗💕❤️❤️",
+      "english": "Sorry! But aren't you going to be a baby than me?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "But that’s not possible! 듣기 Add to Wordbook 그렇지만 그건 가능하지가 않아! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "But that’s not possible! Add to Wordbook"
+    },
+    {
+      "korean": "Our team lost. It was a good game though. 듣기 Add to Wordbook 우리 팀이 졌다. 그렇지만 훌륭한 경기였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our team lost. It was a good game though. Add to Wordbook"
+    },
+    {
+      "korean": "It’s a small car, yet it’s surprisingly spacious. 듣기 Add to Wordbook 이것은 작은 승용차이다. 그렇지만 놀라울 정도로 널찍하다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s a small car, yet it’s surprisingly spacious. Add to Wordbook"
+    },
+    {
+      "korean": "However, I am certain the factory will be rebuilt in no time. 듣기 Add to Wordbook 그렇지만 공장은 곧 재건될 거라 확신합니다. DARAKWON",
+      "english": "However, I am certain the factory will be rebuilt in no time. Add to Wordbook"
+    },
+    {
+      "korean": "However, in my last job as an accountant, I learned that I must be able to listen to my clients. 듣기 Add to Wordbook 그렇지만 전 직장에서 회계사로 일할 때에 고객의 목소리에 귀를 기울여야 한다는 것을 배웠습니다. DARAKWON",
+      "english": "However, in my last job as an accountant, I learned that I must be able to listen to my clients. Add to Wordbook"
+    }
+  ]
+}

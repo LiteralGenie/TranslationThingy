@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "욕",
+      "hanja": " (辱)",
+      "example": {},
+      "meanings": [
+        "(욕설) [명사] swear word, curse, (informal) cuss word, insult, abuse, abusive[foul, profane] language, (formal) profanity, [동사] swear (at),...",
+        "(비난) [동사] speak ill of, criticize, (informal) badmouth",
+        "(치욕스러운 일) (치욕) shame, disgrace, humiliation, insult; (능욕) rape"
+      ]
+    },
+    {
+      "phrase": "-욕",
+      "hanja": " (欲/慾)",
+      "example": {},
+      "meanings": [
+        "a desire, a thirst"
+      ]
+    },
+    {
+      "phrase": "york",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Transitive verb 크리켓 yorker로 <타자를> 아웃시키다"
+      ]
+    },
+    {
+      "phrase": "York",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun (=YORKSHIRE)"
+      ]
+    },
+    {
+      "phrase": "구매욕",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "purchasing need[demand]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "swearing",
+      "frequency": 2
+    },
+    {
+      "meaning": "hurl",
+      "frequency": 1
+    },
+    {
+      "meaning": "curse",
+      "frequency": 1
+    },
+    {
+      "meaning": "swear word",
+      "frequency": 0
+    },
+    {
+      "meaning": "bitch",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 욕을 평소에 너무 많이 해서... I usually curse a lot... 듣기 View video NCT : 나른쟌",
+      "english": "I usually curse a lot..."
+    },
+    {
+      "korean": "저 욕 먹는 거 아니에요? Fans will curse me. 듣기 View video HANABONO : 바이허에서 퍼스널컬러 진단받고 여름 쿨톤 블러셔 추천하기 Summer Coolton light/Blusher Review",
+      "english": "Fans will curse me."
+    },
+    {
+      "korean": "방금 제가 욕했나요? and did I say a swear word? 듣기 View video GOT7 : 긋",
+      "english": "and did I say a swear word?"
+    },
+    {
+      "korean": "욕이 아니라 그 좀 약간... Not cursing. But you know... 듣기 View video NCT : 오랜만이다아 JS",
+      "english": "Not cursing. But you know..."
+    },
+    {
+      "korean": "그거 엄마 욕하는 거 아냐? Isn't that cursing your mom? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 18. 용인대 리퍼블릭 VS 고려대 테라 배틀에 심사위원 실화?!",
+      "english": "Isn't that cursing your mom?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The referee had been threatened and abused. 발음듣기 그 심판은 협박을 당하고 욕을 들었었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The referee had been threatened and abused. 발음"
+    },
+    {
+      "korean": "He called her the foulest names imaginable. 발음듣기 그는 그녀에게 상상할 수 있는 온갖 욕을 다 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He called her the foulest names imaginable. 발음"
+    },
+    {
+      "korean": "He got the sack for swearing. 발음듣기 그는 욕을 했다가 파면당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He got the sack for swearing. 발음"
+    },
+    {
+      "korean": "She fell over and swore loudly. 발음듣기 그녀가 벌렁 나자빠지면서 큰 소리로 욕을 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She fell over and swore loudly. 발음"
+    },
+    {
+      "korean": "I was shocked at the swearing. 발음듣기 나는 그 욕을 듣고 충격을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I was shocked at the swearing. 발음"
+    }
+  ]
+}

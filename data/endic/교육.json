@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "교육",
+      "hanja": " (敎育)",
+      "example": {},
+      "meanings": [
+        "[명사] education, training, (학교교육) schooling, [동사] educate, train"
+      ]
+    },
+    {
+      "phrase": "교육의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "educational",
+        "educative"
+      ]
+    },
+    {
+      "phrase": "교육과정",
+      "hanja": " (敎育課程)",
+      "example": {},
+      "meanings": [
+        "course of study, curriculum"
+      ]
+    },
+    {
+      "phrase": "교육학자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a pedagogist"
+      ]
+    },
+    {
+      "phrase": "의무 교육",
+      "hanja": " (義務敎育)",
+      "example": {},
+      "meanings": [
+        "compulsory education"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "education",
+      "frequency": 3
+    },
+    {
+      "meaning": "training",
+      "frequency": 3
+    },
+    {
+      "meaning": "tutelage",
+      "frequency": 0
+    },
+    {
+      "meaning": "upbringing",
+      "frequency": 0
+    },
+    {
+      "meaning": "ed",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "유아교육과... Early childhood education... 듣기 View video V PICK! : [Stray Kids] 나 김짜식이, 내 가수가 느무 잘하는 양정인이라 행복하다♪~(´ε｀ ) (I.N talking about his brother)",
+      "english": "Early childhood education..."
+    },
+    {
+      "korean": "뭐? 가정교육이 뭐? What? Spoiled due to poor home education? 듣기 View video Dingo Story / 딩고스토리 : 기념일에 커플이 헤어지는 이유_EP04 [라이크]",
+      "english": "What? Spoiled due to poor home education?"
+    },
+    {
+      "korean": "알려달라고 - 이게 교육이 돼도 나는 근데... To tell us. - Even if we get trained, I... 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "To tell us. - Even if we get trained, I..."
+    },
+    {
+      "korean": "그럼 너는 교육 없는 세상에서 어떻게 살 수 있어? How can you live in the world with no education? 듣기 View video VICTON : 깜짝부이앱",
+      "english": "How can you live in the world with no education?"
+    },
+    {
+      "korean": "[스테이] \"정인아 방금 대학교 유아교육과 합격했어!\" [STAY] \"I just got into college for early childhood education\". 듣기 View video V PICK! : [Stray Kids] 나 김짜식이, 내 가수가 느무 잘하는 양정인이라 행복하다♪~(´ε｀ ) (I.N talking about his brother)",
+      "english": "[STAY] \"I just got into college for early childhood education\"."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an infusion of new talent into science education 듣기 Add to Wordbook 과학 교육에 새로운 인재 투입 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an infusion of new talent into science education Add to Wordbook"
+    },
+    {
+      "korean": "She should be schooled with her peers. 듣기 Add to Wordbook 그 애는 또래들과 함께 교육을 받아야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She should be schooled with her peers. Add to Wordbook"
+    },
+    {
+      "korean": "the latest upheavals in the education system 듣기 Add to Wordbook 가장 최근에 있은 교육 제도상의 대변동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the latest upheavals in the education system Add to Wordbook"
+    },
+    {
+      "korean": "Choice is the keynote of the new education policy. 듣기 Add to Wordbook 선택이 새로운 교육 정책의 주안점이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Choice is the keynote of the new education policy. Add to Wordbook"
+    },
+    {
+      "korean": "the stunted lives of children deprived of education 듣기 Add to Wordbook 교육을 못 받은 아동들의, 발달을 저해당한 삶 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the stunted lives of children deprived of education Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "비행기",
+      "hanja": " (飛行機)",
+      "example": {},
+      "meanings": [
+        "(항공기) plane, aircraft, (Am) airplane, (Brit) aeroplane",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "비행기로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "by plane[air]"
+      ]
+    },
+    {
+      "phrase": "비행기표",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an air[airline] ticket"
+      ]
+    },
+    {
+      "phrase": "비행기를 타다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "올라타다 board[get on] a plane (for)",
+        "올라타다 go aboard an airplane"
+      ]
+    },
+    {
+      "phrase": "비행기에 타다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get aboard a plane",
+        "board a plane"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "plane",
+      "frequency": 3
+    },
+    {
+      "meaning": "hop",
+      "frequency": 3
+    },
+    {
+      "meaning": "aeroplane",
+      "frequency": 3
+    },
+    {
+      "meaning": "mail 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "plane 1",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "비행기를 타서... And on the plane... 듣기 View video Dispatch : 디패X로운, in 🇬🇧",
+      "english": "And on the plane..."
+    },
+    {
+      "korean": "'바' 바밤바 비행기? \"Ba\", Babam Bar. Airplane (Bi Hang Gi)? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "\"Ba\", Babam Bar. Airplane (Bi Hang Gi)?"
+    },
+    {
+      "korean": "\"비행기 탈 때 꼭 챙기는 나만의 필수템은?\" \"What do you always take with you when you go on a plane\"? 듣기 View video SEVENTEEN : 깜짝🦦",
+      "english": "\"What do you always take with you when you go on a plane\"?"
+    },
+    {
+      "korean": "저는 뭐 비행기 타고 가요라는 예능도 찍고요 - 비행기 타러 가요 아니에요? I was in a variety show titled \"Star Crew On Board\". - Wasn't it \"Abroad?\" 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "I was in a variety show titled \"Star Crew On Board\". - Wasn't it \"Abroad?\""
+    },
+    {
+      "korean": "난 비행기... For me airplane... 듣기 View video 전소미 : 소미 돌잔치",
+      "english": "For me airplane..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "He was on the plane from New York. 듣기 Add to Wordbook 그는 뉴욕발 비행기를 타고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was on the plane from New York. Add to Wordbook"
+    },
+    {
+      "korean": "The plane was piloted by the instructor. 듣기 Add to Wordbook 그 비행기는 교관이 조종했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plane was piloted by the instructor. Add to Wordbook"
+    },
+    {
+      "korean": "The plane limped back to the airport. 듣기 Add to Wordbook 그 비행기는 느릿느릿 공항을 향해 돌아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plane limped back to the airport. Add to Wordbook"
+    },
+    {
+      "korean": "The plane banked steeply to the left. 듣기 Add to Wordbook 그 비행기는 왼쪽으로 급격히 기울어져 날았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The plane banked steeply to the left. Add to Wordbook"
+    },
+    {
+      "korean": "Flames spewed from the aircraft’s engine. 듣기 Add to Wordbook 비행기 엔진에서 불길들이 뿜어져 나왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Flames spewed from the aircraft’s engine. Add to Wordbook"
+    }
+  ]
+}

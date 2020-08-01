@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "방지",
+      "hanja": " (防止)",
+      "example": {},
+      "meanings": [
+        "[명사] prevention, [동사] prevent, head off"
+      ]
+    },
+    {
+      "phrase": "부패 방지법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Corruption Prevention Act"
+      ]
+    },
+    {
+      "phrase": "미연에 방지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "nip sth in the bud"
+      ]
+    },
+    {
+      "phrase": "대기 오염 방지법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Air Pollution Control Act",
+        "the Clean Air Act"
+      ]
+    },
+    {
+      "phrase": "사고를 미연에 방지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prevent accidents from happening",
+        "take precautions against possible accidents"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "discouragement",
+      "frequency": 1
+    },
+    {
+      "meaning": "avoidance",
+      "frequency": 1
+    },
+    {
+      "meaning": "prevention",
+      "frequency": 1
+    },
+    {
+      "meaning": "containment",
+      "frequency": 0
+    },
+    {
+      "meaning": "preclusion",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[방지해줄 수 있어요] 진짜요? [being burnt] Really? 듣기 View video V PICK! : [VPICK! HOW TO in V] 용희진영의 탕후루🍭🍡 (HOW TO COOK YONGHEE&JINYOUNG’s Tanghulu)",
+      "english": "[being burnt] Really?"
+    },
+    {
+      "korean": "[진부함 방지 위원회] 뭐하게? [Cliche prevention committee] What are you doing? 듣기 View video Dispatch : [ⓓxV] “우리칠베이커리 OPEN ①” (유타, 마크, 해찬 : NCT 127)",
+      "english": "[Cliche prevention committee] What are you doing?"
+    },
+    {
+      "korean": "[호들갑] - '체리' [정답 유출 방지] - 조용히 해! [Fussy] - \"Cherry\". [Stop giving hints] - Be quiet! 듣기 View video Dispatch : [늉포차] “안주를 향한 저세상 텐션“ (NU'EST)",
+      "english": "[Fussy] - \"Cherry\". [Stop giving hints] - Be quiet!"
+    },
+    {
+      "korean": "선크림이 피부 노화 방지에... Sun screen is good for preventing aging of skin. 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.20 논리나잇 #2 (Debate Night #2)",
+      "english": "Sun screen is good for preventing aging of skin."
+    },
+    {
+      "korean": "노화방지에 엄청 좋죠. Are always great for anti-aging. 듣기 View video Wishtrend TV : Why Do Korean Girls Look So Young? | Korean Anti Aging Skin Care Tips | Wishtrend TV",
+      "english": "Are always great for anti-aging."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The walls were strengthened to protect them from collapse. 발음듣기 그 담들이 붕괴되는 것을 방지하기 위해 보강 공사를 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The walls were strengthened to protect them from collapse. 발음"
+    },
+    {
+      "korean": "The carpet has been treated so that it is stain-resistant . 발음듣기 그 카펫은 얼룩이 잘 안 생기도록[얼룩 방지] 처리가 되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The carpet has been treated so that it is stain-resistant . 발음"
+    },
+    {
+      "korean": "a non-slip bath mat 발음듣기 미끄러짐 방지용 욕실 매트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a non-slip bath mat 발음"
+    },
+    {
+      "korean": "to lead a crusade against crime 발음듣기 범죄 방지 운동을 이끌다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to lead a crusade against crime 발음"
+    },
+    {
+      "korean": "a paint that helps protect against rust 발음듣기 녹이 스는 것을 방지해 주는 페인트 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a paint that helps protect against rust 발음"
+    }
+  ]
+}

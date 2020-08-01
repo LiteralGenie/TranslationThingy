@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "은하",
+      "hanja": " (銀河)",
+      "example": {},
+      "meanings": [
+        "galaxy"
+      ]
+    },
+    {
+      "phrase": "은하 좌표",
+      "hanja": " (銀河座標)",
+      "example": {},
+      "meanings": [
+        "the galactic coordinates"
+      ]
+    },
+    {
+      "phrase": "우리은하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Galaxy"
+      ]
+    },
+    {
+      "phrase": "나선은하",
+      "hanja": " (螺旋銀河)",
+      "example": {},
+      "meanings": [
+        "지구과학 spiral galaxy"
+      ]
+    },
+    {
+      "phrase": "Cd 은하",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "지구과학 cD galaxy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Milky Way",
+      "frequency": 3
+    },
+    {
+      "meaning": "Via Lactea",
+      "frequency": 0
+    },
+    {
+      "meaning": "Magellanic Clouds",
+      "frequency": 0
+    },
+    {
+      "meaning": "the Milky Way",
+      "frequency": 0
+    },
+    {
+      "meaning": "the Galaxy",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "'은하시', '소원시~' \"Eunha time.\" \"Sowon time.\" 듣기 View video GFRIEND : 오주년이 얼마 안남아따",
+      "english": "\"Eunha time.\" \"Sowon time.\""
+    },
+    {
+      "korean": "네 - 이렇게 해봤는데 어때요 은하 씨? Yes. - What did you think about today, Eunha? 듣기 View video Dispatch : [ⓓxV] “여친이들의 달콤쌉싸름한 초콜릿 만들기” (여자친구 : GFRIEND)",
+      "english": "Yes. - What did you think about today, Eunha?"
+    },
+    {
+      "korean": "왜? - 있었어 그렇대 - 너는 어떻게 알았어 은하야? - 냉장고... Why? It was in the book. - How did you know, Eunha? 듣기 View video GFRIEND : 🦊🐥🐰",
+      "english": "Why? It was in the book. - How did you know, Eunha?"
+    },
+    {
+      "korean": "은하 요즘 하고 싶은 말 없어요? - 요새 하고 싶은 말요? Eunha, do you have anything you want to say these days? - Anything I want to say? 듣기 View video GFRIEND : 🦊🐥🐰",
+      "english": "Eunha, do you have anything you want to say these days? - Anything I want to say?"
+    },
+    {
+      "korean": "재현이 은하 새 쓰지 않아요? Doesn't Jae Hyun use Galaxy? 듣기 View video N.Flying : 우리 얘기 좀 합시다 #37",
+      "english": "Doesn't Jae Hyun use Galaxy?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Galaxies tend to clump together in clusters. 듣기 Add to Wordbook 은하계의 별들은 성단을 이루어 모이는 경향이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Galaxies tend to clump together in clusters. Add to Wordbook"
+    },
+    {
+      "korean": "This has led scientists to speculate on the existence of other galaxies. 듣기 Add to Wordbook 이것으로 인해 과학자들이 다른 은하계가 존재한다고 추측하게 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This has led scientists to speculate on the existence of other galaxies. Add to Wordbook"
+    },
+    {
+      "korean": "evidence of recent star formation in the galaxy 듣기 Add to Wordbook 은하계에서 최근에 항성이 형성되었다는 증거 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "evidence of recent star formation in the galaxy Add to Wordbook"
+    },
+    {
+      "korean": "The idea of a parallel universe is hard to grasp. 듣기 Add to Wordbook 평행한 은하계라는 개념은 이해하기가 힘들다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The idea of a parallel universe is hard to grasp. Add to Wordbook"
+    },
+    {
+      "korean": "intergalactic space / travel 듣기 Add to Wordbook 은하계 사이의 공간[우주]/여행 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "intergalactic space / travel Add to Wordbook"
+    }
+  ]
+}

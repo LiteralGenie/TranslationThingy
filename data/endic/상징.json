@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "상징",
+      "hanja": " (象徵)",
+      "example": {},
+      "meanings": [
+        "symbol, (그림, 도안) emblem, symbolic representation, symbolize, be symbolic of, stand for"
+      ]
+    },
+    {
+      "phrase": "상징주의",
+      "hanja": " (象徵主義)",
+      "example": {},
+      "meanings": [
+        "symbolism"
+      ]
+    },
+    {
+      "phrase": "상징주의자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a symbolist"
+      ]
+    },
+    {
+      "phrase": "상징되다",
+      "hanja": " (象徵되다)",
+      "example": {},
+      "meanings": [
+        "Verb be symbolized"
+      ]
+    },
+    {
+      "phrase": "상징하다",
+      "hanja": " (象徵하다)",
+      "example": {},
+      "meanings": [
+        "Verb symbolize"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "emblem",
+      "frequency": 3
+    },
+    {
+      "meaning": "symbol",
+      "frequency": 3
+    },
+    {
+      "meaning": "logo",
+      "frequency": 0
+    },
+    {
+      "meaning": "figuration",
+      "frequency": 0
+    },
+    {
+      "meaning": "typification",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[떡국을 상징하진 않음] - 반지가 - 네, 이... [It doesn't symbolizes tteokguk] - The ring... - Yeah... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.2 2020 : MYSTERY MYSTERY #2",
+      "english": "[It doesn't symbolizes tteokguk] - The ring... - Yeah..."
+    },
+    {
+      "korean": "[해리 포터?] 기숙사 상징 동물이 오소리인 기숙사는? [Harry Potter?] this house's mascot is a badger. What's the house? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.6",
+      "english": "[Harry Potter?] this house's mascot is a badger. What's the house?"
+    },
+    {
+      "korean": "곰이 무슨 상징인가? Is the bear symbolizing something? 듣기 View video GOT7 : GOT7(갓세븐) TOURLOG EP.22",
+      "english": "Is the bear symbolizing something?"
+    },
+    {
+      "korean": "저 달은 무엇을 상징하나요? - 네? What does that moon symbolize? - Huh? 듣기 View video VICTON : 앨리스가 그리운 밤🌙(보고싶다..8시에 만나자, 앨리스)",
+      "english": "What does that moon symbolize? - Huh?"
+    },
+    {
+      "korean": "상징적인 존재가 됐거든요 파란 장미가... It became a symbolic existence, this blue rose. 듣기 View video IU : [Replay] [IU] Comeback VLIVE",
+      "english": "It became a symbolic existence, this blue rose."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a politician who embodied the hopes of black youth 듣기 Add to Wordbook 흑인 청년들의 희망을 상징하는 정치인 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a politician who embodied the hopes of black youth Add to Wordbook"
+    },
+    {
+      "korean": "Exotic pets are the latest status symbol. 듣기 Add to Wordbook 이국적인 애완동물이 최근의 높은 사회적 신분의 상징이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Exotic pets are the latest status symbol. Add to Wordbook"
+    },
+    {
+      "korean": "The new regulations are largely symbolic. 듣기 Add to Wordbook 그 새 규정들은 대체로 상징적이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The new regulations are largely symbolic. Add to Wordbook"
+    },
+    {
+      "korean": "Red and white are the team colours. 듣기 Add to Wordbook 빨강과 하양이 그 팀의 상징색이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Red and white are the team colours. Add to Wordbook"
+    },
+    {
+      "korean": "America’s national emblem, the bald eagle 듣기 Add to Wordbook 미국의 국가 상징 새인 흰머리독수리 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "America’s national emblem, the bald eagle Add to Wordbook"
+    }
+  ]
+}

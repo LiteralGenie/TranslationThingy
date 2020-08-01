@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "더워.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "토픽 It is hot.",
+        "토픽 It's sizzling hot.",
+        "토픽 The heat is unbearable."
+      ]
+    },
+    {
+      "phrase": "덥다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "hot"
+      ]
+    },
+    {
+      "phrase": "추워[더워]지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get colder[warmer]"
+      ]
+    },
+    {
+      "phrase": "요즘 날씨가 더워요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It's hot these days."
+      ]
+    },
+    {
+      "phrase": "더워 죽겠어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-기타 I'm dying of the heat."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "I feel hot.",
+      "frequency": 0
+    },
+    {
+      "meaning": "Phew, it's hot in here!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Hot, scorchingly hot!",
+      "frequency": 0
+    },
+    {
+      "meaning": "hot",
+      "frequency": 3
+    },
+    {
+      "meaning": "boiling",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "안 더워? It's not hot? 듣기 View video (G)I-DLE : 🐭🦒",
+      "english": "It's not hot?"
+    },
+    {
+      "korean": "'지훈이 안 더워요?' \"Jihoon, you're not hot?\" 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "\"Jihoon, you're not hot?\""
+    },
+    {
+      "korean": "더워 - 파이팅! - 나 탈모 있나? Hot. - Cheer up. - Am I losing hair? 듣기 View video NCT : 천지의 고민상담소",
+      "english": "Hot. - Cheer up. - Am I losing hair?"
+    },
+    {
+      "korean": "더워 더워! It's hot, it's hot! 듣기 View video Stray Kids : [Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.21",
+      "english": "It's hot, it's hot!"
+    },
+    {
+      "korean": "더워요? Are you hot? 듣기 View video V CREW : [V CREW] 붐보의 브이로그 - EP. 05 뉴이스트에게 할로윈 사탕을 받아보았다‼️👻 (이 사탕 붐보의 서재에 박제..)",
+      "english": "Are you hot?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Phew, it’s hot in here! 듣기 Add to Wordbook 후유, 이 안은 더워! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Phew, it’s hot in here! Add to Wordbook"
+    },
+    {
+      "korean": "You look hot—why don’t you peel off? 듣기 Add to Wordbook 너 더워 보여. 옷을 좀 벗지 그러니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You look hot—why don’t you peel off? Add to Wordbook"
+    },
+    {
+      "korean": "This heat is killing me. 듣기 Add to Wordbook 더워 죽을 것 같아. DARAKWON",
+      "english": "This heat is killing me. Add to Wordbook"
+    },
+    {
+      "korean": "I usually ride my bike to school, but it’s way too hot in the summer time. 듣기 Add to Wordbook 보통 학교에 자전거 타고 가는데, 여름에는 너무 더워. DARAKWON",
+      "english": "I usually ride my bike to school, but it’s way too hot in the summer time. Add to Wordbook"
+    },
+    {
+      "korean": "The suit actor appears to be too hot. 듣기 Add to Wordbook 저 슈트를 입고 촬영하는 배우는 참 더워 보이네요. 국제영어대학원대학교 신어사전",
+      "english": "The suit actor appears to be too hot. Add to Wordbook"
+    }
+  ]
+}

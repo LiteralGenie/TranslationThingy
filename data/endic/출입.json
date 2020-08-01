@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "출입",
+      "hanja": " (出入)",
+      "example": {},
+      "meanings": [
+        "access (to), enter"
+      ]
+    },
+    {
+      "phrase": "출입 금지 구역",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a restricted area"
+      ]
+    },
+    {
+      "phrase": "출입을 통제하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "막다 forbid sb to enter or leave",
+        "막다 shut sb out (of)",
+        "막다 keep sb out (of)"
+      ]
+    },
+    {
+      "phrase": "출입을 허락하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "allow sb access (to)",
+        "admit sb into",
+        "let sb in"
+      ]
+    },
+    {
+      "phrase": "출입하는 배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "incoming and outgoing vessels"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "entry",
+      "frequency": 3
+    },
+    {
+      "meaning": "entry and exit",
+      "frequency": 0
+    },
+    {
+      "meaning": "trespass",
+      "frequency": 3
+    },
+    {
+      "meaning": "housebound",
+      "frequency": 0
+    },
+    {
+      "meaning": "off-limits",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마룡 마을 출입 금지!",
+      "english": "Not allowed in Maryong Village!"
+    },
+    {
+      "korean": "[바나] \"오빠 승마장 출입금지라면서요?\"",
+      "english": "[(BANA)] \"I heard you're banned for all horse-riding courses in Korea\"."
+    },
+    {
+      "korean": "청소년 출입 불가야.",
+      "english": "Minors aren't allowed here."
+    },
+    {
+      "korean": "여기 출입 금지인데 저 들어가도 되는 거예요?",
+      "english": "This area is restricted. Can I go in?"
+    },
+    {
+      "korean": "19금 출입 가능 나이가 되었습니다 통금 없는 데이트!",
+      "english": "You've passed the age restriction! A date without a curfew!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그 건물 출입은 전자 카드로만 가능하다.",
+      "english": "Access to the building is by swipe card only."
+    },
+    {
+      "korean": "출입 제한 구역에 들어가다",
+      "english": "to enter a restricted zone"
+    },
+    {
+      "korean": "관계자 외 출입 금지[무단출입을 금함].",
+      "english": "No access for unauthorized personnel."
+    },
+    {
+      "korean": "시골 지역에 대한 일반인 출입[이용]권",
+      "english": "public access to the countryside"
+    },
+    {
+      "korean": "우리는 궁전 출입구를 지나 차를 달렸다.",
+      "english": "We drove through the palace gates."
+    }
+  ]
+}

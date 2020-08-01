@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "소모품",
+      "hanja": " (消耗品)",
+      "example": {},
+      "meanings": [
+        "consumables, expendables, consumable[expendable] supplies[goods]"
+      ]
+    },
+    {
+      "phrase": "사무용 소모품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "office supplies"
+      ]
+    },
+    {
+      "phrase": "사무실의 소모품을 구입하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "purchase office supplies"
+      ]
+    },
+    {
+      "phrase": "통제소모품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 controlled expendable (XC)"
+      ]
+    },
+    {
+      "phrase": "상용소모품",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 commercial consumable (CC)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "consumable",
+      "frequency": 0
+    },
+    {
+      "meaning": "expendables",
+      "frequency": 0
+    },
+    {
+      "meaning": "consumable stores",
+      "frequency": 0
+    },
+    {
+      "meaning": "articles of consumption",
+      "frequency": 0
+    },
+    {
+      "meaning": "runway stores",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소모품으로만 쓸 것 같다는 생각이 들어요. I think I would use her in a minor role. 듣기 View video V MOVIE : <한강블루스> 스팟라이브 2차 ' Spot Live #2'",
+      "english": "I think I would use her in a minor role."
+    },
+    {
+      "korean": "그런 어떤 소모품이라고 생각하시는 분들도 있습니다. consumable to spend some time. 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "consumable to spend some time."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "computer consumables such as disks and printer cartridges 발음듣기 디스크와 프린터 카트리지 같은 컴퓨터 소모품들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "computer consumables such as disks and printer cartridges 발음"
+    },
+    {
+      "korean": "Who has the key to the supply room? 발음듣기 소모품 보관실 열쇠는 누구한테 있어요? YBM All in All English-Korean Dictionary",
+      "english": "Who has the key to the supply room? 발음"
+    },
+    {
+      "korean": "Are the printer cartridges kept in the supply? 발음듣기 프린터 카트리지는 소모품 캐비닛에 있어요? YBM All in All English-Korean Dictionary",
+      "english": "Are the printer cartridges kept in the supply? 발음"
+    },
+    {
+      "korean": "They're usually kept in the supply cabinet in the computing division, but I took the last one yesterday. 발음듣기 보통 전산부 소모품 캐비닛에 두는데, 어제 내가 마지막 걸 가져왔어요. YBM All in All English-Korean Dictionary",
+      "english": "They're usually kept in the supply cabinet in the computing division, but I took the last one yesterday. 발음"
+    },
+    {
+      "korean": "We'll need to get her a desk and some supplies. 발음듣기 그녀에게 책상과 소모품들을 좀 갖다 줘야겠군요. YBM All in All English-Korean Dictionary",
+      "english": "We'll need to get her a desk and some supplies. 발음"
+    }
+  ]
+}

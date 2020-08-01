@@ -1,0 +1,95 @@
+{
+  "phrases": [
+    {
+      "phrase": "위임",
+      "hanja": " (委任)",
+      "example": {},
+      "meanings": [
+        "[동사] entrust (sb with sth / sth to sb), delegate (sth to sb), authorize (sb to do), commission (sb to do)"
+      ]
+    },
+    {
+      "phrase": "위임 통치국",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a mandatory",
+        "a mandatary",
+        "a mandatory power"
+      ]
+    },
+    {
+      "phrase": "전권을 위임하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "entrust sb with full powers (to/over)",
+        "give sb carte blanche",
+        "give sb plenary powers"
+      ]
+    },
+    {
+      "phrase": "직권을 위임하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "authorize",
+        "invest with the authority"
+      ]
+    },
+    {
+      "phrase": "권한[권능]을 위임하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "delegate authority to",
+        "invest with authority"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "delegation",
+      "frequency": 3
+    },
+    {
+      "meaning": "power of attorney",
+      "frequency": 0
+    },
+    {
+      "meaning": "proxy",
+      "frequency": 0
+    },
+    {
+      "meaning": "procuration",
+      "frequency": 0
+    },
+    {
+      "meaning": "procuratory",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The job had to be delegated to an assistant. 듣기 Add to Wordbook 그 일은 조수에게 위임되어야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The job had to be delegated to an assistant. Add to Wordbook"
+    },
+    {
+      "korean": "Some managers find it difficult to delegate. 듣기 Add to Wordbook 일부 관리자들은 (권한을) 위임하는 것을 힘들어 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Some managers find it difficult to delegate. Add to Wordbook"
+    },
+    {
+      "korean": "He was deputed to put our views to the committee. 듣기 Add to Wordbook 그는 위원회에 우리의 의견을 전하도록 위임을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was deputed to put our views to the committee. Add to Wordbook"
+    },
+    {
+      "korean": "The central government devolved most tax-raising powers to the regional authorities. 듣기 Add to Wordbook 중앙 정부가 대부분의 징세 권한을 지방 당국에 위임했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The central government devolved most tax-raising powers to the regional authorities. Add to Wordbook"
+    },
+    {
+      "korean": "a system of devolved government 듣기 Add to Wordbook 위임 정부제 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a system of devolved government Add to Wordbook"
+    }
+  ]
+}

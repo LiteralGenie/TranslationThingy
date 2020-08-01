@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "충분하다",
+      "hanja": " (充分하다)",
+      "example": {},
+      "meanings": [
+        "(be) sufficient, enough, ample, good, thorough, satisfactory"
+      ]
+    },
+    {
+      "phrase": "충분",
+      "hanja": " (充分)",
+      "example": {},
+      "meanings": [
+        "enough, sufficient, ample, plenty (of)"
+      ]
+    },
+    {
+      "phrase": "충분조건",
+      "hanja": " (充分條件)",
+      "example": {},
+      "meanings": [
+        "sufficient condition"
+      ]
+    },
+    {
+      "phrase": "필요충분조건",
+      "hanja": " (必要充分條件)",
+      "example": {},
+      "meanings": [
+        "necessary and sufficient condition"
+      ]
+    },
+    {
+      "phrase": "충분한 잠",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sufficient[an enough] sleep"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "suffice",
+      "frequency": 3
+    },
+    {
+      "meaning": "the",
+      "frequency": 3
+    },
+    {
+      "meaning": "pressed",
+      "frequency": 0
+    },
+    {
+      "meaning": "go far enough",
+      "frequency": 0
+    },
+    {
+      "meaning": "sufficiently",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[다시 보니 물이 충분한 거 같기도] 물 충분할 거 같지 않아? [But it looks okay] Don't you think it has enough water? 듣기 View video Dispatch : [ⓓxV] “셉라면➀” (세븐틴 : SEVENTEEN)",
+      "english": "[But it looks okay] Don't you think it has enough water?"
+    },
+    {
+      "korean": "이 정도면 충분할 거 같은데? I think this is enough? 듣기 View video NU'EST : [NU'EST W] L.O.Λ.E RECORD B-Side EP.02",
+      "english": "I think this is enough?"
+    },
+    {
+      "korean": "한 2시간 해도 충분할 거 같아요. I think about two hours would be enough. 듣기 View video THE BOYZ : 오늘의 주재",
+      "english": "I think about two hours would be enough."
+    },
+    {
+      "korean": "이거면 충분할 것 같은데요 - 이거 한 번 해보면 안 돼요? I think this is enough. - Can I try? 듣기 View video PeekaVoo! : [THE100] 덥즈의 꽁냥꽁냥 요리시간 (aka.대참사?!) - EP 13",
+      "english": "I think this is enough. - Can I try?"
+    },
+    {
+      "korean": "노래만으로 충분할 것 같네요. you are in love. 듣기 View video V MUSIC : [FULL] 2017 ASF LIVE FESTA 'Fall In Music'",
+      "english": "you are in love."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "$100 should cover your expenses. 듣기 Add to Wordbook 100달러면 당신 경비로 충분할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "$100 should cover your expenses. Add to Wordbook"
+    },
+    {
+      "korean": "One example will suffice to illustrate the point. 듣기 Add to Wordbook 그 점을 예증하는 데는 하나의 보기면 충분할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "One example will suffice to illustrate the point. Add to Wordbook"
+    },
+    {
+      "korean": "Generally a brief note or a phone call will suffice. 듣기 Add to Wordbook 보통 짤막한 편지나 전화 한 통이면 충분할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Generally a brief note or a phone call will suffice. Add to Wordbook"
+    },
+    {
+      "korean": "We’ve got enough food to last us (for) three days. 듣기 Add to Wordbook 우리는 우리가 사흘 동안 먹어도 충분할 음식이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We’ve got enough food to last us (for) three days. Add to Wordbook"
+    },
+    {
+      "korean": "Um, about three large fillets ought to be enough. 듣기 Add to Wordbook 음, 저민 생선 큰 걸로 3토막 정도면 충분할 겁니다. YBM All in All English-Korean Dictionary",
+      "english": "Um, about three large fillets ought to be enough. Add to Wordbook"
+    }
+  ]
+}

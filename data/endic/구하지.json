@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "구하다",
+      "hanja": " (求―)",
+      "example": {},
+      "meanings": [
+        "(필요한 것을) look[search] for, obtain, (formal) seek, (찾아내다) find (out), (얻다) get",
+        "(조언·양해·용서 등을) ask (for), request, (formal) seek, turn to (=청하다)",
+        "(답·수치 등을) find, (계산하다) calculate"
+      ]
+    },
+    {
+      "phrase": "구하다",
+      "hanja": " (救―)",
+      "example": {},
+      "meanings": [
+        "(위험에서) rescue[save] (sb from sth), (곤경에서) (formal) extricate (sb from sth)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "without a by your leave",
+      "frequency": 0
+    },
+    {
+      "meaning": "unsought",
+      "frequency": 0
+    },
+    {
+      "meaning": "unsought-for",
+      "frequency": 0
+    },
+    {
+      "meaning": "balaamitical",
+      "frequency": 0
+    },
+    {
+      "meaning": "Seek not every quality in one individual.",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[꼬마가 동화 구연하는 거 같다고 말도 못 하겠고...2] 아무도 날 구하지 않아! [Again, can't say it looks like a kid is narrating a children's book] No one's saving me! 듣기 View video BTOB : 비투비 - 비트콤 #87 (창섭 'SPACE' 콘서트 마지막 날 비하인드)",
+      "english": "[Again, can't say it looks like a kid is narrating a children's book] No one's saving me!"
+    },
+    {
+      "korean": "그거 어디서 구하지? 아 진짜... Where do I get that? Really... 듣기 View video B1A4 : 밥 같이 먹을 사람~!!",
+      "english": "Where do I get that? Really..."
+    },
+    {
+      "korean": "그래 차라리 아무도 구하지 마라. Yeah, just don't say anyone. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "Yeah, just don't say anyone."
+    },
+    {
+      "korean": "그럼 다? - 그냥 공평하게 구하지를 마라. Then everyone? - Just be fair and don't save anyone. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "Then everyone? - Just be fair and don't save anyone."
+    },
+    {
+      "korean": "신우 형 구하겠습니다 우리 신우 형. - 아무도 구하지 마라. I'll save CNU. Our CNU. - Nobody save me. 듣기 View video B1A4 : B1A4 여름 연캉스",
+      "english": "I'll save CNU. Our CNU. - Nobody save me."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Doctors were unable to save her. 듣기 Add to Wordbook 의사들은 그녀를 구하지[살리지] 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Doctors were unable to save her. Add to Wordbook"
+    },
+    {
+      "korean": "What’s our fallback if they don’t come up with the money? 듣기 Add to Wordbook 그들이 그 돈을 구하지 못할 경우 우리는 어떤 대비책이 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What’s our fallback if they don’t come up with the money? Add to Wordbook"
+    },
+    {
+      "korean": "The prize money saved her from having to find a job. 듣기 Add to Wordbook 그 상금 덕분에 그녀는 일자리를 구하지 않아도 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The prize money saved her from having to find a job. Add to Wordbook"
+    },
+    {
+      "korean": "Seek not every quality in one individual. (Confucius) 듣기 Add to Wordbook 한 사람에게서 모든 덕을 구하지 말라. (공자, 공부명언) 명언/속담",
+      "english": "Seek not every quality in one individual. (Confucius) Add to Wordbook"
+    },
+    {
+      "korean": "Convinced myself, I seek not to convince. (Edgar Allan Poe) 듣기 Add to Wordbook 내 스스로 확신한다면 나는 남의 확신을 구하지 않는다. (에드거 앨런 포, 지식명언) 명언/속담",
+      "english": "Convinced myself, I seek not to convince. (Edgar Allan Poe) Add to Wordbook"
+    }
+  ]
+}

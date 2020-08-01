@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "기관",
+      "hanja": " (機關)",
+      "example": {},
+      "meanings": [
+        "(엔진) engine",
+        "(조직) organization, institution, agency, (formal) organ"
+      ]
+    },
+    {
+      "phrase": "기관",
+      "hanja": " (器官)",
+      "example": {},
+      "meanings": [
+        "(신체 조직) organ"
+      ]
+    },
+    {
+      "phrase": "산하기관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "affiliated organization"
+      ]
+    },
+    {
+      "phrase": "사정 기관",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "inspection agency, assessment agency"
+      ]
+    },
+    {
+      "phrase": "금융기관",
+      "hanja": " (金融機關)",
+      "example": {},
+      "meanings": [
+        "financial[banking] institution, (회사) financial company"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "organ",
+      "frequency": 3
+    },
+    {
+      "meaning": "institution",
+      "frequency": 3
+    },
+    {
+      "meaning": "institute",
+      "frequency": 3
+    },
+    {
+      "meaning": "facility",
+      "frequency": 3
+    },
+    {
+      "meaning": "house",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "국가의 비밀스러운 기관에 수사... 뭐라 해야 되지? I'd be in some national secret organization... What do you call it? 듣기 View video VICTON : 2020",
+      "english": "I'd be in some national secret organization... What do you call it?"
+    },
+    {
+      "korean": "[온 감각기관이 반응하는] [솟은 미간] 오 마이 갓! 왜 오 마이 갓! [All sensory organs react to it] [Raised eyebrows] Oh, my god! 듣기 View video SM C&C STUDIO : [NCT LIFE] Ep.13 - Ep.15 Preview",
+      "english": "[All sensory organs react to it] [Raised eyebrows] Oh, my god!"
+    },
+    {
+      "korean": "오직 여러분의 행복이 목적인 기관. is to make everyone happy. 듣기 View video V COOKIE : [FULL] CLC X SUITS KNIGHTS - CLC의 정장방!",
+      "english": "is to make everyone happy."
+    },
+    {
+      "korean": "그거 뭐지? 진짜 기관 같은 데서는 절대로 고객의 그걸 물어보지 않는다고. What was it? Real organizations don't ask for that kind of information. 듣기 View video THE BOYZ : 👨‍✈️💕",
+      "english": "What was it? Real organizations don't ask for that kind of information."
+    },
+    {
+      "korean": "신장이나 그다음에 생식기관... Your kidneys and engine... 듣기 View video ASTRO : 즐추즐추♡",
+      "english": "Your kidneys and engine..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "an organization offering counselling for the bereaved 듣기 Add to Wordbook 사별을 당한 사람에게 상담을 해주는 기관 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an organization offering counselling for the bereaved Add to Wordbook"
+    },
+    {
+      "korean": "The director is allowed to designate his / her successor. 듣기 Add to Wordbook 기관장이 자기 후임자를 지명할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The director is allowed to designate his / her successor. Add to Wordbook"
+    },
+    {
+      "korean": "The profession is policed by its own regulatory body. 듣기 Add to Wordbook 그 직종에서는 자체 관리 기관의 감시를 받는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The profession is policed by its own regulatory body. Add to Wordbook"
+    },
+    {
+      "korean": "Doctors could find nothing organically wrong with her. 듣기 Add to Wordbook 의사들이 그녀의 인체 기관에서는 아무 이상을 발견하지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Doctors could find nothing organically wrong with her. Add to Wordbook"
+    },
+    {
+      "korean": "The organization dispenses free health care to the poor. 듣기 Add to Wordbook 그 기관에서는 가난한 사람들에게 무료 의료 서비스를 제공한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The organization dispenses free health care to the poor. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "계기",
+      "hanja": " (契機)",
+      "example": {},
+      "meanings": [
+        "chance, opportunity"
+      ]
+    },
+    {
+      "phrase": "계기",
+      "hanja": " (計器)",
+      "example": {},
+      "meanings": [
+        "Noun meter, scale, instrument"
+      ]
+    },
+    {
+      "phrase": "계기가 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "serve as a momentum"
+      ]
+    },
+    {
+      "phrase": "이것을 계기로 하여",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "taking this opportunity",
+        "upon this opportunity",
+        "with this as a momentum"
+      ]
+    },
+    {
+      "phrase": "계기 항법",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "instrumental navigation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "instrument",
+      "frequency": 3
+    },
+    {
+      "meaning": "trigger",
+      "frequency": 3
+    },
+    {
+      "meaning": "indicator",
+      "frequency": 3
+    },
+    {
+      "meaning": "cue 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "meter 3",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "고마워 - 자르게 된 계기가 있나요? Thank you. - What made you do so? 듣기 View video NCT : 127💚니가좋아💚",
+      "english": "Thank you. - What made you do so?"
+    },
+    {
+      "korean": "저랑 이제 조금 친해질 계기가 있었던 것 같아요 같이 팀을 했었나? There was a reason we were able to get closer... Was it same team? 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "There was a reason we were able to get closer... Was it same team?"
+    },
+    {
+      "korean": "먹게 된 계기가... The reason why I started... 듣기 View video Stray Kids : 막내의 사생활 19🦊",
+      "english": "The reason why I started..."
+    },
+    {
+      "korean": "어떤 계기들로 이렇게 좀 배우고 하게 됐어요? what made you sing at first? 듣기 View video CASPER RADIO : 권정열 고영배의 십란한밤 #120 with 첸(CHEN) of 엑소(EXO)",
+      "english": "what made you sing at first?"
+    },
+    {
+      "korean": "그 부분에 있어서 이번 연도, 또 계기? In that case... For this year, and reason? 듣기 View video AB6IX : 오늘도 행복한 하루 보내셨나용?❤",
+      "english": "In that case... For this year, and reason?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That will be a good career move 듣기 Add to Wordbook 그것이 직장 생활에 좋은 계기가 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That will be a good career move Add to Wordbook"
+    },
+    {
+      "korean": "Check the tyre pressure on the dial. 듣기 Add to Wordbook 계기판을 보고 타이어 압력을 확인하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Check the tyre pressure on the dial. Add to Wordbook"
+    },
+    {
+      "korean": "The incident served as a timely reminder of just how dangerous mountaineering can be. 듣기 Add to Wordbook 그 사건은 등산이 얼마나 위험할 수 있는지를 때맞춰 상기시키는 계기가 되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The incident served as a timely reminder of just how dangerous mountaineering can be. Add to Wordbook"
+    },
+    {
+      "korean": "What made you decide on a career as a vet? 듣기 Add to Wordbook 당신이 수의사를 직업으로 삼을 결심을 하게 된 계기는 무엇이었습니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "What made you decide on a career as a vet? Add to Wordbook"
+    },
+    {
+      "korean": "This gauge tells you how much fuel you have left. 듣기 Add to Wordbook 이 계기는 연료가 얼마나 남았는지를 알려[보여] 준다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This gauge tells you how much fuel you have left. Add to Wordbook"
+    }
+  ]
+}

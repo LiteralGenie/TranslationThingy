@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(상상의 동물) dragon",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(한꺼번에 모아서 내는 센 힘)"
+      ]
+    },
+    {
+      "phrase": "-용",
+      "hanja": " (用)",
+      "example": {},
+      "meanings": [
+        "for (the use of)"
+      ]
+    },
+    {
+      "phrase": "용(이) 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "become a dragon"
+      ]
+    },
+    {
+      "phrase": "용띠",
+      "hanja": " (龍띠)",
+      "example": {},
+      "meanings": [
+        "the Year of the Dragon"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dragon",
+      "frequency": 3
+    },
+    {
+      "meaning": "the (great) sea serpent",
+      "frequency": 0
+    },
+    {
+      "meaning": "Chinese dragon",
+      "frequency": 0
+    },
+    {
+      "meaning": "테트라포드",
+      "frequency": 0
+    },
+    {
+      "meaning": "decking",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[육수 공수하러 출동] 이게 1인분용이겠지? [Going off to get broth] I guess it's for one person. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Going off to get broth] I guess it's for one person."
+    },
+    {
+      "korean": "[네 번째 제시어 공기청정기] - 공! - 용? [4th word: Gong Gi Cheong Jeong Gi (Air purifier)] - Gong. - Yong? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.5",
+      "english": "[4th word: Gong Gi Cheong Jeong Gi (Air purifier)] - Gong. - Yong?"
+    },
+    {
+      "korean": "우린 용띠인데 용띠가 왜 모였을까요? With that said, why are we here? 듣기 View video Dispatch : [ⓓxV] “용띠즈의 드림 그래프 ” (재민·제노 : NCT DREAM)",
+      "english": "With that said, why are we here?"
+    },
+    {
+      "korean": "[조-용] 안 자글거리네? [Silence] It's not boiling. 듣기 View video Dispatch : [ⓓxV] “JRTYLOG ③” (종현 : 태용)",
+      "english": "[Silence] It's not boiling."
+    },
+    {
+      "korean": "그리고 '용의 눈물' 알아요? And do you know \"Tears of the Dragon\"? 듣기 View video SF9 : o_o",
+      "english": "And do you know \"Tears of the Dragon\"?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "mythical beasts such as unicorns and dragons 듣기 Add to Wordbook 유니콘이나 용 같은 신화적 짐승들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "mythical beasts such as unicorns and dragons Add to Wordbook"
+    },
+    {
+      "korean": "a secure unit for child offenders 듣기 Add to Wordbook 보안이 철저한 아동 범죄자들용 건물 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a secure unit for child offenders Add to Wordbook"
+    },
+    {
+      "korean": "St George slew the dragon. 듣기 Add to Wordbook 성 조지가 그 용을 죽였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "St George slew the dragon. Add to Wordbook"
+    },
+    {
+      "korean": "to give a grunt of effort/pain 듣기 Add to Wordbook 용을 쓰느라/아파서 끙 앓는 소리를 내다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to give a grunt of effort/pain Add to Wordbook"
+    },
+    {
+      "korean": "I intend to rewrite the story for younger children. 듣기 Add to Wordbook 나는 그 이야기를 더 나이 어린 아이들 용으로 고쳐 쓸 생각이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I intend to rewrite the story for younger children. Add to Wordbook"
+    }
+  ]
+}

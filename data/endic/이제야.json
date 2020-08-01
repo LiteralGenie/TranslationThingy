@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "이제야",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "finally, eventually, at last"
+      ]
+    },
+    {
+      "phrase": "이제야 감을 잡는군.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Now you're catching on."
+      ]
+    },
+    {
+      "phrase": "이제야 이해가 되는군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "대화 도중 I think I get it now.",
+        "대화 도중 I think I know what you are getting at.",
+        "대화 도중 I know what you mean."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "at this time of (the) day",
+      "frequency": 0
+    },
+    {
+      "meaning": "at this belated hour",
+      "frequency": 0
+    },
+    {
+      "meaning": "That explains.",
+      "frequency": 0
+    },
+    {
+      "meaning": "now-it-can-be-told",
+      "frequency": 0
+    },
+    {
+      "meaning": "Here I am",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이제야? You didn't know that? 듣기 View video JBJ95 : [#지금하95] 편의점을 다녀왔습니다~~ so 먹방!!",
+      "english": "You didn't know that?"
+    },
+    {
+      "korean": "[이제야 제대로 봄] 아니... [Just saw them] What? 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[Just saw them] What?"
+    },
+    {
+      "korean": "[몸통 완성][이미 완성] 이제야 몸통을 다 만들었어! [Body part is done][Already finished] Finally, I finished the body! 듣기 View video V PICK! : [V PICK! HOW TO in V] 재하효빈의 소원인형👩‍👦 (HOW TO MAKE JAEHA&HYOBIN’s wish dolls)",
+      "english": "[Body part is done][Already finished] Finally, I finished the body!"
+    },
+    {
+      "korean": "왜 이제야 나타나셨어요! Why come so late! 듣기 View video V CREW : [V CREW] 덕후의 보이는 라디오 EP. 05 덕후 시조새 베로 픽! K팝 레전드 해인 '2009년' 최고의 히트곡은? (흥얼거리는 순간 최소 우리 동년배..*개취주위*)",
+      "english": "Why come so late!"
+    },
+    {
+      "korean": "[셔누's PICK '이제야 알겠어' - 손현우] 몇 년 전이죠 거의? How many years ago was that? 듣기 View video Hidden Track No.V : 몬스타엑스가 추천하는 비행기에서 듣기 좋은 노래 #EP 02",
+      "english": "How many years ago was that?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "We now have the needed items, and your order will be shipped tomorrow. 듣기 Add to Wordbook 이제야 요청한 품목을 보유하게 되었으니 귀하의 주문품은 내일 발송될 것입니다. DARAKWON",
+      "english": "We now have the needed items, and your order will be shipped tomorrow. Add to Wordbook"
+    },
+    {
+      "korean": "I think we're on the same wavelength here. 듣기 Add to Wordbook 이제야 말이 좀 통하네요. Neungyule",
+      "english": "I think we're on the same wavelength here. Add to Wordbook"
+    },
+    {
+      "korean": "I finally feel relaxed. 듣기 Add to Wordbook 이제야 마음이 좀 놓인다 Neungyule",
+      "english": "I finally feel relaxed. Add to Wordbook"
+    },
+    {
+      "korean": "I finally feel a little relieved. 듣기 Add to Wordbook 이제야 마음이 좀 놓인다 Neungyule",
+      "english": "I finally feel a little relieved. Add to Wordbook"
+    },
+    {
+      "korean": "I am nothing but a free thing. 듣기 Add to Wordbook 이제야 자유의 몸이 되었군. Neungyule",
+      "english": "I am nothing but a free thing. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "인망",
+      "hanja": " (人望)",
+      "example": {},
+      "meanings": [
+        "popularity"
+      ]
+    },
+    {
+      "phrase": "인망 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "popular"
+      ]
+    },
+    {
+      "phrase": "인망을 잃다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lose one´s popularity",
+        "forfeit people´s esteem",
+        "fall in popular support[public estimation]"
+      ]
+    },
+    {
+      "phrase": "인망을 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "win[gain, attain, acquire] popularity",
+        "become popular"
+      ]
+    },
+    {
+      "phrase": "인망이 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unpopular"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "unpopularity",
+      "frequency": 0
+    },
+    {
+      "meaning": "a greet popular war hero",
+      "frequency": 0
+    },
+    {
+      "meaning": "Popularity generally accompanies wealth.",
+      "frequency": 0
+    },
+    {
+      "meaning": "dealer network",
+      "frequency": 0
+    },
+    {
+      "meaning": "towing duration",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "The election depends on the respective popularity of the candidates. 발음듣기 선거는 입후보자 각자의 인망에 따라 결정된다. Friendict Level English-Korean Dictionary",
+      "english": "The election depends on the respective popularity of the candidates. 발음"
+    },
+    {
+      "korean": "The crowd mobbed the unpopular minister. 발음듣기 사람들이 그 인망 없는 장관 주위로 떼 지어 몰려들었다. Friendict Level English-Korean Dictionary",
+      "english": "The crowd mobbed the unpopular minister. 발음"
+    },
+    {
+      "korean": "He is popular with all ranks of society. 발음듣기 그는 사회의 모든 사람들에게 인망이 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "He is popular with all ranks of society. 발음"
+    },
+    {
+      "korean": "a popular preacher 발음듣기 인망이 있는 설교사. Friendict Level English-Korean Dictionary",
+      "english": "a popular preacher 발음"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건·돈 등을) give, (공식적으로) present",
+        "(권리·기회·자격 등을) give (sb sthsth to sb)",
+        "(고통·상처·피해 등을)"
+      ]
+    },
+    {
+      "phrase": "주다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb juda (→달다6)"
+      ]
+    },
+    {
+      "phrase": "5일에서 7일로 변경해 주시면 고맙겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "레스토랑 찾기 I'd be happy if I could change it from the 5th to the 7th.",
+        "레스토랑 찾기 I'd be pleased if you could change it from the 5th to the 7th."
+      ]
+    },
+    {
+      "phrase": "조금 더 싸게 해 주시면 사겠습니다.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "매장에서 If you mark it down a bit, I'll buy it."
+      ]
+    },
+    {
+      "phrase": "기회만 주시면 저의 능력을 보여 드리겠습니다!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "구직활동 Just give me the chance and I'll show you what I can do!"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "I'd appreciate some help.",
+      "frequency": 0
+    },
+    {
+      "meaning": "I gratefully welcome corrections.",
+      "frequency": 0
+    },
+    {
+      "meaning": "I'd be obliged if",
+      "frequency": 0
+    },
+    {
+      "meaning": "give",
+      "frequency": 2
+    },
+    {
+      "meaning": "show",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "주시면... If you give... 듣기 View video V COOKIE : [Replay] GOT7 Mark&Yu-Gyeom's-GOT7 마크&유겸X<같이먹어요>",
+      "english": "If you give..."
+    },
+    {
+      "korean": "진 형이 뭐 하나 정해 주시면 안 될까요? Jin, won't you pick one for us? 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "Jin, won't you pick one for us?"
+    },
+    {
+      "korean": "선입금 해 주시면 - 선입금이요? I'll show you if you pay me first. - Pay you first? 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.24 드립 : 세븐틴 갓 탤런트 #2 (Ad-lib : Seventeen's got Talent #2)",
+      "english": "I'll show you if you pay me first. - Pay you first?"
+    },
+    {
+      "korean": "저희도 이만 들어가보겠습니다 - 지진정태라고 한번 넣어주시면 안 돼요? We'll get going now. - Could you put me in as Ji-Jin-Jung-Tae? 듣기 View video BTS : 꿀FM <지진정의 R.A.D.I.O 라디오> #중대발표",
+      "english": "We'll get going now. - Could you put me in as Ji-Jin-Jung-Tae?"
+    },
+    {
+      "korean": "다음 질문을 주시면 좋을 것... Please give me the next que.. 듣기 View video V COOKIE : [Full] Jeong Eun Ji X CouchTalk - 정은지 X 카우치토크",
+      "english": "Please give me the next que.."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Prompt payment of the invoice would be appreciated. 발음듣기 청구 대금을 즉각 지불해 주시면 고맙겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Prompt payment of the invoice would be appreciated. 발음"
+    },
+    {
+      "korean": "I’d like a room with a view. 발음듣기 전망이 좋은 방을 주시면 좋겠군요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’d like a room with a view. 발음"
+    },
+    {
+      "korean": "I wish you’d be quiet for a minute. 발음듣기 잠시 좀 조용히 해 주시면 좋겠어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I wish you’d be quiet for a minute. 발음"
+    },
+    {
+      "korean": "I would appreciate it if you paid in cash. 발음듣기 현금으로 지불해 주시면 고맙겠습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I would appreciate it if you paid in cash. 발음"
+    },
+    {
+      "korean": "I’d be grateful if you would keep it a secret. 발음듣기 그것을 비밀로 해 주시면 고맙겠어요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I’d be grateful if you would keep it a secret. 발음"
+    }
+  ]
+}

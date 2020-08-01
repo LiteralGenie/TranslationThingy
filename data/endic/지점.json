@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "지점",
+      "hanja": " (支店)",
+      "example": {},
+      "meanings": [
+        "branch (office)"
+      ]
+    },
+    {
+      "phrase": "지점",
+      "hanja": " (地點)",
+      "example": {},
+      "meanings": [
+        "(위치) point, spot, place"
+      ]
+    },
+    {
+      "phrase": "jism ( jissom )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 속어 (남자의) 정액"
+      ]
+    },
+    {
+      "phrase": "j-ism",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(Jay-ism) An abbreviation for journalism, either as an academic course or profession. The printed word \"J-ism,\" which closely resembles the word jism is used humorously and may be printed on paraphanalia including polo shirts."
+      ]
+    },
+    {
+      "phrase": "예정 지점",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the intended spot"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "point",
+      "frequency": 2
+    },
+    {
+      "meaning": "eastward",
+      "frequency": 1
+    },
+    {
+      "meaning": "bit 2",
+      "frequency": 2
+    },
+    {
+      "meaning": "a solstitial point",
+      "frequency": 0
+    },
+    {
+      "meaning": "point d'appui",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이 지점이 최고예요. This spot is so awesome. 듣기 View video 소녀포레스트 - SM CCC LAB : [소녀포레스트ㅣGIRLS FOR REST] EP45. 유리&효연의 산악승마",
+      "english": "This spot is so awesome."
+    },
+    {
+      "korean": "했죠? 끝 지점으로 왔죠? Are you done? Did you roll up to the top? 듣기 View video GFRIEND : SBS MTV <요고바라> 동시생중계",
+      "english": "Are you done? Did you roll up to the top?"
+    },
+    {
+      "korean": "[시작 지점으로 흩어지는 중] 파이팅! [They all separate] Fighting! 듣기 View video Stray Kids : [FULL] <찾았다 스트레이 키즈> 1화",
+      "english": "[They all separate] Fighting!"
+    },
+    {
+      "korean": "앞에는 저희 지점장님이 계세요. There is our branch manager next to me. 듣기 View video Dispatch : [ⓓxV] \"차학연(N) D-day\"",
+      "english": "There is our branch manager next to me."
+    },
+    {
+      "korean": "우리 이 중간 지점을 한 번 찾아봅시다 그렇죠? Let's meet in the middle. Right? 듣기 View video re:memVer party 2019 : 유선호 리멤버파티 시상식 / 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE",
+      "english": "Let's meet in the middle. Right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "At this point the path descends steeply. 발음듣기 이 지점에서 오솔길이 급격한 내리막길이 된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At this point the path descends steeply. 발음"
+    },
+    {
+      "korean": "Deposits can be made at any branch. 발음듣기 예금은 어느 지점에서나 할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Deposits can be made at any branch. 발음"
+    },
+    {
+      "korean": "There was a signpost where the two paths converged. 발음듣기 그 두 소로가 만나는 지점에 표지판이 하나 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was a signpost where the two paths converged. 발음"
+    },
+    {
+      "korean": "This voucher can be redeemed at any of our branches. 발음듣기 이 상품권은 저희 지점 어디에서나 상품과 교환할 수 있습니다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This voucher can be redeemed at any of our branches. 발음"
+    },
+    {
+      "korean": "X marks the spot. 발음듣기 X 표는 그 지점을 나타낸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "X marks the spot. 발음"
+    }
+  ]
+}

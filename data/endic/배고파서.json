@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "배고프다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(시장하다) hungry",
+        "(궁핍하다) impoverished"
+      ]
+    },
+    {
+      "phrase": "배고파서 혼나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be perished with hunger"
+      ]
+    },
+    {
+      "phrase": "배가 고파서 쓰러질 지경이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be faint with hunger"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": " (培)",
+      "example": {},
+      "meanings": [
+        "(갑절)",
+        "(수량을 나타내는 말 뒤에 쓰여)"
+      ]
+    },
+    {
+      "phrase": "배",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(신체) stomach, (informal) belly, (formal) abdomen; (유아어) (informal) tummy",
+        "(비유적)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "good and hungry",
+      "frequency": 0
+    },
+    {
+      "meaning": "be faint with hunger",
+      "frequency": 0
+    },
+    {
+      "meaning": "be tucked up",
+      "frequency": 0
+    },
+    {
+      "meaning": "hungangry",
+      "frequency": 0
+    },
+    {
+      "meaning": "hangry",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "배고파서. I was hungry. 듣기 View video BTS : 화개장터 : 필리핀에 오다!",
+      "english": "I was hungry."
+    },
+    {
+      "korean": "나 오늘 너무 배고파서... I was so hungry today. 듣기 View video TWICE : 부의세계...",
+      "english": "I was so hungry today."
+    },
+    {
+      "korean": "그때 당시에 우리가 이제... - 배고파서? Back then, we were... - Hungry? 듣기 View video ATEEZ : From 😍😍😍😍😍😍😍😍",
+      "english": "Back then, we were... - Hungry?"
+    },
+    {
+      "korean": "배고파서 아직... I'm hungry. It's still... 듣기 View video ASTRO : 차은우의 Just One 10 Minutes",
+      "english": "I'm hungry. It's still..."
+    },
+    {
+      "korean": "미연 맨날 배고파서... Miyeon is always hungry... 듣기 View video JTBC PLUS : [S-CAM] (여자)아이들 2편 \"기대 가득 호치민 뿌이뿌이뿌이!\"",
+      "english": "Miyeon is always hungry..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I am so hangry now: let's go out and take a bite of something. 발음듣기 나 지금 너무 배고파서 화가 나, 우리 나가서 뭐 좀 간단히 먹자. 국제영어대학원대학교 신어사전",
+      "english": "I am so hangry now: let's go out and take a bite of something. 발음"
+    },
+    {
+      "korean": "You cannot work on an empty stomach. 발음듣기 배고파서는 일을 할 수 없지 Dong-a's Prime English-Korean Dictionary",
+      "english": "You cannot work on an empty stomach. 발음"
+    },
+    {
+      "korean": "They had a meal because they were so hungry. 발음듣기 그들은 너무 배고파서 식사했다. YBM All in All English-Korean Dictionary",
+      "english": "They had a meal because they were so hungry. 발음"
+    },
+    {
+      "korean": "I was nearly starving to death. Now that I had something to eat, I feel much better. 발음듣기 배고파서 죽을 뻔했는데 뭐를 좀 먹었더니 이제 살 것 같다 Neungyule",
+      "english": "I was nearly starving to death. Now that I had something to eat, I feel much better. 발음"
+    },
+    {
+      "korean": "I got hungry while waiting, so I ate first. 발음듣기 기다리다 배고파서 먼저 먹었어. YBM All in All English-Korean Dictionary",
+      "english": "I got hungry while waiting, so I ate first. 발음"
+    }
+  ]
+}

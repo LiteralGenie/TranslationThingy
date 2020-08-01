@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "정의",
+      "hanja": " (正義)",
+      "example": {},
+      "meanings": [
+        "(바른 도리) justice, (formal) righteousness"
+      ]
+    },
+    {
+      "phrase": "정의",
+      "hanja": " (定義)",
+      "example": {},
+      "meanings": [
+        "(뜻, 의미) definition, define (sth as sth)"
+      ]
+    },
+    {
+      "phrase": "정의",
+      "hanja": " (情誼)",
+      "example": {},
+      "meanings": [
+        "Noun friendship, bond"
+      ]
+    },
+    {
+      "phrase": "정의의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "righteous",
+        "just"
+      ]
+    },
+    {
+      "phrase": "정의롭다",
+      "hanja": " (正義롭다)",
+      "example": {},
+      "meanings": [
+        "(formal) righteous, just, right"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "definition",
+      "frequency": 3
+    },
+    {
+      "meaning": "judgment",
+      "frequency": 3
+    },
+    {
+      "meaning": "characterization",
+      "frequency": 0
+    },
+    {
+      "meaning": "righteousness",
+      "frequency": 3
+    },
+    {
+      "meaning": "rightness",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "사람은 정의가 필요하잖아 그렇지? People need bonds, right? 듣기 View video NU'EST : [NU’EST REN] 안뇽🦋",
+      "english": "People need bonds, right?"
+    },
+    {
+      "korean": "정의는 승리한다 - 이거는 그냥... Justice wins! - This is... 듣기 View video TOMORROW X TOGETHER : 연준 : 게임의 정석",
+      "english": "Justice wins! - This is..."
+    },
+    {
+      "korean": "행복의 정의는 무엇인가? What's the definition of happiness? 듣기 View video VICTON : 찬이의 조금 늦은 생일🎉🎉",
+      "english": "What's the definition of happiness?"
+    },
+    {
+      "korean": "다섯 글자로 한 명씩 정의할까? Shall we do that all together? Like 5 letters? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "Shall we do that all together? Like 5 letters?"
+    },
+    {
+      "korean": "한 단어로 정의한다면 어떻게 정의를 내릴까요 화사 씨? Define it in one word. What would you say, Hwasa? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#415. 힙퀸 (스페셜 DJ 마마무 문별 & 솔라 with 마마무)",
+      "english": "Define it in one word. What would you say, Hwasa?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the characterization of physics as the study of simplicity 듣기 Add to Wordbook 물리학을 단순함에 대한 연구라고 보는 정의 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the characterization of physics as the study of simplicity Add to Wordbook"
+    },
+    {
+      "korean": "Life imprisonment is defined as 60 years under state law. 듣기 Add to Wordbook 주 법률에 따르면 종신형이란 60년(형)으로 정의된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Life imprisonment is defined as 60 years under state law. Add to Wordbook"
+    },
+    {
+      "korean": "the scales of justice 듣기 Add to Wordbook 정의의 저울(천칭 모양으로 표시됨) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the scales of justice Add to Wordbook"
+    },
+    {
+      "korean": "the fight for justice and liberty 듣기 Add to Wordbook 정의와 자유를 위한 싸움 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the fight for justice and liberty Add to Wordbook"
+    },
+    {
+      "korean": "the fight for justice and democracy 듣기 Add to Wordbook 정의와 평등을 위한 싸움 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the fight for justice and democracy Add to Wordbook"
+    }
+  ]
+}

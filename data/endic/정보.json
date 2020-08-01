@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "정보",
+      "hanja": " (情報)",
+      "example": {},
+      "meanings": [
+        "information, report, data, (첩보) intelligence, (범죄에 대한 제보) (informal) tip-off"
+      ]
+    },
+    {
+      "phrase": "정보/작전망",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 intelligence/operation net"
+      ]
+    },
+    {
+      "phrase": "개인 정보",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personal information"
+      ]
+    },
+    {
+      "phrase": "정보통신",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Information and Communications"
+      ]
+    },
+    {
+      "phrase": "정보 기술",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Information Technology ((abb.)IT)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tip",
+      "frequency": 3
+    },
+    {
+      "meaning": "file",
+      "frequency": 3
+    },
+    {
+      "meaning": "detail",
+      "frequency": 3
+    },
+    {
+      "meaning": "information",
+      "frequency": 3
+    },
+    {
+      "meaning": "intelligence",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지금 정보가 들어왔는데 - 어떤 거요? Information just came in. - Which one? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "Information just came in. - Which one?"
+    },
+    {
+      "korean": "아 지금 또 하나의 정보가 들어왔습니다 - 어떤 정보? There's another piece of information now! - Which information? 듣기 View video NU'EST : 뉴이스트와 스푼즈가 함께하는 Special V LIVE [THE NU'STORE]",
+      "english": "There's another piece of information now! - Which information?"
+    },
+    {
+      "korean": "[전기정보공학부 (feat.암호)] 그냥 암호? [Electronic information engineering (feat. codes)] Codes? 듣기 View video 내 전공은 힙합(My major is HIPHOP) : Ep 21. 각성해서 나타난 성균관대 꾼!! 서울대 츄플의 위기??!!",
+      "english": "[Electronic information engineering (feat. codes)] Codes?"
+    },
+    {
+      "korean": "제 립 정보요? 저요? Info on my lip? Me? 듣기 View video VICTON : 연휴의 마지막 승식",
+      "english": "Info on my lip? Me?"
+    },
+    {
+      "korean": "립 정보? Information on the lips? 듣기 View video 우주소녀(WJSN) : [엑시] 나 보고싶었지?",
+      "english": "Information on the lips?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Give me the dope on the new boss. 듣기 Add to Wordbook 새 상사에 대해 정보 좀 줘요. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Give me the dope on the new boss. Add to Wordbook"
+    },
+    {
+      "korean": "The information available on the subject is sparse. 듣기 Add to Wordbook 그 주제에 대한 정보는 드물다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The information available on the subject is sparse. Add to Wordbook"
+    },
+    {
+      "korean": "Visual material aids the retention of information. 듣기 Add to Wordbook 시각적인 요소가 정보 기억을 돕는다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Visual material aids the retention of information. Add to Wordbook"
+    },
+    {
+      "korean": "He was censured for leaking information to the press. 듣기 Add to Wordbook 그는 언론에 정보를 누설하여 견책을 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was censured for leaking information to the press. Add to Wordbook"
+    },
+    {
+      "korean": "We were overwhelmed by requests for information. 듣기 Add to Wordbook 우리는 정보 요청들이 밀려와서 어쩔 줄을 몰랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were overwhelmed by requests for information. Add to Wordbook"
+    }
+  ]
+}

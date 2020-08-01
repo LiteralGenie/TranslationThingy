@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "샤워",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "shower"
+      ]
+    },
+    {
+      "phrase": "shower",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 샤워기, 샤워실",
+        "Noun 샤워(하기)",
+        "Verb 샤워를 하다"
+      ]
+    },
+    {
+      "phrase": "shower",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 보이는 사람[물건]"
+      ]
+    },
+    {
+      "phrase": "샤워실",
+      "hanja": " (shower室)",
+      "example": {},
+      "meanings": [
+        "a shower stall[room]"
+      ]
+    },
+    {
+      "phrase": "샤워기",
+      "hanja": " (shower器)",
+      "example": {},
+      "meanings": [
+        "Noun showerhead"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "shower",
+      "frequency": 2
+    },
+    {
+      "meaning": "shower bath",
+      "frequency": 0
+    },
+    {
+      "meaning": "Sour",
+      "frequency": 0
+    },
+    {
+      "meaning": "to take a shower",
+      "frequency": 0
+    },
+    {
+      "meaning": "a shower cubicle",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "자꾸 샤워를... Why do you keep mentioning... 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "Why do you keep mentioning..."
+    },
+    {
+      "korean": "뭐 샤워가 잘못입니까? What's wrong with showering? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "What's wrong with showering?"
+    },
+    {
+      "korean": "[전 마피아가 아닌데요?? - 태양의 샤워 - 춤춰! [I'm not the mafia but] - Shower of the sun! - Dance! 듣기 View video V PICK! : [SF9] 농부 그룹 셒구의 밤에 오신 걸 환영합니다🌾 (SF9 playing the Mafia game)",
+      "english": "[I'm not the mafia but] - Shower of the sun! - Dance!"
+    },
+    {
+      "korean": "샤워하면서 V LIVE 하신 적 없잖아요 그렇죠? And you've never been on V LIVE during shower, have you? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "And you've never been on V LIVE during shower, have you?"
+    },
+    {
+      "korean": "일단 양치하고요 - 샤워 뭐 안 하는 사람 있습니까? I brushed the teeth. - Who doesn't take a shower? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "I brushed the teeth. - Who doesn't take a shower?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a shower bath 발음듣기 샤워. Friendict Level English-Korean Dictionary",
+      "english": "a shower bath 발음"
+    },
+    {
+      "korean": "She showered and dressed and went downstairs. 발음듣기 그녀는 샤워를 하고 옷을 입은 뒤 아래층으로 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She showered and dressed and went downstairs. 발음"
+    },
+    {
+      "korean": "shower gel containing plant extracts that have a stimulating effect on the skin 발음듣기 피부에 활기를 주는 효과가 있는 식물 추출물이 든 샤워 젤 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "shower gel containing plant extracts that have a stimulating effect on the skin 발음"
+    },
+    {
+      "korean": "an invigorating walk / shower 발음듣기 활기를 북돋워 주는 산책/샤워 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "an invigorating walk / shower 발음"
+    },
+    {
+      "korean": "to take a bath / shower / wash 발음듣기 목욕/샤워를 하다/(몸 등을) 씻다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to take a bath / shower / wash 발음"
+    }
+  ]
+}

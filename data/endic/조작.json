@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "조작",
+      "hanja": " (操作)",
+      "example": {},
+      "meanings": [
+        "(기계 등을 다루다) operate, control, handle, work, manipulate"
+      ]
+    },
+    {
+      "phrase": "조작",
+      "hanja": " (造作)",
+      "example": {},
+      "meanings": [
+        "(일을 꾸며내다) fabrication, invention, fabricate, invent, concoct, fake, manufacture"
+      ]
+    },
+    {
+      "phrase": "유전자조작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "gene(tic) manipulation, manipulation of genes"
+      ]
+    },
+    {
+      "phrase": "기계를 조작하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "operate a machine"
+      ]
+    },
+    {
+      "phrase": "자동 조작",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "automatic operation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fix",
+      "frequency": 3
+    },
+    {
+      "meaning": "fiddle",
+      "frequency": 3
+    },
+    {
+      "meaning": "rigging",
+      "frequency": 0
+    },
+    {
+      "meaning": "handling",
+      "frequency": 0
+    },
+    {
+      "meaning": "manipulation",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아닌가? 기억 조작인가? We didn't? Is my memory wrong? 듣기 View video TOMORROW X TOGETHER : 제목 모하지? 모아지! 2",
+      "english": "We didn't? Is my memory wrong?"
+    },
+    {
+      "korean": "죄송한데 무슨 기억 조작이세요? I'm sorry, but what kind of fabricated memory is that? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "I'm sorry, but what kind of fabricated memory is that?"
+    },
+    {
+      "korean": "[인간들의 농락에 열 받은 기억 조작의 신] 신을 농락하는 거니? Are you kidding us? 듣기 View video IZ*ONE : 신이 된 아이즈원, 게임을 통해 음식을 사수하라! ＜신들의 만찬＞ Part.1｜IZ*ONE COMEBACK SHOW",
+      "english": "Are you kidding us?"
+    },
+    {
+      "korean": "[=기억 조작의 신, 이름도 줄임] [먹고야 말겠다는 기조신의 외침] 기조신! God of memory manipulation! 듣기 View video IZ*ONE : 신이 된 아이즈원, 게임을 통해 음식을 사수하라! ＜신들의 만찬＞ Part.1｜IZ*ONE COMEBACK SHOW",
+      "english": "God of memory manipulation!"
+    },
+    {
+      "korean": "그럴 수 있지만 한번 기억을 조작하셔도 좋습니다. Still, it would be good if you tried to recreate your memories. 듣기 View video V COOKIE : [Full] Jeong sewoon X LieV - 정세운의 눕방라이브!",
+      "english": "Still, it would be good if you tried to recreate your memories."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "manipulative skills such as typing and knitting 듣기 Add to Wordbook 타이핑과 뜨개질 같은 조작 기술 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "manipulative skills such as typing and knitting Add to Wordbook"
+    },
+    {
+      "korean": "He was accused of doctoring the figures. 듣기 Add to Wordbook 그는 그 수치를 조작했다는 혐의를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was accused of doctoring the figures. Add to Wordbook"
+    },
+    {
+      "korean": "to manipulate the gears and levers of a machine 듣기 Add to Wordbook 기계의 기어와 레버를 (능숙하게) 조작하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to manipulate the gears and levers of a machine Add to Wordbook"
+    },
+    {
+      "korean": "She fiddled the books while working as an accountant. 듣기 Add to Wordbook 그녀는 회계사로 일하는 동안 장부들을 조작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She fiddled the books while working as an accountant. Add to Wordbook"
+    },
+    {
+      "korean": "The government was accused of massaging the unemployment figures. 듣기 Add to Wordbook 정부가 실업 수치를 조작했다는 비난을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government was accused of massaging the unemployment figures. Add to Wordbook"
+    }
+  ]
+}

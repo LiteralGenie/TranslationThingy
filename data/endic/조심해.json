@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "조심해",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Be careful"
+      ]
+    },
+    {
+      "phrase": "조심하다",
+      "hanja": " (操心하다)",
+      "example": {},
+      "meanings": [
+        "Verb practice caution"
+      ]
+    },
+    {
+      "phrase": "조심",
+      "hanja": " (操心)",
+      "example": {},
+      "meanings": [
+        "be careful, beware (of), watch (out)"
+      ]
+    },
+    {
+      "phrase": "조심하여",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "carefully",
+        "cautiously",
+        "with care"
+      ]
+    },
+    {
+      "phrase": "조심스럽다",
+      "hanja": " (操心스럽다)",
+      "example": {},
+      "meanings": [
+        "careful, cautious"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "gently",
+      "frequency": 3
+    },
+    {
+      "meaning": "watch it",
+      "frequency": 0
+    },
+    {
+      "meaning": "Careful, you jackass!",
+      "frequency": 0
+    },
+    {
+      "meaning": "Watch yourself!",
+      "frequency": 0
+    },
+    {
+      "meaning": "nit 4",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "슬리퍼 조심해!",
+      "english": "Watch the slipper!"
+    },
+    {
+      "korean": "차 조심해요... 어?!",
+      "english": "Be careful of cars... Huh?!"
+    },
+    {
+      "korean": "조심해 조심해 - 13개야 이거?",
+      "english": "Be careful. - Is it the 13th?"
+    },
+    {
+      "korean": "여러분들 진짜 조심해요 알겠죠?",
+      "english": "Be really careful, everyone. Got it?"
+    },
+    {
+      "korean": "네버랜드도 건강 조심해요 요즘...",
+      "english": "NEVERLAND, always be healthy, too. These days..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "조심해!",
+      "english": "Watch yourself!"
+    },
+    {
+      "korean": "조심해!",
+      "english": "Be careful!"
+    },
+    {
+      "korean": "조심해!",
+      "english": "Watch out!"
+    },
+    {
+      "korean": "조심해!",
+      "english": "Look out!"
+    },
+    {
+      "korean": "조심해!",
+      "english": "Heads up!"
+    }
+  ]
+}

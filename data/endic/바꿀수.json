@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "바꿀 수 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unalterable",
+        "unchangeable"
+      ]
+    },
+    {
+      "phrase": "만금으로도 바꿀 수 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be invaluable",
+        "be priceless"
+      ]
+    },
+    {
+      "phrase": "수표를 현금으로 바꿀 수 있을까요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "은행에서 Can I cash a check here?",
+        "은행에서 Would I be able to cash this check?"
+      ]
+    },
+    {
+      "phrase": "만약 안 맞으면 바꿀 수 있나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "옷가게에서 Can I return it if it doesn't fit?"
+      ]
+    },
+    {
+      "phrase": "그럼 다른 물건으로 바꿀 수는 있나요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "매장에서 In that case, can I exchange this for a different item?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "invincible",
+      "frequency": 3
+    },
+    {
+      "meaning": "implacable",
+      "frequency": 0
+    },
+    {
+      "meaning": "unchangeable",
+      "frequency": 0
+    },
+    {
+      "meaning": "unalterable",
+      "frequency": 0
+    },
+    {
+      "meaning": "untouchable",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그걸 바꿀 수가 있어요? We can change it too? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #69 정한이의 따뜻한 우유 한 잔",
+      "english": "We can change it too?"
+    },
+    {
+      "korean": "이걸 뭔가 바꿀 수 없나? Can I not change this? 듣기 View video GOT7 : 쉼표방",
+      "english": "Can I not change this?"
+    },
+    {
+      "korean": "바꿀 수 있나? Can I change it? 듣기 View video ASTRO : 같이 얘기 할까요? ☺️",
+      "english": "Can I change it?"
+    },
+    {
+      "korean": "바꿀 수 있어요? Can I exchange them? 듣기 View video V COOKIE : [Full] KIM JAEJOONG X CouchTalk - 김재중 X 카우치토크",
+      "english": "Can I exchange them?"
+    },
+    {
+      "korean": "한 번 바꿀 수 있는 기회 준다고? May I have a chance to change it? 듣기 View video V COOKIE : [Full] KIM JAEJOONG X CouchTalk - 김재중 X 카우치토크",
+      "english": "May I have a chance to change it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "You can customize the software in several ways. 듣기 Add to Wordbook 그 소프트웨어는 여러 가지 방식으로 원하는 대로 바꿀 수가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "You can customize the software in several ways. Add to Wordbook"
+    },
+    {
+      "korean": "Can I change seats with you? 듣기 Add to Wordbook 너와 자리 바꿀 수 있을까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Can I change seats with you? Add to Wordbook"
+    },
+    {
+      "korean": "We can’t change our plans now. 듣기 Add to Wordbook 우리가 지금 계획을 바꿀 수는 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We can’t change our plans now. Add to Wordbook"
+    },
+    {
+      "korean": "Where can I change my money into dollars? 듣기 Add to Wordbook 어디서 제 돈을 달러로 바꿀 수 있나요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Where can I change my money into dollars? Add to Wordbook"
+    },
+    {
+      "korean": "Have you been able to switch your shift with anyone? 듣기 Add to Wordbook 당신 교대 근무를 누군가와 바꿀 수가 있었어요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Have you been able to switch your shift with anyone? Add to Wordbook"
+    }
+  ]
+}

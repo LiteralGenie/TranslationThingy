@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "투자",
+      "hanja": " (投資)",
+      "example": {},
+      "meanings": [
+        "[명사] investment, [동사] invest (in), make an investment (in)"
+      ]
+    },
+    {
+      "phrase": "투자가",
+      "hanja": " (投資家)",
+      "example": {},
+      "meanings": [
+        "investor"
+      ]
+    },
+    {
+      "phrase": "투자신탁",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "investment trust"
+      ]
+    },
+    {
+      "phrase": "안전한 투자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a sound investment"
+      ]
+    },
+    {
+      "phrase": "해외투자",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "foreign[overseas] investment"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "investment",
+      "frequency": 3
+    },
+    {
+      "meaning": "capitalization",
+      "frequency": 0
+    },
+    {
+      "meaning": "open-end(ed)",
+      "frequency": 0
+    },
+    {
+      "meaning": "investments",
+      "frequency": 0
+    },
+    {
+      "meaning": "habilitation",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "우버에 투자 안 해서 그런가? Is it because I didn't invest in Uber? 듣기 View video MONSTA X : LIVE : 그냥🐺",
+      "english": "Is it because I didn't invest in Uber?"
+    },
+    {
+      "korean": "그래서 약간 좀 투자를 해볼까 취미에... I want to invest in my hobby. 듣기 View video V COOKIE : [Full] LOVELYZ X LieV - 러블리즈의 눕방라이브!",
+      "english": "I want to invest in my hobby."
+    },
+    {
+      "korean": "[목돈은 분산투자가 원금 손실 없다는 점] 따로 나눠서 투자를 하시는 게... [To avoid loss of money] It's better to invest in multiple banks. 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울여자상업고등학교 ep6(홍현희X정세운X강율)",
+      "english": "[To avoid loss of money] It's better to invest in multiple banks."
+    },
+    {
+      "korean": "주식투자 동아리! Stock investment club! 듣기 View video Dingo Story / 딩고스토리 : 울학교 원탑 존잘러 선배가 말을 걸었다 [ 세상 잘 사는 지은씨2│EP.03 ]",
+      "english": "Stock investment club!"
+    },
+    {
+      "korean": "[얼마나 투자를 받았을까?] [How much investment?] View video Big Picture (빅픽처) : 빅픽처3 EP07_막장 PPL 해볼래?",
+      "english": "[How much investment?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "It would be hazardous to invest so much. 듣기 Add to Wordbook 그렇게 많이 투자를 하는 것은 위험할 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It would be hazardous to invest so much. Add to Wordbook"
+    },
+    {
+      "korean": "Their investments have appreciated over the years. 듣기 Add to Wordbook 세월이 흐르면서 그들이 한 투자의 가치가 올랐다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their investments have appreciated over the years. Add to Wordbook"
+    },
+    {
+      "korean": "Investors reacted positively to news of the takeover. 듣기 Add to Wordbook 투자자들은 그 인수 합병 소식에 긍정적인 반응을 보였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Investors reacted positively to news of the takeover. Add to Wordbook"
+    },
+    {
+      "korean": "The company is now reaping the rewards of their investments. 듣기 Add to Wordbook 그 기업은 이제 투자한 데 대한 보상을 거둬들이고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company is now reaping the rewards of their investments. Add to Wordbook"
+    },
+    {
+      "korean": "The company is steaming ahead with its investment programme. 듣기 Add to Wordbook 그 회사는 투자 프로그램을 빠르게 진척시켜 나가고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The company is steaming ahead with its investment programme. Add to Wordbook"
+    }
+  ]
+}

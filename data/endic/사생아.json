@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "사생아",
+      "hanja": " (私生兒)",
+      "example": {},
+      "meanings": [
+        "love child, illegitimate child"
+      ]
+    },
+    {
+      "phrase": "사생아 인지(認知)",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "bastardization",
+        "filiation"
+      ]
+    },
+    {
+      "phrase": "사생아를 인지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "recognize an illegitimate child (as one´s own)"
+      ]
+    },
+    {
+      "phrase": "사생아 출산",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an out-of-wedlock birth"
+      ]
+    },
+    {
+      "phrase": "사생아의 아버지를 확인하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "affiliate a child to a parent"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "bastard",
+      "frequency": 1
+    },
+    {
+      "meaning": "love child",
+      "frequency": 0
+    },
+    {
+      "meaning": "whoreson",
+      "frequency": 0
+    },
+    {
+      "meaning": "sideslip",
+      "frequency": 0
+    },
+    {
+      "meaning": "come-by-chance",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "a bachelor's baby 발음듣기 사생아. Friendict Level English-Korean Dictionary",
+      "english": "a bachelor's baby 발음"
+    },
+    {
+      "korean": "a natural child 발음듣기 사생아. Friendict Level English-Korean Dictionary",
+      "english": "a natural child 발음"
+    },
+    {
+      "korean": "She was a natural daughter of King James II. 발음듣기 그녀는 제임스 2세의 사생아였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was a natural daughter of King James II. 발음"
+    },
+    {
+      "korean": "The label \"illegitimate child\" followed him wherever he went. 발음듣기 사생아라는 꼬리표가 늘 그를 따라다녔다 Neungyule",
+      "english": "The label \"illegitimate child\" followed him wherever he went. 발음"
+    },
+    {
+      "korean": "The misbegotten child had no parents. 발음듣기 그 사생아에게는 부모가 없었다. Neungyule",
+      "english": "The misbegotten child had no parents. 발음"
+    }
+  ]
+}

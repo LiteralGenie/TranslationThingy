@@ -1,0 +1,61 @@
+{
+  "phrases": [
+    {
+      "phrase": "파동",
+      "hanja": " (波動)",
+      "example": {},
+      "meanings": [
+        "(음파·빛 등의) wave",
+        "(사회적으로 큰 영향을 미치는 사건) crisis, shock"
+      ]
+    },
+    {
+      "phrase": "키친파동",
+      "hanja": " (─波動)",
+      "example": {},
+      "meanings": [
+        "경제·경영 Kitchin cycles"
+      ]
+    },
+    {
+      "phrase": "쿠즈네츠파동",
+      "hanja": " (─波動)",
+      "example": {},
+      "meanings": [
+        "경제·경영 Kuznets cycles"
+      ]
+    },
+    {
+      "phrase": "콘드라티예프파동",
+      "hanja": " (─波動)",
+      "example": {},
+      "meanings": [
+        "경제·경영 Kondratiev cycles"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Russell rectifier",
+      "frequency": 0
+    },
+    {
+      "meaning": "probability cloud",
+      "frequency": 0
+    },
+    {
+      "meaning": "de Broglie equation",
+      "frequency": 0
+    },
+    {
+      "meaning": "popple 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "undular",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": []
+}

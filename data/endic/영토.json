@@ -1,0 +1,102 @@
+{
+  "phrases": [
+    {
+      "phrase": "영토",
+      "hanja": " (領土)",
+      "example": {},
+      "meanings": [
+        "territory, domain"
+      ]
+    },
+    {
+      "phrase": "영토 분쟁",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "territorial dispute"
+      ]
+    },
+    {
+      "phrase": "영토의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "territorial"
+      ]
+    },
+    {
+      "phrase": "영토 확장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "territorial expansion"
+      ]
+    },
+    {
+      "phrase": "영토의 반환",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the retrocession[restitution] of a territory"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "dominion",
+      "frequency": 3
+    },
+    {
+      "meaning": "territory",
+      "frequency": 3
+    },
+    {
+      "meaning": "domain",
+      "frequency": 3
+    },
+    {
+      "meaning": "imperium",
+      "frequency": 0
+    },
+    {
+      "meaning": "hetmanate",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "지옥철! - 영토라고 했나요? Full subway! - Did I say territory? 듣기 View video MONSTA X : [몬채널][B] EP35. 파이터(FIGHTER) COMEBACK WEEK",
+      "english": "Full subway! - Did I say territory?"
+    },
+    {
+      "korean": "영토요? 5km 이내의 영토? - 맞아요. 옛날에 지옥철이라고 그랬죠. Territory? Territory within 5 km? - Right. It'll be full subway, too. 듣기 View video MONSTA X : [몬채널][B] EP35. 파이터(FIGHTER) COMEBACK WEEK",
+      "english": "Territory? Territory within 5 km? - Right. It'll be full subway, too."
+    },
+    {
+      "korean": "영토? 굉장히 삼국지 같은 단어를... - 그러니까. 5km 이내의 영토? Territory? Are you playing a game now? - So, the territory within 5km? 듣기 View video MONSTA X : [몬채널][B] EP35. 파이터(FIGHTER) COMEBACK WEEK",
+      "english": "Territory? Are you playing a game now? - So, the territory within 5km?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to respect the territorial integrity of the nation 듣기 Add to Wordbook 국가의 영토 보전을 존중하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to respect the territorial integrity of the nation Add to Wordbook"
+    },
+    {
+      "korean": "The country was trying to expand territorially. 듣기 Add to Wordbook 그 국가는 영토를 확장하려고 하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The country was trying to expand territorially. Add to Wordbook"
+    },
+    {
+      "korean": "The Spice Islands were within the Spanish domains. 듣기 Add to Wordbook 스파이스 군도는 스페인 영토 내에 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Spice Islands were within the Spanish domains. Add to Wordbook"
+    },
+    {
+      "korean": "the vast dominions of the Chinese Empire 듣기 Add to Wordbook 중국 제국의 방대한 영토 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the vast dominions of the Chinese Empire Add to Wordbook"
+    },
+    {
+      "korean": "The war was carried into enemy territory. 듣기 Add to Wordbook 그 전쟁은 적의 영토로 이동되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The war was carried into enemy territory. Add to Wordbook"
+    }
+  ]
+}

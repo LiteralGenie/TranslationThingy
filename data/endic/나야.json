@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(주격) I, (소유격) my, (목적격) me, (소유대명사) mine, (재귀대명사) myself"
+      ]
+    },
+    {
+      "phrase": "나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition na (→이나)",
+        "Postposition na (→이나)",
+        "Postposition na (→이나)"
+      ]
+    },
+    {
+      "phrase": "-나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(앞뒷말의 대립적 연결) but, though",
+        "(선택) whether... or",
+        "(의문 어미)"
+      ]
+    },
+    {
+      "phrase": "-나",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -na",
+        "Ending -na"
+      ]
+    },
+    {
+      "phrase": "나 몰라라 하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "play dumb"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Hi, it's me!",
+      "frequency": 0
+    },
+    {
+      "meaning": "mine 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "mine",
+      "frequency": 3
+    },
+    {
+      "meaning": "my",
+      "frequency": 3
+    },
+    {
+      "meaning": "thirsty",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나야? Is it me? 듣기 View video 슈주 리턴즈 (SJ returns) : 슈주 리턴즈3 EP54- ‘Somebody New’ 스페셜 비디오 비하인드",
+      "english": "Is it me?"
+    },
+    {
+      "korean": "새가 왜 이렇게 낮게 날아? 너네 그러다 진짜 큰일 나. 야! Why are the birds flying so low? You will get into a trouble... Hey! 듣기 View video BLACKPINK : 잠시 들렸츄💋",
+      "english": "Why are the birds flying so low? You will get into a trouble... Hey!"
+    },
+    {
+      "korean": "야! 나라고! 나라고! 나라고! 야 나야! Hey! That's me, me! Hey! 듣기 View video Dingo Story / 딩고스토리 : 연하남과 단 둘이 밤을 새면 생기는 일_EP13 [라이크(LIKE)]",
+      "english": "Hey! That's me, me! Hey!"
+    },
+    {
+      "korean": "그렇게 다시 깊어지면 얘가 생각 나. '야, 우리 그때처럼 놀자' 가 되겠지. But if it picks up again, I could call him up to play like the old days. 듣기 View video 블랙콜TV (Blackcol TV) : 블랙콜 X 어멋들 시즌1 /EP01. 내기 여행 / 7화",
+      "english": "But if it picks up again, I could call him up to play like the old days."
+    },
+    {
+      "korean": "야! 이 구역의 미친X은 나야! Hey! I'm the crazy person in this area! 듣기 View video WHYNOT TV : 딴 여자가 내 앞에서 남친한테 뽀뽀함 [오피스워치 시즌2] EP08. 필요한 시간",
+      "english": "Hey! I'm the crazy person in this area!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Bob, it's me, pick up the phone. 듣기 Add to Wordbook 밥, 나야, 전화 받아. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 reese(erne****)",
+      "english": "Bob, it's me, pick up the phone. Add to Wordbook"
+    },
+    {
+      "korean": "Well, this time, it's me, though. 듣기 Add to Wordbook 음, 그렇지만, 이번에는 나야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 캄찍이소다(spec****)",
+      "english": "Well, this time, it's me, though. Add to Wordbook"
+    },
+    {
+      "korean": "It is me trying to soothe him. 듣기 Add to Wordbook 그를 달래주려는 사람이 바로 나야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 serendipity(kkes****)",
+      "english": "It is me trying to soothe him. Add to Wordbook"
+    },
+    {
+      "korean": "I'm the one that gets the raspberries. 듣기 Add to Wordbook 혹평당한 사람이 바로 나야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 테디 팝(imsa****)",
+      "english": "I'm the one that gets the raspberries. Add to Wordbook"
+    },
+    {
+      "korean": "You know, my problem is always me. 듣기 Add to Wordbook 알다시피, 내 문제는 항상 나야. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 reese(erne****)",
+      "english": "You know, my problem is always me. Add to Wordbook"
+    }
+  ]
+}

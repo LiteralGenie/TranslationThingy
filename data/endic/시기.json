@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "시기",
+      "hanja": " (猜忌)",
+      "example": {},
+      "meanings": [
+        "be envious of, jealousy, envy, be jealous of, envy"
+      ]
+    },
+    {
+      "phrase": "시기",
+      "hanja": " (時機)",
+      "example": {},
+      "meanings": [
+        "(기회) opportunity, chance; (때) time, moment"
+      ]
+    },
+    {
+      "phrase": "시기",
+      "hanja": " (時期)",
+      "example": {},
+      "meanings": [
+        "(한정된 기간) time"
+      ]
+    },
+    {
+      "phrase": "ciggy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 비격식 담배"
+      ]
+    },
+    {
+      "phrase": "cig ( ciggie, ciggy )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 구어 담배(cigarette, cigar)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "age",
+      "frequency": 2
+    },
+    {
+      "meaning": "period",
+      "frequency": 2
+    },
+    {
+      "meaning": "date",
+      "frequency": 2
+    },
+    {
+      "meaning": "chapter",
+      "frequency": 2
+    },
+    {
+      "meaning": "day",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그 시기... At that time... 듣기 View video (G)I-DLE : 네버버 ♡",
+      "english": "At that time..."
+    },
+    {
+      "korean": "좀 시기가... There is timing... 듣기 View video TWICE : 나모사",
+      "english": "There is timing..."
+    },
+    {
+      "korean": "그 시기에 그... During that time... 듣기 View video (G)I-DLE : 네버버 ♡",
+      "english": "During that time..."
+    },
+    {
+      "korean": "[한창 힘들 시기] 근데 잘 생겼어요? Is he handsome? 듣기 View video Hyomstore : ep.17 횸스토어 MD들의 숨겨진 능력 대방출!",
+      "english": "Is he handsome?"
+    },
+    {
+      "korean": "초등학교... - 시기가... In elementary school... - The timing... 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "In elementary school... - The timing..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "one of the most prolific periods in her career 발음듣기 그녀의 경력에서 가장 다작하던 시기 중 하나 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of the most prolific periods in her career 발음"
+    },
+    {
+      "korean": "The industry is coeval with the construction of the first railways. 발음듣기 그 산업은 첫 철도 건설과 같은 시기에 시작되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The industry is coeval with the construction of the first railways. 발음"
+    },
+    {
+      "korean": "There is disagreement among archaeologists as to the age of the sculpture. 발음듣기 그 조각품의 제작 시기에 대해 고고학자들 사이에 의견 차이가 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There is disagreement among archaeologists as to the age of the sculpture. 발음"
+    },
+    {
+      "korean": "The horse completely mistimed the jump and threw its rider. 발음듣기 그 말이 점프 시기를 완전히 잘못 맞추는 바람에 기수를 떨어뜨렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The horse completely mistimed the jump and threw its rider. 발음"
+    },
+    {
+      "korean": "a glorious page of Arab history 발음듣기 아랍 역사에서 영광스러운 한 시기 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a glorious page of Arab history 발음"
+    }
+  ]
+}

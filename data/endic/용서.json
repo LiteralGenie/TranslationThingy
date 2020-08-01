@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "용서",
+      "hanja": " (容恕)",
+      "example": {},
+      "meanings": [
+        "[명사] forgiveness, pardon, mercy, [동사] forgive, excuse, pardon"
+      ]
+    },
+    {
+      "phrase": "용서 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "relentlessly",
+        "mercilessly"
+      ]
+    },
+    {
+      "phrase": "용서를 빌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "beg[ask, plead] for sb's mercy[forgiveness]",
+        "ask[beg] sb's pardon (for)"
+      ]
+    },
+    {
+      "phrase": "용서를 구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask[seek] sb's pardon[forgiveness] (for)",
+        "beg for forgiveness"
+      ]
+    },
+    {
+      "phrase": "용서할 수 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unforgivable",
+        "unpardonable",
+        "inexcusable"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pardon",
+      "frequency": 3
+    },
+    {
+      "meaning": "forgiveness",
+      "frequency": 0
+    },
+    {
+      "meaning": "absolution",
+      "frequency": 0
+    },
+    {
+      "meaning": "condonation",
+      "frequency": 0
+    },
+    {
+      "meaning": "forgive",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "맞아요 쌤... 용서해주실 거죠?",
+      "english": "Right teacher... You will forgive us right?"
+    },
+    {
+      "korean": "그를 용서한 건 잘한 일이야 - 마리!",
+      "english": "You did a great job when you forgave him. - Marie!"
+    },
+    {
+      "korean": "내가 너에게 용서를 구한다 - 너 왜 몽쉘 두 박스 안 사 오냐?",
+      "english": "I beg for your forgiveness. - Why didn't you buy two boxes of it?"
+    },
+    {
+      "korean": "4주년이니까 참아야지 - 모든게 다 오늘은 용서가 되나요?",
+      "english": "Hold it in since it's our 4th anniversary. - Then everything's forgivable today?"
+    },
+    {
+      "korean": "[청재킷... 용서하지 않겠어...]",
+      "english": "[Jacket... Can't forgive you...]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "그는 연령 때문에 용서[면제]를 받았다.",
+      "english": "He was excused by reason of his age."
+    },
+    {
+      "korean": "그는 자신이 한 짓에 대해 용서를 구했다.",
+      "english": "He begged forgiveness for what he had done."
+    },
+    {
+      "korean": "그녀는 신도들에게 용서에 대해 설교했다.",
+      "english": "She preached to the congregation about forgiveness."
+    },
+    {
+      "korean": "그는 그녀에게 그녀를 속인 것에 대해 용서를 구했다.",
+      "english": "He asked her pardon for having deceived her."
+    },
+    {
+      "korean": "상황으로 보아 그의 무례는 용서할 수 있는 것이었다.",
+      "english": "His rudeness was forgivable in the circumstances."
+    }
+  ]
+}

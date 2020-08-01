@@ -1,0 +1,85 @@
+{
+  "phrases": [
+    {
+      "phrase": "교범",
+      "hanja": " (敎範)",
+      "example": {},
+      "meanings": [
+        "(군사) a model for teaching, a textbook, an exemplary text, a teacher's handbook, a drill book[manual]"
+      ]
+    },
+    {
+      "phrase": "야전 교범",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a field manual"
+      ]
+    },
+    {
+      "phrase": "기술 교범",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a technical manual"
+      ]
+    },
+    {
+      "phrase": "야전교범",
+      "hanja": " (野戰敎範)",
+      "example": {},
+      "meanings": [
+        "군사 field manual (FM)"
+      ]
+    },
+    {
+      "phrase": "교범관리",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 manual management"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "drill book",
+      "frequency": 0
+    },
+    {
+      "meaning": "해상전발간물",
+      "frequency": 0
+    },
+    {
+      "meaning": "field manual",
+      "frequency": 0
+    },
+    {
+      "meaning": "maintenance manual",
+      "frequency": 0
+    },
+    {
+      "meaning": "TM",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Refer to the TM for details. 발음듣기 자세한 사항은 기술 교범을 참고하십시오. 국제영어대학원대학교 신어사전",
+      "english": "Refer to the TM for details. 발음"
+    },
+    {
+      "korean": "the manual of the rifle 발음듣기 소총 교범. Friendict Level English-Korean Dictionary",
+      "english": "the manual of the rifle 발음"
+    },
+    {
+      "korean": "We are refreshing the whole manual. 발음듣기 우리는 전체 교범을 다시 만들고 있습니다. User translation Inaccurate information may be included due to the users' self-traslation. green583(gree****) Hansard",
+      "english": "We are refreshing the whole manual. 발음"
+    },
+    {
+      "korean": "Government employees must follow the Army Field Manual guidelines prohibiting torture. 발음듣기 공무원들은 고문을 금지한 군대 야전교범 지침을 준수해야 한다. User translation Inaccurate information may be included due to the users' self-traslation. ije82z(ije8****) Web Collection",
+      "english": "Government employees must follow the Army Field Manual guidelines prohibiting torture. 발음"
+    }
+  ]
+}

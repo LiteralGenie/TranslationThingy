@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "인정하다",
+      "hanja": " (認定하다)",
+      "example": {},
+      "meanings": [
+        "Verb recognize, concede"
+      ]
+    },
+    {
+      "phrase": "인정",
+      "hanja": " (認定)",
+      "example": {},
+      "meanings": [
+        "[명사] acknowledgment; (인식) recognition; (시인) approval, [동사] admit, acknowledge, accept; (시인하다) concede; (좋게 평가하다) recognize"
+      ]
+    },
+    {
+      "phrase": "인정",
+      "hanja": " (人情)",
+      "example": {},
+      "meanings": [
+        "(동정심) compassion, empathy; (연민) pity, sympathy; (자비심) (formal) benevolence, mercy; (친절) kindness"
+      ]
+    },
+    {
+      "phrase": "인정이 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be humane",
+        "be kind",
+        "be sympathetic"
+      ]
+    },
+    {
+      "phrase": "인정사정없다",
+      "hanja": " (人情事情없다)",
+      "example": {},
+      "meanings": []
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "acknowledge",
+      "frequency": 2
+    },
+    {
+      "meaning": "admit",
+      "frequency": 2
+    },
+    {
+      "meaning": "concede",
+      "frequency": 1
+    },
+    {
+      "meaning": "인식",
+      "frequency": 0
+    },
+    {
+      "meaning": "approval",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[인정할 건 인정] 근데 확실히 엄청 풍성해졌죠? But it got very abundant? 듣기 View video Hyomstore : ep.16 바쁘다 바빠 효민본부장! 달려라 달려 횸스토어 MD들!",
+      "english": "But it got very abundant?"
+    },
+    {
+      "korean": "'아 빵이 인정한 거?' 나 빵이 인정할 생각 없었는데? \"Oh! You acknowledged yourself as Bbang?\" I had no thoughts to acknowledge myself. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "\"Oh! You acknowledged yourself as Bbang?\" I had no thoughts to acknowledge myself."
+    },
+    {
+      "korean": "인정할 수 없어! I can't agree! 듣기 View video V PICK! : [BDC] 베이커리 아니고 !올림포스! 울 비디씨 말랑깜찍의 신으로 모셧..🏛🎂 (BDC decorating their cakes)",
+      "english": "I can't agree!"
+    },
+    {
+      "korean": "그 황금 같은 멘트가 8위라니 말도 안돼! 인정할 수 없어! My golden confession was 8th!! Doesn't make sense! I can't accept it. 듣기 View video 우주소녀(WJSN) : [엑시] 나 보고싶었지?",
+      "english": "My golden confession was 8th!! Doesn't make sense! I can't accept it."
+    },
+    {
+      "korean": "[둘 다 이름만 과일인 것들 아닌가요?] [서로를 인정 할 수 없는 대전즈] 솔직히 어떻게 과일에 이런 게 납니까? Let's be honest. How can a fruit be like this? 듣기 View video AB6IX : AB6IX (에이비식스) 추석 과일 만들기(로 시작했는데...)",
+      "english": "Let's be honest. How can a fruit be like this?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Few people will admit to being racially prejudiced. 발음듣기 인종 편견이 있다고 인정할 사람은 거의 없다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Few people will admit to being racially prejudiced. 발음"
+    },
+    {
+      "korean": "Counsel for the defence submitted that the evidence was inadmissible. 발음듣기 피고측 변호사가 그 증거는 인정할 수 없다고 말했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Counsel for the defence submitted that the evidence was inadmissible. 발음"
+    },
+    {
+      "korean": "Injury forced Hicks to concede defeat. 발음듣기 힉스는 부상으로 패배를 인정할 수밖에 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Injury forced Hicks to concede defeat. 발음"
+    },
+    {
+      "korean": "He is hardly likely to admit he was wrong. 발음듣기 그가 자신이 틀렸음을 전혀 인정할 것 같지가 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He is hardly likely to admit he was wrong. 발음"
+    },
+    {
+      "korean": "I couldn’t admit to my parents that I was finding the course difficult. 발음듣기 나는 부모님께 그 과정이 힘들다고 인정할 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I couldn’t admit to my parents that I was finding the course difficult. 발음"
+    }
+  ]
+}

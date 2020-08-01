@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "허락",
+      "hanja": " (許諾)",
+      "example": {},
+      "meanings": [
+        "[명사] permission, consent, approval, (formal) assent, [동사] permit, consent (to), allow, let, approve, (formal) assent"
+      ]
+    },
+    {
+      "phrase": "허락 없이",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "without permission[leave]"
+      ]
+    },
+    {
+      "phrase": "허락을 얻다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "get[obtain, receive] permission"
+      ]
+    },
+    {
+      "phrase": "허락을 구하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ask[request, seek] sb's permission"
+      ]
+    },
+    {
+      "phrase": "허락을 받아",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "with permission"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "OK",
+      "frequency": 2
+    },
+    {
+      "meaning": "permission",
+      "frequency": 2
+    },
+    {
+      "meaning": "consent",
+      "frequency": 2
+    },
+    {
+      "meaning": "yes",
+      "frequency": 2
+    },
+    {
+      "meaning": "clearance",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[아니 도대체 허락도 안 받고 어디로 간 거지 시간은?] [Why did the time fly like an arrow without permission?] View video V PICK! : [NCT] 작심1초: 단 1초만에 심장을 작살낸다는 뜻😇💚 (JAEMIN's lovely moments)",
+      "english": "[Why did the time fly like an arrow without permission?]"
+    },
+    {
+      "korean": "[나 우승자 전정국, 카트 바꾸기를 허락하겠노라] - 다들 정비하고 와 - 정비하고 오라고? [I, winner Jung Kook, allow you to change the kart] - Go and repair. - Repair? 듣기 View video BTS : Run BTS! 2020 - EP.107",
+      "english": "[I, winner Jung Kook, allow you to change the kart] - Go and repair. - Repair?"
+    },
+    {
+      "korean": "[생얼 허락을 왜 답장이 아니라 V LIVE로 받냐구요] 천러야 안경 끼고 계속해도 되지? [Why do you ask through V LIVE not by messaging?] Can I continue without my makeup, CHENLE? 듣기 View video V PICK! : [NCT] 🎉경축🎉마크 쫄티 데뷔!! 사랑아 쫄티해 꽃길만 걷자💚 (MARK showing his tight shirt)",
+      "english": "[Why do you ask through V LIVE not by messaging?] Can I continue without my makeup, CHENLE?"
+    },
+    {
+      "korean": "허락해주실 거죠? Please let me! 듣기 View video WINNER : How to 멋 2",
+      "english": "Please let me!"
+    },
+    {
+      "korean": "저 친구가 허락을 해줄까? Will he say it's okay? 듣기 View video BTS : Run BTS! 2020 - EP.105",
+      "english": "Will he say it's okay?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She begged that she be allowed to go. 발음듣기 그녀는 가도록 허락해 달라고 간청했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She begged that she be allowed to go. 발음"
+    },
+    {
+      "korean": "She begged that she should be allowed to go. 발음듣기 그녀는 가도록 허락해 달라고 간청했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She begged that she should be allowed to go. 발음"
+    },
+    {
+      "korean": "He reluctantly consented to his daughter’s marriage. 발음듣기 그는 딸의 결혼을 마지못해 허락했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He reluctantly consented to his daughter’s marriage. 발음"
+    },
+    {
+      "korean": "He was allowed to go home on compassionate grounds. 발음듣기 (집안에 상을 당했거나 할 경우) 그는 특별 배려로 허락을 받아 집으로 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was allowed to go home on compassionate grounds. 발음"
+    },
+    {
+      "korean": "The next hurdle will be getting her parents’ agreement. 발음듣기 그 다음 난관은 그녀 부모님의 허락을 얻는 것이 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The next hurdle will be getting her parents’ agreement. 발음"
+    }
+  ]
+}

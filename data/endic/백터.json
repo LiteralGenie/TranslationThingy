@@ -1,0 +1,65 @@
+{
+  "phrases": [
+    {
+      "phrase": "변위백터",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "전력 vector"
+      ]
+    },
+    {
+      "phrase": "학습 백터 양자화",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "learning vector quantizing"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "achromobacter",
+      "frequency": 0
+    },
+    {
+      "meaning": "azotobacter",
+      "frequency": 0
+    },
+    {
+      "meaning": "bra vestor",
+      "frequency": 0
+    },
+    {
+      "meaning": "reference vector",
+      "frequency": 0
+    },
+    {
+      "meaning": "Error Vector",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Vactor loves to listen to rap music. 듣기 Add to Wordbook 백터는 랩 음악을 듣는 것을 무척 좋아한다. Neungyule",
+      "english": "Vactor loves to listen to rap music. Add to Wordbook"
+    },
+    {
+      "korean": "Vactor agreed to the alternative. 듣기 Add to Wordbook 백터는 이 대안에 동의했다. Neungyule",
+      "english": "Vactor agreed to the alternative. Add to Wordbook"
+    },
+    {
+      "korean": "Then, Vactor had to go to court. 듣기 Add to Wordbook 그 후, 백터는 법정까지 가야 했다. Neungyule",
+      "english": "Then, Vactor had to go to court. Add to Wordbook"
+    },
+    {
+      "korean": "Vactor was then stopped by a policeman. 듣기 Add to Wordbook 그 때 경찰이 백터를 멈춰 세웠다. Neungyule",
+      "english": "Vactor was then stopped by a policeman. Add to Wordbook"
+    },
+    {
+      "korean": "The judge fined Vactor $150 for his rap music. 듣기 Add to Wordbook 판사는 랩 음악 때문에 백터에게 150달러의 벌금을 물게 했다. Neungyule",
+      "english": "The judge fined Vactor $150 for his rap music. Add to Wordbook"
+    }
+  ]
+}

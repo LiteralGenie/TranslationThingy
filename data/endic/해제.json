@@ -1,0 +1,116 @@
+{
+  "phrases": [
+    {
+      "phrase": "해제",
+      "hanja": " (解除)",
+      "example": {},
+      "meanings": [
+        "(경보·법령 등을) [동사] lift, clear",
+        "(무장·장비 등을)",
+        "(직위 등을)"
+      ]
+    },
+    {
+      "phrase": "무장 해제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "disarming",
+        "disarmament",
+        "demilitarization"
+      ]
+    },
+    {
+      "phrase": "계약 해제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "revocation[rescission, cancellation] of a contract"
+      ]
+    },
+    {
+      "phrase": "금령을 해제하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lift[remove] the ban",
+        "lift[remove] an embargo",
+        "remove the prohibition"
+      ]
+    },
+    {
+      "phrase": "구속 해제",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "removal of restrictions"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "quittance",
+      "frequency": 0
+    },
+    {
+      "meaning": "disbandment",
+      "frequency": 0
+    },
+    {
+      "meaning": "cancel release",
+      "frequency": 0
+    },
+    {
+      "meaning": "disarm",
+      "frequency": 3
+    },
+    {
+      "meaning": "all-clear",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[포커페이스 해제!] [Unlocking his poker face!] View video GOT7 : GOT7(갓세븐) OFFLINE #3",
+      "english": "[Unlocking his poker face!]"
+    },
+    {
+      "korean": "엑조디아 5개 - 엑조디아도 다 있었어 - 봉인해제 했어? I had 5 \"Exodia\". - I had \"Exodia\". - Did you unlock it? 듣기 View video Stray Kids : 막내의 사생활 23 (생일 기념❤)🦊",
+      "english": "I had 5 \"Exodia\". - I had \"Exodia\". - Did you unlock it?"
+    },
+    {
+      "korean": "해제가 안되지? Why doesn't it go away?? 듣기 View video IU : [IU TV] 아이유 분노의 포토샵!",
+      "english": "Why doesn't it go away??"
+    },
+    {
+      "korean": "[형준이 생일 날엔] 그날은 이제 무장해제 하는 날이야? [On Hyeong Jun's birthday] Is it like your cheating day? 듣기 View video X1 : [ARCHIVE X] EP.3 X1 'FLASH' MV SHOOTING DAY 1",
+      "english": "[On Hyeong Jun's birthday] Is it like your cheating day?"
+    },
+    {
+      "korean": "[CHAP 4] [세상이 아름다울 정도로 순수하고 밝게 생겨서 보기만 해도 무장해제!] [CHAP 4] [He looks so pure and bright that makes the whole world looks beautiful!] View video V PICK! : [V PICK! 1분 입덕가이드] 스트레이 키즈 아이엔 편 (1min-Helpful Guide to Stray Kids I.N)",
+      "english": "[CHAP 4] [He looks so pure and bright that makes the whole world looks beautiful!]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Most of the rebels were captured and disarmed. 듣기 Add to Wordbook 대부분의 반군들이 체포되어 무장 해제 당했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Most of the rebels were captured and disarmed. Add to Wordbook"
+    },
+    {
+      "korean": "Remember to put your clocks forward tonight. 듣기 Add to Wordbook 오늘 밤에 잊지 마시고 시계 바늘을 앞당겨 맞추세요. (서머타임 해제 때) Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Remember to put your clocks forward tonight. Add to Wordbook"
+    },
+    {
+      "korean": "to impose/lift a ban 듣기 Add to Wordbook 금지령을 내리다/해제하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to impose/lift a ban Add to Wordbook"
+    },
+    {
+      "korean": "Martial law has now been lifted. 듣기 Add to Wordbook 이제는 계엄령이 해제되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Martial law has now been lifted. Add to Wordbook"
+    },
+    {
+      "korean": "to lift a ban/curfew/blockade 듣기 Add to Wordbook 금지/통행금지/봉쇄를 풀다[해제하다] Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to lift a ban/curfew/blockade Add to Wordbook"
+    }
+  ]
+}

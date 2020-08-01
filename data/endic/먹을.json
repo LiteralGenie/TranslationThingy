@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(음식을) eat, have, (formal) consume, (약 등을) take, (빨리) devour",
+        "take, (뇌물·이익 등을) get",
+        "(나이를) get older, grow older"
+      ]
+    },
+    {
+      "phrase": "먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Verb be deaf (→처먹다)"
+      ]
+    },
+    {
+      "phrase": "먹다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb meokda"
+      ]
+    },
+    {
+      "phrase": "먹을 때는 개도 때리지 않는다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You should not beat a dog while it is eating"
+      ]
+    },
+    {
+      "phrase": "먹을 수 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be edible",
+        "be eatable",
+        "be good to eat"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "edible",
+      "frequency": 3
+    },
+    {
+      "meaning": "comestible",
+      "frequency": 0
+    },
+    {
+      "meaning": "inedible",
+      "frequency": 0
+    },
+    {
+      "meaning": "eatable",
+      "frequency": 0
+    },
+    {
+      "meaning": "root 2",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "뭐 먹을 거냐고요?",
+      "english": "What am I going to eat?"
+    },
+    {
+      "korean": "또 먹을 거야?",
+      "english": "Are you going to eat it again?"
+    },
+    {
+      "korean": "간식 먹을 사람~ 에비뉴 손!",
+      "english": "Who wants a snack? ABNEW, hand!"
+    },
+    {
+      "korean": "버섯 먹을 때 무슨 생각해요?",
+      "english": "What do you think when you eat mushrooms?"
+    },
+    {
+      "korean": "'맥주 먹을 때 보통 안주는?'",
+      "english": "\"When drinking beer, what do you have as a side dish?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "우리 사회의 먹을 것 없고 지낼 곳 없는 사람들",
+      "english": "the waifs and strays of our society"
+    },
+    {
+      "korean": "우리는 두 나무 사이에 해먹을 쳤다[매달았다].",
+      "english": "We slung a hammock between two trees."
+    },
+    {
+      "korean": "살을 빼려고 할 때에라도 아침은 먹을 수 있다.",
+      "english": "You can still eat breakfast when you are slimming."
+    },
+    {
+      "korean": "그 단체에서 지진 피해자들에게 먹을 것을 나눠 주었다.",
+      "english": "The organization distributed food to the earthquake victims."
+    },
+    {
+      "korean": "개와 여우들이 먹을 것을 찾아 쓰레기통들을 뒤졌다.",
+      "english": "Dogs and foxes scavenged through the trash cans for something to eat."
+    }
+  ]
+}

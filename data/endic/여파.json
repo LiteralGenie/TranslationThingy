@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "여파",
+      "hanja": " (餘波)",
+      "example": {},
+      "meanings": [
+        "aftermath, aftereffect"
+      ]
+    },
+    {
+      "phrase": "전쟁의 여파",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the aftermath of the war"
+      ]
+    },
+    {
+      "phrase": "경제 공황의 여파",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a secondary effect[an aftermath] of an economic panic"
+      ]
+    },
+    {
+      "phrase": "여파기용",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for wave filter"
+      ]
+    },
+    {
+      "phrase": "여파 특성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "filter characteristic"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "spillover",
+      "frequency": 0
+    },
+    {
+      "meaning": "aftermath",
+      "frequency": 0
+    },
+    {
+      "meaning": "after-effect",
+      "frequency": 0
+    },
+    {
+      "meaning": "backwash",
+      "frequency": 0
+    },
+    {
+      "meaning": "ground swell",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[스포의 여파] 심장 떨려. [Aftermath of spoiler] My heart is beating fast. 듣기 View video V PICK! : [NU'EST] 얼떨결에 스포왕이 된 동호(쭈굴) (BAEKHO giving spoiler which he didn’t mean to)",
+      "english": "[Aftermath of spoiler] My heart is beating fast."
+    },
+    {
+      "korean": "'도깨비' 아 근데 그거는 그 여파를 봐선 헤어나올 수 없을 것 같아. \"The Guardian\"... I feel like the aftermath of that will be difficult to handle. 듣기 View video GFRIEND : 차 한잔..더?🍵😚",
+      "english": "\"The Guardian\"... I feel like the aftermath of that will be difficult to handle."
+    },
+    {
+      "korean": "이제 끝났으니까 좀 울어야겠다... - 난 진짜 여파가 좀 오래갈 것 같아... Now that it's over, I think I should go cry. - This is going to effect me for some time. 듣기 View video 모비딕(Mobidic) : <쎈마이웨이> 반려동물이 떠났어요",
+      "english": "Now that it's over, I think I should go cry. - This is going to effect me for some time."
+    },
+    {
+      "korean": "여파가 있네요. -몸이 안 좋았어. It's because of that. - I wasn't feeling good. 듣기 View video Show! Music core : 쇼! 음악중심 '5분 딜레이~' Show! Music core",
+      "english": "It's because of that. - I wasn't feeling good."
+    },
+    {
+      "korean": "어제 지진의 여파가 지금도 있는것같아. I think it's because of yesterday's earthquake. 듣기 View video IDOL x IDOL : BLOOMY - 블루미 '여사친들의 험난한 운동'",
+      "english": "I think it's because of yesterday's earthquake."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the assassination of the Prime Minister and its immediate aftermath 듣기 Add to Wordbook 수상 암살과 그것의 즉각적인 여파 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the assassination of the Prime Minister and its immediate aftermath Add to Wordbook"
+    },
+    {
+      "korean": "A lot of rebuilding took place in the aftermath of the war. 듣기 Add to Wordbook 전쟁의 여파로 많은 재건축이 실시되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "A lot of rebuilding took place in the aftermath of the war. Add to Wordbook"
+    },
+    {
+      "korean": "The murder sent shock waves through the whole community. 듣기 Add to Wordbook 그 살인 사건은 지역 사회 전체에 충격적인 여파를 남겼다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The murder sent shock waves through the whole community. Add to Wordbook"
+    },
+    {
+      "korean": "The New York Times covered the aftermath of the tsunami. 듣기 Add to Wordbook 뉴욕타임스가 지진해일의 여파를 취재했다. YBM All in All English-Korean Dictionary",
+      "english": "The New York Times covered the aftermath of the tsunami. Add to Wordbook"
+    },
+    {
+      "korean": "Following the resignation of the vice-president, the company fell into disarray. 듣기 Add to Wordbook 부사장의 사임 여파로 회사는 혼란에 빠졌다. YBM All in All English-Korean Dictionary",
+      "english": "Following the resignation of the vice-president, the company fell into disarray. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "생존율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "survival rate"
+      ]
+    },
+    {
+      "phrase": "5년생존율",
+      "hanja": " (五年生存率)",
+      "example": {},
+      "meanings": [
+        "의학 five-year survival rate"
+      ]
+    },
+    {
+      "phrase": "누적생존율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 cumulative survival rate"
+      ]
+    },
+    {
+      "phrase": "상대생존율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 relative survival rate"
+      ]
+    },
+    {
+      "phrase": "보통생존율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 crude survival rate"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "livability",
+      "frequency": 0
+    },
+    {
+      "meaning": "survival rate",
+      "frequency": 0
+    },
+    {
+      "meaning": "survival ratio",
+      "frequency": 0
+    },
+    {
+      "meaning": "surviving rate",
+      "frequency": 0
+    },
+    {
+      "meaning": "survival curve",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "생존율이 굉장히 높아진다죠. the survival rate of the babies increases. 듣기 View video Park Si Hwan : 박시험방송입니다.아 아🎤",
+      "english": "the survival rate of the babies increases."
+    },
+    {
+      "korean": "그것처럼 새끼 생존율이 낮아요. The survival rate of alley cats are really low. 듣기 View video V Animal Family : [해피빈펀딩] 배다해와 알아보는 길고양이와 함께 살아가는 법 #BaeDaHae #HappyBean #Cat",
+      "english": "The survival rate of alley cats are really low."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Maternal age affects the baby’s survival rate. 발음듣기 산모의 나이가 아기의 생존율에 영향을 미친다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Maternal age affects the baby’s survival rate. 발음"
+    },
+    {
+      "korean": "The treatment increased progression-free survival but didn't decrease the patient's pain. 발음듣기 치료가 무진행 생존율은 높였지만, 환자의 고통을 줄이지는 못했다. 국제영어대학원대학교 신어사전",
+      "english": "The treatment increased progression-free survival but didn't decrease the patient's pain. 발음"
+    },
+    {
+      "korean": "The survival rate is about 90% if the cancer has spread to the lymph nodes in the abdomen. 발음듣기 암이 복부의 림프절까지 전이될 경우 생존율은 약 90%입니다. YBM All in All English-Korean Dictionary",
+      "english": "The survival rate is about 90% if the cancer has spread to the lymph nodes in the abdomen. 발음"
+    },
+    {
+      "korean": "Armstrong's life changed significantly when he was 25. 발음듣기 그는 고환암 진단을 받았고 의사들은 그의 생존율이 높지 않다고 말했다. Neungyule",
+      "english": "Armstrong's life changed significantly when he was 25. 발음"
+    },
+    {
+      "korean": "Due to the development in medical technology, the survival rate of premature babies has risen significantly. 발음듣기 의료 기술의 발달로 미숙아들의 생존율이 크게 높아졌다 Neungyule",
+      "english": "Due to the development in medical technology, the survival rate of premature babies has risen significantly. 발음"
+    }
+  ]
+}

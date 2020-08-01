@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "앉다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(사람·동물 등이) sit (down), take[have] a seat, (formal) seat (oneself)",
+        "(새·곤충 등이) settle on, perch on, sit on",
+        "(어떠한 지위에) take[assume] office (as)"
+      ]
+    },
+    {
+      "phrase": "앉아(서) 배기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remain seated and withstand something"
+      ]
+    },
+    {
+      "phrase": "앉아(서) 기다리다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "sit idly by and wait"
+      ]
+    },
+    {
+      "phrase": "멍하니 앉아 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be sitting absent-mindedly"
+      ]
+    },
+    {
+      "phrase": "거기 앉아요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Park yourself there."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "down 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "hup",
+      "frequency": 0
+    },
+    {
+      "meaning": "sit",
+      "frequency": 2
+    },
+    {
+      "meaning": "perch",
+      "frequency": 1
+    },
+    {
+      "meaning": "perched",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "앉아... Then I'll have a seat... 듣기 View video V DRAMA : [Replay]완벽한 아내 X 앞터V(Ms.Perfect X Early Interview)",
+      "english": "Then I'll have a seat..."
+    },
+    {
+      "korean": "왜 그 위에 앉아? - 뭐 해요 부? Why did you sit on that? - What are you doing, Boo? 듣기 View video TWICE : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "english": "Why did you sit on that? - What are you doing, Boo?"
+    },
+    {
+      "korean": "무슈 앉아! 앉아! Sit down, Mushu! 듣기 View video EXO : 다 들어와",
+      "english": "Sit down, Mushu!"
+    },
+    {
+      "korean": "아기 - 앉아! Baby. - Sit down! 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "Baby. - Sit down!"
+    },
+    {
+      "korean": "[으음~] - 아기 - 앉아! [Mmm] - Baby. - Sit! 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "[Mmm] - Baby. - Sit!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Lucy was sitting on the sofa, knitting. 발음듣기 루시는 소파에 앉아 뜨개질을 하고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Lucy was sitting on the sofa, knitting. 발음"
+    },
+    {
+      "korean": "We sat basking in the warm sunshine. 발음듣기 우리는 따스한 햇볕을 쪼이며 앉아 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We sat basking in the warm sunshine. 발음"
+    },
+    {
+      "korean": "He sat at the table stuffing himself. 발음듣기 그는 식탁에 앉아 음식을 잔뜩 먹고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He sat at the table stuffing himself. 발음"
+    },
+    {
+      "korean": "He sat nodding in front of the fire. 발음듣기 그는 난로 앞에 앉아 꾸벅꾸벅 졸고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He sat nodding in front of the fire. 발음"
+    },
+    {
+      "korean": "She rocked backwards and forwards on her chair. 발음듣기 그녀는 (흔들)의자에 앉아 앞뒤로 흔들흔들 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She rocked backwards and forwards on her chair. 발음"
+    }
+  ]
+}

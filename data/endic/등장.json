@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "등장",
+      "hanja": " (登場)",
+      "example": {},
+      "meanings": [
+        "(무대 등에) [명사] appearance, [동사] appear, make an appearance, come on",
+        "(소설·영화 등에) [명사] appearance, [동사] appear",
+        "(새로운 인물·현상 등이) [명사] appearance, [동사] appear (=출현)"
+      ]
+    },
+    {
+      "phrase": "등장(성)",
+      "hanja": " (等張(性))",
+      "example": {},
+      "meanings": [
+        "의학 isotonia"
+      ]
+    },
+    {
+      "phrase": "등장인물",
+      "hanja": " (登場人物)",
+      "example": {},
+      "meanings": [
+        "character, (연극의) dramatis personae"
+      ]
+    },
+    {
+      "phrase": "신제품의 등장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the appearance[introduction, debut] of a new product"
+      ]
+    },
+    {
+      "phrase": "신무기의 등장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the advent of new weapons"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "entrance 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "appearance",
+      "frequency": 2
+    },
+    {
+      "meaning": "entry",
+      "frequency": 2
+    },
+    {
+      "meaning": "isotonicity",
+      "frequency": 0
+    },
+    {
+      "meaning": "isotonia",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "깜짝 등장할래? Do you want to be on it? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "Do you want to be on it?"
+    },
+    {
+      "korean": "진짜? - 깜짝 등장할래? Really? - Do you want to join us? 듣기 View video SEVENTEEN : 갑 겸 브",
+      "english": "Really? - Do you want to join us?"
+    },
+    {
+      "korean": "[팬싸 소품 화환 등장] 우진 씨, 뭐 쓸래요? [Item from a fan signing event] WOOJIN, what will you use? 듣기 View video V PICK! : [AB6IX] 답을 줘가 벌써 막방일 리가 없썽.. 시간 돌려줭..😭😭 (AB6IX’s V after last performance for ‘THE ANSWER’)",
+      "english": "[Item from a fan signing event] WOOJIN, what will you use?"
+    },
+    {
+      "korean": "[새로운 음식 등장] 맛있어? [New food appears] Is it good? 듣기 View video TWICE : TWICE TV “MORE & MORE” Comeback Week #2",
+      "english": "[New food appears] Is it good?"
+    },
+    {
+      "korean": "저희가 배경에 등장하는 건가요? Is that us in the background? 듣기 View video NCT : 나른쟌",
+      "english": "Is that us in the background?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She was applauded as she came on stage. 발음듣기 그녀는 무대에 등장하면서 박수를 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She was applauded as she came on stage. 발음"
+    },
+    {
+      "korean": "The arrival of canals was of great value to many industries. 발음듣기 운하의 등장은 많은 산업들에 대단히 유용했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The arrival of canals was of great value to many industries. 발음"
+    },
+    {
+      "korean": "In the theatre we willingly suspend disbelief. 발음듣기 극장에서는 우리가 기꺼이 불신을 유예한다(등장인물 등이 현실적이라고 믿는다). Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "In the theatre we willingly suspend disbelief. 발음"
+    },
+    {
+      "korean": "The novel was criticized for its two-dimensional characters. 발음듣기 그 소설은 2차원적인[입체적이지 못한] 등장인물들 때문에 비판을 받았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The novel was criticized for its two-dimensional characters. 발음"
+    },
+    {
+      "korean": "The hero makes his entrance in Scene 2. 발음듣기 남자 주인공은 2장에 등장한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hero makes his entrance in Scene 2. 발음"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "금액",
+      "hanja": " (金額)",
+      "example": {},
+      "meanings": [
+        "sum[amount] (of money)"
+      ]
+    },
+    {
+      "phrase": "상당한 금액",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a good sum",
+        "a sizable sum (of money)"
+      ]
+    },
+    {
+      "phrase": "대단한 금액",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a vast sum"
+      ]
+    },
+    {
+      "phrase": "전기의 금액",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the said sum"
+      ]
+    },
+    {
+      "phrase": "방대한 금액",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "huge[vast, enormous] amount of money"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "money",
+      "frequency": 3
+    },
+    {
+      "meaning": "value amount",
+      "frequency": 0
+    },
+    {
+      "meaning": "amounts",
+      "frequency": 0
+    },
+    {
+      "meaning": "amount of money",
+      "frequency": 0
+    },
+    {
+      "meaning": "quid",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[꿀팁이네] 전체 금액을 보장 받아라! [That's a good tip] To guarantee the entire seed money. 듣기 View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울여자상업고등학교 ep6(홍현희X정세운X강율)",
+      "english": "[That's a good tip] To guarantee the entire seed money."
+    },
+    {
+      "korean": "[티셔츠 한 장으로 이미 금액 초과] 어떡하지? What do I do? 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 2화",
+      "english": "What do I do?"
+    },
+    {
+      "korean": "아마 금액적으로는... - 그렇죠. but money wise... - Right. 듣기 View video PENTAGON : 펜타곤의 유니원 뒷풀이! 2차!",
+      "english": "but money wise... - Right."
+    },
+    {
+      "korean": "금액은 제가 한 한국돈으로 3만 원? It was like 30,000 KRW. 듣기 View video EMMA BEAUTY : Italy GRWM#1 이태리에서 같이 준비해요! 생기 발랄 러블리 메이크업 (feat.애정템)",
+      "english": "It was like 30,000 KRW."
+    },
+    {
+      "korean": "[잊지 말자 제한 금액 5만 원] - 5만 원이다. - 오케이. It's 50,000 won. - Okay. 듣기 View video ATEEZ : ATEEZ(에이티즈) WANTED 2화",
+      "english": "It's 50,000 won. - Okay."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Who is going to stump up the extra money? 듣기 Add to Wordbook 추가 금액은 누가 지불할 건가요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Who is going to stump up the extra money? Add to Wordbook"
+    },
+    {
+      "korean": "Payment is due on 1 October. 듣기 Add to Wordbook 금액 지불은 10월 1일에 해야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Payment is due on 1 October. Add to Wordbook"
+    },
+    {
+      "korean": "a statement of all monies paid into your account 듣기 Add to Wordbook 당신의 계좌에 입금된 모든 금액을 보여주는 명세서 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a statement of all monies paid into your account Add to Wordbook"
+    },
+    {
+      "korean": "She’s milked the company of a small fortune. 듣기 Add to Wordbook 그녀는 그 회사에서 상당한 금액을 뽑아내 왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She’s milked the company of a small fortune. Add to Wordbook"
+    },
+    {
+      "korean": "She ran through the entire amount within two years. 듣기 Add to Wordbook 그녀는 그 금액 전부를 2년도 안 돼서 다 써 버렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She ran through the entire amount within two years. Add to Wordbook"
+    }
+  ]
+}

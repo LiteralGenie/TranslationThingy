@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "끌다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(마차·수레·자동차 등을) pull, draw; (무거운 것을) haul; (운전하다) drive",
+        "(사람·동물 등을) lead, (억지로) drag",
+        "(관심·인기 등을) catch, attract, draw, (formal) arrest"
+      ]
+    },
+    {
+      "phrase": "치마를 끌고 걷다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk with a trailing skirt"
+      ]
+    },
+    {
+      "phrase": "발을 질질 끌고 걷다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk with dragging feet",
+        "shuffle along",
+        "drag oneself along"
+      ]
+    },
+    {
+      "phrase": "경찰서로 끌고 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "take off to a police station"
+      ]
+    },
+    {
+      "phrase": "다짜고짜로 끌고 가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "walk off by force"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "drag",
+      "frequency": 2
+    },
+    {
+      "meaning": "구인 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "caravan",
+      "frequency": 1
+    },
+    {
+      "meaning": "haul",
+      "frequency": 1
+    },
+    {
+      "meaning": "frogmarch",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "얘가 그거를 끌고 다니면서 저도 좀... The car will drag it around, and I will... 듣기 View video 강다니엘 (KANG DANIEL) : 👋👋",
+      "english": "The car will drag it around, and I will..."
+    },
+    {
+      "korean": "이때 태용이가 허리 다쳐서 도영이가 끌고 가는 거 아니야? TAEYONG hurt his back so DOYOUNG is dragging him, right? 듣기 View video NCT 127 : [Full] NCT 127’s Punch COUNTDOWN",
+      "english": "TAEYONG hurt his back so DOYOUNG is dragging him, right?"
+    },
+    {
+      "korean": "[집에 갈 생각 없이 놀길래 아빠가 끌고 올라가 주셨어요...] [She was playing without thinking about going home so her dad dragged her up...] View video IU : [IU TV] 아이유 분노의 시승식!",
+      "english": "[She was playing without thinking about going home so her dad dragged her up...]"
+    },
+    {
+      "korean": "백호야 끌고 와야지 - 그게 뭐예요? BAEKHO, just drag it. - What is that? 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.11 뉴이스트의 우당탕탕 볼링 대결!",
+      "english": "BAEKHO, just drag it. - What is that?"
+    },
+    {
+      "korean": "자전거 못 타서 끌고 다니는 거 아니죠? You're not dragging the bike because you can't ride a bike, right? 듣기 View video IU : [IU TV] Blueming 꽃이 피었습니다.",
+      "english": "You're not dragging the bike because you can't ride a bike, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Our car was towed away by the police. 발음듣기 우리 차는 경찰이 끌고 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Our car was towed away by the police. 발음"
+    },
+    {
+      "korean": "He hooked his foot under the stool and dragged it over. 발음듣기 그는 등받이 없는 의자 밑에 발을 걸어 그것을 끌고 갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He hooked his foot under the stool and dragged it over. 발음"
+    },
+    {
+      "korean": "The wagons were hauled by horses. 발음듣기 그 수레는 말들이 끌고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The wagons were hauled by horses. 발음"
+    },
+    {
+      "korean": "The Queen’s coach was drawn by six horses. 발음듣기 여왕의 마차는 여섯 필의 말이 끌고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The Queen’s coach was drawn by six horses. 발음"
+    },
+    {
+      "korean": "He was dragging his coat in the mud. 발음듣기 그는 외투를 진흙탕 속에 질질 끌고 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He was dragging his coat in the mud. 발음"
+    }
+  ]
+}

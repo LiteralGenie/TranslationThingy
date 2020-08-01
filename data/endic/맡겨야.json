@@ -1,0 +1,88 @@
+{
+  "phrases": [
+    {
+      "phrase": "맡기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(물건·돈 등을) leave, put, check (in); (돈을) deposit",
+        "(일·책임 등을) leave (sth to sb), assign (sb sth), entrust (sb with sth)",
+        "(아이를)"
+      ]
+    },
+    {
+      "phrase": "이 짐을 맡겨야 합니까?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-기본대화 Should I check in this luggage?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "entrust",
+      "frequency": 1
+    },
+    {
+      "meaning": "reassign",
+      "frequency": 0
+    },
+    {
+      "meaning": "assign",
+      "frequency": 1
+    },
+    {
+      "meaning": "farm somebody out (to somebody)",
+      "frequency": 0
+    },
+    {
+      "meaning": "take a chance (on something)",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "근데 언제 끝날지는 진짜 하늘에 맡겨야 되는? But we need to leave it up to the heavens as to when it will end. 듣기 View video AB6IX : 비오는 퇴근길 ☔",
+      "english": "But we need to leave it up to the heavens as to when it will end."
+    },
+    {
+      "korean": "여러분들 상상에 맡겨야 돼요. I need to leave it up to your imagination. 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#148. 아이들 라디오 (w. (여자)아이들)",
+      "english": "I need to leave it up to your imagination."
+    },
+    {
+      "korean": "그거 맡겨야 돼요? - 그렇구나. Do they have to? - I see. 듣기 View video DAY6 : DayDream in BKK",
+      "english": "Do they have to? - I see."
+    },
+    {
+      "korean": "핸드폰 공연장에서 맡겨야 돼요? Do they have to check the cellphones in the concert? 듣기 View video DAY6 : DayDream in BKK",
+      "english": "Do they have to check the cellphones in the concert?"
+    },
+    {
+      "korean": "그냥 이 게임 운영진에게 맡겨야 될 것 같아요. I think you have to depend on luck for that game. 듣기 View video GFRIEND : 예린이의 화장한 날😙2",
+      "english": "I think you have to depend on luck for that game."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "When we moved we had to put our furniture in storage for a while. 발음듣기 우리는 이사를 할 때 가구를 한동안 보관 회사에 맡겨야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When we moved we had to put our furniture in storage for a while. 발음"
+    },
+    {
+      "korean": "Not a lot of damage, but still need to bring it into the bodyshop for a few days. 발음듣기 손상이 큰 건 아닌데 며칠 정비소에 맡겨야 돼. DARAKWON",
+      "english": "Not a lot of damage, but still need to bring it into the bodyshop for a few days. 발음"
+    },
+    {
+      "korean": "He had to have his house repaired. 발음듣기 그는 집 수리를 맡겨야 했다. YBM All in All English-Korean Dictionary",
+      "english": "He had to have his house repaired. 발음"
+    },
+    {
+      "korean": "Why should we trust them with a job? 발음듣기 우리가 왜 그들에게 일을 맡겨야 합니까? Neungyule",
+      "english": "Why should we trust them with a job? 발음"
+    },
+    {
+      "korean": "I have to drop off something at the dry cleaners. 발음듣기 세탁소에다 옷을 몇 가지 맡겨야 해. Neungyule",
+      "english": "I have to drop off something at the dry cleaners. 발음"
+    }
+  ]
+}

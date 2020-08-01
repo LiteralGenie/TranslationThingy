@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "저울질",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weighing, scaling, (비교·고찰하다) 저울질하다 weigh ((an argument)) with (another), compare ((A)) with (B)"
+      ]
+    },
+    {
+      "phrase": "저울질하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(비교하다) compare (A with/to B), weigh (up) (A against B)"
+      ]
+    },
+    {
+      "phrase": "두 개의 사실을 저울질해 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "compare with"
+      ]
+    },
+    {
+      "phrase": "세 회사를 저울질하고 있어요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I'm weighing three companies."
+      ]
+    },
+    {
+      "phrase": "사이를 저울질하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "weigh relation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "저울질",
+      "frequency": 0
+    },
+    {
+      "meaning": "compare (A) with",
+      "frequency": 0
+    },
+    {
+      "meaning": "weigh",
+      "frequency": 2
+    },
+    {
+      "meaning": "imponderableness",
+      "frequency": 0
+    },
+    {
+      "meaning": "scale 2",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "류주하랑 하민 사이에서 저울질하는 거짓말쟁이라고! You're a liar weighing between Ryu Jooha and Ha Min! 듣기 View video V HEARTBEAT - 2019 VLIVE AWARDS : [Full] 2019 VLIVE AWARDS V HEARTBEAT PART1",
+      "english": "You're a liar weighing between Ryu Jooha and Ha Min!"
+    },
+    {
+      "korean": "너네집은 왜 그렇게 사람 저울질하냐고 막 얘기해, 안 참아도 된다고. Why does your family weigh people like that? You don't have to hold it in... 듣기 View video V DRAMA : [밥 잘 사주는 예쁜 누나 Voice Only #6]",
+      "english": "Why does your family weigh people like that? You don't have to hold it in..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I weighed the benefits of the plan against the risks involved. 발음듣기 나는 그 계획의 이점을 관련되는 위험에 비추어 저울질해 보았다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I weighed the benefits of the plan against the risks involved. 발음"
+    },
+    {
+      "korean": "After weighing the pros and cons, he declined (to take) the job. 발음듣기 그는 득실을 저울질해 보고 그 일을 거절했다 Neungyule",
+      "english": "After weighing the pros and cons, he declined (to take) the job. 발음"
+    },
+    {
+      "korean": "I'm weighing three companies. 발음듣기 세 회사를 저울질하고 있어요. Neungyule",
+      "english": "I'm weighing three companies. 발음"
+    },
+    {
+      "korean": "I weighed in my mind which option would be more beneficial to me. 발음듣기 나는 속으로 어느 쪽이 내게 더 이익일지 저울질했다 Neungyule",
+      "english": "I weighed in my mind which option would be more beneficial to me. 발음"
+    },
+    {
+      "korean": "The committee is weighing Mr. Huang's offer to testify in return for partial immunity from prosecution. 발음듣기 위원회는 부분적으로 기소를 면제해 준다는 조건으로 증언대에 나가겠다는 존 황의 제의를 신중히 저울질하고 있습니다. YBM All in All English-Korean Dictionary",
+      "english": "The committee is weighing Mr. Huang's offer to testify in return for partial immunity from prosecution. 발음"
+    }
+  ]
+}

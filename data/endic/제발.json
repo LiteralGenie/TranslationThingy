@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "제발",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "please, for goodness' sake, (slng) for pity's sake"
+      ]
+    },
+    {
+      "phrase": "제발 바라건대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "for mercy´s[God´s] sake"
+      ]
+    },
+    {
+      "phrase": "제발 공부 좀 해라.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Please crack a book."
+      ]
+    },
+    {
+      "phrase": "제발 가지 마!",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Please don't go!"
+      ]
+    },
+    {
+      "phrase": "제발 진정해요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Please stay calm."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "please",
+      "frequency": 3
+    },
+    {
+      "meaning": "for Christ's, God's, goodness', heaven's, pity's, etc. sake",
+      "frequency": 0
+    },
+    {
+      "meaning": "prithee",
+      "frequency": 0
+    },
+    {
+      "meaning": "for the love of God",
+      "frequency": 0
+    },
+    {
+      "meaning": "to God/goodness/Heaven",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[제 발][저림] 건조하니까... 겨울이잖아... [Feeling guilty] It's dry...It's winter. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.7",
+      "english": "[Feeling guilty] It's dry...It's winter."
+    },
+    {
+      "korean": "제발! - 제발, 제발! Please. - Please. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "Please. - Please."
+    },
+    {
+      "korean": "제발! - 가자 가자! Please. - Please, let's go! 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "Please. - Please, let's go!"
+    },
+    {
+      "korean": "[범규 등장] 제발! [BEOMGYU's coming up] Please. 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.4",
+      "english": "[BEOMGYU's coming up] Please."
+    },
+    {
+      "korean": "제발... - 요구르트 아줌마... Please. - \"Yogurt lady\"... 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "Please. - \"Yogurt lady\"..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "for God's sake 듣기 Add to Wordbook 제발. Friendict Level English-Korean Dictionary",
+      "english": "for God's sake Add to Wordbook"
+    },
+    {
+      "korean": "Leave me out of this quarrel, please. 듣기 Add to Wordbook 이 다툼에서 나는 빼 줘, 제발. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Leave me out of this quarrel, please. Add to Wordbook"
+    },
+    {
+      "korean": "Please don’t flick ash on the carpet! 듣기 Add to Wordbook 제발 카펫에 재 털지 말아요! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please don’t flick ash on the carpet! Add to Wordbook"
+    },
+    {
+      "korean": "Please, mister, can we have our ball back? 듣기 Add to Wordbook 제발요, 아저씨, 저희 공 돌려주시면 안 돼요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please, mister, can we have our ball back? Add to Wordbook"
+    },
+    {
+      "korean": "Please can we get off the subject of dieting? 듣기 Add to Wordbook 제발 우리 다이어트 얘기 좀 그만하면 안 되겠니? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Please can we get off the subject of dieting? Add to Wordbook"
+    }
+  ]
+}

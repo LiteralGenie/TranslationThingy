@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "전쟁",
+      "hanja": " (戰爭)",
+      "example": {},
+      "meanings": [
+        "(국가 간의) war, warfare, (전투) battle",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "전쟁중",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "during the war",
+        "in wartime",
+        "while fighting"
+      ]
+    },
+    {
+      "phrase": "남북전쟁",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(미국의) the Civil War"
+      ]
+    },
+    {
+      "phrase": "전쟁고아",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a war orphan",
+        "a child orphaned by the war"
+      ]
+    },
+    {
+      "phrase": "십자군 전쟁",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The Crusades"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "war",
+      "frequency": 3
+    },
+    {
+      "meaning": "warfare",
+      "frequency": 3
+    },
+    {
+      "meaning": "arm 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "belligerence",
+      "frequency": 0
+    },
+    {
+      "meaning": "shooting war",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "소원전쟁!",
+      "english": "A war to get vouchers!"
+    },
+    {
+      "korean": "이 전쟁을 끝내러...",
+      "english": "To finish this war..."
+    },
+    {
+      "korean": "전 세기의 전쟁? - 전 세기의 전쟁 맞지?",
+      "english": "All Century? - It's \"All Century\", isn't it?"
+    },
+    {
+      "korean": "빨리 끝내자! - 이 전쟁을 끝내러 왔다!",
+      "english": "Let's finish it! - I'm here to finish this!"
+    },
+    {
+      "korean": "전 - 디엑스 전 세기의 전쟁 맞나?",
+      "english": "All... - \"DX: War of All Century\". Is that right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "마르스는 로마의 전쟁 신이었다.",
+      "english": "Mars was the Roman god of war."
+    },
+    {
+      "korean": "그 가족은 전쟁 후에 재회했다.",
+      "english": "The family was reunited after the war."
+    },
+    {
+      "korean": "태평양 전쟁 종전 기념일",
+      "english": "the anniversary of the ending of the Pacific War"
+    },
+    {
+      "korean": "전쟁 지역에서 오는 난민들을 받아들임",
+      "english": "the reception of refugees from the war zone"
+    },
+    {
+      "korean": "그 전쟁을 피해 도망 온 난민들을 위한 수용소",
+      "english": "a camp for refugees fleeing from the war"
+    }
+  ]
+}

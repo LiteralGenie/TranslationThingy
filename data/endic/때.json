@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "때",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(일어난 순간) the time, the moment",
+        "(진행되는 동안)",
+        "(시기, 시간) time"
+      ]
+    },
+    {
+      "phrase": "때",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(몸의) (각질) dead skin (cell), (먼지 등의) dirt",
+        "(옷의) dirt, (얼룩) stain",
+        "(마음의)"
+      ]
+    },
+    {
+      "phrase": "때가 빠지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The dirt is removed"
+      ]
+    },
+    {
+      "phrase": "때 빼고 광내다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "remove the dirt and polish"
+      ]
+    },
+    {
+      "phrase": "…할 때",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "when(접속사)",
+        "while"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "time",
+      "frequency": 3
+    },
+    {
+      "meaning": "occasion",
+      "frequency": 3
+    },
+    {
+      "meaning": "hour",
+      "frequency": 3
+    },
+    {
+      "meaning": "moment",
+      "frequency": 3
+    },
+    {
+      "meaning": "dirt",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "콘서트 때?",
+      "english": "At the concert?"
+    },
+    {
+      "korean": "데뷔를 했을 때...",
+      "english": "When we debuted..."
+    },
+    {
+      "korean": "중학교 때인가?",
+      "english": "Was it middle school?"
+    },
+    {
+      "korean": "평소 한국에 있을 때요?",
+      "english": "When I am in Korea?"
+    },
+    {
+      "korean": "포기하고 싶을 때?",
+      "english": "When you want to give up?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "이제 장미는 한창 때가 지났다.",
+      "english": "The roses are past their best now."
+    },
+    {
+      "korean": "그는 18세 때 동정을 잃었다.",
+      "english": "He lost his virginity when he was 18."
+    },
+    {
+      "korean": "그녀는 십대 때 시를 쓰기 시작했다.",
+      "english": "She began writing poetry in her teens."
+    },
+    {
+      "korean": "그녀는 잘 때 이를 간다.",
+      "english": "She grinds her teeth when she is asleep."
+    },
+    {
+      "korean": "그녀가 대학 다닐 때 형성된 교우 관계",
+      "english": "friendships formed while she was at college"
+    }
+  ]
+}

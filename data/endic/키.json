@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "키",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(신장) height, stature"
+      ]
+    },
+    {
+      "phrase": "키",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(배의 조종 장치) helm, wheel",
+        "(비유적)"
+      ]
+    },
+    {
+      "phrase": "키",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(곡식을 까부르는 기구) winnow, winnowing basket"
+      ]
+    },
+    {
+      "phrase": "키",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun key",
+        "Noun clue",
+        "Noun keyboard"
+      ]
+    },
+    {
+      "phrase": "key",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 열쇠, 키",
+        "Noun (이해성취의) 비결[열쇠/실마리] (=secret)",
+        "Verb (컴퓨터에 키보드로) 입력하다 (=enter)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "key",
+      "frequency": 3
+    },
+    {
+      "meaning": "height",
+      "frequency": 3
+    },
+    {
+      "meaning": "stature",
+      "frequency": 3
+    },
+    {
+      "meaning": "helm",
+      "frequency": 3
+    },
+    {
+      "meaning": "rudder",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "키 똑같을걸요? 키는? I bet I'm the same height. 듣기 View video NCT : 해벌",
+      "english": "I bet I'm the same height."
+    },
+    {
+      "korean": "'유나 요즘에도 키 커요?' 유나는... \"Is Yuna getting taller these days, too?\" Yuna... 듣기 View video ITZY : 🖤",
+      "english": "\"Is Yuna getting taller these days, too?\" Yuna..."
+    },
+    {
+      "korean": "너네는 키노를 잘 몰라 - 키... 그런 거 하면 안 되는구나 - 너네는 진짜... You don't know about Kino. - I shouldn't have talked about the height. 듣기 View video OSEN : PENTAGON 펜타곤이 꼽은 가장 힘이 센 멤버는? #스타로드 03",
+      "english": "You don't know about Kino. - I shouldn't have talked about the height."
+    },
+    {
+      "korean": "키? - 리더십? Height? - Leadership? 듣기 View video OSEN : Golden Child 골든차일드가 생각하는 최보민의 입덕포인트 #스타로드 03",
+      "english": "Height? - Leadership?"
+    },
+    {
+      "korean": "'근데 언니 키 몇이에요?' \"How tall are you?\" 듣기 View video ITZY : 류진이의 왓어원더풀나잇💙",
+      "english": "\"How tall are you?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to put the key in the ignition 듣기 Add to Wordbook 점화 스위치에 키를 꽂다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to put the key in the ignition Add to Wordbook"
+    },
+    {
+      "korean": "women in the fourth quartile of height 듣기 Add to Wordbook 키가 최저 사분위수에 해당하는 여성들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "women in the fourth quartile of height Add to Wordbook"
+    },
+    {
+      "korean": "The dancers were all tall and graceful. 듣기 Add to Wordbook 무용수들은 모두 키가 크고 우아했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The dancers were all tall and graceful. Add to Wordbook"
+    },
+    {
+      "korean": "The courtyard was shaded by high trees. 듣기 Add to Wordbook 안뜰은 키 큰 나무들로 그늘이 져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The courtyard was shaded by high trees. Add to Wordbook"
+    },
+    {
+      "korean": "The garden is overshadowed by tall trees. 듣기 Add to Wordbook 정원에는 키 큰 나무들이 그늘을 드리우고 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The garden is overshadowed by tall trees. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "올라가다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(위로) go up, rise, climb, scale, (formal) mount, (formal) ascend",
+        "(서울로) go up",
+        "(물가·기온 등이) go up, rise, increase"
+      ]
+    },
+    {
+      "phrase": "이래서는 시청률이 올라가지 않겠어.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "TV This program won't get a high audience rating.",
+        "TV This program won't have a high Nielsen rating."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "glass ceiling",
+      "frequency": 0
+    },
+    {
+      "meaning": "line-drive shot",
+      "frequency": 0
+    },
+    {
+      "meaning": "climb",
+      "frequency": 3
+    },
+    {
+      "meaning": "lift",
+      "frequency": 3
+    },
+    {
+      "meaning": "ascent",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "왜 안 올라 가지? Why doesn't it go up?? 듣기 View video SF9 : 빈,us🍀",
+      "english": "Why doesn't it go up??"
+    },
+    {
+      "korean": "댓글이 왜 이렇게 올라가지? How come the comments are going up? 듣기 View video ASTRO : 차은우의 Just one 10 minutes",
+      "english": "How come the comments are going up?"
+    },
+    {
+      "korean": "왜 이렇게 올라가지? 평소에 이렇지 않은데? Why is it going up so much? It's not like this usually?? 듣기 View video SEVENTEEN : [RADIO] 캐럿들 귀대귀대 #63",
+      "english": "Why is it going up so much? It's not like this usually??"
+    },
+    {
+      "korean": "원래 이랬어? 그렇지? - 왜 이렇게 빨리 올라가지 하트 수가? It's not supposed to be like this. - Why is the heart count going up so fast? 듣기 View video TWICE : ㄴㅁ",
+      "english": "It's not supposed to be like this. - Why is the heart count going up so fast?"
+    },
+    {
+      "korean": "좀 올라가지 않았나 그때? Didn't we do well? 듣기 View video TWICE : 특별한라이브",
+      "english": "Didn't we do well?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The leading banks are expected to redouble their efforts to keep the value of the dollar down. 듣기 Add to Wordbook 선두 은행들이 달러 가치가 올라가지 않게 하는 노력을 배가할 것으로 예상된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The leading banks are expected to redouble their efforts to keep the value of the dollar down. Add to Wordbook"
+    },
+    {
+      "korean": "She never got very high in the company. 듣기 Add to Wordbook 그녀는 그 회사에서 결코 아주 높은 자리까지는 올라가지 못했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She never got very high in the company. Add to Wordbook"
+    },
+    {
+      "korean": "Their overriding aim was to keep costs low. 듣기 Add to Wordbook 그들의 최우선 목표는 비용이 올라가지 않게 하는 것이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Their overriding aim was to keep costs low. Add to Wordbook"
+    },
+    {
+      "korean": "My zipper got stuck half way up. 듣기 Add to Wordbook 지퍼가 중간에 끼어 올라가지 않았다. Neungyule",
+      "english": "My zipper got stuck half way up. Add to Wordbook"
+    },
+    {
+      "korean": "Make time to study. If your grades don't improve, you'll have to stop playing soccer. 듣기 Add to Wordbook 공부할 시간을 만들어라. 만약 네 성적이 올라가지 않으면, 축구를 그만 둬야 할거다. YBM All in All English-Korean Dictionary",
+      "english": "Make time to study. If your grades don't improve, you'll have to stop playing soccer. Add to Wordbook"
+    }
+  ]
+}

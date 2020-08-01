@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(감탄) Oh!, Well!, Why!, (대답) yes, yea"
+      ]
+    },
+    {
+      "phrase": "어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Interjection yes, yup, yeah",
+        "Interjection yes, yeah, okay",
+        "Interjection what, sorry, beg your pardon"
+      ]
+    },
+    {
+      "phrase": "어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun eo"
+      ]
+    },
+    {
+      "phrase": "-어",
+      "hanja": " (語)",
+      "example": {},
+      "meanings": [
+        "a word(낱말), a term(전문어), a language(국어)"
+      ]
+    },
+    {
+      "phrase": "-어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Ending -a (→-아1, -여1)",
+        "Ending -a (→-아1, -여1)",
+        "Ending -a (→-아1, -여1)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "oh",
+      "frequency": 3
+    },
+    {
+      "meaning": "coo",
+      "frequency": 3
+    },
+    {
+      "meaning": "ah",
+      "frequency": 0
+    },
+    {
+      "meaning": "och",
+      "frequency": 0
+    },
+    {
+      "meaning": "oh yeah?",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "내가? - 어!",
+      "english": "Me? - Yeah!"
+    },
+    {
+      "korean": "하트? - 어!",
+      "english": "Heart? - Yeah!"
+    },
+    {
+      "korean": "어? 갔다!",
+      "english": "Oh? Pangie went!"
+    },
+    {
+      "korean": "어? 녹았어?",
+      "english": "Oh! Did it melt?"
+    },
+    {
+      "korean": "어? 이것도...",
+      "english": "Oh? This one too."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "어, 하지만 그게 사실이 아닐지도 몰라.",
+      "english": "Ah, but that may not be true."
+    },
+    {
+      "korean": "“왜 묻는 거니?” “어, 그냥 단순한 호기심에서지 뭐.”",
+      "english": "‘Why do you ask?’ ‘Oh, just idle curiosity’."
+    },
+    {
+      "korean": "“내가 어제 벤을 봤어.” “어, 그래? 그는 어때?”",
+      "english": "‘I saw Ben yesterday.’ ‘Oh yes, how is he?’"
+    },
+    {
+      "korean": "“우린 곧 프랑스로 떠나.” “어, 정말이야? 언제 가는데?”",
+      "english": "‘We’re off to France soon.’ ‘Oh yeah? When’s that?’"
+    },
+    {
+      "korean": "“그들은 돈을 주겠다는 제의조차 안 했어.” “어 그거 지독하군.”",
+      "english": "‘They didn’t even offer to pay.’ ‘Oh that’s awful.’"
+    }
+  ]
+}

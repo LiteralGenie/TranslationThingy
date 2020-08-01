@@ -1,0 +1,117 @@
+{
+  "phrases": [
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(어떤 장소에) be, (건물 등이) stand, be located (in/at), be situated, (도시 등이) lie",
+        "(시설·장치 등이) have, (시설이) be equipped with, be provided with",
+        "(존재하다) be, exist, (발견되다) be found"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective existent, existing (↔없다)",
+        "Adjective (↔없다)",
+        "Adjective (↔없다)"
+      ]
+    },
+    {
+      "phrase": "있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Assistant adverb itda",
+        "Assistant adverb itda",
+        "Assistant adverb itda"
+      ]
+    },
+    {
+      "phrase": "시간 있어요?",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Are you available?"
+      ]
+    },
+    {
+      "phrase": "볼일이 있어",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "on business",
+        "on an errand(남의 부탁으로)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "interested",
+      "frequency": 3
+    },
+    {
+      "meaning": "amused",
+      "frequency": 3
+    },
+    {
+      "meaning": "dignify",
+      "frequency": 3
+    },
+    {
+      "meaning": "laughing",
+      "frequency": 3
+    },
+    {
+      "meaning": "nougat",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "있어?",
+      "english": "Is there anyone?"
+    },
+    {
+      "korean": "할 수 있어!",
+      "english": "You can do it!"
+    },
+    {
+      "korean": "넌 할 수 있어!",
+      "english": "You can do it!"
+    },
+    {
+      "korean": "잠깐 와줄 수 있어?",
+      "english": "Can you drop by?"
+    },
+    {
+      "korean": "뒤에 있어요?",
+      "english": "Oh, it's on the back?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "우리 아들이 학교에서 괴롭힘을 당하고 있어요.",
+      "english": "My son is being bullied at school."
+    },
+    {
+      "korean": "그녀는 항상 자신감이 있어 보인다.",
+      "english": "She always has an aura of confidence."
+    },
+    {
+      "korean": "그는 항상 반항적인 데가 있어 왔다.",
+      "english": "He has always had a rebellious streak."
+    },
+    {
+      "korean": "나하고 이 크리스마스 크래커 잡아당길 사람 있어?",
+      "english": "Who wants to pull this cracker with me?"
+    },
+    {
+      "korean": "이 지폐들이 위조지폐란 걸 알고 있어요?",
+      "english": "Are you aware these notes are counterfeit?"
+    }
+  ]
+}

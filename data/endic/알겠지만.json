@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "알다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(정보나 지식을 갖추다) know, learn, have (good) knowledge (of), be familiar (with)",
+        "(이해하다) understand, know, see, follow, appreciate, (informal) get, make out",
+        "(깨닫다, 인지하다) realize, recognize, find, notice, sense, (formal) perceive, be aware (of), be conscious (of)"
+      ]
+    },
+    {
+      "phrase": "아는 것이 병[탈]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Knowing too much is a disease, Where ignorance is bliss, it is folly to be wise, Ignorance is the peace of life",
+        "Knowing too much is a disease, Where ignorance is bliss, it is folly to be wise, Ignorance is the peace of life"
+      ]
+    },
+    {
+      "phrase": "알게 모르게",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "in the manner of one being unaware of something, unwittingly"
+      ]
+    },
+    {
+      "phrase": "알 게 뭐야[뭐나]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "It is not of one's concern"
+      ]
+    },
+    {
+      "phrase": "알다가도 모르다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "think one knows something, but actually does not know it"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "know",
+      "frequency": 3
+    },
+    {
+      "meaning": "understand",
+      "frequency": 3
+    },
+    {
+      "meaning": "clear",
+      "frequency": 3
+    },
+    {
+      "meaning": "see",
+      "frequency": 3
+    },
+    {
+      "meaning": "acquainted",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "느낌은 알겠어요 - 느낌은 알겠지만 그분과는... the feel. - But how dare I... 듣기 View video NU'EST : NU'EST W NEW ALBUM ‘WAKE,N’ COMEBACK D-1 V LIVE",
+      "english": "the feel. - But how dare I..."
+    },
+    {
+      "korean": "근데 저는 약간... 라썸이 알겠지만... But... I am sure Lassum knows this but... 듣기 View video HOONION : [Makeup] WANNAONE style natural idol makeup #워너블 아이돌 남자메이크업",
+      "english": "But... I am sure Lassum knows this but..."
+    },
+    {
+      "korean": "아아! 그때 봐서 알겠지만 이게 댓글 반응이 조금 느리죠? Ah, right, there's a slight delay, right? 듣기 View video INFINITE : INFINITE \"김명수의 TALK N TALK\"",
+      "english": "Ah, right, there's a slight delay, right?"
+    },
+    {
+      "korean": "여기 보시면 알겠지만 쇼 장이 엄청나게 길어요. You can probably tell, but the show venue is very long. 듣기 View video 뷰티로그(beautylog) : [뷰티로그 3회]주원대의 모델라이프 공개!🤗",
+      "english": "You can probably tell, but the show venue is very long."
+    },
+    {
+      "korean": "오신 분들은 알겠지만 저희 너무 즐거웠죠 그렇죠? people who came probably know, but we had a lot of fun, right? 듣기 View video THE BOYZ : 오늘의 주재",
+      "english": "people who came probably know, but we had a lot of fun, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Life isn’t like in the movies, you know. 듣기 Add to Wordbook 알겠지만 세상살이가 영화에 나오는 것같이 그렇지는 않아. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Life isn’t like in the movies, you know. Add to Wordbook"
+    },
+    {
+      "korean": "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering. (Brenda Ueland) 듣기 Add to Wordbook 알겠지만, 상상력에는 시간 허비가 필요하다. 길고, 비효율적이며 즐거운 게으름, 꾸물거림, 어정거림. (브렌다 유랜드, 생각명언) 명언/속담",
+      "english": "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering. (Brenda Ueland) Add to Wordbook"
+    },
+    {
+      "korean": "You know I'm seeing someone. 듣기 Add to Wordbook 너도 알겠지만 나 만나는 사람 있어. Neungyule",
+      "english": "You know I'm seeing someone. Add to Wordbook"
+    },
+    {
+      "korean": "But as you can see, everybody does it. 듣기 Add to Wordbook 하지만 당신도 봐서 알겠지만 다들 그렇게 하고 있어요. YBM All in All English-Korean Dictionary",
+      "english": "But as you can see, everybody does it. Add to Wordbook"
+    },
+    {
+      "korean": "As you all know, today is Jim’s birthday. 듣기 Add to Wordbook 다들 알겠지만 오늘 짐의 생일이야. YBM All in All English-Korean Dictionary",
+      "english": "As you all know, today is Jim’s birthday. Add to Wordbook"
+    }
+  ]
+}

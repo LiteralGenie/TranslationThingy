@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "세금",
+      "hanja": " (稅金)",
+      "example": {},
+      "meanings": [
+        "tax, (관세) duty (on)"
+      ]
+    },
+    {
+      "phrase": "세금 감면",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tax cut"
+      ]
+    },
+    {
+      "phrase": "세금 인상",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a tax hike"
+      ]
+    },
+    {
+      "phrase": "세금 계산서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "tax invoice, (부가가치세가 포함된) VAT invoice"
+      ]
+    },
+    {
+      "phrase": "세금을 걷다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "collect[exact] taxes (from)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "tax",
+      "frequency": 3
+    },
+    {
+      "meaning": "duty",
+      "frequency": 3
+    },
+    {
+      "meaning": "toll 2",
+      "frequency": 3
+    },
+    {
+      "meaning": "scot",
+      "frequency": 0
+    },
+    {
+      "meaning": "impost 1",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[발렌티옹 얼굴엔 특별히 세금 825% 더 내게해줘야하는 거 아닌가...] [Aren't you supposed to put 825% tax on Valentin-Ong's face?] View video V PICK! : [ONG SEONG WU] 옹성우 브이앱 보면 수면의 질이 상승한다는 것이 학계의 정설 (Seoung Wu reading comments)",
+      "english": "[Aren't you supposed to put 825% tax on Valentin-Ong's face?]"
+    },
+    {
+      "korean": "저는 반 세금 내고 반은 기부할게요. I'll pay half of it as taxes and donate half. 듣기 View video V COOKIE : [Full]우리가 만난 기적 X 앞터V (The miracle we met X Early Interview)",
+      "english": "I'll pay half of it as taxes and donate half."
+    },
+    {
+      "korean": "[6개월 세금 신고에 2억! ] 이번에 6개월 세금 신고했는데 2억 정도... I reported tax for six months and it was about two hundred million won... 듣기 View video Big Picture (빅픽처) : 빅픽처2 ep22_스타로 키워주세요! 영길&재준의 무한도전",
+      "english": "I reported tax for six months and it was about two hundred million won..."
+    },
+    {
+      "korean": "나...나는 내가 음원 제작자니까... - 거기에 플러스 세금 아니에요? I... since I'm the producer... - Isn't there taxes in addition? 듣기 View video 한뼘TV : 방판소년단의 잔잔바리스러운 과거 판매이력",
+      "english": "I... since I'm the producer... - Isn't there taxes in addition?"
+    },
+    {
+      "korean": "'세금' 나왔어. He wrote \"Tax\". 듣기 View video MAP6 : 맵식스의 캐치마인드~❤️",
+      "english": "He wrote \"Tax\"."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the imposition of tax on domestic fuel 듣기 Add to Wordbook 가정 연료에 대한 세금 도입 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the imposition of tax on domestic fuel Add to Wordbook"
+    },
+    {
+      "korean": "the recent furore over the tax increases 듣기 Add to Wordbook 세금 인상에 대한 최근의 소동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the recent furore over the tax increases Add to Wordbook"
+    },
+    {
+      "korean": "There are plans afoot to increase taxation. 듣기 Add to Wordbook 세금을 늘리려는 계획이 진행 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There are plans afoot to increase taxation. Add to Wordbook"
+    },
+    {
+      "korean": "It would be inexpedient to raise taxes further. 듣기 Add to Wordbook 세금을 더 올린다면 부당한 일이 될 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It would be inexpedient to raise taxes further. Add to Wordbook"
+    },
+    {
+      "korean": "Tax can be a minefield for the unwary. 듣기 Add to Wordbook 방심한 사람들에게는 세금이 지뢰밭이 될 수도 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Tax can be a minefield for the unwary. Add to Wordbook"
+    }
+  ]
+}

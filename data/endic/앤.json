@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "Anne",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 여자 이름"
+      ]
+    },
+    {
+      "phrase": "Ann",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 여자 이름 ((애칭 Annie, Nan, Nancy, Nanny, Nina))"
+      ]
+    },
+    {
+      "phrase": "ann.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "annals, annual, annuity"
+      ]
+    },
+    {
+      "phrase": "Artificial Neural Network ( ANN )",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "IT <관리운용>인공 신경 회로망(人工神經網)"
+      ]
+    },
+    {
+      "phrase": "ANN",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Initialism] artificial neural network"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "Oen",
+      "frequency": 0
+    },
+    {
+      "meaning": "surf and turf",
+      "frequency": 0
+    },
+    {
+      "meaning": "Anne Thomas, PhD",
+      "frequency": 0
+    },
+    {
+      "meaning": "fish and chips",
+      "frequency": 0
+    },
+    {
+      "meaning": "Princess Anne",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[리포터라 쓰고 덤 앤 더머라 읽는다] 였습니다 해야 되나?",
+      "english": "[Dumb and dumber, or cute and cuter] Should I say \"we were?\""
+    },
+    {
+      "korean": "로제 앤 크림?",
+      "english": "Rose and cream?"
+    },
+    {
+      "korean": "삼겹살 앤 뿌링클?",
+      "english": "Pork belly and prinkle?"
+    },
+    {
+      "korean": "'여름 앤 겨울' 여름!",
+      "english": "\"Summer and winter.\" Summer!"
+    },
+    {
+      "korean": "이거 '덤앤더머' 아닌가요?",
+      "english": "Isn't it \"Dumb and Dumber?\""
+    }
+  ],
+  "examples": [
+    {
+      "korean": "리듬 앤 블루스는 로큰롤로 변형되었다.",
+      "english": "Rhythm and blues mutated into rock and roll."
+    },
+    {
+      "korean": "피시 앤 칩스 가게",
+      "english": "a fish and chip shop"
+    },
+    {
+      "korean": "해리스 바 앤 그릴",
+      "english": "Harry’s Bar and Grill"
+    },
+    {
+      "korean": "그는 키가 크고 가무잡잡한 피부에 잘생긴 모습이 밀즈 앤 분 소설 주인공 같았다.",
+      "english": "He was tall, dark and handsome, like a Mills and Boon hero."
+    },
+    {
+      "korean": "앤이 눈의 눈물을 닦았다.",
+      "english": "Ann wiped a tear from her eye."
+    }
+  ]
+}

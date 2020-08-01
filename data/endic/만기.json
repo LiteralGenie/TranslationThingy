@@ -1,0 +1,97 @@
+{
+  "phrases": [
+    {
+      "phrase": "만기",
+      "hanja": " (滿期)",
+      "example": {},
+      "meanings": [
+        "(Am) expiration, (Brit) expiry, (보험 등의) maturity"
+      ]
+    },
+    {
+      "phrase": "만기의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "matured",
+        "time-expired"
+      ]
+    },
+    {
+      "phrase": "만기 제대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an honorable discharge"
+      ]
+    },
+    {
+      "phrase": "만기 전 상환",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "prior redemption"
+      ]
+    },
+    {
+      "phrase": "만기가 되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "expire",
+        "mature",
+        "fall[be, become] due"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "term",
+      "frequency": 3
+    },
+    {
+      "meaning": "maturity",
+      "frequency": 3
+    },
+    {
+      "meaning": "expiry",
+      "frequency": 0
+    },
+    {
+      "meaning": "expiration",
+      "frequency": 0
+    },
+    {
+      "meaning": "efflux",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "제가 2017년 7월 14일 만기전역을 했습니다. I was discharged on July 14th, 2017. 듣기 View video 눈덩이 프로젝트 (SNOWBALL PROJECT) : 눈덩이 in 도쿄 : SM 정상 회담",
+      "english": "I was discharged on July 14th, 2017."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The licence can be renewed on expiry. 듣기 Add to Wordbook 그 면허증은 만기가 되면 갱신할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The licence can be renewed on expiry. Add to Wordbook"
+    },
+    {
+      "korean": "The loan is due for repayment by the end of the year. 듣기 Add to Wordbook 그 융자금은 올 연말이 상환 만기이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The loan is due for repayment by the end of the year. Add to Wordbook"
+    },
+    {
+      "korean": "The reports are due this afternoon at 3 o'clock sharp. 듣기 Add to Wordbook 리포트는 오늘 오후 3시 정각이 만기입니다. DARAKWON",
+      "english": "The reports are due this afternoon at 3 o'clock sharp. Add to Wordbook"
+    },
+    {
+      "korean": "You can't use your credit card because the term of validity has expired. 듣기 Add to Wordbook 유효기간이 만기가 되어 귀하의 카드를 사용하실 수 없습니다. 절대어휘 5100",
+      "english": "You can't use your credit card because the term of validity has expired. Add to Wordbook"
+    },
+    {
+      "korean": "The bond will reach maturity in ten years 듣기 Add to Wordbook 그 채권은 10년 후에 만기가 된다 YBM All in All English-Korean Dictionary",
+      "english": "The bond will reach maturity in ten years Add to Wordbook"
+    }
+  ]
+}

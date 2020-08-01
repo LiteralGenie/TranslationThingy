@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(마지막) end, finish, close",
+        "end, (물체·장소 등의 끝 부분) tip; (뾰족한 물체의) point; (가장자리) edge",
+        "('~ 끝에'의 형태로 쓰여)"
+      ]
+    },
+    {
+      "phrase": "끝을 보다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "see the end"
+      ]
+    },
+    {
+      "phrase": "끝이 보이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "The end is seen"
+      ]
+    },
+    {
+      "phrase": "맨 끝",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the very end",
+        "the very last"
+      ]
+    },
+    {
+      "phrase": "끝까지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "to the end[last]",
+        "to a finish"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "end",
+      "frequency": 2
+    },
+    {
+      "meaning": "tip",
+      "frequency": 2
+    },
+    {
+      "meaning": "tip 1",
+      "frequency": 1
+    },
+    {
+      "meaning": "한 3",
+      "frequency": 0
+    },
+    {
+      "meaning": "lastly",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "끝 끝 끝! 라스트! This is the last one! 듣기 View video ASTRO : 산랔 아점 냠냠😋",
+      "english": "This is the last one!"
+    },
+    {
+      "korean": "[다시 보기 끝!] 뭐야! [Replaying ends!] What! 듣기 View video TOMORROW X TOGETHER : TO DO X TOMORROW X TOGETHER 2020 - EP.23",
+      "english": "[Replaying ends!] What!"
+    },
+    {
+      "korean": "우주면 끝도 없잖아요~ The universe has no end. 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "The universe has no end."
+    },
+    {
+      "korean": "이건 못 먹지? 끝! He can't eat this, right? The end. 듣기 View video ASTRO : [ASTRO PLAY] 2020 ASTRO Live on WWW.",
+      "english": "He can't eat this, right? The end."
+    },
+    {
+      "korean": "잘생긴 사람이라 했어요 전 끝! I said the handsome one! The end! 듣기 View video ASTRO : 안 주무시면 컴온 ~ 🐮💩 방송",
+      "english": "I said the handsome one! The end!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I am a worker who works endlessly. 발음듣기 나는 끝도 없이 일하는 일꾼이다. User translation Inaccurate information may be included due to the users' self-traslation. 사랑열매77(jcsh****) Web Collection",
+      "english": "I am a worker who works endlessly. 발음"
+    },
+    {
+      "korean": "The arrogance of Brown knows no bounds. 발음듣기 브라운의 오만은 한도 끝도 없다. User translation Inaccurate information may be included due to the users' self-traslation. einky(eink****) Web Collection",
+      "english": "The arrogance of Brown knows no bounds. 발음"
+    },
+    {
+      "korean": "The villainy of the play knows no bounds. 발음듣기 그 계략은 끝도 없이 사악하다. User translation Inaccurate information may be included due to the users' self-traslation. gray(orch****) Web Collection",
+      "english": "The villainy of the play knows no bounds. 발음"
+    },
+    {
+      "korean": "As usual, your ignorance knows no bounds. 발음듣기 평소처럼, 너의 무지는 한도 끝도 없다. User translation Inaccurate information may be included due to the users' self-traslation. einky(eink****) Web Collection",
+      "english": "As usual, your ignorance knows no bounds. 발음"
+    },
+    {
+      "korean": "Uh, let me check the other end of the bar. 발음듣기 어, 바의 다른 쪽 끝도 확인해 볼게. User translation Inaccurate information may be included due to the users' self-traslation. glvh925(glvh****) Web Collection",
+      "english": "Uh, let me check the other end of the bar. 발음"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(존재하지 않는다)",
+        "(소유하지 않다)",
+        "(생기지 않다)"
+      ]
+    },
+    {
+      "phrase": "없는 것이 없다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lack nothing, soup-to-nuts"
+      ]
+    },
+    {
+      "phrase": "없는 놈이 찬밥 더운 밥을 가리랴",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Would a man in need discriminate cold rice from hot rice?"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "You needn't have hurried.",
+      "frequency": 0
+    },
+    {
+      "meaning": "innocent",
+      "frequency": 3
+    },
+    {
+      "meaning": "dull",
+      "frequency": 3
+    },
+    {
+      "meaning": "constant",
+      "frequency": 3
+    },
+    {
+      "meaning": "hardly",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "없었는데... There wasn't but... 듣기 View video VICTON : 숩이 등장..! 앨리스 섭섭했어요?!😔",
+      "english": "There wasn't but..."
+    },
+    {
+      "korean": "없었는데. You didn't have this before. 듣기 View video GOT7 : (170808) JJ Diary the Moments_09",
+      "english": "You didn't have this before."
+    },
+    {
+      "korean": "'아 빵이 인정한 거?' 나 빵이 인정할 생각 없었는데? \"Oh! You acknowledged yourself as Bbang?\" I had no thoughts to acknowledge myself. 듣기 View video AB6IX : 영민이의 '몰래라이브 #1'",
+      "english": "\"Oh! You acknowledged yourself as Bbang?\" I had no thoughts to acknowledge myself."
+    },
+    {
+      "korean": "설탕 이런 게 없었는데? 붓으로 한 건가? There was no such kind of sugar. Did he use a brush? 듣기 View video TOMORROW X TOGETHER : 스윗한 태현이의 스윗한거 만들기",
+      "english": "There was no such kind of sugar. Did he use a brush?"
+    },
+    {
+      "korean": "그렇게 표현할 건 없었는데 그냥... There's nothing much to say. 듣기 View video V COOKIE : [Full] THE BOYZ X LieV - 더보이즈의 눕방라이브!",
+      "english": "There's nothing much to say."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I couldn’t concentrate, presumably because I was so tired. 듣기 Add to Wordbook 나는 집중할 수가 없었는데, 아마 너무 피곤해서였던 것 같다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I couldn’t concentrate, presumably because I was so tired. Add to Wordbook"
+    },
+    {
+      "korean": "I’ve never came close to failing a class in my life, but during my final semester I came close thanks to senioritis! 듣기 Add to Wordbook 여태까지 살아오면서 낙제할 뻔한 적이 한 번도 없었는데, 마지막 학기에는 공부에 흥미를 잃어서 거의 낙제할 뻔했어. DARAKWON",
+      "english": "I’ve never came close to failing a class in my life, but during my final semester I came close thanks to senioritis! Add to Wordbook"
+    },
+    {
+      "korean": "You didn’t have to do that, but that was very considerate and thoughtful of you. 듣기 Add to Wordbook 그렇게 할 필요 없었는데, 그렇게 하다니 너 아주 사려 깊고 배려심 있었어. DARAKWON",
+      "english": "You didn’t have to do that, but that was very considerate and thoughtful of you. Add to Wordbook"
+    },
+    {
+      "korean": "This has never transpired to me before. 듣기 Add to Wordbook 한 번도 이런 적이 없었는데. YBM All in All English-Korean Dictionary",
+      "english": "This has never transpired to me before. Add to Wordbook"
+    },
+    {
+      "korean": "Sorry, no one has turned the purse in yet. 듣기 Add to Wordbook 죄송합니다만 그 지갑을 가져온 사람은 아직 없었는데요. Neungyule",
+      "english": "Sorry, no one has turned the purse in yet. Add to Wordbook"
+    }
+  ]
+}

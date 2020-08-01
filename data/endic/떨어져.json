@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "떨어지다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(밑으로) fall, drop, (액체가) drip, (지니고 있던 것이) slip",
+        "(가격·물가·수준 등이) fall, drop, go[come] down, decline, decrease",
+        "depreciate, (가치·품질 등이) (formal) be debased"
+      ]
+    },
+    {
+      "phrase": "멀리 떨어져 있다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be far away",
+        "be a great distance away"
+      ]
+    },
+    {
+      "phrase": "멀리 떨어져 살다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live far apart"
+      ]
+    },
+    {
+      "phrase": "가족과 떨어져 살다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "live separated from one's family"
+      ]
+    },
+    {
+      "phrase": "얘들아, 그만 떨어져.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "OK, guys, break it up."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "apart",
+      "frequency": 3
+    },
+    {
+      "meaning": "away",
+      "frequency": 3
+    },
+    {
+      "meaning": "far",
+      "frequency": 3
+    },
+    {
+      "meaning": "free",
+      "frequency": 3
+    },
+    {
+      "meaning": "clear",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오케이 - 왜 안 떨어져? Okay! - Why won't it fall? 듣기 View video TOMORROW X TOGETHER : 게임의 정석",
+      "english": "Okay! - Why won't it fall?"
+    },
+    {
+      "korean": "떨어져 떨어져! - 이 사람이? - 수염! Don't get close. - This person? - A beard! 듣기 View video Red Velvet : [Full] 레드벨벳과 [사][이]좋은 [코]리스마스🌲🎁 (Red Velvet's PsychoRISTMAS Party)",
+      "english": "Don't get close. - This person? - A beard!"
+    },
+    {
+      "korean": "포박해야 돼 - 떨어져 떨어져 - 빨리 빨리! Tie her up! - Don't get close. - Quick! 듣기 View video Red Velvet : [Full] 레드벨벳과 [사][이]좋은 [코]리스마스🌲🎁 (Red Velvet's PsychoRISTMAS Party)",
+      "english": "Tie her up! - Don't get close. - Quick!"
+    },
+    {
+      "korean": "하나, 둘, 셋! - 민수 너무 떨어져... 1, 2, 3! - MINSU, you're too... 듣기 View video World Klass (월드 클래스) : ⛹️‍♂️ 굴려라~ 굴려라~ 굴렁쇠즈! ♾",
+      "english": "1, 2, 3! - MINSU, you're too..."
+    },
+    {
+      "korean": "왜 떨어져 나갔지? 늘어도 모자랄 판에... Why? We need more not fewer... 듣기 View video Dingo Story / 딩고스토리 : 짝녀의 소개팅남이 학교 핵인싸라면?_EP15_[라이크LIKE]",
+      "english": "Why? We need more not fewer..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the house farthest away from the road 듣기 Add to Wordbook 도로에서 가장 멀리 떨어져 있는 집 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the house farthest away from the road Add to Wordbook"
+    },
+    {
+      "korean": "The wagon broke free from the train. 듣기 Add to Wordbook 그 화물칸이 기차에서 떨어져 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The wagon broke free from the train. Add to Wordbook"
+    },
+    {
+      "korean": "Morale among teachers is at a low ebb. 듣기 Add to Wordbook 교사들의 사기가 떨어져 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Morale among teachers is at a low ebb. Add to Wordbook"
+    },
+    {
+      "korean": "The bandage gradually unwound and fell off. 듣기 Add to Wordbook 붕대가 서서히 풀려서 떨어져 나갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The bandage gradually unwound and fell off. Add to Wordbook"
+    },
+    {
+      "korean": "They were still 100 metres off the summit. 듣기 Add to Wordbook 그들은 아직 정상에서 100미터 떨어져 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They were still 100 metres off the summit. Add to Wordbook"
+    }
+  ]
+}

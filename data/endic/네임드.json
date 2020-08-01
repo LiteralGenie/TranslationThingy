@@ -1,0 +1,75 @@
+{
+  "phrases": [
+    {
+      "phrase": "named",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 지명된, 지정의, 유명한"
+      ]
+    },
+    {
+      "phrase": "name",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 이름, 성명, 성함 (→assumed name, brand name, code name, family name, first name, forename, household name, maiden name, middle name, nickna...",
+        "Noun 평판, 명성",
+        "Verb 이름을 지어주다, 명명하다 (=call)"
+      ]
+    },
+    {
+      "phrase": "네임드배리에이션",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "스포츠 Named variation"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "named-pipe",
+      "frequency": 0
+    },
+    {
+      "meaning": "named entity layer",
+      "frequency": 0
+    },
+    {
+      "meaning": "불리다 1",
+      "frequency": 0
+    },
+    {
+      "meaning": "B라고 일컫는 사람",
+      "frequency": 0
+    },
+    {
+      "meaning": "협회 회장으로 선출되다",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "It was the first time for a South Korean Major Leaguer to be named for the award. 듣기 Add to Wordbook 한국의 메이저 리거가 이 상의 후보로 지명된 것은 이번이 처음이다. Neungyule",
+      "english": "It was the first time for a South Korean Major Leaguer to be named for the award. Add to Wordbook"
+    },
+    {
+      "korean": "Neither can be named for legal reasons. 듣기 Add to Wordbook 법적인 이유로 어떤 것도 밝힐 수 없다. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Sunny Jeong(hane****)",
+      "english": "Neither can be named for legal reasons. Add to Wordbook"
+    },
+    {
+      "korean": "Stanley patronizes Mitch by saying he’ll fix him a “sugar tit”. 듣기 Add to Wordbook 스탠리는 그가 미치의 \"유아용 젖꼭지\"를 준비해놓겠다고 말하며 미치를 깔보았다. ( < A Streetcar named Desire>) User translation Inaccurate information may be included due to the users' self-traslation. 닫기 Pivot(qqqq****)",
+      "english": "Stanley patronizes Mitch by saying he’ll fix him a “sugar tit”. Add to Wordbook"
+    },
+    {
+      "korean": "",
+      "english": "The man connot be named for legal reasons. Add to Wordbook"
+    },
+    {
+      "korean": "",
+      "english": "Neither of the pair can be named for legal reasons. Add to Wordbook"
+    }
+  ]
+}

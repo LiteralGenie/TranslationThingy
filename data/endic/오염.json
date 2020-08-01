@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "오염",
+      "hanja": " (汚染)",
+      "example": {},
+      "meanings": [
+        "[명사] pollution, contamination, [동사] be contaminated, be polluted"
+      ]
+    },
+    {
+      "phrase": "오염(발효)",
+      "hanja": " (汚染(醱酵))",
+      "example": {},
+      "meanings": [
+        "의학 infection"
+      ]
+    },
+    {
+      "phrase": "환경오염",
+      "hanja": " (環境汚染)",
+      "example": {},
+      "meanings": [
+        "environmental pollution[contamination]"
+      ]
+    },
+    {
+      "phrase": "오염되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be contaminated[polluted]",
+        "be soiled[stained]",
+        "be imbued"
+      ]
+    },
+    {
+      "phrase": "대기오염",
+      "hanja": " (大氣汚染)",
+      "example": {},
+      "meanings": [
+        "air[atmospheric] pollution"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "pollution",
+      "frequency": 3
+    },
+    {
+      "meaning": "corruption",
+      "frequency": 3
+    },
+    {
+      "meaning": "contamination",
+      "frequency": 0
+    },
+    {
+      "meaning": "defilement",
+      "frequency": 0
+    },
+    {
+      "meaning": "flouling",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "오염 조커 사라져! Contaminant Joker! Go away! 듣기 View video 모비딕(Mobidic) : 홍보의 神(신) 미우새 이상민 한수원:한국수력원자력에 취직하다? <오늘만 대리> 6회",
+      "english": "Contaminant Joker! Go away!"
+    },
+    {
+      "korean": "안녕 나 오염 조커! Hello! I'm the contaminant Joker! 듣기 View video 모비딕(Mobidic) : 홍보의 神(신) 미우새 이상민 한수원:한국수력원자력에 취직하다? <오늘만 대리> 6회",
+      "english": "Hello! I'm the contaminant Joker!"
+    },
+    {
+      "korean": "뭐 미세먼지나 이런 두피 오염물질들이 묻잖아요. fine dust and allergic things can get on you. 듣기 View video 카모마일T (Chamomile_T) : 지성두피? 건성두피? 타입 별 사용하기 좋은 샴푸 리뷰",
+      "english": "fine dust and allergic things can get on you."
+    },
+    {
+      "korean": "에어컨길만 - 이렇게 되면 환경오염으로 우리가... - 맞네. AC only... - That would be bad for the environment. - Right. 듣기 View video V COOKIE : [Full] TRCNG's SUMMER VACATION WEEK - TRCNG X 여름방학 스페셜위크",
+      "english": "AC only... - That would be bad for the environment. - Right."
+    },
+    {
+      "korean": "오염이 잘 지워지지 않는다는 단점이 있는 소재입니다. The drawback is that it's hard to remove stains from polyester. 듣기 View video Fairy Tina : UNIQUE COATS INTRODUCING | TINA APPROVED COATS ONLY | FAIRY TINA",
+      "english": "The drawback is that it's hard to remove stains from polyester."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the insidious effects of polluted water supplies 듣기 Add to Wordbook 오염된 상수도의 서서히 미치는 영향 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the insidious effects of polluted water supplies Add to Wordbook"
+    },
+    {
+      "korean": "the exhaust fumes that are polluting our cities 듣기 Add to Wordbook 우리의 도시들을 오염시키고 있는 배기가스 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the exhaust fumes that are polluting our cities Add to Wordbook"
+    },
+    {
+      "korean": "Steps are to be taken to abate pollution. 듣기 Add to Wordbook 오염을 줄이기 위한 조치들이 취해져야 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Steps are to be taken to abate pollution. Add to Wordbook"
+    },
+    {
+      "korean": "The drinking water has become contaminated with lead. 듣기 Add to Wordbook 그 식수는 납에 오염되었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The drinking water has become contaminated with lead. Add to Wordbook"
+    },
+    {
+      "korean": "the process of decontaminating areas exposed to radioactivity 듣기 Add to Wordbook 방사능에 노출된 지역의 오염 제거 절차 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the process of decontaminating areas exposed to radioactivity Add to Wordbook"
+    }
+  ]
+}

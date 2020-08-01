@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "기동성",
+      "hanja": " (機動性)",
+      "example": {},
+      "meanings": [
+        "mobility, maneuverability"
+      ]
+    },
+    {
+      "phrase": "기동력",
+      "hanja": " (機動力)",
+      "example": {},
+      "meanings": [
+        "mobility"
+      ]
+    },
+    {
+      "phrase": "병사들의 기동성을 높이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "boost the soldiers' mobility"
+      ]
+    },
+    {
+      "phrase": "야지기동성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 cross-country mobility (CCM)"
+      ]
+    },
+    {
+      "phrase": "적의 기동성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "군사 enemy mobility"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mobility",
+      "frequency": 3
+    },
+    {
+      "meaning": "maneuverability",
+      "frequency": 0
+    },
+    {
+      "meaning": "man(o)euverability",
+      "frequency": 0
+    },
+    {
+      "meaning": "mobile",
+      "frequency": 3
+    },
+    {
+      "meaning": "mobility scooter",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "기동성있는 Kart로. 좋아! Let me change the Kart to something faster! Very nice! 듣기 View video GOT7 : 영재의 \"게임\" 하드캐리해!",
+      "english": "Let me change the Kart to something faster! Very nice!"
+    },
+    {
+      "korean": "요원! 요원! - 기동성은 아주 최고인 것 같군. Agents! Agents! - It seems like their mobility is the best. 듣기 View video V COOKIE : [FULL] VICTON X SUITS KNIGHTS - 빅톤의 정장방!",
+      "english": "Agents! Agents! - It seems like their mobility is the best."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "An electric wheelchair has given her greater mobility. 듣기 Add to Wordbook 전동 휠체어 덕분에 그녀의 기동성이 대단히 좋아졌다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "An electric wheelchair has given her greater mobility. Add to Wordbook"
+    },
+    {
+      "korean": "Scientists with the pharmaceutical division of Anderson International have discovered a new active substance that is likely to bring a good deal of mobility to sufferers of rheumatoid arthritis. 듣기 Add to Wordbook 앤더슨 인터내셔널 사의 제약 부문에서 일하는 과학자들은 류마티스 관절염 환자들에게 상당한 기동성을 줄 수 있을 것으로 보이는 새로운 활성 물질을 발견했습니다. YBM All in All English-Korean Dictionary",
+      "english": "Scientists with the pharmaceutical division of Anderson International have discovered a new active substance that is likely to bring a good deal of mobility to sufferers of rheumatoid arthritis. Add to Wordbook"
+    },
+    {
+      "korean": "That is likely to bring mobility to sufferers of rheumatoid arthritis. 듣기 Add to Wordbook 그것은 류마티스 관절염 환자들에게 상당한 기동성을 줄 수 있을 것으로 보인다. English Hidden Card",
+      "english": "That is likely to bring mobility to sufferers of rheumatoid arthritis. Add to Wordbook"
+    },
+    {
+      "korean": "\"The monkey symbolizes community, swiftness, mobility, good luck, playfulness, and intelligence.\" 듣기 Add to Wordbook \"원숭이는 공동체, 민첩함, 기동성, 행운, 장난기, 총명함을 상징한다.\" TIMES CORE",
+      "english": "\"The monkey symbolizes community, swiftness, mobility, good luck, playfulness, and intelligence.\" Add to Wordbook"
+    },
+    {
+      "korean": "The firm had unveiled induction-type products, but they could not deal with mobility issues. 듣기 Add to Wordbook 그 회사는 유도형 제품을 소개했지만, 기동성 문제를 해결할 수 없었다. TIMES CORE",
+      "english": "The firm had unveiled induction-type products, but they could not deal with mobility issues. Add to Wordbook"
+    }
+  ]
+}

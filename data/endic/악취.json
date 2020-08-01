@@ -1,0 +1,108 @@
+{
+  "phrases": [
+    {
+      "phrase": "악취",
+      "hanja": " (惡臭)",
+      "example": {},
+      "meanings": [
+        "bad[nasty, foul] smell, (informal) stink, (썩는 냄새) stench"
+      ]
+    },
+    {
+      "phrase": "악취(발산)",
+      "hanja": " (惡臭(發散))",
+      "example": {},
+      "meanings": [
+        "의학 mephitis"
+      ]
+    },
+    {
+      "phrase": "악취가 나는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "ill-smelling",
+        "foul[bad]-smelling",
+        "stinking"
+      ]
+    },
+    {
+      "phrase": "악취가 나다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "smell bad",
+        "give off a bad smell[stench]",
+        "stink"
+      ]
+    },
+    {
+      "phrase": "악취를 풍기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have[give out] a bad smell",
+        "smell bad",
+        "stink"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "smell",
+      "frequency": 3
+    },
+    {
+      "meaning": "stink",
+      "frequency": 3
+    },
+    {
+      "meaning": "stench",
+      "frequency": 0
+    },
+    {
+      "meaning": "odor",
+      "frequency": 3
+    },
+    {
+      "meaning": "pong",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "악취는 없습니다. No armpit odor. 듣기 View video 밀리언마켓 : 우태운의 '해주세요' 1화(먹방 :족보)",
+      "english": "No armpit odor."
+    },
+    {
+      "korean": "그리고 이병헌 씨, 거기 위치 자체가 악취가 날 수밖에 없는 위치였다고... Lee Byung Hun, I heard that the location was bound to smell a lot. 듣기 View video V MOVIE : 이병헌+강동원+김우빈 <마스터> 무비토크 라이브 ' Movie Talk Live'",
+      "english": "Lee Byung Hun, I heard that the location was bound to smell a lot."
+    },
+    {
+      "korean": "어땠나요? 더위, 습도, 악취 이 세 가지가 힘들었다고. How was it? I heard that you had a difficult time from the heat, humidity, and the smell. 듣기 View video V MOVIE : 이병헌+강동원+김우빈 <마스터> 무비토크 라이브 ' Movie Talk Live'",
+      "english": "How was it? I heard that you had a difficult time from the heat, humidity, and the smell."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "foul odor 듣기 Add to Wordbook 악취. Friendict Level English-Korean Dictionary",
+      "english": "foul odor Add to Wordbook"
+    },
+    {
+      "korean": "rank odors 듣기 Add to Wordbook 악취. Friendict Level English-Korean Dictionary",
+      "english": "rank odors Add to Wordbook"
+    },
+    {
+      "korean": "The stench of treachery hung in the air. 듣기 Add to Wordbook 반역의 악취[기미]가 대기에 그득했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The stench of treachery hung in the air. Add to Wordbook"
+    },
+    {
+      "korean": "The air was heavy with the stink of damp and foulness. 듣기 Add to Wordbook 공기는 코를 찌르는 습한 냄새와 악취로 숨쉬기가 힘들었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The air was heavy with the stink of damp and foulness. Add to Wordbook"
+    },
+    {
+      "korean": "the putrid smell of rotten meat 듣기 Add to Wordbook 썩는 고기에서 나는 악취 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the putrid smell of rotten meat Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "임무",
+      "hanja": " (任務)",
+      "example": {},
+      "meanings": [
+        "assignment, duty, mission, task"
+      ]
+    },
+    {
+      "phrase": "임무를 맡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "undertake a task[mission]"
+      ]
+    },
+    {
+      "phrase": "중요 임무",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an important duty",
+        "a grave task"
+      ]
+    },
+    {
+      "phrase": "임무를 맡기다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "assign (sb) a task[job]",
+        "place a duty (upon)",
+        "give the responsibility (of)"
+      ]
+    },
+    {
+      "phrase": "임무를 완수하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "fulfill[accomplish, complete, carry out] one's duty[task]"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "mission",
+      "frequency": 1
+    },
+    {
+      "meaning": "charge",
+      "frequency": 2
+    },
+    {
+      "meaning": "duty",
+      "frequency": 2
+    },
+    {
+      "meaning": "assignment",
+      "frequency": 1
+    },
+    {
+      "meaning": "cue 1",
+      "frequency": 1
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "부과대 임무도 완수할 수 있을까요? and complete her job as the vice president? 듣기 View video 플레이리스트 (Playlist) : 이거 완전 고3 사찰 드라마 아녀?ㄷㄷ [인서울 5분 요약]",
+      "english": "and complete her job as the vice president?"
+    },
+    {
+      "korean": "찾았다! - 임무가 내려왔어요 - 수락하시겠습니까? I found it! - A mission. - Will you accept it? 듣기 View video World Klass (월드 클래스) : 🌏 보고싶어서 왔클! 4인실 + 2인실 🌏",
+      "english": "I found it! - A mission. - Will you accept it?"
+    },
+    {
+      "korean": "[임무 완수 후 같이 라면을 고르는 유나, 리아] 유나야 후르츠 칵테일 찾았니? [YUNA and LIA are choosing a ramen brand together] YUNA, did you get the fruits cocktail? 듣기 View video Dispatch : [ⓓxV] “IT'Z TRAVEL ②” (있지 : ITZY)",
+      "english": "[YUNA and LIA are choosing a ramen brand together] YUNA, did you get the fruits cocktail?"
+    },
+    {
+      "korean": "콘서트 임무라고요? It's a concert mission? 듣기 View video JBJ95 : [#지금하95] 다시 ...",
+      "english": "It's a concert mission?"
+    },
+    {
+      "korean": "임무가 불가능한... The impossible dut... 듣기 View video BTOB : 깜짝성재입니당😊",
+      "english": "The impossible dut..."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "one of our reporters on assignment in China 발음듣기 중국에서 임무 수행 중인 우리 기자들 중 한 명 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "one of our reporters on assignment in China 발음"
+    },
+    {
+      "korean": "a mercy mission to aid homeless refugees 발음듣기 집을 잃은 난민들을 돕는 구호 임무 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a mercy mission to aid homeless refugees 발음"
+    },
+    {
+      "korean": "Half the garrison is / are on duty. 발음듣기 수비대 절반이 임무 수행 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Half the garrison is / are on duty. 발음"
+    },
+    {
+      "korean": "The squadron flew on a reconnaissance mission. 발음듣기 그 비행 중대는 정찰 임무를 띠고 날아갔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The squadron flew on a reconnaissance mission. 발음"
+    },
+    {
+      "korean": "The planes needed to refuel before the next mission. 발음듣기 그 비행기들은 다음 임무 수행 전에 재급유를 받아야 했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The planes needed to refuel before the next mission. 발음"
+    }
+  ]
+}

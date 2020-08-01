@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "끌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "chisel"
+      ]
+    },
+    {
+      "phrase": "끄다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(불을) put out, (formal) extinguish, quench, (입으로 불어서) blow out",
+        "(전기·기계 등을) turn off, turn out, switch off, (컴퓨터 등을) shut down"
+      ]
+    },
+    {
+      "phrase": "둥근 끌",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a gouge",
+        "a scalper(조각용)"
+      ]
+    },
+    {
+      "phrase": "(남의) 손을 끌다[잡다]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "lead[take] by the hand"
+      ]
+    },
+    {
+      "phrase": "끌을 쓰다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "use chisel"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "chisel",
+      "frequency": 3
+    },
+    {
+      "meaning": "spade 1",
+      "frequency": 3
+    },
+    {
+      "meaning": "gad 2",
+      "frequency": 0
+    },
+    {
+      "meaning": "borer",
+      "frequency": 0
+    },
+    {
+      "meaning": "burin",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "슬슬 끌 각이 나왔나요? Is it about time that we end it? 듣기 View video Stray Kids : We love Felix and Phoenix❤",
+      "english": "Is it about time that we end it?"
+    },
+    {
+      "korean": "불 끌 수 있어요 잠깐? Can we turn off the light? 듣기 View video TWICE : 모 생일🍑",
+      "english": "Can we turn off the light?"
+    },
+    {
+      "korean": "그렇죠? 안 끌 거죠? Right? You're not going to, are you? 듣기 View video NU'EST : [NU’EST] 러브야🐯",
+      "english": "Right? You're not going to, are you?"
+    },
+    {
+      "korean": "'몇 분에 끌 거야?' \"When are you going to turn this off?\" 듣기 View video VICTON : 여기로모여라~!🐥🐶",
+      "english": "\"When are you going to turn this off?\""
+    },
+    {
+      "korean": "'언니 방송 끌때 쇠빠 해주세요' 쇠빠가 뭐야? \"When you end the show, please say Swe-Bba.\" What is that?? 듣기 View video GFRIEND : 안녕하쇠영",
+      "english": "\"When you end the show, please say Swe-Bba.\" What is that??"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "I finally managed to get her attention. 듣기 Add to Wordbook 나는 마침내 간신히 그녀의 관심을 끌 수 있었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "I finally managed to get her attention. Add to Wordbook"
+    },
+    {
+      "korean": "This chisel is used to cut wood. 듣기 Add to Wordbook 이 끌은 나무를 깎는 데 쓰인다. YBM All in All English-Korean Dictionary",
+      "english": "This chisel is used to cut wood. Add to Wordbook"
+    },
+    {
+      "korean": "I think a mallet and chisel would be helpful. 듣기 Add to Wordbook 나무 망치하고 끌이 있으면 도움이 되겠는데. Neungyule",
+      "english": "I think a mallet and chisel would be helpful. Add to Wordbook"
+    },
+    {
+      "korean": "Can I turn that off? 듣기 Add to Wordbook 플래시를 끌 수도 있나요? YBM All in All English-Korean Dictionary",
+      "english": "Can I turn that off? Add to Wordbook"
+    },
+    {
+      "korean": "How do I disable the warning message that appears when I try to delete files? 듣기 Add to Wordbook 파일 지울 때 나오는 경고 메시지를 끌 수 없을까요? Neungyule",
+      "english": "How do I disable the warning message that appears when I try to delete files? Add to Wordbook"
+    }
+  ]
+}

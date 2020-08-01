@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "요양",
+      "hanja": " (療養)",
+      "example": {},
+      "meanings": [
+        "[명사] recuperation, convalescence, [동사] recuperate, convalesce"
+      ]
+    },
+    {
+      "phrase": "요양 중이다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be now under medical treatment"
+      ]
+    },
+    {
+      "phrase": "병후 요양",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "convalescence"
+      ]
+    },
+    {
+      "phrase": "자택 요양",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "home[domiciliary] treatment"
+      ]
+    },
+    {
+      "phrase": "전지 요양하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go away for one´s health"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "convalescence",
+      "frequency": 0
+    },
+    {
+      "meaning": "휴양",
+      "frequency": 0
+    },
+    {
+      "meaning": "convalescent",
+      "frequency": 0
+    },
+    {
+      "meaning": "convalesce",
+      "frequency": 0
+    },
+    {
+      "meaning": "watering place",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다 해요? - 지금 요양 중이어서 - 요양 중이라? Really? - He is resting. - Really? 듣기 View video V COOKIE : [Full] INFINITE X CouchTalk - 인피니트 X 카우치토크",
+      "english": "Really? - He is resting. - Really?"
+    },
+    {
+      "korean": "네 오늘 요양 중입니다. Yes, I'm resting today. 듣기 View video 김동한 (KimDongHan) : 김동한 스물한 번째 생일 축하 기념 브이앱😬",
+      "english": "Yes, I'm resting today."
+    },
+    {
+      "korean": "수원에서 요양을 했습니다. I took a break in Suwon. 듣기 View video YGK+ : Holly Moly 어눌어눌하다닝! 모델 이호정",
+      "english": "I took a break in Suwon."
+    },
+    {
+      "korean": "지금 요양 중입니다. 많은 이해 부탁드려요~ She's taking a rest. Sorry for that~ 듣기 View video IDOL x IDOL : A.DE - 에이디이 '초심 속으로 1탄 해영-초윤!!'",
+      "english": "She's taking a rest. Sorry for that~"
+    },
+    {
+      "korean": "그렇군요. - 용국 형 지금 요양 중이세요. That's right. - Yongguk is recuperating right now. 듣기 View video B.A.P : 일요일",
+      "english": "That's right. - Yongguk is recuperating right now."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "She is convalescing at home after her operation. 발음듣기 그녀는 수술을 받은 후 집에서 요양 중이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She is convalescing at home after her operation. 발음"
+    },
+    {
+      "korean": "a residential home for the elderly 발음듣기 노인 상주 요양 시설 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a residential home for the elderly 발음"
+    },
+    {
+      "korean": "a home for the mentally ill 발음듣기 정신 요양원 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a home for the mentally ill 발음"
+    },
+    {
+      "korean": "The granny tax for long term care has been introduced. 발음듣기 장기요양을 위한 노인 세금이 도입되었다. 국제영어대학원대학교 신어사전",
+      "english": "The granny tax for long term care has been introduced. 발음"
+    },
+    {
+      "korean": "Despite cohort isolation, the number of people infected at the elderly care facilities continued to rise. 발음듣기 동일집단 격리 조치에도 불구하고, 노인 요양 시설의 감염자 수는 지속해서 늘어났다. 국제영어대학원대학교 신어사전",
+      "english": "Despite cohort isolation, the number of people infected at the elderly care facilities continued to rise. 발음"
+    }
+  ]
+}

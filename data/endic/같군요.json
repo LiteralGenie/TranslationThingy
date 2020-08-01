@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "같다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(동일하다, 동등하다) same, identical (to/with), equal (to), (가치가) equivalent (to), (공통된) common",
+        "(비슷하다, 유사하다) similar (to), like (※명사 앞에서만 쓰임), alike (※명사 앞에서는 쓰이지 않음)",
+        "(종류) like, such as"
+      ]
+    },
+    {
+      "phrase": "그건 좀 이상한 것 같군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "That seems odd."
+      ]
+    },
+    {
+      "phrase": "술이 좀 과한 것 같군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You had one too many."
+      ]
+    },
+    {
+      "phrase": "너 거짓말을 하는 것 같군.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "I think you're fibbing."
+      ]
+    },
+    {
+      "phrase": "당신은 치밀한 사람인 것 같군요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "You sound very organized."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "for your information",
+      "frequency": 0
+    },
+    {
+      "meaning": "What bloody awful weather!",
+      "frequency": 0
+    },
+    {
+      "meaning": "It's filthy in here!",
+      "frequency": 0
+    },
+    {
+      "meaning": "You look happy today.",
+      "frequency": 0
+    },
+    {
+      "meaning": "seem",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마치 제 머리 같군요. It's like my hair. 듣기 View video V PICK! : [V PICK! HOW TO in V] 앤씨아의 과자집🍪🍫🏠(HOW TO COOK NC.A’s Cookie House)",
+      "english": "It's like my hair."
+    },
+    {
+      "korean": "개안이 될 것 같군. I think the eyes will open. 듣기 View video V COOKIE : [FULL] CLC X SUITS KNIGHTS - CLC의 정장방!",
+      "english": "I think the eyes will open."
+    },
+    {
+      "korean": "딱딱하게 굳은 거 같군요. It feels like it hardened. 듣기 View video HANABONO : 블랙헤드 자극없이 제거하는 코팩 ! 요즘 쓰는 역대급 코팩 2가지 리뷰",
+      "english": "It feels like it hardened."
+    },
+    {
+      "korean": "이것은 거실인 것 같군. I think this is the hallway... 듣기 View video V COOKIE : [FULL] CLC X SUITS KNIGHTS - CLC의 정장방!",
+      "english": "I think this is the hallway..."
+    },
+    {
+      "korean": "아직 개안은 안 된 것 같군. The eye has not been opened yet. 듣기 View video V COOKIE : [FULL] CLC X SUITS KNIGHTS - CLC의 정장방!",
+      "english": "The eye has not been opened yet."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Looks like it die out a little. 듣기 Add to Wordbook 약간 사라진 것 같군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 luna(arte****)",
+      "english": "Looks like it die out a little. Add to Wordbook"
+    },
+    {
+      "korean": "Seems like a lot of extra work. 듣기 Add to Wordbook 잔업이 많은 것 같군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 메르베이(psys****)",
+      "english": "Seems like a lot of extra work. Add to Wordbook"
+    },
+    {
+      "korean": "It looks like this is the end. 듣기 Add to Wordbook 이제는 끝인 것 같군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 proudgray(prou****)",
+      "english": "It looks like this is the end. Add to Wordbook"
+    },
+    {
+      "korean": "Great, we're on the same page. 듣기 Add to Wordbook 좋아요, 우린 생각이 같군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 유루밍(girr****)",
+      "english": "Great, we're on the same page. Add to Wordbook"
+    },
+    {
+      "korean": "I think my work here is done. 듣기 Add to Wordbook 제가 할 일은 다 한 것 같군요. User translation Inaccurate information may be included due to the users' self-traslation. 닫기 유루밍(girr****)",
+      "english": "I think my work here is done. Add to Wordbook"
+    }
+  ]
+}

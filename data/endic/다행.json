@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "다행",
+      "hanja": " (多幸)",
+      "example": {},
+      "meanings": [
+        "(good) luck, good fortune, ―하다 (be) lucky, fortunate"
+      ]
+    },
+    {
+      "phrase": "다행스럽다",
+      "hanja": " (多幸스럽다)",
+      "example": {},
+      "meanings": [
+        "lucky, fortunate"
+      ]
+    },
+    {
+      "phrase": "불행 중 다행",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a happy feature of a misfortune"
+      ]
+    },
+    {
+      "phrase": "불행중다행",
+      "hanja": " (不幸中多幸)",
+      "example": {},
+      "meanings": [
+        "one consolation in sadness, a stroke of good luck in the midst of misfortune."
+      ]
+    },
+    {
+      "phrase": "마음에 들어 해서 다행이에요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "감사 I'm glad that you enjoyed it.",
+        "감사 I'm glad that you liked it."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "fortunate",
+      "frequency": 3
+    },
+    {
+      "meaning": "fortunately",
+      "frequency": 3
+    },
+    {
+      "meaning": "thankful",
+      "frequency": 3
+    },
+    {
+      "meaning": "it is just as well (that…)",
+      "frequency": 0
+    },
+    {
+      "meaning": "be a good thing (that)…",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "다행... What a relief. 듣기 View video T-ARA : 효민이와 Moonlight swimming <달빛 수영>",
+      "english": "What a relief."
+    },
+    {
+      "korean": "다행이다... It's a relief... 듣기 View video V PICK! : [GOT7] 말랑콩떡이 알고보니 반짝꿀떡이었던 거예요🍡 (YUGYEOM singing PRAY)",
+      "english": "It's a relief..."
+    },
+    {
+      "korean": "나 없겠지? 나 다행이다... I hope I don't have one. I'm glad. 듣기 View video ASTRO : 따나의 얼렁뚱땅 떡국 만들기🐥🍲",
+      "english": "I hope I don't have one. I'm glad."
+    },
+    {
+      "korean": "다행이다 다행이다! A relief, a relief! 듣기 View video KIM JAEHWAN(김재환) : 윈드와 함께 하는 솔로 데뷔 100일 잔치 🎉",
+      "english": "A relief, a relief!"
+    },
+    {
+      "korean": "넌 다행이다야... Yours is good. 듣기 View video ASTRO : 메리 크리스마스🎅🤶🎁🎄♥️",
+      "english": "Yours is good."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "That was the luckiest escape of my life. 듣기 Add to Wordbook 그것은 내 인생에서 가장 다행스러운[천우신조의] 탈출이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "That was the luckiest escape of my life. Add to Wordbook"
+    },
+    {
+      "korean": "Thank God you’re safe! 듣기 Add to Wordbook 네가 안전해서 정말 다행이야! Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Thank God you’re safe! Add to Wordbook"
+    },
+    {
+      "korean": "It’s a good thing you came early. 듣기 Add to Wordbook 네가 일찍 오다니 다행이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s a good thing you came early. Add to Wordbook"
+    },
+    {
+      "korean": "Death came as a merciful release. 듣기 Add to Wordbook 다행스러운 해방처럼 죽음이 다가왔다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Death came as a merciful release. Add to Wordbook"
+    },
+    {
+      "korean": "It’s a good thing we got here early. 듣기 Add to Wordbook 우리가 여기 일찍 와서 다행이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "It’s a good thing we got here early. Add to Wordbook"
+    }
+  ]
+}

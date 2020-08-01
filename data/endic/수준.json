@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "수준",
+      "hanja": " (水準)",
+      "example": {},
+      "meanings": [
+        "level, standard"
+      ]
+    },
+    {
+      "phrase": "문화 수준",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the cultural level"
+      ]
+    },
+    {
+      "phrase": "최고 수준",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the highest level"
+      ]
+    },
+    {
+      "phrase": "수준 이하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be below[lower than] average",
+        "do not reach the standard",
+        "be not up to par[standard]"
+      ]
+    },
+    {
+      "phrase": "높은[낮은] 수준",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a high[low] standard"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "level",
+      "frequency": 3
+    },
+    {
+      "meaning": "league",
+      "frequency": 3
+    },
+    {
+      "meaning": "standard",
+      "frequency": 3
+    },
+    {
+      "meaning": "plane",
+      "frequency": 3
+    },
+    {
+      "meaning": "mark",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "그런 자판기 수준의 그런 국어 실력자가 아니어서... I'm not great at Korean, though. 듣기 View video TOMORROW X TOGETHER : 수빈입니다!",
+      "english": "I'm not great at Korean, though."
+    },
+    {
+      "korean": "[공 때리는 수준] 되는데 민현아? [Hitting the ball] Oh, he can play even with that. 듣기 View video NU'EST : [NU'EST] L.O.Λ.E STORY EP.19 뉴이스트의 2020 왁자지껄 운수대통 #1",
+      "english": "[Hitting the ball] Oh, he can play even with that."
+    },
+    {
+      "korean": "3시간 자면서 덕질할 정도의 수준은... There aren't many content for you to sleep 3 hours only. 듣기 View video V COOKIE : [Full] KIM WOO SEOK X LieV - 김우석의 눕방라이브!",
+      "english": "There aren't many content for you to sleep 3 hours only."
+    },
+    {
+      "korean": "그래서 저 정도 수준을 만나는 거야? Is that why you are cheating on me with someone of that level? 듣기 View video 플레이리스트 (Playlist) : 여자 둘이 손잡고 X레기 족치는 법[엑스엑스(XX)] - EP.08",
+      "english": "Is that why you are cheating on me with someone of that level?"
+    },
+    {
+      "korean": "...한 수준이 아니네요? The similar way? 듣기 View video 콬TV (WHYNOT) : 처음 본 사람이랑 같은 방을 쓴다면? [7일만 로맨스] EP02",
+      "english": "The similar way?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Wage rates depend on levels of productivity. 듣기 Add to Wordbook 임금 지급률은 생산성 수준에 따라 달라진다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Wage rates depend on levels of productivity. Add to Wordbook"
+    },
+    {
+      "korean": "Her fear of flying is bordering on obsession. 듣기 Add to Wordbook 그녀의 비행 공포증이 거의 강박 상태 수준이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her fear of flying is bordering on obsession. Add to Wordbook"
+    },
+    {
+      "korean": "a level of achievement that has never been paralleled 듣기 Add to Wordbook 지금까지의 그 어느 것보다도 뛰어난 수준의 실적 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a level of achievement that has never been paralleled Add to Wordbook"
+    },
+    {
+      "korean": "This standard is easily attainable by most students. 듣기 Add to Wordbook 이 수준은 대부분의 학생들이 쉽게 달성할 수 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "This standard is easily attainable by most students. Add to Wordbook"
+    },
+    {
+      "korean": "Many people without jobs are living on the breadline. 듣기 Add to Wordbook 직장이 없는 많은 사람들이 최저 수준의 소득으로 살아간다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Many people without jobs are living on the breadline. Add to Wordbook"
+    }
+  ]
+}

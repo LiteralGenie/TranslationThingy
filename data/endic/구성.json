@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "구성",
+      "hanja": " (構成)",
+      "example": {},
+      "meanings": [
+        "[명사] composition, constitution, organization, formation, (언어의) construction, [동사] form, construct, (formal) comprise, (formal) compose, make up, (조직·정부 등을) (formal) constitute, organize"
+      ]
+    },
+    {
+      "phrase": "구성되다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be made up[composed]",
+        "consist"
+      ]
+    },
+    {
+      "phrase": "인원 구성",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "personnel organization",
+        "lineup"
+      ]
+    },
+    {
+      "phrase": "구성 요소",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "component, constituent"
+      ]
+    },
+    {
+      "phrase": "구성 비율",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a component[distribution] ratio"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "construction",
+      "frequency": 3
+    },
+    {
+      "meaning": "plot",
+      "frequency": 3
+    },
+    {
+      "meaning": "make-up",
+      "frequency": 3
+    },
+    {
+      "meaning": "organization",
+      "frequency": 3
+    },
+    {
+      "meaning": "setup",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "구성품이 쓰여있어요 - 구성품이요? It shows the items of our album. - Items? 듣기 View video iKON : [Replay] iKON ‘i DECIDE’ COUNTDOWN LIVE",
+      "english": "It shows the items of our album. - Items?"
+    },
+    {
+      "korean": "진짜 - 구성이 - 갑자기요? Really. - Items... - Suddenly? 듣기 View video 우주소녀(WJSN) : [우주소녀] 이루리 이루리 La D-1💞🙏",
+      "english": "Really. - Items... - Suddenly?"
+    },
+    {
+      "korean": "[어마어마한 구성] 풀세트야? [Amazing] Oh, is it a full set? 듣기 View video SEVENTEEN : [SEVENTEEN] GOING SEVENTEEN 2019 EP.23 TTT #3 (Camping Ver.)",
+      "english": "[Amazing] Oh, is it a full set?"
+    },
+    {
+      "korean": "색상 구성 진짜 예쁘죠? The colors look really pretty, right? 듣기 View video SmileJ : 요즘제일손많이가는제품♥ 데일리 파우치 공개 ♥ what's in my pouch (직장인 뷰티 꿀템 소개)",
+      "english": "The colors look really pretty, right?"
+    },
+    {
+      "korean": "그럼 구성을 보겠습니다! Let's take a closer look at the album. 듣기 View video V Special : [V CREW] 붐보의 서재 - EP. 05 빅톤 미니앨범 5집 언박싱! (존버는 승.리.한.다🤭💓)",
+      "english": "Let's take a closer look at the album."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "personal animosities between members of the two groups 듣기 Add to Wordbook 그 두 집단 구성원들 사이의 개인적인 적대감들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "personal animosities between members of the two groups Add to Wordbook"
+    },
+    {
+      "korean": "The leaders and members clashed on the issue. 듣기 Add to Wordbook 지도자들과 구성원들이 그 쟁점을 두고 언쟁을 벌였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The leaders and members clashed on the issue. Add to Wordbook"
+    },
+    {
+      "korean": "attempts to attract new recruits to the nursing profession 듣기 Add to Wordbook 간호업계에 새로운 구성원들을 끌어들이려는 시도들 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "attempts to attract new recruits to the nursing profession Add to Wordbook"
+    },
+    {
+      "korean": "They apportioned the land among members of the family. 듣기 Add to Wordbook 그들은 그 땅을 가족 구성원들에게 배분해 주었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "They apportioned the land among members of the family. Add to Wordbook"
+    },
+    {
+      "korean": "The last question foxed even our panel of experts. 듣기 Add to Wordbook 마지막 문제는 전문가로 구성된 우리 패널들도 해결할 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The last question foxed even our panel of experts. Add to Wordbook"
+    }
+  ]
+}

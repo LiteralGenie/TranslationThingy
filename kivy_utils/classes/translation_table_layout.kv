@@ -1,0 +1,40 @@
+<Row>:
+    height: 100
+    orientation: "horizontal"
+
+<TranslationTable>:
+    BoxLayout:
+        size_hint: 1, None
+        id: layout
+        orientation: "vertical"
+
+        # Header
+        BoxLayout:
+            id: header
+            orientation: "horizontal"
+
+            RowLabel:
+                text: ""
+            HeaderLabel:
+                text: "Korean"
+            HeaderLabel:
+                text: "English"
+
+<KorInput>:
+    text_language: "ko-KR"
+    halign: "left"
+
+<EngInput>:
+    text_language: "en_US"
+    halign: "left"
+
+<RowLabel>:
+    size_hint_max_x: 75
+    text_size: self.size
+    text_language: "en_us"
+    halign: "center"
+    valign: "middle"
+
+<HeaderLabel>:
+    text_language: "en_us"
+    halign: "center"

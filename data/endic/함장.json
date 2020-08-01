@@ -1,0 +1,98 @@
+{
+  "phrases": [
+    {
+      "phrase": "함장",
+      "hanja": " (艦長)",
+      "example": {},
+      "meanings": [
+        "captain"
+      ]
+    },
+    {
+      "phrase": "잠수함의 함장",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the captain of a submarine"
+      ]
+    },
+    {
+      "phrase": "함장 일기",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "captain's diary"
+      ]
+    },
+    {
+      "phrase": "함장을 맡다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "undertake captain"
+      ]
+    },
+    {
+      "phrase": "함장을 지지하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "support captain"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "commanding officer",
+      "frequency": 0
+    },
+    {
+      "meaning": "sea captain",
+      "frequency": 0
+    },
+    {
+      "meaning": "a sea captain",
+      "frequency": 0
+    },
+    {
+      "meaning": "flag captain",
+      "frequency": 0
+    },
+    {
+      "meaning": "post captain",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아 그 함장 딸 역할이었나요? - 아마도 \"Star Trek Beyond\"였던 것 같아요. I remember that. - I think it was \"Star Trek Beyond\". 듣기 View video 10PM : 목요일 김태훈, 정시우의 무비톡톡! Movie talk!talk!",
+      "english": "I remember that. - I think it was \"Star Trek Beyond\"."
+    },
+    {
+      "korean": "내한한 배우 중 커크 함장 역할을 맡은 배우의 이름은? Among them was the actor who played Captain Kirk. What is his name? 듣기 View video 10PM : 월요일 하지영의 한밤의 연예뉴스 WITH 스타트렉 배우 내한 현장 A night's entertainment news",
+      "english": "Among them was the actor who played Captain Kirk. What is his name?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The general contravened the captain's order to attack. 듣기 Add to Wordbook 장군은 공격하라는 함장의 명령을 어겼다. Neungyule",
+      "english": "The general contravened the captain's order to attack. Add to Wordbook"
+    },
+    {
+      "korean": "In the movie The Hunt for Red October, Sean Connery plays a maverick Soviet submarine commander. 듣기 Add to Wordbook 영화 <붉은 10월>에서 션 코너리는 독불장군과 같은 소련의 잠수함 함장 역할을 한다. YBM All in All English-Korean Dictionary",
+      "english": "In the movie The Hunt for Red October, Sean Connery plays a maverick Soviet submarine commander. Add to Wordbook"
+    },
+    {
+      "korean": "the broad [narrow] pennant 듣기 Add to Wordbook 제독(提督)[함장]기. Friendict Level English-Korean Dictionary",
+      "english": "the broad [narrow] pennant Add to Wordbook"
+    },
+    {
+      "korean": "The captain drove his ship through the hostile fleet. 듣기 Add to Wordbook 함장은 배를 몰아 적함대 사이를 돌파했다. 영어영작문대사전",
+      "english": "The captain drove his ship through the hostile fleet. Add to Wordbook"
+    },
+    {
+      "korean": "But according to legend, the entire crew, including Captain James Friday, never returned home. 듣기 Add to Wordbook 하지만 전설에 따르면, 제임스 프라이데이 함장을 포함한 승조원 전원이 돌아오지 못했다. EDU TIMES",
+      "english": "But according to legend, the entire crew, including Captain James Friday, never returned home. Add to Wordbook"
+    }
+  ]
+}

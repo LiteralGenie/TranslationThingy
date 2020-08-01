@@ -1,0 +1,89 @@
+{
+  "phrases": [
+    {
+      "phrase": "회선",
+      "hanja": " (回線)",
+      "example": {},
+      "meanings": [
+        "line, (telephone/telegraph) circuit"
+      ]
+    },
+    {
+      "phrase": "개방[폐쇄] 회선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an open[a closed] circuit"
+      ]
+    },
+    {
+      "phrase": "회선포대",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a (rotating) turret"
+      ]
+    },
+    {
+      "phrase": "전화 회선",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a telephone circuit"
+      ]
+    },
+    {
+      "phrase": "인터넷 전용 회선을 깔다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "install a separate line[circuit] for Internet access"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "involution",
+      "frequency": 1
+    },
+    {
+      "meaning": "convolvement",
+      "frequency": 0
+    },
+    {
+      "meaning": "CKt",
+      "frequency": 0
+    },
+    {
+      "meaning": "DSL",
+      "frequency": 0
+    },
+    {
+      "meaning": "modem",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Telephone charges include line rental. 발음듣기 전화 요금에는 회선 사용료가 포함된다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Telephone charges include line rental. 발음"
+    },
+    {
+      "korean": "There was an echo on the line and I couldn’t hear clearly. 발음듣기 전화 회선에 소리가 울려서 똑똑히 들을 수가 없었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There was an echo on the line and I couldn’t hear clearly. 발음"
+    },
+    {
+      "korean": "If so, enter it here. 발음듣기 만일 그렇다면, 여기에 외부 회선 번호를 입력하십시오. YBM All in All English-Korean Dictionary",
+      "english": "If so, enter it here. 발음"
+    },
+    {
+      "korean": "Do you know how to build an electric circuit? 발음듣기 전기 회선 만들 줄 아세요? Neungyule",
+      "english": "Do you know how to build an electric circuit? 발음"
+    },
+    {
+      "korean": "The lines to Tokyo are very busy just now. 발음듣기 지금 도쿄 회선이 모두 다 통화중입니다. Neungyule",
+      "english": "The lines to Tokyo are very busy just now. 발음"
+    }
+  ]
+}

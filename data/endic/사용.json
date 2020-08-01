@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "사용",
+      "hanja": " (使用)",
+      "example": {},
+      "meanings": [
+        "[명사] use, [동사] use, (formal) employ"
+      ]
+    },
+    {
+      "phrase": "사용 설명서",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "instructions, handbook, (기계의) manual"
+      ]
+    },
+    {
+      "phrase": "사용할 수 있는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "usable",
+        "fit for use"
+      ]
+    },
+    {
+      "phrase": "사용할 수 없는",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "unfit for use"
+      ]
+    },
+    {
+      "phrase": "사용을 금하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "forbid[ban] the use (of)"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wear",
+      "frequency": 3
+    },
+    {
+      "meaning": "use",
+      "frequency": 3
+    },
+    {
+      "meaning": "employment",
+      "frequency": 3
+    },
+    {
+      "meaning": "occupation",
+      "frequency": 3
+    },
+    {
+      "meaning": "usage",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "마스크를 직접 무대에서 사용을 할까요 아니면 어떻게 할까요? Should we use the masks during the stage, or what should we do? 듣기 View video V COOKIE : [Full] DREAMCATCHER X Rooftop Live - 드림캐쳐의 루프탑라이브!",
+      "english": "Should we use the masks during the stage, or what should we do?"
+    },
+    {
+      "korean": "'영재가 사용하는...' \"What you use...\" 듣기 View video GOT7 : 쉼표방",
+      "english": "\"What you use...\""
+    },
+    {
+      "korean": "이거... 뭐라고 하냐? 사용법? And... What's this called? The instructions? 듣기 View video TOMORROW X TOGETHER : 수빈&휴닝카이 : 뚝딱뚝딱 공작시간",
+      "english": "And... What's this called? The instructions?"
+    },
+    {
+      "korean": "여러분들 이제 정말 이 완성된 폭죽을 사용할 건... I am going to use this completed fireworks now... 듣기 View video PARK JI HOON : HAPPY MAY BIRTHDAY🎂",
+      "english": "I am going to use this completed fireworks now..."
+    },
+    {
+      "korean": "[만능 클리너 사용 기간은?] 사용 기간은 어느 정도 사용하면 좋을까요? [How long can we use the multi-use cleaner?] how long can I use it? 듣기 View video SEOUL EONNI : [아로마테라피] 레몬오일 만능 클리너 DIY 만들기 +레몬디톡스",
+      "english": "[How long can we use the multi-use cleaner?] how long can I use it?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "a boycott on the use of tropical wood 듣기 Add to Wordbook 열대 목재 사용 거부 운동 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a boycott on the use of tropical wood Add to Wordbook"
+    },
+    {
+      "korean": "When will the single currency be operable? 듣기 Add to Wordbook 단일 통화는 언제 사용됩니까? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "When will the single currency be operable? Add to Wordbook"
+    },
+    {
+      "korean": "The table folds up when not in use. 듣기 Add to Wordbook 그 탁자는 사용하지 않을 때는 접게 되어 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The table folds up when not in use. Add to Wordbook"
+    },
+    {
+      "korean": "The weapon used in the raid was a replica. 듣기 Add to Wordbook 그 습격 때 사용된 무기는 모형이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The weapon used in the raid was a replica. Add to Wordbook"
+    },
+    {
+      "korean": "Which measure of weight do pharmacists use? 듣기 Add to Wordbook 약사들은 어떤 무게 단위를 사용하지요? Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Which measure of weight do pharmacists use? Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(높이·위치 등이) low, (구두 굽·코 등이) flat",
+        "(계급·지위 등이)",
+        "(수준·수치·가격 등이) low"
+      ]
+    },
+    {
+      "phrase": "개연성이 낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be (highly) improbable",
+        "be unlikely (to)"
+      ]
+    },
+    {
+      "phrase": "비중이 낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be of little importance",
+        "be given little weight"
+      ]
+    },
+    {
+      "phrase": "눈이 낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have[hold] low standards"
+      ]
+    },
+    {
+      "phrase": "채도가 낮다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "have a low chroma"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "저속하다",
+      "frequency": 0
+    },
+    {
+      "meaning": "저급",
+      "frequency": 0
+    },
+    {
+      "meaning": "have a low ceiling",
+      "frequency": 0
+    },
+    {
+      "meaning": "be low in position",
+      "frequency": 0
+    },
+    {
+      "meaning": "be low-ceilinged",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "어 되게 낮다 그죠? It's really low, right? 듣기 View video Apink : 정은지의 서울의밤",
+      "english": "It's really low, right?"
+    },
+    {
+      "korean": "자존감이 낮다 높다 감히 어떤 사람이 어떤 사람에게 할 수 있는 말일까요? Your self-esteem is low and high. How dare someone say that to you? 듣기 View video SF9 : [빈,us] 시작🍀",
+      "english": "Your self-esteem is low and high. How dare someone say that to you?"
+    },
+    {
+      "korean": "너무 낮다. It's too low. 듣기 View video MAMAMOO : [Special] '음주 歌 마무' (음악중심 1위 공약 영상)",
+      "english": "It's too low."
+    },
+    {
+      "korean": "수준이 너무 낮다. You're a beginner. 듣기 View video iKON : [KONIC TV] 코니들의 소오름2탄 (미안해요)",
+      "english": "You're a beginner."
+    },
+    {
+      "korean": "천장이 되게 낮다~ The roof is very low~ 듣기 View video KIM JAEJOONG : 김재중 - 아시아투어 'The REBIRTH of J' 비하인드 Film",
+      "english": "The roof is very low~"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The cello is lower than the violin. 발음듣기 첼로는 바이올린보다 음이 더 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The cello is lower than the violin. 발음"
+    },
+    {
+      "korean": "Fish oils are less saturated than animal fats. 발음듣기 물고기 기름이 동물의 지방보다 포화도가 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Fish oils are less saturated than animal fats. 발음"
+    },
+    {
+      "korean": "The province is heavily forested and sparsely populated. 발음듣기 그 지방은 삼림이 울창하게 우거져 있고 인구분포도는 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The province is heavily forested and sparsely populated. 발음"
+    },
+    {
+      "korean": "He has a low sperm count. 발음듣기 그는 정자 수치가 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He has a low sperm count. 발음"
+    },
+    {
+      "korean": "The fee is pitifully low. 발음듣기 수수료가 초라할 정도로 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The fee is pitifully low. 발음"
+    }
+  ]
+}

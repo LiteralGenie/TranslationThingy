@@ -1,0 +1,119 @@
+{
+  "phrases": [
+    {
+      "phrase": "입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(옷을) (동작) put on, dress, get dressed; (걸치다) slip on; (급히) throw on; (상태) wear, have (sth) on, be dressed in",
+        "(손해·피해·상처 등을) suffer, incur, (formal) sustain",
+        "(도움·은혜 등을) be indebted to, get[receive] a favor, be favored (with)"
+      ]
+    },
+    {
+      "phrase": "옷을 입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "put on clothes",
+        "dress",
+        "get dressed"
+      ]
+    },
+    {
+      "phrase": "해를 입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be harmed[damaged, injured]",
+        "suffer[receive] damages",
+        "suffer injuries"
+      ]
+    },
+    {
+      "phrase": "피해를 입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "be damaged[harmed]",
+        "suffer damage[harm]"
+      ]
+    },
+    {
+      "phrase": "은혜를 입다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "enjoy the benefits of",
+        "receive benefits",
+        "be indebted to"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "receive",
+      "frequency": 2
+    },
+    {
+      "meaning": "take",
+      "frequency": 2
+    },
+    {
+      "meaning": "sustain",
+      "frequency": 1
+    },
+    {
+      "meaning": "get 1",
+      "frequency": 2
+    },
+    {
+      "meaning": "don",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "눈, 코, 입 다 있구먼 - 알겠어 인마 - 우리 민규는? You have eyes, a nose and a mouth. - Okay, fine. - Then, MINGYU? 듣기 View video V COOKIE : [Full]SEVENTEEN X LieV - 세븐틴의 눕방라이브!",
+      "english": "You have eyes, a nose and a mouth. - Okay, fine. - Then, MINGYU?"
+    },
+    {
+      "korean": "[최혜자(5n) / 엄마 오늘 입 다 풀고 간다] 만약 그렇게 됐으면 네가 안 생겼지. [Choi Hyeja (5n) / Mom is laying it all out today] If that was the case, you wouldn't be here. 듣기 View video 모비딕(Mobidic) : <쎈마이웨이> 여자가 먼저 고백해도 되나요?",
+      "english": "[Choi Hyeja (5n) / Mom is laying it all out today] If that was the case, you wouldn't be here."
+    },
+    {
+      "korean": "입 다 보여요. We see the mouth. 듣기 View video V COOKIE : [Full] ASTRO X Rooftop Live - 아스트로의 루프탑라이브!",
+      "english": "We see the mouth."
+    },
+    {
+      "korean": "입 다 틀려. Your lip syncing is so off. 듣기 View video ASTRO : 별둥이 깜짝 브이앱☆",
+      "english": "Your lip syncing is so off."
+    },
+    {
+      "korean": "눈, 코, 입 다 괜찮아요. I like eyes, nose, and lips. 듣기 View video NU'EST : NU’EST 'CANVAS' COMEBACK COUNTDOWN LIVE",
+      "english": "I like eyes, nose, and lips."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "to suffer multiple injuries 발음듣기 복합 부상을 입다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to suffer multiple injuries 발음"
+    },
+    {
+      "korean": "to slip into/out of a dress 발음듣기 드레스를 재빨리 입다/벗다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to slip into/out of a dress 발음"
+    },
+    {
+      "korean": "to sustain damage/an injury/a defeat 발음듣기 손상/부상을 입다/패배를 당하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to sustain damage/an injury/a defeat 발음"
+    },
+    {
+      "korean": "to wear casual/formal dress 발음듣기 평상복/정장을 입다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to wear casual/formal dress 발음"
+    },
+    {
+      "korean": "to put on/take off your coat 발음듣기 외투를 입다/벗다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to put on/take off your coat 발음"
+    }
+  ]
+}

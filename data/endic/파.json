@@ -1,0 +1,111 @@
+{
+  "phrases": [
+    {
+      "phrase": "파",
+      "hanja": " (派)",
+      "example": {},
+      "meanings": [
+        "(그룹, 패거리) group, (formal) coterie, (파벌) clique, (당파) faction",
+        "(족벌) branch of one's family[clan], one's family branch"
+      ]
+    },
+    {
+      "phrase": "파",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(식물)Welsh onion, (Am) green onion, (Am) scallion, (Brit) spring onion"
+      ]
+    },
+    {
+      "phrase": "파",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(골프)par"
+      ]
+    },
+    {
+      "phrase": "파",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun fa"
+      ]
+    },
+    {
+      "phrase": "-파",
+      "hanja": " (波)",
+      "example": {},
+      "meanings": [
+        "a wave"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wave",
+      "frequency": 3
+    },
+    {
+      "meaning": "school",
+      "frequency": 3
+    },
+    {
+      "meaning": "element",
+      "frequency": 3
+    },
+    {
+      "meaning": "church",
+      "frequency": 3
+    },
+    {
+      "meaning": "par",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "파 봤는데...",
+      "english": "I saw leeks."
+    },
+    {
+      "korean": "세척 파?",
+      "english": "Washed green onions?"
+    },
+    {
+      "korean": "파 씻어?",
+      "english": "Do I need to wash them?"
+    },
+    {
+      "korean": "[무조건 알지?] 파! 파!",
+      "english": "[Unconditionally] Leeks! Leeks!"
+    },
+    {
+      "korean": "아 쟤 파 있어...",
+      "english": "He got leeks, too."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "쪽파와 마늘을 넣은 드레싱",
+      "english": "a chive and garlic dressing"
+    },
+    {
+      "korean": "그들은 2미터 깊이까지 파 내려갔다.",
+      "english": "They dug down to a depth of two metres."
+    },
+    {
+      "korean": "그들은 바닥을 새로 깔기 위해 축구장을 파 뒤집고 있다.",
+      "english": "They are digging up the football field to lay a new surface."
+    },
+    {
+      "korean": "그들은 더욱 더 깊이 파 들어갔지만 아무것도 찾지 못했다.",
+      "english": "They dug deeper and deeper but still found nothing."
+    },
+    {
+      "korean": "파전은 밀가루 갠 것에 파를 넣고 기름에 지진 전을 말한다.",
+      "english": "Pajeon is a type of pancake made from Welsh onions in a wheat-flour batter and fried in oil."
+    }
+  ]
+}

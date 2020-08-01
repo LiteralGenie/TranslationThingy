@@ -1,0 +1,113 @@
+{
+  "phrases": [
+    {
+      "phrase": "이것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(지시대명사) this (these)",
+        "(사람을 얕잡아 부르는 말)"
+      ]
+    },
+    {
+      "phrase": "이것 봐라[보십시오/보오/보게/봐/보세요]",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[Please] Look at this!"
+      ]
+    },
+    {
+      "phrase": "이것저것",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "this and that, one thing and another"
+      ]
+    },
+    {
+      "phrase": "이것으로",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "with this",
+        "now",
+        "here"
+      ]
+    },
+    {
+      "phrase": "이것뿐",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "no more"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "this",
+      "frequency": 2
+    },
+    {
+      "meaning": "일본군 '위안부'",
+      "frequency": 0
+    },
+    {
+      "meaning": "miscellaneous",
+      "frequency": 1
+    },
+    {
+      "meaning": "hereto",
+      "frequency": 0
+    },
+    {
+      "meaning": "hereof",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "이것은... So, this is... 듣기 View video Dispatch : 트와이스 ‘디아이콘’ 언박싱🐰🐹🦅",
+      "english": "So, this is..."
+    },
+    {
+      "korean": "[이것은!!??] [What could this be!!??] View video NCT : [NCT LIFE MINI] NCT 127과 함께 하는 다시 돌아온 '음악게임' #3",
+      "english": "[What could this be!!??]"
+    },
+    {
+      "korean": "탔어 이것도! This one is burnt too! 듣기 View video Stray Kids : 댕냥스쿨 EP.7🐶🐱!!!",
+      "english": "This one is burnt too!"
+    },
+    {
+      "korean": "이것만 있으면 돼요? Is this all we need? 듣기 View video Stray Kids : 댕냥스쿨 EP.7🐶🐱!!!",
+      "english": "Is this all we need?"
+    },
+    {
+      "korean": "이것도 킬링이지! 이것도 킬링이지! This is another killer part! 듣기 View video ATEEZ : 깜짝! 에이티니 보고싶어요",
+      "english": "This is another killer part!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Scrushy was acquitted of securities fraud and other charges by an Alabama federal jury in June - a blow to prosecutors seeking to punish alleged corporate wrongdoing. 발음듣기 이것 은 기업부정행위로 추정되는 것에 대하여 처벌을 시도한 검 사들에게 타격이 되었다. 두 명의 연방 검사는 TV 드라마를 시청하여 범죄 수사 지식을 배운 배심원들이 지능화된 신종 범죄에까지 검사가 복잡한 법정 감식 증거를 제시하기를 기대한다고 말했다. Neungyule",
+      "english": "Scrushy was acquitted of securities fraud and other charges by an Alabama federal jury in June - a blow to prosecutors seeking to punish alleged corporate wrongdoing. 발음"
+    },
+    {
+      "korean": "This resulted in hurricane force winds in all areas plus blizzards in the north and snowfall as far south as the Florida panhandle and Texas. 발음듣기 이것은 은 전 지역에 허리케인 강도의 바람이 불고, 그리고 북부에 눈보라가 치고, 그리고 플로리다주 전역과 텍사스주까지 남쪽에는 폭설이 내리는 결과를 낳았습니다. TIMES CORE",
+      "english": "This resulted in hurricane force winds in all areas plus blizzards in the north and snowfall as far south as the Florida panhandle and Texas. 발음"
+    },
+    {
+      "korean": "It is not easy: it is difficult. 발음듣기 이것은 쉽지 않다: 이것은 어렵다. User translation Inaccurate information may be included due to the users' self-traslation. 만두설(lees****) Hansard",
+      "english": "It is not easy: it is difficult. 발음"
+    },
+    {
+      "korean": "So there is a target for you! 발음듣기 이것은 너를 위한 타겟이다. User translation Inaccurate information may be included due to the users' self-traslation. Leo(eros****) Hansard",
+      "english": "So there is a target for you! 발음"
+    },
+    {
+      "korean": "This is an interesting turn of events. 발음듣기 이것은 흥미로은 사태의 전환이다. User translation Inaccurate information may be included due to the users' self-traslation. 율리(yusu****) Web Collection",
+      "english": "This is an interesting turn of events. 발음"
+    }
+  ]
+}

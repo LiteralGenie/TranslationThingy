@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "사냥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "[명사] hunting, hunt, [동사] hunt"
+      ]
+    },
+    {
+      "phrase": "마녀사냥",
+      "hanja": " (魔女사냥)",
+      "example": {},
+      "meanings": [
+        "(중세 유럽의) witch-hunt(ing)"
+      ]
+    },
+    {
+      "phrase": "매사냥하다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "go hawking",
+        "hawk"
+      ]
+    },
+    {
+      "phrase": "여우사냥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a foxhunting",
+        "a foxhunt"
+      ]
+    },
+    {
+      "phrase": "꿩사냥",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "pheasant hunting"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "hunt",
+      "frequency": 2
+    },
+    {
+      "meaning": "hunting",
+      "frequency": 2
+    },
+    {
+      "meaning": "shooting",
+      "frequency": 2
+    },
+    {
+      "meaning": "chase",
+      "frequency": 2
+    },
+    {
+      "meaning": "shoot",
+      "frequency": 2
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[사냥감 서칭] 어... 그러면... [Searching for a prey] Oh, then... 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.10 S.B.S #1 (SEVENTEEN BRAIN SURVIVAL #1)",
+      "english": "[Searching for a prey] Oh, then..."
+    },
+    {
+      "korean": "사냥을 한다니 남준이가 사냥을 한다? 무슨 사냥을 하는 거지? And this goes hunting? So RM hunts? What does that mean? 듣기 View video BTS : 슙디의 꿀 FM 06.13 with V #0613FM_0515",
+      "english": "And this goes hunting? So RM hunts? What does that mean?"
+    },
+    {
+      "korean": "나는? - 너는 - 사냥꾼? - 사냥꾼이었어 - 사냥꾼이었어? And me? - You... - A hunter? - Yes, a hunter. - You were a hunter? 듣기 View video ATEEZ : [FULL] ATEEZ(에이티즈) ONLINE ATINY PARTY [Crescent]",
+      "english": "And me? - You... - A hunter? - Yes, a hunter. - You were a hunter?"
+    },
+    {
+      "korean": "직접 사냥, 아까 그 이거! 불어서 아까 앨범 속에 있는 사진? - 네! The one you caught! - Yes! 듣기 View video V COOKIE : [Full] N.Flying X Eating Show - 엔플라잉 X 같이 먹어요",
+      "english": "The one you caught! - Yes!"
+    },
+    {
+      "korean": "또 JB 사냥꾼에 대한 다른 의견은 뭐 없으신 건가요? Do you have any more explanation left? 듣기 View video IDOL RADIO : 'IDOL RADIO' ep#574. 오마이갓세븐 (스페셜 DJ 갓세븐 JB&영재 with 갓세븐)",
+      "english": "Do you have any more explanation left?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "The animal is hunted for its fur. 발음듣기 그 동물은 모피 때문에 사냥을 당한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The animal is hunted for its fur. 발음"
+    },
+    {
+      "korean": "The hunters lost sight of their quarry in the forest. 발음듣기 사냥꾼들은 숲 속에서 뒤쫓던 사냥감을 놓쳤다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hunters lost sight of their quarry in the forest. 발음"
+    },
+    {
+      "korean": "The hunter moved in to finish the animal off. 발음듣기 사냥꾼이 개입해서 그 동물을 죽였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hunter moved in to finish the animal off. 발음"
+    },
+    {
+      "korean": "The hunters beat a path through the undergrowth. 발음듣기 사냥꾼들이 덤불들 사이로 길을 내었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The hunters beat a path through the undergrowth. 발음"
+    },
+    {
+      "korean": "There are several different hunts in the area. 발음듣기 그 지역에는 몇몇 여우 사냥 그룹이 있다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "There are several different hunts in the area. 발음"
+    }
+  ]
+}

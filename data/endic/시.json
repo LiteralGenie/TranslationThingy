@@ -1,0 +1,112 @@
+{
+  "phrases": [
+    {
+      "phrase": "시",
+      "hanja": " (市)",
+      "example": {},
+      "meanings": [
+        "(행정구역) city, (city보다 작은) town, (자치정부가 있는) municipality"
+      ]
+    },
+    {
+      "phrase": "시",
+      "hanja": " (詩)",
+      "example": {},
+      "meanings": [
+        "(문학) poem, (집합적) poetry"
+      ]
+    },
+    {
+      "phrase": "시",
+      "hanja": " (時)",
+      "example": {},
+      "meanings": [
+        "(시간) time, hour",
+        "(경우, 때)"
+      ]
+    },
+    {
+      "phrase": "시",
+      "hanja": " (時)",
+      "example": {},
+      "meanings": [
+        "Noun time of birth"
+      ]
+    },
+    {
+      "phrase": "시",
+      "hanja": " (時)",
+      "example": {},
+      "meanings": [
+        "Bound noun o'clock (→초4, 분4)",
+        "Bound noun A bound noun meaning the time or case in which a certain event occurs."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "city",
+      "frequency": 3
+    },
+    {
+      "meaning": "poetry",
+      "frequency": 3
+    },
+    {
+      "meaning": "hour",
+      "frequency": 3
+    },
+    {
+      "meaning": "poem",
+      "frequency": 3
+    },
+    {
+      "meaning": "o'clock",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "[호랑이 호시래기] 권호시! [Tiger Hoshi] Kwon Hoshi! 듣기 View video SEVENTEEN : [GOING SEVENTEEN 2020] EP.5 부승관의 전생연분 #1 (SeungKwan Boo's Past Life Destiny #1)",
+      "english": "[Tiger Hoshi] Kwon Hoshi!"
+    },
+    {
+      "korean": "어머니 판타지시라고요? Your mother is a member of FANTASY? 듣기 View video SF9 : 🍀🍀",
+      "english": "Your mother is a member of FANTASY?"
+    },
+    {
+      "korean": "'은하시', '소원시~' \"Eunha time.\" \"Sowon time.\" 듣기 View video GFRIEND : 오주년이 얼마 안남아따",
+      "english": "\"Eunha time.\" \"Sowon time.\""
+    },
+    {
+      "korean": "소원시 곧 되나요? Is it Sowon time soon? 듣기 View video GFRIEND : 오주년이 얼마 안남아따",
+      "english": "Is it Sowon time soon?"
+    },
+    {
+      "korean": "시 투 더 카 투 더 고! Chi to the ca to the go! 듣기 View video Stray Kids : First UNLOCK in Chicago❤",
+      "english": "Chi to the ca to the go!"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the good town of ~ 듣기 Add to Wordbook ~ 시. Friendict Level English-Korean Dictionary",
+      "english": "the good town of ~ Add to Wordbook"
+    },
+    {
+      "korean": "She began writing poetry in her teens. 듣기 Add to Wordbook 그녀는 십대 때 시를 쓰기 시작했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "She began writing poetry in her teens. Add to Wordbook"
+    },
+    {
+      "korean": "The authorship of the poem is unknown. 듣기 Add to Wordbook 그 시의 원저자는 알려져 있지 않다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The authorship of the poem is unknown. Add to Wordbook"
+    },
+    {
+      "korean": "We were taught how to criticize poems. 듣기 Add to Wordbook 우리는 시를 비평하는 법을 배웠다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "We were taught how to criticize poems. Add to Wordbook"
+    },
+    {
+      "korean": "He recited the whole poem in one breath. 듣기 Add to Wordbook 그는 그 시를 단숨에 다 읊었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He recited the whole poem in one breath. Add to Wordbook"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "산업",
+      "hanja": " (産業)",
+      "example": {},
+      "meanings": [
+        "industry"
+      ]
+    },
+    {
+      "phrase": "산업의",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "industrial"
+      ]
+    },
+    {
+      "phrase": "산업혁명",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "the Industrial Revolution"
+      ]
+    },
+    {
+      "phrase": "관광산업",
+      "hanja": " (觀光産業)",
+      "example": {},
+      "meanings": [
+        "tourism (industry), tourist industry[business, trade]"
+      ]
+    },
+    {
+      "phrase": "군수산업",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "munitions[war, military] industry"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "industry",
+      "frequency": 2
+    },
+    {
+      "meaning": "enterprise",
+      "frequency": 1
+    },
+    {
+      "meaning": "biz",
+      "frequency": 0
+    },
+    {
+      "meaning": "wastemaker",
+      "frequency": 0
+    },
+    {
+      "meaning": "Industrial or Scientific or Medical Band",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "4... 4차 산업! The 4th... The 4th industry! 듣기 View video OSEN : NCT DREAM의 10년 후 모습은? 아무말 대잔치 #스타로드 06",
+      "english": "The 4th... The 4th industry!"
+    },
+    {
+      "korean": "혹시 산업스파이? Are you like an industrial spy? 듣기 View video VICTON : 앨리스가 그리운 밤🌙(보고싶다..8시에 만나자, 앨리스)",
+      "english": "Are you like an industrial spy?"
+    },
+    {
+      "korean": "[갑분 산업혁명?] - 산업혁명? - 산업혁명이요? [Suddenly?] - Industrial revolution? - Industrial revolution? 듣기 View video SF9 : [FOR FANTASY] 셒구상사 (SF9 SANGSA) EP.01",
+      "english": "[Suddenly?] - Industrial revolution? - Industrial revolution?"
+    },
+    {
+      "korean": "[관광산업의 미래를 책임질 서울관광고!] [Future leaders of the tourism industry!] View video 컨버전스티비 (CONS TV) : [커먼스쿨]서울관광고등학교 ep7(홍현희X정세운X강율)",
+      "english": "[Future leaders of the tourism industry!]"
+    },
+    {
+      "korean": "의외로 우리나라 만화 산업이 많이 안 커... Surprisingly, Korea's animation industry isn't all that big. 듣기 View video LEE JIN HYUK : 그냥 와봤어 브이단><",
+      "english": "Surprisingly, Korea's animation industry isn't all that big."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "industrial development on the periphery of the town 발음듣기 그 소도시 주변부의 산업 개발 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "industrial development on the periphery of the town 발음"
+    },
+    {
+      "korean": "At that time the industry was floundering. 발음듣기 그 당시에는 그 산업이 허우적거릴 때였다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "At that time the industry was floundering. 발음"
+    },
+    {
+      "korean": "The music industry is an incestuous business. 발음듣기 음악 산업은 끼리끼리 문화가 심한 사업이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The music industry is an incestuous business. 발음"
+    },
+    {
+      "korean": "to protect domestic industry from foreign predators 발음듣기 국내 산업을 외국의 포식자들로부터 보호하다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to protect domestic industry from foreign predators 발음"
+    },
+    {
+      "korean": "The government has pledged to clean up industrial emissions. 발음듣기 정부가 산업용 배기가스 정화를 약속했다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The government has pledged to clean up industrial emissions. 발음"
+    }
+  ]
+}

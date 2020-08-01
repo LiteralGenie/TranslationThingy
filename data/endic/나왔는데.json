@@ -1,0 +1,96 @@
+{
+  "phrases": [
+    {
+      "phrase": "나오다",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(밖으로) come[get, go] out, emerge (from)",
+        "(앞으로) come forward, step forward",
+        "(나타나다) appear, turn up, (informal) show (up), (해·달 등이) rise, come out, (유령이) haunt"
+      ]
+    },
+    {
+      "phrase": "다른 내선이 나왔는데요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-전화를 잘못 걸었을 때 I got the wrong extension."
+      ]
+    },
+    {
+      "phrase": "교환, 다른 데가 나왔는데요.",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "실용회화-전화를 잘못 걸었을 때 Operator, I‘ve been connected to the wrong part."
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "evaporation line",
+      "frequency": 0
+    },
+    {
+      "meaning": "alternate",
+      "frequency": 3
+    },
+    {
+      "meaning": "emerge",
+      "frequency": 3
+    },
+    {
+      "meaning": "spurt",
+      "frequency": 3
+    },
+    {
+      "meaning": "mythical",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "나왔는데?",
+      "english": "I got out and?"
+    },
+    {
+      "korean": "나왔는데...",
+      "english": "who appeared in it."
+    },
+    {
+      "korean": "그게 먼저 답 나왔는데?",
+      "english": "I got that answer before anything."
+    },
+    {
+      "korean": "잘 나왔는데, 사나? - 그러네? 원스 이거 내가 가져도 돼요?",
+      "english": "You too, SANA. - Right. ONCE, can I take these?"
+    },
+    {
+      "korean": "이 사진 - 맞아, 맞아 - 여기는 안 나왔는데 완전 다 이러고...",
+      "english": "This photo. - It doesn't show here, but we were like this."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "무대에 나왔는데 대사가 막힌 거야.",
+      "english": "I was on stage and I forgot my lines."
+    },
+    {
+      "korean": "이 조각이 벽에서 떨어져 나왔는데요.",
+      "english": "This piece came off of the wall."
+    },
+    {
+      "korean": "2시간 전에 사무실을 나왔는데도 말이에요.",
+      "english": "I left my office two hours ago."
+    },
+    {
+      "korean": "그러다가 어느 날 밖에 나왔는데, 정신이 들더라고요. 그때 이 프로그램을 만들 생각을 했죠.",
+      "english": "And then one day and I went, I just woke up, and that’s when I created the show."
+    },
+    {
+      "korean": "'빅 퀘스쳔'이라는 퀴즈 프로그램에 나왔는데 아주 잘 했어요. 상금으로 6천 달러도 받았어요.",
+      "english": "He was on that quiz show The Big Question. He did well too. He won six thousand dollars."
+    }
+  ]
+}

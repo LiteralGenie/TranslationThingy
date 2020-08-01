@@ -1,0 +1,115 @@
+{
+  "phrases": [
+    {
+      "phrase": "과",
+      "hanja": " (課)",
+      "example": {},
+      "meanings": [
+        "section (회사·관공서 등의)",
+        "(교과서의) lesson, chapter"
+      ]
+    },
+    {
+      "phrase": "과",
+      "hanja": " (科)",
+      "example": {},
+      "meanings": [
+        "(학교·병원 등의) department",
+        "(생물의 분류 단계) family"
+      ]
+    },
+    {
+      "phrase": "과",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Postposition gwa (→와3)",
+        "Postposition gwa (→와3)",
+        "Postposition gwa (→와3)"
+      ]
+    },
+    {
+      "phrase": "-과",
+      "hanja": " (課)",
+      "example": {},
+      "meanings": [
+        "Affix -gwa (→과3)"
+      ]
+    },
+    {
+      "phrase": "과-",
+      "hanja": " (過)",
+      "example": {},
+      "meanings": [
+        "Affix gwa-",
+        "Affix gwa-"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "lesson",
+      "frequency": 3
+    },
+    {
+      "meaning": "section",
+      "frequency": 3
+    },
+    {
+      "meaning": "unit",
+      "frequency": 3
+    },
+    {
+      "meaning": "family",
+      "frequency": 3
+    },
+    {
+      "meaning": "natural order",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "아무튼 나 과 후배 중에서 - 'MIROH' 같이 했다고? Anyways, he's one of my juniors, - So he was one of our dancers for \"MIROH\"? 듣기 View video Stray Kids : 혀니비니🐖🐇🦡",
+      "english": "Anyways, he's one of my juniors, - So he was one of our dancers for \"MIROH\"?"
+    },
+    {
+      "korean": "과가 중요해? Does it matter? 듣기 View video Dingo Story / 딩고스토리 : 남자가 사랑에 빠지는 과정_EP08 [라이크]",
+      "english": "Does it matter?"
+    },
+    {
+      "korean": "너 무슨 과... What major are you... 듣기 View video Dingo Story / 딩고스토리 : 남사친이 치마 입고 학교에 갔다_EP12 [라이크(LIKE)]",
+      "english": "What major are you..."
+    },
+    {
+      "korean": "무슨 과라고 했지? What's his major? 듣기 View video 잼플리 Jamfully : 남사친이 남친 되면 A+ 받는다는 수업 [썸타는 일주일] - EP.00",
+      "english": "What's his major?"
+    },
+    {
+      "korean": "우리 과 아니지? He's not our major, right? 듣기 View video Dingo Story / 딩고스토리 : 비밀연애 하면 다 알고 나만 비밀인거 ㅇㅈ?_최종화_[라이크LIKE]",
+      "english": "He's not our major, right?"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Each lesson is broken down into several units. 듣기 Add to Wordbook 각 과는 몇 개 단위로 나뉜다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Each lesson is broken down into several units. Add to Wordbook"
+    },
+    {
+      "korean": "to show a sharp/stark/striking contrast with sth 듣기 Add to Wordbook …과 극명한 대조를 보이다 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "to show a sharp/stark/striking contrast with sth Add to Wordbook"
+    },
+    {
+      "korean": "The department led the world in cancer research. 듣기 Add to Wordbook 그 과는 암 연구에서 세계 제일이었다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The department led the world in cancer research. Add to Wordbook"
+    },
+    {
+      "korean": "The point of the lesson is to compare the two countries. 듣기 Add to Wordbook 이 과의 의미[의도]는 그 두 국가를 비교하는 것이다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "The point of the lesson is to compare the two countries. Add to Wordbook"
+    },
+    {
+      "korean": "a direct/close/strong connection with sth 듣기 Add to Wordbook …과의 직접적인/긴밀한/강한 연관성 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "a direct/close/strong connection with sth Add to Wordbook"
+    }
+  ]
+}

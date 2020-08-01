@@ -1,0 +1,110 @@
+{
+  "phrases": [
+    {
+      "phrase": "수압",
+      "hanja": " (水壓)",
+      "example": {},
+      "meanings": [
+        "water pressure, hydraulic pressure"
+      ]
+    },
+    {
+      "phrase": "수압 기뢰",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "a pressure[an oyster] mine"
+      ]
+    },
+    {
+      "phrase": "유효[수압] 낙차",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "an effective[a pressure] head"
+      ]
+    },
+    {
+      "phrase": "수압 시험",
+      "hanja": " (水壓試驗)",
+      "example": {},
+      "meanings": [
+        "a hydraulic test"
+      ]
+    },
+    {
+      "phrase": "수압 기관",
+      "hanja": " (水壓機關)",
+      "example": {},
+      "meanings": [
+        "a hydromotor"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "wáter prèssure",
+      "frequency": 0
+    },
+    {
+      "meaning": "air (steam, water) pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "hydraulic pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "water pressure",
+      "frequency": 0
+    },
+    {
+      "meaning": "hydraulic pressure",
+      "frequency": 0
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "수압은요? What about water pressure? 듣기 View video 플레이리스트 (Playlist) : 엄마랑 싸우고 집을 나왔다 [인서울] - EP.08",
+      "english": "What about water pressure?"
+    },
+    {
+      "korean": "[수압을 이기지 못하고 결국 포기...] [She can't beat the pressure and gives up...] View video TRENDY TV(트렌디 티비) : [사다드림시즌2] 또lie 언니는 프로열일러_3회",
+      "english": "[She can't beat the pressure and gives up...]"
+    },
+    {
+      "korean": "근데 심장이 터질 것 같아 - 어디가서 했어? - 수압 때문에? I thought my heart exploded. - Where did you do it? - Due to water pressure? 듣기 View video OSEN : AOA 에이오에이 'Star Road' EP.11",
+      "english": "I thought my heart exploded. - Where did you do it? - Due to water pressure?"
+    },
+    {
+      "korean": "수압이 굉장히 셉니다. The pressure is quite strong. 듣기 View video 병만TV : EP. Marathon 42.195m 숨가쁜 건 뭐죠?",
+      "english": "The pressure is quite strong."
+    },
+    {
+      "korean": "수압이 약하다고 그래서. As they complained the weak water pressure. 듣기 View video GAVYNJ : 가비의 화려한 외출~☆",
+      "english": "As they complained the weak water pressure."
+    }
+  ],
+  "examples": [
+    {
+      "korean": "Water supplies to the house are at low pressure. 듣기 Add to Wordbook 이 집에 들어오는 수도는 수압이 낮다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Water supplies to the house are at low pressure. Add to Wordbook"
+    },
+    {
+      "korean": "to frack an oilfield 듣기 Add to Wordbook 유전을 수압 파쇄법으로 채굴하다 국제영어대학원대학교 신어사전",
+      "english": "to frack an oilfield Add to Wordbook"
+    },
+    {
+      "korean": "He openly criticized frackademics. 듣기 Add to Wordbook 그는 수압 파쇄법을 지지하는 학자들을 공개적으로 비난했다. 국제영어대학원대학교 신어사전",
+      "english": "He openly criticized frackademics. Add to Wordbook"
+    },
+    {
+      "korean": "He couldn't respire because he was pressed into the water. 듣기 Add to Wordbook 그는 물 속에서 수압으로 인해 숨을 쉴 수가 없었다. 절대어휘 5100",
+      "english": "He couldn't respire because he was pressed into the water. Add to Wordbook"
+    },
+    {
+      "korean": "Doesn't the frackademia care about sustainability? 듣기 Add to Wordbook 대체 수압 파쇄법을 지지하는 학계는 지속 가능성에는 신경을 쓰지 않는 것인가? 국제영어대학원대학교 신어사전",
+      "english": "Doesn't the frackademia care about sustainability? Add to Wordbook"
+    }
+  ]
+}

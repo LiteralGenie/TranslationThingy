@@ -1,0 +1,114 @@
+{
+  "phrases": [
+    {
+      "phrase": "에너지",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "(인간이 활동하는 물리적·심리적 힘) energy, power",
+        "(물리) energy"
+      ]
+    },
+    {
+      "phrase": "anergy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 의학 아네르기, 무력 체질, 정력 결핍",
+        "Noun 면역성 결여"
+      ]
+    },
+    {
+      "phrase": "energy",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Noun 정력, 활기",
+        "Noun (육체적·정신적) 기운[에너지]",
+        "Noun 에너지, 동력 자원"
+      ]
+    },
+    {
+      "phrase": "energetic",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "Adjective 정력[활동]적인, 정력을 요하는, 힘든"
+      ]
+    },
+    {
+      "phrase": "에너지원",
+      "hanja": " (energy源)",
+      "example": {},
+      "meanings": [
+        "energy source, source of energy"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "energy",
+      "frequency": 3
+    },
+    {
+      "meaning": "power",
+      "frequency": 3
+    },
+    {
+      "meaning": "might",
+      "frequency": 3
+    },
+    {
+      "meaning": "virility",
+      "frequency": 0
+    },
+    {
+      "meaning": "dynamics",
+      "frequency": 3
+    }
+  ],
+  "vlive": [
+    {
+      "korean": "에너지를 충전해야지 - 뷔 형 그 뭐지? Should recharge your energy. - V, what is that? 듣기 View video BTS : [Full] BTS Comeback Special: '보'이는 '라'이브 '해'요",
+      "english": "Should recharge your energy. - V, what is that?"
+    },
+    {
+      "korean": "많은 사람들과 시간을 엄청 에너지 있게 보내고 집에 돌아가면 지치는 거 아니에요? Wouldn't you feel tired after spending some time with many people? 듣기 View video KIM WOO SEOK : 오늘, 우석이와 함께해요",
+      "english": "Wouldn't you feel tired after spending some time with many people?"
+    },
+    {
+      "korean": "정말 이 믿지를 향한 에너지가... But they're full of energy for MIDZY. 듣기 View video ITZY : ITZY in HOUSTON 💙",
+      "english": "But they're full of energy for MIDZY."
+    },
+    {
+      "korean": "늦은 밤인데 정말 에너지가 좋아요, 그렇죠? They're so energetic. Right? 듣기 View video ITZY : ITZY in HOUSTON 💙",
+      "english": "They're so energetic. Right?"
+    },
+    {
+      "korean": "[에너지 가득 경희대 서울캠의 자기 소개서는?] [What will their energetic performance be like?] View video 내 전공은 힙합(My major is HIPHOP) : Ep 20. 경희대 래빈VS 서울대 츄플 리매치!? 과연 살아남을 학교는 어디?",
+      "english": "[What will their energetic performance be like?]"
+    }
+  ],
+  "examples": [
+    {
+      "korean": "the dissipation of energy in the form of heat 듣기 Add to Wordbook 열의 형태로 일어나는 에너지 소실 Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "the dissipation of energy in the form of heat Add to Wordbook"
+    },
+    {
+      "korean": "Help to conserve energy by insulating your home. 듣기 Add to Wordbook 집에 단열재를 써서 에너지를 아끼는 데 도움이 되게 하라. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Help to conserve energy by insulating your home. Add to Wordbook"
+    },
+    {
+      "korean": "Arsenal scored three late goals in a storming finish. 듣기 Add to Wordbook 아스날이 에너지 넘치는 마무리로 뒤늦게 3골을 올렸다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Arsenal scored three late goals in a storming finish. Add to Wordbook"
+    },
+    {
+      "korean": "He divides his energies between politics and business. 듣기 Add to Wordbook 그는 에너지를 쪼개 쓰며 (한편으론) 정치를 하고 (한편으론) 사업을 한다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "He divides his energies between politics and business. Add to Wordbook"
+    },
+    {
+      "korean": "Her energy is inexhaustible. 듣기 Add to Wordbook 그녀는 에너지가 고갈될 줄 모른다. Oxford Advanced Learner's English-Korean Dictionary",
+      "english": "Her energy is inexhaustible. Add to Wordbook"
+    }
+  ]
+}

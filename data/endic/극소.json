@@ -1,0 +1,90 @@
+{
+  "phrases": [
+    {
+      "phrase": "극소",
+      "hanja": " (極小)",
+      "example": {},
+      "meanings": [
+        "(아주 작음) the smallest, 극소하다 (be) smallest, minimum, infinitesimal",
+        "(극솟값) the minimum value"
+      ]
+    },
+    {
+      "phrase": "극소",
+      "hanja": " (極少)",
+      "example": {},
+      "meanings": [
+        "Noun minimum"
+      ]
+    },
+    {
+      "phrase": "극소동물",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 microzoon"
+      ]
+    },
+    {
+      "phrase": "극소동공",
+      "hanja": "",
+      "example": {},
+      "meanings": [
+        "의학 pinhole pupil"
+      ]
+    },
+    {
+      "phrase": "극대극소",
+      "hanja": " (極大極小)",
+      "example": {},
+      "meanings": [
+        "수학 relative maximum,relative minimum"
+      ]
+    }
+  ],
+  "meanings": [
+    {
+      "meaning": "infinitesimalness",
+      "frequency": 0
+    },
+    {
+      "meaning": "relative minimum",
+      "frequency": 0
+    },
+    {
+      "meaning": "minuscule",
+      "frequency": 0
+    },
+    {
+      "meaning": "infinitesimal",
+      "frequency": 0
+    },
+    {
+      "meaning": "micro",
+      "frequency": 0
+    }
+  ],
+  "vlive": [],
+  "examples": [
+    {
+      "korean": "Simpson isn't well known in the field of industral engineering. 듣기 Add to Wordbook 심슨은 극소 산업공학 분야에서는 잘 알려져 있지 않다. YBM All in All English-Korean Dictionary",
+      "english": "Simpson isn't well known in the field of industral engineering. Add to Wordbook"
+    },
+    {
+      "korean": "Microelectronics is on the point of revolutioning the industrial world. 듣기 Add to Wordbook 극소 전자 공학은 산업계에 혁명을 일으키려 하고 있다 Dong-a's Prime English-Korean Dictionary",
+      "english": "Microelectronics is on the point of revolutioning the industrial world. Add to Wordbook"
+    },
+    {
+      "korean": "Simpson isn't well known in the field of microgenetics. 듣기 Add to Wordbook 심슨은 극소 유전공학 분야에서는 잘 알려져 있지 않다. YBM All in All English-Korean Dictionary",
+      "english": "Simpson isn't well known in the field of microgenetics. Add to Wordbook"
+    },
+    {
+      "korean": "Renting or leasing equipment used in production is a tactic many firms use to maximize their cash flow and minimize their debt. 듣기 Add to Wordbook 생산시에 사용되는 장비를 임대하는 것은 많은 기업들이 자금 운용을 극대화하고 부채를 극소화하기 위해 사용하는 전략이다. YBM All in All English-Korean Dictionary",
+      "english": "Renting or leasing equipment used in production is a tactic many firms use to maximize their cash flow and minimize their debt. Add to Wordbook"
+    },
+    {
+      "korean": "While smaller nations do lack the power to take the lead themselves, when many nations expand together they can minimize balance of payments and other complications. 듣기 Add to Wordbook 작은 나라들은 스스로 앞장설 힘은 없지만, 많은 나라들이 함께 성장할 때 그들은 국제 수지와 다른 문제를 극소화 할 수 있다 YBM All in All English-Korean Dictionary",
+      "english": "While smaller nations do lack the power to take the lead themselves, when many nations expand together they can minimize balance of payments and other complications. Add to Wordbook"
+    }
+  ]
+}
