@@ -1,4 +1,6 @@
-ROOT_DIR= "C:/Users/Anne/PycharmProjects/KRR/KRR/"
+import pathlib
+
+ROOT_DIR= str(pathlib.Path(__file__).parent.parent) + "/"
 
 CONFIG_DIR= ROOT_DIR + "config/"
 
