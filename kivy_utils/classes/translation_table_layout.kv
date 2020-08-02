@@ -1,10 +1,11 @@
-<Row>:
+<Row>: # BoxLayout
     height: 100
     orientation: "horizontal"
 
-<TranslationTable>:
+<TranslationTable>: # ScrollView
     BoxLayout:
         size_hint: 1, None
+        height: root.row_height*root.num_rows
         id: layout
         orientation: "vertical"
 

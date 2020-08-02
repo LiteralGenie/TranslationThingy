@@ -17,9 +17,11 @@ import utils
 Builder.load_file(utils.KIVY_CLASS_DIR + "vocab_tabs_layout.kv")
 
 class TabV(TabbedPanelItem):
+	layout= ObjectProperty(None)
+
 	def build(self, name):
 		self.text= name
-		self.layout= GridLayout()
+		self.layout= self.ids.layout
 		return self
 
 
@@ -39,7 +41,7 @@ class VocabPanel(TabbedPanel):
 
 		return self
 
-	def add_tab(self, name):
+	def add_tab(self, name, data):
 		if name in self.tabs: del self.tabs[name]
 
 		new_tab= TabV().build(name)

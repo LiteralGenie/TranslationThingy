@@ -31,16 +31,16 @@ class Row(BoxLayout):
 class TranslationTable(ScrollView):
 	rows= ListProperty()
 	num_rows= NumericProperty(0)
+	row_height= NumericProperty(40)
 
-	def build(self, num_rows=1, row_height=40):
+	def build(self, num_rows=1, row_height=None):
 		self.rows= []
 		self.layout= self.ids.layout # BoxLayout
 		self.num_rows= num_rows
+		if row_height: self.row_height= row_height
 
 		for i in range(num_rows): self.rows.append(Row().build(row_index=i+1))
 		for x in self.rows: self.layout.add_widget(x)
-
-		self.layout.height= len(self.rows)*row_height
 
 		return self
 
