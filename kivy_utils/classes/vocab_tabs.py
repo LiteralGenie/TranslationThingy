@@ -1,5 +1,5 @@
 from kivy.config import Config
-from kivy.properties import ObjectProperty, DictProperty, StringProperty
+from kivy.properties import ObjectProperty, DictProperty, StringProperty, ListProperty
 
 Config.set('kivy', 'log_level', 'debug')
 
@@ -12,6 +12,7 @@ from kivy.uix.tabbedpanel import TabbedPanelItem
 
 import utils
 Builder.load_file(utils.KIVY_CLASS_DIR + "vocab_tabs_layout.kv")
+
 
 """
 word is dict with:
@@ -30,9 +31,11 @@ class WordCard(GridLayout):
 
 		return self
 
+
 class TabV(TabbedPanelItem):
 	layout= ObjectProperty(None)
 	words= DictProperty()
+	wordWidgets= ListProperty()
 	name= StringProperty()
 
 	def build(self, name, words=None):
@@ -44,12 +47,16 @@ class TabV(TabbedPanelItem):
 
 
 	def add_words(self, words):
+		if self.wordWidgets: self.clear_widgets(self.wordWidgets) # Falsy values will clear ALL children
+		self.wordWidgets= []
+
 		for x in words:
 			self.words[x['name']]= x
 
-		self.clear_widgets()
 		for x in sorted(words, key=lambda y: y['name']):
-			self.layout.add_widget(WordCard().build(x))
+			self.wordWidgets.append(WordCard().build(x))
+
+		for x in self.wordWidgets: self.layout.add_widget(x)
 
 	def remove_words(self, words):
 		tmp= []
@@ -63,6 +70,7 @@ class TabV(TabbedPanelItem):
 	def clear_words(self):
 		self.words= {}
 		self.clear_widgets()
+
 
 class VocabPanel(TabbedPanel):
 	tabs= DictProperty()

@@ -8,7 +8,7 @@ from kivy.app import App
 from kivy.core.window import Window
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.label import Label
-from kivy.graphics import Rectangle, Color
+from kivy.graphics import Rectangle, Color, Line
 
 import kivy_utils as kutils
 import utils.endic_utils as endic
@@ -32,7 +32,7 @@ class OcrReader(App):
 
     def addLeft(self, name=None):
         # self.viewer= kutils.Viewer()
-        self.viewer= kutils.Viewer(globDir=self.chapDir, chapNum=self.chapNum)
+        self.viewer= kutils.Viewer().build(globDir=self.chapDir, chapNum=self.chapNum)
         self.root.add_widget(self.viewer)
 
     def addRight(self):
@@ -56,24 +56,25 @@ class OcrReader(App):
         self.viewer.fbind('on_scroll_stop', onScroll, root=self)
 
         with self.viewer.canvas:
-            Color(0,1,0,0.6)
-            self.wordBox= Rectangle(size=(30,30))
-            Color(1,0,0,0.1)
-            self.lineBox= Rectangle(size=(110,110))
+            Color(0,0,1,0.5)
+            self.wordBox= Line(size=(30,30), width=1.25)
+            Color(1,0,0,0.3)
+            self.lineBox= Line(size=(110,110), width=1.25, dash_length=0.5, dash_offest=1)
 
 def onMouse(window, pos, root=None):
     processWord(window, pos, root=root)
     debug(window, pos, root=root)
 
 def onScroll(window, pos, root=None):
-    root.wordBox.size= root.lineBox.size= (0,0)
+    # root.wordBox.size= root.lineBox.size= (0,0) # Rectangle
+    root.wordBox.rectangle= root.lineBox.rectangle= (0,)*4
 
 def processWord(window, pos, root=None):
     r= root.viewer
 
-    abs_y= kutils.getAbsY(pos[1], r.scroll_y, r.heights)
-    pageNum= kutils.getPageNum(abs_y, r.heights)
-    pg_y= kutils.getPgY(abs_y, pageNum, r.heights)
+    abs_y= kutils.get_y_abs_top(pos[1], r.scroll_y, r.im_heights)
+    pageNum= kutils.getPageNum(abs_y, r.im_heights)
+    pg_y= kutils.get_y_pg_top(abs_y, pageNum, r.im_heights)
 
     word,line,wbb,lbb= kutils.getWordLine(pos[0], pg_y, r.ocr_data[pageNum])
 
@@ -108,12 +109,12 @@ def showInfo(word, line, mtl, labels):
 div= '-'.join(['']*20)
 def debug(window, pos, root=None):
     scroll_y= root.viewer.scroll_y
-    heights= root.viewer.heights
+    heights= root.viewer.im_heights
     rLabels= root.rLabels
 
-    abs_y= kutils.getAbsY(pos[1], scroll_y, heights)
+    abs_y= kutils.get_y_abs_top(pos[1], scroll_y, heights)
     pageNum= kutils.getPageNum(abs_y, heights)
-    pg_y= kutils.getPgY(abs_y, pageNum, heights)
+    pg_y= kutils.get_y_pg_top(abs_y, pageNum, heights)
 
     boop= ""
     text= f"Current Position:"

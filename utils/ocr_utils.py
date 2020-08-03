@@ -1,6 +1,8 @@
 import requests, os, abc, utils, io, re
 from google.cloud import vision
 
+CONFIG= utils.loadJson(utils.CONFIG_DIR + "azure_creds.json")
+
 class api(abc.ABC):
 	def __init__(self, image_path):
 		self.image_path= image_path
@@ -9,7 +11,7 @@ class api(abc.ABC):
 	@classmethod
 	def ocr(cls, image_path, online=True, name=None, verbose=True):
 		if not name: name= os.path.basename(image_path).split(".")[0]
-		outFile= utils.OCR_DIR + str(name) + ".json"
+		outFile= utils.OCR_DIR + str(name.lower()) + ".json"
 
 		if os.path.exists(outFile):
 			ret= utils.loadJson(outFile)
@@ -26,6 +28,10 @@ class api(abc.ABC):
 
 		return ret
 
+	@classmethod
+	def get_name(cls, series, chapter, page): # page should be 1-indexed
+		return f"{series}_{chapter}-{page}"
+
 	@abc.abstractmethod
 	def doRequest(self):
 		"""Upload image to API and get response."""
@@ -35,6 +41,21 @@ class api(abc.ABC):
 	def extract(self):
 		"""Process API response."""
 		return
+
+	@staticmethod
+	def _clean(text):
+		ret= text
+		subs= {
+			"regex": { "chars": [r"[^\w\.',?!<>]"], "reps": [""] },
+			"unicode": {"chars": [r"\u"], "reps": ["&#x"]}
+		}
+		for group in subs:
+			for char in subs[group]['chars']:
+				for rep in subs[group]['reps']:
+					if group == "regex": ret= re.sub(char, rep, ret)
+					else: ret= ret.replace(char, rep)
+
+		return ret
 
 	# def render(self, fontSize=15):
 	# 	matplotlib.use("TkAgg")
@@ -83,8 +104,8 @@ class api(abc.ABC):
 
 class msapi(api):
 	def doRequest(self):
-		ep= "https://westcentralus.api.cognitive.microsoft.com/"
-		key= "6372672921c04e13af60f7bef6ff89fe"
+		ep= CONFIG['endpoint']
+		key= CONFIG['key']
 		api_url = ep + "vision/v2.1/ocr"
 
 		# Set image_path to the local path of an image that you want to analyze.
@@ -134,21 +155,6 @@ class gapi(api):
 
 		self.response = client.text_detection(image=image)
 		return self.response
-
-	@staticmethod
-	def _clean(text):
-		ret= text
-		subs= {
-			"regex": { "chars": [r"[^\w\.',?!<>]"], "reps": [""] },
-			"unicode": {"chars": [r"\u"], "reps": ["&#x"]}
-		}
-		for group in subs:
-			for char in subs[group]['chars']:
-				for rep in subs[group]['reps']:
-					if group == "regex": ret= re.sub(char, rep, ret)
-					else: ret= ret.replace(char, rep)
-
-		return ret
 
 	@staticmethod
 	def _getBbox(verts):

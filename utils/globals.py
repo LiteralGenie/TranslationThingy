@@ -13,3 +13,5 @@ PAPAGO_CACHE= DATA_DIR + "papago.json"
 
 KIVY_UTILS_DIR= ROOT_DIR + "kivy_utils/"
 KIVY_CLASS_DIR= KIVY_UTILS_DIR + "classes/"
+
+FONT_PATH= DATA_DIR + "fonts/NotoSansKR-Regular.otf"
