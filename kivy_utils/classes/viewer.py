@@ -5,25 +5,20 @@ from kivy.uix.image import AsyncImage
 from kivy.uix.gridlayout import GridLayout
 
 import cv2, glob, utils
-
 from utils.ocr_utils import gapi as api
+Builder.load_file(f'{utils.KIVY_CLASS_DIR}/viewer_layout.kv')
 
 class Viewer(ScrollView):
-	def __init__(self, globDir=None, chapNum=None, series="Knight"):
-		Builder.load_file(f'{utils.PROJECT_DIR}kivy_utils/classes/viewer_layout.kv')
-
-		super().__init__(
-						 	# effect_cls=ScrollEffect,
-							 )
-		# self.effect_cls.friction= 0.2
-
+	def build(self, globDir=None, chapNum=None, series="Knight"):
 		self.grid= GridLayout(cols=1, size_hint=(None,None), size=(0,0))
 		self.imPaths= []
-		self.heights= []
+		self.im_heights= []
 		self.ocr_data= []
 
 		self.add_widget(self.grid)
 		if globDir: self.addImages(glob.glob(globDir), chapNum=chapNum, series=series)
+
+		return self
 
 	def addImages(self, imPaths, chapNum=None, series=None):
 		self.imPaths+= imPaths
@@ -43,9 +38,9 @@ class Viewer(ScrollView):
 			self.grid.add_widget(x)
 			self.grid.height+= im.shape[0]
 			self.width= self.grid.width= max(self.grid.width, im.shape[1]+10)
-			self.heights+= [im.shape[0]]
+			self.im_heights+= [im.shape[0]]
 
 			name= None
 			if chapNum is not None and series is not None:
-				name= f"{series}_{chapNum}-{i+1}"
+				name= api.get_name(series=series, chapter=chapNum, page=i+1)
 			self.ocr_data.append(api.ocr(p, name=name))

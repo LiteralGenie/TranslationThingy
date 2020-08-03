@@ -9,40 +9,58 @@ from kivy.properties import ObjectProperty, NumericProperty, ListProperty
 Builder.load_file(utils.KIVY_CLASS_DIR + "translation_table_layout.kv")
 
 class Row(BoxLayout):
-	row_index= NumericProperty(-1) # Row Index @TODO: prevent duplicate indices?
-	num= ObjectProperty(None) # Label for row number (0 for header row)
-	kor= ObjectProperty(None) # TextInput for Korean
-	eng= ObjectProperty(None) # TextInput for English
+	def build(self, row_index, kor="", eng="", on_focus=None):
+		self.row_index= int(row_index) # Row Index @TODO: prevent duplicate indices?
 
-	def build(self, row_index, kor="", eng=""):
-		self.row_index= int(row_index)
-
-		self.num= RowLabel(text=str(self.row_index))
-		self.kor= KorInput(text=kor)
-		self.eng= EngInput(text=eng)
+		self.num= RowLabel(text=str(self.row_index)) # Label for row number (1-indexed, ignoring header row)
+		self.kor= KorInput(text=kor) # TextInput for Korean
+		self.eng= EngInput(text=eng) # TextInput for English
 
 		self.add_widget(self.num)
 		self.add_widget(self.kor)
 		self.add_widget(self.eng)
 
+		self.on_focus= on_focus
+
 		return self
+
+	def on_touch_down(self, touch):
+		if self.collide_point(*touch.pos) and self.on_focus:
+			if touch.button == "left":
+				self.on_focus(self)
+		return super().on_touch_down(touch)
 
 
 class TranslationTable(ScrollView):
 	rows= ListProperty()
-	num_rows= NumericProperty(0)
-	row_height= NumericProperty(40)
+	row_height= NumericProperty(60)
 
-	def build(self, num_rows=1, row_height=None):
-		self.rows= []
+	# Add to or regenerate the table entries
+	def build(self, row_height=None, clear=True):
+		if clear:
+			if self.rows: self.layout.clear_widgets(self.rows) # Falsy values will clear ALL children
+			self.rows= []
+
 		self.layout= self.ids.layout # BoxLayout
-		self.num_rows= num_rows
 		if row_height: self.row_height= row_height
 
-		for i in range(num_rows): self.rows.append(Row().build(row_index=i+1))
 		for x in self.rows: self.layout.add_widget(x)
 
 		return self
+
+	def append_row(self, kor="", eng="", on_focus=None):
+		r= Row().build(row_index=len(self.rows), kor=kor, eng=eng, on_focus=on_focus)
+		self.rows.append(r)
+		self.layout.add_widget(r)
+
+		return r
+
+	def insert_row(self, index, kor="", eng="", on_focus=None):
+		r= Row().build(row_index=index, kor=kor, eng=eng, on_focus=on_focus)
+		self.rows.insert(index, r)
+		self.build(clear=False)
+
+		return r
 
 
 class KorInput(TextInput): pass
@@ -57,7 +75,12 @@ if __name__ == "__main__":
 	class TestApp(App):
 		def build(self):
 			self.root= BoxLayout()
-			self.root.add_widget(TranslationTable().build(num_rows=30))
+
+			tbl= TranslationTable().build()
+			for i in range(20): tbl.append_row()
+
+			self.root.add_widget(tbl)
+
 			return self.root
 
 	a= TestApp()

@@ -1,0 +1,17 @@
+#: import Viewer kivy_utils.viewer
+#: import TranslationTable kivy_utils.TranslationTable
+#: import VocabPanel kivy_utils.VocabPanel
+
+BoxLayout:
+    orientation: "horizontal"
+
+    Viewer:
+        id: viewer
+    BoxLayout:
+        orientation: "vertical"
+        id: right_layout
+
+        TranslationTable:
+            id: tl_table
+        VocabPanel:
+            id: vocab_panel

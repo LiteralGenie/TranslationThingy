@@ -1,9 +1,10 @@
 import utils.endic_utils as endic, utils.papago_utils as translator
-from utils.ocr_utils import gapi as api
+from utils.ocr_utils import msapi as api
 import glob, os
 
 seriesDir= r"C:\scans\Knight Run/"
-chapDir= list([str(x) for x in range(220,250)])
+# chapDir= list([str(x) for x in range(220,250)])
+chapDir= ["216"]
 
 for chapNum in chapDir:
 	wordCount= 0
