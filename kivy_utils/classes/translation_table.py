@@ -1,10 +1,11 @@
 import kivy_utils # call builder for below classes
-from kivy_utils.classes.text_input import TxtInput
+from kivy_utils.classes.txt_input import TxtInput
 
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
 from kivy.uix.scrollview import ScrollView
 from kivy.properties import ObjectProperty, NumericProperty, ListProperty, DictProperty
+from kivy.base import EventLoop
 
 class Row(BoxLayout):
 	on_focus= [] # @TODO: rename on_focus to on_click
@@ -29,7 +30,7 @@ class Row(BoxLayout):
 	# click events
 	def on_touch_down(self, touch):
 
-		# TextInput focus
+		# TextInput
 		for x in [self.kor, self.eng]:
 			if x.collide_point(*touch.pos):
 				if touch.button == "left":
@@ -69,12 +70,9 @@ class TranslationTable(ScrollView):
 			r.kor.focus_previous= self.rows[-1].eng
 			r.kor.focus_next= r.eng
 			r.eng.focus_next= StopIteration
-			pass
 		else:
-			print('here')
 			r.kor.focus_next= r.eng
 			r.kor.focus_previous= StopIteration
-			pass
 
 		self.rows.append(r)
 		self.layout.add_widget(r)
@@ -115,7 +113,7 @@ if __name__ == "__main__":
 			self.root= BoxLayout()
 
 			tbl= TranslationTable().build()
-			for i in range(3): tbl.append_row()
+			for i in range(3): tbl.append_row(kor=f"kor{i}", eng=f"eng{i}")
 
 			self.root.add_widget(tbl)
 

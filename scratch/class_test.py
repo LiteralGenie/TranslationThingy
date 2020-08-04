@@ -1,5 +1,4 @@
 from kivy.config import Config
-from kivy.properties import ListProperty
 from kivy.uix.textinput import TextInput
 
 Config.set('kivy', 'log_level', 'debug')
@@ -16,9 +15,12 @@ from kivy.uix.tabbedpanel import TabbedPanelItem
 import cv2
 
 kv = """
-<TextInput>:
-	write_tab: False
-	
+<InOne>:
+    text: "one"
+
+<InTwo>:
+	text: "two"
+
 <Test>:
 	orientation: "vertical"
 	
@@ -27,23 +29,17 @@ kv = """
 """
 Builder.load_string(kv)
 
+class InOne(TextInput):
+	pass
+
+class InTwo(TextInput):
+	pass
+
 class Test(BoxLayout):
-	rows= ListProperty([])
-
-	def populate(self, num=2):
-		if self.rows: self.clear_widgets(self.rows)
-		self.rows= []
-
-		for i in range(num):
-			self.rows.append(Label(text=f"Label {i}"))
-
-		for x in self.rows:
-			self.add_widget(x)
-
+	def populate(self):
+		self.add_widget(InOne())
+		self.add_widget(InTwo())
 		return self
-
-	def on_touch_down(self, touch):
-		super().on_touch_down(touch)
 
 class TestApp(App):
 	def build(self):

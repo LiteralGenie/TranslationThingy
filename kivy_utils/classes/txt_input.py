@@ -1,7 +1,86 @@
+import kivy_utils # call builder for below classes
 from kivy.uix.textinput import TextInput
+from kivy.clock import Clock
+from kivy.base import EventLoop
 
-# Bugfix for focus_previous not working: https://github.com/kivy/kivy/issues/6560
 class TxtInput(TextInput):
+	# Enable right click
+	# Enforce single active selection / copy-paste menu
+	# ---- BEGIN ----
+
+	last_selected= dict(instance=None, hidden=True) # Indicates if a selection exists
+
+	# Disable long touch -- for like, when you drag to cancel menu from showing
+	def long_touch(self, dt): pass
+
+	# Enable copy-paste menu on right click. Also disable selection when click occurs outside input.
+	def on_touch_down(self, touch):
+		if self.last_selected['instance'] and \
+		not self.last_selected['instance'].collide_point(*touch.pos):
+				self.hide_old()
+
+		if self.collide_point(*touch.pos):
+			if touch.button == "right":
+				return self.show_copy_paste(touch)
+		return super().on_touch_down(touch)
+
+	# Override to enforce single active selection / copy-paste menu
+	# Note that showing the context menu causes a loss in focus
+	def _on_textinput_focused(self, instance, value, *largs):
+		from kivy.base import EventLoop
+		from kivy import Config
+		_is_desktop = Config.getboolean('kivy', 'desktop')
+
+		win = EventLoop.window
+		# self.cancel_selection() # changed
+		# self._hide_cut_copy_paste(win) # changed
+
+		if value:
+			self.hide_old() # changed
+			self.assign_last(instance=self, hidden=False) # changed
+
+			if (not (self.readonly or self.disabled) or _is_desktop and
+					self._keyboard_mode == 'system'):
+				self._trigger_cursor_reset()
+				self._editable = True
+			else:
+				self._editable = False
+		else:
+			self._do_blink_cursor_ev.cancel()
+			self._hide_handles(win)
+
+
+	# Helper function
+	@classmethod
+	def hide_old(cls):
+		win = EventLoop.window
+		if cls.last_selected['hidden'] is False:
+			cls.last_selected['instance']._hide_cut_copy_paste(win)
+			cls.last_selected['instance'].cancel_selection()
+			cls.assign_last(hidden=True)
+
+	# Helper function
+	@classmethod
+	def assign_last(cls, instance=None, hidden=None):
+		tmp= cls.last_selected
+		if instance is not None:
+			tmp['instance']= instance
+		if hidden is not None:
+			tmp['hidden']= hidden
+
+	# Helper function
+	def show_copy_paste(self, touch):
+		if self.focus and self.selection_text:
+			pos= self.to_local(*touch.pos, relative=False)
+			self._show_cut_copy_paste(pos, EventLoop.window)
+			self.assign_last(instance=self, hidden=False)
+			return False
+		return False
+
+	# ---- END ----
+
+
+	# Bugfix for focus_previous not working: https://github.com/kivy/kivy/issues/6560
 	def keyboard_on_key_down(self, window, keycode, text, modifiers):
 		from kivy.base import EventLoop
 		from kivy.clock import Clock
@@ -16,10 +95,10 @@ class TxtInput(TextInput):
 		# This allows *either* ctrl *or* cmd, but not both.
 		modifiers = set(modifiers) - {'capslock', 'numlock'}
 		is_shortcut = (modifiers == {'ctrl'} or (
-			_is_osx and modifiers == {'meta'}))
+		_is_osx and modifiers == {'meta'}))
 		is_interesting_key = key in (list(self.interesting_keys.keys()) + [27])
 
-		modifiers= list(modifiers) # genie fix
+		modifiers= list(modifiers) # changed
 		if not self.write_tab and super(TextInput,
 			self).keyboard_on_key_down(window, keycode, text, modifiers):
 			return True
