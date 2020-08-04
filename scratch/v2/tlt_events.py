@@ -20,14 +20,20 @@ def highlight_bubble(row, padding=None):
 		return
 
 	# Draw bounding box
-	draw_box(page=dct['page'], bubble=dct['bubble'],
-			 visible_pages=visible_pages,
-			 viewer=root.viewer, bubbBox=root.bubbBox)
+	draw_box(page=page, bubble=bubble,
+			 viewer=root.viewer, bubbBox=root.bubbBox,
+			 padding=padding)
 
-def draw_box(page, bubble, visible_pages, viewer, bubbBox, padding=None):
+
+def draw_box(page, bubble, viewer, bubbBox, padding=None):
 	bbox= bubble.bbox
 	pos= [bbox['x'], bbox['y']]
 	size= [bbox['w'], bbox['h']]
+
+	# Get visible page data
+	visible_pages= kivy_utils.get_visible_page_heights(viewer=viewer)
+	if not any([x['index'] == page.page_num for x in visible_pages]):
+		return # bbox not on visible pages
 
 	for x in visible_pages:
 		if x['index']+1 != page.page_num:
