@@ -28,7 +28,7 @@ class TltApp(App):
 
 	def build(self):
 		self.title= "Translation Thingy"
-		self.root= Builder.load_file(utils.ROOT_DIR + "scratch/v2/tlt.kv")
+		self.root= Builder.load_file(utils.ROOT_DIR + "scratch/v2/tlt.kv") # TODO: another temp path
 
 		self.populate_viewer()
 		self.populate_table()

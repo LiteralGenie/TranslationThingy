@@ -1,5 +1,6 @@
 from kivy.config import Config
 from kivy.properties import ListProperty
+from kivy.uix.textinput import TextInput
 
 Config.set('kivy', 'log_level', 'debug')
 
@@ -15,6 +16,9 @@ from kivy.uix.tabbedpanel import TabbedPanelItem
 import cv2
 
 kv = """
+<TextInput>:
+	write_tab: False
+	
 <Test>:
 	orientation: "vertical"
 	
@@ -37,6 +41,9 @@ class Test(BoxLayout):
 			self.add_widget(x)
 
 		return self
+
+	def on_touch_down(self, touch):
+		super().on_touch_down(touch)
 
 class TestApp(App):
 	def build(self):

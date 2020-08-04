@@ -6,6 +6,8 @@
     orientation: "horizontal"
 
 <TranslationTable>: # ScrollView
+    layout: layout
+
     scroll_type: ['bars', 'content']
     effect_y: ScrollEffect(friction=0.2)
 
@@ -40,10 +42,12 @@
     font_name: FONT_PATH
     text_language: "ko-KR"
     halign: "left"
+    write_tab: False
 
 <EngInput>:
     text_language: "en_US"
     halign: "left"
+    write_tab: False
 
 <RowLabel>:
     size_hint_max_x: 75

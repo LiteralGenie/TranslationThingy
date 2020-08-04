@@ -1,23 +1,19 @@
+import kivy_utils # call builder for below classes
 from kivy.config import Config
 from kivy.properties import ObjectProperty, DictProperty, StringProperty, ListProperty
 
 Config.set('kivy', 'log_level', 'debug')
 
-from kivy.lang import Builder
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.gridlayout import GridLayout
 
 from kivy.uix.tabbedpanel import TabbedPanel
 from kivy.uix.tabbedpanel import TabbedPanelItem
 
-import utils
-Builder.load_file(utils.KIVY_CLASS_DIR + "vocab_tabs_layout.kv")
-
-
 """
 word is dict with:
 	name - string
-	
+
 	
 words is list of word
 """

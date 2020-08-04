@@ -1,18 +1,16 @@
-import utils
-from kivy.lang import Builder
+import kivy_utils # call builder for below classes
+from kivy_utils.classes.text_input import TxtInput
+
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
-from kivy.uix.textinput import TextInput
 from kivy.uix.scrollview import ScrollView
-from kivy.properties import ObjectProperty, NumericProperty, ListProperty
-
-Builder.load_file(utils.KIVY_CLASS_DIR + "translation_table_layout.kv")
+from kivy.properties import ObjectProperty, NumericProperty, ListProperty, DictProperty
 
 class Row(BoxLayout):
 	on_focus= [] # @TODO: rename on_focus to on_click
 	on_double_click= []
 
-	def build(self, row_index, kor="", eng=""):
+	def build(self, row_index, kor="", eng="", page=None, bubble=None):
 		self.row_index= int(row_index) # Row Index @TODO: prevent duplicate indices?
 
 		self.num= RowLabel(text=str(self.row_index)) # Label for row number (1-indexed, ignoring header row)
@@ -23,54 +21,72 @@ class Row(BoxLayout):
 		self.add_widget(self.kor)
 		self.add_widget(self.eng)
 
+		self.page= page
+		self.bubble= bubble
+
 		return self
 
 	# click events
 	def on_touch_down(self, touch):
-		if self.collide_point(*touch.pos) and self.on_focus:
-			if touch.button == "left":
-				self.on_focus(self)
+
+		# TextInput focus
+		for x in [self.kor, self.eng]:
+			if x.collide_point(*touch.pos):
+				if touch.button == "left":
+					for func in Row.on_focus: func(self)
+
+		# double click row label
+		for x in [self.num]:
+			if x.collide_point(*touch.pos):
+				if touch.button == "left" and touch.is_double_tap:
+					for func in Row.on_double_click: func(self)
+
 		return super().on_touch_down(touch)
 
 
 class TranslationTable(ScrollView):
 	rows= ListProperty()
 	row_height= NumericProperty(60)
+	layout= ObjectProperty(None)
 
 	# Add to or regenerate the table entries
-	def build(self, row_height=None, clear=True, on_focus=None):
+	def build(self, row_height=None, clear=True):
+		self.layout= self.ids.layout
+
+		if self.rows: self.layout.clear_widgets(self.rows) # Falsy values will clear ALL children
 		if clear:
-			if self.rows: self.layout.clear_widgets(self.rows) # Falsy values will clear ALL children
 			self.rows= []
 			self.pages_bubbles_rows= []
-		if on_focus: Row.on_focus= on_focus
 
-		self.layout= self.ids.layout # BoxLayout
 		if row_height: self.row_height= row_height
 
 		for x in self.rows: self.layout.add_widget(x)
 		return self
 
-	def append_row(self, kor="", eng=""):
-		r= Row().build(row_index=len(self.rows)+1, kor=kor, eng=eng)
+	def append_row(self, kor="", eng="", page=None, bubble=None):
+		r= Row().build(row_index=len(self.rows)+1, kor=kor, eng=eng, page=page, bubble=bubble)
+		if self.rows:
+			r.kor.focus_previous= self.rows[-1].eng
+			r.kor.focus_next= r.eng
+			r.eng.focus_next= StopIteration
+			pass
+		else:
+			print('here')
+			r.kor.focus_next= r.eng
+			r.kor.focus_previous= StopIteration
+			pass
+
 		self.rows.append(r)
 		self.layout.add_widget(r)
 
 		return r
 
-	def insert_row(self, index, kor="", eng=""):
-		r= Row().build(row_index=index, kor=kor, eng=eng)
-		self.rows.insert(index, r)
-		self.build(clear=False)
+	def insert_row(self, index, kor="", eng=""): pass # @TODO
 
-		return r
-
-	def populate_from_pages(self, pages, on_focus=None):
-		self.build(on_focus=on_focus)
-
+	def populate_from_pages(self, pages):
 		for pg in pages:
 			for bubb in pg.bubbles:
-				r= self.append_row(kor=bubb.raw_text)
+				r= self.append_row(kor=bubb.raw_text, page=pg, bubble=bubb)
 				self.pages_bubbles_rows.append({"bubble": bubb, "row": r, "page": pg})
 
 	@property
@@ -79,8 +95,14 @@ class TranslationTable(ScrollView):
 	@property
 	def on_double_click(self): return Row.on_double_click
 
-class KorInput(TextInput): pass
-class EngInput(TextInput): pass
+
+class Div(BoxLayout):
+	def build(self, text=""):
+		self.text= text
+
+
+class KorInput(TxtInput): pass
+class EngInput(TxtInput): pass
 class RowLabel(Label): pass
 class HeaderLabel(Label): pass
 
@@ -93,7 +115,7 @@ if __name__ == "__main__":
 			self.root= BoxLayout()
 
 			tbl= TranslationTable().build()
-			for i in range(20): tbl.append_row()
+			for i in range(3): tbl.append_row()
 
 			self.root.add_widget(tbl)
 
