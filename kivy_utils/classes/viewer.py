@@ -115,11 +115,11 @@ class LineBox(Line):
 
 
 		# kivy origin is at bottom left. cv2 origin is at top left.
-		self.pos= impage.to_window( bbox['x'], impage.height-bbox['y']+offset )
-		self.size= impage.to_window( bbox['w'], -bbox['h'] )
+		self.pos= [bbox['x'], impage.height-bbox['y']+offset]
+		self.size= [bbox['w'], -bbox['h']]
 		self.rectangle= self.pos + self.size
 
-		# if hidden: self.hide()
+		if hidden: self.hide()
 		print(f'drawing page {impage.page.page_num} at {bbox} = {self.pos + self.size}')
 		return self
 
