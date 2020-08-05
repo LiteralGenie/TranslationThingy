@@ -32,7 +32,7 @@ class OcrReader(App):
 
     def addLeft(self, name=None):
         # self.viewer= kutils.Viewer()
-        self.viewer= kutils.Viewer().build(globDir=self.chapDir, chapNum=self.chapNum)
+        self.viewer= kutils.Viewer().build(glob_dir=self.chapDir, chapNum=self.chapNum)
         self.root.add_widget(self.viewer)
 
     def addRight(self):
