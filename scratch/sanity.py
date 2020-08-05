@@ -1,48 +1,63 @@
+import time, threading
+from kivy.lang.builder import Builder
+from kivy.clock import Clock
 from kivymd.app import MDApp
-from kivy.lang import Builder
-from threading import Thread
-from time import sleep
-from kivy.clock import mainthread
-
 
 KV = '''
 Screen:
 
-    MDProgressBar:
-        id: progress_bar
-        pos_hint: {'center_x': .5, 'center_y': .5}
-        size_hint_x: .7
-        value: 0
-        color: [0,0,0,1]
+    BoxLayout:
+        orientation:'vertical'
+        cols: 3
+        spacing: 30
+        padding: 30
 
-    MDRaisedButton:
-        text: 'Run'
-        pos_hint: {'center_x': .5, 'center_y': .1}
-        on_release: app.do_things()
+        MDProgressBar:
+            id: progress_bar
+            value: 0
+            color: [0,0,0,1]
+
+        Button:
+            text: 'Run'
+            on_release: app.do_things()
+            
+        TextInput:
     '''
 
-
 class TestApp(MDApp):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.screen = Builder.load_string(KV)
+        self.number = 1
+        self.previous_loop_number = 0
 
     def build(self):
-        self.number = 0
-        return Builder.load_string(KV)
+        return self.screen
 
-    @mainthread
-    def update_progress_bar(self):
-        self.root.ids.progress_bar.value += 10
+    def update_progress(self):
+        def tmp(dt): # check for update
+            print("found",self.number)
+            if self.screen.ids.progress_bar.value < 100:
+                self.screen.ids.progress_bar.value= self.number*10
+            else: print("cancelling"); event.cancel()
+        event= Clock.schedule_interval(tmp, 1)
 
     def loop(self):
-        for self.number in range(1, 11):
-            print(self.number)
-            self.update_progress_bar()
-            sleep(2)
+        def tmp(dt): # trigger update
+            print("updating")
+            if self.number < 10:
+                self.number+= 1
+            else: print("cancelling"); event.cancel()
+        event= Clock.schedule_interval(tmp, 1)
 
     def do_things(self):
-        t1 = Thread(target=self.loop, daemon=True)
+        t1 = threading.Thread(target=self.loop)
+        t2 = threading.Thread(target=self.update_progress)
         t1.start()
+        t2.start()
+        t1.join()
+        t2.join()
 
 
 if __name__ == "__main__":
-    app = TestApp()
-    app.run()
+    TestApp().run()
