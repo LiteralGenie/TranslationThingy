@@ -30,6 +30,8 @@ class api(abc.ABC):
 
 	@classmethod
 	def get_name(cls, series, chapter, page): # page should be 1-indexed
+		if any([ x is None for x in [series, chapter, page] ]):
+			return None
 		return f"{series}_{chapter}-{page}"
 
 	@abc.abstractmethod

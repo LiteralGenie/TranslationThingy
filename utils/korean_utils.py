@@ -2,7 +2,7 @@ import cv2, glob
 from utils.ocr_utils import msapi as api
 
 class Page:
-	def __init__(self, series, chap_num, page_num, im_path):
+	def __init__(self, page_num, im_path, series=None, chap_num=None):
 		self.series= series
 		self.chap_num= chap_num
 		self.page_num= page_num
@@ -20,17 +20,19 @@ class Page:
 			ret.append(Page(series=series, chap_num=chap_num, page_num=i, im_path=im))
 
 		for page in ret:
-			page._load_bubbles()
+			page.load_bubbles()
 
 		return ret
 
-	def _load_bubbles(self):
+	def load_bubbles(self):
 		name= api.get_name(series=self.series, chapter=self.chap_num, page=self.page_num)
 		ocr_data= api.ocr(self.im_path, name=name)
 
 		for line, lb in ocr_data:
 			text= " ".join([word for word,wordBox in line])
 			self.bubbles.append(Bubble(raw_text=text, bbox=lb))
+
+		return self
 
 
 class Bubble:
