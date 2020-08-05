@@ -9,3 +9,4 @@ from kivy.lang import Builder
 # Loads at the module-level to avoid duplicate calls
 Builder.load_file(utils.KIVY_CLASS_DIR + "translation_table_layout.kv")
 Builder.load_file(utils.KIVY_CLASS_DIR + "vocab_tabs_layout.kv")
+Builder.load_file(utils.KIVY_CLASS_DIR + "viewer_layout.kv")
