@@ -10,3 +10,4 @@ from kivy.lang import Builder
 Builder.load_file(utils.KIVY_CLASS_DIR + "translation_table_layout.kv")
 Builder.load_file(utils.KIVY_CLASS_DIR + "vocab_tabs_layout.kv")
 Builder.load_file(utils.KIVY_CLASS_DIR + "txt_input_layout.kv")
+Builder.load_file(utils.KIVY_CLASS_DIR + "viewer_layout.kv")

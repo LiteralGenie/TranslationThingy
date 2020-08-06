@@ -31,6 +31,8 @@ class api(abc.ABC):
 	@classmethod
 	def get_name(cls, series, chapter, page): # page should be 1-indexed
 		assert page > 0, "Page numbers when retrieving OCR data should be 1-indexed (because that's how the image is usually named)"
+		if any([ x is None for x in [series, chapter, page] ]):
+			return None
 		return f"{series}_{chapter}-{page}"
 
 	@abc.abstractmethod

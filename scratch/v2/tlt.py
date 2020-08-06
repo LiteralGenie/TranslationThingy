@@ -58,7 +58,7 @@ class TltApp(App):
 			])
 
 	def populate_viewer(self):
-		self.viewer= self.root.ids.viewer.build(globDir=self.glob_dir, chapNum=self.chap_num)
+		self.viewer= self.root.ids.viewer.build(glob_dir=self.glob_dir, chapNum=self.chap_num)
 
 		# higlight box
 		with self.viewer.canvas:
@@ -67,6 +67,7 @@ class TltApp(App):
 
 		# remove highlight box on scroll
 		self.viewer.fbind('on_scroll_stop', remove_box)
+
 
 if __name__ == "__main__":
 	chapNum= 209

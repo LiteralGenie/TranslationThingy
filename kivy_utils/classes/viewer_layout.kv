@@ -1,8 +1,14 @@
 #: import ScrollEffect kivy.effects.scroll.ScrollEffect
 
-<Viewer>:
-    size_hint: (None,1)         # Full height, width is w/e
-    size: (0,0)                 # Content has to be bigger than self to scroll
+#:set SCROLL_BAR_WIDTH 20
+#:set SCROLL_BAR_MARGIN 2
+#:set LINE_BOX_COLOR (1,0,0, 0.5)
+#:set LINE_WIDTH 3
+
+<Viewer>:  # RecycleView
+    id: viewer
+
+    size_hint: (None,1)         # Full window height, width set in code.
 
     scroll_type: ['bars', 'content']
     effect_y: ScrollEffect(friction=0.5)
@@ -12,7 +18,23 @@
     scroll_distance: 1          # Low drag distance before scroll begins
     scroll_wheel_distance: 10
 
-    bar_width: 8
+    bar_width: int(SCROLL_BAR_WIDTH - SCROLL_BAR_MARGIN)
     bar_color: [.5,.5,.5,.5]
     bar_inactive_color: [.5,.5,.5,.1]
 
+    layout: layout
+    BoxLayout:
+        id: layout
+        orientation: "vertical"
+        size_hint: (None,None)
+
+<ImPage>:  # AsyncImage
+    size_hint: (None,None)
+    line_box_color: LINE_BOX_COLOR
+    line_width: LINE_WIDTH
+
+
+# Line is an instruction, not widget lol.
+# <LineBox>: # Line
+#     width: LINE_WIDTH
+#     has_focus: False
