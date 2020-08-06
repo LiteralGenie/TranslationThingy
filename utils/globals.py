@@ -9,14 +9,14 @@ KIVY_UTILS_DIR= ROOT_DIR + "kivy_utils/"
 CONFIG_DIR= ROOT_DIR + "config/"
 
 
-FONT_DIR= DATA_DIR + "/fonts"
+FONT_DIR= DATA_DIR + "fonts/"
 ENDIC_DIR= DATA_DIR + "endic/"
 OCR_DIR= DATA_DIR + "ocr/"
 PAPAGO_CACHE= DATA_DIR + "papago.json"
 
 
 CONFIG= loadJson(CONFIG_DIR + "config.json")
-FONT_PATH_1= DATA_DIR + CONFIG['font_1']
+FONT_PATH_1= FONT_DIR + CONFIG['font_1']
 
 
 KIVY_CLASS_DIR= KIVY_UTILS_DIR + "classes/"

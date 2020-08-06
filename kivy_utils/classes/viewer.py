@@ -1,12 +1,11 @@
-import kivy_utils
+import kivy_utils # call builder for below classes
 from kivy.graphics import Line, Color
 from kivy.uix.recycleview import RecycleView
 from kivy.uix.image import AsyncImage
 from kivy.properties import ObjectProperty, NumericProperty
-from utils.korean_utils import Page
+from utils.page_utils import Page
 
 import cv2, glob, utils
-from utils.ocr_utils import gapi as api
 
 
 class Viewer(RecycleView):
@@ -18,27 +17,11 @@ class Viewer(RecycleView):
 		self.pages= []
 		self.im_heights= []
 
-		if glob_dir: self.load_images(glob.glob(glob_dir)[1:3], chap_num=chap_num, series=series)
+		if glob_dir: self.load_images(glob.glob(glob_dir), chap_num=chap_num, series=series)
 
 		return self
 
 	def load_images(self, im_paths, chap_num=None, series=None):
-		# self.layout.height= 1000
-		# self.width= self.layout.width= 1000
-		# self.height= 1000
-		# for i,x in enumerate(im_paths):
-		# 	label= AsyncImage(source=r"C:\Users\Anne\PycharmProjects\KRR/gralb.png")
-		#
-		# 	with label.canvas:
-		# 		Color(i,1-i,0, 1)
-		# 		if i == 1: Line(points=[0,100,1000,1000], width=3)
-		# 		else: Line(points=[0,200,1000,1000], width=3)
-		# 	self.layout.add_widget(label)
-		# return
-
-
-
-
 		self.im_paths= im_paths
 
 		for i, p in enumerate(im_paths):
@@ -111,8 +94,6 @@ class LineBox(Line):
 
 	def from_bubble(self, impage, bubble, offset, hidden=True):
 		bbox= bubble.bbox
-
-
 
 		# kivy origin is at bottom left. cv2 origin is at top left.
 		self.pos= [bbox['x'], impage.height-bbox['y']+offset]

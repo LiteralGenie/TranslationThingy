@@ -26,7 +26,7 @@ class Page:
 		return ret
 
 	def load_bubbles(self):
-		name= api.get_name(series=self.series, chapter=self.chap_num, page=self.page_num)
+		name= api.get_name(series=self.series, chapter=self.chap_num, page=self.page_num+1)
 		ocr_data= api.ocr(self.im_path, name=name)
 
 		for line, lb in ocr_data:

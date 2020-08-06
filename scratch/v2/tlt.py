@@ -58,7 +58,7 @@ class TltApp(App):
 			])
 
 	def populate_viewer(self):
-		self.viewer= self.root.ids.viewer.build(glob_dir=self.glob_dir, chapNum=self.chap_num)
+		self.viewer= self.root.ids.viewer.build(glob_dir=self.glob_dir, chap_num=self.chap_num)
 
 		# higlight box
 		with self.viewer.canvas:
@@ -70,8 +70,8 @@ class TltApp(App):
 
 
 if __name__ == "__main__":
-	chapNum= 209
-	globDir= rf"C:\scans\Knight Run\{chapNum}/*.png"
+	chap_num= 209
+	glob_dir= rf"C:\scans\Knight Run\{chap_num}/*.png"
 
 	kivy_utils.doFullScreen()
-	TltApp(glob_dir=globDir, chap_num=chapNum).run()
+	TltApp(glob_dir=glob_dir, chap_num=chap_num).run()

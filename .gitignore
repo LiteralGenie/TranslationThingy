@@ -9,3 +9,6 @@ config/gcreds.json
 data/endic/*
 data/ocr/*
 data/fonts/*
+
+!data/fonts/.gitignore
+!data/ocr/example.txt
