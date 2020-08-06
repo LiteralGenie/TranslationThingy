@@ -1,0 +1,11 @@
+**/*.cpython-37.pyc
+*.pyc
+venv/
+venv38/
+.idea/
+
+config/azure_creds.json
+config/gcreds.json
+data/endic/*
+data/ocr/*
+data/fonts/*
