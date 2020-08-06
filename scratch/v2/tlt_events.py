@@ -2,22 +2,35 @@ import warnings, kivy_utils, numpy as np
 from kivy.app import App
 
 
-# highlight sentence on table click
-def highlight_bubble(row, padding=None):
+# move clicked row into view
+def scroll_on_double_click(row, margin_ratio=0.1, padding=None):
 	root= App.get_running_app()
 
-	# Get page / bubble / row relevant to clicked row
-	dct= None
-	for x in root.pages_bubbles_rows:
-		if x["row"] is row: dct= x
-	if not dct:
-		warnings.warn(f"Grouping with Row not found: {str(row)}")
-		return
+	page= row.page
+	bubble= row.bubble
+	if page is None or bubble is None: return
 
-	# Get visible page data
-	visible_pages= kivy_utils.get_visible_page_heights(viewer=root.viewer)
-	if not any([x['index']+1 == dct['page'].page_num for x in visible_pages]): # bbox not on visible pages
-		return
+	tmp= page.page_num
+	target_y= sum(root.viewer.im_heights[:tmp])
+	target_y+= bubble.bbox['y'] + int(bubble.bbox['h']/2)
+
+	scrollable_dist= sum(root.viewer.im_heights) - root.viewer.height
+
+	target_y-= margin_ratio * root.viewer.height # padding
+	target_y= max(0, target_y)
+	target_scroll= target_y / scrollable_dist
+
+	root.viewer.scroll_y= 1-target_scroll
+	highlight_on_focus(row, padding=padding)
+
+
+# draw border around text in image
+def highlight_on_focus(row, padding=None):
+	remove_box()
+
+	root= App.get_running_app()
+	page= row.page
+	bubble= row.bubble
 
 	# Draw bounding box
 	draw_box(page=page, bubble=bubble,
@@ -36,7 +49,7 @@ def draw_box(page, bubble, viewer, bubbBox, padding=None):
 		return # bbox not on visible pages
 
 	for x in visible_pages:
-		if x['index']+1 != page.page_num:
+		if x['index'] != page.page_num:
 			pos[1]+= x['end']-x['start'] # earlier pages shift bbox down
 		else:
 			pos[1]-= x['start'] # container page may be cut off at top, in which case, shift bbox up
@@ -57,5 +70,5 @@ def draw_box(page, bubble, viewer, bubbBox, padding=None):
 	bubbBox.rectangle= pos + size
 
 # remove highlight on scroll
-def remove_box(window, pos):
+def remove_box(*args):
 	App.get_running_app().bubbBox.rectangle= (0,)*4

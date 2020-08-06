@@ -42,7 +42,7 @@ def get_visible_page_heights(viewer): # @TODO: break into reusable chunks
 
 
 	tmp= 0 # running total of page heights
-	start_page= 0 # first visible page in viewer
+	start_page= 1 # first visible page in viewer
 	for i in range(len(viewer.im_heights)):
 		if tmp + viewer.im_heights[i] > abs_y_top: # if page goes below top-edge of viewer...
 			start_page= i

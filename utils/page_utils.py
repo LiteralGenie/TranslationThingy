@@ -1,6 +1,7 @@
 import cv2, glob
 from utils.ocr_utils import msapi as api
 
+# Zero-indexed!!!!!!!
 class Page:
 	def __init__(self, series, chap_num, page_num, im_path):
 		self.series= series
@@ -25,7 +26,7 @@ class Page:
 		return ret
 
 	def _load_bubbles(self):
-		name= api.get_name(series=self.series, chapter=self.chap_num, page=self.page_num)
+		name= api.get_name(series=self.series, chapter=self.chap_num, page=self.page_num+1)
 		ocr_data= api.ocr(self.im_path, name=name)
 
 		for line, lb in ocr_data:

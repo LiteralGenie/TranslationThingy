@@ -8,10 +8,31 @@ BoxLayout:
     Viewer:
         id: viewer
     BoxLayout:
-        orientation: "vertical"
         id: right_layout
+        orientation: "vertical"
 
-        TranslationTable:
-            id: tl_table
+
+        # TL table
+        BoxLayout:
+            orientation: "vertical"
+            padding: [0, 10, 10, 10]
+
+            TranslationTable:
+                id: tl_table
+
+            BoxLayout:
+                id: TableButtons
+                size_hint_y: 0.1
+                orientation: "horizontal"
+
+                Label:
+                ToggleButton:
+                    text: "b1"
+                    size_hint_x: 0.1
+                Button:
+                    text: "b2"
+                    size_hint_x: 0.1
+
+
         VocabPanel:
             id: vocab_panel

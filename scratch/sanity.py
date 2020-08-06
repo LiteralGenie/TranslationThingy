@@ -1,25 +1,16 @@
-from kivy.uix.scrollview import ScrollView
-from kivy.lang import Builder
+class B:
+	@classmethod
+	def test(cls):
+		print(1)
 
-from kivy.app import App
-from kivy.clock import Clock
-from kivy.uix.label import Label
+b= B()
+b.test()
+B.test()
 
+b.test= lambda: print(2)
+b.test()
+B.test()
 
-
-class Widgets(ScrollView):
-	def add_labels(self, *args):
-		for i in range(20):
-			self.ids.box.add_widget(Label(text=str(i)))
-
-Builder.load_file("C:/programming/knightrunreader/scratch/v1/layout.kv")
-
-class SimpleKivy3(App):
-	def build(self):
-		self.scroll= Widgets()
-		Clock.schedule_once(self.scroll.add_labels)
-		return self.scroll
-
-
-if __name__ == "__main__":
-	SimpleKivy3().run()
+B.test= lambda: print(3)
+b.test()
+B.test()

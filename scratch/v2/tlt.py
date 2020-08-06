@@ -6,8 +6,8 @@ from kivy.lang import Builder
 
 import utils, kivy_utils
 from utils.ocr_utils import gapi
-from utils.korean_utils import Page, Bubble
-from scratch.v2.tlt_events import highlight_bubble, remove_box # @TODO: fix temporary import
+from utils.page_utils import Page, Bubble
+from scratch.v2.tlt_events import highlight_on_focus, scroll_on_double_click, remove_box # @TODO: fix temporary import
 
 Config.set('kivy', 'log_level', 'debug')
 
@@ -24,7 +24,6 @@ class TltApp(App):
 		self.series= "knight"
 
 		self.pages= []
-		self.pages_bubbles_rows= []
 
 	def build(self):
 		self.title= "Translation Thingy"
@@ -42,10 +41,11 @@ class TltApp(App):
 
 		# table data
 		self.pages= Page.load_pages(series=self.series, chap_num=self.chap_num, glob_dir=self.glob_dir)
-		for pg in self.pages:
-			for bubb in pg.bubbles:
-				r= self.tl_table.append_row(kor=bubb.raw_text, on_focus=highlight_bubble)
-				self.pages_bubbles_rows.append({"bubble": bubb, "row": r, "page": pg})
+		self.tl_table.populate_from_pages(self.pages)
+
+		# events
+		self.tl_table.on_focus.append(highlight_on_focus)
+		self.tl_table.on_double_click.append(scroll_on_double_click)
 
 	def populate_vocab(self):
 		self.vocab_panel= self.root.ids.vocab_panel.build()
@@ -62,7 +62,7 @@ class TltApp(App):
 
 		# higlight box
 		with self.viewer.canvas:
-			Color(1,0,0,0.3)
+			Color(1,0,0,0.5)
 			self.bubbBox= Line(size=(110,110), width=1.25, dash_length=0.5, dash_offest=1)
 
 		# remove highlight box on scroll
