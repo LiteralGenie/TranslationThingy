@@ -1,6 +1,6 @@
 import kivy_utils # call builder for below classes
 from kivy.graphics import Line, Color
-from kivy.uix.recycleview import RecycleView
+from kivy.uix.scrollview import ScrollView
 from kivy.uix.image import AsyncImage
 from kivy.properties import ObjectProperty, NumericProperty
 from utils.page_utils import Page
@@ -8,7 +8,7 @@ from utils.page_utils import Page
 import cv2, glob, utils
 
 
-class Viewer(RecycleView):
+class Viewer(ScrollView):
 	layout = ObjectProperty()
 	overlay= ObjectProperty()
 
@@ -41,7 +41,7 @@ class Viewer(RecycleView):
 		self.width= self.layout.width= w
 
 		for i,pg in enumerate(self.pages):
-			pg.load_rects(offset=sum(self.im_heights[i+1:]))
+			pg.load_rects()
 
 		return self
 
@@ -66,13 +66,13 @@ class ImPage(AsyncImage):
 
 		return self
 
-	def load_rects(self, offset, hidden=True):
+	def load_rects(self, hidden=True):
 		self.rects= []
 
 		for bubb in self.page.bubbles:
 			with self.overlay_canvas.after:
 				Color(*self.line_box_color)
-				lb= LineBox().from_bubble(self, bubb, offset=offset, hidden=hidden)
+				lb= LineBox().from_bubble(self, bubb, hidden=hidden)
 				self.rects.append(lb)
 
 		return self
@@ -92,11 +92,11 @@ class LineBox(Line):
 		super().__init__(**kwargs)
 		self.width= self.LINE_WIDTH
 
-	def from_bubble(self, impage, bubble, offset, hidden=True):
+	def from_bubble(self, impage, bubble, hidden=True):
 		bbox= bubble.bbox
 
 		# kivy origin is at bottom left. cv2 origin is at top left.
-		self.pos= [bbox['x'], impage.height-bbox['y']+offset]
+		self.pos= [bbox['x'], impage.height-bbox['y']+impage.pos[1]]
 		self.size= [bbox['w'], -bbox['h']]
 		self.rectangle= self.pos + self.size
 
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 	from kivy.app import App
 	from kivy.uix.boxlayout import BoxLayout
 
-	glob_dir = r"C:\Users\Anne\Desktop\scans\Father's Day\test/*.png"
+	glob_dir = r"C:\scans\Knight Run\225\wr*.png"
 
 
 	class TestApp(App):
