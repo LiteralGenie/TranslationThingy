@@ -1,5 +1,5 @@
 import cv2, glob
-from utils.ocr_utils import msapi as api
+from utils.ocr_utils import gapi as api
 
 # Zero-indexed!!!!!!!
 class Page:

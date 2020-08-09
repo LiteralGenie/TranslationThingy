@@ -5,7 +5,6 @@ from kivy.graphics import Color, Line
 from kivy.lang import Builder
 
 import utils, kivy_utils
-from utils.ocr_utils import gapi
 from utils.page_utils import Page, Bubble
 from scratch.v2.tlt_events import highlight_on_focus, scroll_on_double_click, remove_box # @TODO: fix temporary import
 
@@ -70,7 +69,7 @@ class TltApp(App):
 
 
 if __name__ == "__main__":
-	chap_num= 209
+	chap_num= 225
 	glob_dir= rf"C:\scans\Knight Run\{chap_num}/*.png"
 
 	kivy_utils.doFullScreen()
