@@ -16,20 +16,23 @@ class TltApp(App):
 	tl_table= ObjectProperty(None)
 	vocab_panel= ObjectProperty(None)
 
-	def __init__(self, glob_dir, chap_num):
+	def __init__(self, glob_dir, chap_num, series="knight"):
 		super().__init__()
 		self.glob_dir= glob_dir
 		self.chap_num= chap_num
-		self.series= "knight"
+		self.series= series
 
-		self.pages= []
 
 	def build(self):
 		self.title= "Translation Thingy"
 		self.root= Builder.load_file(utils.ROOT_DIR + "scratch/v2/tlt.kv") # TODO: another temp path
+		self.pages= Page.load_pages(series=self.series, chap_num=self.chap_num, glob_dir=self.glob_dir)
 
+		print("populating viewer")
 		self.populate_viewer()
+		print("populating table")
 		self.populate_table()
+		print("populating vocab")
 		self.populate_vocab()
 
 		return self.root
@@ -39,7 +42,6 @@ class TltApp(App):
 		self.tl_table= self.root.ids.tl_table.build()
 
 		# table data
-		self.pages= Page.load_pages(series=self.series, chap_num=self.chap_num, glob_dir=self.glob_dir)
 		self.tl_table.populate_from_pages(self.pages, mtl=True)
 
 		# events
@@ -57,7 +59,7 @@ class TltApp(App):
 			])
 
 	def populate_viewer(self):
-		self.viewer= self.root.ids.viewer.build(glob_dir=self.glob_dir, chap_num=self.chap_num)
+		self.viewer= self.root.ids.viewer.build(self.pages, hidden=False)
 
 		# higlight box
 		with self.viewer.canvas:

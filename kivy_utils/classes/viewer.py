@@ -3,7 +3,7 @@ from kivy.graphics import Line, Color
 from kivy.clock import Clock
 from kivy.uix.scrollview import ScrollView
 from kivy.uix.image import AsyncImage
-from kivy.properties import ObjectProperty, NumericProperty
+from kivy.properties import ObjectProperty, NumericProperty, ListProperty
 from utils.page_utils import Page
 
 import cv2, glob, utils, functools, math
@@ -13,37 +13,31 @@ class Viewer(ScrollView):
 	layout = ObjectProperty()
 	overlay= ObjectProperty()
 
-	def build(self, glob_dir=None, chap_num=None, series="Knight", hidden=True):
-		self.im_paths = []
-		self.pages= []
-		self.im_heights= []
-
-		if glob_dir: self.load_images(glob.glob(glob_dir), chap_num=chap_num, series=series, hidden=hidden)
-
+	def build(self, pages, hidden=True):
+		self.pages= pages
+		self.im_pages= []
+		self.load_images(hidden=hidden)
 		return self
 
-	def load_images(self, im_paths, chap_num=None, series=None, hidden=True):
-		self.im_paths= im_paths
+	def load_images(self, hidden=True):
+		for pg in self.pages:
+			im_pg= ImPage().build(	page=pg,
+									im_path=pg.im_path,
+									page_index=pg.page_num
+		  	)
+			self.im_pages.append(im_pg)
+			self.layout.add_widget(im_pg)
 
-		for i, p in enumerate(im_paths):
-			pg= ImPage().build(overlay_canvas=self.layout.canvas,
-			                   im_path=p,
-			                   page_index=i + 1,
-			                   series=series,
-			                   chap_num=chap_num)
-
-			self.layout.add_widget(pg)
-			self.pages.append(pg)
-
-		self.im_heights= [x.height for x in self.pages]
+		self.im_heights= [x.height for x in self.im_pages]
 		self.layout.height = sum(self.im_heights)
 
-		w= self.bar_width + max([ x.width for x in self.pages ])
+		w= self.bar_width + max([ x.width for x in self.im_pages ])
 		self.width= self.layout.width= w
 
-		# initial pos are 0,0 until next clock cycle
+		# draw bbox for each bubble
+		# note: initial impage.pos are 0,0 until next clock cycle
 		def tmp(page, dt): page.load_rects(hidden=hidden) # discard dt
-		for pg in self.pages:
+		for pg in self.im_pages:
 			Clock.schedule_once(functools.partial(tmp, pg), 0)
 
 		return self
@@ -52,19 +46,18 @@ class Viewer(ScrollView):
 class ImPage(AsyncImage):
 	page = ObjectProperty()
 	rects = ObjectProperty()
-	line_box_color= ObjectProperty()
+	line_box_color= ListProperty()
 	line_width= NumericProperty()
 
-	def build(self, im_path, page_index, overlay_canvas, series=None, chap_num=None):
+	def build(self, page, im_path, page_index):
 		im = cv2.imread(im_path)
 		LineBox.LINE_WIDTH= self.line_width # janky but kvlang doesnt support rules for instructions
 
 		self.source=im_path
 		self.size=tuple(reversed(im.shape[:2]))
-		self.overlay_canvas= overlay_canvas
 		self.bind(texture= self._disable_interplotation)  # Prevent blurring
 
-		self.page= Page(im_path=im_path, page_num=page_index, chap_num=chap_num, series=series)
+		self.page= page
 		self.page.load_bubbles()
 
 		return self
@@ -72,9 +65,9 @@ class ImPage(AsyncImage):
 	def load_rects(self, hidden=True):
 		self.rects= []
 
+		self.canvas.after.add(Color(*self.line_box_color))
 		for bubb in self.page.bubbles:
-			with self.overlay_canvas.after:
-				Color(*self.line_box_color)
+			with self.canvas.after:
 				lb= LineBox().from_bubble(self, bubb, hidden=hidden)
 				self.rects.append(lb)
 
@@ -89,7 +82,7 @@ class ImPage(AsyncImage):
 
 class LineBox(Line):
 	has_focus= False
-	LINE_WIDTH= 99
+	LINE_WIDTH= None
 
 	def __init__(self, **kwargs):
 		super().__init__(**kwargs)
@@ -109,8 +102,8 @@ class LineBox(Line):
 			padding= int(min(tmp) / 7)
 
 		size_sign= [abs(self.size[0]) // self.size[0] , abs(self.size[1]) // self.size[1]]
-		self.pos= (-padding + self.pos[0], padding+self.pos[1])
-		self.size= (size_sign[0]*padding*2 + self.size[0], size_sign[1]*padding*2 + self.size[1])
+		self.pos= [-padding + self.pos[0], padding+self.pos[1]]
+		self.size= [size_sign[0]*padding*2 + self.size[0], size_sign[1]*padding*2 + self.size[1]]
 
 		self.rectangle= self.pos + self.size
 		if hidden: self.hide()
@@ -128,13 +121,15 @@ if __name__ == "__main__":
 	glob_dir = r"C:\scans\Knight Run\225\wr*.png"
 	chap_num= 225
 
+	pages= Page.load_pages(series="knight", chap_num=chap_num, glob_dir=glob_dir)
+
 	class TestApp(App):
 		def build(self):
 			self.root = BoxLayout()
 
 			viewer = Viewer()
 			self.root.add_widget(viewer)
-			viewer.build(glob_dir=glob_dir, chap_num=chap_num, series="knight", hidden=False)
+			viewer.build(pages, hidden=False)
 
 			return self.root
 

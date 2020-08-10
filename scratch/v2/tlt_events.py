@@ -28,8 +28,8 @@ def scroll_on_double_click(row, margin_ratio=0.1, padding=None):
 def highlight_on_focus(row, padding=None):
 	root= App.get_running_app()
 
-	for impage in root.viewer.pages:
-		for rect in impage.rects:
+	for im_pg in root.viewer.im_pages:
+		for rect in im_pg.rects:
 			if rect.bubble == row.bubble:
 				rect.show()
 				return
