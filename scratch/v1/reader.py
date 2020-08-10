@@ -32,7 +32,7 @@ class OcrReader(App):
 
     def addLeft(self, name=None):
         # self.viewer= kutils.Viewer()
-        self.viewer= kutils.Viewer().build(glob_dir=self.chapDir, chapNum=self.chapNum)
+        self.viewer= kutils.Viewer().build(glob_dir=self.chapDir, chap_num=self.chapNum)
         self.root.add_widget(self.viewer)
 
     def addRight(self):
@@ -70,6 +70,7 @@ def onScroll(window, pos, root=None):
     root.wordBox.rectangle= root.lineBox.rectangle= (0,)*4
 
 def processWord(window, pos, root=None):
+    return
     r= root.viewer
 
     abs_y= kutils.get_y_abs_top(pos[1], r.scroll_y, r.im_heights)
@@ -108,6 +109,7 @@ def showInfo(word, line, mtl, labels):
 
 div= '-'.join(['']*20)
 def debug(window, pos, root=None):
+    return
     scroll_y= root.viewer.scroll_y
     heights= root.viewer.im_heights
     rLabels= root.rLabels

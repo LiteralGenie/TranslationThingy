@@ -40,7 +40,7 @@ class TltApp(App):
 
 		# table data
 		self.pages= Page.load_pages(series=self.series, chap_num=self.chap_num, glob_dir=self.glob_dir)
-		self.tl_table.populate_from_pages(self.pages)
+		self.tl_table.populate_from_pages(self.pages, mtl=True)
 
 		# events
 		self.tl_table.on_focus.append(highlight_on_focus)
@@ -69,7 +69,7 @@ class TltApp(App):
 
 
 if __name__ == "__main__":
-	chap_num= 225
+	chap_num= 211
 	glob_dir= rf"C:\scans\Knight Run\{chap_num}/*.png"
 
 	kivy_utils.doFullScreen()

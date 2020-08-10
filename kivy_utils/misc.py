@@ -59,11 +59,11 @@ def get_visible_page_heights(viewer): # @TODO: break into reusable chunks
 		st= abs_y_top - start_height
 		if partial_height >= rem_height: # if partial height exceeds remaining viewer height...
 			end= st + rem_height
-			ret.append({ "index": i, "start": st, "end": end })
+			ret.append({ "index": i+1, "start": st, "end": end })
 			break
 		else:
 			end= st + partial_height
-			ret.append({ "index": i, "start": st, "end": end })
+			ret.append({ "index": i+1, "start": st, "end": end })
 
 		start_height+= viewer.im_heights[i]
 		abs_y_top= start_height

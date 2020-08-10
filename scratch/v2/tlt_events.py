@@ -11,7 +11,7 @@ def scroll_on_double_click(row, margin_ratio=0.1, padding=None):
 	if page is None or bubble is None: return
 
 	tmp= page.page_num
-	target_y= sum(root.viewer.im_heights[:tmp])
+	target_y= sum(root.viewer.im_heights[:tmp-1])
 	target_y+= bubble.bbox['y'] + int(bubble.bbox['h']/2)
 
 	scrollable_dist= sum(root.viewer.im_heights) - root.viewer.height
@@ -24,8 +24,17 @@ def scroll_on_double_click(row, margin_ratio=0.1, padding=None):
 	highlight_on_focus(row, padding=padding)
 
 
-# draw border around text in image
+# draw border around text in image when table row focused
 def highlight_on_focus(row, padding=None):
+	root= App.get_running_app()
+
+	for impage in root.viewer.pages:
+		for rect in impage.rects:
+			if rect.bubble == row.bubble:
+				rect.show()
+				return
+
+	return
 	remove_box()
 
 	root= App.get_running_app()

@@ -1,11 +1,12 @@
 import kivy_utils # call builder for below classes
 from kivy_utils.classes.txt_input import TxtInput
-
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
 from kivy.uix.scrollview import ScrollView
 from kivy.properties import ObjectProperty, NumericProperty, ListProperty, DictProperty
 from kivy.base import EventLoop
+
+import utils.papago_utils as MTL
 
 class Row(BoxLayout):
 	on_focus= [] # @TODO: rename on_focus to on_click
@@ -81,10 +82,12 @@ class TranslationTable(ScrollView):
 
 	def insert_row(self, index, kor="", eng=""): pass # @TODO
 
-	def populate_from_pages(self, pages):
+	def populate_from_pages(self, pages, mtl=False):
 		for pg in pages:
 			for bubb in pg.bubbles:
 				r= self.append_row(kor=bubb.raw_text, page=pg, bubble=bubb)
+				if mtl: r.eng.text= MTL.getTranslation(bubb.raw_text)
+
 				self.pages_bubbles_rows.append({"bubble": bubb, "row": r, "page": pg})
 
 	@property

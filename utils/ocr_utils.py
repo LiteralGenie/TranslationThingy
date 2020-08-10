@@ -11,6 +11,7 @@ class api(abc.ABC):
 	@classmethod
 	def ocr(cls, image_path, online=True, name=None, verbose=True):
 		if not name: name= os.path.basename(image_path).split(".")[0]
+
 		outFile= utils.OCR_DIR + str(name.lower()) + ".json"
 
 		if os.path.exists(outFile):

@@ -1,33 +1,34 @@
 import kivy_utils # call builder for below classes
 from kivy.graphics import Line, Color
+from kivy.clock import Clock
 from kivy.uix.scrollview import ScrollView
 from kivy.uix.image import AsyncImage
 from kivy.properties import ObjectProperty, NumericProperty
 from utils.page_utils import Page
 
-import cv2, glob, utils
+import cv2, glob, utils, functools, math
 
 
 class Viewer(ScrollView):
 	layout = ObjectProperty()
 	overlay= ObjectProperty()
 
-	def build(self, glob_dir=None, chap_num=None, series="Knight"):
+	def build(self, glob_dir=None, chap_num=None, series="Knight", hidden=True):
 		self.im_paths = []
 		self.pages= []
 		self.im_heights= []
 
-		if glob_dir: self.load_images(glob.glob(glob_dir), chap_num=chap_num, series=series)
+		if glob_dir: self.load_images(glob.glob(glob_dir), chap_num=chap_num, series=series, hidden=hidden)
 
 		return self
 
-	def load_images(self, im_paths, chap_num=None, series=None):
+	def load_images(self, im_paths, chap_num=None, series=None, hidden=True):
 		self.im_paths= im_paths
 
 		for i, p in enumerate(im_paths):
 			pg= ImPage().build(overlay_canvas=self.layout.canvas,
 			                   im_path=p,
-			                   page_index=i + 2,
+			                   page_index=i + 1,
 			                   series=series,
 			                   chap_num=chap_num)
 
@@ -40,8 +41,10 @@ class Viewer(ScrollView):
 		w= self.bar_width + max([ x.width for x in self.pages ])
 		self.width= self.layout.width= w
 
-		for i,pg in enumerate(self.pages):
-			pg.load_rects()
+		# initial pos are 0,0 until next clock cycle
+		def tmp(page, dt): page.load_rects(hidden=hidden) # discard dt
+		for pg in self.pages:
+			Clock.schedule_once(functools.partial(tmp, pg), 0)
 
 		return self
 
@@ -92,16 +95,25 @@ class LineBox(Line):
 		super().__init__(**kwargs)
 		self.width= self.LINE_WIDTH
 
-	def from_bubble(self, impage, bubble, hidden=True):
+	def from_bubble(self, impage, bubble, hidden=True, padding=None):
 		bbox= bubble.bbox
 
 		# kivy origin is at bottom left. cv2 origin is at top left.
 		self.pos= [bbox['x'], impage.height-bbox['y']+impage.pos[1]]
 		self.size= [bbox['w'], -bbox['h']]
-		self.rectangle= self.pos + self.size
+		self.bubble= bubble
 
+		# padding
+		if padding is None:
+			tmp= [abs(bbox['w']), abs(bbox['h'])]
+			padding= int(min(tmp) / 7)
+
+		size_sign= [abs(self.size[0]) // self.size[0] , abs(self.size[1]) // self.size[1]]
+		self.pos= (-padding + self.pos[0], padding+self.pos[1])
+		self.size= (size_sign[0]*padding*2 + self.size[0], size_sign[1]*padding*2 + self.size[1])
+
+		self.rectangle= self.pos + self.size
 		if hidden: self.hide()
-		print(f'drawing page {impage.page.page_num} at {bbox} = {self.pos + self.size}')
 		return self
 
 	def hide(self): self.rectangle= self.pos + [0,0]
@@ -114,15 +126,16 @@ if __name__ == "__main__":
 	from kivy.uix.boxlayout import BoxLayout
 
 	glob_dir = r"C:\scans\Knight Run\225\wr*.png"
-
+	chap_num= 225
 
 	class TestApp(App):
 		def build(self):
 			self.root = BoxLayout()
 
-			viewer = Viewer().build(glob_dir=glob_dir, chap_num=1, series="knight")
-
+			viewer = Viewer()
 			self.root.add_widget(viewer)
+			viewer.build(glob_dir=glob_dir, chap_num=chap_num, series="knight", hidden=False)
+
 			return self.root
 
 
