@@ -1,5 +1,6 @@
-import warnings, kivy_utils, numpy as np
+import warnings, kivy_utils, numpy as np, functools
 from kivy.app import App
+from kivy.clock import Clock
 
 
 # move clicked row into view
@@ -29,23 +30,32 @@ def highlight_on_focus(row, padding=None):
 	root= App.get_running_app()
 
 	for im_pg in root.viewer.im_pages:
-		for rect in im_pg.rects:
-			if rect.bubble == row.bubble:
-				rect.show()
+		for box in im_pg.boxes: # grp is InstructionGroup
+			if box.bubble is row.bubble:
+
+				# cancel old fade
+				if root.focused['fade'] is not None:
+					root.focused['fade'].cancel()
+					root.focused['fade']= None
+
+				root.focused['rect'].color.rgba[3]= 1
+				root.focused['rect'].from_bubble(im_pg, box.bubble, hidden=False)
+				root.focused['fade']= Clock.schedule_once(functools.partial(fade), 0)
 				return
 
 	return
-	remove_box()
 
+def fade(dt, diff=0.03, stop=0.05, delay=0.1):
 	root= App.get_running_app()
-	page= row.page
-	bubble= row.bubble
+	color= root.focused['rect'].color
 
-	# Draw bounding box
-	draw_box(page=page, bubble=bubble,
-			 viewer=root.viewer, bubbBox=root.bubbBox,
-			 padding=padding)
-
+	if color.rgba[3] > stop:
+		color.rgba[3]-= diff
+		Clock.schedule_once(functools.partial(fade), delay)
+		print("fading", color.rgba)
+	else:
+		color.rgba[3]= 0
+		root.focused['fade']= None
 
 def draw_box(page, bubble, viewer, bubbBox, padding=None):
 	bbox= bubble.bbox
@@ -79,5 +89,5 @@ def draw_box(page, bubble, viewer, bubbBox, padding=None):
 	bubbBox.rectangle= pos + size
 
 # remove highlight on scroll
-def remove_box(*args):
+def unfocus(*args):
 	App.get_running_app().bubbBox.rectangle= (0,)*4

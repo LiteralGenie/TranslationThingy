@@ -67,7 +67,7 @@ def get_bbox(bbox_data):
 	ret['y']= min([x['y'] for x in bbox_data] + [x['y'] + x['h'] for x in bbox_data])
 
 	ret['w']= -ret['x'] + max([x['x'] for x in bbox_data] + [x['x'] + x['w'] for x in bbox_data])
-	ret['y']= -ret['y'] + max([x['y'] for x in bbox_data] + [x['y'] + x['h'] for x in bbox_data])
+	ret['h']= -ret['y'] + max([x['y'] for x in bbox_data] + [x['y'] + x['h'] for x in bbox_data])
 
 	return ret
 

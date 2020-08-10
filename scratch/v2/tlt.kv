@@ -2,8 +2,12 @@
 #: import TranslationTable kivy_utils.TranslationTable
 #: import VocabPanel kivy_utils.VocabPanel
 
+#:set FOCUS_BOX_COLOR [0.5,0,0.5, 1]
+
 BoxLayout:
     orientation: "horizontal"
+
+    focus_box_color: FOCUS_BOX_COLOR
 
     Viewer:
         id: viewer

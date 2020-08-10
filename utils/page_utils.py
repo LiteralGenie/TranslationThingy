@@ -34,6 +34,8 @@ class Page:
 			text= " ".join([word for word,wordBox in line])
 			self.bubbles.append(Bubble(raw_text=text, word_data=line, bbox=lb))
 
+		for x in self.bubbles: x.stitch_words()
+
 		return self
 
 	def __eq__(self, other):
@@ -49,11 +51,6 @@ class Bubble:
 		self.bbox= bbox
 		self.raw_text= raw_text
 		self.word_data= word_data
-
-	def __eq__(self, other):
-		text_check= self.raw_text == other.raw_text
-		bbox_check= self.bbox == other.bbox
-		return text_check == bbox_check
 
 	def __str__(self):
 		return f"{self.raw_text}"

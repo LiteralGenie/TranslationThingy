@@ -13,80 +13,64 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.base import EventLoop
 import kivy_utils
 
+from kivy.app import App
+from kivy.uix.widget import Widget
+from kivy.properties import ListProperty, NumericProperty
+from kivy.graphics import *
+from kivy.uix.button import Button
+from kivy.clock import Clock
+
+import functools
+
 kv = """
-<InOne>:
-	text: "one"
-
-<InTwo>:
-	text: "two"
-
-<Test>:
-	orientation: "vertical"	
+<MyWidget>:
 """
 Builder.load_string(kv)
 
-class InOne(TextInput):
-	pass
+class TestGroup(InstructionGroup):
+	def __init__(self, rgba, **kwargs):
+		super().__init__(**kwargs)
+		self.color= Color(rgba=rgba)
+		self.line= Line(points=[0,0,500,500], width=20)
 
-class InTwo(TextInput):
-	pass
+		self.add(self.color)
+		self.add(self.line)
 
-class Test(BoxLayout):
+class MyWidget(Widget):
 	def populate(self):
-		self.add_widget(InOne())
-		self.add_widget(InTwo())
-		return self
+		# blue line
+		self.blue_grp= TestGroup(rgba=[0,0,1, 0.5])
+		self.canvas.add(self.blue_grp)
 
-class TestApp(App):
-	def build(self):
-		self.root= Test().populate()
-		return self.root
+		# red overlay for line
+		self.overlay_grp= TestGroup(rgba=[1,0,0, 0])
+		self.canvas.add(self.overlay_grp)
 
-from kivy.uix.label import Label
-from kivy.uix.textinput import TextInput
-from kivy.uix.recycleview import RecycleView
+		# button to trigger / fade overlay
+		button= Button(text="Begin Fade")
 
-from kivy.uix.tabbedpanel import TabbedPanel
-from kivy.uix.tabbedpanel import TabbedPanelItem
-from kivy.graphics.opengl_utils import gl_register_get_size
-import cv2
+		def start(instance):
+			overlay_color= instance.parent.overlay_grp.color
+			overlay_color.rgba[3]= 1
+			Clock.schedule_once(functools.partial(fade, overlay_color), 0)
 
-kv = """
-<Test>: # BoxLayout
-	layout: layout
-	
-	RecycleView:
-		height: 1000
-		BoxLayout:
-			id: layout
-			orientation: "vertical"
-			size_hint_y: None
-			height: 1000
-			
-<Label>:
-	height: 100            
-"""
-Builder.load_string(kv)
+		# decrement alpha by 2% every 0.1s until a certain threshold
+		def fade(color, dt):
+			if color.rgba[3] > 0.05:
+				color.rgba[3]-= 0.02
+				Clock.schedule_once(functools.partial(fade, color), 0.1)
+				print("alpha:", round(color.rgba[3],3))
+			else: color.rgba[3]= 0
 
-class Test(BoxLayout):
-	layout= ObjectProperty()
-
-	def populate(self, num=2):
-		for i in range(1,num+1):
-			# label= Label(text=f"Label {i}")
-			label= AsyncImage(source=r"C:\Users\Anne\PycharmProjects\KRR/gralb.png")
-
-			with label.canvas:
-				Color(1,0,0, 1)
-				Line(points=[100*i,200*i, 300*i,400*i], width=5)
-			self.layout.add_widget(label)
+		button.bind(on_press=start)
+		self.add_widget(button)
 
 		return self
 
 class TestApp(App):
 	def build(self):
-		self.root= Test().populate(num=5)
-		return self.root
+		return MyWidget().populate()
 
 if __name__ == '__main__':
-	TestApp().run()
+	a=TestApp()
+	a.run()

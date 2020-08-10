@@ -23,7 +23,7 @@ def hotfix(text):
 	return ret
 
 d= 0.5
-def getTranslation(query, delay=0.5, headless=True, maxTries=20, verbose=False):
+def getTranslation(query, delay=0.5, headless=True, maxTries=20, verbose=True):
 	if not query: return ""
 	query= hotfix(query)
 
