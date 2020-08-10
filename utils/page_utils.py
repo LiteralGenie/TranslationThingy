@@ -1,5 +1,6 @@
 import cv2, glob
 from utils.ocr_utils import gapi as api
+import utils.stitch_utils as stitch_utils
 
 # Zero-indexed!!!!!!!
 class Page:
@@ -56,3 +57,9 @@ class Bubble:
 
 	def __str__(self):
 		return f"{self.raw_text}"
+
+	def stitch_words(self):
+		self.word_data= stitch_utils.stitch_words(self.word_data)
+		self.raw_text= " ".join(x[0] for x in self.word_data)
+		self.bbox= stitch_utils.get_bbox([x[1] for x in self.word_data])
+		return self
