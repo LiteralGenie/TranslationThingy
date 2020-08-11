@@ -65,6 +65,7 @@ class TltApp(App):
 	def populate_events(self):
 		self.tl_table.on_focus.append(events.highlight_on_focus)
 		self.tl_table.on_double_click.append(events.scroll_on_table_double_click)
+		self.viewer.on_double_click.append(events.scroll_on_bubble_double_click)
 		return self
 
 

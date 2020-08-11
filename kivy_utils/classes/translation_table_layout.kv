@@ -1,6 +1,10 @@
 #: import FONT_PATH_1 utils.FONT_PATH_1
 #: import ScrollEffect kivy.effects.scroll.ScrollEffect
 
+#: set FOCUS_COLOR [1,0,0,1]
+#: set FADE_TIME 2
+#: set FADE_CYCLES 3
+
 <Row>: # BoxLayout
     height: self.minimum_height
     orientation: "horizontal"
@@ -9,6 +13,7 @@
     num: num
     kor: kor
     eng: eng
+
 
     RowLabel:
         id: num
@@ -72,6 +77,10 @@
     text_language: "en_us"
     halign: "center"
     valign: "middle"
+
+    focus_color: FOCUS_COLOR
+    fade_time: FADE_TIME
+    fade_cycles: FADE_CYCLES
 
 <HeaderLabel>:
     text_language: "en_us"

@@ -36,16 +36,20 @@ class Viewer(ScrollView):
 
 		# draw bbox for each bubble
 		# note: initial impage.pos are 0,0 until next clock cycle
-		def tmp(page, dt): page.load_rects(hidden=hidden) # discard dt
+		def tmp(page, dt): page.load_boxes(hidden=hidden) # discard dt
 		for pg in self.im_pages:
 			Clock.schedule_once(functools.partial(tmp, pg), 0)
 
 		return self
 
+	@property
+	def on_double_click(self): return ImPage.on_double_click
+
 
 class ImPage(AsyncImage):
+	on_double_click= []
+
 	page = ObjectProperty()
-	rects = ObjectProperty()
 	line_box_color= ListProperty()
 	line_width= NumericProperty()
 	focus_box_color= ListProperty()
@@ -64,7 +68,7 @@ class ImPage(AsyncImage):
 
 		return self
 
-	def load_rects(self, hidden=True):
+	def load_boxes(self, hidden=True):
 		self.boxes= []
 
 		for bubb in self.page.bubbles:
@@ -73,6 +77,20 @@ class ImPage(AsyncImage):
 			self.boxes.append(box)
 
 		return self
+
+	# click events
+	def on_touch_down(self, touch):
+		if touch.button == "left" and touch.is_double_tap:
+			for b in self.boxes:
+				x_bnds= [b.pos[0], b.pos[0]+b.size[0]]
+				y_bnds= [b.pos[1], b.pos[1]+b.size[1]]
+				x_bnds.sort(), y_bnds.sort()
+
+				if x_bnds[0] <= touch.pos[0] <= x_bnds[1] \
+					and y_bnds[0] <= touch.pos[1] <= y_bnds[1]:
+					for func in ImPage.on_double_click: func(b)
+
+		return super().on_touch_down(touch)
 
 	@classmethod
 	def _disable_interplotation(cls, image, texture):
