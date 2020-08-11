@@ -24,49 +24,42 @@ from kivy.clock import Clock
 import functools
 
 kv = """
-<MyWidget>:
+<Test>:
+    size_hint: (None,None)
+    orientation: "vertical"
+    height: self.minimum_height    
+    
+<Row>:
+	orientation: "horizontal"
+	temp: max(t1.minimum_height, t2.minimum_height)
+	size_hint: (None,None)
+	height: self.minimum_height
+	
+	TextInput:
+		id: t1
+		text: "left"
+		size_hint: (None,None)
+		height: max(self.minimum_height, self.parent.temp)
+		
+	TextInput:
+		id: t2
+		text: "right"
+		size_hint: (None,None)
+		height: max(self.minimum_height, self.parent.temp)
 """
+
 Builder.load_string(kv)
 
-class TestGroup(InstructionGroup):
-	def __init__(self, rgba, **kwargs):
-		super().__init__(**kwargs)
-		self.color= Color(rgba=rgba)
-		self.line= Line(points=[0,0,500,500], width=20)
+class Row(BoxLayout): pass
 
-		self.add(self.color)
-		self.add(self.line)
-
-class MyWidget(Widget):
+class Test(BoxLayout):
 	def populate(self):
-		# blue line
-		self.blue_grp= TestGroup(rgba=[1,0,0, 0.3])
-		self.canvas.add(self.blue_grp)
-
-		# red overlay for line
-		# self.overlay_grp= TestGroup(rgba=[1,0,0, 0])
-		# self.canvas.add(self.overlay_grp)
-
-		# button to trigger / fade overlay
-		button= Button(text="Begin Fade")
-
-		anim= Animation(r=1, g=0, b=0, a=0.3, duration=1)
-
-		def start(instance):
-			instance.parent.blue_grp.color.rgba= [1,.5,.5,1]
-			anim.start(instance.parent.blue_grp.color)
-			# overlay_color= instance.parent.overlay_grp.color
-			# overlay_color.rgba[3]= 1
-			# Clock.schedule_once(functools.partial(fade, overlay_color), 0)
-
-		button.bind(on_press=start)
-		self.add_widget(button)
-
+		for i in range(2): self.add_widget(Row())
 		return self
 
 class TestApp(App):
 	def build(self):
-		return MyWidget().populate()
+		return Test().populate()
 
 if __name__ == '__main__':
 	a=TestApp()

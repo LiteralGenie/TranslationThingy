@@ -48,8 +48,14 @@ def highlight_on_focus(row, padding=None):
 	for im_pg in app.viewer.im_pages:
 		for box in im_pg.boxes: # grp is InstructionGroup
 			if box.bubble is row.bubble:
-				Animation.cancel_all(box.color)
+				Animation.stop_all(box.color)
 				anim= get_fade_animation(im_pg)
+
+				if box.hidden:
+					box.show()
+					def hide(*args): box.hide()
+					anim.bind(on_complete=hide)
+
 				anim.start(box.color)
 				return
 

@@ -2,8 +2,23 @@
 #: import ScrollEffect kivy.effects.scroll.ScrollEffect
 
 <Row>: # BoxLayout
-    height: 100
+    height: self.minimum_height
     orientation: "horizontal"
+    size_hint_y: None
+
+    num: num
+    kor: kor
+    eng: eng
+
+    RowLabel:
+        id: num
+        text: str(self.parent.row_index)
+    KorInput:
+        id: kor
+        height: max(self.minimum_height, eng.minimum_height)
+    EngInput:
+        id: eng
+        height: max(self.minimum_height, kor.minimum_height)
 
 <TranslationTable>: # ScrollView
     layout: layout
@@ -22,7 +37,7 @@
 
     BoxLayout:
         size_hint: 1, None
-        height: root.row_height*len(root.rows)
+        height: self.minimum_height
         id: layout
         orientation: "vertical"
 
@@ -30,6 +45,8 @@
         BoxLayout:
             id: header
             orientation: "horizontal"
+            size_hint_y: None
+            height: 50
 
             RowLabel:
                 text: ""

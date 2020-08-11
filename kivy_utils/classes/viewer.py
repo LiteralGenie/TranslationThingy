@@ -82,7 +82,6 @@ class ImPage(AsyncImage):
 
 
 class LineBox(InstructionGroup):
-	has_focus= False
 	LINE_WIDTH= None
 
 	def __init__(self, color, **kwargs):
@@ -93,6 +92,8 @@ class LineBox(InstructionGroup):
 
 		self.box= Line(width= self.LINE_WIDTH)
 		self.add(self.box)
+
+		self.hidden= False
 
 	def from_bubble(self, impage, bubble, hidden=True, padding=None):
 		bbox= bubble.bbox
@@ -115,8 +116,8 @@ class LineBox(InstructionGroup):
 		if hidden: self.hide()
 		return self
 
-	def hide(self): self.box.rectangle= self.pos + [0,0]
-	def show(self): self.box.rectangle= self.pos + self.size
+	def hide(self): self.box.rectangle= self.pos + [0,0]; self.hidden= True
+	def show(self): self.box.rectangle= self.pos + self.size; self.hidden= False
 
 
 if __name__ == "__main__":

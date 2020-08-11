@@ -12,16 +12,15 @@ class Row(BoxLayout):
 	on_focus= [] # @TODO: rename on_focus to on_click
 	on_double_click= []
 
+	num= ObjectProperty(); kor= ObjectProperty(); eng= ObjectProperty()
+	row_index= NumericProperty(1)
+
 	def build(self, row_index, kor="", eng="", page=None, bubble=None):
 		self.row_index= int(row_index) # Row Index @TODO: prevent duplicate indices?
 
-		self.num= RowLabel(text=str(self.row_index)) # Label for row number (1-indexed, ignoring header row)
-		self.kor= KorInput(text=kor) # TextInput for Korean
-		self.eng= EngInput(text=eng) # TextInput for English
-
-		self.add_widget(self.num)
-		self.add_widget(self.kor)
-		self.add_widget(self.eng)
+		self.num.text= str(self.row_index) # Label for row number (1-indexed, ignoring header row)
+		self.kor.text= kor # TextInput for Korean
+		self.eng.text= eng # TextInput for English
 
 		self.page= page
 		self.bubble= bubble

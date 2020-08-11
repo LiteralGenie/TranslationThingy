@@ -60,7 +60,7 @@ class TltApp(App):
 			])
 
 	def populate_viewer(self):
-		self.viewer= self.root.ids.viewer.build(self.pages, hidden=False)
+		self.viewer= self.root.ids.viewer.build(self.pages, hidden=True)
 
 	def populate_events(self):
 		self.tl_table.on_focus.append(events.highlight_on_focus)

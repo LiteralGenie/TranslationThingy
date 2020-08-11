@@ -4,7 +4,7 @@ import glob, os
 
 seriesDir= r"C:\scans\Knight Run/"
 # chapDir= list([str(x) for x in range(220,250)])
-chapDir= ["216"]
+chapDir= ["221"]
 
 for chapNum in chapDir:
 	wordCount= 0
@@ -16,7 +16,7 @@ for chapNum in chapDir:
 		ocr= api.ocr(imPath, name=f"Knight_{chapNum}-{pageNum}")
 		for bubble, _ in ocr:
 			for word,__ in bubble:
-				search= endic.search(word)
+				pass # search= endic.search(word)
 
 			block= " ".join([x[0] for x in bubble])
 
