@@ -4,11 +4,11 @@ from kivy.properties import ObjectProperty, ListProperty, StringProperty
 from kivy.graphics import Color, Line
 from kivy.lang import Builder
 from kivy.clock import Clock
+from kivy.animation import Animation
 
 import utils, kivy_utils
-from kivy_utils.classes.viewer import LineBox
 from utils.page_utils import Page, Bubble
-from scratch.v2.tlt_events import highlight_on_focus, scroll_on_double_click, unfocus # @TODO: fix temporary import
+import scratch.v2.tlt_events as events # @TODO: fix temporary import
 
 Config.set('kivy', 'log_level', 'debug')
 
@@ -38,6 +38,8 @@ class TltApp(App):
 		print("populating vocab")
 		self.populate_vocab()
 
+		self.populate_events()
+
 		return self.root
 
 	def populate_table(self):
@@ -46,10 +48,6 @@ class TltApp(App):
 
 		# table data
 		self.tl_table.populate_from_pages(self.pages, mtl=True)
-
-		# events
-		self.tl_table.on_focus.append(highlight_on_focus)
-		self.tl_table.on_double_click.append(scroll_on_double_click)
 
 	def populate_vocab(self):
 		self.vocab_panel= self.root.ids.vocab_panel.build()
@@ -64,13 +62,10 @@ class TltApp(App):
 	def populate_viewer(self):
 		self.viewer= self.root.ids.viewer.build(self.pages, hidden=False)
 
-		# higlight box
-		rect= LineBox(color=self.root.focus_box_color)
-		self.focused= { "rect": rect, "bubble": None, "fade": None }
-		self.viewer.layout.canvas.after.add(rect)
-
-		# remove highlight box on scroll
-		# self.viewer.fbind('on_scroll_stop', unfocus)
+	def populate_events(self):
+		self.tl_table.on_focus.append(events.highlight_on_focus)
+		self.tl_table.on_double_click.append(events.scroll_on_table_double_click)
+		return self
 
 
 if __name__ == "__main__":

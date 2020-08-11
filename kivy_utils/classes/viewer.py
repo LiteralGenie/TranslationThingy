@@ -48,6 +48,9 @@ class ImPage(AsyncImage):
 	rects = ObjectProperty()
 	line_box_color= ListProperty()
 	line_width= NumericProperty()
+	focus_box_color= ListProperty()
+	fade_time= NumericProperty()
+	fade_cycles= NumericProperty(1)
 
 	def build(self, page, im_path, page_index):
 		im = cv2.imread(im_path)

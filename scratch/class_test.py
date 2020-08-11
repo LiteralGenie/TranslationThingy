@@ -9,6 +9,7 @@ Config.set('kivy', 'log_level', 'debug')
 from kivy.graphics import Color, Line
 from kivy.app import App
 from kivy.lang import Builder
+from kivy.animation import Animation
 from kivy.uix.boxlayout import BoxLayout
 from kivy.base import EventLoop
 import kivy_utils
@@ -39,28 +40,24 @@ class TestGroup(InstructionGroup):
 class MyWidget(Widget):
 	def populate(self):
 		# blue line
-		self.blue_grp= TestGroup(rgba=[0,0,1, 0.5])
+		self.blue_grp= TestGroup(rgba=[1,0,0, 0.3])
 		self.canvas.add(self.blue_grp)
 
 		# red overlay for line
-		self.overlay_grp= TestGroup(rgba=[1,0,0, 0])
-		self.canvas.add(self.overlay_grp)
+		# self.overlay_grp= TestGroup(rgba=[1,0,0, 0])
+		# self.canvas.add(self.overlay_grp)
 
 		# button to trigger / fade overlay
 		button= Button(text="Begin Fade")
 
-		def start(instance):
-			overlay_color= instance.parent.overlay_grp.color
-			overlay_color.rgba[3]= 1
-			Clock.schedule_once(functools.partial(fade, overlay_color), 0)
+		anim= Animation(r=1, g=0, b=0, a=0.3, duration=1)
 
-		# decrement alpha by 2% every 0.1s until a certain threshold
-		def fade(color, dt):
-			if color.rgba[3] > 0.05:
-				color.rgba[3]-= 0.02
-				Clock.schedule_once(functools.partial(fade, color), 0.1)
-				print("alpha:", round(color.rgba[3],3))
-			else: color.rgba[3]= 0
+		def start(instance):
+			instance.parent.blue_grp.color.rgba= [1,.5,.5,1]
+			anim.start(instance.parent.blue_grp.color)
+			# overlay_color= instance.parent.overlay_grp.color
+			# overlay_color.rgba[3]= 1
+			# Clock.schedule_once(functools.partial(fade, overlay_color), 0)
 
 		button.bind(on_press=start)
 		self.add_widget(button)

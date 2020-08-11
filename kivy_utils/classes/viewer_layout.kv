@@ -2,8 +2,13 @@
 
 #:set SCROLL_BAR_WIDTH 20
 #:set SCROLL_BAR_MARGIN 2
+
 #:set LINE_BOX_COLOR [1,0,0, 0.3]
 #:set LINE_WIDTH 3
+
+#:set FOCUS_BOX_COLOR [1,.2,.2, 1]
+#:set FADE_TIME 0.75
+#:set FADE_CYCLES 3
 
 <Viewer>:  # ScrollView
     id: viewer
@@ -33,6 +38,9 @@
     size_hint: (None,None)
     line_box_color: LINE_BOX_COLOR
     line_width: LINE_WIDTH
+    focus_box_color: FOCUS_BOX_COLOR
+    fade_time: FADE_TIME
+    fade_cycles: FADE_CYCLES
 
 
 # Line is an instruction, not widget lol.

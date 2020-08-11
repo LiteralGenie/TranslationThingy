@@ -1,92 +1,61 @@
-import warnings, kivy_utils, numpy as np, functools
 from kivy.app import App
 from kivy.clock import Clock
+from kivy.graphics import Color
+from kivy.animation import Animation
 
+from kivy_utils.classes.viewer import ImPage
+import warnings, kivy_utils, numpy as np, functools
+
+def to_color_dict(rgba):
+	return dict(r=rgba[0], g=rgba[1], b=rgba[2], a=rgba[3])
+
+def get_fade_animation(im_pg):
+	def to_focus(): return Animation(**to_color_dict(im_pg.focus_box_color), duration=im_pg.fade_time)
+	def to_normal(): return Animation(**to_color_dict(im_pg.line_box_color), duration=im_pg.fade_time)
+
+	anim= to_focus() + to_normal()
+	for x in range(im_pg.fade_cycles-1):
+		anim+= to_focus() + to_normal()
+
+	return anim
 
 # move clicked row into view
-def scroll_on_double_click(row, margin_ratio=0.1, padding=None):
-	root= App.get_running_app()
+def scroll_on_table_double_click(row, margin_ratio=0.1, padding=None):
+	app= App.get_running_app()
 
 	page= row.page
 	bubble= row.bubble
 	if page is None or bubble is None: return
 
 	tmp= page.page_num
-	target_y= sum(root.viewer.im_heights[:tmp-1])
+	target_y= sum(app.viewer.im_heights[:tmp-1])
 	target_y+= bubble.bbox['y'] + int(bubble.bbox['h']/2)
 
-	scrollable_dist= sum(root.viewer.im_heights) - root.viewer.height
+	scrollable_dist= sum(app.viewer.im_heights) - app.viewer.height
 
-	target_y-= margin_ratio * root.viewer.height # padding
+	target_y-= margin_ratio * app.viewer.height # padding
 	target_y= max(0, target_y)
 	target_scroll= target_y / scrollable_dist
 
-	root.viewer.scroll_y= 1-target_scroll
+	app.viewer.scroll_y= 1-target_scroll
 	highlight_on_focus(row, padding=padding)
 
 
 # draw border around text in image when table row focused
 def highlight_on_focus(row, padding=None):
-	root= App.get_running_app()
+	app= App.get_running_app()
 
-	for im_pg in root.viewer.im_pages:
+	for im_pg in app.viewer.im_pages:
 		for box in im_pg.boxes: # grp is InstructionGroup
 			if box.bubble is row.bubble:
-
-				# cancel old fade
-				if root.focused['fade'] is not None:
-					root.focused['fade'].cancel()
-					root.focused['fade']= None
-
-				root.focused['rect'].color.rgba[3]= 1
-				root.focused['rect'].from_bubble(im_pg, box.bubble, hidden=False)
-				root.focused['fade']= Clock.schedule_once(functools.partial(fade), 0)
+				Animation.cancel_all(box.color)
+				anim= get_fade_animation(im_pg)
+				anim.start(box.color)
 				return
 
 	return
 
-def fade(dt, diff=0.03, stop=0.05, delay=0.1):
-	root= App.get_running_app()
-	color= root.focused['rect'].color
 
-	if color.rgba[3] > stop:
-		color.rgba[3]-= diff
-		Clock.schedule_once(functools.partial(fade), delay)
-		print("fading", color.rgba)
-	else:
-		color.rgba[3]= 0
-		root.focused['fade']= None
-
-def draw_box(page, bubble, viewer, bubbBox, padding=None):
-	bbox= bubble.bbox
-	pos= [bbox['x'], bbox['y']]
-	size= [bbox['w'], bbox['h']]
-
-	# Get visible page data
-	visible_pages= kivy_utils.get_visible_page_heights(viewer=viewer)
-	if not any([x['index'] == page.page_num for x in visible_pages]):
-		return # bbox not on visible pages
-
-	for x in visible_pages:
-		if x['index'] != page.page_num:
-			pos[1]+= x['end']-x['start'] # earlier pages shift bbox down
-		else:
-			pos[1]-= x['start'] # container page may be cut off at top, in which case, shift bbox up
-			break
-
-	# Flip y
-	pos[1]= viewer.height - pos[1]
-	size[1]= -size[1]
-
-	# Padding
-	if padding is None:
-		tmp= [abs(bbox['w']), abs(bbox['h'])]
-		padding= int(min(tmp) / 7)
-
-	pos= (-padding + pos[0], padding+pos[1])
-	size= (np.sign(size[0])*padding*2 + size[0], np.sign(size[1])*padding*2 + size[1])
-
-	bubbBox.rectangle= pos + size
 
 # remove highlight on scroll
 def unfocus(*args):
