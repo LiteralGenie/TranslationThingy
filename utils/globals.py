@@ -5,7 +5,6 @@ ROOT_DIR= str(pathlib.Path(__file__).parent.parent) + "/"
 
 
 DATA_DIR= ROOT_DIR + "data/"
-KIVY_UTILS_DIR= ROOT_DIR + "kivy_utils/"
 CONFIG_DIR= ROOT_DIR + "config/"
 
 
@@ -16,7 +15,8 @@ PAPAGO_CACHE= DATA_DIR + "papago.json"
 
 
 CONFIG= loadJson(CONFIG_DIR + "config.json")
-FONT_PATH_1= FONT_DIR + CONFIG['font_1']
+FONT_1_REGULAR= FONT_DIR + CONFIG['font_1_regular']
+FONT_1_BOLD= FONT_DIR + CONFIG['font_1_bold']
 
 
-KIVY_CLASS_DIR= KIVY_UTILS_DIR + "classes/"
+KIVY_CLASS_DIR= "classes/"

@@ -1,3 +1,4 @@
 {
-  "font_1": "NotoSansKR-Regular.otf"
+  "font_1_regular": "NotoSansKR-Regular.otf",
+  "font_1_bold": "NotoSansKR-Black.otf"
 }

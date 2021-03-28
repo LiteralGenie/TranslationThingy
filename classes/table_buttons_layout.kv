@@ -1,0 +1,22 @@
+<TableButtons>: # Box Layout
+    size_hint_y: 0.1
+    size_hint_x: 1
+    orientation: "horizontal"
+    padding: [0,5,0,0]
+
+    toggle_box_button: toggle_box_button
+    toggle_scroll: toggle_scroll
+
+    Label:
+    TblButt:
+        id: toggle_box_button
+        text: "Toggle\nBoxes"
+
+    TblButt:
+        id: toggle_scroll
+        text: "Toggle\nScroll Link"
+
+
+<TblButt@ToggleButton>:
+    size_hint_x: 0.1
+    halign: "center"

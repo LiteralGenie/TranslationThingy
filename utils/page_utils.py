@@ -15,6 +15,7 @@ class Page:
 
 		self.bubbles= []
 
+	# chap_num and series can be any identifier but glob_dir should refer to an actual set of images
 	@classmethod
 	def load_pages(cls, series, chap_num, glob_dir):
 		ret= []
@@ -41,8 +42,13 @@ class Page:
 	def __eq__(self, other):
 		all([x == y for x,y in zip(self.bubbles,other.bubbles)])
 
+	def __str__(self):
+		return f"Series [{self.series}] - Chapter [{self.chap_num}] - Page [{self.page_num}]"
+
 
 class Bubble:
+	_count= 0
+
 	def __init__(self, raw_text, bbox, word_data=None):
 		"""
 		:param bbox: dict(left, top, width, height) relative to top-left corner of page
@@ -51,6 +57,10 @@ class Bubble:
 		self.bbox= bbox
 		self.raw_text= raw_text
 		self.word_data= word_data
+
+		self.num= Bubble._count
+		Bubble._count+= 1
+
 
 	def __str__(self):
 		return f"{self.raw_text}"

@@ -50,7 +50,7 @@ class api(abc.ABC):
 	def _clean(text):
 		ret= text
 		subs= {
-			"regex": { "chars": [r"[^\w\.',?!<>]"], "reps": [""] },
+			"regex": { "chars": [r"[^\w',?!<>]"], "reps": [""] },
 			"unicode": {"chars": [r"\u"], "reps": ["&#x"]}
 		}
 		for group in subs:

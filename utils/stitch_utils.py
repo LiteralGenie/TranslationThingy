@@ -21,15 +21,21 @@ def _stitch_y(bubble_data):
 			bnds= _get_y_bounds(data[i][1])
 			overlap= _get_overlap(start_bounds, bnds)
 
-			if overlap > 0:
+			horiz_dist= [
+				_get_x_bounds(data[i][1])[0] - _get_x_bounds(data[i][1])[1],
+				_get_x_bounds(data[i][1])[1] - _get_x_bounds(data[i][1])[0]
+			 ]
+			if overlap > 0 and min(horiz_dist) < 5*start_word[1]['h']:
 				inds.append(i)
+			elif overlap > 0:
+				pass
 
 		lines.append([start_word] + [data[i] for i in inds])
 		for i in reversed(inds): data.pop(i)
 
 	return lines
 
-def _stitch_x(line_data, factor=7):
+def _stitch_x(line_data, factor=3.5):
 	data= copy.deepcopy(line_data)
 	words= []
 
@@ -62,6 +68,7 @@ def _stitch_x(line_data, factor=7):
 # Generate new bbox containing all bbox's in a list
 def get_bbox(bbox_data):
 	ret= dict(x=0,y=0,w=0,h=0)
+	if not bbox_data: return ret
 
 	ret['x']= min([x['x'] for x in bbox_data] + [x['x'] + x['w'] for x in bbox_data])
 	ret['y']= min([x['y'] for x in bbox_data] + [x['y'] + x['h'] for x in bbox_data])

@@ -1,0 +1,29 @@
+#: import Viewer classes.viewer
+#: import TranslationTable classes.TranslationTable
+#: import VocabPanel classes.VocabPanel
+#: import TableButtons classes.TableButtons
+
+BoxLayout:
+    orientation: "horizontal"
+
+    Viewer:
+        id: viewer
+        focus_box_color: FOCUS_BOX_COLOR
+    BoxLayout:
+        id: right_layout
+        orientation: "vertical"
+
+
+        BoxLayout:
+            orientation: "vertical"
+            padding: [10, 10, 0, 0]
+
+            TranslationTable:
+                id: tl_table
+
+            TableButtons:
+                id: tbl_buttons
+
+
+        VocabPanel:
+            id: vocab_panel

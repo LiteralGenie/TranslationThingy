@@ -76,6 +76,6 @@ def initDriver(headless=True):
 	from selenium.webdriver.chrome.options import Options
 	options = Options()
 	options.headless= headless
-	driver = webdriver.Chrome(executable_path=r'C:/Programming/KnightRunReader/data/chromedriver.exe', options=options)
+	driver = webdriver.Chrome(executable_path=r'C:\Programming\TranslationThingy\TranslationThingy\data\chromedriver.exe', options=options)
 
 	return driver
